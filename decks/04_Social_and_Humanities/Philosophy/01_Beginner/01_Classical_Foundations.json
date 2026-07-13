@@ -10,5 +10,32 @@
       "philosophy_path",
       "classical_foundations"
     ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+    "scenario": "Philosophy: The Socratic Method 🏛️",
+    "text": "The Socratic Method of cooperative argumentative dialogue is primarily used to stimulate critical thinking and expose contradictions in assumptions through {{c1::methodical questioning (Elenchus)}}.",
+    "explanation": "Socrates did not lecture; instead, he asked questions that forced his interlocutors to clarify their definitions and recognize the logical limits or contradictions in their beliefs.",
+    "usage": "Example Question: What is justice?<ul><li>The interlocutor provides a definition.</li><li>Socrates asks a counter-example question.</li><li>The interlocutor revises the definition.</li></ul>",
+    "spanish": "El método socrático de diálogo argumentativo cooperativo se utiliza principalmente para estimular el pensamiento crítico y exponer contradicciones en los supuestos mediante preguntas metódicas (Elenchus).",
+    "tags": [
+      "philosophy_path",
+      "classical_foundations",
+      "socrates",
+      "quiz"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+    "scenario": "Philosophy: Plato's Allegory of the Cave 🏛️",
+    "text": "Plato's Allegory of the Cave illustrates that humans mistake sensory appearances for reality, and that true knowledge is obtained only by escaping the cave to perceive the {{c1::Theory of Forms (Mundo de las Ideas)}}.",
+    "explanation": "The cave dwellers see only shadows cast on walls by a fire and believe the shadows are real objects. Escaping the cave represents the philosopher's journey of using reason to see the immutable, true essence (Forms) of reality.",
+    "usage": "Core teaching: The physical world is a shadow/copy; the world of Ideas is the ultimate, immutable truth.",
+    "spanish": "La alegoría de la cueva de Platón ilustra que los humanos confunden las apariencias sensoriales con la realidad, y que el conocimiento verdadero se obtiene únicamente al escapar de la cueva para percibir la Teoría de las Formas.",
+    "tags": [
+      "philosophy_path",
+      "classical_foundations",
+      "plato"
+    ]
   }
 ]

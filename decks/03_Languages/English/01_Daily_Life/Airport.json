@@ -11,5 +11,33 @@
       "intermediate",
       "airport"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English Phonetics: Airport Gate Connected Speech ✈️",
+    "text": "At the gate, the announcement \"We will begin boarding in ten minutes\" blends the last two words via consonant-to-consonant linking, making \"in ten\" sound like {{c1::\"int-ten\" [ɪnˈtɛn]}}.",
+    "explanation": "When a word ends in /n/ and the next begins with /t/, the alveolar nasal /n/ assimilates or links directly to the alveolar stop /t/ to allow smooth, rapid articulation, resulting in a single elongated nasal-to-stop transition.",
+    "usage": "Phonetic Drill: <code>in ten minutes</code> &rarr; \"in-ten\" [ɪnˈtɛn]<br>Contrastive Practice: Pronounce both 'n' and 't' as a single continuous block without a glottal pause.",
+    "spanish": "En la puerta, el anuncio \"We will begin boarding in ten minutes\" fusiona las últimas dos palabras mediante enlace consonante-consonante, haciendo que \"in ten\" suene como \"int-ten\".",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "phonetics",
+      "connected_speech"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English Daily Life: Airport Baggage Claim ✈️",
+    "text": "At the baggage claim desk, if your luggage is missing, you should report it politely saying: \"Excuse me, my bag {{c1::didn't come out}} on the carousel, and I'd like to {{c2::file a claim}}.\"",
+    "explanation": "To \"file a claim\" is the official terminology for registering a lost item report. Saying \"didn't come out\" is the natural phrasal expression for baggage that did not arrive.",
+    "usage": "Pattern: <code>file a claim / didn't come out on [carousel]</code><ul><li><code>I need to file a claim for my damaged baggage.</code></li><li><code>My suitcase didn't come out on carousel 4.</code></li></ul>",
+    "spanish": "En el mostrador de reclamo de equipaje, si tu maleta se perdió, debes reportarlo diciendo educadamente: \"Excuse me, my bag didn't come out on the carousel, and I'd like to file a claim.\"",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "conversation",
+      "vocabulary"
+    ]
   }
 ]

@@ -11,5 +11,33 @@
       "security",
       "reconnaissance"
     ]
+  },
+  {
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Reconnaissance::02_Reconnaissance",
+    "scenario": "Security: OS Fingerprinting 🔍",
+    "text": "To identify the operating system and running services of a target host, you perform an OS detection scan using Nmap with the {{c1::`-O` flag}}.",
+    "explanation": "OS detection (fingerprinting) works by sending a series of TCP and UDP packets to the target host and analyzing the responses (TCP window size, IP ID, TTL, TCP options), comparing them to a database of known signatures.",
+    "usage": "Nmap CLI Command: <code>nmap -O -sV <target_ip></code><br>Explanation: <code>-O</code> enables OS detection, and <code>-sV</code> detects service version information.",
+    "spanish": "Para identificar el sistema operativo y los servicios en ejecución de un host objetivo, realizas un escaneo de detección de SO usando Nmap con la opción -O.",
+    "tags": [
+      "security",
+      "reconnaissance",
+      "nmap",
+      "cli"
+    ]
+  },
+  {
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Reconnaissance::02_Reconnaissance",
+    "scenario": "Security: Stealth Scan 🔍",
+    "text": "To scan a target stealthily without sending packets from your own IP, you can use a zombie host to perform an {{c1::Idle Scan (-sI)}} by monitoring IP ID changes.",
+    "explanation": "An Idle Scan exploits a zombie host that has predictable IP ID increment behavior. By querying the zombie's IP ID, sending a spoofed SYN to the target, and querying the zombie again, the attacker infers if the target port is open based on whether the zombie's IP ID incremented by 1 or 2.",
+    "usage": "**Symptom**: Scanner IP is invisible in the target's firewall logs; instead, only zombie IP is logged.<br>**Root Cause**: Use of an idle scan exploiting a zombie host's predictable IP ID increment.<br>**Command**: <code>nmap -PN -sI <zombie_ip> <target_ip></code><br>**Remediation**: Configure firewalls to drop incoming packets with spoofed source IPs (unicast Reverse Path Verification - uRPF) and patch OS to use randomized IP IDs.",
+    "spanish": "Para escanear un objetivo sigilosamente sin enviar paquetes desde tu propia IP, puedes usar un host zombi para realizar un escaneo inactivo (Idle Scan) mediante el monitoreo de cambios en el IP ID.",
+    "tags": [
+      "security",
+      "reconnaissance",
+      "nmap",
+      "rca"
+    ]
   }
 ]

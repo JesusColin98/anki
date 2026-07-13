@@ -10,5 +10,33 @@
       "security",
       "defense_evasion"
     ]
+  },
+  {
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
+    "scenario": "Security: Evasion (Process Hollowing) 🛡️",
+    "text": "To execute covert code in a benign context, malware launches a system process in a suspended state, unmaps its memory, and writes a replacement payload; this is known as {{c1::Process Hollowing}}.",
+    "explanation": "Process hollowing evasion unmaps the original executable from a legitimate suspended process's memory space (e.g. svchost.exe) using NtUnmapViewOfSection, and injects a malicious payload into the hollowed section, updating the Thread Entry Point.",
+    "usage": "**Symptom**: Unusually high CPU or network activity from a standard system process like svchost.exe.<br>**Root Cause**: Malicious payload executing inside a hollowed-out legitimate process container.<br>**Validation**: Run Sysinternals Process Hacker / Process Explorer and inspect the memory sections or parent-child hierarchy.<br>**Remediation**: Use EDR memory scanning for hollowed processes (detecting mismatch between file-on-disk and memory section headers).",
+    "spanish": "Para ejecutar código encubierto en un contexto benigno, el malware inicia un proceso del sistema en estado suspendido, desasigna su memoria y escribe una carga útil de reemplazo; esto se conoce como vaciado de procesos (Process Hollowing).",
+    "tags": [
+      "security",
+      "defense_evasion",
+      "rca",
+      "malware"
+    ]
+  },
+  {
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
+    "scenario": "Security: Evasion (Parent PID Spoofing) 🛡️",
+    "text": "To evade parent-child process detection rules, malware spoofs its parent process by using the {{c1::UpdateProcThreadAttribute}} API to specify a different Parent PID.",
+    "explanation": "EDR and security agents monitor parent-child process relationships (e.g., cmd.exe spawned by word.exe is suspicious). Parent PID Spoofing leverages Windows thread execution attributes to assign a benign parent (like explorer.exe) to a newly created malicious process.",
+    "usage": "Example PowerShell/CLI attack pattern:<ul><li>Malware calls <code>InitializeProcThreadAttributeList</code></li><li>Updates attribute with <code>PROC_THREAD_ATTRIBUTE_PARENT_PROCESS</code></li><li>Creates process pointing to benign PPID</li></ul>",
+    "spanish": "Para evadir las reglas de detección de procesos padre-hijo, el malware suplanta su proceso padre utilizando la API UpdateProcThreadAttribute para especificar un PID padre diferente.",
+    "tags": [
+      "security",
+      "defense_evasion",
+      "code_snippet",
+      "api"
+    ]
   }
 ]

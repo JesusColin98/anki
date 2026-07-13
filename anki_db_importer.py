@@ -343,18 +343,18 @@ def import_database():
     for card in card_details:
         note_to_deck[card['note']] = card['deckName']
         
-    # Create mapping of (deckName, Text) -> (noteId, fields, tags)
+    # Create mapping of Text -> (noteId, deckName, fields, tags, cards)
     existing_anki_notes = {}
     for note in existing_notes_details:
         note_id = note['noteId']
-        deck_name = note_to_deck.get(note_id)
-        if not deck_name:
-            continue
+        deck_name = note_to_deck.get(note_id, "Unknown")
         text_val = note['fields'].get('Text', {}).get('value', '').strip()
-        existing_anki_notes[(deck_name, text_val)] = {
+        existing_anki_notes[text_val] = {
             'noteId': note_id,
+            'deckName': deck_name,
             'fields': note['fields'],
-            'tags': note['tags']
+            'tags': note['tags'],
+            'cards': note.get('cards', [])
         }
         
     print("\nSynchronizing database with Anki...")
@@ -370,12 +370,20 @@ def import_database():
         
         # Text key normalized
         card_text_normalized = card['text'].strip()
-        key = (card['deck'], card_text_normalized)
         
-        if key in existing_anki_notes:
-            # Note already exists. Check if we need to update fields or tags
-            existing = existing_anki_notes[key]
+        if card_text_normalized in existing_anki_notes:
+            # Note already exists. Check if we need to update deck, fields or tags
+            existing = existing_anki_notes[card_text_normalized]
             note_id = existing['noteId']
+            current_deck = existing['deckName']
+            card_ids = existing['cards']
+            
+            # Check if deck needs to be updated (migrated)
+            deck_updated = False
+            if card['deck'] != current_deck:
+                print(f"Migrating card {note_id} from deck '{current_deck}' to '{card['deck']}'...")
+                invoke('changeDeck', cards=card_ids, deck=card['deck'])
+                deck_updated = True
             
             # Compare fields
             fields_to_update = {}
@@ -412,7 +420,7 @@ def import_database():
                     invoke('addTags', notes=[note_id], tags=" ".join(tags))
                 tags_updated = True
                 
-            if fields_updated or tags_updated:
+            if deck_updated or fields_updated or tags_updated:
                 updated_count += 1
             else:
                 skipped_count += 1
