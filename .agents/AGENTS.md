@@ -46,3 +46,4 @@ Every generated card must pass these strict criteria:
 ## 3. Operations & Index Maintenance
 - **Two-Way Synchronization**: When importing or syncing to Anki, use the case-insensitive sync engine in `anki_db_importer.py` to prevent duplicate creations and update existing records in-place.
 - **Index Generation**: After any deck modification or addition, always run migration and deck verification tools to regenerate `decks/index.json`.
+- **Exclusively JSON Content**: Always write card/learning content directly to the JSON deck files under `decks/...`. Never hardcode card lists or study materials inside Python scripts (e.g. `add_fast_english_cards.py` or `add_english_scenario_cards.py` are deprecated patterns). Python scripts must only contain logic, whereas data must reside exclusively in the JSON files.
