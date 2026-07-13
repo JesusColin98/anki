@@ -128,5 +128,135 @@
       "director_role",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: APAC Region 💼",
+    "text": "We are expanding our market presence globally and need to establish new offices in the {{c1::APAC region}}.",
+    "explanation": "'APAC' stands for Asia-Pacific, a common geographical business acronym representing countries in East Asia, South Asia, Southeast Asia, and Oceania.",
+    "usage": "Pattern: <code>APAC region / EMEA region / LATAM region</code><ul><li><code>Our APAC region division achieved the highest growth this year.</code></li><li><code>She was appointed as the director for the APAC region.</code></li></ul>",
+    "spanish": "Estamos expandiendo nuestra presencia de mercado globalmente y necesitamos establecer nuevas oficinas en la región APAC.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Governance Standards 💼",
+    "text": "Our priority is to ensure regulatory compliance and manage our corporate governance {{c1::standards}}.",
+    "explanation": "'Corporate governance standards' are the system of rules, practices, and processes by which a firm is directed and controlled, balancing stakeholder interests.",
+    "usage": "Pattern: <code>governance standards / regulatory compliance</code><ul><li><code>Directors are responsible for maintaining high corporate governance standards.</code></li><li><code>The audit evaluated our compliance with governance standards.</code></li></ul>",
+    "spanish": "Nuestra prioridad es asegurar el cumplimiento regulatorio y gestionar nuestros estándares de gobierno corporativo.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Capital Expenditure 💼",
+    "text": "We need to evaluate the feasibility of this project before committing a large portion of our {{c1::capital expenditure}}.",
+    "explanation": "'Capital expenditure' (CapEx) represents funds used by a company to acquire, upgrade, and maintain physical assets such as property, buildings, or technology.",
+    "usage": "Pattern: <code>capital expenditure / CapEx / operational expenditure</code><ul><li><code>The board approved a capital expenditure budget of $5M for server upgrades.</code></li><li><code>Our capital expenditure decreased this fiscal year.</code></li></ul>",
+    "spanish": "Necesitamos evaluar la viabilidad de este proyecto antes de comprometer una gran parte de nuestro gasto de capital.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Leadership Pipeline 💼",
+    "text": "My goal is to cultivate a diverse leadership pipeline to sustain our company's long-term {{c1::growth}}.",
+    "explanation": "A 'leadership pipeline' is the systematic process of identifying and developing high-potential employees to fill future leadership and management roles.",
+    "usage": "Pattern: <code>leadership pipeline / talent pool</code><ul><li><code>We launched a mentorship program to strengthen our leadership pipeline.</code></li><li><code>Our leadership pipeline was depleted after the layoffs.</code></li></ul>",
+    "spanish": "Mi objetivo es cultivar una cantera de liderazgo diversa para sostener el crecimiento a largo plazo de nuestra compañía.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Overhead Costs 💼",
+    "text": "We are partnering with a top consultancy firm to streamline our business operations and reduce {{c1::overhead costs}}.",
+    "explanation": "'Overhead costs' (or overheads) are the ongoing business expenses that cannot be directly attributed to creating a product or service (e.g. rent, utilities, insurance).",
+    "usage": "Pattern: <code>overhead costs / reduce overheads</code><ul><li><code>We reduced overhead costs by transitioning to a remote work model.</code></li><li><code>Rent and insurance are common examples of overhead costs.</code></li></ul>",
+    "spanish": "Nos estamos asociando con una firma de consultoría líder para agilizar nuestras operaciones comerciales y reducir los costos generales/de operación.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Competitive Strategy 💼",
+    "text": "We must review the market trends and adjust our pricing strategy to remain {{c1::competitive}}.",
+    "explanation": "To remain 'competitive' means maintaining the capability to sell products or services successfully relative to rivals in terms of quality, price, or value.",
+    "usage": "Pattern: <code>remain competitive / competitive advantage</code><ul><li><code>We must innovate continuously to remain competitive in the tech industry.</code></li><li><code>Lowering costs is essential to remain competitive.</code></li></ul>",
+    "spanish": "Debemos revisar las tendencias del mercado y ajustar nuestra estrategia de precios para seguir siendo competitivos.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Shareholder Meeting 💼",
+    "text": "I will present our new sustainability initiatives at the upcoming annual shareholder {{c1::meeting}}.",
+    "explanation": "A 'shareholder meeting' (or general assembly) is a scheduled event where corporate directors report performance, discuss strategy, and vote on resolutions with company shareholders.",
+    "usage": "Pattern: <code>annual shareholder meeting / general assembly</code><ul><li><code>Shareholders voted on the new board members during the annual meeting.</code></li><li><code>The director faced tough questions at the shareholder meeting.</code></li></ul>",
+    "spanish": "Presentaré nuestras nuevas iniciativas de sustentabilidad en la próxima reunión/asamblea anual de accionistas.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: SWOT Analysis 💼",
+    "text": "We need to perform a SWOT analysis to identify our strengths, weaknesses, opportunities, and {{c1::threats}}.",
+    "explanation": "A 'SWOT analysis' is a strategic planning framework used to identify Strengths, Weaknesses, Opportunities, and Threats related to business competition or project planning.",
+    "usage": "Pattern: <code>SWOT analysis / strategic assessment</code><ul><li><code>Our SWOT analysis revealed that competitor pricing is our main threat.</code></li><li><code>Conduct a SWOT analysis before entering the new market.</code></li></ul>",
+    "spanish": "Necesitamos realizar un análisis FODA para identificar nuestras fortalezas, debilidades, oportunidades y amenazas.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: R&D Allocation 💼",
+    "text": "Our division has exceeded its targets, and we will allocate additional budget for research and {{c1::development}}.",
+    "explanation": "'Research and Development' (R&D) refers to the investigative activities a business conducts to innovate, develop, and introduce new products and procedures.",
+    "usage": "Pattern: <code>research and development / R&D budget</code><ul><li><code>We invest 10% of our revenue back into research and development.</code></li><li><code>The R&D team developed a new speech recognition algorithm.</code></li></ul>",
+    "spanish": "Nuestra división ha superado sus metas, y asignaremos presupuesto adicional para investigación y desarrollo.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: NDA Signature 💼",
+    "text": "We need to sign a non-disclosure agreement (NDA) before sharing our proprietary technologies with the {{c1::partner}}.",
+    "explanation": "A 'non-disclosure agreement' (NDA) is a legal contract governing the sharing of confidential information, prohibiting the recipient from leaking it to rivals or the public.",
+    "usage": "Pattern: <code>non-disclosure agreement / NDA signature</code><ul><li><code>Make sure the client signs the non-disclosure agreement.</code></li><li><code>We cannot share source code without a signed NDA.</code></li></ul>",
+    "spanish": "Necesitamos firmar un acuerdo de confidencialidad (NDA) antes de compartir nuestras tecnologías patentadas con el socio.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
   }
 ]

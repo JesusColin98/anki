@@ -128,5 +128,135 @@
       "negotiations",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Service Agreement 🤝",
+    "text": "We are open to negotiating the contract price if you can commit to a multi-year {{c1::service agreement}}.",
+    "explanation": "A 'service agreement' (or service contract) is a legal document defining the terms, pricing, and support details for services provided by a vendor.",
+    "usage": "Pattern: <code>service agreement / SLA contract</code><ul><li><code>We signed a three-year service agreement with the cloud provider.</code></li><li><code>The service agreement guarantees next-day hardware replacement.</code></li></ul>",
+    "spanish": "Estamos abiertos a negociar el precio del contrato si puede comprometerse con un acuerdo de servicio plurianual.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Shared Goals 🤝",
+    "text": "Our objective is to build a long-term partnership based on mutual trust and shared {{c1::goals}}.",
+    "explanation": "'Shared goals' are objectives or aims that are held in common by two partnering companies or departments, facilitating collaboration.",
+    "usage": "Pattern: <code>shared goals / common objectives</code><ul><li><code>Partnerships succeed when both companies have shared goals.</code></li><li><code>Let's define our shared goals before launching the joint venture.</code></li></ul>",
+    "spanish": "Nuestro objetivo es construir una asociación a largo plazo basada en la confianza mutua y los objetivos compartidos.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Financial Risk 🤝",
+    "text": "We cannot agree to these terms; they place too much financial risk on our {{c1::company}}.",
+    "explanation": "A 'company' (or corporation) is a commercial business or legal entity formed by a group of people to engage in trade.",
+    "usage": "Pattern: <code>our company / corporate entity</code><ul><li><code>Our company is expanding its operations in Europe.</code></li><li><code>The merger consolidated the two companies into one.</code></li></ul>",
+    "spanish": "No podemos aceptar estas condiciones; representan demasiado riesgo financiero para nuestra empresa.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Sign Contract 🤝",
+    "text": "Let's discuss the delivery timeline: can you guarantee delivery within thirty days of signing the {{c1::contract}}?",
+    "explanation": "A 'contract' is a written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
+    "usage": "Pattern: <code>sign the contract / draft a contract</code><ul><li><code>Make sure you read the fine print before you sign the contract.</code></li><li><code>We signed the contract yesterday.</code></li></ul>",
+    "spanish": "Hablemos del cronograma de entrega: ¿puede garantizar la entrega dentro de los treinta días posteriores a la firma del contrato?",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Long Term 🤝",
+    "text": "We understand your constraints, but we must protect our profit margins to sustain our operations {{c1::long term}}.",
+    "explanation": "'Long term' refers to a long period of time in the future, especially regarding business planning or financial returns.",
+    "usage": "Pattern: <code>long term / short term</code><ul><li><code>Our strategy focuses on long-term sustainability rather than quick profits.</code></li><li><code>This setup is not viable long term.</code></li></ul>",
+    "spanish": "Entendemos sus limitaciones, pero debemos proteger nuestros márgenes de beneficio para sostener nuestras operaciones a largo plazo.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Interest Rate 🤝",
+    "text": "Could we reduce the payment frequency in exchange for a slightly lower interest {{c1::rate}}?",
+    "explanation": "An 'interest rate' is the percentage of a loan amount charged by a lender to a borrower for the use of assets.",
+    "usage": "Pattern: <code>interest rate / annual interest rate</code><ul><li><code>The bank increased its prime interest rate.</code></li><li><code>We negotiated a fixed interest rate for the business loan.</code></li></ul>",
+    "spanish": "¿Podríamos reducir la frecuencia de pago a cambio de una tasa de interés ligeramente más baja?",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Compliance Regulations 🤝",
+    "text": "Before we sign the contract, we need to verify that all clauses are compliant with local {{c1::regulations}}.",
+    "explanation": "'Regulations' are rules or directives made and maintained by an authority (like a government agency) governing business practices.",
+    "usage": "Pattern: <code>compliance regulations / government regulations</code><ul><li><code>Our data servers comply with all European regulations (GDPR).</code></li><li><code>Failing to follow environmental regulations leads to heavy fines.</code></li></ul>",
+    "spanish": "Antes de firmar el contrato, necesitamos verificar que todas las cláusulas cumplan con las regulaciones locales.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Sign Tomorrow 🤝",
+    "text": "We have reached an agreement on all key points; let's draft the final contract and sign it {{c1::tomorrow}}.",
+    "explanation": "'Tomorrow' is the day after today, commonly set as a target date in contract negotiations once terms are aligned.",
+    "usage": "Pattern: <code>sign it tomorrow / schedule for tomorrow</code><ul><li><code>The documents will be ready for signing tomorrow morning.</code></li><li><code>Let's meet tomorrow to review the feedback.</code></li></ul>",
+    "spanish": "Hemos llegado a un acuerdo en todos los puntos clave; redactemos el contrato final y firmémoslo mañana.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Shipping Costs 🤝",
+    "text": "We are willing to compromise on the delivery method if you can cover the shipping {{c1::costs}}.",
+    "explanation": "'Shipping costs' are the expenses required to package and transport physical goods from the seller to the buyer.",
+    "usage": "Pattern: <code>shipping costs / freight charges</code><ul><li><code>The online price does not include shipping costs.</code></li><li><code>We offer free shipping costs for orders over $500.</code></li></ul>",
+    "spanish": "Estamos dispuestos a ceder en el método de entrega si usted puede cubrir los costos de envío.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Contract Penalty 🤝",
+    "text": "Let's review the termination clause: what is the notice period required to end the contract without {{c1::penalties}}?",
+    "explanation": "A 'penalty' is a punishment or financial fine imposed by contract terms for failing to comply with a clause (such as early termination).",
+    "usage": "Pattern: <code>contract penalties / cancellation fee</code><ul><li><code>The contract includes financial penalties for late delivery.</code></li><li><code>You can cancel the service after one year without penalties.</code></li></ul>",
+    "spanish": "Revisemos la cláusula de rescisión: ¿cuál es el período de notificación requerido para finalizar el contrato sin penalizaciones?",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
   }
 ]

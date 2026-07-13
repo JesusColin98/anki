@@ -128,5 +128,135 @@
       "interview_skills",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Technical Expertise 👔",
+    "text": "I am looking for a position that offers challenges and allows me to expand my technical {{c1::expertise}}.",
+    "explanation": "'Expertise' refers to highly specialized skill, knowledge, or experience in a particular domain (e.g. database administration).",
+    "usage": "Pattern: <code>technical expertise / domain expertise</code><ul><li><code>We need consultants with cloud security expertise.</code></li><li><code>She demonstrated her technical expertise during the live coding test.</code></li></ul>",
+    "spanish": "Estoy buscando un puesto que ofrezca desafíos y me permita ampliar mi experiencia/conocimiento técnico.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Handled Consequences 👔",
+    "text": "Could you describe a time when you made a mistake at work and how you handled the {{c1::consequences}}?",
+    "explanation": "'Consequences' are the results, outcomes, or effects of an action or event, typically bad or unpleasant outcomes from a mistake.",
+    "usage": "Pattern: <code>handle the consequences / face the consequences</code><ul><li><code>The database crash had severe financial consequences.</code></li><li><code>He was willing to accept the consequences of his actions.</code></li></ul>",
+    "spanish": "¿Podría describir una ocasión en la que cometió un error en el trabajo y cómo manejó las consecuencias?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Adapt Quickly 👔",
+    "text": "I have experience working in fast-paced environments and can adapt to changing priorities {{c1::quickly}}.",
+    "explanation": "'Quickly' is an adverb meaning at a fast speed or in a short duration of time, essential for agile workspaces.",
+    "usage": "Pattern: <code>adapt quickly / learn quickly</code><ul><li><code>New hires must adapt quickly to our workflow.</code></li><li><code>The system scaled up quickly to handle the traffic.</code></li></ul>",
+    "spanish": "Tengo experiencia trabajando en entornos de ritmo rápido y puedo adaptarme a las prioridades cambiantes rápidamente.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Best Fit 👔",
+    "text": "Why do you think you are the best fit for this role, and what unique skills can you bring to our {{c1::team}}?",
+    "explanation": "A 'team' is a collaborative group of people working together to achieve a common goal or project.",
+    "usage": "Pattern: <code>join our team / team player</code><ul><li><code>I am excited to join your development team.</code></li><li><code>He is a great team player who supports his colleagues.</code></li></ul>",
+    "spanish": "¿Por qué cree que es la persona más adecuada para este puesto, y qué habilidades únicas puede aportar a nuestro equipo?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Measured Success 👔",
+    "text": "Could you give me an example of a successful project you managed and how you measured its {{c1::success}}?",
+    "explanation": "'Success' refers to the accomplishment of an aim, purpose, or target (such as project completion on time and within budget).",
+    "usage": "Pattern: <code>measure success / project success</code><ul><li><code>We measured the project's success using key performance indicators.</code></li><li><code>The launch was a huge success.</code></li></ul>",
+    "spanish": "¿Podría darme un ejemplo de algún proyecto exitoso que haya gestionado y cómo midió su éxito?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Simple Terms 👔",
+    "text": "I am comfortable presenting data to senior managers and explaining complex concepts in simple {{c1::terms}}.",
+    "explanation": "To explain something in 'simple terms' means translating highly technical jargon into clear, straightforward language that non-experts can understand.",
+    "usage": "Pattern: <code>in simple terms / layman's terms</code><ul><li><code>Explain how backpropagation works in simple terms.</code></li><li><code>In simple terms, a VPC is an isolated network.</code></li></ul>",
+    "spanish": "Me siento cómodo presentando datos a directores sénior y explicando conceptos complejos en términos sencillos.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Goals Align 👔",
+    "text": "What are your professional goals for the next three years, and how does this role align with {{c1::them}}?",
+    "explanation": "'Them' is the third-person plural object pronoun, here referencing the applicant's professional goals.",
+    "usage": "Pattern: <code>align with them / work towards them</code><ul><li><code>These objectives are important, and my tasks align with them.</code></li><li><code>I set goals and did my best to achieve them.</code></li></ul>",
+    "spanish": "¿Cuáles son sus metas profesionales para los próximos tres años, y cómo se alinea este puesto con ellas?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Company Vision 👔",
+    "text": "I appreciate this opportunity to speak with you today; I am very excited about this role and the {{c1::company's vision}}.",
+    "explanation": "The 'company's vision' (or vision statement) is a corporate declaration of the firm's long-term goals and values, inspiring staff and clients.",
+    "usage": "Pattern: <code>company's vision / mission statement</code><ul><li><code>Our company's vision is to make AI accessible to everyone.</code></li><li><code>I want to work for a firm with a clear company vision.</code></li></ul>",
+    "spanish": "Agradezco esta oportunidad de hablar con usted hoy; estoy muy entusiasmado con este puesto y la visión de la empresa.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Daily Basis 👔",
+    "text": "Could you tell me more about the company culture and how the team collaborates on a daily {{c1::basis}}?",
+    "explanation": "To do something 'on a daily basis' (or daily) is a standard business idiom meaning regularly every day.",
+    "usage": "Pattern: <code>on a daily basis / regular basis</code><ul><li><code>We run database sync scripts on a daily basis.</code></li><li><code>I check my inbox on a daily basis.</code></li></ul>",
+    "spanish": "¿Podría contarme más sobre la cultura de la empresa y cómo colabora el equipo a diario?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Post Interview Feedback 👔",
+    "text": "Thank you for the detailed explanation; I have no further questions at this time and look forward to your {{c1::feedback}}.",
+    "explanation": "'Feedback' in a recruitment context refers to the interview evaluation or decision sent by recruiters or managers to an applicant.",
+    "usage": "Pattern: <code>receive feedback / interview feedback</code><ul><li><code>The recruiter promised to send interview feedback by Friday.</code></li><li><code>Constructive feedback helps candidates improve.</code></li></ul>",
+    "spanish": "Gracias por la explicación detallada; no tengo más preguntas en este momento y espero con interés sus comentarios/respuesta.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
   }
 ]

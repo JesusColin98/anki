@@ -128,5 +128,135 @@
       "handling_objections",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Extra Charge 🛡️",
+    "text": "I understand that our service is more expensive, but it includes features that our competitors charge {{c1::extra for}}.",
+    "explanation": "To charge 'extra for [something]' means requiring additional payment for specific premium add-ons or services.",
+    "usage": "Pattern: <code>charge extra for [add-on]</code><ul><li><code>Many airlines charge extra for checked bags.</code></li><li><code>We do not charge extra for technical support.</code></li></ul>",
+    "spanish": "Entiendo que nuestro servicio es más costoso, pero incluye características por las que nuestros competidores cobran un cargo extra.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Uptime Guarantee 🛡️",
+    "text": "To address your concerns about downtime, we offer a service level agreement (SLA) with a 99.9% {{c1::uptime guarantee}}.",
+    "explanation": "An 'uptime guarantee' is a contractual promise by a hosting or software vendor specifying the minimum percentage of time a service will be operational.",
+    "usage": "Pattern: <code>uptime guarantee / guaranteed uptime</code><ul><li><code>Our cloud provider offers a 99.99% uptime guarantee.</code></li><li><code>Violating the uptime guarantee results in service credits for the client.</code></li></ul>",
+    "spanish": "Para abordar sus preocupaciones sobre el tiempo de inactividad, ofrecemos un acuerdo de nivel de servicio (SLA) con una garantía de tiempo de actividad del 99.9%.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Process Step 🛡️",
+    "text": "Our onboarding process is designed to minimize friction; we will guide your team through every {{c1::step}}.",
+    "explanation": "A 'step' is a single action or phase in a sequence of events designed to achieve a goal (like onboarding).",
+    "usage": "Pattern: <code>step by step / sequential steps</code><ul><li><code>Follow the installation steps carefully.</code></li><li><code>What is the next step in our database migration?</code></li></ul>",
+    "spanish": "Nuestro proceso de incorporación está diseñado para minimizar la fricción; guiaremos a su equipo a través de cada paso.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Heavy Lifting 🛡️",
+    "text": "I appreciate your concern about the implementation timeline, but our dedicated support team will handle the {{c1::heavy lifting}}.",
+    "explanation": "'Heavy lifting' is an idiom meaning the most difficult, labor-intensive, or complex part of a task or project.",
+    "usage": "Pattern: <code>do the heavy lifting / handle heavy lifting</code><ul><li><code>Our scripts do the heavy lifting of parsing logs automatically.</code></li><li><code>The consultant handled the heavy lifting during corporate restructuring.</code></li></ul>",
+    "spanish": "Agradezco su preocupación sobre el cronograma de implementación, pero nuestro equipo de soporte dedicado se encargará del trabajo pesado.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Pilot Project 🛡️",
+    "text": "We can start with a small pilot project to demonstrate the value of our tool before you commit to a {{c1::full contract}}.",
+    "explanation": "A 'pilot project' (or pilot study) is a small-scale, short-term experiment conducted to evaluate feasibility, cost, and utility before full deployment.",
+    "usage": "Pattern: <code>pilot project / pilot study / trial run</code><ul><li><code>We launched a pilot project with three departments first.</code></li><li><code>The pilot project was highly successful, leading to full contract approval.</code></li></ul>",
+    "spanish": "Podemos comenzar con un pequeño proyecto piloto para demostrar el valor de nuestra herramienta antes de que se comprometa con un contrato completo.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Regular Audits 🛡️",
+    "text": "If safety is your main concern, our data servers are protected by military-grade encryption and regular {{c1::audits}}.",
+    "explanation": "An 'audit' is an official inspection of an organization's accounts, security status, or processes, typically conducted by an independent body.",
+    "usage": "Pattern: <code>security audits / regular compliance audits</code><ul><li><code>Our security protocols are verified by annual third-party audits.</code></li><li><code>We must prepare the documents for the financial audit next month.</code></li></ul>",
+    "spanish": "Si la seguridad es su principal preocupación, nuestros servidores de datos están protegidos por cifrado de grado militar y auditorías regulares.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Client Testimonials 🛡️",
+    "text": "We have client testimonials from companies in your industry showing how they improved efficiency by {{c1::40%}}.",
+    "explanation": "A 'testimonial' is a formal statement testifying to someone's character, qualifications, or the value of a product/service, written by a satisfied customer.",
+    "usage": "Pattern: <code>client testimonials / customer reviews</code><ul><li><code>The sales deck includes several testimonials from enterprise clients.</code></li><li><code>Client testimonials help build trust with prospective buyers.</code></li></ul>",
+    "spanish": "Tenemos testimonios de clientes de empresas en su industria que muestran cómo mejoraron la eficiencia en un 40%.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Zero Maintenance 🛡️",
+    "text": "I hear what you are saying about resource constraints; that is why our tool requires almost zero {{c1::maintenance}}.",
+    "explanation": "'Maintenance' refers to the process of preserving a system, software, or building in good working condition through regular checks and repairs.",
+    "usage": "Pattern: <code>zero maintenance / low maintenance / routine maintenance</code><ul><li><code>Our SaaS platform handles updates automatically, ensuring zero maintenance for you.</code></li><li><code>Database index maintenance is scheduled weekly.</code></li></ul>",
+    "spanish": "Escucho lo que dice sobre las limitaciones de recursos; es por eso que nuestra herramienta requiere casi cero mantenimiento.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Needs Change 🛡️",
+    "text": "We offer flexible contract terms that allow you to scale down your usage if your business needs {{c1::change}}.",
+    "explanation": "To 'change' is the verb meaning to make or become different, commonly used to describe shifting business requirements.",
+    "usage": "Pattern: <code>needs change / plans change</code><ul><li><code>Our database schema must adapt as user needs change.</code></li><li><code>Business plans changed due to the economic downturn.</code></li></ul>",
+    "spanish": "Ofrecemos condiciones de contrato flexibles que le permiten reducir su uso si las necesidades de su negocio cambian.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: User-Friendly 🛡️",
+    "text": "Let's schedule a demo session next week so your team can test the interface and see how {{c1::user-friendly}} it is.",
+    "explanation": "'User-friendly' describes an interface, software, or device that is easy to learn, understand, and navigate for consumers.",
+    "usage": "Pattern: <code>user-friendly interface / user-friendly design</code><ul><li><code>The new website layout is much more user-friendly.</code></li><li><code>We prioritized user-friendly navigation in our mobile app.</code></li></ul>",
+    "spanish": "Programemos una sesión de demostración la próxima semana para que su equipo pueda probar la interfaz y ver qué tan fácil de usar es.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
   }
 ]

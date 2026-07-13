@@ -128,5 +128,135 @@
       "manager_role",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Feel Valued 👥",
+    "text": "It is my goal to ensure my team members have a healthy work-life balance and feel {{c1::valued}}.",
+    "explanation": "To feel 'valued' means feeling that your contributions, ideas, and presence are recognized, appreciated, and respected by managers.",
+    "usage": "Pattern: <code>feel valued / appreciated employee</code><ul><li><code>Praising employees in public helps them feel valued.</code></li><li><code>If workers don't feel valued, they will leave the company.</code></li></ul>",
+    "spanish": "Mi meta es asegurar que los miembros de mi equipo tengan un equilibrio saludable entre el trabajo y la vida personal y se sientan valorados.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Career Growth 👥",
+    "text": "We need to set up performance reviews next month to discuss career goals and identify areas for {{c1::growth}}.",
+    "explanation": "'Career growth' (or professional growth) refers to climbing the corporate ladder, learning new skills, and taking on more responsibility.",
+    "usage": "Pattern: <code>career growth / professional development</code><ul><li><code>This role offers excellent opportunities for career growth.</code></li><li><code>Mentorship is essential for employee career growth.</code></li></ul>",
+    "spanish": "Necesitamos programar evaluaciones de desempeño el próximo mes para discutir las metas profesionales e identificar áreas de crecimiento.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Spending Limits 👥",
+    "text": "My responsibility is to manage the project budget and ensure we do not exceed our allocated {{c1::spending limits}}.",
+    "explanation": "A 'spending limit' is a strict maximum amount of money allocated for a specific project, department, or transaction.",
+    "usage": "Pattern: <code>spending limits / budget constraints</code><ul><li><code>The director set strict spending limits on travel.</code></li><li><code>We must monitor expenses to stay within our spending limits.</code></li></ul>",
+    "spanish": "Mi responsabilidad es gestionar el presupuesto del proyecto y asegurar que no excedamos nuestros límites de gasto asignados.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Respectfully Communicate 👥",
+    "text": "We must foster a culture of open communication where feedback is shared constructively and {{c1::respectfully}}.",
+    "explanation": "'Respectfully' is an adverb meaning in a way that shows honor, politeness, and consideration for other people's feelings and opinions.",
+    "usage": "Pattern: <code>respectfully disagree / treat others respectfully</code><ul><li><code>You can respectfully disagree with your manager during meetings.</code></li><li><code>Please treat all team members respectfully.</code></li></ul>",
+    "spanish": "Debemos fomentar una cultura de comunicación abierta donde la retroalimentación se comparta de manera constructiva y respetuosa.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Product Line 👥",
+    "text": "I need to coordinate with the recruitment team to hire additional developers for our new product {{c1::line}}.",
+    "explanation": "A 'product line' is a group of related products manufactured or distributed by a single company.",
+    "usage": "Pattern: <code>product line / launch a product line</code><ul><li><code>We are expanding our product line to target enterprise users.</code></li><li><code>He is the director for our software product line.</code></li></ul>",
+    "spanish": "Necesito coordinar con el equipo de reclutamiento para contratar desarrolladores adicionales para nuestra nueva línea de productos.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Team Retro 👥",
+    "text": "We will hold a team retro meeting next Friday to discuss what went well and what we can {{c1::improve}}.",
+    "explanation": "To 'improve' is the verb meaning to make or become better, a core goal in Agile retrospective (retro) meetings.",
+    "usage": "Pattern: <code>continuous improvement / improve code quality</code><ul><li><code>We met to discuss how we can improve our deployment workflow.</code></li><li><code>Automation helps improve efficiency.</code></li></ul>",
+    "spanish": "Realizaremos una reunión retrospectiva de equipo el próximo viernes para discutir qué salió bien y qué podemos mejorar.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Quality Standards 👥",
+    "text": "I need to review our team's project deliverables and ensure they meet our quality {{c1::assurance standards}}.",
+    "explanation": "'Quality assurance standards' (QA standards) are the system of checks and criteria used to verify that software or products are bug-free and meet specifications.",
+    "usage": "Pattern: <code>quality assurance standards / QA guidelines</code><ul><li><code>All releases must comply with our quality assurance standards.</code></li><li><code>The code was rejected because it failed quality assurance standards.</code></li></ul>",
+    "spanish": "Necesito revisar los entregables del proyecto de nuestro equipo y asegurar que cumplan con nuestros estándares de control de calidad.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Remote Workers 👥",
+    "text": "We must set clear boundaries regarding working hours to prevent burnout among our remote {{c1::workers}}.",
+    "explanation": "A 'remote worker' (or telecommuter) is an employee who works from home or another location outside the physical company office.",
+    "usage": "Pattern: <code>remote workers / hybrid work model</code><ul><li><code>Managing remote workers requires clear communication channels.</code></li><li><code>Many remote workers appreciate the flexible schedule.</code></li></ul>",
+    "spanish": "Debemos establecer límites claros con respecto a las horas de trabajo para evitar el agotamiento entre nuestros trabajadores remotos.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Resource Guidance 👥",
+    "text": "I am here to help you succeed; please do not hesitate to reach out if you need any resources or {{c1::guidance}}.",
+    "explanation": "'Guidance' refers to advice, direction, or instruction provided by a senior manager or mentor to help a person resolve tasks or grow.",
+    "usage": "Pattern: <code>seek guidance / offer guidance</code><ul><li><code>Junior developers seek guidance from tech leads.</code></li><li><code>I appreciate your guidance during the code refactoring.</code></li></ul>",
+    "spanish": "Estoy aquí para ayudarle a tener éxito; por favor, no dude en comunicarse si necesita algún recurso u orientación.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Annual Objectives 👥",
+    "text": "We need to align our technical roadmap with the product manager's business objectives for the upcoming {{c1::year}}.",
+    "explanation": "An 'upcoming year' (or fiscal year) is the subsequent calendar or financial period for which goals and budgets are planned.",
+    "usage": "Pattern: <code>upcoming year / upcoming quarter</code><ul><li><code>What are the company goals for the upcoming year?</code></li><li><code>We planned our budget for the upcoming year.</code></li></ul>",
+    "spanish": "Necesitamos alinear nuestra hoja de ruta técnica con los objetivos comerciales del gerente de producto para el próximo año.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
   }
 ]

@@ -128,5 +128,135 @@
       "directions",
       "vocabulary"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Corner 🗺️",
+    "text": "You will find the library right around the {{c1::corner}}.",
+    "explanation": "'Around the corner' is a very common idiom meaning extremely close or nearby, just on the next street bend.",
+    "usage": "Pattern: <code>around the corner / just past the bend</code><ul><li><code>The convenience store is right around the corner.</code></li><li><code>Spring is just around the corner.</code></li></ul>",
+    "spanish": "Encontrará la biblioteca justo a la vuelta de la esquina.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Intersection 🗺️",
+    "text": "Continue walking until you reach the next {{c1::intersection}}.",
+    "explanation": "An 'intersection' (or junction) is a point where two or more roads cross or meet.",
+    "usage": "Pattern: <code>intersection / junction / crossroads</code><ul><li><code>Turn right at the next intersection.</code></li><li><code>There was an accident at the busy intersection.</code></li></ul>",
+    "spanish": "Siga caminando hasta que llegue a la siguiente intersección/cruce.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Highway 🗺️",
+    "text": "Excuse me, is this road the quickest way to get to the {{c1::highway}}?",
+    "explanation": "A 'highway' is a main public road, typically one connecting major towns or cities, designed for high-speed traffic.",
+    "usage": "Pattern: <code>highway / freeway / interstate</code><ul><li><code>Take the exit for the highway.</code></li><li><code>The highway was backed up with traffic.</code></li></ul>",
+    "spanish": "Disculpe, ¿esta carretera es la forma más rápida de llegar a la autopista?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Pedestrian Crossing 🗺️",
+    "text": "The bank is on the left side, just past the {{c1::pedestrian crossing}}.",
+    "explanation": "A 'pedestrian crossing' (or crosswalk) is a specified part of a road where pedestrians have the right of way to cross safely.",
+    "usage": "Pattern: <code>pedestrian crossing / crosswalk / zebra crossing</code><ul><li><code>Drivers must stop at the pedestrian crossing.</code></li><li><code>Cross the street only at the pedestrian crossing.</code></li></ul>",
+    "spanish": "El banco está en el lado izquierdo, justo después del paso de peatones.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Landmark 🗺️",
+    "text": "Excuse me, can you tell me how to get to the nearest {{c1::landmark}}?",
+    "explanation": "A 'landmark' is an object or feature of a landscape or town that is easily seen and recognized from a distance, useful as a reference point.",
+    "usage": "Pattern: <code>landmark / monument / focal point</code><ul><li><code>The Statue of Liberty is a famous landmark in New York.</code></li><li><code>The clock tower is a key landmark in our city.</code></li></ul>",
+    "spanish": "Disculpe, ¿podría decirme cómo llegar al punto de referencia más cercano?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Billboard 🗺️",
+    "text": "Keep going straight for about half a mile and you'll see a big {{c1::billboard}}.",
+    "explanation": "A 'billboard' (or hoarding) is a large outdoor board for displaying advertisements, commonly located along highways.",
+    "usage": "Pattern: <code>billboard / advertisement board</code><ul><li><code>We advertised our product on a huge billboard near the highway.</code></li><li><code>I noticed the billboard for the new movie.</code></li></ul>",
+    "spanish": "Siga recto durante aproximadamente media milla y verá una gran valla publicitaria/espectacular.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Wrong Direction 🗺️",
+    "text": "If you cross the bridge, you've gone {{c1::in the wrong direction}}.",
+    "explanation": "To go 'in the wrong direction' means heading away from, rather than toward, the target destination.",
+    "usage": "Pattern: <code>in the wrong direction / off course</code><ul><li><code>We walked for two miles in the wrong direction.</code></li><li><code>Turn around; you are going in the wrong direction.</code></li></ul>",
+    "spanish": "Si cruzas el puente, has ido en la dirección equivocada.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Short Drive 🗺️",
+    "text": "The museum is just a short {{c1::drive}} from here.",
+    "explanation": "A 'short drive' is a relative measurement of time meaning that a destination is very close when traveling by car (typically under 10-15 minutes).",
+    "usage": "Pattern: <code>short drive / quick ride</code><ul><li><code>The airport is just a short drive from our hotel.</code></li><li><code>It is a short drive to the shopping center.</code></li></ul>",
+    "spanish": "El museo está a solo un viaje corto en coche desde aquí.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Main Street 🗺️",
+    "text": "Is there a shortcut through the park to avoid the {{c1::main street}}?",
+    "explanation": "A 'main street' is the principal street of a town or city, typically containing the primary shops and traffic load.",
+    "usage": "Pattern: <code>main street / high street</code><ul><li><code>The main street was crowded with shoppers.</code></li><li><code>We walked down the main street of the village.</code></li></ul>",
+    "spanish": "¿Hay algún atajo a través del parque para evitar la calle principal?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Go Towards 🗺️",
+    "text": "Pardon me, does this bus {{c1::go towards}} the city center?",
+    "explanation": "To 'go towards' means to travel in the direction of a specific destination or landmark.",
+    "usage": "Pattern: <code>go towards / head in the direction of</code><ul><li><code>We walked towards the lake.</code></li><li><code>Does this train go towards the airport?</code></li></ul>",
+    "spanish": "Disculpe, ¿este autobús va hacia el centro de la ciudad?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
   }
 ]

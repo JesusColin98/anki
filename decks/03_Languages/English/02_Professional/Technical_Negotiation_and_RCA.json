@@ -128,5 +128,135 @@
       "technical_rca",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Production Servers 💻",
+    "text": "We need to conduct a post-mortem analysis to determine the root cause of the memory leak in our production {{c1::servers}}.",
+    "explanation": "A 'production server' (or prod server) is the live server hosting the application active for real users, distinct from staging or test servers.",
+    "usage": "Pattern: <code>production servers / deploy to production</code><ul><li><code>Do not run untested scripts directly on production servers.</code></li><li><code>The production servers crashed due to high CPU load.</code></li></ul>",
+    "spanish": "Necesitamos realizar un análisis posterior al incidente (post-mortem) para determinar la causa raíz de la fuga de memoria en nuestros servidores de producción.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Architectural Fix 💻",
+    "text": "Our immediate focus is to apply a hotfix to restore service, then work on a long-term {{c1::architectural fix}}.",
+    "explanation": "An 'architectural fix' is a fundamental redesign of database schemas, code modules, or network topologies to resolve a recurring issue permanently.",
+    "usage": "Pattern: <code>architectural fix / permanent redesign</code><ul><li><code>Applying a temporary workaround is not an alternative to an architectural fix.</code></li><li><code>The architect proposed a database partitioning model as the architectural fix.</code></li></ul>",
+    "spanish": "Nuestro enfoque inmediato es aplicar un parche para restablecer el servicio y luego trabajar en una corrección arquitectónica a largo plazo.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Isolation Levels 💻",
+    "text": "The crash was caused by a database deadlock; we need to optimize our queries and transaction isolation {{c1::levels}}.",
+    "explanation": "'Transaction isolation levels' in SQL databases control the visibility of data to other concurrent transactions, preventing data corruption.",
+    "usage": "Pattern: <code>isolation levels / read committed / serializable</code><ul><li><code>Setting high transaction isolation levels can increase locks and cause deadlocks.</code></li><li><code>We set the database isolation level to Read Committed.</code></li></ul>",
+    "spanish": "El colapso fue causado por un bloqueo mutuo (deadlock) de la base de datos; necesitamos optimizar nuestras consultas y niveles de aislamiento de transacciones.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Affect Users 💻",
+    "text": "Let's review the API response times to identify when the performance degradation began to {{c1::affect users}}.",
+    "explanation": "To 'affect users' means that software bugs, latency, or outages begin to disrupt the client experience or cause errors on user devices.",
+    "usage": "Pattern: <code>affect users / impact clients</code><ul><li><code>The database outage did not affect users because of the fallback cache.</code></li><li><code>How many clients did the latency spike affect?</code></li></ul>",
+    "spanish": "Revisemos los tiempos de respuesta de la API para identificar cuándo la degradación del rendimiento comenzó a afectar a los usuarios.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Target Uptime 💻",
+    "text": "We need to negotiate the SLA details: what is the penalty if the uptime drops below the guaranteed {{c1::99.9%}}?",
+    "explanation": "'99.9%' (three nines) is a standard service level agreement uptime metric, permitting no more than 8.76 hours of downtime per year.",
+    "usage": "Pattern: <code>99.9% uptime / 99.99% availability</code><ul><li><code>The hosting provider committed to a 99.9% uptime guarantee.</code></li><li><code>Our service fell below the 99.9% threshold this month.</code></li></ul>",
+    "spanish": "Necesitamos negociar los detalles del SLA: ¿cuál es la penalización si el tiempo de actividad cae por debajo del 99.9% garantizado?",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Monitoring Alerts 💻",
+    "text": "The post-mortem report indicates that the outage could have been avoided if we had set up server resource monitoring {{c1::alerts}}.",
+    "explanation": "A 'monitoring alert' is an automated notification (sent via Slack, PagerDuty, or email) triggered when system metrics (like CPU or memory) cross a threshold.",
+    "usage": "Pattern: <code>monitoring alerts / trigger an alert</code><ul><li><code>Configure monitoring alerts to notify the team when disk space is low.</code></li><li><code>The database memory leak triggered several monitoring alerts.</code></li></ul>",
+    "spanish": "El informe posterior al incidente indica que la interrupción podría haberse evitado si hubiéramos configurado alertas de monitoreo de recursos del servidor.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Service Disruptions 💻",
+    "text": "Let's establish a roll-back plan before we deploy this update to production to minimize potential service {{c1::disruptions}}.",
+    "explanation": "'Service disruptions' are events where software systems or cloud networks become unavailable, causing operations to halt.",
+    "usage": "Pattern: <code>service disruptions / business disruption</code><ul><li><code>The network migration caused minimal service disruptions.</code></li><li><code>Avoid service disruptions by testing all updates in staging first.</code></li></ul>",
+    "spanish": "Establezcamos un plan de reversión antes de implementar esta actualización en producción para minimizar posibles interrupciones del servicio.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Request Volume 💻",
+    "text": "We need to run load tests to verify that the API gateway can handle up to double our normal request {{c1::volume}}.",
+    "explanation": "'Request volume' refers to the total number of HTTP requests processed by a web server or gateway within a specific timeframe.",
+    "usage": "Pattern: <code>request volume / traffic volume / concurrent requests</code><ul><li><code>Our API gateway handles a high request volume during marketing events.</code></li><li><code>The server crashed because the request volume exceeded its limits.</code></li></ul>",
+    "spanish": "Necesitamos realizar pruebas de carga para verificar que la pasarela API pueda manejar hasta el doble de nuestro volumen de solicitudes normal.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Environment Variables 💻",
+    "text": "The root cause was a configuration mismatch between the staging and production environment {{c1::variables}}.",
+    "explanation": "'Environment variables' are dynamic-valued objects stored in the operating system that define configuration values (like DB paths, keys) for running processes.",
+    "usage": "Pattern: <code>environment variables / config variables</code><ul><li><code>Make sure you do not commit environment variables containing secrets.</code></li><li><code>The app crashed because the database URL environment variable was missing.</code></li></ul>",
+    "spanish": "La causa raíz fue una discrepancia de configuración entre las variables de entorno de los entornos de prueba (staging) y producción.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Share Tomorrow 💻",
+    "text": "We will document our findings and remediation steps in a formal RCA report and share it with the client {{c1::tomorrow}}.",
+    "explanation": "'Tomorrow' is the day after today, set here as the target deadline to share the Root Cause Analysis report with stakeholders.",
+    "usage": "Pattern: <code>share it tomorrow / report tomorrow</code><ul><li><code>The slides are ready; we will share the report tomorrow.</code></li><li><code>I will email you the updates tomorrow.</code></li></ul>",
+    "spanish": "Documentaremos nuestros hallazgos y pasos de remediación en un informe formal de RCA y lo compartiremos con el cliente mañana.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
   }
 ]

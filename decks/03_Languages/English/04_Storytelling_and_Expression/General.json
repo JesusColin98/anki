@@ -128,5 +128,135 @@
       "expression",
       "idioms"
     ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Wait Duration 📖",
+    "text": "To make a long story short, we missed the train and had to wait at the station for {{c1::three hours}}.",
+    "explanation": "'Three hours' is a specific duration of time, used here to complete the storytelling outcome of missing a train.",
+    "usage": "Pattern: <code>wait for three hours / three hours remaining</code><ul><li><code>The database backup took three hours to complete.</code></li><li><code>We stood in line for three hours.</code></li></ul>",
+    "spanish": "Para abreviar la historia (resumiendo), perdimos el tren y tuvimos que esperar en la estación durante tres horas.",
+    "tags": [
+      "english_story",
+      "expression",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Practiced Before 📖",
+    "text": "Believe it or not, he actually won the competition despite having never practiced the sport {{c1::before}}.",
+    "explanation": "'Before' is an adverb meaning at a previous time; in the past, completing the contrast of winning without prior experience.",
+    "usage": "Pattern: <code>never before / day before / before yesterday</code><ul><li><code>I have never seen this error message before.</code></li><li><code>Read the instructions before starting the setup.</code></li></ul>",
+    "spanish": "Lo creas o no, él realmente ganó la competencia a pesar de no haber practicado nunca ese deporte antes.",
+    "tags": [
+      "english_story",
+      "expression",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Former Manager 📖",
+    "text": "Out of the blue, my former manager emailed me with a job offer, which was a pleasant {{c1::surprise}}.",
+    "explanation": "A 'surprise' is an unexpected or astonishing event, fact, or thing, here described as a positive outcome.",
+    "usage": "Pattern: <code>pleasant surprise / complete surprise</code><ul><li><code>His sudden promotion was a complete surprise.</code></li><li><code>The nice weather was a pleasant surprise.</code></li></ul>",
+    "spanish": "De la nada (inesperadamente), mi antiguo gerente me envió un correo electrónico con una oferta de trabajo, lo cual fue una grata sorpresa.",
+    "tags": [
+      "english_story",
+      "expression",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Launch Deadline 📖",
+    "text": "To cut to the chase, we need to approve the budget today if we want to meet our launch {{c1::deadline}}.",
+    "explanation": "A 'deadline' is the latest time or date by which something must be completed or submitted.",
+    "usage": "Pattern: <code>meet the deadline / miss the deadline / strict deadline</code><ul><li><code>We must work overtime to meet the launch deadline.</code></li><li><code>Missing the deadline will delay the product release.</code></li></ul>",
+    "spanish": "Para ir al grano (resumiendo), necesitamos aprobar el presupuesto hoy si queremos cumplir con nuestra fecha límite de lanzamiento.",
+    "tags": [
+      "english_story",
+      "expression",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Passport Replace 📖",
+    "text": "As luck would have it, I found my passport right when I was about to call the embassy to {{c1::replace it}}.",
+    "explanation": "To 'replace' something means to provide a substitute or equivalent in place of an item that was lost, damaged, or expired.",
+    "usage": "Pattern: <code>replace it / replace device / replacement parts</code><ul><li><code>I lost my credit card and had to call the bank to replace it.</code></li><li><code>We need to replace the old database servers.</code></li></ul>",
+    "spanish": "Como quiso la suerte (por suerte), encontré mi pasaporte justo cuando estaba a punto de llamar a la embajada para reemplazarlo.",
+    "tags": [
+      "english_story",
+      "expression",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Bridge Location 📖",
+    "text": "You won't believe what happened next: the car ran out of gas right in the middle of the {{c1::bridge}}.",
+    "explanation": "A 'bridge' is a structure carrying a road, path, or railway across a river, valley, or road obstacle.",
+    "usage": "Pattern: <code>cross the bridge / suspension bridge</code><ul><li><code>The car broke down right on the bridge.</code></li><li><code>We crossed the bridge to enter the city center.</code></li></ul>",
+    "spanish": "No vas a creer lo que pasó después: el auto se quedó sin gasolina justo en medio del puente.",
+    "tags": [
+      "english_story",
+      "expression",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Wind Weather 📖",
+    "text": "Long story short, we had to move the wedding indoors due to the sudden heavy rain and strong {{c1::winds}}.",
+    "explanation": "'Wind' is the perceptible natural movement of the air, especially in the form of a current of air blowing through an area.",
+    "usage": "Pattern: <code>strong winds / heavy winds / gust of wind</code><ul><li><code>The trees were blown down by strong winds.</code></li><li><code>Strong winds delayed the flight takeoff.</code></li></ul>",
+    "spanish": "En resumen, tuvimos que trasladar la boda adentro (bajo techo) debido a la repentina lluvia intensa y los fuertes vientos.",
+    "tags": [
+      "english_story",
+      "expression",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: All of Sudden 📖",
+    "text": "All of a sudden, the power went out, leaving the entire neighborhood in complete {{c1::darkness}}.",
+    "explanation": "'All of a sudden' is an idiom meaning completely unexpectedly, suddenly, or without warning.",
+    "usage": "Pattern: <code>all of a sudden / suddenly / out of the blue</code><ul><li><code>All of a sudden, the database stopped responding.</code></li><li><code>She stood up and left all of a sudden.</code></li></ul>",
+    "spanish": "De repente (de la nada), la energía se cortó, dejando a todo el vecindario en completa oscuridad.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Matter Worse 📖",
+    "text": "To make matters worse, it started to rain heavily right when we got a flat tire on the {{c1::highway}}.",
+    "explanation": "'To make matters worse' is an idiom meaning to make a bad situation even more difficult, complicated, or unpleasant.",
+    "usage": "Pattern: <code>to make matters worse / exacerbate issue</code><ul><li><code>I forgot my keys, and to make matters worse, it started to pour.</code></li><li><code>The server crashed, and to make matters worse, the backup was corrupted.</code></li></ul>",
+    "spanish": "Para colmo de males (para empeorar las cosas), comenzó a llover fuertemente justo cuando tuvimos una llanta ponchada en la autopista.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: End of Day 📖",
+    "text": "At the end of the day, what matters most is that everyone arrived home safely and {{c1::unharmed}}.",
+    "explanation": "'At the end of the day' is a very common idiom meaning ultimately, when everything is taken into consideration.",
+    "usage": "Pattern: <code>at the end of the day / ultimately</code><ul><li><code>At the end of the day, we must deliver value to the client.</code></li><li><code>It is a tough decision, but at the end of the day, it is your choice.</code></li></ul>",
+    "spanish": "Al fin y al cabo (al final del día), lo que más importa es que todos llegaron a casa seguros e ilesos.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
   }
 ]

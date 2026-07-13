@@ -128,5 +128,135 @@
       "socializing",
       "vocabulary"
     ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: What Doing 👋",
+    "text": "I haven't seen you in ages! What have you been {{c1::doing}} lately?",
+    "explanation": "To 'do' (or be doing) is the standard verb for executing actions or pursuing activities, used here in a catch-up greeting.",
+    "usage": "Pattern: <code>what have you been doing / what are you doing</code><ul><li><code>What are you doing after work?</code></li><li><code>I spent the weekend doing chores.</code></li></ul>",
+    "spanish": "¡No te he visto en siglos! ¿Qué has estado haciendo últimamente?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Head Home 👋",
+    "text": "Would you like to join us for dinner after work, or do you need to head straight {{c1::home}}?",
+    "explanation": "'Home' is the noun representing the physical house where a person lives, used here to check if they have post-work commitments.",
+    "usage": "Pattern: <code>head home / go home / stay home</code><ul><li><code>I am going to head home now; see you tomorrow.</code></li><li><code>We stayed home during the storm.</code></li></ul>",
+    "spanish": "¿Te gustaría acompañarnos a cenar después del trabajo, o necesitas irte directo a casa?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Saturday Come By 👋",
+    "text": "I'm hosting a small get-together at my place this Saturday; I'd love for you to {{c1::come by}}.",
+    "explanation": "To 'come by' is the phrasal verb meaning to pay a casual, short visit to a person's house or office.",
+    "usage": "Pattern: <code>come by / drop by / visit</code><ul><li><code>You should come by our office next time you are in town.</code></li><li><code>She came by my desk to ask a question.</code></li></ul>",
+    "spanish": "Estoy organizando una pequeña reunión en mi casa este sábado; me encantaría que pasaras por allí.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Great Host 👋",
+    "text": "Thank you so much for the dinner; you have a lovely home and are a wonderful {{c1::host}}.",
+    "explanation": "A 'host' is a person who receives or entertains guests in their home or at an event, providing hospitality.",
+    "usage": "Pattern: <code>gracious host / host a party</code><ul><li><code>The host welcomed us at the door.</code></li><li><code>She is an excellent host who always prepares amazing food.</code></li></ul>",
+    "spanish": "Muchas gracias por la cena; tienes una casa preciosa y eres un anfitrión maravilloso.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Media Platforms 👋",
+    "text": "Let's keep in touch; are you active on any social media or messaging {{c1::platforms}}?",
+    "explanation": "A 'platform' in a social context refers to messaging or social networking applications (like WhatsApp or LinkedIn) used to communicate.",
+    "usage": "Pattern: <code>social media platforms / messaging platforms</code><ul><li><code>We use multiple messaging platforms to coordinate.</code></li><li><code>Which social media platforms do you prefer?</code></li></ul>",
+    "spanish": "Mantengámonos en contacto; ¿estás activo en alguna red social o plataforma de mensajería?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Meet Next Time 👋",
+    "text": "It was great catching up with you today; let's not wait so long to meet up next {{c1::time}}.",
+    "explanation": "'Time' (in 'next time') refers to the subsequent occurrence, meeting, or event when two people will meet again.",
+    "usage": "Pattern: <code>next time / this time / last time</code><ul><li><code>I will treated you next time.</code></li><li><code>Last time we met was in Paris.</code></li></ul>",
+    "spanish": "Fue genial ponerse al día contigo hoy; no esperemos tanto para reunirnos la próxima vez.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Regards Family 👋",
+    "text": "Could you please pass my regards to your family when you see them {{c1::this weekend}}?",
+    "explanation": "'This weekend' refers to the upcoming Saturday and Sunday, commonly mentioned when parting from someone before the workweek ends.",
+    "usage": "Pattern: <code>this weekend / plans for the weekend</code><ul><li><code>What are you doing this weekend?</code></li><li><code>I am visiting my parents this weekend.</code></li></ul>",
+    "spanish": "¿Podrías por favor enviarle mis saludos a tu familia cuando los veas este fin de semana?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Take Care 👋",
+    "text": "It was a pleasure talking to you; have a safe trip home and take {{c1::care}}.",
+    "explanation": "To 'take care' is a very common, warm, and friendly parting phrase meaning look after yourself.",
+    "usage": "Pattern: <code>take care / take care of yourself</code><ul><li><code>Goodbye, take care!</code></li><li><code>You should take care of your health.</code></li></ul>",
+    "spanish": "Fue un placer hablar contigo; que tengas un viaje seguro a casa y cuídate.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Office Break 👋",
+    "text": "Would you like to grab a coffee this afternoon? I need a short break from the {{c1::office}}.",
+    "explanation": "The 'office' is the physical workplace where an employee works, used here to suggest a temporary break.",
+    "usage": "Pattern: <code>in the office / leave the office</code><ul><li><code>I am working in the office today.</code></li><li><code>Let's step out of the office for a walk.</code></li></ul>",
+    "spanish": "¿Te gustaría ir a tomar un café esta tarde? Necesito un pequeño descanso de la oficina.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Mountain Escape 👋",
+    "text": "Let's plan a weekend trip to the mountains next month to escape the busy city {{c1::life}}.",
+    "explanation": "'City life' refers to the daily lifestyle, routines, and fast pace characteristic of living in a major urban center.",
+    "usage": "Pattern: <code>city life / urban life / country life</code><ul><li><code>I love the cultural activities in city life.</code></li><li><code>City life can be very stressful and noisy.</code></li></ul>",
+    "spanish": "Planifiquemos un viaje de fin de semana a las montañas el próximo mes para escapar de la ajetreada vida de la ciudad.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
   }
 ]

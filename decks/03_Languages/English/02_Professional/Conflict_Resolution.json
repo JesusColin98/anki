@@ -128,5 +128,135 @@
       "conflict_resolution",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Move Past 🤝",
+    "text": "Instead of focusing on past mistakes, let's look forward and find a constructive way to {{c1::move past this}}.",
+    "explanation": "To 'move past' a problem means to accept what happened, stop arguing about it, and focus your energy on future progress.",
+    "usage": "Pattern: <code>move past this / overcome conflict</code><ul><li><code>We had differences, but we managed to move past them.</code></li><li><code>Let's move past this misunderstanding and continue working.</code></li></ul>",
+    "spanish": "En lugar de enfocarnos en los errores pasados, miremos hacia adelante y encontremos una manera constructiva de superar esto.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: No Bad Intention 🤝",
+    "text": "I want to apologize if my comments came across as harsh; that was not my {{c1::intention}}.",
+    "explanation": "'Intention' refers to a person's aim, goal, or purpose behind an action or statement.",
+    "usage": "Pattern: <code>have no intention / standard intention</code><ul><li><code>It was not my intention to offend anyone.</code></li><li><code>We must clarify our intentions before signing the contract.</code></li></ul>",
+    "spanish": "Quiero disculparme si mis comentarios parecieron duros; esa no era mi intención.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Inter-Team Friction 🤝",
+    "text": "Let's schedule a facilitated workshop to resolve the friction between the development and product {{c1::teams}}.",
+    "explanation": "In corporate settings, 'friction' or conflict commonly occurs between cross-functional teams (e.g. devs and product managers). Decoupling their workflows helps resolve this.",
+    "usage": "Pattern: <code>friction between [teams] / resolve friction</code><ul><li><code>We resolved the friction between dev and QA by aligning our goals.</code></li><li><code>Department silos often cause team friction.</code></li></ul>",
+    "spanish": "Agendemos un taller facilitado para resolver la fricción entre los equipos de desarrollo y de producto.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Task Overlap 🤝",
+    "text": "We need to establish clear boundaries to prevent tasks from overlapping and causing future {{c1::friction}}.",
+    "explanation": "'Friction' refers to disagreement, conflict, or clash of wills between individuals or groups.",
+    "usage": "Pattern: <code>cause friction / reduce friction</code><ul><li><code>Ambiguity in roles can cause friction in the workspace.</code></li><li><code>Clear boundaries help reduce team friction.</code></li></ul>",
+    "spanish": "Necesitamos establecer límites claros para evitar que las tareas se traslapen y causen fricciones futuras.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Collaborate Effectively 🤝",
+    "text": "I agree that we have different approaches, but we must find a way to compromise and {{c1::collaborate effectively}}.",
+    "explanation": "To 'collaborate effectively' means to work together productively, sharing goals and communicating openly to achieve a task successfully.",
+    "usage": "Pattern: <code>collaborate effectively / team collaboration</code><ul><li><code>Our team uses Slack to collaborate effectively from different locations.</code></li><li><code>We must collaborate effectively to launch on schedule.</code></li></ul>",
+    "spanish": "Estoy de acuerdo en que tenemos enfoques diferentes, pero debemos encontrar una forma de llegar a un acuerdo y colaborar de manera efectiva.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Resurfacing Issues 🤝",
+    "text": "Let's document the agreed-upon resolutions so we can refer back to them if issues {{c1::resurface}}.",
+    "explanation": "To 'resurface' means to arise or become active again after a period of being hidden, resolved, or inactive.",
+    "usage": "Pattern: <code>issues resurface / problems reappear</code><ul><li><code>The database bugs resurfaced after the patch deployment.</code></li><li><code>We must act before past conflicts resurface.</code></li></ul>",
+    "spanish": "Documentemos las resoluciones acordadas para que podamos consultarlas si los problemas resurgen/vuelven a aparecer.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Safe Space 🤝",
+    "text": "I understand you have concerns about the new policy; let's discuss them openly in a {{c1::safe space}}.",
+    "explanation": "A 'safe space' is a supportive, non-judgmental environment where people can speak openly about concerns or feelings without fear of retaliation.",
+    "usage": "Pattern: <code>safe space / supportive environment</code><ul><li><code>Our one-on-one calls are a safe space to share feedback.</code></li><li><code>We created a safe space for employees to report harassment.</code></li></ul>",
+    "spanish": "Entiendo que tenga inquietudes sobre la nueva política; discutámoslas abiertamente en un espacio seguro.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Restructuring Process 🤝",
+    "text": "We need to ensure that everyone feels heard and respected during this restructuring {{c1::process}}.",
+    "explanation": "A 'restructuring process' involves reorganizing a company's hierarchy, teams, or operational flows, which often causes anxiety and conflict among staff.",
+    "usage": "Pattern: <code>restructuring process / organizational change</code><ul><li><code>The restructuring process led to several department merges.</code></li><li><code>We must communicate clearly during the restructuring process.</code></li></ul>",
+    "spanish": "Necesitamos asegurarnos de que todos se sientan escuchados y respetados durante este proceso de reestructuración.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Benefit of Doubt 🤝",
+    "text": "Instead of assuming bad intentions, let's give our teammates the {{c1::benefit of the doubt}}.",
+    "explanation": "To give someone the 'benefit of the doubt' means to believe their statements or assume their actions are benign, even if you are not completely sure.",
+    "usage": "Pattern: <code>give the benefit of the doubt</code><ul><li><code>He was late, but I gave him the benefit of the doubt because of traffic.</code></li><li><code>Always give colleagues the benefit of the doubt before raising issues.</code></li></ul>",
+    "spanish": "En lugar de asumir malas intenciones, demos a nuestros compañeros de trabajo el beneficio de la duda.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Steering Committee 🤝",
+    "text": "If we cannot reach an agreement, we will have to escalate this decision to the steering {{c1::committee}}.",
+    "explanation": "A 'steering committee' is a advisory board of high-level stakeholders that guides a project and resolves high-level conflicts or deadlocks.",
+    "usage": "Pattern: <code>steering committee / governing board</code><ul><li><code>The steering committee rejected the proposed budget increase.</code></li><li><code>Escalate the contract dispute to the steering committee.</code></li></ul>",
+    "spanish": "Si no podemos llegar a un acuerdo, tendremos que escalar esta decisión al comité de dirección.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
   }
 ]

@@ -125,5 +125,135 @@
       "office_meetings",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Send by Tomorrow 🖥️",
+    "text": "Could you please take minutes during the meeting and email them to the attendees {{c1::by tomorrow morning}}?",
+    "explanation": "'By tomorrow morning' is a common business deadline, requesting that a task be completed and sent before the start of the next workday.",
+    "usage": "Pattern: <code>by tomorrow morning / first thing tomorrow</code><ul><li><code>I'll have the code review ready by tomorrow morning.</code></li><li><code>Please send the contract to the client by tomorrow morning.</code></li></ul>",
+    "spanish": "¿Podrías por favor tomar la minuta durante la reunión y enviarla por correo electrónico a los asistentes para mañana por la mañana?",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Database Project 🖥️",
+    "text": "Let's introduce our new team member, Colin, who will be taking over the database migration {{c1::project}}.",
+    "explanation": "A 'project' is an individual or collaborative enterprise that is carefully planned and designed to achieve a particular aim.",
+    "usage": "Pattern: <code>project manager / project milestones</code><ul><li><code>I am managing the new API development project.</code></li><li><code>The database migration project was completed on schedule.</code></li></ul>",
+    "spanish": "Presentemos a nuestro nuevo miembro del equipo, Colin, quien se hará cargo del proyecto de migración de la base de datos.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: User Registration 🖥️",
+    "text": "I'd like to present the user flow diagram to show how the customer registers on our {{c1::platform}}.",
+    "explanation": "A 'platform' is a major software environment, website, or infrastructure where services are hosted and executed.",
+    "usage": "Pattern: <code>software platform / cloud platform</code><ul><li><code>Our platform supports over 10,000 concurrent connections.</code></li><li><code>We deployed our application on a secure hosting platform.</code></li></ul>",
+    "spanish": "Me gustaría presentar el diagrama de flujo de usuario para mostrar cómo el cliente se registra en nuestra plataforma.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Address Concerns 🖥️",
+    "text": "We will allocate the last fifteen minutes of the meeting for an open discussion to address any {{c1::concerns}}.",
+    "explanation": "A 'concern' is a matter of interest, anxiety, or worry raised by team members or clients regarding a plan or change.",
+    "usage": "Pattern: <code>address concerns / voice concerns</code><ul><li><code>The director met with staff to address their concerns about the restructuring.</code></li><li><code>If you have any safety concerns, please voice them immediately.</code></li></ul>",
+    "spanish": "Asignaremos los últimos quince minutos de la reunión para una discusión abierta para abordar cualquier preocupación.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Implementation Steps 🖥️",
+    "text": "I agree with your proposal; let's schedule a follow-up call to plan the implementation {{c1::steps}}.",
+    "explanation": "'Steps' refer to the phases or individual tasks required to carry out a proposal or plan.",
+    "usage": "Pattern: <code>implementation steps / action steps</code><ul><li><code>The document outlines the implementation steps for the database migration.</code></li><li><code>We followed the configuration steps exactly.</code></li></ul>",
+    "spanish": "Estoy de acuerdo con su propuesta; programemos una llamada de seguimiento para planificar los pasos de implementación.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Reference Metrics 🖥️",
+    "text": "Please make sure you have the report ready before the meeting starts so we can reference the {{c1::metrics}}.",
+    "explanation": "'Metrics' are measures of quantitative assessment commonly used for assessing, comparing, and tracking performance (e.g. latency, conversions).",
+    "usage": "Pattern: <code>performance metrics / tracking metrics</code><ul><li><code>Our primary performance metric is API response time.</code></li><li><code>Review the marketing metrics before launching the campaign.</code></li></ul>",
+    "spanish": "Por favor, asegúrese de tener el informe listo antes de que comience la reunión para que podamos hacer referencia a las métricas.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Assign Tasks 🖥️",
+    "text": "If there are no objections, let's proceed with the plan and assign tasks to the respective team {{c1::members}}.",
+    "explanation": "A 'member' is an individual belonging to a group or team.",
+    "usage": "Pattern: <code>team members / staff members</code><ul><li><code>All team members must attend the daily stand-up meeting.</code></li><li><code>We welcomed three new members to our division.</code></li></ul>",
+    "spanish": "Si no hay objeciones, procedamos con el plan y asignemos tareas a los respectivos miembros del equipo.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Past Quarter 🖥️",
+    "text": "I'd like to share a quick update on our customer acquisition costs for this past {{c1::quarter}}.",
+    "explanation": "A 'quarter' (Q1, Q2, Q3, Q4) is a three-month period in a financial calendar, used to report business earnings and metrics.",
+    "usage": "Pattern: <code>fiscal quarter / third quarter / Q3</code><ul><li><code>Our revenue increased by 10% in the last quarter.</code></li><li><code>We are planning our goals for the upcoming quarter.</code></li></ul>",
+    "spanish": "Me gustaría compartir una actualización rápida sobre nuestros costos de adquisición de clientes para este último trimestre.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Future Features 🖥️",
+    "text": "Let's keep the discussion focused on the project milestones and avoid discussing future product {{c1::features}}.",
+    "explanation": "A 'feature' is a distinctive attribute or aspect of a software application (e.g. user authentication, dark mode).",
+    "usage": "Pattern: <code>product features / new features</code><ul><li><code>The developer is coding the new search feature.</code></li><li><code>Users requested a data export feature.</code></li></ul>",
+    "spanish": "Mantengamos la discusión enfocada en los hitos del proyecto y evitemos discutir futuras características del producto.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Next Sync 🖥️",
+    "text": "Thank you all for your feedback today; we will use these insights to refine the project design before our next {{c1::sync}}.",
+    "explanation": "A 'sync' (synchronization) is business jargon for a regular meeting scheduled to align team members on project updates.",
+    "usage": "Pattern: <code>weekly sync / schedule a sync</code><ul><li><code>Let's schedule a quick sync call tomorrow morning.</code></li><li><code>The weekly sync is scheduled for Tuesdays at 10:00 AM.</code></li></ul>",
+    "spanish": "Gracias a todos por sus comentarios de hoy; utilizaremos estos conocimientos para refinar el diseño del proyecto antes de nuestra próxima reunión de sincronización.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
   }
 ]

@@ -128,5 +128,135 @@
       "philosophical",
       "vocabulary"
     ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Performance 🎓",
+    "text": "The study demonstrates a significant correlation between high-quality sleep and academic {{c1::performance}}.",
+    "explanation": "'Performance' refers to how well a person, machine, or system executes a task or role.",
+    "usage": "Pattern: <code>academic performance / system performance</code><ul><li><code>We monitor database performance on a daily basis.</code></li><li><code>High stress levels can degrade work performance.</code></li></ul>",
+    "spanish": "El estudio demuestra una correlación significativa entre el sueño de alta calidad y el rendimiento académico.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Cognitive Biases 🎓",
+    "text": "We must evaluate the findings objectively and avoid drawing conclusions based on cognitive {{c1::biases}}.",
+    "explanation": "'Cognitive biases' are systematic patterns of deviation from norm or rationality in judgment, affecting decision-making.",
+    "usage": "Pattern: <code>cognitive biases / personal bias</code><ul><li><code>Awareness of cognitive biases is crucial for objective research.</code></li><li><code>Confirmation bias is a very common cognitive bias.</code></li></ul>",
+    "spanish": "Debemos evaluar los hallazgos objetivamente y evitar sacar conclusiones basadas en sesgos cognitivos.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Social Structures 🎓",
+    "text": "The author argues that social structures shape our perception of reality and influence our decision-making {{c1::processes}}.",
+    "explanation": "'Processes' are series of actions or steps taken in order to achieve a particular end (e.g. decision making).",
+    "usage": "Pattern: <code>decision-making processes / business processes</code><ul><li><code>We streamlined our development processes using Agile.</code></li><li><code>Understanding consumer decision-making processes is key to marketing.</code></li></ul>",
+    "spanish": "El autor sostiene que las estructuras sociales dan forma a nuestra percepción de la realidad e influyen en nuestros procesos de toma de decisiones.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Validate Experiments 🎓",
+    "text": "This hypothesis must be validated through empirical research and peer-reviewed {{c1::experiments}}.",
+    "explanation": "An 'experiment' is a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.",
+    "usage": "Pattern: <code>run experiments / scientific experiments</code><ul><li><code>We ran multiple experiments to evaluate the new algorithm.</code></li><li><code>The findings were verified by independent experiments.</code></li></ul>",
+    "spanish": "Esta hipótesis debe ser validada a través de investigaciones empíricas y experimentos revisados por pares.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Differentiate Analysis 🎓",
+    "text": "We must differentiate between correlation and causation to avoid logical errors in our scientific {{c1::analysis}}.",
+    "explanation": "'Analysis' is the detailed examination of the elements or structure of something, typically as a basis for discussion or interpretation.",
+    "usage": "Pattern: <code>statistical analysis / data analysis</code><ul><li><code>We completed a thorough analysis of the database logs.</code></li><li><code>The paper presents a qualitative analysis of the interviews.</code></li></ul>",
+    "spanish": "Debemos diferenciar entre correlación y causalidad para evitar errores lógicos en nuestro análisis científico.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Region Impact 🎓",
+    "text": "The paper provides critical insights into the long-term impact of deforestation on biodiversity in the {{c1::region}}.",
+    "explanation": "A 'region' is an area, especially part of a country or the world, having definable characteristics but not always fixed boundaries.",
+    "usage": "Pattern: <code>local region / geographic region</code><ul><li><code>The company operates in three regions: EMEA, APAC, and LATAM.</code></li><li><code>The research focuses on biodiversity in the Amazon region.</code></li></ul>",
+    "spanish": "El artículo proporciona información crítica sobre el impacto a largo plazo de la deforestación en la biodiversidad de la región.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Natural Phenomenon 🎓",
+    "text": "We need to collect more data before we can formulate a robust theory to explain this natural {{c1::phenomenon}}.",
+    "explanation": "A 'phenomenon' is a fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question.",
+    "usage": "Pattern: <code>natural phenomenon / social phenomenon</code><ul><li><code>The northern lights are a famous natural phenomenon.</code></li><li><code>We must investigate this strange database latency phenomenon.</code></li></ul>",
+    "spanish": "Necesitamos recopilar más datos antes de poder formular una teoría sólida para explicar este fenómeno natural.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Research Fields 🎓",
+    "text": "The study explores the ethical implications of using gene editing in agriculture and medical research {{c1::fields}}.",
+    "explanation": "A 'field' (in research) is a branch of study or sphere of activity or interest (e.g. computer science, genetics).",
+    "usage": "Pattern: <code>research fields / field of study</code><ul><li><code>AI has revolutionized many scientific research fields.</code></li><li><code>What is your primary field of study?</code></li></ul>",
+    "spanish": "El estudio explora las implicaciones éticas del uso de la edición genética en la agricultura y los campos de investigación médica.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Acknowledge Limitations 🎓",
+    "text": "We must acknowledge the limitations of our research and suggest areas for future studies to expand our {{c1::knowledge}}.",
+    "explanation": "'Knowledge' refers to facts, information, and skills acquired by a person through experience or education.",
+    "usage": "Pattern: <code>expand our knowledge / domain knowledge</code><ul><li><code>The training helped me build my domain knowledge of cloud databases.</code></li><li><code>Research aims to expand our knowledge of the universe.</code></li></ul>",
+    "spanish": "Debemos reconocer las limitaciones de nuestra investigación y sugerir áreas para estudios futuros para ampliar nuestro conocimiento.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Statistical Analysis 🎓",
+    "text": "The research methodology is based on both qualitative interviews and quantitative statistical data {{c1::analysis}}.",
+    "explanation": "'Analysis' is the detailed examination of data, here referring to quantitative data parsing.",
+    "usage": "Pattern: <code>data analysis / database analysis</code><ul><li><code>The team completed a thorough data analysis of traffic spikes.</code></li><li><code>Statistical analysis is essential for machine learning tasks.</code></li></ul>",
+    "spanish": "La metodología de investigación se basa tanto en entrevistas cualitativas como en el análisis cuantitativo de datos estadísticos.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
   }
 ]

@@ -130,5 +130,135 @@
       "airport",
       "vocabulary"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Terminal ✈️",
+    "text": "Could you tell me which terminal is for {{c1::domestic flights}}?",
+    "explanation": "'Domestic flights' are flights that stay within the boundaries of the same country, as opposed to international flights.",
+    "usage": "Pattern: <code>domestic flights / domestic terminal</code><ul><li><code>All domestic flights depart from Terminal 2.</code></li><li><code>I am traveling within the country, so I need to check in for domestic flights.</code></li></ul>",
+    "spanish": "¿Podría decirme qué terminal es para vuelos nacionales?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Rebooking ✈️",
+    "text": "I missed my flight; is there a desk where I can {{c1::rebook my ticket}}?",
+    "explanation": "To 'rebook a ticket' means to change the reservation on a ticket, typically after missing a flight or if a flight is canceled, allocating the passenger to a new flight.",
+    "usage": "Pattern: <code>rebook my ticket / rebook a flight</code><ul><li><code>The airline helped me rebook my ticket for the next available flight.</code></li><li><code>Can I rebook my ticket online without paying a fee?</code></li></ul>",
+    "spanish": "Perdí mi vuelo; ¿hay algún mostrador donde pueda volver a reservar mi boleto?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Security check ✈️",
+    "text": "Please place all metal objects in the bin before going through the {{c1::metal detector}}.",
+    "explanation": "A 'metal detector' is the electronic security portal in an airport checkpoint that scans passengers for metallic weapons or devices.",
+    "usage": "Pattern: <code>metal detector / walk-through scanner</code><ul><li><code>Step through the metal detector one at a time.</code></li><li><code>My belt buckle triggered the metal detector.</code></li></ul>",
+    "spanish": "Por favor, coloque todos los objetos metálicos en la bandeja antes de pasar por el detector de metales.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Customs ✈️",
+    "text": "We need to clear {{c1::customs control}} before exiting the airport.",
+    "explanation": "To clear 'customs control' means passing through the government checkpoint at an international border to declare goods and verify compliance with imports.",
+    "usage": "Pattern: <code>customs control / clear customs</code><ul><li><code>It took us an hour to clear customs control in London.</code></li><li><code>Do you have anything to declare at customs control?</code></li></ul>",
+    "spanish": "Necesitamos pasar el control de aduanas antes de salir del aeropuerto.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Lost & Found ✈️",
+    "text": "Excuse me, where is the office for {{c1::lost and found}}?",
+    "explanation": "The 'lost and found' (or lost property office) is the department in a public facility where lost items are kept for owners to claim.",
+    "usage": "Pattern: <code>lost and found / lost property</code><ul><li><code>I left my umbrella on the plane; I should check the lost and found.</code></li><li><code>The lost and found office is near the baggage claim.</code></li></ul>",
+    "spanish": "Disculpe, ¿dónde está la oficina de objetos perdidos y encontrados?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Takeoff ✈️",
+    "text": "The captain announced that we are preparing for {{c1::takeoff}}.",
+    "explanation": "'Takeoff' is the moment or process when an aircraft leaves the ground and rises into the air.",
+    "usage": "Pattern: <code>takeoff / prepare for takeoff</code><ul><li><code>Please fasten your seatbelts in preparation for takeoff.</code></li><li><code>The takeoff was very smooth despite the rain.</code></li></ul>",
+    "spanish": "El capitán anunció que nos estamos preparando para el despegue.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Landing ✈️",
+    "text": "Please remain seated with your seatbelt fastened until the plane has finished {{c1::landing}}.",
+    "explanation": "'Landing' is the process of bringing an aircraft down to the ground or runway at the end of a flight.",
+    "usage": "Pattern: <code>landing / smooth landing</code><ul><li><code>The pilot made a safe landing despite the crosswinds.</code></li><li><code>Remain seated until the landing is complete.</code></li></ul>",
+    "spanish": "Por favor, permanezca sentado con su cinturón abrochado hasta que el avión haya terminado de aterrizar.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Arrivals Hall ✈️",
+    "text": "Is there a currency exchange booth in the {{c1::arrivals hall}}?",
+    "explanation": "The 'arrivals hall' is the public area in an airport terminal where passengers emerge after clearing customs and baggage claim.",
+    "usage": "Pattern: <code>arrivals hall / departures hall</code><ul><li><code>My family was waiting for me in the arrivals hall.</code></li><li><code>You can buy a local SIM card in the arrivals hall.</code></li></ul>",
+    "spanish": "¿Hay una cabina de cambio de divisas en la sala de llegadas?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Cabin Bag ✈️",
+    "text": "Passengers are allowed to bring one piece of checked luggage and one {{c1::cabin bag}}.",
+    "explanation": "A 'cabin bag' (or hand luggage) is a small suitcase that complies with airline size rules to be stored in the overhead bins.",
+    "usage": "Pattern: <code>cabin bag / hand luggage</code><ul><li><code>Make sure your cabin bag is not too heavy.</code></li><li><code>I only traveled with a cabin bag to avoid baggage claim.</code></li></ul>",
+    "spanish": "Los pasajeros pueden llevar una pieza de equipaje registrado y una maleta de cabina.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Baggage Fee ✈️",
+    "text": "If your bags are overweight, you will have to pay an {{c1::excess baggage fee}}.",
+    "explanation": "An 'excess baggage fee' is a charge made by an airline for luggage that exceeds the weight or size allowance.",
+    "usage": "Pattern: <code>excess baggage fee / overweight luggage fee</code><ul><li><code>They charged me a $50 excess baggage fee because my suitcase was 5kg over.</code></li><li><code>Avoid the excess baggage fee by wearing your heavy coat.</code></li></ul>",
+    "spanish": "Si sus maletas tienen sobrepeso, tendrá que pagar una tarifa por exceso de equipaje.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
   }
 ]

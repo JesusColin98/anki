@@ -128,5 +128,135 @@
       "meeting_efficiency",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Run Over Time ⏱️",
+    "text": "Let's make sure we stick to the time limits for each agenda item to avoid running {{c1::over time}}.",
+    "explanation": "To 'run over time' (or run late) means that a meeting or task takes longer than the scheduled duration, disrupting subsequent events.",
+    "usage": "Pattern: <code>run over time / run late</code><ul><li><code>The presentation ran over time, so we had to skip the Q&A.</code></li><li><code>Please notify the client if you are running late.</code></li></ul>",
+    "spanish": "Asegurémonos de apegarnos a los límites de tiempo para cada punto de la agenda para evitar pasarnos del tiempo.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Main Takeaway ⏱️",
+    "text": "We only have ten minutes left, so let's skip the details and focus on the main {{c1::takeaway}}.",
+    "explanation": "A 'takeaway' (or key learning) is a primary fact, conclusion, or piece of information that you learn or retain from a discussion or meeting.",
+    "usage": "Pattern: <code>main takeaway / key takeaway</code><ul><li><code>What is the main takeaway from the post-mortem report?</code></li><li><code>My key takeaway was that we must run stress tests before launching.</code></li></ul>",
+    "spanish": "Solo nos quedan diez minutos, así que omitamos los detalles y enfoquémonos en la conclusión principal/punto clave.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: In Advance ⏱️",
+    "text": "Could you please share the slide deck before the call so everyone can review the data in {{c1::advance}}?",
+    "explanation": "To do something 'in advance' (or beforehand) means doing it ahead of time, before a specific event or deadline.",
+    "usage": "Pattern: <code>in advance / beforehand</code><ul><li><code>Please submit your requests two days in advance.</code></li><li><code>I booked the train tickets in advance to save money.</code></li></ul>",
+    "spanish": "¿Podrías por favor compartir la presentación de diapositivas antes de la llamada para que todos puedan revisar los datos con anticipación?",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Review Progress ⏱️",
+    "text": "Let's schedule a follow-up meeting next week to review progress on our action {{c1::items}}.",
+    "explanation": "'Action items' are the specific tasks assigned to individuals during a meeting, here referenced in the plural form.",
+    "usage": "Pattern: <code>action items / list of tasks</code><ul><li><code>We documented all action items in the shared document.</code></li><li><code>Let's make sure we execute our action items on schedule.</code></li></ul>",
+    "spanish": "Agendemos una reunión de seguimiento la próxima semana para revisar el progreso de nuestras tareas pendientes.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Prior Notice ⏱️",
+    "text": "We need to respect the meeting host's agenda and avoid introducing unrelated topics without prior {{c1::notice}}.",
+    "explanation": "'Prior notice' (or advance warning) is a notification given ahead of time regarding a change, request, or event.",
+    "usage": "Pattern: <code>prior notice / short notice</code><ul><li><code>You must give two weeks' prior notice before taking vacation.</code></li><li><code>Thank you for attending on such short notice.</code></li></ul>",
+    "spanish": "Necesitamos respetar la agenda del anfitrión de la reunión y evitar introducir temas no relacionados sin previo aviso.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Background Noise ⏱️",
+    "text": "Please make sure your microphone is muted when you are not speaking to minimize background {{c1::noise}}.",
+    "explanation": "'Background noise' is any extraneous, unwanted sound (like traffic, construction, or typing) that interferes with communication during a call.",
+    "usage": "Pattern: <code>background noise / extraneous sound</code><ul><li><code>There was too much background noise during the call.</code></li><li><code>Use a headset to reduce background noise.</code></li></ul>",
+    "spanish": "Por favor, asegúrese de silenciar su micrófono cuando no esté hablando para minimizar el ruido de fondo.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Hold Up Group ⏱️",
+    "text": "If you have any detailed feedback, please send it via email to avoid holding up the rest of the {{c1::group}}.",
+    "explanation": "To 'hold up' the group is a phrasal verb meaning to delay, block, or slow down progress for everyone in the meeting.",
+    "usage": "Pattern: <code>hold up the process / delay the team</code><ul><li><code>We don't want to hold up the release, so deploy the hotfix now.</code></li><li><code>The accident held up traffic for hours.</code></li></ul>",
+    "spanish": "Si tiene algún comentario detallado, envíelo por correo electrónico para evitar retrasar al resto del grupo.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Discuss Details ⏱️",
+    "text": "Let's take this discussion offline and schedule a separate call with the database engineers to {{c1::discuss the details}}.",
+    "explanation": "To 'discuss the details' is the standard collocation meaning to evaluate the specifics, technical details, or fine points of a plan.",
+    "usage": "Pattern: <code>discuss the details / evaluate specifics</code><ul><li><code>We met to discuss the details of the API integration.</code></li><li><code>The post-mortem report discusses the details of the crash.</code></li></ul>",
+    "spanish": "Llevemos esta discusión fuera de la reunión (offline) y programemos una llamada separada con los ingenieros de bases de datos para discutir los detalles.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Daily Tasks ⏱️",
+    "text": "We have reached our goals for this meeting, so let's adjourn and get back to our daily {{c1::tasks}}.",
+    "explanation": "'Daily tasks' (or daily chores/duties) are the routine activities that an employee must execute each day in their job.",
+    "usage": "Pattern: <code>daily tasks / routine workload</code><ul><li><code>Writing unit tests is one of my daily tasks.</code></li><li><code>He organized his daily tasks on a Kanban board.</code></li></ul>",
+    "spanish": "Hemos logrado nuestros objetivos para esta reunión, así que levantemos la sesión y volvamos a nuestras tareas diarias.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Absent Members ⏱️",
+    "text": "Thank you all for joining today; I will share the recording of this session with the team members who were {{c1::absent}}.",
+    "explanation": "'Absent' is an adjective meaning not present in a place, meeting, or event.",
+    "usage": "Pattern: <code>absent from work / absent members</code><ul><li><code>He was absent from the meeting because of illness.</code></li><li><code>The secretary noted the names of the absent board members.</code></li></ul>",
+    "spanish": "Gracias a todos por unirse hoy; compartiré la grabación de esta sesión con los miembros del equipo que estuvieron ausentes.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
   }
 ]

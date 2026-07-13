@@ -124,5 +124,135 @@
       "coffee_shop",
       "vocabulary"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Extra Hot ☕",
+    "text": "I'll have a decaf latte, and please make sure it is {{c1::extra hot}}.",
+    "explanation": "'Extra hot' is a specific order request asking the barista to steam the milk to a higher temperature (typically around 160-170°F).",
+    "usage": "Pattern: <code>extra hot / steam the milk extra hot</code><ul><li><code>Could you make my mocha extra hot?</code></li><li><code>I like my cappuccino extra hot when it is freezing outside.</code></li></ul>",
+    "spanish": "Tomaré un café con leche descafeinado, y por favor asegúrese de que esté extra caliente.",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Sweetener ☕",
+    "text": "Do you have any sugar substitutes like stevia or {{c1::artificial sweeteners}}?",
+    "explanation": "An 'artificial sweetener' is a food additive that provides a sweet taste like that of sugar while containing significantly less food energy.",
+    "usage": "Pattern: <code>artificial sweeteners / sugar substitutes</code><ul><li><code>I don't use sugar; I prefer artificial sweeteners.</code></li><li><code>Does this coffee shop have any artificial sweeteners like Splenda?</code></li></ul>",
+    "spanish": "¿Tienen algún sustituto de azúcar como stevia o edulcorantes artificiales?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Patio ☕",
+    "text": "I'd like to sit outside; is there any table available on the {{c1::patio}}?",
+    "explanation": "A 'patio' (or terrace) is an outdoor space adjacent to a cafe or house, typically paved and used for dining or recreation.",
+    "usage": "Pattern: <code>patio / outdoor seating / terrace</code><ul><li><code>Let's sit on the patio to enjoy the sunny weather.</code></li><li><code>The patio was packed with customers.</code></li></ul>",
+    "spanish": "Me gustaría sentarme afuera; ¿hay alguna mesa disponible en la terraza/patio?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Toast Pastry ☕",
+    "text": "Can I get a slice of banana bread and please {{c1::toast it}} for me?",
+    "explanation": "To 'toast' a pastry means to heat it using a toaster or grill until it is warm and slightly crispy on the outside.",
+    "usage": "Pattern: <code>toast it / toasted bread</code><ul><li><code>Would you like me to toast the bagel for you?</code></li><li><code>I prefer my bread lightly toasted.</code></li></ul>",
+    "spanish": "¿Me da una rebanada de pan de plátano y por favor me la tuesta?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: As Is ☕",
+    "text": "I'll buy this mug; does it come with a lid or is it sold {{c1::as is}}?",
+    "explanation": "'As is' is a legal and commercial phrase meaning that the product is sold in its current condition, with all faults, without any warranty.",
+    "usage": "Pattern: <code>sold as is / buy as is</code><ul><li><code>The defective device was sold as is with no returns.</code></li><li><code>We bought the display model as is for a discount.</code></li></ul>",
+    "spanish": "Compraré esta taza; ¿viene con tapa o se vende tal como está?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Stirrers ☕",
+    "text": "Excuse me, where can I find some napkins and {{c1::stirrers}}?",
+    "explanation": "A 'stirrer' is a small wooden or plastic stick used to mix sugar or milk into a hot beverage like coffee or tea.",
+    "usage": "Pattern: <code>wooden stirrers / plastic stirrers</code><ul><li><code>Wooden stirrers are more eco-friendly than plastic ones.</code></li><li><code>Please grab a stirrer from the condiment counter.</code></li></ul>",
+    "spanish": "Disculpe, ¿dónde puedo encontrar algunas servilletas y agitadores?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Recommend For ☕",
+    "text": "I'd like to purchase some coffee beans; which blend do you {{c1::recommend for}} espresso?",
+    "explanation": "To 'recommend for [method]' is the standard collocation used when asking a barista or merchant which product matches a specific preparation method.",
+    "usage": "Pattern: <code>recommend for [brewing method / use case]</code><ul><li><code>Which coffee beans do you recommend for cold brew?</code></li><li><code>The barista recommended this dark roast for espresso.</code></li></ul>",
+    "spanish": "Me gustaría comprar algunos granos de café; ¿qué mezcla me recomienda para espresso?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Top of Foam ☕",
+    "text": "Could you add some cocoa powder or cinnamon on {{c1::top of}} the foam?",
+    "explanation": "'On top of' is a prepositional phrase meaning directly on the upper surface of something.",
+    "usage": "Pattern: <code>on top of [surface / foam]</code><ul><li><code>Sprinkle some chocolate flakes on top of the cream.</code></li><li><code>He put his keys on top of the table.</code></li></ul>",
+    "spanish": "¿Podría agregar un poco de cacao en polvo o canela encima de la espuma?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Dine In ☕",
+    "text": "Do you offer free refills on drip coffee if I {{c1::dine in}}?",
+    "explanation": "To 'dine in' (or eat in) means to consume your food or drink inside the restaurant or cafe premises, as opposed to taking it 'to go'.",
+    "usage": "Pattern: <code>dine in / eat in / to go</code><ul><li><code>Would you like to dine in or is this to go?</code></li><li><code>Dine-in customers get free water refills.</code></li></ul>",
+    "spanish": "¿Ofrecen recargas gratuitas de café de filtro si consumo aquí?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Payment Reader ☕",
+    "text": "I'll pay with my phone using the contactless {{c1::payment reader}}.",
+    "explanation": "A 'payment reader' (or card terminal) is the electronic device that scans credit cards or mobile wallets using NFC for transactions.",
+    "usage": "Pattern: <code>payment reader / card reader / card terminal</code><ul><li><code>Hold your phone near the payment reader to complete the transaction.</code></li><li><code>The payment reader is not responding.</code></li></ul>",
+    "spanish": "Pagaré con mi teléfono usando el lector de pagos sin contacto.",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
   }
 ]

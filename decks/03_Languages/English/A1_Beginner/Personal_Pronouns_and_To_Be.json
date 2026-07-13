@@ -133,5 +133,135 @@
       "to_be",
       "grammar"
     ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: To Be (You Are) 🧩",
+    "text": "You {{c1::are}} our guest, so please make yourself at home.",
+    "explanation": "'Are' is the present tense verb used with both singular and plural second-person pronoun 'you'.",
+    "usage": "Pattern: <code>you are [noun/adjective]</code><ul><li><code>You are a helpful teammate.</code></li><li><code>You are welcome.</code></li></ul>",
+    "spanish": "Eres nuestro invitado, así que por favor siéntete como en casa.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: To Be (He Is) 🧩",
+    "text": "He {{c1::is}} tired after a long day of work, so he is going to sleep early tonight.",
+    "explanation": "'Is' is the singular form of 'to be' used with the third-person masculine pronoun 'he'.",
+    "usage": "Pattern: <code>he is [adjective/noun]</code><ul><li><code>He is the project manager.</code></li><li><code>He is busy right now.</code></li></ul>",
+    "spanish": "Él está cansado después de un largo día de trabajo, por lo que va a dormir temprano esta noche.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: To Be (They Are) 🧩",
+    "text": "They {{c1::are}} late for the meeting, we need to start without them.",
+    "explanation": "'Are' is the present tense plural form of 'to be' used with the third-person plural pronoun 'they'.",
+    "usage": "Pattern: <code>they are [adjective/noun]</code><ul><li><code>They are behind schedule.</code></li><li><code>They are developers.</code></li></ul>",
+    "spanish": "Ellos llegan tarde a la reunión, necesitamos comenzar sin ellos.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: To Be (She Is) 🧩",
+    "text": "She {{c1::is}} my sister, and her name is Maria.",
+    "explanation": "'Is' is the singular present tense form of 'to be' used with the third-person feminine pronoun 'she'.",
+    "usage": "Pattern: <code>she is [noun/adjective]</code><ul><li><code>She is our team leader.</code></li><li><code>She is very helpful.</code></li></ul>",
+    "spanish": "Ella es mi hermana, y su nombre es María.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Kind Person 🧩",
+    "text": "I {{c1::am}} very happy to meet you; you {{c2::are}} a very kind person.",
+    "explanation": "'Am' is the first-person singular present tense, and 'are' is the second-person singular present tense form of 'to be'.",
+    "usage": "Pattern: <code>I am [adjective] / you are [noun]</code><ul><li><code>I am happy to know you.</code></li><li><code>You are a wonderful friend.</code></li></ul>",
+    "spanish": "Estoy muy feliz de conocerte; eres una persona muy amable.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Object Pronouns 🧩",
+    "text": "The teacher called {{c1::him}} and asked {{c2::her}} to present their homework first.",
+    "explanation": "'Him' and 'her' are third-person singular object pronouns, used as the object of a verb or preposition (not the subject).",
+    "usage": "Pattern: <code>call him / thank her / help them</code><ul><li><code>She told him to wait outside.</code></li><li><code>I asked her to review my code.</code></li></ul>",
+    "spanish": "El maestro llamó a él y le pidió a ella que presentaran su tarea primero.",
+    "tags": [
+      "english_beginner",
+      "pronouns",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Possessive Pronouns 🧩",
+    "text": "This laptop is {{c1::mine}}, and that tablet on the desk is {{c2::yours}}.",
+    "explanation": "'Mine' is the first-person singular possessive pronoun, and 'yours' is the second-person possessive pronoun. They replace 'my [noun]' and 'your [noun]' respectively.",
+    "usage": "Pattern: <code>it's mine / it's yours</code><ul><li><code>The red cup is mine; the blue one is yours.</code></li><li><code>Is this seat yours?</code></li></ul>",
+    "spanish": "Esta laptop es mía, y esa tableta en el escritorio es tuya.",
+    "tags": [
+      "english_beginner",
+      "pronouns",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Negative To Be 🧩",
+    "text": "I {{c1::am not}} late; the meeting {{c2::is not}} until 3:00 PM.",
+    "explanation": "The negative form of 'to be' is made by adding 'not' after the verb: 'am not', 'is not' (isn't), 'are not' (aren't).",
+    "usage": "Pattern: <code>am not / is not / are not</code><ul><li><code>He is not ready yet.</code></li><li><code>We are not from here.</code></li></ul>",
+    "spanish": "No llego tarde; la reunión no es hasta las 3:00 PM.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Questions with To Be 🧩",
+    "text": "{{c1::Are}} you the new developer? {{c2::Is}} the project manager in the office today?",
+    "explanation": "Questions with 'to be' are formed by inverting the subject and verb: 'Are you...?' / 'Is he...?' No auxiliary verb is needed.",
+    "usage": "Pattern: <code>Are you [noun]? / Is he [adjective]?</code><ul><li><code>Is she the project lead?</code></li><li><code>Are they on the same team?</code></li></ul>",
+    "spanish": "¿Eres el nuevo desarrollador? ¿Está el gerente de proyecto en la oficina hoy?",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Reflexive Pronouns 🧩",
+    "text": "Please introduce {{c1::yourself}} to the team; we are all very excited to meet you.",
+    "explanation": "'Yourself' is a second-person singular reflexive pronoun, used when the subject and object of the sentence are the same person.",
+    "usage": "Pattern: <code>myself / yourself / himself / herself / themselves</code><ul><li><code>She introduced herself to the new team members.</code></li><li><code>I did the work myself.</code></li></ul>",
+    "spanish": "Por favor, preséntate al equipo; todos estamos muy emocionados de conocerte.",
+    "tags": [
+      "english_beginner",
+      "pronouns",
+      "grammar"
+    ]
   }
 ]

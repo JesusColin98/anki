@@ -128,5 +128,135 @@
       "support_empathy",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Resolve Quickly 📞",
+    "text": "I understand how critical this issue is to your business operations, and I will do my best to {{c1::resolve it quickly}}.",
+    "explanation": "To 'resolve it quickly' means solving a technical bug or customer ticket with high speed and priority.",
+    "usage": "Pattern: <code>resolve it quickly / fast resolution</code><ul><li><code>The support team is working hard to resolve the database crash quickly.</code></li><li><code>We must address the server issue and resolve it quickly.</code></li></ul>",
+    "spanish": "Entiendo lo crítico que es este problema para sus operaciones comerciales, y haré todo lo posible para resolverlo rápidamente.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Restore Service 📞",
+    "text": "I apologize for the frustration this outage has caused; we are working around the clock to restore the {{c1::service}}.",
+    "explanation": "To 'restore service' means bringing a software system, network, or server database back online after a crash.",
+    "usage": "Pattern: <code>restore service / restore database / back online</code><ul><li><code>The hosting company worked for hours to restore service.</code></li><li><code>We restored the network service after replacing the switch.</code></li></ul>",
+    "spanish": "Pido disculpas por la frustración que esta interrupción ha causado; estamos trabajando las 24 horas del día para restablecer el servicio.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Ticket Review 📞",
+    "text": "I hear your concerns about data security, and I will escalate this ticket to our security team for immediate {{c1::review}}.",
+    "explanation": "A 'review' is a formal assessment of something with the intention of instituting changes if necessary (e.g. security log analysis).",
+    "usage": "Pattern: <code>under review / security review / code review</code><ul><li><code>The security incident is currently under review.</code></li><li><code>We scheduled a review of our server access policies.</code></li></ul>",
+    "spanish": "Escucho sus preocupaciones sobre la seguridad de los datos, y escalaré este ticket a nuestro equipo de seguridad para una revisión inmediata.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Keep Informed 📞",
+    "text": "Please rest assured that we are investigating this matter thoroughly and will keep you informed every step of the {{c1::way}}.",
+    "explanation": "To 'keep someone informed' means providing regular updates to a client or stakeholder during an incident investigation.",
+    "usage": "Pattern: <code>keep you informed / regular status updates</code><ul><li><code>I will keep you informed of any database schema modifications.</code></li><li><code>We kept the client informed during the server migration.</code></li></ul>",
+    "spanish": "Tenga la seguridad de que estamos investigando este asunto a fondo y le mantendremos informado en cada paso del camino.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Fully Operational 📞",
+    "text": "I know this is inconvenient, but I will stay on the call with you until we verify that your system is {{c1::fully operational}}.",
+    "explanation": "To be 'fully operational' means that a software platform or server is running at 100% capacity, without any bugs or latency.",
+    "usage": "Pattern: <code>fully operational / fully functional / active</code><ul><li><code>The billing system is now fully operational.</code></li><li><code>We tested the database and verified it is fully operational.</code></li></ul>",
+    "spanish": "Sé que esto es inconveniente, pero permaneceré en la llamada con usted hasta que verifiquemos que su sistema está totalmente operativo.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Update Patch 📞",
+    "text": "Thank you for bringing this calculation error to our attention; we will fix it in our next update {{c1::patch}}.",
+    "explanation": "A 'patch' is a quick update or set of code changes designed to fix a bug or patch a security vulnerability in a software release.",
+    "usage": "Pattern: <code>deploy a patch / security patch</code><ul><li><code>We are deploying a security patch to fix the API leak.</code></li><li><code>The patch resolved several display glitches.</code></li></ul>",
+    "spanish": "Gracias por llamar nuestra atención sobre este error de cálculo; lo corregiremos en nuestro próximo parche de actualización.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Assist You 📞",
+    "text": "I want to make sure we resolve this issue to your satisfaction; please let me know if there is anything else I can {{c1::do for you}}.",
+    "explanation": "To 'do for you' is the natural customer service phrase asking if there are any other problems or tickets that need attention.",
+    "usage": "Pattern: <code>do for you / help you with</code><ul><li><code>Is there anything else I can do for you today, sir?</code></li><li><code>Please let me know what I can do for you to resolve this.</code></li></ul>",
+    "spanish": "Quiero asegurarme de que resolvamos este problema a su satisfacción; por favor, avíseme si hay algo más que pueda hacer por usted.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Time Limit 📞",
+    "text": "I appreciate your patience while we test the connection; it should be ready in less than {{c1::five minutes}}.",
+    "explanation": "'Five minutes' is a short time reference used to reassure customers that a technical operation is almost complete.",
+    "usage": "Pattern: <code>in five minutes / five minutes remaining</code><ul><li><code>The server reboot will complete in five minutes.</code></li><li><code>We have five minutes remaining on this call.</code></li></ul>",
+    "spanish": "Agradezco su paciencia mientras probamos la conexión; debería estar lista en menos de cinco minutos.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: High Volume 📞",
+    "text": "I apologize for the delay in our response; our support team has been experiencing a high volume of {{c1::tickets today}}.",
+    "explanation": "A 'high volume of tickets' (or high call volume) means that the customer support queue is receiving more requests than usual, causing delays.",
+    "usage": "Pattern: <code>high volume of tickets / call volume spike</code><ul><li><code>Due to the server outage, we are experiencing a high volume of tickets today.</code></li><li><code>Our response times are longer due to a high volume of tickets.</code></li></ul>",
+    "spanish": "Pido disculpas por la demora en nuestra respuesta; nuestro equipo de soporte ha estado experimentando un alto volumen de tickets hoy.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: For Now 📞",
+    "text": "Your satisfaction is our top priority; please let us know if the temporary workaround resolves your problem {{c1::for now}}.",
+    "explanation": "'For now' is a common temporal expression meaning temporarily, at the moment, or until a permanent fix is ready.",
+    "usage": "Pattern: <code>for now / temporarily / until then</code><ul><li><code>Use this temporary password for now.</code></li><li><code>The server is stable for now, but we need to monitor it.</code></li></ul>",
+    "spanish": "Su satisfacción es nuestra máxima prioridad; por favor, háganos saber si la solución temporal resuelve su problema por ahora.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
   }
 ]

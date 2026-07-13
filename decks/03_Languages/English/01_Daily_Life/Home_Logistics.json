@@ -128,5 +128,135 @@
       "home_logistics",
       "vocabulary"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Clothesline 🏠",
+    "text": "I need to do a load of laundry and hang the clothes to dry on the {{c1::clothesline}}.",
+    "explanation": "A 'clothesline' is a cord or wire stretched between two points outdoors or indoors, used for hanging wet clothes to dry.",
+    "usage": "Pattern: <code>hang clothes on the clothesline</code><ul><li><code>The clothesline broke under the weight of the wet blankets.</code></li><li><code>I hung my shirts out on the clothesline.</code></li></ul>",
+    "spanish": "Necesito lavar una carga de ropa y colgar la ropa para que se seque en el tendedero.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Mop Floor 🏠",
+    "text": "Could you please sweep the kitchen floor and {{c1::mop it}} afterwards?",
+    "explanation": "To 'mop' the floor means to clean it using a mop (a bundle of thick strings or sponge on a stick) and water/cleanser.",
+    "usage": "Pattern: <code>mop the floor / mop it up</code><ul><li><code>Make sure you mop the floor after cooking.</code></li><li><code>I mopped up the spilled milk.</code></li></ul>",
+    "spanish": "¿Podrías por favor barrer el piso de la cocina y trapearlo después?",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Patch Up 🏠",
+    "text": "The roof is leaking during heavy rain; we need to hire a contractor to {{c1::patch it up}}.",
+    "explanation": "To 'patch up' is a phrasal verb meaning to repair or fix something in a quick, temporary, or modular way.",
+    "usage": "Pattern: <code>patch [something] up / repair</code><ul><li><code>We patched up the hole in the drywall.</code></li><li><code>The plumber patched up the leaking pipe until we could replace it.</code></li></ul>",
+    "spanish": "El techo gotea durante la lluvia intensa; necesitamos contratar a un contratista para que lo parche/repare.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Head Out 🏠",
+    "text": "Don't forget to lock the back door and close all the windows before you {{c1::head out}}.",
+    "explanation": "To 'head out' is an informal phrasal verb meaning to leave a place or begin a journey.",
+    "usage": "Pattern: <code>head out / leave / set off</code><ul><li><code>We are planning to head out early tomorrow morning.</code></li><li><code>I'm heading out to the grocery store.</code></li></ul>",
+    "spanish": "No olvides cerrar con llave la puerta trasera y cerrar todas las ventanas antes de salir.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Light Bulb 🏠",
+    "text": "We need to replace the burnt-out {{c1::light bulb}} in the hallway.",
+    "explanation": "A 'light bulb' is the glass bulb that fits into a lamp or fixture to provide light electrically.",
+    "usage": "Pattern: <code>replace the light bulb / LED bulb</code><ul><li><code>We bought energy-efficient LED light bulbs for the living room.</code></li><li><code>The light bulb in my desk lamp just went out.</code></li></ul>",
+    "spanish": "Necesitamos reemplazar la bombilla/foco quemado en el pasillo.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Dishwasher 🏠",
+    "text": "Could you help me clear the table and {{c1::load the dishwasher}}?",
+    "explanation": "To 'load the dishwasher' means to place dirty plates, glasses, and utensils inside the dishwashing machine before running a cycle.",
+    "usage": "Pattern: <code>load the dishwasher / unload the dishwasher</code><ul><li><code>It is easier to load the dishwasher if you rinse the plates first.</code></li><li><code>She unloaded the dishwasher this morning.</code></li></ul>",
+    "spanish": "¿Podrías ayudarme a limpiar la mesa y llenar el lavavajillas?",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Guests Arrive 🏠",
+    "text": "We should tidy up the living room before our guests {{c1::arrive}}.",
+    "explanation": "To 'arrive' is the standard verb meaning to reach a destination, commonly used for visitors or packages.",
+    "usage": "Pattern: <code>guests arrive / package arrives</code><ul><li><code>The guests arrived at 7:00 PM.</code></li><li><code>We are waiting for the package to arrive.</code></li></ul>",
+    "spanish": "Deberíamos ordenar la sala antes de que lleguen nuestros invitados.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Trim Lawn 🏠",
+    "text": "I need to water the plants in the garden and trim the {{c1::lawn}}.",
+    "explanation": "A 'lawn' is an area of grass in a garden or park that is kept cut short and neat.",
+    "usage": "Pattern: <code>mow the lawn / trim the lawn / cut the grass</code><ul><li><code>He spent the afternoon mowing the lawn.</code></li><li><code>Our lawn needs to be watered regularly during the summer.</code></li></ul>",
+    "spanish": "Necesito regar las plantas del jardín y podar el césped.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Smoke Detector 🏠",
+    "text": "The battery in the smoke detector is dying; it keeps making a {{c1::chirping sound}}.",
+    "explanation": "A 'chirping sound' is a short, high-pitched repeating noise made by electronic devices (like smoke detectors) to warn that the battery is low.",
+    "usage": "Pattern: <code>chirping sound / beep sound</code><ul><li><code>The smoke detector was making an annoying chirping sound all night.</code></li><li><code>Replace the battery to stop the chirping sound.</code></li></ul>",
+    "spanish": "La batería del detector de humo se está agotando; sigue haciendo un pitido intermitente.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Fridge Leftovers 🏠",
+    "text": "Please put the leftovers in a container and store them in the {{c1::fridge}}.",
+    "explanation": "'Fridge' is the very common abbreviation for refrigerator, the appliance used to keep food and drinks cold.",
+    "usage": "Pattern: <code>put in the fridge / keep in the refrigerator</code><ul><li><code>Is there any milk left in the fridge?</code></li><li><code>Store the meat in the fridge immediately.</code></li></ul>",
+    "spanish": "Por favor, ponga las sobras en un recipiente y guárdelas en el refrigerador.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
   }
 ]

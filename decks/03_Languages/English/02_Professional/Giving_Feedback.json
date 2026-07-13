@@ -129,5 +129,135 @@
       "giving_feedback",
       "business_english"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Avoid Burnout 📈",
+    "text": "I've noticed that you've been working late; please make sure you are balancing your workload to {{c1::avoid burnout}}.",
+    "explanation": "To 'avoid burnout' means managing tasks, hours, and stress levels to prevent physical or mental collapse caused by overwork.",
+    "usage": "Pattern: <code>avoid burnout / combat workplace stress</code><ul><li><code>Taking regular breaks is crucial to avoid burnout.</code></li><li><code>Managers should monitor team workload to avoid burnout.</code></li></ul>",
+    "spanish": "He notado que ha estado trabajando hasta tarde; por favor, asegúrese de equilibrar su carga de trabajo para evitar el agotamiento.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Non-technical Audience 📈",
+    "text": "Your technical explanation was very clear, but you need to adapt your language when presenting to non-technical {{c1::audiences}}.",
+    "explanation": "A 'non-technical audience' refers to clients, managers, or users who do not possess deep engineering or scientific knowledge, requiring simple language.",
+    "usage": "Pattern: <code>non-technical audience / business stakeholders</code><ul><li><code>Explain the algorithm simply for a non-technical audience.</code></li><li><code>The director is a non-technical audience, so skip the code snippets.</code></li></ul>",
+    "spanish": "Su explicación técnica fue muy clara, pero debe adaptar su lenguaje al presentarse ante audiencias no técnicas.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Save Time 📈",
+    "text": "I appreciate your initiative in organizing the files; it has saved the team a lot of {{c1::time}}.",
+    "explanation": "To 'save time' means executing tasks efficiently to reduce the duration or effort required to complete a process.",
+    "usage": "Pattern: <code>save time / time savings</code><ul><li><code>The automation script saved the team hours of manual work.</code></li><li><code>We optimized the query to save execution time.</code></li></ul>",
+    "spanish": "Agradezco su iniciativa al organizar los archivos; le ha ahorrado mucho tiempo al equipo.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Leadership Skills 📈",
+    "text": "To help you grow, let's identify some training courses that can help you build your {{c1::leadership skills}}.",
+    "explanation": "'Leadership skills' are the strengths and abilities individuals demonstrate when guiding processes, directing initiatives, and mentoring teammates.",
+    "usage": "Pattern: <code>build leadership skills / leadership qualities</code><ul><li><code>Effective communication is a core leadership skill.</code></li><li><code>The seminar focused on developing leadership skills in project managers.</code></li></ul>",
+    "spanish": "Para ayudarle a crecer, identifiquemos algunos cursos de capacitación que puedan ayudarle a desarrollar sus habilidades de liderazgo.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Code Reviews 📈",
+    "text": "Your coding standards are excellent, but you should try to be more proactive in code {{c1::reviews}}.",
+    "explanation": "A 'code review' is the software development process where engineers inspect one another's source code to catch bugs and verify quality.",
+    "usage": "Pattern: <code>code reviews / peer review</code><ul><li><code>Be constructive when offering comments during code reviews.</code></li><li><code>We require two approvals on code reviews before merging.</code></li></ul>",
+    "spanish": "Sus estándares de codificación son excelentes, pero debería intentar ser más proactivo en las revisiones de código.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Highly Valued 📈",
+    "text": "I want to encourage you to share your ideas during brainstorming sessions; your perspective is {{c1::highly valued}}.",
+    "explanation": "To be 'highly valued' means that a person's ideas, work, or presence is held in very high esteem and considered extremely important.",
+    "usage": "Pattern: <code>highly valued / valued team member</code><ul><li><code>Your contribution to the database migration was highly valued.</code></li><li><code>She is a highly valued member of our division.</code></li></ul>",
+    "spanish": "Quiero animarle a compartir sus ideas durante las sesiones de lluvia de ideas; su perspectiva es muy valorada.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Timely Manner 📈",
+    "text": "Let's work on improving your communication style to ensure updates are delivered in a timely {{c1::manner}}.",
+    "explanation": "To deliver updates in a 'timely manner' (or timely fashion) means doing so quickly enough to be useful, before deadlines or issues arise.",
+    "usage": "Pattern: <code>in a timely manner / timely fashion</code><ul><li><code>Please submit the report in a timely manner.</code></li><li><code>The team resolved the incident in a timely manner.</code></li></ul>",
+    "spanish": "Trabajemos en mejorar su estilo de comunicación para asegurar que las actualizaciones se entreguen de manera oportuna.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Exemplary Patience 📈",
+    "text": "You did a great job handling that difficult client request; your patience was {{c1::exemplary}}.",
+    "explanation": "'Exemplary' is an adjective meaning serving as a desirable model; representing the best of its kind, worthy of imitation.",
+    "usage": "Pattern: <code>exemplary behavior / exemplary work</code><ul><li><code>Her dedication to quality is exemplary.</code></li><li><code>The audit praised the team's exemplary record-keeping.</code></li></ul>",
+    "spanish": "Hizo un gran trabajo manejando esa difícil solicitud del cliente; su paciencia fue ejemplar.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Product Release 📈",
+    "text": "I'd like to see you take on more responsibility in coordinating tasks for our next product {{c1::release}}.",
+    "explanation": "A 'product release' is the distribution of a new or upgraded software application or feature set to users.",
+    "usage": "Pattern: <code>product release / software release / version release</code><ul><li><code>We are patching bugs before the final product release.</code></li><li><code>The marketing campaign is aligned with the product release date.</code></li></ul>",
+    "spanish": "Me gustaría verle asumir más responsabilidad en la coordinación de tareas para nuestro próximo lanzamiento de producto.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Not Unnoticed 📈",
+    "text": "I want to recognize your contribution to the team's success; your dedication has not gone {{c1::unnoticed}}.",
+    "explanation": "To 'not go unnoticed' is a common professional idiom used to reassure an employee that managers have observed and appreciated their hard work.",
+    "usage": "Pattern: <code>not go unnoticed / recognized effort</code><ul><li><code>Your extra hours during the database outage did not go unnoticed.</code></li><li><code>Her efforts to improve team morale have not gone unnoticed.</code></li></ul>",
+    "spanish": "Quiero reconocer su contribución al éxito del equipo; su dedicación no ha pasado inadvertida.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
   }
 ]
