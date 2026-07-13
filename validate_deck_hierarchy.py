@@ -68,7 +68,7 @@ def main():
             print(f"  ... and {len(errors) - 10} more errors.")
         sys.exit(1)
     else:
-        print("\n[✓] All 97 decks and 650 cards passed validation cleanly!")
+        print("\n[OK] All 97 decks and 650 cards passed validation cleanly!")
         sys.exit(0)
 
 
