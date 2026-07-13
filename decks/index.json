@@ -3,489 +3,489 @@
   "total_decks": 97,
   "decks": [
     {
-      "deck": "AI_Learning_Path::01_Classical_ML",
-      "path": "decks/AI_Learning_Path/01_Classical_ML.json",
-      "cards_count": 2
-    },
-    {
-      "deck": "AI_Learning_Path::01_Classical_ML::01_Math_Foundations",
-      "path": "decks/AI_Learning_Path/01_Classical_ML/01_Math_Foundations.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "AI_Learning_Path::01_Classical_ML::02_Feature_Engineering",
-      "path": "decks/AI_Learning_Path/01_Classical_ML/02_Feature_Engineering.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "AI_Learning_Path::01_Classical_ML::03_Supervised_Algorithms",
-      "path": "decks/AI_Learning_Path/01_Classical_ML/03_Supervised_Algorithms.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "AI_Learning_Path::01_Classical_ML::04_Unsupervised_Algorithms",
-      "path": "decks/AI_Learning_Path/01_Classical_ML/04_Unsupervised_Algorithms.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "AI_Learning_Path::01_Classical_ML::05_Evaluation_Metrics",
-      "path": "decks/AI_Learning_Path/01_Classical_ML/05_Evaluation_Metrics.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "AI_Learning_Path::01_Classical_ML::06_Optimization_Explicability",
-      "path": "decks/AI_Learning_Path/01_Classical_ML/06_Optimization_Explicability.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "AI_Learning_Path::02_LLM_Fundamentals",
-      "path": "decks/AI_Learning_Path/02_LLM_Fundamentals.json",
-      "cards_count": 2
-    },
-    {
-      "deck": "AI_Learning_Path::03_Advanced_LLM",
-      "path": "decks/AI_Learning_Path/03_Advanced_LLM.json",
-      "cards_count": 2
-    },
-    {
-      "deck": "AI_Learning_Path::04_Agentic_Systems",
-      "path": "decks/AI_Learning_Path/04_Agentic_Systems.json",
-      "cards_count": 2
-    },
-    {
-      "deck": "AI_Learning_Path::04_Agentic_Systems::Agent_Frameworks",
-      "path": "decks/AI_Learning_Path/04_Agentic_Systems/Agent_Frameworks.json",
-      "cards_count": 4
-    },
-    {
-      "deck": "Books_Path::01_Business_Strategy",
-      "path": "decks/Books_Path/01_Business_Strategy.json",
-      "cards_count": 3
-    },
-    {
-      "deck": "Books_Path::02_Communication_Influence",
-      "path": "decks/Books_Path/02_Communication_Influence.json",
+      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
+      "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Defense_Evasion/03_Defense_Evasion.json",
       "cards_count": 1
     },
     {
-      "deck": "Books_Path::03_Learning_Productivity",
-      "path": "decks/Books_Path/03_Learning_Productivity.json",
-      "cards_count": 6
+      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Reconnaissance::02_Reconnaissance",
+      "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Reconnaissance/02_Reconnaissance.json",
+      "cards_count": 1
     },
     {
-      "deck": "Books_Path::04_AI_Engineering",
-      "path": "decks/Books_Path/04_AI_Engineering.json",
+      "deck": "01_Cloud_and_Infrastructure::Networking::Fundamentals::01_Fundamentals",
+      "path": "decks/01_Cloud_and_Infrastructure/Networking/Fundamentals/01_Fundamentals.json",
+      "cards_count": 1
+    },
+    {
+      "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Infrastructure::05_Infrastructure_Science",
+      "path": "decks/01_Cloud_and_Infrastructure/Systems_Engineering/Infrastructure/05_Infrastructure_Science.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Agentic_Systems/Agent_Frameworks.json",
+      "cards_count": 4
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Agentic_Systems/Overview.json",
       "cards_count": 2
     },
     {
-      "deck": "Books_Path::05_Philosophy_Meaning",
-      "path": "decks/Books_Path/05_Philosophy_Meaning.json",
-      "cards_count": 3
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/01_Math_Foundations.json",
+      "cards_count": 5
     },
     {
-      "deck": "Books_Path::06_AI_ML_Essential_Library",
-      "path": "decks/Books_Path/06_AI_ML_Essential_Library.json",
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/02_Feature_Engineering.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/03_Supervised_Algorithms.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/04_Unsupervised_Algorithms.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/05_Evaluation_Metrics.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/06_Optimization_Explicability.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/Overview.json",
+      "cards_count": 2
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/LLM_Systems/02_LLM_Fundamentals.json",
+      "cards_count": 2
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+      "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/LLM_Systems/03_Advanced_LLM.json",
+      "cards_count": 2
+    },
+    {
+      "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
+      "path": "decks/02_AI_and_Data_Science/Books/AI_ML/04_AI_Engineering.json",
+      "cards_count": 2
+    },
+    {
+      "deck": "02_AI_and_Data_Science::Books::AI_ML::06_AI_ML_Essential_Library",
+      "path": "decks/02_AI_and_Data_Science/Books/AI_ML/06_AI_ML_Essential_Library.json",
       "cards_count": 12
     },
     {
-      "deck": "Chinese::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/Chinese/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 7
-    },
-    {
-      "deck": "Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/Chinese/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+      "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/Agents/01_AI_Agents_Autonomy.json",
       "cards_count": 5
     },
     {
-      "deck": "Chinese::Phonetics",
-      "path": "decks/Chinese/Phonetics.json",
+      "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+      "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/IDEs/04_Agentic_Dev_IDEs.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+      "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/LLMs/02_Reasoning_LLMs.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+      "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/MLOps/06_MLOps_Guardrails.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+      "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/RAG/03_Advanced_RAG.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "03_Languages::Chinese::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/Chinese/A1_Beginner/Greetings_and_Farewells.json",
+      "cards_count": 7
+    },
+    {
+      "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/Chinese/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "03_Languages::Chinese::Phonetics::General",
+      "path": "decks/03_Languages/Chinese/Phonetics/General.json",
       "cards_count": 17
     },
     {
-      "deck": "English::01_Daily_Life::Airport",
-      "path": "decks/English/01_Daily_Life/Airport.json",
+      "deck": "03_Languages::English::01_Daily_Life::Airport",
+      "path": "decks/03_Languages/English/01_Daily_Life/Airport.json",
       "cards_count": 1
     },
     {
-      "deck": "English::01_Daily_Life::Asking_Directions",
-      "path": "decks/English/01_Daily_Life/Asking_Directions.json",
+      "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+      "path": "decks/03_Languages/English/01_Daily_Life/Asking_Directions.json",
       "cards_count": 1
     },
     {
-      "deck": "English::01_Daily_Life::Coffee_Shop",
-      "path": "decks/English/01_Daily_Life/Coffee_Shop.json",
+      "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+      "path": "decks/03_Languages/English/01_Daily_Life/Coffee_Shop.json",
       "cards_count": 4
     },
     {
-      "deck": "English::01_Daily_Life::Home_Logistics",
-      "path": "decks/English/01_Daily_Life/Home_Logistics.json",
+      "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+      "path": "decks/03_Languages/English/01_Daily_Life/Home_Logistics.json",
       "cards_count": 5
     },
     {
-      "deck": "English::01_Daily_Life::Hotel",
-      "path": "decks/English/01_Daily_Life/Hotel.json",
+      "deck": "03_Languages::English::01_Daily_Life::Hotel",
+      "path": "decks/03_Languages/English/01_Daily_Life/Hotel.json",
       "cards_count": 1
     },
     {
-      "deck": "English::01_Daily_Life::Ordering_Food",
-      "path": "decks/English/01_Daily_Life/Ordering_Food.json",
+      "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+      "path": "decks/03_Languages/English/01_Daily_Life/Ordering_Food.json",
       "cards_count": 1
     },
     {
-      "deck": "English::01_Daily_Life::Supermarket",
-      "path": "decks/English/01_Daily_Life/Supermarket.json",
+      "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+      "path": "decks/03_Languages/English/01_Daily_Life/Supermarket.json",
       "cards_count": 8
     },
     {
-      "deck": "English::02_Professional::Conflict_Resolution",
-      "path": "decks/English/02_Professional/Conflict_Resolution.json",
+      "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+      "path": "decks/03_Languages/English/02_Professional/Conflict_Resolution.json",
       "cards_count": 1
     },
     {
-      "deck": "English::02_Professional::Director_Role",
-      "path": "decks/English/02_Professional/Director_Role.json",
+      "deck": "03_Languages::English::02_Professional::Director_Role",
+      "path": "decks/03_Languages/English/02_Professional/Director_Role.json",
       "cards_count": 2
     },
     {
-      "deck": "English::02_Professional::Giving_Feedback",
-      "path": "decks/English/02_Professional/Giving_Feedback.json",
+      "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+      "path": "decks/03_Languages/English/02_Professional/Giving_Feedback.json",
       "cards_count": 3
     },
     {
-      "deck": "English::02_Professional::Handling_Objections",
-      "path": "decks/English/02_Professional/Handling_Objections.json",
+      "deck": "03_Languages::English::02_Professional::Handling_Objections",
+      "path": "decks/03_Languages/English/02_Professional/Handling_Objections.json",
       "cards_count": 4
     },
     {
-      "deck": "English::02_Professional::IT_Support",
-      "path": "decks/English/02_Professional/IT_Support.json",
+      "deck": "03_Languages::English::02_Professional::IT_Support",
+      "path": "decks/03_Languages/English/02_Professional/IT_Support.json",
       "cards_count": 3
     },
     {
-      "deck": "English::02_Professional::Interview_Skills",
-      "path": "decks/English/02_Professional/Interview_Skills.json",
+      "deck": "03_Languages::English::02_Professional::Interview_Skills",
+      "path": "decks/03_Languages/English/02_Professional/Interview_Skills.json",
       "cards_count": 1
     },
     {
-      "deck": "English::02_Professional::Manager_Role",
-      "path": "decks/English/02_Professional/Manager_Role.json",
+      "deck": "03_Languages::English::02_Professional::Manager_Role",
+      "path": "decks/03_Languages/English/02_Professional/Manager_Role.json",
       "cards_count": 1
     },
     {
-      "deck": "English::02_Professional::Meeting_Efficiency",
-      "path": "decks/English/02_Professional/Meeting_Efficiency.json",
+      "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+      "path": "decks/03_Languages/English/02_Professional/Meeting_Efficiency.json",
       "cards_count": 4
     },
     {
-      "deck": "English::02_Professional::Negotiations",
-      "path": "decks/English/02_Professional/Negotiations.json",
+      "deck": "03_Languages::English::02_Professional::Negotiations",
+      "path": "decks/03_Languages/English/02_Professional/Negotiations.json",
       "cards_count": 2
     },
     {
-      "deck": "English::02_Professional::Office_Meetings",
-      "path": "decks/English/02_Professional/Office_Meetings.json",
+      "deck": "03_Languages::English::02_Professional::Office_Meetings",
+      "path": "decks/03_Languages/English/02_Professional/Office_Meetings.json",
       "cards_count": 4
     },
     {
-      "deck": "English::02_Professional::Running_Meetings",
-      "path": "decks/English/02_Professional/Running_Meetings.json",
+      "deck": "03_Languages::English::02_Professional::Running_Meetings",
+      "path": "decks/03_Languages/English/02_Professional/Running_Meetings.json",
       "cards_count": 1
     },
     {
-      "deck": "English::02_Professional::Support_Empathy_and_Containment",
-      "path": "decks/English/02_Professional/Support_Empathy_and_Containment.json",
+      "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+      "path": "decks/03_Languages/English/02_Professional/Support_Empathy_and_Containment.json",
       "cards_count": 4
     },
     {
-      "deck": "English::02_Professional::Technical_Negotiation_and_RCA",
-      "path": "decks/English/02_Professional/Technical_Negotiation_and_RCA.json",
+      "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+      "path": "decks/03_Languages/English/02_Professional/Technical_Negotiation_and_RCA.json",
       "cards_count": 9
     },
     {
-      "deck": "English::03_Socializing::Dating",
-      "path": "decks/English/03_Socializing/Dating.json",
+      "deck": "03_Languages::English::03_Socializing::Dating",
+      "path": "decks/03_Languages/English/03_Socializing/Dating.json",
       "cards_count": 2
     },
     {
-      "deck": "English::03_Socializing::General",
-      "path": "decks/English/03_Socializing/General.json",
+      "deck": "03_Languages::English::03_Socializing::General",
+      "path": "decks/03_Languages/English/03_Socializing/General.json",
       "cards_count": 5
     },
     {
-      "deck": "English::04_Storytelling_and_Expression",
-      "path": "decks/English/04_Storytelling_and_Expression.json",
+      "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+      "path": "decks/03_Languages/English/04_Storytelling_and_Expression/General.json",
       "cards_count": 5
     },
     {
-      "deck": "English::05_Academic_and_Philosophical",
-      "path": "decks/English/05_Academic_and_Philosophical.json",
+      "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+      "path": "decks/03_Languages/English/05_Academic_and_Philosophical/General.json",
       "cards_count": 5
     },
     {
-      "deck": "English::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/English/A1_Beginner/Greetings_and_Farewells.json",
+      "deck": "03_Languages::English::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/English/A1_Beginner/Greetings_and_Farewells.json",
       "cards_count": 6
     },
     {
-      "deck": "English::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/English/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/English/A1_Beginner/Personal_Pronouns_and_To_Be.json",
       "cards_count": 5
     },
     {
-      "deck": "English::Phonetics",
-      "path": "decks/English/Phonetics.json",
+      "deck": "03_Languages::English::Phonetics::Connected_Speech",
+      "path": "decks/03_Languages/English/Phonetics/Connected_Speech.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::General",
+      "path": "decks/03_Languages/English/Phonetics/General.json",
       "cards_count": 27
     },
     {
-      "deck": "English::Phonetics::Connected_Speech",
-      "path": "decks/English/Phonetics/Connected_Speech.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "French::01_A1_Beginner::01_Greetings_and_Farewells",
-      "path": "decks/French/01_A1_Beginner/01_Greetings_and_Farewells.json",
+      "deck": "03_Languages::French::01_A1_Beginner::01_Greetings_and_Farewells",
+      "path": "decks/03_Languages/French/01_A1_Beginner/01_Greetings_and_Farewells.json",
       "cards_count": 3
     },
     {
-      "deck": "French::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/French/A1_Beginner/Greetings_and_Farewells.json",
+      "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/French/A1_Beginner/Greetings_and_Farewells.json",
       "cards_count": 7
     },
     {
-      "deck": "French::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/French/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/French/A1_Beginner/Personal_Pronouns_and_To_Be.json",
       "cards_count": 6
     },
     {
-      "deck": "French::Phonetics",
-      "path": "decks/French/Phonetics.json",
+      "deck": "03_Languages::French::Phonetics::General",
+      "path": "decks/03_Languages/French/Phonetics/General.json",
       "cards_count": 20
     },
     {
-      "deck": "German::01_A1_Beginner::01_Greetings_and_Farewells",
-      "path": "decks/German/01_A1_Beginner/01_Greetings_and_Farewells.json",
+      "deck": "03_Languages::German::01_A1_Beginner::01_Greetings_and_Farewells",
+      "path": "decks/03_Languages/German/01_A1_Beginner/01_Greetings_and_Farewells.json",
       "cards_count": 3
     },
     {
-      "deck": "German::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/German/A1_Beginner/Greetings_and_Farewells.json",
+      "deck": "03_Languages::German::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/German/A1_Beginner/Greetings_and_Farewells.json",
       "cards_count": 8
     },
     {
-      "deck": "German::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/German/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/German/A1_Beginner/Personal_Pronouns_and_To_Be.json",
       "cards_count": 6
     },
     {
-      "deck": "German::Phonetics",
-      "path": "decks/German/Phonetics.json",
+      "deck": "03_Languages::German::Phonetics::General",
+      "path": "decks/03_Languages/German/Phonetics/General.json",
       "cards_count": 18
     },
     {
-      "deck": "Italian::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/Italian/A1_Beginner/Greetings_and_Farewells.json",
+      "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/Italian/A1_Beginner/Greetings_and_Farewells.json",
       "cards_count": 7
     },
     {
-      "deck": "Italian::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/Italian/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/Italian/A1_Beginner/Personal_Pronouns_and_To_Be.json",
       "cards_count": 6
     },
     {
-      "deck": "Italian::Phonetics",
-      "path": "decks/Italian/Phonetics.json",
+      "deck": "03_Languages::Italian::Phonetics::General",
+      "path": "decks/03_Languages/Italian/Phonetics/General.json",
       "cards_count": 15
     },
     {
-      "deck": "Japanese::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/Japanese/A1_Beginner/Greetings_and_Farewells.json",
+      "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/Japanese/A1_Beginner/Greetings_and_Farewells.json",
       "cards_count": 7
     },
     {
-      "deck": "Japanese::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/Japanese/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/Japanese/A1_Beginner/Personal_Pronouns_and_To_Be.json",
       "cards_count": 4
     },
     {
-      "deck": "Japanese::Phonetics",
-      "path": "decks/Japanese/Phonetics.json",
+      "deck": "03_Languages::Japanese::Phonetics::General",
+      "path": "decks/03_Languages/Japanese/Phonetics/General.json",
       "cards_count": 22
     },
     {
-      "deck": "Korean::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/Korean/A1_Beginner/Greetings_and_Farewells.json",
+      "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/Korean/A1_Beginner/Greetings_and_Farewells.json",
       "cards_count": 7
     },
     {
-      "deck": "Korean::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/Korean/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "03_Languages::Korean::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/Korean/A1_Beginner/Personal_Pronouns_and_To_Be.json",
       "cards_count": 4
     },
     {
-      "deck": "Korean::Phonetics",
-      "path": "decks/Korean/Phonetics.json",
+      "deck": "03_Languages::Korean::Phonetics::General",
+      "path": "decks/03_Languages/Korean/Phonetics/General.json",
       "cards_count": 24
     },
     {
-      "deck": "Networking_Security::01_Fundamentals",
-      "path": "decks/Networking_Security/01_Fundamentals.json",
-      "cards_count": 1
-    },
-    {
-      "deck": "Networking_Security::02_Reconnaissance",
-      "path": "decks/Networking_Security/02_Reconnaissance.json",
-      "cards_count": 1
-    },
-    {
-      "deck": "Networking_Security::03_Defense_Evasion",
-      "path": "decks/Networking_Security/03_Defense_Evasion.json",
-      "cards_count": 1
-    },
-    {
-      "deck": "Philosophy::01_Beginner::01_Classical_Foundations",
-      "path": "decks/Philosophy/01_Beginner/01_Classical_Foundations.json",
-      "cards_count": 1
-    },
-    {
-      "deck": "Philosophy::01_Beginner::02_Eastern_Philosophies",
-      "path": "decks/Philosophy/01_Beginner/02_Eastern_Philosophies.json",
-      "cards_count": 1
-    },
-    {
-      "deck": "Philosophy::02_Intermediate::01_Stoicism",
-      "path": "decks/Philosophy/02_Intermediate/01_Stoicism.json",
-      "cards_count": 2
-    },
-    {
-      "deck": "Philosophy::03_Advanced::01_Modern_Postmodern",
-      "path": "decks/Philosophy/03_Advanced/01_Modern_Postmodern.json",
-      "cards_count": 1
-    },
-    {
-      "deck": "Portuguese::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/Portuguese/A1_Beginner/Greetings_and_Farewells.json",
+      "deck": "03_Languages::Portuguese::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/Portuguese/A1_Beginner/Greetings_and_Farewells.json",
       "cards_count": 7
     },
     {
-      "deck": "Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/Portuguese/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/Portuguese/A1_Beginner/Personal_Pronouns_and_To_Be.json",
       "cards_count": 5
     },
     {
-      "deck": "Portuguese::Phonetics",
-      "path": "decks/Portuguese/Phonetics.json",
+      "deck": "03_Languages::Portuguese::Phonetics::General",
+      "path": "decks/03_Languages/Portuguese/Phonetics/General.json",
       "cards_count": 19
     },
     {
-      "deck": "Russian::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/Russian/A1_Beginner/Greetings_and_Farewells.json",
+      "deck": "03_Languages::Russian::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/Russian/A1_Beginner/Greetings_and_Farewells.json",
       "cards_count": 7
     },
     {
-      "deck": "Russian::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/Russian/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/Russian/A1_Beginner/Personal_Pronouns_and_To_Be.json",
       "cards_count": 6
     },
     {
-      "deck": "Russian::Phonetics",
-      "path": "decks/Russian/Phonetics.json",
+      "deck": "03_Languages::Russian::Phonetics::General",
+      "path": "decks/03_Languages/Russian/Phonetics/General.json",
       "cards_count": 19
     },
     {
-      "deck": "Social_Skills::01_Persuasion",
-      "path": "decks/Social_Skills/01_Persuasion.json",
-      "cards_count": 1
-    },
-    {
-      "deck": "Social_Skills::02_Active_Listening",
-      "path": "decks/Social_Skills/02_Active_Listening.json",
-      "cards_count": 2
-    },
-    {
-      "deck": "Social_Skills::03_Presence",
-      "path": "decks/Social_Skills/03_Presence.json",
-      "cards_count": 6
-    },
-    {
-      "deck": "Social_Skills::04_Customer_Support_Excellence",
-      "path": "decks/Social_Skills/04_Customer_Support_Excellence.json",
-      "cards_count": 4
-    },
-    {
-      "deck": "Social_Skills::04_Customer_Support_Excellence::Crisis_Management",
-      "path": "decks/Social_Skills/04_Customer_Support_Excellence/Crisis_Management.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "Social_Skills::05_Call_Habits_and_Etiquette",
-      "path": "decks/Social_Skills/05_Call_Habits_and_Etiquette.json",
-      "cards_count": 4
-    },
-    {
-      "deck": "Social_Skills::06_Storytelling_Foundations",
-      "path": "decks/Social_Skills/06_Storytelling_Foundations.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "Social_Skills::07_Conversational_Psychology",
-      "path": "decks/Social_Skills/07_Conversational_Psychology.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "Social_Skills::09_Advanced_Influence",
-      "path": "decks/Social_Skills/09_Advanced_Influence.json",
-      "cards_count": 5
-    },
-    {
-      "deck": "SoftSkills::Phonetics",
-      "path": "decks/SoftSkills/Phonetics.json",
-      "cards_count": 80
-    },
-    {
-      "deck": "Spanish::A1_Beginner::Greetings_and_Farewells",
-      "path": "decks/Spanish/A1_Beginner/Greetings_and_Farewells.json",
+      "deck": "03_Languages::Spanish::A1_Beginner::Greetings_and_Farewells",
+      "path": "decks/03_Languages/Spanish/A1_Beginner/Greetings_and_Farewells.json",
       "cards_count": 7
     },
     {
-      "deck": "Spanish::A1_Beginner::Personal_Pronouns_and_To_Be",
-      "path": "decks/Spanish/A1_Beginner/Personal_Pronouns_and_To_Be.json",
+      "deck": "03_Languages::Spanish::A1_Beginner::Personal_Pronouns_and_To_Be",
+      "path": "decks/03_Languages/Spanish/A1_Beginner/Personal_Pronouns_and_To_Be.json",
       "cards_count": 5
     },
     {
-      "deck": "Spanish::Phonetics",
-      "path": "decks/Spanish/Phonetics.json",
+      "deck": "03_Languages::Spanish::Phonetics::General",
+      "path": "decks/03_Languages/Spanish/Phonetics/General.json",
       "cards_count": 20
     },
     {
-      "deck": "Tech_Map_2026::01_AI_Agents_Autonomy",
-      "path": "decks/Tech_Map_2026/01_AI_Agents_Autonomy.json",
+      "deck": "04_Social_and_Humanities::Books::Philosophy::05_Philosophy_Meaning",
+      "path": "decks/04_Social_and_Humanities/Books/Philosophy/05_Philosophy_Meaning.json",
+      "cards_count": 3
+    },
+    {
+      "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+      "path": "decks/04_Social_and_Humanities/Philosophy/01_Beginner/01_Classical_Foundations.json",
+      "cards_count": 1
+    },
+    {
+      "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+      "path": "decks/04_Social_and_Humanities/Philosophy/01_Beginner/02_Eastern_Philosophies.json",
+      "cards_count": 1
+    },
+    {
+      "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
+      "path": "decks/04_Social_and_Humanities/Philosophy/02_Intermediate/01_Stoicism.json",
+      "cards_count": 2
+    },
+    {
+      "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+      "path": "decks/04_Social_and_Humanities/Philosophy/03_Advanced/01_Modern_Postmodern.json",
+      "cards_count": 1
+    },
+    {
+      "deck": "04_Social_and_Humanities::Psychology::Conversational::07_Conversational_Psychology",
+      "path": "decks/04_Social_and_Humanities/Psychology/Conversational/07_Conversational_Psychology.json",
       "cards_count": 5
     },
     {
-      "deck": "Tech_Map_2026::02_Reasoning_LLMs",
-      "path": "decks/Tech_Map_2026/02_Reasoning_LLMs.json",
+      "deck": "05_Soft_Skills_and_Leadership::Books::Communication::02_Communication_Influence",
+      "path": "decks/05_Soft_Skills_and_Leadership/Books/Communication/02_Communication_Influence.json",
+      "cards_count": 1
+    },
+    {
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::04_Customer_Support_Excellence::Crisis_Management",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/04_Customer_Support_Excellence/Crisis_Management.json",
       "cards_count": 5
     },
     {
-      "deck": "Tech_Map_2026::03_Advanced_RAG",
-      "path": "decks/Tech_Map_2026/03_Advanced_RAG.json",
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Active_Listening::02_Active_Listening",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Active_Listening/02_Active_Listening.json",
+      "cards_count": 2
+    },
+    {
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Advanced_Influence::09_Advanced_Influence",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Advanced_Influence/09_Advanced_Influence.json",
       "cards_count": 5
     },
     {
-      "deck": "Tech_Map_2026::04_Agentic_Dev_IDEs",
-      "path": "decks/Tech_Map_2026/04_Agentic_Dev_IDEs.json",
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Call_Habits_and_Etiquette::05_Call_Habits_and_Etiquette",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Call_Habits_and_Etiquette/05_Call_Habits_and_Etiquette.json",
+      "cards_count": 4
+    },
+    {
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Support_Excellence::04_Customer_Support_Excellence",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Customer_Support_Excellence/04_Customer_Support_Excellence.json",
+      "cards_count": 4
+    },
+    {
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Persuasion::01_Persuasion",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Persuasion/01_Persuasion.json",
+      "cards_count": 1
+    },
+    {
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Presence::03_Presence",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Presence/03_Presence.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Storytelling_Foundations::06_Storytelling_Foundations",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Storytelling_Foundations/06_Storytelling_Foundations.json",
       "cards_count": 5
     },
     {
-      "deck": "Tech_Map_2026::05_Infrastructure_Science",
-      "path": "decks/Tech_Map_2026/05_Infrastructure_Science.json",
-      "cards_count": 5
+      "deck": "05_Soft_Skills_and_Leadership::SoftSkills::Phonetics::General",
+      "path": "decks/05_Soft_Skills_and_Leadership/SoftSkills/Phonetics/General.json",
+      "cards_count": 80
     },
     {
-      "deck": "Tech_Map_2026::06_MLOps_Guardrails",
-      "path": "decks/Tech_Map_2026/06_MLOps_Guardrails.json",
-      "cards_count": 5
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::03_Learning_Productivity",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/03_Learning_Productivity.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Strategy::01_Business_Strategy",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Strategy/01_Business_Strategy.json",
+      "cards_count": 3
     }
   ]
 }

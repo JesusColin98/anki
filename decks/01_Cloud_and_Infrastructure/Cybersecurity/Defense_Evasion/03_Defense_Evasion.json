@@ -1,0 +1,14 @@
+[
+  {
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
+    "scenario": "Security: EDR Evasion 🛡️",
+    "text": "Attackers bypass EDR API hooking in user mode by performing {{c1::direct system calls}} (Syscalls) to transition to kernel mode directly, bypassing NTDLL.",
+    "explanation": "Endpoint Detection and Response (EDR) systems hook standard Windows API functions in user-mode `ntdll.dll` to monitor process behavior. By loading the raw assembly instructions for syscalls directly, malware can transition to kernel mode without executing hooked functions.",
+    "usage": "Tools like <code>Syswhispers</code> are used to generate custom assembly headers and dynamic syscall stubs for evasion.",
+    "spanish": "Los atacantes evaden los ganchos de la API de EDR en modo de usuario realizando llamadas directas al sistema (Syscalls) para pasar al modo de núcleo directamente, evadiendo NTDLL.",
+    "tags": [
+      "security",
+      "defense_evasion"
+    ]
+  }
+]

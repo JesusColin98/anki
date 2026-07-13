@@ -1,0 +1,103 @@
+[
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "At the Supermarket 🛒",
+    "text": "Where can I find the {{c1::dairy aisle}}?",
+    "explanation": "An <strong>aisle</strong> is a passage between rows of shelves in a supermarket. <strong>dairy</strong> refers to milk-based products (cheese, yogurt, butter).",
+    "usage": "Pattern: <code>[category] aisle</code> (e.g., baking aisle, produce aisle, frozen food aisle)<ul><li><code>The sugar is in the baking aisle.</code></li><li><code>Where is the produce aisle? I need some fresh apples.</code></li></ul>",
+    "spanish": "¿Dónde puedo encontrar el pasillo de lácteos?",
+    "tags": [
+      "english_scenario",
+      "supermarket"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "At the Supermarket 🛒",
+    "text": "Are these apples {{c1::on sale}} this week?",
+    "explanation": "<strong>on sale</strong> means available at a reduced price (discounted). *Do not confuse with 'for sale', which just means available to buy.",
+    "usage": "Pattern: <code>on sale</code> (discounted) vs <code>for sale</code> (available to buy)<ul><li><code>These shoes are on sale for 20% off.</code></li><li><code>Is that classic car for sale or is it just on display?</code></li></ul>",
+    "spanish": "¿Están estas manzanas en oferta esta semana?",
+    "tags": [
+      "english_scenario",
+      "supermarket"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "At the Supermarket 🛒",
+    "text": "Is there a limit on how many items I can bring to the {{c1::express lane}}?",
+    "explanation": "An <strong>express lane</strong> is a checkout counter reserved for customers buying only a few items (e.g. 10 or less) to speed up service.",
+    "usage": "Pattern: <code>express lane</code> (typically labeled '10 items or less' or '15 items or fewer')<ul><li><code>I only have 3 items, so I will use the express lane.</code></li><li><code>You can't go there; the express lane is for quick checkouts.</code></li></ul>",
+    "spanish": "¿Hay un límite de cuántos artículos puedo llevar a la caja rápida?",
+    "tags": [
+      "english_scenario",
+      "supermarket"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "Commerce: Returning Defective Items 🛒",
+    "text": "At the customer service counter, the customer requested: \"I'd like a {{c1::full refund}} for this tablet because it has a {{c2::faulty charging port}}.\"",
+    "explanation": "<strong>Refund</strong> is the return of payment. **Faulty** means defective or not working correctly.",
+    "usage": "Pattern: <code>request a refund for [item] / faulty [part]</code><ul><li><code>I need a full refund because the screen is cracked.</code></li><li><code>This laptop has a faulty battery that doesn't charge.</code></li></ul>",
+    "spanish": "En el mostrador de servicio al cliente, el cliente solicitó: \"Me gustaría un reembolso completo por esta tableta porque tiene un puerto de carga defectuoso\".",
+    "tags": [
+      "commerce",
+      "returns",
+      "shopping"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "Commerce: Informal Bargaining 🏷️",
+    "text": "At the flea market, he bargained: \"Is that your {{c1::best price}}? If you {{c2::throw in the vintage watch}}, we have a deal.\"",
+    "explanation": "<strong>Best price</strong> is the lowest price a seller is willing to accept. **Throw in** is a phrasal verb meaning to include something extra for free.",
+    "usage": "Pattern: <code>throw in [item] / have a deal</code><ul><li><code>If you throw in free shipping, I'll buy it.</code></li><li><code>We have a deal if you lower the price by ten dollars.</code></li></ul>",
+    "spanish": "En el mercado de pulgas, regateó: \"¿Es ese tu mejor precio? Si incluyes el reloj vintage, tenemos un trato\".",
+    "tags": [
+      "commerce",
+      "bargaining",
+      "informal"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "Commerce: Comparing Device Specs 📱",
+    "text": "When comparing laptops, he analyzed: \"There are clear {{c1::trade-offs}} in portability, but the developer version gives you the most {{c2::bang for the buck}}.\"",
+    "explanation": "<strong>Trade-offs</strong> are compromises made when choosing between two conflicting features. **Bang for the buck** is an idiom meaning value for money spent.",
+    "usage": "Pattern: <code>trade-offs between [feature] and [feature] / get the most bang for the buck</code><ul><li><code>There are always trade-offs between battery life and processing power.</code></li><li><code>This budget phone offers the best bang for the buck.</code></li></ul>",
+    "spanish": "Al comparar computadoras portátiles, analizó: \"Hay compensaciones claras en la portabilidad, pero la versión para desarrolladores te ofrece la mejor relación calidad-precio\".",
+    "tags": [
+      "commerce",
+      "specifications",
+      "value"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "Commerce: Disputing Bank Charges 💳",
+    "text": "On the phone with the bank, she stated: \"I need to {{c1::dispute a double charge}} that appeared on my recent {{c2::billing cycle statement}}.\"",
+    "explanation": "<strong>Dispute a charge</strong> is the formal request to investigate an incorrect transaction. **Billing cycle statement** is the monthly bank report.",
+    "usage": "Pattern: <code>dispute a charge on [account/statement]</code><ul><li><code>You should dispute the charge immediately with your credit card company.</code></li><li><code>I check my billing cycle statement every month for errors.</code></li></ul>",
+    "spanish": "Por teléfono con el banco, ella declaró: \"Necesito impugnar un cargo doble que apareció en el estado de cuenta de mi ciclo de facturación reciente\".",
+    "tags": [
+      "commerce",
+      "banking",
+      "dispute"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "Commerce: Subscription Fine Print 📑",
+    "text": "Before subscribing, he asked: \"Is there an {{c1::auto-renewal policy}}? I want to make sure I read the {{c2::fine print}} to avoid hidden fees.\"",
+    "explanation": "<strong>Auto-renewal</strong> is the automatic extension of a subscription. **Fine print** refers to the small text in a contract containing crucial restrictions and rules.",
+    "usage": "Pattern: <code>auto-renewal policy / read the fine print</code><ul><li><code>Always read the fine print before signing a software license.</code></li><li><code>The auto-renewal policy can be turned off in your account settings.</code></li></ul>",
+    "spanish": "Antes de suscribirse, preguntó: \"¿Existe una política de renovación automática? Quiero asegurarme de leer la letra pequeña para evitar cargos ocultos\".",
+    "tags": [
+      "commerce",
+      "subscription",
+      "contract"
+    ]
+  }
+]

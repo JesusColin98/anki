@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: ElasticNet Regularization ⚖️",
+    "text": "The ElasticNet loss function combines L1 (Lasso) and L2 (Ridge) penalties by minimizing the objective function with two hyperparameters: {{c1::alpha (overall penalty multiplier)}} and {{c2::l1_ratio (balance between L1 and L2 terms)}}.",
+    "explanation": "Lasso (L1) forces weights to absolute zero (sparse models), but struggles with highly correlated features (it randomly selects one). Ridge (L2) shrinks weights together. ElasticNet balances both, allowing group selection of correlated features while maintaining sparsity.",
+    "usage": "Standard regularized linear model when features are highly collinear and high-dimensional.",
+    "spanish": "La función de pérdida de ElasticNet combina las penalizaciones L1 (Lasso) y L2 (Ridge) al minimizar la función objetivo con dos hiperparámetros: alfa y l1_ratio.",
+    "tags": [
+      "supervised",
+      "elasticnet",
+      "regularization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: SVM Kernel Trick & Mercer's Theorem 🛡️",
+    "text": "The SVM Kernel Trick computes dot products in a high-dimensional feature space without explicitly mapping data points, provided the kernel function satisfies {{c1::Mercer's theorem (positive semi-definite kernel)}}.",
+    "explanation": "Mapping data explicitly into infinite dimensions (like the RBF kernel does) is computationally impossible. By replacing the dot product Phi(x) . Phi(z) with a kernel function K(x, z), SVMs perform non-linear classification with high computational efficiency.",
+    "usage": "Foundation of Support Vector Machines utilizing RBF, Polynomial, or Sigmoid kernels.",
+    "spanish": "El truco del kernel de SVM calcula productos de puntos en un espacio de características de alta dimensión sin mapear explícitamente los puntos de datos, siempre que la función del kernel cumpla con el teorema de Mercer.",
+    "tags": [
+      "supervised",
+      "svm",
+      "kernel_trick"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: XGBoost System Optimizations 🚀",
+    "text": "XGBoost optimizes gradient boosting performance through system-level designs, including {{c1::block structure for parallel learning}}, {{c2::sparsity-aware split finding}} for missing values, and cache-aware access.",
+    "explanation": "XGBoost stores sorted features in out-of-core blocks to parallelize tree splits. Its sparsity-aware algorithm assigns a default direction for missing values at each node based on which direction minimizes the gradient loss, greatly speeding up training.",
+    "usage": "Critical for high-speed training of gradient boosted trees on massive tabular datasets.<br>Reference: For tree-based algorithms and gradient boosting implementations, see <a href=\"https://lnkd.in/gyhVnBYg\">Hands-On Machine Learning (Aurélien Géron)</a>.",
+    "spanish": "XGBoost optimiza el rendimiento del aumento de gradiente a través de diseños a nivel de sistema, incluyendo estructura de bloques para aprendizaje paralelo y búsqueda de divisiones consciente de la dispersión para valores faltantes.",
+    "tags": [
+      "supervised",
+      "xgboost",
+      "boosting"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: LightGBM Leaf-Wise Growth 🌳",
+    "text": "Unlike traditional depth-wise tree builders, LightGBM uses {{c1::leaf-wise (best-first) tree growth}}, which splits the leaf node that yields the {{c2::maximum loss reduction}} regardless of depth.",
+    "explanation": "Depth-wise algorithms build trees level by level, splitting all nodes. Leaf-wise growth is more efficient, focusing only on high-error nodes. While leaf-wise growth can achieve much lower loss, it requires strict regularization (like limiting max_depth) to prevent overfitting.",
+    "usage": "Applied in LightGBM to speed up convergence and handle large datasets with deep trees.",
+    "spanish": "A diferencia de los constructores de árboles tradicionales por profundidad, LightGBM utiliza el crecimiento de árboles por hojas (el mejor primero), que divide el nodo hoja que produce la máxima reducción de pérdida.",
+    "tags": [
+      "supervised",
+      "lightgbm",
+      "tree_growth"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: CatBoost Categorical Splits 📊",
+    "text": "CatBoost handles categorical features natively by calculating {{c1::ordered target statistics (ordered TS)}} on random permutations of the dataset, avoiding target leakage and overfitting.",
+    "explanation": "Standard target statistics use future data within the target calculation, introducing bias. CatBoost permutes the dataset and, for each row, computes the target statistics using only the history of preceding rows in the permutation.",
+    "usage": "Deployed for training models on tabular datasets containing rich categorical and text variables.",
+    "spanish": "CatBoost maneja variables categóricas de forma nativa calculando estadísticas de objetivo ordenadas sobre permutaciones aleatorias del conjunto de datos, evitando la filtración de objetivo y el sobreajuste.",
+    "tags": [
+      "supervised",
+      "catboost",
+      "categorical"
+    ]
+  }
+]

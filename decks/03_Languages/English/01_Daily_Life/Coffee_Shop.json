@@ -1,0 +1,50 @@
+[
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "At the Coffee Shop ☕",
+    "text": "Could I get a medium latte {{c1::to go}}, please?",
+    "explanation": "<strong>to go</strong> is used when you want to take your food or drink out of the shop instead of consuming it there.",
+    "usage": "Pattern: <code>Could I get a [size] [drink] to go, please?</code><ul><li><code>Could I get a large Americano to go, please?</code></li><li><code>Could I get a small espresso to go, please?</code></li></ul>",
+    "spanish": "¿Me da un latte mediano para llevar, por favor?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "At the Coffee Shop ☕",
+    "text": "I'd like to {{c1::substitute}} whole milk {{c1::with}} oat milk, please.",
+    "explanation": "<strong>substitute A with B</strong> means to use B instead of A. This is the standard way to customize food or drink orders.",
+    "usage": "Pattern: <code>substitute [original] with [alternative]</code><ul><li><code>Can I substitute white bread with wheat bread?</code></li><li><code>I'd like to substitute fries with a side salad, please.</code></li></ul>",
+    "spanish": "Me gustaría cambiar la leche entera por leche de avena, por favor.",
+    "tags": [
+      "english_scenario",
+      "coffee_shop"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "At the Coffee Shop ☕",
+    "text": "Do you have any {{c1::sugar-free}} syrup options?",
+    "explanation": "<strong>sugar-free</strong> means containing no sugar. Syrups are sweet liquid flavorings added to coffee (like vanilla or caramel).",
+    "usage": "Pattern: <code>[adjective]-free</code> (e.g., gluten-free, caffeine-free, tax-free)<ul><li><code>Is this cookie gluten-free?</code></li><li><code>I'd prefer decaf, do you have caffeine-free coffee?</code></li></ul>",
+    "spanish": "¿Tienen opciones de jarabe sin azúcar?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "At the Coffee Shop ☕",
+    "text": "Can I {{c1::pay by card}}?",
+    "explanation": "<strong>pay by card</strong> means to pay using a credit or debit card rather than cash.",
+    "usage": "Pattern: <code>pay by [method]</code> (e.g., pay by card, pay by phone, pay by check) but <code>pay in cash</code><ul><li><code>You can pay by phone using Apple Pay.</code></li><li><code>Is it cheaper if I pay in cash?</code></li></ul>",
+    "spanish": "¿Puedo pagar con tarjeta?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop"
+    ]
+  }
+]

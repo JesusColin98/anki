@@ -1,0 +1,15 @@
+[
+  {
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Reconnaissance::02_Reconnaissance",
+    "scenario": "Security: Port Scanning 🔍",
+    "text": "To scan a network stealthily without completing the three-way handshake, you run a {{c1::TCP SYN scan}} (often called a half-open scan).",
+    "explanation": "A SYN scan sends a SYN packet and waits for a SYN-ACK. If received, it immediately sends a RST (reset) packet to close the connection without completing the handshake (no ACK is sent). This makes the scan faster and less likely to trigger application-level connection logs.",
+    "usage": "Standard Nmap syntax: <code>nmap -sS <target_ip></code> (requires root/administrator privileges).",
+    "spanish": "Para escanear una red sigilosamente sin completar el saludo de tres vías, ejecutas un escaneo TCP SYN (a menudo llamado escaneo medio abierto).",
+    "tags": [
+      "networking",
+      "security",
+      "reconnaissance"
+    ]
+  }
+]

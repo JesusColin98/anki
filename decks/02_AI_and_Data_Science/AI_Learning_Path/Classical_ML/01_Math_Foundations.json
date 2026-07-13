@@ -1,0 +1,68 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: Singular Value Decomposition (SVD) 📊",
+    "text": "For dimensionality reduction and matrix approximation, Singular Value Decomposition (SVD) factors a matrix A into U Sigma V^T where Sigma contains the {{c1::singular values}} in descending order and the columns of V represent the {{c2::right singular vectors (principal directions)}}.",
+    "explanation": "SVD decomposition breaks down any real matrix into rotation (U), scaling (Sigma), and rotation (V^T) matrices. Truncating the singular values to the top k gives the best rank-k approximation of the matrix under the Frobenius norm (Eckart-Young-Mirsky theorem).",
+    "usage": "Used in Principal Component Analysis (PCA) and collaborative filtering recommender systems.<br>Reference: For mathematical foundations of SVD, see Chapter 4 of <a href=\"https://lnkd.in/gbUD5VWk\">Mathematics for Machine Learning</a>.",
+    "spanish": "Para la reducción de dimensionalidad y la aproximación de matrices, la Descomposición en Valores Singulares (SVD) factoriza una matriz A en U Sigma V^T, donde Sigma contiene los valores singulares en orden descendente y las columnas de V representan los vectores singulares derechos.",
+    "tags": [
+      "math",
+      "svd",
+      "linear_algebra"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: MLE vs MAP Parameter Estimation 🧠",
+    "text": "While Maximum Likelihood Estimation (MLE) maximizes the likelihood function P(D|theta), Maximum A Posteriori (MAP) estimation incorporates a prior distribution P(theta) by maximizing the product {{c1::P(D|theta)P(theta)}}.",
+    "explanation": "MAP estimation computes the mode of the posterior distribution using Bayes' theorem. It acts as a bridge between frequentist and Bayesian inference, where the prior distribution P(theta) mathematically functions as a regularization term (e.g. Gaussian prior leads to L2 regularization).",
+    "usage": "Core foundation for understanding regularization, bayesian classifiers, and parameter estimation.<br>Reference: For parameter estimation derivations, see Chapter 9 of <a href=\"https://lnkd.in/gbUD5VWk\">Mathematics for Machine Learning</a>.",
+    "spanish": "Mientras que la Estimación de Máxima Verosimilitud (MLE) maximiza la función de verosimilitud P(D|theta), la Estimación Máxima a Posteriori (MAP) incorpora una distribución a priori P(theta) al maximizar el producto P(D|theta)P(theta).",
+    "tags": [
+      "math",
+      "mle",
+      "map",
+      "statistics"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: Hessian Matrix & Local Curvature 📈",
+    "text": "In multi-variable optimization, the {{c1::Hessian matrix}} is a square matrix of second-order partial derivatives that describes the local curvature of a function, allowing us to determine if a critical point is a local minimum when the matrix is {{c2::positive definite}}.",
+    "explanation": "If the Hessian matrix H is positive definite (H > 0), the function curves upwards in all directions, representing a local minimum. In optimization, Newton's method uses the inverse Hessian to scale the gradient step, providing quadratic convergence.",
+    "usage": "Used in advanced optimization algorithms (e.g., Newton-Raphson, BFGS, and XGBoost's split criterion).<br>Reference: For optimization and second-order derivatives, see Chapter 4 of <a href=\"https://lnkd.in/gNxH4gSu\">Deep Learning (Goodfellow et al.)</a>.",
+    "spanish": "En optimización multivariable, la matriz Hessiana es una matriz cuadrada de segundas derivadas parciales que describe la curvatura local de una función, lo que nos permite determinar si un punto crítico es un mínimo local cuando la matriz es definida positiva.",
+    "tags": [
+      "math",
+      "hessian",
+      "calculus"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: The Curse of Dimensionality 🌌",
+    "text": "As the number of features increases, the volume of the space grows exponentially, causing data points to become extremely sparse and the Euclidean distance between any two points to {{c1::converge to a constant value}}.",
+    "explanation": "In high-dimensional spaces, the difference between the distance to the nearest point and the distance to the farthest point approaches zero relative to the distance itself. This renders distance-based algorithms (like KNN and K-Means) highly ineffective without dimensionality reduction.",
+    "usage": "Explains why high-dimensional features require regularization or PCA/UMAP pre-processing.",
+    "spanish": "A medida que aumenta el número de características, el volumen del espacio crece exponencialmente, lo que hace que los puntos de datos se vuelvan extremadamente dispersos y que la distancia euclidiana entre dos puntos cualesquiera converja a un valor constante.",
+    "tags": [
+      "math",
+      "curse_of_dimensionality",
+      "distance"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: Bootstrapping Sampling Mechanics 🎲",
+    "text": "The statistical technique of {{c1::Bootstrapping}} estimates the sampling distribution of an estimator by performing {{c2::random sampling with replacement}} from the original dataset.",
+    "explanation": "Bootstrapping generates multiple 'new' datasets of the same size as the original by drawing samples repeatedly, allowing some items to be selected multiple times (about 63.2% of original unique points are selected per bootstrap sample on average). It is used to calculate confidence intervals and stability.",
+    "usage": "The core sampling mechanism behind bagging algorithms like Random Forest (where out-of-bag samples act as validation).",
+    "spanish": "La técnica estadística de Bootstrapping estima la distribución muestral de un estimador al realizar un muestreo aleatorio con reemplazo del conjunto de datos original.",
+    "tags": [
+      "math",
+      "bootstrapping",
+      "sampling"
+    ]
+  }
+]

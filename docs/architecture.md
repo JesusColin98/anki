@@ -45,7 +45,8 @@ graph TB
 
 ### 1. Decentralized Subfolder Deck Architecture (`decks/`)
 - All decks are decoupled from monolithic files into nested subfolders under `decks/`.
-- The double-colon notation in Anki (`Category::Subcategory::DeckName`) maps directly to disk paths (`decks/Category/Subcategory/DeckName.json`).
+- The double-colon notation in Anki (`Pillar::Category::Subcategory::DeckName`) maps directly to disk paths (`decks/Pillar/Category/Subcategory/DeckName.json`).
+- **Evolving Learning Path Principle**: Every deck is organized as a dynamic Learning Path. Subcategories are explicitly structured to allow intuitive progression from **Foundations (Fundamentos)** -> **Intermediate (Intermedio)** -> **Advanced Technical Topics (Temas Técnicos Avanzados)**. Agents are empowered to create, refine, or adjust subcategories whenever logically justified to maintain smooth learning progression.
 - Automatically tracks metadata and deck counts in `decks/index.json`.
 
 ### 2. Multi-Template Engine (`template_engine.py`)

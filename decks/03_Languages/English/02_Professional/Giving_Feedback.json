@@ -1,0 +1,42 @@
+[
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Giving Feedback 📊",
+    "text": "I want to ensure we are aligned, so I'd like to {{c1::address a pattern}} I've noticed in your recent deliverables.",
+    "explanation": "<strong>address a pattern</strong> is a polite, constructive way to bring up a recurring issue in performance without making the employee feel immediately attacked.",
+    "usage": "Pattern: <code>address a pattern of [behavior]</code><ul><li><code>We need to address a pattern of late arrivals in morning standups.</code></li><li><code>Thank you for addressing a pattern that was affecting our release schedule.</code></li></ul>",
+    "spanish": "Quiero asegurarme de que estemos alineados, por lo que me gustaría abordar un patrón que he notado en tus entregables recientes.",
+    "tags": [
+      "business_english",
+      "professional",
+      "giving_feedback"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Communication: Radical Candor 📊",
+    "text": "According to Kim Scott's Radical Candor framework, effective leadership requires balancing the two dimensions of {{c1::Care Personally}} (Cuidar Personalmente) and {{c2::Challenge Directly}} (Desafiar Directamente).",
+    "explanation": "Failing to challenge directly while caring personally leads to 'Empatía Ruinosa' (Ruinous Empathy), which prevents growth. Challenging directly without caring leads to 'Agresión Ofensiva' (Obnoxious Aggression).",
+    "usage": "Radical Candor is the 'sweet spot' where you care enough about someone to tell them the uncomfortable truth to help them grow.",
+    "spanish": "Según el marco de Sinceridad Radical de Kim Scott, el liderazgo efectivo requiere equilibrar las dos dimensiones de Cuidar Personalmente y Desafiar Directamente.",
+    "tags": [
+      "business_english",
+      "professional",
+      "radical_candor",
+      "feedback"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Workplace: Constructive Feedback 📊",
+    "text": "During the 1-on-1 meeting, the manager noted: \"While your code is robust, there is {{c1::room for improvement}} in your documentation. {{c2::Going forward}}, let's focus on adding README guides.\"",
+    "explanation": "<strong>Room for improvement</strong> is a polite, constructive way to say that something needs development. **Going forward** is a transition phrase meaning 'in the future'.",
+    "usage": "Pattern: <code>room for improvement in [area] / going forward, we should [action]</code><ul><li><code>There is room for improvement in our test coverage.</code></li><li><code>Going forward, all code must be reviewed by two peers.</code></li></ul>",
+    "spanish": "Durante la reunión 1 a 1, el gerente señaló: \"Aunque tu código es robusto, hay margen de mejora en tu documentación. En el futuro, concentrémonos en agregar guías README\".",
+    "tags": [
+      "workplace",
+      "feedback",
+      "communication"
+    ]
+  }
+]

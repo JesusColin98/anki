@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Agentic IDEs: Codebase Rules and Config 📐",
+    "text": "Next-generation IDEs like Cursor customize agent behavior using root configuration files called {{c1::.cursorrules}} to define development standards and enforce local styling.",
+    "explanation": ".cursorrules files sit at the root of a project. They instruct Cursor's codebase agent on specific architectural choices (e.g. 'Use Next.js Server Actions, prefer Tailwind, do not use library X'), preventing the AI from generating obsolete patterns.",
+    "usage": "Best practice for onboarding teams and keeping LLM code outputs consistent across microservices.",
+    "spanish": "Los IDEs de próxima generación como Cursor personalizan el comportamiento de los agentes mediante archivos de configuración en la raíz llamados .cursorrules para establecer estándares y estilos.",
+    "tags": [
+      "ide",
+      "cursorrules",
+      "configuration"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Agentic IDEs: Windsurf Shared Terminal 🖥️",
+    "text": "The agentic editor {{c1::Windsurf}} uses a shared state model called 'Flows', allowing the AI to read your open file contexts, suggest edits, and directly execute commands in the {{c2::integrated terminal}}.",
+    "explanation": "Windsurf breaks the boundary of conversational chats by integrating the IDE terminal, file system, and chat context. The agent does not just print code blocks; it compiles, tests, and reads the output directly, resolving issues iteratively.",
+    "usage": "Perfect for complex debugging sessions where the agent needs to compile and test code in real time.",
+    "spanish": "El editor agéntico Windsurf utiliza un modelo de estado compartido llamado 'Flows', permitiendo a la IA leer los archivos abiertos, sugerir ediciones y ejecutar comandos en la terminal integrada.",
+    "tags": [
+      "ide",
+      "windsurf",
+      "flows"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Agentic IDEs: In-Browser Sandboxes 🌐",
+    "text": "Web-based development platforms like Bolt.new run complete Node.js development servers inside the browser using WebAssembly-driven {{c1::WebContainers}}.",
+    "explanation": "WebContainers allow full-stack environments (Vite, Express, etc.) to run directly in the browser's sandbox without installing Node locally. This allows AI agents to instantly provision, preview, and build applications securely in seconds.",
+    "usage": "Used in text-to-app tools for instant frontend/backend preview and code generation.",
+    "spanish": "Las plataformas de desarrollo basadas en web como Bolt.new ejecutan servidores de desarrollo Node.js completos dentro del navegador utilizando WebContainers basados en WebAssembly.",
+    "tags": [
+      "ide",
+      "webcontainers",
+      "bolt_new"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Agentic IDEs: Copilot Workspace Specs 📝",
+    "text": "In {{c1::Copilot Workspace}}, the agent creates a structured {{c2::Task Specification Plan}} before making codebase edits, allowing the developer to review and refine the changes before execution.",
+    "explanation": "Instead of immediately writing code, Copilot Workspace forces the agent to write a step-by-step design spec plan first. The developer audits this plan, adjusts the logic, and then clicks approve to let the agent apply edits across multiple files in the repository.",
+    "usage": "Useful for managing complex feature requests and PR code reviews in GitHub workflows.",
+    "spanish": "En Copilot Workspace, el agente crea una especificación de plan de tareas estructurada antes de editar el código, lo que permite al desarrollador revisar y refinar los cambios antes de su ejecución.",
+    "tags": [
+      "ide",
+      "copilot_workspace",
+      "planning"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Agentic IDEs: Automated Agentic Auditing 🛡️",
+    "text": "To secure CI/CD pipelines, modern teams deploy {{c1::Agentic Auditing}} where autonomous LLM panels review pull requests for vulnerabilities (SAST) and enforce {{c2::architectural compliance}}.",
+    "explanation": "Traditional linters check syntax, but agentic auditors check logic. An agentic auditor evaluates pull requests by simulating attack vectors, checking for API design violations, and auditing database query efficiencies before code is merged.",
+    "usage": "Integrating LLM safety checkers into GitHub Actions or GitLab CI workflows.",
+    "spanish": "Para asegurar los pipelines CI/CD, los equipos despliegan auditorías agénticas donde paneles de LLM revisan solicitudes de extracción (PR) buscando vulnerabilidades y haciendo cumplir el diseño arquitectónico.",
+    "tags": [
+      "ide",
+      "auditing",
+      "cicd"
+    ]
+  }
+]

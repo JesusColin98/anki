@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Advanced RAG: Multimodal Retrieval 🖼️",
+    "text": "Instead of extracting plain text from complex documents, multimodal RAG uses models like {{c1::ColPali}} to generate vector embeddings directly from {{c2::rendered document images}}.",
+    "explanation": "Traditional RAG struggles with charts, tables, and PDFs because the parsing step loses structural layouts. ColPali represents pages as images and extracts semantic visual-textual patches, embedding them directly into vector spaces for highly accurate visual document retrieval.",
+    "usage": "Highly recommended for reading financial statements, engineering blueprints, and slides.",
+    "spanish": "En lugar de extraer texto plano de documentos complejos, el RAG multimodal utiliza modelos como ColPali para generar embeddings vectoriales directamente a partir de imágenes renderizadas de los documentos.",
+    "tags": [
+      "rag",
+      "multimodal",
+      "colpali"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Advanced RAG: Hybrid Search 🔀",
+    "text": "Industrial RAG applications implement hybrid search by combining semantic {{c1::dense vector retrieval}} with keyword-based {{c2::sparse BM25 retrieval}} and merging results using Reciprocal Rank Fusion (RRF).",
+    "explanation": "Dense vectors capture general concept meanings but miss exact keyword match strings (like serial codes or product names). Sparse retrieval (BM25) targets keyword precision. Combining both via RRF yields optimal search recall and accuracy.",
+    "usage": "Standard production search architecture for enterprise wikis and code search tools.",
+    "spanish": "Las aplicaciones RAG industriales implementan búsquedas híbridas combinando la recuperación de vectores densos con la recuperación de palabras clave BM25, uniendo los resultados mediante RRF.",
+    "tags": [
+      "rag",
+      "hybrid_search",
+      "rrf"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Advanced RAG: GraphRAG 🕸️",
+    "text": "To capture global, high-level summaries of massive text datasets, {{c1::GraphRAG}} builds knowledge graphs using LLMs and clusters them with algorithms like {{c2::Leiden community detection}}.",
+    "explanation": "GraphRAG extracts structured entities and relations from texts to construct a Knowledge Graph. It then groups nodes into hierarchical communities. When a user asks a global query (e.g., 'What are the main issues in this repository?'), the model summarizes the clusters instead of performing keyword searches.",
+    "usage": "Perfect for broad corpus summaries, compliance audits, and architectural mapping.",
+    "spanish": "Para capturar resúmenes globales de conjuntos de datos masivos, GraphRAG construye gráficos de conocimiento con LLMs y los agrupa mediante algoritmos como la detección de comunidades de Leiden.",
+    "tags": [
+      "rag",
+      "graphrag",
+      "knowledge_graphs"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Advanced RAG: Corrective RAG (CRAG) 🧯",
+    "text": "{{c1::Corrective RAG (CRAG)}} adds a self-correction loop where a evaluator agent assesses search result quality; if quality falls below a threshold, it triggers a fallback search using {{c2::external web APIs}}.",
+    "explanation": "If retrieved documents are irrelevant, traditional RAG outputs incorrect answers (hallucinations). CRAG inserts a logic gate: if the retrieved context is classified as 'incorrect' or 'irrelevant', the system triggers Tavily or Google Search to fetch verified web documentation.",
+    "usage": "Critical for dynamic, high-stakes support pipelines where stale documentation causes system failures.",
+    "spanish": "Corrective RAG (CRAG) añade un ciclo de autoconrección donde un agente evaluador califica los resultados de búsqueda; si la calidad es baja, activa una búsqueda alternativa en APIs web externas.",
+    "tags": [
+      "rag",
+      "crag",
+      "web_search"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Advanced RAG: Semantic Chunking 📑",
+    "text": "To prevent context loss, {{c1::Semantic Chunking}} splits documents by measuring the {{c2::cosine distance}} of embeddings between consecutive sentences, creating boundaries when semantic flow shifts.",
+    "explanation": "Traditional chunking splits documents by arbitrary token counts, often cutting sentences or paragraphs in half. Semantic chunking calculates embeddings for every sentence and groups them into a chunk until the semantic similarity between adjacent blocks drops below a threshold.",
+    "usage": "Essential for preprocessing lengthy technical guidelines, legal contracts, and novels.",
+    "spanish": "Para evitar la pérdida de contexto, el fragmentado semántico divide los documentos midiendo la distancia de coseno entre oraciones consecutivas, creando límites cuando cambia el flujo semántico.",
+    "tags": [
+      "rag",
+      "semantic_chunking",
+      "preprocessing"
+    ]
+  }
+]

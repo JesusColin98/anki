@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Philosophy Statecraft 📚",
+    "text": "Discussing Machiavelli: \"His lectures focus on the harsh realities of {{c1::statecraft}} and the complex {{c2::power dynamics}} between rulers and citizens.\"",
+    "explanation": "<strong>Statecraft</strong> refers to the art of government and leadership. **Power dynamics** refer to how power is negotiated and shared within relationships or society.",
+    "usage": "Pattern: <code>the study of statecraft / analyze power dynamics</code><ul><li><code>Machiavelli's The Prince is a classic treatise on statecraft.</code></li><li><code>The team analyzed the power dynamics within the organization.</code></li></ul>",
+    "spanish": "Discutiendo a Maquiavelo: \"Sus conferencias se centran en las duras realidades del arte de gobernar y la compleja dinámica de poder entre gobernantes y ciudadanos\".",
+    "tags": [
+      "academic",
+      "philosophy",
+      "statecraft"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Defending Thesis Methodology 🎓",
+    "text": "Defending the thesis: \"We gathered {{c1::qualitative data}} from a small {{c2::sample size}} to establish a theoretical framework.\"",
+    "explanation": "<strong>Qualitative data</strong> is non-numerical descriptive data (e.g. interviews). **Sample size** is the number of participants/elements in a study.",
+    "usage": "Pattern: <code>gather qualitative data from a sample size of [number]</code><ul><li><code>We gathered qualitative data through participant interviews.</code></li><li><code>The small sample size limits the generalization of the study.</code></li></ul>",
+    "spanish": "Defendiendo la tesis: \"Reunimos datos cualitativos de una muestra pequeña para establecer un marco teórico\".",
+    "tags": [
+      "academic",
+      "thesis_defense",
+      "methodology"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: AI Deployment Ethics 🤖",
+    "text": "Debating the tech: \"The rapid deployment of deep {{c1::neural networks}} raises concerns about algorithmic bias and {{c2::data privacy violations}}.\"",
+    "explanation": "<strong>Neural networks</strong> refer to machine learning models inspired by biological brain architectures. **Data privacy violations** involve unauthorized collection or exposure of user information.",
+    "usage": "Pattern: <code>raise concerns about algorithmic bias / verify data privacy compliance</code><ul><li><code>We trained deep neural networks for image classification.</code></li><li><code>Data privacy violations can lead to severe legal penalties.</code></li></ul>",
+    "spanish": "Debatiendo sobre la tecnología: \"La rápida implementación de redes neuronales profundas plantea preocupaciones sobre el sesgo algorítmico y las violaciones de la privacidad de los datos\".",
+    "tags": [
+      "academic",
+      "ai_ethics",
+      "technology"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Mass Media Agenda-Setting 📣",
+    "text": "Analyzing media: \"Social algorithms create an {{c1::echo chamber}} effect that amplifies {{c2::sensationalism}} and polarizes public opinion.\"",
+    "explanation": "<strong>Echo chamber</strong> is a metaphorical description of an environment where a person only encounters information that reflects and reinforces their own beliefs. **Sensationalism** is the use of exciting or shocking stories to provoke public interest.",
+    "usage": "Pattern: <code>create an echo chamber / amplify sensationalism in media</code><ul><li><code>Social media feeds often create an echo chamber for users.</code></li><li><code>Sensationalism is commonly used to drive clicks and ad revenue.</code></li></ul>",
+    "spanish": "Analizando los medios: \"Los algoritmos sociales crean un efecto de cámara de eco que amplifica el sensacionalismo y polariza la opinión pública\".",
+    "tags": [
+      "academic",
+      "media_studies",
+      "sociology"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Comparing Abstract Currents 🧠",
+    "text": "In the comparison: \"We must analyze the {{c1::nuance}} between these philosophies instead of reducing them to a simple {{c2::dichotomy}}.\"",
+    "explanation": "<strong>Nuance</strong> is a subtle difference in meaning, expression, or opinion. **Dichotomy** is a division or contrast between two things that are represented as being opposed or entirely different.",
+    "usage": "Pattern: <code>analyze the nuance / reduce [topic] to a simple dichotomy</code><ul><li><code>Understanding the nuance of the contract is essential.</code></li><li><code>The debate simplifies the issue into a false dichotomy.</code></li></ul>",
+    "spanish": "En la comparación: \"Debemos analizar los matices entre estas filosofías en lugar de reducirlas a una simple dicotomía\".",
+    "tags": [
+      "academic",
+      "philosophy",
+      "comparison"
+    ]
+  }
+]

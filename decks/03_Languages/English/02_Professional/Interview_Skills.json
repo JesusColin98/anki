@@ -1,0 +1,15 @@
+[
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Workplace: Job Interview 💼",
+    "text": "During the interview, she explained: \"I {{c1::spearheaded the optimization}} of our CI/CD pipelines, which {{c2::streamlined our deployment cycle}} by 40%.\"",
+    "explanation": "<strong>Spearhead</strong> is an active, high-impact verb meaning to lead an initiative. **Streamline** means to make a process more efficient by removing bottlenecks.",
+    "usage": "Pattern: <code>spearhead the [action] of [system] / streamline [process]</code><ul><li><code>He spearheaded the migration of our legacy systems.</code></li><li><code>We need to streamline our support ticketing process.</code></li></ul>",
+    "spanish": "Durante la entrevista, ella explicó: \"Lideré la optimización de nuestros pipelines de CI/CD, lo que simplificó nuestro ciclo de implementación en un 40%\".",
+    "tags": [
+      "workplace",
+      "interview",
+      "vocabulary"
+    ]
+  }
+]

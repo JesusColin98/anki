@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: DBSCAN Density Clustering 🛑",
+    "text": "DBSCAN classifies points into core, border, and noise categories based on two parameters: {{c1::eps (epsilon neighborhood radius)}} and {{c2::minSamples (minimum points in radius)}}.",
+    "explanation": "Core points have at least minSamples within their eps radius. Border points have fewer but are reachable from a core point. Noise points are unreachable. DBSCAN requires no predefined cluster count and can isolate complex, arbitrary cluster shapes.",
+    "usage": "Excellent for spatial data, geospatial mapping, and anomaly detection.",
+    "spanish": "DBSCAN clasifica los puntos en las categorías de núcleo, borde y ruido en función de dos parámetros: eps y minSamples.",
+    "tags": [
+      "unsupervised",
+      "dbscan",
+      "clustering"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: Silhouette Coefficient 📏",
+    "text": "The Silhouette Coefficient measures clustering quality by comparing the mean intra-cluster distance a with the mean nearest-cluster distance b, using the formula {{c1::(b - a) / max(a, b)}}.",
+    "explanation": "The coefficient ranges from -1 (poor clustering, points assigned to wrong clusters) to +1 (dense, well-separated clusters). A value near 0 indicates overlapping clusters. Plotting silhouette widths helps select the optimal number of clusters k.",
+    "usage": "Evaluates K-Means or Hierarchical clustering stability.",
+    "spanish": "El coeficiente de silueta mide la calidad del agrupamiento al comparar la distancia media intra-cluster a con la distancia media al cluster más cercano b, utilizando la fórmula (b - a) / max(a, b).",
+    "tags": [
+      "unsupervised",
+      "silhouette",
+      "clustering"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: GMM & Expectation-Maximization 🤝",
+    "text": "Gaussian Mixture Models (GMM) perform soft-clustering by modeling data as a mixture of multiple normal distributions, optimizing parameters iteratively using the {{c1::Expectation-Maximization (EM) algorithm}}.",
+    "explanation": "EM alternates between calculating the probability that each point belongs to each Gaussian cluster (Expectation step) and updating the means, covariances, and mixing coefficients of the Gaussians (Maximization step) until convergence.",
+    "usage": "Used for probabilistic clustering and density estimation where data points have mixed cluster membership.",
+    "spanish": "Los Modelos de Mezcla Gaussiana (GMM) realizan un agrupamiento suave al modelar los datos como una mezcla de múltiples distribuciones normales, optimizando los parámetros con el algoritmo Esperanza-Maximización (EM).",
+    "tags": [
+      "unsupervised",
+      "gmm",
+      "expectation_maximization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: Isolation Forest Anomalies 🌲",
+    "text": "Isolation Forest isolates anomalies by recursively partitioning features using random splits; anomalies are identified by their {{c1::short path lengths}} in the resulting isolation trees.",
+    "explanation": "Because anomalies have unusual feature values, they require very few random splits to isolate them from the rest of the dataset. Therefore, anomaly points end up close to the root of the tree, resulting in short average path lengths across the forest.",
+    "usage": "High-performance anomaly and fraud detection on tabular data.",
+    "spanish": "Isolation Forest aísla anomalías al particionar recursivamente las características utilizando divisiones aleatorias; las anomalías se identifican por sus longitudes de ruta cortas en los árboles de aislamiento.",
+    "tags": [
+      "unsupervised",
+      "isolation_forest",
+      "anomaly_detection"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: Latent Dirichlet Allocation (LDA) 📚",
+    "text": "Latent Dirichlet Allocation (LDA) models documents as mixtures of latent topics, assuming that topics follow a {{c1::Dirichlet prior distribution}} over words, and documents follow a {{c2::Dirichlet prior distribution}} over topics.",
+    "explanation": "LDA is a generative probabilistic model. It models the generation of words in documents by drawing a topic from a document-topic distribution, and then drawing a word from the corresponding topic-word distribution, solved using Gibbs sampling.",
+    "usage": "Topic extraction and document categorization in Natural Language Processing.",
+    "spanish": "La Asignación Latente de Dirichlet (LDA) modela documentos como mezclas de temas latentes, asumiendo que los temas siguen una distribución a priori de Dirichlet sobre las palabras, y los documentos siguen una distribución a priori de Dirichlet sobre los temas.",
+    "tags": [
+      "unsupervised",
+      "lda",
+      "topic_modeling"
+    ]
+  }
+]

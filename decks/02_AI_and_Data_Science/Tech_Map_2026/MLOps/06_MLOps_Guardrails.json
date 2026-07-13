@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Agentic Observability 🔍",
+    "text": "Observability tools like LangSmith track agent workflows by recording nested traces, calculating token usage, and visualizing {{c1::spans}} that represent {{c2::tool executions}}.",
+    "explanation": "Agentic workflows are non-deterministic and call multiple models and APIs in loops. Observability platforms capture traces (the execution path) and break them into spans (individual API calls or tool executions), making it easy to isolate where an agent crashed, hallucinated, or wasted tokens.",
+    "usage": "Standard monitoring stack for debugging prompt latency and diagnosing failing agent agents.",
+    "spanish": "Las herramientas de observabilidad como LangSmith rastrean los flujos agénticos al registrar trazas anidadas y visualizar 'spans' que representan las ejecuciones de herramientas.",
+    "tags": [
+      "mlops",
+      "observability",
+      "langsmith"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Guardrails and Input Control 🛡️",
+    "text": "NVIDIA's {{c1::NeMo Guardrails}} enforces safety policies in LLM responses by using a domain-specific language called {{c2::Colang}} to define disallowed topics and dialog flows.",
+    "explanation": "Guardrail frameworks sit between the user and the LLM. Using Colang, developers define patterns for user input and model output. If the guardrail system detects a jailbreak attempt, or if the model tries to answer questions outside its defined scope, the interaction is blocked.",
+    "usage": "Required for building public-facing enterprise chatbots that must avoid controversial topics.",
+    "spanish": "NeMo Guardrails de NVIDIA hace cumplir políticas de seguridad en respuestas de LLMs utilizando un lenguaje específico de dominio llamado Colang para bloquear temas no deseados.",
+    "tags": [
+      "mlops",
+      "guardrails",
+      "nemo"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Prompt Caching Mechanics ⚡",
+    "text": "Prompt Caching reduces inferencing cost and latency by storing the {{c1::Key-Value (KV) cache}} of long system prompts and reusing them for queries that share the same {{c2::prefix context}}.",
+    "explanation": "For long-context queries (e.g. documentation, books, system templates), computing the KV matrix at every turn is slow and expensive. Prompt caching flags identical prefix tokens in GPU memory. Reusing this precomputed KV cache reduces Time-To-First-Token (TTFT) and cuts input costs.",
+    "usage": "Highly effective for multi-turn conversational agents with massive system rules or documents.",
+    "spanish": "El almacenamiento en caché de prompts reduce los costos e inferencia y la latencia al guardar el KV cache de prompts del sistema largos y reutilizarlos para consultas con el mismo prefijo.",
+    "tags": [
+      "mlops",
+      "prompt_caching",
+      "inference"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: vLLM & Inference Runtimes 🚀",
+    "text": "To maximize GPU throughput, inference engines like vLLM implement {{c1::PagedAttention}}, which dynamically allocates KV cache memory in non-contiguous physical spaces, preventing {{c2::memory fragmentation}}.",
+    "explanation": "Static allocation of GPU memory for KV caches leads to severe fragmentation and limits batch sizes. PagedAttention borrows paging concepts from operating systems, dividing the KV cache into pages that can be stored anywhere in physical memory, boosting serving capacity.",
+    "usage": "The standard open-source stack for serving LLMs at high concurrency.",
+    "spanish": "Para maximizar el rendimiento de la GPU, los motores de inferencia como vLLM implementan PagedAttention, que asigna dinámicamente la memoria KV en bloques no contiguos para evitar la fragmentación.",
+    "tags": [
+      "mlops",
+      "vllm",
+      "inference_optimization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Reinforcement Learning from AI Feedback (RLAIF) 🤖",
+    "text": "Instead of relying on human labelers, models are aligned using {{c1::RLAIF}}, where a supervisor model generates preference labels that are optimized using algorithms like {{c2::Direct Preference Optimization (DPO)}}.",
+    "explanation": "Traditional RLHF requires thousands of hours of human labeling, which is slow and hard to scale. RLAIF uses another LLM acting under a 'Constitution' to critique outputs. The preference data is then fed directly into DPO, which adjusts model weights directly without separate reward model training.",
+    "usage": "Used to align model safety, formatting compliance, and reasoning paths at scale.",
+    "spanish": "En lugar de depender de etiquetadores humanos, los modelos se alinean usando RLAIF, donde un modelo supervisor genera etiquetas de preferencia optimizadas mediante algoritmos como DPO.",
+    "tags": [
+      "mlops",
+      "rlaif",
+      "dpo"
+    ]
+  }
+]

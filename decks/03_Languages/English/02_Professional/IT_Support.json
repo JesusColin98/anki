@@ -1,0 +1,41 @@
+[
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT Support: Troubleshooting 🖥️",
+    "text": "Could you please {{c1::power cycle}} the router by unplugging it for 30 seconds?",
+    "explanation": "<strong>power cycle</strong> is a technical verb meaning to turn an electronic device completely off (usually by cutting power) and back on again to reset it.",
+    "usage": "Pattern: <code>power cycle [device]</code> (e.g. power cycle the server, power cycle the modem)<ul><li><code>If your connection drops, try power cycling the access point.</code></li><li><code>I power cycled the switch, which solved the IP conflict.</code></li></ul>",
+    "spanish": "¿Podrías por favor apagar y encender el router desenchufándolo durante 30 segundos?",
+    "tags": [
+      "business_english",
+      "professional",
+      "it_support"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT Support & Operations: Incident Response ⚠️",
+    "text": "We are currently experiencing a {{c1::service disruption}} affecting our primary database, and our team is working to mitigate it.",
+    "explanation": "<strong>service disruption</strong> is the formal corporate term for an outage or downtime. <strong>mitigate</strong> means to reduce the severity or impact of an ongoing incident.",
+    "usage": "Pattern: <code>experience a service disruption</code> | <code>mitigate [incident/impact/risk]</code><ul><li><code>The network migration caused a minor service disruption for 10 minutes.</code></li><li><code>We are deploying a hotfix to mitigate the database CPU spikes.</code></li></ul>",
+    "spanish": "Actualmente estamos experimentando una interrupción del servicio que afecta a nuestra base de datos principal, y nuestro equipo está trabajando para mitigarlo.",
+    "tags": [
+      "business_english",
+      "professional",
+      "it_support"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "Workplace: Critical Infrastructure Fault 🖥️",
+    "text": "The engineer reported: \"We are experiencing a major {{c1::infrastructure outage}} due to a {{c2::database bottleneck}}, and we are preparing a root cause analysis.\"",
+    "explanation": "<strong>Outage</strong> means service downtime. **Bottleneck** refers to a point of congestion in a system that slows down performance. **Root cause analysis (RCA)** is the diagnostic process to find the source of the issue.",
+    "usage": "Pattern: <code>experience an outage due to [cause] / conduct a root cause analysis</code><ul><li><code>The network outage was caused by a configuration error.</code></li><li><code>We conducted a root cause analysis to prevent future failures.</code></li></ul>",
+    "spanish": "El ingeniero informó: \"Estamos experimentando una interrupción importante de la infraestructura debido a un cuello de botella en la base de datos, y estamos preparando un análisis de causa raíz\".",
+    "tags": [
+      "workplace",
+      "it_support",
+      "outage"
+    ]
+  }
+]

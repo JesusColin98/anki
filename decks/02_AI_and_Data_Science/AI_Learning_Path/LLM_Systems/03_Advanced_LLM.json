@@ -1,0 +1,26 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: Fine-Tuning ⚙️",
+    "text": "Low-Rank Adaptation (LoRA) freeze pre-trained weights and represents weight updates via two low-rank matrices as {{c1::\\(\\Delta W = B \\cdot A\\)}}",
+    "explanation": "For a weight matrix of size \\(d \\times k\\), updating weights directly is very expensive. LoRA decomposes the update \\(\\Delta W\\) into product of matrices \\(B\\) (size \\(d \\times r\\)) and \\(A\\) (size \\(r \\times k\\)), where rank \\(r \\ll \\min(d, k)\\). Only \\(A\\) and \\(B\\) are updated.",
+    "usage": "Core math details:<ul><li>Original Weights \\(W_0\\) remain frozen.</li><li>Forward pass: \\(h = W_0 x + \\Delta W x = W_0 x + B A x\\).</li><li>Reduces active parameter counts during fine-tuning by up to 99%.</li></ul><br>Reference: For end-to-end LLM fine-tuning pipelines, see <a href=\"https://lnkd.in/gcpSwEZu\">The LLM Engineer's Handbook</a>.",
+    "spanish": "La adaptación de bajo rango (LoRA) congela los pesos preentrenados y representa las actualizaciones de peso mediante dos matrices de bajo rango como \\(\\Delta W = B \\cdot A\\).",
+    "tags": [
+      "ai_learning_path",
+      "advanced_llm"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: Alignment ⚖️",
+    "text": "Direct Preference Optimization (DPO) bypasses reinforcement learning by defining a closed-form loss over {{c1::preference pairs}} of chosen and rejected responses.",
+    "explanation": "Traditional RLHF requires training a reward model, then optimizing the LLM using complex PPO reinforcement learning. DPO mathematically demonstrates that you can optimize the LLM directly on chosen/rejected preference data, removing the need for a separate reward model or PPO training loop.",
+    "usage": "DPO characteristics:<ul><li>More stable and faster to train than PPO.</li><li>Optimizes using a simple binary cross-entropy loss directly on the LLM policy's log probabilities.</li></ul>",
+    "spanish": "La optimización de preferencia directa (DPO) evita el aprendizaje por refuerzo definiendo una pérdida de forma cerrada sobre pares de preferencia de respuestas elegidas y rechazadas.",
+    "tags": [
+      "ai_learning_path",
+      "advanced_llm"
+    ]
+  }
+]

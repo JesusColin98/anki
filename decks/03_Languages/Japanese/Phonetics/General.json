@@ -1,0 +1,291 @@
+[
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Vowel Devoicing}} is defined as: /i/ and /u/ are often devoiced when between two voiceless consonants or at the end of a phrase (e.g., *desu* [desɯ̥]).",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>Vowel Devoicing</code><br>Description: /i/ and /u/ are often devoiced when between two voiceless consonants or at the end of a phrase (e.g., *desu* [desɯ̥]).",
+    "spanish": "En la fonética de Japanese, la regla de 'Vowel Devoicing' es: /i/ and /u/ are often devoiced when between two voiceless consonants or at the end of a phrase (e.g., *desu* [desɯ̥]).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Vowel Length}} is defined as: Japanese distinguishes between short and long vowels (e.g., *ojisan* \"uncle\" vs *ojiisan* \"grandfather\").",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>Vowel Length</code><br>Description: Japanese distinguishes between short and long vowels (e.g., *ojisan* \"uncle\" vs *ojiisan* \"grandfather\").",
+    "spanish": "En la fonética de Japanese, la regla de 'Vowel Length' es: Japanese distinguishes between short and long vowels (e.g., *ojisan* \"uncle\" vs *ojiisan* \"grandfather\").",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::No Diphthongs}} is defined as: Sequences of vowels are usually treated as separate moras.",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>No Diphthongs</code><br>Description: Sequences of vowels are usually treated as separate moras.",
+    "spanish": "En la fonética de Japanese, la regla de 'No Diphthongs' es: Sequences of vowels are usually treated as separate moras.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::The Moraic Nasal (ん)}} is defined as: /ɴ/ changes its pronunciation depending on the following sound (e.g., [m] before /p, b, m/, [ŋ] before /k, ɡ/).",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>The Moraic Nasal (ん)</code><br>Description: /ɴ/ changes its pronunciation depending on the following sound (e.g., [m] before /p, b, m/, [ŋ] before /k, ɡ/).",
+    "spanish": "En la fonética de Japanese, la regla de 'The Moraic Nasal (ん)' es: /ɴ/ changes its pronunciation depending on the following sound (e.g., [m] before /p, b, m/, [ŋ] before /k, ɡ/).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::The Japanese 'R'}} is defined as: An alveolar tap /ɾ/, somewhere between an English 'd' and 'l'.",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>The Japanese 'R'</code><br>Description: An alveolar tap /ɾ/, somewhere between an English 'd' and 'l'.",
+    "spanish": "En la fonética de Japanese, la regla de 'The Japanese 'R'' es: An alveolar tap /ɾ/, somewhere between an English 'd' and 'l'.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Gemination (っ)}} is defined as: Double consonants (e.g., *matte*) count as a full mora and involve a distinct pause or holding of the consonant position.",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>Gemination (っ)</code><br>Description: Double consonants (e.g., *matte*) count as a full mora and involve a distinct pause or holding of the consonant position.",
+    "spanish": "En la fonética de Japanese, la regla de 'Gemination (っ)' es: Double consonants (e.g., *matte*) count as a full mora and involve a distinct pause or holding of the consonant position.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Mora-timed Rhythm}} is defined as: Keep a steady tempo where each sound unit (mora), including the double consonant っ (Q) and the nasal ん (N), receives exactly one beat of time (e.g., *kitte* [ki.t.te] has 3 moras; *shinkansen* has 5).",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>Mora-timed Rhythm</code><br>Description: Keep a steady tempo where each sound unit (mora), including the double consonant っ (Q) and the nasal ん (N), receives exactly one beat of time (e.g., *kitte* [ki.t.te] has 3 moras; *shinkansen* has 5).",
+    "spanish": "En la fonética de Japanese, la regla de 'Mora-timed Rhythm' es: Keep a steady tempo where each sound unit (mora), including the double consonant っ (Q) and the nasal ん (N), receives exactly one beat of time (e.g., *kitte* [ki.t.te] has 3 moras; *shinkansen* has 5).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Vowel Devoicing}} is defined as: Vowels /i/ and /u/ lose their voicing between voiceless consonants (/p, t, k, s, h, ch, sh/) and at the end of statements after a voiceless consonant (e.g., *desu* -> [desɯ̥], *sukiyaki* -> [sɯ̥kijaki], *shitsurei* -> [ɕi̥tsɯɾeː]).",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>Vowel Devoicing</code><br>Description: Vowels /i/ and /u/ lose their voicing between voiceless consonants (/p, t, k, s, h, ch, sh/) and at the end of statements after a voiceless consonant (e.g., *desu* -> [desɯ̥], *sukiyaki* -> [sɯ̥kijaki], *shitsurei* -> [ɕi̥tsɯɾeː]).",
+    "spanish": "En la fonética de Japanese, la regla de 'Vowel Devoicing' es: Vowels /i/ and /u/ lose their voicing between voiceless consonants (/p, t, k, s, h, ch, sh/) and at the end of statements after a voiceless consonant (e.g., *desu* -> [desɯ̥], *sukiyaki* -> [sɯ̥kijaki], *shitsurei* -> [ɕi̥tsɯɾeː]).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Casual Contractions}} is defined as: Everyday spoken Japanese uses major contractions:",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>Casual Contractions</code><br>Description: Everyday spoken Japanese uses major contractions:",
+    "spanish": "En la fonética de Japanese, la regla de 'Casual Contractions' es: Everyday spoken Japanese uses major contractions:",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::~de shimau}} is defined as: > **~jau** (e.g., *ninde shimau* -> \"ninjau\").",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>~de shimau</code><br>Description: > **~jau** (e.g., *ninde shimau* -> \"ninjau\").",
+    "spanish": "En la fonética de Japanese, la regla de '~de shimau' es: > **~jau** (e.g., *ninde shimau* -> \"ninjau\").",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::~te wa}} is defined as: > **~cha** (e.g., *tabete wa ikenai* -> \"tabecha ikenai\").",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>~te wa</code><br>Description: > **~cha** (e.g., *tabete wa ikenai* -> \"tabecha ikenai\").",
+    "spanish": "En la fonética de Japanese, la regla de '~te wa' es: > **~cha** (e.g., *tabete wa ikenai* -> \"tabecha ikenai\").",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::~de wa}} is defined as: > **~ja** (e.g., *dewa mata* -> \"ja mata\").",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>~de wa</code><br>Description: > **~ja** (e.g., *dewa mata* -> \"ja mata\").",
+    "spanish": "En la fonética de Japanese, la regla de '~de wa' es: > **~ja** (e.g., *dewa mata* -> \"ja mata\").",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::~te iru}} is defined as: > **~teru** (e.g., *shitte iru* -> \"shitteru\").",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>~te iru</code><br>Description: > **~teru** (e.g., *shitte iru* -> \"shitteru\").",
+    "spanish": "En la fonética de Japanese, la regla de '~te iru' es: > **~teru** (e.g., *shitte iru* -> \"shitteru\").",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Informal Sound Merging}} is defined as: In casual (especially masculine) speech, vowel sequences merge to a long 'e':",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>Informal Sound Merging</code><br>Description: In casual (especially masculine) speech, vowel sequences merge to a long 'e':",
+    "spanish": "En la fonética de Japanese, la regla de 'Informal Sound Merging' es: In casual (especially masculine) speech, vowel sequences merge to a long 'e':",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::ai}} is defined as: > **ee** (e.g., *itai* -> \"itee\" [iteː], *wakaranai* -> \"wakarane\").",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>ai</code><br>Description: > **ee** (e.g., *itai* -> \"itee\" [iteː], *wakaranai* -> \"wakarane\").",
+    "spanish": "En la fonética de Japanese, la regla de 'ai' es: > **ee** (e.g., *itai* -> \"itee\" [iteː], *wakaranai* -> \"wakarane\").",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::oi}} is defined as: > **ee** (e.g., *sugoi* -> \"sugee\" [sɯɡeː], *osoi* -> \"osee\").",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>oi</code><br>Description: > **ee** (e.g., *sugoi* -> \"sugee\" [sɯɡeː], *osoi* -> \"osee\").",
+    "spanish": "En la fonética de Japanese, la regla de 'oi' es: > **ee** (e.g., *sugoi* -> \"sugee\" [sɯɡeː], *osoi* -> \"osee\").",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::ui}} is defined as: > **ii** (e.g., *warui* -> \"warii\").",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>ui</code><br>Description: > **ii** (e.g., *warui* -> \"warii\").",
+    "spanish": "En la fonética de Japanese, la regla de 'ui' es: > **ii** (e.g., *warui* -> \"warii\").",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Pitch Accent}} is defined as: Unlike English stress accent, Japanese uses changes in pitch (High vs. Low).",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>Pitch Accent</code><br>Description: Unlike English stress accent, Japanese uses changes in pitch (High vs. Low).",
+    "spanish": "En la fonética de Japanese, la regla de 'Pitch Accent' es: Unlike English stress accent, Japanese uses changes in pitch (High vs. Low).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Accent Patterns}} is defined as: - **Heiban** (Flat): Pitch rises and stays high.",
+    "explanation": "Phonetics and pronunciation guide for Japanese.",
+    "usage": "Rule: <code>Accent Patterns</code><br>Description: - **Heiban** (Flat): Pitch rises and stays high.",
+    "spanish": "En la fonética de Japanese, la regla de 'Accent Patterns' es: - **Heiban** (Flat): Pitch rises and stays high.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics Tips 💡",
+    "text": "What is the Japanese pronunciation shortcut/tip for {{c1::The \"Desu\" Whisper}}? When pronouncing \"desu\" or \"masu\", do not voice the final \"u\". Whisper it, or omit it completely: say \"dess\" and \"mass\".",
+    "explanation": "Pronunciation tip/shortcut for Japanese.",
+    "usage": "Tip: <code>The \"Desu\" Whisper</code><br>When pronouncing \"desu\" or \"masu\", do not voice the final \"u\". Whisper it, or omit it completely: say \"dess\" and \"mass\".",
+    "spanish": "¿Cuál es el atajo/consejo de pronunciación de Japanese para 'The \"Desu\" Whisper'? When pronouncing \"desu\" or \"masu\", do not voice the final \"u\". Whisper it, or omit it completely: say \"dess\" and \"mass\".",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics",
+      "tips"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics Tips 💡",
+    "text": "What is the Japanese pronunciation shortcut/tip for {{c1::Everyday Contraction Rule}}? If you are speaking casually, never use full form \"te iru\" or \"te shimau\". Use \"shitteru\" instead of \"shitte iru\" and \"tabechau\" instead of \"tabete shimau\" to sound completely native.",
+    "explanation": "Pronunciation tip/shortcut for Japanese.",
+    "usage": "Tip: <code>Everyday Contraction Rule</code><br>If you are speaking casually, never use full form \"te iru\" or \"te shimau\". Use \"shitteru\" instead of \"shitte iru\" and \"tabechau\" instead of \"tabete shimau\" to sound completely native.",
+    "spanish": "¿Cuál es el atajo/consejo de pronunciación de Japanese para 'Everyday Contraction Rule'? If you are speaking casually, never use full form \"te iru\" or \"te shimau\". Use \"shitteru\" instead of \"shitte iru\" and \"tabechau\" instead of \"tabete shimau\" to sound completely native.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics",
+      "tips"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics Tips 💡",
+    "text": "What is the Japanese pronunciation shortcut/tip for {{c1::Tip}}? Think of Japanese as a drum beat; every character (mora) gets one beat of time.",
+    "explanation": "Pronunciation tip/shortcut for Japanese.",
+    "usage": "Tip: <code>Tip</code><br>Think of Japanese as a drum beat; every character (mora) gets one beat of time.",
+    "spanish": "¿Cuál es el atajo/consejo de pronunciación de Japanese para 'Tip'? Think of Japanese as a drum beat; every character (mora) gets one beat of time.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics",
+      "tips"
+    ]
+  }
+]

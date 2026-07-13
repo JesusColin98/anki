@@ -6,26 +6,17 @@ Below is the directory tree of the `anki-tools` project reflecting the modular a
 anki-tools/
 ├── docs/
 │   ├── architecture.md             # Detailed technical architecture & system flow
+│   ├── card_quality_and_templates_guide.md # Guide on card quality, prompt patterns, & templates
 │   └── folder_structure.md         # Project folder structure documentation
-├── decks/                          # Modular subfolder hierarchy (decoupled content)
+├── decks/                          # 4-Level Deep Deck Hierarchy (6 Scalable Pillars)
 │   ├── index.json                  # Global index of deck metadata and card counts
-│   ├── AI_Learning_Path/           # Machine Learning, LLMs, RAG, and Agent decks
-│   ├── Books_Path/                 # Summaries of technical and business books
-│   ├── English/                    # Daily life, professional, and phonetics decks
-│   ├── French/                     # French A1 and phonetics decks
-│   ├── German/                     # German A1 and phonetics decks
-│   ├── Italian/                    # Italian A1 and phonetics decks
-│   ├── Japanese/                   # Japanese A1 and phonetics decks
-│   ├── Korean/                     # Korean A1 and phonetics decks
-│   ├── Networking_Security/        # Networking fundamentals and defense decks
-│   ├── News_Scraped/               # Web articles scraped by scraper_agent.py
-│   ├── Philosophy/                 # Stoicism, classical, and modern philosophy
-│   ├── Portuguese/                 # Portuguese A1 and phonetics decks
-│   ├── Russian/                    # Russian A1 and phonetics decks
-│   ├── Social_Skills/              # Persuasion, active listening, and presence
-│   ├── SoftSkills/                 # Communication & soft skills decks
-│   ├── Spanish/                    # Spanish A1 and phonetics decks
-│   └── Tech_Map_2026/              # Future tech roadmap decks
+│   ├── 01_Cloud_and_Infrastructure/ # Networking, cybersecurity, cloud, & systems engineering
+│   ├── 02_AI_and_Data_Science/     # Classical ML, LLMs, agents, RAG, MLOps, & data science
+│   ├── 03_Languages/               # English, Spanish, Asian/European languages & news
+│   ├── 04_Social_and_Humanities/   # Philosophy, history, sociology, & psychology
+│   ├── 05_Soft_Skills_and_Leadership/ # Persuasion, active listening, etiquette, & leadership
+│   └── 06_Business_and_Productivity/ # Business strategy, productivity, & learning methods
+├── migrate_to_4level_hierarchy.py  # Script migrating decks to 4-level deep hierarchy
 ├── mcp_anki_server.py              # Native MCP Server exposing tools for LLMs/Agents
 ├── adk_orchestrator.py             # ADK Map-Reduce rolling chunking for books & docs
 ├── template_engine.py              # Multi-Template Engine implementing 6 Wozniak templates

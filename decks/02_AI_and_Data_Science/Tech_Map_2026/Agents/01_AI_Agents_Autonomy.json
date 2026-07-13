@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "AI Agents: Multi-Agent Collaboration 🤝",
+    "text": "For distributed task execution, multi-agent systems rely on {{c1::shared-state memory}} or {{c2::blackboard architectures}} to share intermediate results and prevent agents from executing redundant operations.",
+    "explanation": "A blackboard architecture is a common pattern where agents read from and write to a global, central workspace (the blackboard). This decoupling lets specialized agents react dynamically to updates without direct agent-to-agent coupling.",
+    "usage": "Used in complex orchestration setups where researchers, writers, and checkers need to share an audit log.",
+    "spanish": "Para la ejecución de tareas distribuidas, los sistemas multi-agente dependen de la memoria de estado compartido o de arquitecturas de pizarra para compartir resultados intermedios y evitar operaciones redundantes.",
+    "tags": [
+      "agents",
+      "multi_agent",
+      "blackboard_architecture"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "AI Agents: Claude Code CLI 💻",
+    "text": "Anthropic's {{c1::Claude Code}} operates autonomously on local repositories by directly parsing system diffs, running tests, and executing shell commands using a {{c2::read-eval-print-loop (REPL)}} model.",
+    "explanation": "Claude Code is a command-line interface tool that gives Claude agentic access to your local filesystem. It executes developer tasks (like bug fixing or refactoring) by suggesting patches, applying them, running verification tests, and iterating until the tests pass.",
+    "usage": "Ideal for command-line-driven codebase exploration, test-driven debugging, and automated git commits.",
+    "spanish": "Claude Code de Anthropic opera de forma autónoma en repositorios locales al analizar directamente diferencias del sistema, ejecutar pruebas y comandos de shell utilizando un modelo REPL.",
+    "tags": [
+      "agents",
+      "claude_code",
+      "cli"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "AI Agents: Antigravity Framework 🪐",
+    "text": "The agentic framework {{c1::Antigravity}} ensures reliability by executing user code in a {{c2::sandboxed environment}} with granular tool permissions and state checkpointing.",
+    "explanation": "Antigravity provides developer environments with safe agent runtimes. By checkpointing the execution state, the framework allows long-running agent workflows to pause, seek user approval (Human-in-the-Loop), and safely resume without losing intermediate progress.",
+    "usage": "Perfect for enterprise tasks where agents make external API calls or write files that require strict verification.",
+    "spanish": "El framework agéntico Antigravity garantiza la confiabilidad al ejecutar código de usuario en un entorno aislado con permisos de herramientas granulares y puntos de control de estado.",
+    "tags": [
+      "agents",
+      "antigravity",
+      "sandboxing"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "AI Agents: LLM-as-a-Judge ⚖️",
+    "text": "To automate validation in agentic pipelines, {{c1::LLM-as-a-Judge}} implements a multi-model evaluation where a supervisor LLM grades outputs using {{c2::rubric-based scoring}} to calculate alignment.",
+    "explanation": "LLM-as-a-Judge uses an LLM (typically a larger, frontier model) to evaluate the quality, tone, or compliance of another LLM's output. By defining strict scoring rubrics and structured JSON schemas, it reduces the need for slow, expensive human evaluations.",
+    "usage": "Widely deployed in CI/CD pipelines to measure prompt regression and semantic drift.",
+    "spanish": "Para automatizar la validación en flujos agénticos, LLM-as-a-Judge implementa una evaluación multi-modelo donde un LLM supervisor califica las salidas utilizando puntuaciones basadas en rúbricas.",
+    "tags": [
+      "agents",
+      "evaluation",
+      "llm_judge"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "AI Agents: LangGraph Cyclic State 🔄",
+    "text": "Unlike linear pipelines, {{c1::LangGraph}} models agents as a cyclic state machine where nodes represent actions and edges determine transitions based on the current {{c2::StateGraph object}}.",
+    "explanation": "LangGraph is designed for agent workflows that require loops (e.g. an agent writes code, compiles it, encounters an error, and loops back to fix it). It uses a centralized StateGraph that persists checkpoints, enabling human-in-the-loop interventions.",
+    "usage": "Used for building highly complex, iterative pipelines where agents must review and correct their own work.",
+    "spanish": "A diferencia de los pipelines lineales, LangGraph modela a los agentes como una máquina de estados cíclica donde los nodos representan acciones y las aristas determinan las transiciones según el StateGraph.",
+    "tags": [
+      "agents",
+      "langgraph",
+      "state_machine"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Preprocessing: MICE Missing Data Imputation 🧬",
+    "text": "For handling missing data, Multivariate Imputation by Chained Equations (MICE) imputes variables by modeling each variable with missing values as a function of {{c1::all other variables}} in an {{c2::iterative, series-of-regressions loop}}.",
+    "explanation": "Unlike simple mean/median imputation, MICE preserves the multivariate relationship between features. It runs multiple regression passes (chained equations), drawing values from the predictive distributions to create multiple complete datasets.",
+    "usage": "Standard for clinical trials and datasets where missing values are not missing completely at random (MAR/MNAR).",
+    "spanish": "Para el manejo de datos faltantes, la Imputación Multivariable por Ecuaciones Encadenadas (MICE) imputa variables modelando cada variable con valores faltantes en función de todas las demás variables en un ciclo iterativo de regresiones.",
+    "tags": [
+      "preprocessing",
+      "mice",
+      "imputation"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Preprocessing: Target Encoding & Data Leakage 🧯",
+    "text": "To prevent data leakage during Target Encoding of high-cardinality categorical features, developers apply {{c1::K-Fold target encoding}} or add {{c2::smoothing/additive noise}} based on global prior distributions.",
+    "explanation": "Target encoding replaces categories with the mean target value. If computed directly on the whole dataset, it leaks the label into the feature, causing extreme overfitting. K-Fold target encoding calculates the category means using only out-of-fold data points.",
+    "usage": "Critical for high-cardinality variables (e.g. ZIP codes, device IDs) in gradient boosted tree models.",
+    "spanish": "Para evitar la filtración de datos durante la codificación de objetivo de características categóricas de alta cardinalidad, los desarrolladores aplican codificación de objetivo K-Fold o añaden suavizado/ruido aditivo basado en distribuciones globales a priori.",
+    "tags": [
+      "preprocessing",
+      "target_encoding",
+      "data_leakage"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Preprocessing: Box-Cox vs Yeo-Johnson Transformations 📈",
+    "text": "While the Box-Cox transformation requires the input feature to be {{c1::strictly positive}}, the Yeo-Johnson transformation extends this capability to support {{c2::zero and negative values}}.",
+    "explanation": "Both methods find a power parameter lambda using maximum likelihood to stabilize variance and make data closely conform to a normal distribution. Yeo-Johnson uses modified formulas to handle negative numbers, making it more robust in general preprocessing.",
+    "usage": "Applied to highly skewed features before training linear regression or neural network models.",
+    "spanish": "Mientras que la transformación Box-Cox requiere que la característica de entrada sea estrictamente positiva, la transformación Yeo-Johnson extiende esta capacidad para admitir valores cero y negativos.",
+    "tags": [
+      "preprocessing",
+      "transformations",
+      "normalization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Preprocessing: Recursive Feature Elimination (RFE) ✂️",
+    "text": "Recursive Feature Elimination (RFE) is a wrapper method that selects features by training an estimator, ranking features by their weights/importances, and {{c1::iteratively removing the least important features}} until the target subset size is reached.",
+    "explanation": "RFE accounts for feature dependencies by retraining the model after each removal step. While computationally expensive, it provides a much more accurate feature subset than simple filter methods that evaluate features independently.",
+    "usage": "Commonly combined with SVMs or Random Forests to optimize input dimensions.",
+    "spanish": "La Eliminación Recursiva de Características (RFE) es un método de envoltura que selecciona características entrenando un estimador, clasificando características por sus pesos e iterativamente eliminando las menos importantes hasta alcanzar el tamaño de subconjunto deseado.",
+    "tags": [
+      "preprocessing",
+      "rfe",
+      "feature_selection"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Preprocessing: t-SNE vs UMAP Manifold Learning 🌐",
+    "text": "While t-SNE focuses on preserving {{c1::local pairwise distances (neighborhoods)}} using probability distributions, UMAP preserves both local and {{c2::global structural relationships}} using Riemannian geometry.",
+    "explanation": "t-SNE maps similarities in low dimensions using a Student-t distribution, which tends to crowd clusters and lose global spacing. UMAP assumes data lies on a manifold and preserves its topology, resulting in much faster computation and better representation of global structures.",
+    "usage": "Used to visualize high-dimensional embeddings and cluster outputs in 2D or 3D.",
+    "spanish": "Mientras que t-SNE se centra en preservar las distancias locales por pares utilizando distribuciones de probabilidad, UMAP preserva tanto las relaciones estructurales locales como globales utilizando geometría de Riemann.",
+    "tags": [
+      "preprocessing",
+      "tsne",
+      "umap",
+      "dimensionality_reduction"
+    ]
+  }
+]

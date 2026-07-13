@@ -1,0 +1,15 @@
+[
+  {
+    "deck": "01_Cloud_and_Infrastructure::Networking::Fundamentals::01_Fundamentals",
+    "scenario": "Networking: OSI Model 🌐",
+    "text": "In the OSI model, routers operate at the {{c1::Network Layer}} (Layer 3), which is responsible for packet forwarding and logical routing.",
+    "explanation": "Layer 3 (Network Layer) handles logical addressing (IP addresses) and path determination (routing) across multiple networks.",
+    "usage": "Key devices at Layer 3: Routers, multilayer switches. Key protocols: IPv4, IPv6, ICMP.",
+    "spanish": "En el modelo OSI, los routers operan en la Capa de Red (Capa 3), que es responsable del reenvío de paquetes y del enrutamiento lógico.",
+    "tags": [
+      "networking",
+      "security",
+      "fundamentals"
+    ]
+  }
+]

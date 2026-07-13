@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::04_Customer_Support_Excellence::Crisis_Management",
+    "scenario": "Crisis: Incident Updates (P1/P0) 📢",
+    "text": "During a critical P0 incident, the status updates must follow a strict three-part structure: {{c1::Current Impact}}, {{c2::Investigation Focus}}, and {{c3::ETA for Next Update}}.",
+    "explanation": "This structure prevents client panic and reduces inbound ticket spikes by establishing a predictable communication heartbeat. Setting an ETA for the next update keeps clients from constantly asking for news.",
+    "usage": "A mandatory communication standard for Enterprise Support during major cloud outages.",
+    "spanish": "Durante un incidente crítico P0, las actualizaciones de estado deben seguir una estructura estricta de tres partes: Impacto actual, Enfoque de investigación y Tiempo estimado para la próxima actualización.",
+    "tags": [
+      "crisis_management",
+      "incident_response",
+      "p0_p1"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::04_Customer_Support_Excellence::Crisis_Management",
+    "scenario": "Crisis: Incident Commander (IC) Role 🧑‍✈️",
+    "text": "To maintain focus during a high-pressure crisis bridge, the {{c1::Incident Commander (IC)}} must isolate technical engineers from {{c2::executive noise/updates}} so the engineers can focus exclusively on diagnostics.",
+    "explanation": "The Incident Commander controls the bridge. They manage stakeholders and direct communication, ensuring that engineers are not distracted by VPs or customers demanding immediate answers.",
+    "usage": "Crucial for managing stress and average resolution times (MTTR) during system outages.",
+    "spanish": "Para mantener el enfoque durante un puente de crisis de alta presión, el Comandante de Incidentes (IC) debe aislar a los ingenieros técnicos del ruido o actualizaciones ejecutivas para que los ingenieros puedan concentrarse exclusivamente en el diagnóstico.",
+    "tags": [
+      "crisis_management",
+      "incident_commander",
+      "communication"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::04_Customer_Support_Excellence::Crisis_Management",
+    "scenario": "Crisis: Translation of Technical Jargon 🗣️",
+    "text": "When translating engineering updates for external clients, the agent must avoid raw logs or system architecture details and instead frame the status in terms of {{c1::business/functional impact}} and {{c2::mitigation steps}}.",
+    "explanation": "Clients in a crisis care about what is broken for their users and how to bypass it. Technical jargon about database replication lag or memory leaks should be translated into clear business-level statements.",
+    "usage": "Bridging the gap between engineering teams and customer-facing support roles.",
+    "spanish": "Al traducir actualizaciones de ingeniería para clientes externos, el agente debe evitar registros sin procesar o detalles de arquitectura del sistema y, en su lugar, enmarcar el estado en términos de impacto comercial/funcional y pasos de mitigación.",
+    "tags": [
+      "crisis_management",
+      "jargon_translation",
+      "communication"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::04_Customer_Support_Excellence::Crisis_Management",
+    "scenario": "Written: One-Touch Resolution Mindset 🎯",
+    "text": "To achieve a one-touch resolution on complex tickets, the engineer must {{c1::anticipate the next logical question}} and provide the solution or commands for that scenario beforehand.",
+    "explanation": "One-touch resolution avoids back-and-forth emails. By thinking ahead (e.g., 'If they have version X, they will need this extra flag'), you save days of delay and boost customer satisfaction.",
+    "usage": "A gold standard habit for premium tier async support teams.",
+    "spanish": "Para lograr una resolución al primer contacto en tickets complejos, el ingeniero debe anticipar la siguiente pregunta lógica y proporcionar la solución o los comandos para ese escenario de antemano.",
+    "tags": [
+      "support_excellence",
+      "async_communication",
+      "one_touch"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::04_Customer_Support_Excellence::Crisis_Management",
+    "scenario": "Written: Formatting for Impact 👁️",
+    "text": "When structuring long technical emails for clients in a crisis, engineers should avoid long paragraphs and instead use {{c1::bold callouts for action items}} and {{c2::fenced code blocks for executable commands}}.",
+    "explanation": "Clients under stress have short attention spans. Structuring text with bold items and separate code blocks allows them to scan the email and safely execute commands in seconds.",
+    "usage": "Best practice for technical support documentation and email communications.",
+    "spanish": "Al estructurar correos electrónicos técnicos largos para clientes en crisis, los ingenieros deben evitar los párrafos largos y, en su lugar, usar llamadas en negrita para los elementos de acción y bloques de código delimitados para los comandos ejecutables.",
+    "tags": [
+      "support_excellence",
+      "formatting",
+      "readability"
+    ]
+  }
+]

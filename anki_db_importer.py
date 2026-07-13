@@ -3,6 +3,7 @@ import urllib.request
 import urllib.error
 import sys
 import os
+from pathlib import Path
 
 def invoke(action, **params):
     payload = {'action': action, 'version': 6}
@@ -263,12 +264,17 @@ def load_all_cards(base_dir="."):
     if os.path.exists(decks_dir):
         print(f"Reading cards from nested decks directory: {decks_dir}...")
         for root, _, files in os.walk(decks_dir):
-            for file in files:
+            for file in sorted(files):
                 if file.endswith(".json") and file != "index.json":
                     file_path = os.path.join(root, file)
                     try:
                         with open(file_path, "r", encoding="utf-8") as f:
                             deck_cards = json.load(f)
+                            rel_path = os.path.relpath(file_path, decks_dir)
+                            derived_deck = str(Path(rel_path).with_suffix("")).replace(os.sep, "::")
+                            for card in deck_cards:
+                                if "deck" not in card or not card["deck"]:
+                                    card["deck"] = derived_deck
                             cards.extend(deck_cards)
                     except Exception as e:
                         print(f"Warning: Could not load {file_path}: {e}", file=sys.stderr)
