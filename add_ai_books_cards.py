@@ -1,0 +1,179 @@
+import json
+import os
+
+database_file = "anki_cards_database.json"
+
+if not os.path.exists(database_file):
+    print(f"Error: {database_file} not found.")
+    exit(1)
+
+with open(database_file, "r", encoding="utf-8") as f:
+    cards = json.load(f)
+
+# Part 1: Update existing cards with Deepen Knowledge reference links
+updated_count = 0
+for card in cards:
+    scenario = card.get("scenario", "")
+    
+    # 1. Update RAG vs Fine-Tuning card (Chip Huyen reference)
+    if "rag vs fine-tuning" in scenario.lower():
+        if "gR22SH-2" not in card["usage"]:
+            card["usage"] += '<br>Reference: For foundation model system design patterns, see Chip Huyen\'s <a href="https://lnkd.in/gR22SH-2">AI Engineering</a>.'
+            updated_count += 1
+            
+    # 2. Update SVD card (Mathematics for Machine Learning reference)
+    elif "singular value decomposition" in scenario.lower():
+        if "gbUD5VWk" not in card["usage"]:
+            card["usage"] += '<br>Reference: For mathematical foundations of SVD, see Chapter 4 of <a href="https://lnkd.in/gbUD5VWk">Mathematics for Machine Learning</a>.'
+            updated_count += 1
+            
+    # 3. Update MLE vs MAP card (Mathematics for Machine Learning reference)
+    elif "mle vs map" in scenario.lower():
+        if "gbUD5VWk" not in card["usage"]:
+            card["usage"] += '<br>Reference: For parameter estimation derivations, see Chapter 9 of <a href="https://lnkd.in/gbUD5VWk">Mathematics for Machine Learning</a>.'
+            updated_count += 1
+            
+    # 4. Update Hessian Matrix card (Deep Learning Goodfellow reference)
+    elif "hessian matrix" in scenario.lower():
+        if "gNxH4gSu" not in card["usage"]:
+            card["usage"] += '<br>Reference: For optimization and second-order derivatives, see Chapter 4 of <a href="https://lnkd.in/gNxH4gSu">Deep Learning (Goodfellow et al.)</a>.'
+            updated_count += 1
+            
+    # 5. Update Advanced LLM: Fine-Tuning card (LLM Engineer's Handbook reference)
+    elif "advanced llm: fine-tuning" in scenario.lower():
+        if "gcpSwEZu" not in card["usage"]:
+            card["usage"] += '<br>Reference: For end-to-end LLM fine-tuning pipelines, see <a href="https://lnkd.in/gcpSwEZu">The LLM Engineer\'s Handbook</a>.'
+            updated_count += 1
+            
+    # 6. Update XGBoost card (Hands-On Machine Learning reference)
+    elif "xgboost" in scenario.lower():
+        if "gyhVnBYg" not in card["usage"]:
+            card["usage"] += '<br>Reference: For tree-based algorithms and gradient boosting implementations, see <a href="https://lnkd.in/gyhVnBYg">Hands-On Machine Learning (Aurélien Géron)</a>.'
+            updated_count += 1
+
+print(f"Updated {updated_count} existing cards with book reference links.")
+
+# Part 2: Add 12 new book cards
+new_cards = [
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: Deep Learning 📘",
+        "text": "The foundational theoretical text covering deep neural networks, CNNs, RNNs, and representation learning is {{c1::Deep Learning (Goodfellow, Bengio, & Courville)}}.",
+        "explanation": "Often referred to as the 'bible' of deep learning, it covers math foundations (linear algebra, probability, numerical computation), deep network architectures, and advanced generative models. Highly theoretical and academic.",
+        "usage": "Core Concepts: Linear Algebra, Optimization, CNNs, RNNs, Autoencoders, GANs.<br>Official Link: <a href=\"https://lnkd.in/gNxH4gSu\">Deep Learning Book</a>",
+        "spanish": "El texto teórico fundacional que cubre redes neuronales profundas, CNN, RNN y aprendizaje de representación es 'Deep Learning' de Goodfellow, Bengio y Courville.",
+        "tags": ["deep_learning", "theory", "math", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: Mathematics for Machine Learning 📐",
+        "text": "To bridge the gap between basic math and applied machine learning theory, practitioners read {{c1::Mathematics for Machine Learning (Deisenroth, Faisal, & Ong)}}.",
+        "explanation": "This book provides a self-contained introduction to the mathematical concepts behind ML (linear algebra, analytic geometry, matrix decompositions, vector calculus, probability, and optimization) and shows how they are applied directly to PCA, SVMs, and Gaussian Mixture Models.",
+        "usage": "Core Concepts: Linear Algebra, Vector Calculus, Probability, Optimization, PCA, GMMs.<br>Official Link: <a href=\"https://lnkd.in/gbUD5VWk\">Mathematics for Machine Learning</a>",
+        "spanish": "Para cerrar la brecha entre las matemáticas básicas y la teoría del aprendizaje automático, los profesionales leen 'Mathematics for Machine Learning' de Deisenroth, Faisal y Ong.",
+        "tags": ["math", "linear_algebra", "calculus", "probability", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: AI Engineering 🤖",
+        "text": "Chip Huyen's 2025 book {{c1::AI Engineering}} guides developers in building production applications using foundation models, covering patterns like RAG, evaluations, and prompt engineering.",
+        "explanation": "Focuses on the engineering lifecycle of systems powered by foundation models (LLMs/VLM), moving away from training from scratch to aligning, evaluating, and deploying APIs and local models.",
+        "usage": "Core Concepts: Foundation Models, RAG, Prompt Engineering, Evaluation, Quantization, Deployment.<br>Official Link: <a href=\"https://lnkd.in/gR22SH-2\">AI Engineering by Chip Huyen</a>",
+        "spanish": "El libro de Chip Huyen de 2025, 'AI Engineering', guía a los desarrolladores en la construcción de aplicaciones de producción con modelos fundacionales (RAG, prompts, evaluación).",
+        "tags": ["ai_engineering", "rag", "llm", "systems", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: Applied ML and AI for Engineers 💻",
+        "text": "For a code-first, practical approach to training models and using cloud AI services without getting bogged down in heavy math, engineers read {{c1::Applied ML and AI for Engineers (Jeff Prosise)}}.",
+        "explanation": "A hands-on, implementation-focused guide designed to teach developers how to build and deploy ML/AI models, focusing on practical cloud integrations and model deployments.",
+        "usage": "Core Concepts: Supervised Learning, Deep Learning, Cloud APIs, Model Deployment.<br>Official Link: <a href=\"https://lnkd.in/gaKedZ7S\">Applied ML and AI for Engineers</a>",
+        "spanish": "Para un enfoque práctico y centrado en código para entrenar modelos y usar servicios de IA en la nube, los ingenieros leen 'Applied ML and AI for Engineers' de Jeff Prosise.",
+        "tags": ["applied_ml", "cloud_ai", "software_engineering", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: Artificial Intelligence: A Modern Approach 🏛️",
+        "text": "The definitive, globally recognized university textbook for AI history, search algorithms, logic, and agent frameworks is {{c1::Artificial Intelligence: A Modern Approach (Russell & Norvig)}}.",
+        "explanation": "A comprehensive overview of the entire field of artificial intelligence, covering both classical symbolic AI (search, logic, planning) and modern statistical AI, machine learning, and ethics.",
+        "usage": "Core Concepts: Intelligent Agents, Search Algorithms, First-Order Logic, Planning, Probabilistic Reasoning, Ethics.<br>Official Link: <a href=\"https://lnkd.in/gqFxxqgv\">A Modern Approach (AIMA)</a>",
+        "spanish": "El libro de texto universitario definitivo y reconocido mundialmente para la historia de la IA, algoritmos de búsqueda y lógica es 'Artificial Intelligence: A Modern Approach' de Russell y Novig.",
+        "tags": ["classical_ai", "logic", "search", "agents", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: GANs in Action 🎨",
+        "text": "To learn how to build and train Generative Adversarial Networks from scratch, developers refer to {{c1::GANs in Action (Langr & Bok)}}.",
+        "explanation": "Focuses on the practical implementation of GANs, detailing the adversarial training process between the Generator (creating fake data) and the Discriminator (identifying real vs. fake data).",
+        "usage": "Core Concepts: Generator, Discriminator, DCGAN, CycleGAN, Progressive GANs.<br>Official Link: <a href=\"https://lnkd.in/g3isciJT\">GANs in Action</a>",
+        "spanish": "Para aprender a construir y entrenar Redes Adversarias Generativas (GAN) desde cero, los desarrolladores consultan 'GANs in Action' de Langr y Bok.",
+        "tags": ["gans", "generative_ai", "tensorflow", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: Generative Deep Learning 🎭",
+        "text": "David Foster's book {{c1::Generative Deep Learning}} provides a comprehensive guide to VAEs, GANs, Transformers, and Diffusion models for generating image, text, and audio.",
+        "explanation": "A complete guide to generative modeling, explaining the math and code (in TensorFlow/Keras) for modern architectures like Stable Diffusion and GPT-like models.",
+        "usage": "Core Concepts: VAEs, GANs, Transformers, Diffusion Models, Autoregressive Models.<br>Official Link: <a href=\"https://lnkd.in/gNpDD2vg\">Generative Deep Learning</a>",
+        "spanish": "El libro de David Foster, 'Generative Deep Learning', proporciona una guía completa sobre VAE, GAN, Transformers y modelos de difusión para generar imágenes, texto y audio.",
+        "tags": ["generative_ai", "vae", "diffusion", "transformers", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: Hands-On Generative AI 🛠️",
+        "text": "For a practical guide to using Hugging Face libraries for text, image, and audio generation, developers read {{c1::Hands-On Generative AI (Sanseviero, Cuenca, & Whitaker)}}.",
+        "explanation": "A guide focusing on the practical application of generative models using open-source tools and Hugging Face pipelines for rapid development.",
+        "usage": "Core Concepts: Hugging Face, Fine-Tuning, Text Generation, Image Generation, Audio Generation.<br>Official Link: <a href=\"https://lnkd.in/g9nPeMtE\">Hands-On Generative AI</a>",
+        "spanish": "Para una guía práctica sobre el uso de las bibliotecas de Hugging Face para la generación de texto, imagen y audio, los desarrolladores leen 'Hands-On Generative AI' de Sanseviero, Cuenca y Whitaker.",
+        "tags": ["huggingface", "generative_ai", "fine_tuning", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: Hands-On Large Language Models 👁️",
+        "text": "With nearly 300 custom graphics, {{c1::Hands-On Large Language Models (Alammar & Grootendorst)}} provides the clearest visual explanation of transformer internals, RAG, and fine-tuning.",
+        "explanation": "A visual-first book that breaks down how LLMs work, from token representations to vector embeddings and parameter-efficient fine-tuning (PEFT) methods.",
+        "usage": "Core Concepts: Attention Mechanism, Tokenization, PEFT, RAG, Vector Databases, Semantic Search.<br>Official Link: <a href=\"https://lnkd.in/guajjhmE\">Hands-On Large Language Models</a>",
+        "spanish": "Con casi 300 gráficos personalizados, 'Hands-On Large Language Models' de Alammar y Grootendorst ofrece la explicación visual más clara de transformers, RAG y fine-tuning.",
+        "tags": ["llm", "transformers", "rag", "visual", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: Hands-On Machine Learning ⚙️",
+        "text": "The most widely recommended machine learning book on the internet, which uses Scikit-Learn, Keras, and TensorFlow to teach ML end-to-end, is {{c1::Hands-On Machine Learning (Aurélien Géron)}}.",
+        "explanation": "A production-oriented guide covering all aspects of ML, from data cleaning and preprocessing to training state-of-the-art deep neural networks.",
+        "usage": "Core Concepts: Scikit-Learn, TensorFlow, Regression, Decision Trees, Random Forests, Deep Learning.<br>Official Link: <a href=\"https://lnkd.in/gyhVnBYg\">Hands-On Machine Learning</a>",
+        "spanish": "El libro de aprendizaje automático más recomendado en internet, que enseña ML de extremo a extremo usando Scikit-Learn, Keras y TensorFlow, es 'Hands-On Machine Learning' de Aurélien Géron.",
+        "tags": ["machine_learning", "scikit-learn", "tensorflow", "keras", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: The LLM Engineer's Handbook 🏗️",
+        "text": "To build a production-grade LLM Twin using MLOps, LLM system design, fine-tuning, and scalable inference, engineers read {{c1::The LLM Engineer's Handbook (Iusztin & Labonne)}}.",
+        "explanation": "A hands-on engineering book that details how to create production-ready LLM systems by combining data engineering, model training, and continuous deployment workflows.",
+        "usage": "Core Concepts: MLOps, LLM Twin, Fine-Tuning, RAG Pipelines, Inference, Evaluation.<br>Official Link: <a href=\"https://lnkd.in/gcpSwEZu\">The LLM Engineer's Handbook</a>",
+        "spanish": "Para construir un LLM Twin de grado de producción utilizando MLOps, diseño de sistemas LLM, ajuste fino e inferencia escalable, los ingenieros leen 'The LLM Engineer's Handbook' de Iusztin y Labonne.",
+        "tags": ["llm_engineering", "mlops", "fine_tuning", "production_ai", "ai_library"]
+    },
+    {
+        "deck": "Books_Path::06_AI_ML_Essential_Library",
+        "scenario": "AI Library: NLP with Transformers 🤗",
+        "text": "Written by Hugging Face core engineers, {{c1::Natural Language Processing with Transformers (Tunstall, von Werra, & Wolf)}} is the definitive guide to Hugging Face libraries and transformer training.",
+        "explanation": "Explains the Hugging Face library ecosystem (transformers, datasets, tokenizers, accelerate) with step-by-step guides on fine-tuning models for diverse NLP tasks (classification, NER, translation, summarization).",
+        "usage": "Core Concepts: Hugging Face Ecosystem, Self-Attention, Text Classification, Named Entity Recognition, Text Generation.<br>Official Link: <a href=\"https://www.oreilly.com/library/view/natural-language-processing/9781492092568/\">NLP with Transformers Book</a>",
+        "spanish": "Escrito por ingenieros principales de Hugging Face, 'Natural Language Processing with Transformers' de Tunstall, von Werra y Wolf es la guía definitiva para bibliotecas de Hugging Face y transformers.",
+        "tags": ["nlp", "transformers", "huggingface", "bert", "gpt", "ai_library"]
+    }
+]
+
+existing_scenarios = {c["scenario"] for c in cards}
+added_count = 0
+
+for card in new_cards:
+    if card["scenario"] not in existing_scenarios:
+        cards.append(card)
+        added_count += 1
+
+with open(database_file, "w", encoding="utf-8") as f:
+    json.dump(cards, f, indent=2, ensure_ascii=False)
+
+print(f"Successfully added {added_count} new cards. Total cards in database: {len(cards)}.")
