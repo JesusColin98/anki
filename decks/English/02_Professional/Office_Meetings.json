@@ -1,0 +1,51 @@
+[
+  {
+    "deck": "English::02_Professional::Office_Meetings",
+    "scenario": "Office & Meetings 💼",
+    "text": "Let's {{c1::touch base}} tomorrow to discuss the updates.",
+    "explanation": "<strong>touch base</strong> is a common business idiom meaning to briefly contact or meet with someone to talk about progress.",
+    "usage": "Pattern: <code>touch base with [someone] [time]</code><ul><li><code>I need to touch base with my manager before the client call.</code></li><li><code>Let's touch base next week.</code></li></ul>",
+    "spanish": "Póngamonos en contacto mañana para discutir las actualizaciones.",
+    "tags": [
+      "english_scenario",
+      "office_meetings"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Office_Meetings",
+    "scenario": "Office & Meetings 💼",
+    "text": "We need to {{c1::push back}} the meeting to 3 PM.",
+    "explanation": "<strong>push back</strong> means to postpone or reschedule an event to a later time or date.",
+    "usage": "Pattern: <code>push back [event] to [time/date]</code><ul><li><code>Can we push back the project deadline by two days?</code></li><li><code>They had to push back the launch due to technical issues.</code></li></ul>",
+    "spanish": "Necesitamos posponer la reunión para las 3 PM.",
+    "tags": [
+      "english_scenario",
+      "office_meetings"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Office_Meetings",
+    "scenario": "Office & Meetings 💼",
+    "text": "I'll {{c1::follow up with}} you via email once I get the data.",
+    "explanation": "<strong>follow up with</strong> means to contact someone again to provide further information, verify progress, or request updates.",
+    "usage": "Pattern: <code>follow up with [someone] on/via [method]</code><ul><li><code>The doctor will follow up with you next month.</code></li><li><code>I will follow up with the client on the contract details tomorrow.</code></li></ul>",
+    "spanish": "Le daré seguimiento por correo electrónico una vez que obtenga los datos.",
+    "tags": [
+      "english_scenario",
+      "office_meetings"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Office_Meetings",
+    "scenario": "Workplace: Quarterly Goals Sync ⏱️",
+    "text": "During the planning sync, the director shared: \"Our {{c1::financial forecast}} projects new {{c2::revenue streams}} from our enterprise API licensing model.\"",
+    "explanation": "<strong>Financial forecast</strong> is a projection of future financial performance. **Revenue streams** refer to different sources of income for a business.",
+    "usage": "Pattern: <code>financial forecast projects [metric] / identify new revenue streams</code><ul><li><code>The financial forecast projects a 15% increase in sales.</code></li><li><code>We are exploring new revenue streams to diversify our income.</code></li></ul>",
+    "spanish": "Durante la sincronización de planificación, el director compartió: \"Nuestro pronóstico financiero proyecta nuevas fuentes de ingresos a partir de nuestro modelo de licencia de API empresarial\".",
+    "tags": [
+      "workplace",
+      "meetings",
+      "financial"
+    ]
+  }
+]

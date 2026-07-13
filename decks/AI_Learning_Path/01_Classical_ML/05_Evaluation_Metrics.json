@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "AI_Learning_Path::01_Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: Matthews Correlation Coefficient (MCC) 📊",
+    "text": "For highly imbalanced classification tasks, the {{c1::Matthews Correlation Coefficient (MCC)}} provides a more balanced metric than F1-score because it incorporates {{c2::all four quadrants of the confusion matrix}} (TP, TN, FP, FN).",
+    "explanation": "F1-score ignores True Negatives (TN) entirely, which can lead to overoptimistic scores in imbalanced sets. MCC ranges from -1 (total disagreement) to +1 (perfect prediction) and only scores high if the model predicts well in all classes.",
+    "usage": "Recommended metric for medical diagnostics and fraud detection evaluation.",
+    "spanish": "Para tareas de clasificación altamente desbalanceadas, el Coeficiente de Correlación de Matthews (MCC) proporciona una métrica más equilibrada que la puntuación F1 porque incorpora los cuatro cuadrantes de la matriz de confusión.",
+    "tags": [
+      "evaluation",
+      "mcc",
+      "metrics"
+    ]
+  },
+  {
+    "deck": "AI_Learning_Path::01_Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: ROC-AUC vs PR-AUC 📈",
+    "text": "While the ROC-AUC score is insensitive to class distribution changes, the Precision-Recall AUC (PR-AUC) is highly sensitive and preferred when evaluating {{c1::highly imbalanced datasets}} where the {{c2::positive class is rare}}.",
+    "explanation": "ROC plots True Positive Rate against False Positive Rate. In highly imbalanced datasets, a large number of True Negatives keeps the False Positive Rate low, hiding classification errors. PR-AUC focuses on Precision and Recall, exposing false positives directly.",
+    "usage": "Evaluating credit card fraud models or rare disease classification models.",
+    "spanish": "Mientras que la puntuación ROC-AUC es insensible a los cambios en la distribución de clases, el AUC de Precisión-Recall (PR-AUC) es altamente sensible y se prefiere al evaluar conjuntos de datos muy desbalanceados.",
+    "tags": [
+      "evaluation",
+      "auc",
+      "metrics"
+    ]
+  },
+  {
+    "deck": "AI_Learning_Path::01_Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: Time Series Data Leakage ⏳",
+    "text": "When validating time series models, standard K-Fold cross-validation causes data leakage by using {{c1::future data to predict past data}}; to prevent this, developers must use {{c2::Time Series Split (rolling window)}} validation.",
+    "explanation": "Time series data is ordered. Predicting past values using future values violates temporal causality and overestimates model accuracy. Time Series Split ensures the training set only contains data that occurred prior to the validation set.",
+    "usage": "Essential validation strategy for financial market forecasts and demand planning.",
+    "spanish": "Al validar modelos de series temporales, la validación cruzada K-Fold estándar causa filtración de datos al usar datos futuros para predecir datos pasados; para evitar esto, los desarrolladores deben usar Time Series Split.",
+    "tags": [
+      "evaluation",
+      "time_series",
+      "data_leakage"
+    ]
+  },
+  {
+    "deck": "AI_Learning_Path::01_Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: Bias-Variance Decomposition 🔀",
+    "text": "The expected prediction error of a model can be decomposed into three mathematical components: {{c1::squared bias (underfitting)}}, {{c2::variance (overfitting)}}, and {{c3::irreducible error (noise)}}.",
+    "explanation": "Bias measures how much the average model prediction differs from the true value. Variance measures how much the predictions fluctuate across different training samples. Irreducible error is the inherent noise in the data generating process.",
+    "usage": "Used to diagnose model training errors and decide between simple models or complex models.",
+    "spanish": "El error de predicción esperado de un modelo puede descomponerse en tres componentes matemáticos: sesgo al cuadrado (subajuste), varianza (sobreajuste) y error irreducible (ruido).",
+    "tags": [
+      "evaluation",
+      "bias_variance",
+      "diagnostics"
+    ]
+  },
+  {
+    "deck": "AI_Learning_Path::01_Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: F-Beta Score Calibration 🎯",
+    "text": "The F-Beta Score generalizes the F1-score by introducing a coefficient beta that weights the relative importance of precision and recall: setting beta = 2 weights {{c1::recall higher than precision}}, while beta = 0.5 weights {{c2::precision higher than recall}}.",
+    "explanation": "The formula balances precision and recall. A beta of 2 is used when false negatives are extremely costly (e.g. failing to detect cancer). A beta of 0.5 is used when false positives are extremely costly (e.g. blocking a customer's credit card).",
+    "usage": "Fine-tuning classifier metrics to match specific business costs.",
+    "spanish": "La puntuación F-Beta generaliza la puntuación F1 al introducir un coeficiente beta que pondera la importancia relativa de precisión y recall: configurar beta = 2 pondera recall más alto que precisión.",
+    "tags": [
+      "evaluation",
+      "f_beta",
+      "metrics"
+    ]
+  }
+]

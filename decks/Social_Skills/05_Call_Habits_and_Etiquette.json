@@ -1,0 +1,54 @@
+[
+  {
+    "deck": "Social_Skills::05_Call_Habits_and_Etiquette",
+    "scenario": "Call Etiquette: Setting the Agenda 📋",
+    "text": "At the start of a call, the host establishes trust and structure by {{c1::setting a clear agenda}} and stating the expected outcome of the meeting.",
+    "explanation": "Setting the agenda immediately defines the scope of the call, preventing participants from derailing the meeting with off-topic issues.",
+    "usage": "A key habit to keep calls concise and productive.",
+    "spanish": "Al inicio de una llamada, el anfitrión establece confianza y estructura al definir una agenda clara y declarar el resultado esperado de la reunión.",
+    "tags": [
+      "social_skills",
+      "call_etiquette",
+      "agenda"
+    ]
+  },
+  {
+    "deck": "Social_Skills::05_Call_Habits_and_Etiquette",
+    "scenario": "Call Etiquette: Managing Dead Air 🤫",
+    "text": "During a technical support call, instead of leaving uncomfortable silence while looking up information, the agent should {{c1::narrate their actions}} to keep the customer engaged.",
+    "explanation": "Narrating your actions (e.g., 'I am checking the server logs right now, this should take about 15 seconds') reduces customer anxiety and maintains connection during pauses.",
+    "usage": "Prevents the customer from wondering if the call was dropped or if the agent is inactive.",
+    "spanish": "Durante una llamada de soporte técnico, en lugar de dejar un silencio incómodo mientras busca información, el agente debe narrar sus acciones para mantener al cliente involucrado.",
+    "tags": [
+      "social_skills",
+      "call_etiquette",
+      "communication"
+    ]
+  },
+  {
+    "deck": "Social_Skills::05_Call_Habits_and_Etiquette",
+    "scenario": "Call Etiquette: Summarizing Next Steps 📝",
+    "text": "To ensure accountability, every productive call must end by {{c1::summarizing next steps}}, specifying who is responsible for each action and by when.",
+    "explanation": "Summarizing action items at the end of the call prevents misunderstandings and guarantees that decisions made translate into actual progress.",
+    "usage": "The closing ritual of any high-performing support or business meeting.",
+    "spanish": "Para garantizar la rendición de cuentas, toda llamada productiva debe finalizar resumiendo los siguientes pasos, especificando quién es responsable de cada acción y para cuándo.",
+    "tags": [
+      "social_skills",
+      "call_etiquette",
+      "productivity"
+    ]
+  },
+  {
+    "deck": "Social_Skills::05_Call_Habits_and_Etiquette",
+    "scenario": "Call Etiquette: Managing Call Duration ⏱️",
+    "text": "To prevent call bloat, a support engineer uses {{c1::gentle redirection}} to guide off-topic customers back to the primary troubleshooting goal.",
+    "explanation": "Gentle redirection involves validating the customer's tangent but immediately shifting the focus back to the core issue (e.g., 'That sounds interesting, but to make sure we fix your login issue, let's look at...').",
+    "usage": "Keeps call handling times (AHT) within targets while maintaining high customer satisfaction.",
+    "spanish": "Para evitar que la llamada se alargue innecesariamente, un ingeniero de soporte utiliza la redirección sutil para guiar a los clientes que se desvían del tema de regreso al objetivo principal de resolución de problemas.",
+    "tags": [
+      "social_skills",
+      "call_etiquette",
+      "time_management"
+    ]
+  }
+]

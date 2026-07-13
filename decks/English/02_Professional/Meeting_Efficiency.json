@@ -1,0 +1,54 @@
+[
+  {
+    "deck": "English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meeting Efficiency: Parking Lot / Tabling Topics 🅿️",
+    "text": "When a conversation goes off-track, you can say: \"In the interest of time, let's {{c1::park this topic}} and {{c2::circle back to it}} at the end of the meeting.\"",
+    "explanation": "<strong>In the interest of time</strong> means to save time. **Park a topic** (or put it in the 'parking lot') means to temporarily postpone discussing it. **Circle back** means to return to a topic later.",
+    "usage": "Pattern: <code>In the interest of time, let's park [topic] and circle back to it [time]</code><ul><li><code>In the interest of time, let's park the budget discussion and circle back to it on Friday.</code></li><li><code>I want to circle back to what you said about API keys.</code></li></ul>",
+    "spanish": "Cuando una conversación se desvía, puedes decir: \"Por razones de tiempo, guardemos este tema en el tintero y volvamos a él al final de la reunión\".",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "time_management"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meeting Efficiency: Taking it Offline 📴",
+    "text": "If a detailed discussion only concerns a few people: \"This seems to require a deeper dive, so let's {{c1::take this offline}} and let the rest of the team {{c2::get some time back}}.\"",
+    "explanation": "<strong>Take this offline</strong> is an idiom meaning to discuss a topic privately outside of the current meeting. **Get some time back** is a polite way to end a meeting early or release people who are not needed.",
+    "usage": "Pattern: <code>take this offline / get [amount of] time back</code><ul><li><code>Let's take the database schema discussion offline.</code></li><li><code>If we finish early, everyone gets 10 minutes back.</code></li></ul>",
+    "spanish": "Si una discusión detallada solo concierne a unas pocas personas: \"Esto parece requerir un análisis más profundo, así que hablemos de esto fuera de línea y dejemos que el resto del equipo recupere algo de tiempo\".",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "time_management"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meeting Efficiency: Keeping it High-Level 🏔️",
+    "text": "Let's {{c1::keep this discussion high-level}} today, as we only have 15 minutes left on the agenda.",
+    "explanation": "<strong>Keep high-level</strong> means to focus on the big picture, summaries, and general strategies rather than getting caught up in minor details or technicalities.",
+    "usage": "Pattern: <code>keep this [discussion/sync] high-level</code><ul><li><code>Let's keep this sync high-level and discuss implementation next week.</code></li><li><code>She kept the presentation high-level for the executives.</code></li></ul>",
+    "spanish": "Para evitar empantanarse en los detalles: \"Mantengamos esta discusión a un nivel general hoy, ya que solo nos quedan 15 minutos en la agenda\".",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "scope"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meeting Efficiency: Staying Agenda-Driven 📋",
+    "text": "I want to make sure we {{c1::stick to the agenda}} so we can {{c2::cover all the items}} we planned for today.",
+    "explanation": "<strong>Stick to the agenda</strong> means to follow the pre-planned list of topics. **Cover items** means to discuss and resolve the topics.",
+    "usage": "Pattern: <code>stick to the agenda / cover the items</code><ul><li><code>If we stick to the agenda, we will finish on time.</code></li><li><code>We have a lot of items to cover in today's standup.</code></li></ul>",
+    "spanish": "Quiero asegurarme de que nos apeguemos a la agenda para que podamos cubrir todos los temas que planeamos para hoy.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "agenda"
+    ]
+  }
+]

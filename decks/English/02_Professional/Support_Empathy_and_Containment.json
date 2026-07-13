@@ -1,0 +1,54 @@
+[
+  {
+    "deck": "English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support English: Validating Frustration 🤝",
+    "text": "When a customer is upset about an outage, you can say: \"I completely {{c1::understand how frustrating}} it must be to {{c2::have your workflow disrupted}}.\"",
+    "explanation": "This phrase validates the customer's feelings and shows you understand the impact of the issue on their business, which immediately lowers tension.",
+    "usage": "Pattern: <code>I understand how frustrating it must be to [action/situation]</code><ul><li><code>I understand how frustrating it must be to lose access during a launch.</code></li><li><code>I understand how frustrating it must be to wait for this update.</code></li></ul>",
+    "spanish": "Cuando un cliente está molesto por una interrupción, puedes decir: \"Entiendo completamente lo frustrante que debe ser que se interrumpa tu flujo de trabajo\".",
+    "tags": [
+      "english_scenario",
+      "support_english",
+      "empathy"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support English: Taking Ownership 🛡️",
+    "text": "To reassure a panicked client, use ownership language: \"I'm going to {{c1::take ownership of this issue}} and ensure we {{c2::get this sorted out for you}} as quickly as possible.\"",
+    "explanation": "<strong>Take ownership</strong> means accepting personal responsibility for finding a solution. <strong>Get sorted out</strong> is a common idiom meaning to resolve or organize a problem.",
+    "usage": "Pattern: <code>take ownership of [issue] / get [something] sorted out</code><ul><li><code>Our team will take ownership of the database migration.</code></li><li><code>Don't worry, we'll get this sorted out by the end of the day.</code></li></ul>",
+    "spanish": "Para tranquilizar a un cliente en pánico, utiliza un lenguaje de propiedad: \"Voy a hacerme cargo de este problema y me aseguraré de resolverlo lo antes posible\".",
+    "tags": [
+      "english_scenario",
+      "support_english",
+      "de_escalation"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support English: Framing Bad News Positive 💡",
+    "text": "Instead of saying \"We can't do that,\" frame it constructively: \"While that feature is {{c1::not currently supported}}, what we can do is {{c2::set up a workaround}} using our API.\"",
+    "explanation": "<strong>Not currently supported</strong> is a professional way to say 'impossible' or 'no'. **Set up a workaround** means finding an alternative method to achieve the same result.",
+    "usage": "Pattern: <code>While [request] is not currently supported, what we can do is [alternative]</code><ul><li><code>While custom domains are not currently supported, what we can do is redirect your URL.</code></li><li><code>Let's set up a workaround until the patch is released.</code></li></ul>",
+    "spanish": "En lugar de decir \"No podemos hacer eso\", plantéalo de manera constructiva: \"Aunque esa función no es compatible actualmente, lo que podemos hacer es configurar una solución alternativa utilizando nuestra API\".",
+    "tags": [
+      "english_scenario",
+      "support_english",
+      "positive_framing"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support English: Expressing Appreciation 🙏",
+    "text": "To transition from an apology to appreciation, say: \"Thank you for {{c1::bringing this to our attention}}, and I appreciate your {{c2::patience while we investigate}}.\"",
+    "explanation": "<strong>Bring to attention</strong> is the standard way to acknowledge a bug report or complaint. Appreciating patience is much more positive and empowering than repeatedly saying 'sorry'.",
+    "usage": "Pattern: <code>Thank you for bringing [issue] to our attention / appreciate your patience while we [action]</code><ul><li><code>Thank you for bringing this rendering bug to our attention.</code></li><li><code>We appreciate your patience while we deploy the fix.</code></li></ul>",
+    "spanish": "Para pasar de una disculpa al agradecimiento, di: \"Gracias por llamar nuestra atención sobre esto, y agradezco su paciencia mientras investigamos\".",
+    "tags": [
+      "english_scenario",
+      "support_english",
+      "appreciation"
+    ]
+  }
+]

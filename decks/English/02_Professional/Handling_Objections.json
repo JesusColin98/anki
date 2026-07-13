@@ -1,0 +1,54 @@
+[
+  {
+    "deck": "English::02_Professional::Handling_Objections",
+    "scenario": "Handling Objections: Acknowledging and Reframing 🔄",
+    "text": "When a client objects to a price increase, you can say: \"I hear your {{c1::concerns regarding the cost}}; however, this new tier {{c2::delivers significant value by}} doubling your API rate limit.\"",
+    "explanation": "Acknowledging the objection first shows respect, while 'delivers value by' steers the conversation toward benefits rather than expense.",
+    "usage": "Pattern: <code>I hear your concerns regarding [topic]; however, this [solution] delivers value by [benefit]</code><ul><li><code>I hear your concerns regarding the timeline; however, this phase delivers value by securing your data early.</code></li><li><code>We believe this update delivers significant value by reducing server load.</code></li></ul>",
+    "spanish": "Cuando un cliente se opone a un aumento de precio, puedes decir: \"Escucho sus inquietudes con respecto al costo; sin embargo, este nuevo nivel ofrece un valor significativo al duplicar su límite de velocidad de API\".",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "negotiation"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Handling_Objections",
+    "scenario": "Handling Objections: Proposing Alternatives 🔀",
+    "text": "If a user rejects a solution, offer options: \"If that option doesn't {{c1::align with your objectives}}, we can {{c2::explore a phased roll-out}} instead.\"",
+    "explanation": "<strong>Align with objectives</strong> means to match their goals. **Explore a phased roll-out** means to implement the solution in gradual steps rather than all at once.",
+    "usage": "Pattern: <code>If [solution] doesn't align with your objectives, we can explore [alternative]</code><ul><li><code>If the standard plan doesn't align with your objectives, we can explore a custom contract.</code></li><li><code>Let's explore a phased roll-out of the security policy.</code></li></ul>",
+    "spanish": "Si un usuario rechaza una solución, ofrece opciones: \"Si esa opción no se alinea con sus objetivos, podemos explorar una implementación gradual en su lugar\".",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "alternatives"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Handling_Objections",
+    "scenario": "Handling Objections: Clarifying Hesitation 🔍",
+    "text": "To uncover the root of a client's hesitation: \"What is your {{c1::primary reservation about}} moving forward with this integration?\"",
+    "explanation": "<strong>Primary reservation</strong> refers to the main doubt, worry, or objection holding someone back from making a decision.",
+    "usage": "Pattern: <code>What is your primary reservation about [action]?</code><ul><li><code>What is your primary reservation about migrating to the cloud?</code></li><li><code>His primary reservation about the project was the tight deadline.</code></li></ul>",
+    "spanish": "Para descubrir la raíz de la vacilación de un cliente: \"¿Cuál es su principal reserva sobre seguir adelante con esta integración?\"",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "clarifying"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Handling_Objections",
+    "scenario": "Handling Objections: Validating Competitor Claims 🤼",
+    "text": "When a customer compares you to a competitor: \"I understand that [Competitor] has {{c1::a lower price point}}, but our platform provides {{c2::enterprise-grade security}} that is not offered elsewhere.\"",
+    "explanation": "<strong>Lower price point</strong> is a professional euphemism for 'cheaper'. **Enterprise-grade** denotes high-quality, robust features suited for large, demanding organizations.",
+    "usage": "Pattern: <code>understand [competitor] has a lower price point, but our [product] provides [advantage]</code><ul><li><code>I understand they have a lower price point, but our service provides 99.99% uptime.</code></li><li><code>We need enterprise-grade security to satisfy compliance requirements.</code></li></ul>",
+    "spanish": "Cuando un cliente te compara con un competidor: \"Entiendo que [Competidor] tiene un precio más bajo, pero nuestra plataforma ofrece seguridad de nivel empresarial que no se ofrece en otros lugares\".",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "competitors"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "deck": "English::02_Professional::Negotiations",
+    "scenario": "English Advanced: Contract Negotiation 📑",
+    "text": "We cannot agree to these terms unless you include a {{c1::termination clause}} for convenience.",
+    "explanation": "A <strong>termination clause</strong> is a contract provision that defines the conditions under which the agreement can be ended. <strong>For convenience</strong> means it can be terminated without needing a specific cause or breach.",
+    "usage": "Pattern: <code>termination clause / terminate for convenience</code><ul><li><code>The contract contains a 30-day termination clause.</code></li><li><code>Either party may terminate the agreement for convenience with written notice.</code></li></ul>",
+    "spanish": "No podemos aceptar estos términos a menos que incluya una cláusula de rescisión por conveniencia.",
+    "tags": [
+      "english_scenario",
+      "advanced",
+      "negotiations"
+    ]
+  },
+  {
+    "deck": "English::02_Professional::Negotiations",
+    "scenario": "Workplace: Salary & Contract Negotiation 📑",
+    "text": "During the review, he negotiated: \"Based on the {{c1::market rate}} and my contributions, I'd like to adjust my {{c2::compensation package}} to include remote-work fringe benefits.\"",
+    "explanation": "<strong>Market rate</strong> is the standard salary for a role. **Compensation package** includes base salary, bonuses, and benefits. **Fringe benefits** are extra benefits (like gym memberships or health insurance).",
+    "usage": "Pattern: <code>negotiate a compensation package based on market rate / include fringe benefits</code><ul><li><code>Our company offers an attractive compensation package with great fringe benefits.</code></li><li><code>The offer is below the current market rate for senior developers.</code></li></ul>",
+    "spanish": "Durante la revisión, negoció: \"Basándome en la tarifa del mercado y mis contribuciones, me gustaría ajustar mi paquete de compensación para incluir beneficios adicionales de trabajo remoto\".",
+    "tags": [
+      "workplace",
+      "negotiation",
+      "compensation"
+    ]
+  }
+]

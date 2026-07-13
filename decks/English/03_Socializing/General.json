@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "English::03_Socializing::General",
+    "scenario": "Socializing: Card Game Rules Complex 🃏",
+    "text": "Explaining the game: \"You must follow the {{c1::turn order}}, and all spells placed on the {{c2::stack resolve in reverse order}} of play.\"",
+    "explanation": "<strong>Turn order</strong> is the sequence in which players act. **Stack** is a programming/game term where the last card played resolves first (Last-In, First-Out).",
+    "usage": "Pattern: <code>follow the turn order / resolve on the stack</code><ul><li><code>Please wait for your turn in the turn order.</code></li><li><code>His counter-spell resolves first because it's on top of the stack.</code></li></ul>",
+    "spanish": "Explicando el juego: \"Debes seguir el orden de los turnos, y todos los hechizos colocados en la pila se resuelven en orden inverso al de juego\".",
+    "tags": [
+      "socializing",
+      "games",
+      "card_games"
+    ]
+  },
+  {
+    "deck": "English::03_Socializing::General",
+    "scenario": "Socializing: Football Tactical Debate ⚽",
+    "text": "Analyzing the match: \"Our defense kept a {{c1::clean sheet}}, but we failed to capitalize on the {{c2::counter-attack}} opportunities.\"",
+    "explanation": "<strong>Clean sheet</strong> is a sports idiom meaning the opponent scored zero goals. **Counter-attack** refers to an immediate, fast attack launched in response to an opponent's offensive move.",
+    "usage": "Pattern: <code>keep a clean sheet / launch a counter-attack</code><ul><li><code>The goalkeeper made three saves to keep a clean sheet.</code></li><li><code>We scored the winning goal during a rapid counter-attack.</code></li></ul>",
+    "spanish": "Analizando el partido: \"Nuestra defensa mantuvo la portería a cero, pero no logramos capitalizar las oportunidades de contraataque\".",
+    "tags": [
+      "socializing",
+      "sports",
+      "football"
+    ]
+  },
+  {
+    "deck": "English::03_Socializing::General",
+    "scenario": "Socializing: Sci-fi Lore Analysis 🚀",
+    "text": "Reviewing the saga: \"The trilogy features incredible {{c1::world-building}}, but the main protagonist's {{c2::character arc}} felt rushed.\"",
+    "explanation": "<strong>World-building</strong> is the process of constructing an imaginary, detailed fictional world. **Character arc** is the developmental journey of a character over the course of a story.",
+    "usage": "Pattern: <code>immersive world-building / character arc development</code><ul><li><code>Tolkien's novels are famous for their detailed world-building.</code></li><li><code>Her character arc shows a transition from villain to hero.</code></li></ul>",
+    "spanish": "Revisando la saga: \"La trilogía presenta una construcción de mundo increíble, pero el arco de personaje del protagonista principal se sintió apresurado\".",
+    "tags": [
+      "socializing",
+      "movies",
+      "lore"
+    ]
+  },
+  {
+    "deck": "English::03_Socializing::General",
+    "scenario": "Socializing: Rejecting Invitations Politely ✉️",
+    "text": "Declining the invite: \"I'd love to go, but I'm completely {{c1::swamped with work}} this week, so I'll have to {{c2::take a rain check}}.\"",
+    "explanation": "<strong>Swamped with work</strong> means extremely busy. **Take a rain check** is an idiom meaning to politely decline an invitation now but suggest rescheduling for a later date.",
+    "usage": "Pattern: <code>be swamped with [tasks] / take a rain check on [event]</code><ul><li><code>I'm completely swamped with work before the release.</code></li><li><code>Can I take a rain check on lunch today? I have a client meeting.</code></li></ul>",
+    "spanish": "Rechazando la invitación: \"Me encantaría ir, pero estoy completamente abrumado de trabajo esta semana, así que tendré que dejarlo para otra ocasión\".",
+    "tags": [
+      "socializing",
+      "polite_decline",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "English::03_Socializing::General",
+    "scenario": "Socializing: Consoling Grieving Friend 💖",
+    "text": "Comforting the colleague: \"I can't imagine {{c1::what you're going through}}, but please know you can always {{c2::lean on me}} for support.\"",
+    "explanation": "<strong>What you're going through</strong> acknowledges their unique pain. **Lean on me** is a comforting idiom meaning to rely on someone for emotional support.",
+    "usage": "Pattern: <code>cannot imagine what [someone] is going through / lean on [someone] during [crisis]</code><ul><li><code>I am here for you, I cannot imagine what you're going through.</code></li><li><code>You can lean on me for help with your tasks this week.</code></li></ul>",
+    "spanish": "Consolando al colega: \"No puedo imaginar por lo que estás pasando, pero por favor sabe que siempre puedes apoyarte en mí para recibir ayuda\".",
+    "tags": [
+      "socializing",
+      "empathy",
+      "comforting"
+    ]
+  }
+]

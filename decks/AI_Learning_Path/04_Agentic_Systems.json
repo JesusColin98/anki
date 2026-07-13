@@ -1,0 +1,26 @@
+[
+  {
+    "deck": "AI_Learning_Path::04_Agentic_Systems",
+    "scenario": "Agentic Systems: Planning 🤖",
+    "text": "The ReAct framework combines reasoning and acting by generating alternating sequences of {{c1::Thought}}, {{c1::Action}}, and {{c1::Observation}}.",
+    "explanation": "ReAct (Reason + Act) prompts the LLM to think step-by-step before executing any actions (such as API calls or tool invocation). The model writes a 'Thought', calls a tool ('Action'), reads the output ('Observation'), and repeats this loop until it reaches a conclusion.",
+    "usage": "Example trace:<ul><li><strong>Thought</strong>: I need to find the current weather in Paris.</li><li><strong>Action</strong>: <code>weather_search('Paris')</code></li><li><strong>Observation</strong>: Paris is currently 18°C and raining.</li><li><strong>Thought</strong>: Now I can answer the user...</li></ul>",
+    "spanish": "El marco ReAct combina el razonamiento y la acción mediante la generación de secuencias alternas de Pensamiento (Thought), Acción (Action) y Observación (Observation).",
+    "tags": [
+      "ai_learning_path",
+      "agentic_systems"
+    ]
+  },
+  {
+    "deck": "AI_Learning_Path::04_Agentic_Systems",
+    "scenario": "Agentic Systems: Memory 🧠",
+    "text": "In agentic architectures, {{c1::episodic memory}} records execution histories and user interactions, while {{c1::semantic memory}} represents generalized factual facts, system prompts, or core instructions.",
+    "explanation": "Episodic memory refers to specific events and past steps the agent experienced (implemented via vector search of past chat logs). Semantic memory holds permanent generalized concepts, templates, or instructions (stored in the system prompt or static databases).",
+    "usage": "Key distinction:<ul><li>Episodic: 'What did I say to this user five steps ago?'</li><li>Semantic: 'What is the system guideline for writing code?'</li></ul>",
+    "spanish": "En las arquitecturas de agentes, la memoria episódica registra los historiales de ejecución y las interacciones del usuario, mientras que la memoria semántica representa hechos factuales generalizados, prompts del sistema o instrucciones principales.",
+    "tags": [
+      "ai_learning_path",
+      "agentic_systems"
+    ]
+  }
+]

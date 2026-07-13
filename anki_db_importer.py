@@ -257,15 +257,35 @@ details p {
     )
     print("Model created successfully.")
 
+def load_all_cards(base_dir="."):
+    decks_dir = os.path.join(base_dir, "decks")
+    cards = []
+    if os.path.exists(decks_dir):
+        print(f"Reading cards from nested decks directory: {decks_dir}...")
+        for root, _, files in os.walk(decks_dir):
+            for file in files:
+                if file.endswith(".json") and file != "index.json":
+                    file_path = os.path.join(root, file)
+                    try:
+                        with open(file_path, "r", encoding="utf-8") as f:
+                            deck_cards = json.load(f)
+                            cards.extend(deck_cards)
+                    except Exception as e:
+                        print(f"Warning: Could not load {file_path}: {e}", file=sys.stderr)
+        print(f"Loaded {len(cards)} total cards from decks/ directory tree.")
+        return cards
+    
+    monolith_file = os.path.join(base_dir, "anki_cards_database.json")
+    if os.path.exists(monolith_file):
+        print(f"Reading database {monolith_file}...")
+        with open(monolith_file, "r", encoding="utf-8") as f:
+            return json.load(f)
+            
+    print("Error: Neither decks/ directory nor anki_cards_database.json found.", file=sys.stderr)
+    sys.exit(1)
+
 def import_database():
-    database_file = "anki_cards_database.json"
-    if not os.path.exists(database_file):
-        print(f"Error: {database_file} not found.", file=sys.stderr)
-        sys.exit(1)
-        
-    print(f"Reading database {database_file}...")
-    with open(database_file, "r", encoding="utf-8") as f:
-        cards = json.load(f)
+    cards = load_all_cards()
         
     # De-duplicate cards in the database itself if any exist
     unique_cards = []

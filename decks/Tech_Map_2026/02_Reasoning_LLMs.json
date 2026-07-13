@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "Tech_Map_2026::02_Reasoning_LLMs",
+    "scenario": "Next-Gen LLMs: Test-Time Compute 🧠",
+    "text": "Reasoning models increase accuracy during inference by using {{c1::Test-Time Compute}}, letting the model explore reasoning trees using techniques like {{c2::Monte Carlo Tree Search (MCTS)}}.",
+    "explanation": "Test-Time Compute shifts complexity from model training to inference. Instead of generating a single output immediately, the model generates internal thought tokens, analyzes multiple alternative paths, and selects the most logical route before printing the final answer.",
+    "usage": "Essential for complex mathematics, logical reasoning, code synthesis, and scientific proofs.",
+    "spanish": "Los modelos de razonamiento aumentan la precisión en inferencia al usar cómputo en tiempo de prueba, permitiendo al modelo explorar árboles de razonamiento mediante técnicas como MCTS.",
+    "tags": [
+      "llm",
+      "test_time_compute",
+      "mcts"
+    ]
+  },
+  {
+    "deck": "Tech_Map_2026::02_Reasoning_LLMs",
+    "scenario": "Next-Gen LLMs: Vibecoding Paradigm 🎸",
+    "text": "In the {{c1::Vibecoding}} paradigm, developers step back from writing physical code syntax and instead act as {{c2::system architects}} directing autonomous agents via iterative natural language prompts.",
+    "explanation": "Vibecoding refers to a coding style where the human programmer writes zero code directly, relying entirely on agentic IDEs to implement features, fix bugs, and refactor codebases while the human reviews the changes conceptually.",
+    "usage": "Highly effective for rapid prototyping and full-stack web application development.",
+    "spanish": "En el paradigma de Vibecoding, los desarrolladores dejan de escribir sintaxis física de código y actúan como arquitectos de sistemas que dirigen agentes autónomos mediante instrucciones de lenguaje natural.",
+    "tags": [
+      "llm",
+      "vibecoding",
+      "software_development"
+    ]
+  },
+  {
+    "deck": "Tech_Map_2026::02_Reasoning_LLMs",
+    "scenario": "Next-Gen LLMs: LlamaIndex Workflows 🧬",
+    "text": "For event-driven agentic architectures, {{c1::LlamaIndex Workflows}} uses Python decorators like {{c2::@step}} to trigger asynchronous methods based on custom event classes.",
+    "explanation": "LlamaIndex Workflows provides an event-driven framework where step functions subscribe to specific event types, process data, and publish new events. This decouples the agent logic, making it easy to create complex, parallel agent execution paths.",
+    "usage": "Used to ingest multi-source documents where raw text, tables, and images are routed to different parsing pipelines asynchronously.",
+    "spanish": "Para arquitecturas agénticas impulsadas por eventos, LlamaIndex Workflows utiliza decoradores de Python como @step para activar métodos asíncronos basados en clases de eventos personalizados.",
+    "tags": [
+      "llm",
+      "llamaindex",
+      "workflows"
+    ]
+  },
+  {
+    "deck": "Tech_Map_2026::02_Reasoning_LLMs",
+    "scenario": "Next-Gen LLMs: Small Language Models (SLMs) 📱",
+    "text": "To run reasoning tasks locally on edge devices, developers apply {{c1::quantization (e.g., GGUF, AWQ)}} to compress Large Language Models into high-performance {{c2::Small Language Models (SLMs)}}.",
+    "explanation": "SLMs (typically under 14B parameters) can run locally on laptops or mobile phones. Quantization reduces the precision of the model weights (e.g. from 16-bit float to 4-bit integer), massively decreasing memory consumption while maintaining high performance.",
+    "usage": "Essential for privacy-first applications, offline environments, and low-latency local interactions.",
+    "spanish": "Para ejecutar tareas de razonamiento localmente en dispositivos periféricos, los desarrolladores aplican cuantización (GGUF, AWQ) para comprimir LLMs en SLMs de alto rendimiento.",
+    "tags": [
+      "llm",
+      "slm",
+      "quantization"
+    ]
+  },
+  {
+    "deck": "Tech_Map_2026::02_Reasoning_LLMs",
+    "scenario": "Next-Gen LLMs: Dynamic Context Attention 🔍",
+    "text": "To support long-context windows efficiently, models use {{c1::Prefix Caching}} and optimized attention runtimes like {{c2::FlashAttention-3}} to avoid recomputing Key-Value (KV) matrices.",
+    "explanation": "Dynamic context windows allow models to ingest millions of tokens. FlashAttention-3 optimizes the compute-heavy attention step on modern GPUs by reducing memory reads/writes. Prefix Caching stores past conversations in GPU memory, avoiding redundant computation.",
+    "usage": "Crucial for codebases or documents that span millions of tokens, enabling agents to parse complete source trees in one request.",
+    "spanish": "Para soportar ventanas de contexto largo de manera eficiente, los modelos usan caché de prefijos y optimizaciones como FlashAttention-3 para evitar calcular de nuevo las matrices KV.",
+    "tags": [
+      "llm",
+      "flash_attention",
+      "context_window"
+    ]
+  }
+]

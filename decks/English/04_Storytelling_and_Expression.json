@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "English::04_Storytelling_and_Expression",
+    "scenario": "Storytelling: Childhood Trip 🗺️",
+    "text": "Looking back: \"I {{c1::vividly remember}} visiting the Andes; it was an {{c2::eye-opening experience}} that changed how I saw nature.\"",
+    "explanation": "<strong>Vividly remember</strong> means to recall with clear, bright, and detailed memory. **Eye-opening experience** is an event that teaches you something surprising or changes your perspective.",
+    "usage": "Pattern: <code>vividly remember [action/event] / eye-opening experience</code><ul><li><code>I vividly remember my first coding project.</code></li><li><code>Working in tech support was an eye-opening experience.</code></li></ul>",
+    "spanish": "Mirando hacia atrás: \"Recuerdo vívidamente haber visitado los Andes; fue una experiencia reveladora que cambió mi forma de ver la naturaleza\".",
+    "tags": [
+      "storytelling",
+      "childhood",
+      "memories"
+    ]
+  },
+  {
+    "deck": "English::04_Storytelling_and_Expression",
+    "scenario": "Storytelling: Chaotic Workplace Day 🤯",
+    "text": "Recalling his last job: \"I was {{c1::snowed under}} with tickets, and when the server crashed, I was at my {{c2::wit's end}}.\"",
+    "explanation": "<strong>Snowed under</strong> is an idiom meaning overwhelmed with work. **At one's wit's end** is an idiom meaning completely stressed out and not knowing what to do next.",
+    "usage": "Pattern: <code>be snowed under with [work] / at my wit's end</code><ul><li><code>I'm completely snowed under with homework this semester.</code></li><li><code>I was at my wit's end trying to solve the connection bug.</code></li></ul>",
+    "spanish": "Recordando su último trabajo: \"Estaba inundado de tickets, y cuando el servidor se cayó, estaba al borde de la locura (no sabía qué hacer)\".",
+    "tags": [
+      "storytelling",
+      "idioms",
+      "stress"
+    ]
+  },
+  {
+    "deck": "English::04_Storytelling_and_Expression",
+    "scenario": "Storytelling: Meeting a Close Friend 🤝",
+    "text": "Telling the story: \"We crossed paths {{c1::out of the blue}} in Berlin, and we {{c2::hit it off}} immediately.\"",
+    "explanation": "<strong>Out of the blue</strong> is an idiom meaning completely unexpected. **Hit it off** is a phrasal verb meaning to quickly become friendly or connect with someone.",
+    "usage": "Pattern: <code>cross paths out of the blue / hit it off with [someone]</code><ul><li><code>I ran into my former colleague out of the blue.</code></li><li><code>We hit it off during our first meeting at the conference.</code></li></ul>",
+    "spanish": "Contando la historia: \"Nos cruzamos por casualidad (de la nada) en Berlín, y congeniamos de inmediato\".",
+    "tags": [
+      "storytelling",
+      "relationship",
+      "friendship"
+    ]
+  },
+  {
+    "deck": "English::04_Storytelling_and_Expression",
+    "scenario": "Storytelling: Minor Health Accident 🏥",
+    "text": "Relating the emergency: \"I got a {{c1::minor gash}} on my arm, but the doctor bandaged it and issued a {{c2::medical discharge}} within an hour.\"",
+    "explanation": "<strong>Gash</strong> is a long, deep cut or wound in the skin. **Medical discharge** is the official release of a patient from medical care.",
+    "usage": "Pattern: <code>gash on [body part] / receive a medical discharge</code><ul><li><code>He had a deep gash on his knee after falling.</code></li><li><code>The hospital prepared his medical discharge papers.</code></li></ul>",
+    "spanish": "Relatando la emergencia: \"Me hice un corte menor en el brazo, pero el médico lo vendó y emitió un alta médica en una hora\".",
+    "tags": [
+      "storytelling",
+      "health",
+      "accident"
+    ]
+  },
+  {
+    "deck": "English::04_Storytelling_and_Expression",
+    "scenario": "Storytelling: Learning from Failure 💡",
+    "text": "Reflecting on the project: \"In {{c1::hindsight}}, the failed launch was a blessing in disguise because our {{c2::key takeaway}} was the need for automated tests.\"",
+    "explanation": "<strong>In hindsight</strong> means looking back at an event in the past. **Blessing in disguise** is an idiom meaning something bad that turns out to have good results. **Takeaway** is the key lesson learned.",
+    "usage": "Pattern: <code>in hindsight, [situation] was a blessing in disguise / key takeaway from [event]</code><ul><li><code>In hindsight, losing that client helped us focus on better partners.</code></li><li><code>The key takeaway from the security audit was to rotate keys immediately.</code></li></ul>",
+    "spanish": "Reflexionando sobre el proyecto: \"En retrospectiva, el lanzamiento fallido fue una bendición disfrazada porque nuestro principal aprendizaje fue la necesidad de pruebas automatizadas\".",
+    "tags": [
+      "storytelling",
+      "lessons",
+      "reflection"
+    ]
+  }
+]

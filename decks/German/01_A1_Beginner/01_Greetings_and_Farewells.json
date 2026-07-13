@@ -1,0 +1,41 @@
+[
+  {
+    "deck": "German::01_A1_Beginner::01_Greetings_and_Farewells",
+    "scenario": "German A1: Greetings 🇩🇪",
+    "text": "In a business setting or with strangers, you should greet them formally with: '{{c1::Guten Morgen}}' (until 11 AM) or '{{c1::Guten Tag}}' (11 AM to 6 PM).",
+    "explanation": "German distinguishes strictly between formal and informal greetings. Formal greetings are used with the pronoun 'Sie' and change based on the time of day.",
+    "usage": "Time-based formal greetings:<ul><li><code>Guten Morgen</code> (Good morning - until 11 AM)</li><li><code>Guten Tag</code> (Good day - 11 AM to 6 PM)</li><li><code>Guten Abend</code> (Good evening - after 6 PM)</li></ul>",
+    "spanish": "En un ámbito empresarial o con extraños, debes saludarlos formalmente con: 'Guten Morgen' (hasta las 11 AM) o 'Guten Tag' (de 11 AM a 6 PM).",
+    "tags": [
+      "languages_path",
+      "german",
+      "greetings"
+    ]
+  },
+  {
+    "deck": "German::01_A1_Beginner::01_Greetings_and_Farewells",
+    "scenario": "German A1: Greetings 🇩🇪",
+    "text": "To ask a stranger 'How are you?' formally in German, you say: '{{c1::Wie geht es Ihnen?}}'",
+    "explanation": "<strong>Ihnen</strong> is the dative case of the formal pronoun 'Sie'. For friends or peers, you would use the informal 'Wie geht es dir?' or simply 'Wie geht's?'.",
+    "usage": "Usage examples:<ul><li>Formal: <code>Wie geht es Ihnen, Herr Müller?</code> (How are you, Mr. Müller?)</li><li>Informal: <code>Wie geht es dir, Anna?</code> (How are you, Anna?)</li></ul>",
+    "spanish": "Para preguntar formalmente a un extraño '¿Cómo está usted?' en alemán, dices: 'Wie geht es Ihnen?'.",
+    "tags": [
+      "languages_path",
+      "german",
+      "greetings"
+    ]
+  },
+  {
+    "deck": "German::01_A1_Beginner::01_Greetings_and_Farewells",
+    "scenario": "German A1: Goodbyes 🇩🇪",
+    "text": "A common informal way to say goodbye to friends in German is '{{c1::Tschüss}}' or '{{c1::Bis bald}}' (See you soon).",
+    "explanation": "<strong>Tschüss</strong> is the most common informal goodbye in Germany. <strong>Auf Wiedersehen</strong> is formal and used in shops, business meetings, or with strangers.",
+    "usage": "Goodbye options:<ul><li>Informal: <code>Tschüss!</code> (Bye!) or <code>Bis später!</code> (See you later!)</li><li>Formal: <code>Auf Wiedersehen!</code> (Goodbye!)</li></ul>",
+    "spanish": "Una forma informal común de despedirse de los amigos en alemán es 'Tschüss' o 'Bis bald' (Hasta pronto).",
+    "tags": [
+      "languages_path",
+      "german",
+      "goodbyes"
+    ]
+  }
+]

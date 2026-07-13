@@ -1,0 +1,15 @@
+[
+  {
+    "deck": "English::01_Daily_Life::Ordering_Food",
+    "scenario": "English Beginner: Ordering Food 🍔",
+    "text": "Can I get a cheeseburger and {{c1::a side of}} fries, please?",
+    "explanation": "<strong>a side of</strong> is the standard, natural collocation to order an additional side portion of food alongside your main dish.",
+    "usage": "Pattern: <code>a side of [food]</code><ul><li><code>I'd like a steak with a side of mashed potatoes.</code></li><li><code>Can I get a side of ranch dressing?</code></li></ul>",
+    "spanish": "¿Me da una hamburguesa con queso y una porción de papas fritas, por favor?",
+    "tags": [
+      "english_scenario",
+      "beginner",
+      "ordering_food"
+    ]
+  }
+]

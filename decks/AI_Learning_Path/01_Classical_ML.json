@@ -1,0 +1,26 @@
+[
+  {
+    "deck": "AI_Learning_Path::01_Classical_ML",
+    "scenario": "Classical ML: Optimization 📉",
+    "text": "The Gradient Descent parameter update formula is {{c1::\\(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\\)}}",
+    "explanation": "This formula iteratively adjusts model parameters (weights) \\(\\theta\\) to minimize the loss function \\(J(\\theta)\\). The gradient \\(\\nabla J(\\theta_t)\\) points in the direction of steepest increase, so subtracting it steps down toward the minimum, scaled by learning rate \\(\\eta\\).",
+    "usage": "Core formula breakdown:<ul><li>\\(\\theta\\): Parameter weight vector</li><li>\\(\\eta\\): Learning rate (determines step size)</li><li>\\(J(\\theta)\\): Loss/objective function</li><li>\\(\\nabla J(\\theta_t)\\): Gradient vector at time step t</li></ul>",
+    "spanish": "La fórmula de actualización de parámetros en el Descenso de Gradiente es \\(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\\).",
+    "tags": [
+      "ai_learning_path",
+      "classical_ml"
+    ]
+  },
+  {
+    "deck": "AI_Learning_Path::01_Classical_ML",
+    "scenario": "Classical ML: Optimization 📉",
+    "text": "The Adam optimizer calculates adaptive learning rates by combining {{c1::Momentum}} (moving average of past gradients) and {{c1::RMSProp}} (moving average of past squared gradients).",
+    "explanation": "Adam (Adaptive Moment Estimation) tracks both the first moment (mean of gradients, similar to Momentum) and the second moment (uncentered variance of gradients, similar to RMSProp) to scale steps independently for each weight.",
+    "usage": "Mathematical concept:<ul><li>Momentum term helps speed up optimization in direction of consistent gradients.</li><li>RMSProp term dampens updates in highly volatile directions, preventing exploding parameters.</li></ul>",
+    "spanish": "El optimizador Adam calcula tasas de aprendizaje adaptativas combinando Momentum (promedio móvil de gradientes pasados) y RMSProp (promedio móvil de gradientes pasados al cuadrado).",
+    "tags": [
+      "ai_learning_path",
+      "classical_ml"
+    ]
+  }
+]

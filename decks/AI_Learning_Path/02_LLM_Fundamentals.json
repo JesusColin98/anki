@@ -1,0 +1,26 @@
+[
+  {
+    "deck": "AI_Learning_Path::02_LLM_Fundamentals",
+    "scenario": "LLM Fundamentals: Core Math 🧠",
+    "text": "The Scaled Dot-Product Attention is defined mathematically as {{c1::\\(\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\)}}",
+    "explanation": "This attention formula matches Queries (Q) against Keys (K) to create an attention score matrix. The matrix is divided by scaling factor \\(\\sqrt{d_k}\\) to prevent dot product values from growing too large, which would push the softmax into regions with vanishing gradients.",
+    "usage": "Formula component details:<ul><li>\\(Q, K, V\\): Query, Key, and Value matrices.</li><li>\\(d_k\\): Dimensionality of the key vectors.</li><li>\\(\\text{softmax}\\): Normalizes attention weights to sum up to 1.</li></ul>",
+    "spanish": "La atención de producto punto escalada se define matemáticamente como \\(\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\).",
+    "tags": [
+      "ai_learning_path",
+      "llm_fundamentals"
+    ]
+  },
+  {
+    "deck": "AI_Learning_Path::02_LLM_Fundamentals",
+    "scenario": "LLM Fundamentals: Optimization 🚀",
+    "text": "During auto-regressive decoding, the {{c1::KV Cache}} is used to store past key and value vectors, reducing attention computation time complexity from {{c1::\\(O(N^2)\\)}} to {{c1::\\(O(N)\\)}}.",
+    "explanation": "At each decoding step, LLMs generate one token at a time. Instead of recalculating Queries, Keys, and Values for all previous tokens in the sequence, the Key and Value vectors are saved in GPU memory (cached). Only the Query of the new token needs to match against the cached Keys and Values.",
+    "usage": "Implications:<ul><li>Saves massive compute during inference.</li><li>Trades compute overhead for high GPU memory consumption.</li><li>Optimized by architectures like Grouped-Query Attention (GQA).</li></ul>",
+    "spanish": "Durante la decodificación autorregresiva, el KV Cache se usa para almacenar vectores clave y de valor pasados, reduciendo la complejidad del cálculo de atención de O(N^2) a O(N).",
+    "tags": [
+      "ai_learning_path",
+      "llm_fundamentals"
+    ]
+  }
+]

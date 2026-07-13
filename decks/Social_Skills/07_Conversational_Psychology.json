@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "Social_Skills::07_Conversational_Psychology",
+    "scenario": "Psychology: The Zeigarnik Effect 🧠",
+    "text": "The {{c1::Zeigarnik Effect}} is the cognitive bias where humans remember {{c2::incomplete or interrupted tasks/stories}} significantly better than completed ones.",
+    "explanation": "In conversation and writing, leaving a story unresolved creates mental tension that keeps the listener's brain actively processing the information. Once the story is concluded, the cognitive load is released, and the memory begins to fade.",
+    "usage": "Used to design cliffhangers in marketing campaigns, product demos, and narrative hooks.",
+    "spanish": "El efecto Zeigarnik es el sesgo cognitivo por el cual los seres humanos recuerdan las tareas o historias incompletas o interrumpidas significativamente mejor que las completadas.",
+    "tags": [
+      "psychology",
+      "zeigarnik",
+      "attention"
+    ]
+  },
+  {
+    "deck": "Social_Skills::07_Conversational_Psychology",
+    "scenario": "Psychology: Status Play in Conversations 🎭",
+    "text": "According to Keith Johnstone's Status Play theory, every conversational interaction involves a dynamic exchange where speakers adjust their verbal and physical cues to assert {{c1::high status}} or {{c2::low status}}.",
+    "explanation": "Status is not social rank, but behavior. High-status behavior involves relaxed postures, steady eye contact, and slow speech. Low-status behavior involves fidgeting, speaking fast, and apologetic phrasing. Calibrating status prevents intimidating or boring the listener.",
+    "usage": "Applied in job interviews, crisis management meetings, and negotiation scenarios.",
+    "spanish": "Según la teoría del juego de estatus de Keith Johnstone, cada interacción conversacional implica un intercambio dinámico en el que los hablantes ajustan sus señales verbales y físicas para afirmar un estatus alto o bajo.",
+    "tags": [
+      "psychology",
+      "status_play",
+      "rapport"
+    ]
+  },
+  {
+    "deck": "Social_Skills::07_Conversational_Psychology",
+    "scenario": "Psychology: Calibrated Questions 🔍",
+    "text": "To defuse defensiveness and force critical thinking, negotiation specialists use Calibrated Questions, which are open-ended questions beginning with {{c1::\"What\"}} or {{c2::\"How\"}}.",
+    "explanation": "Questions starting with 'Why' trigger defensiveness because they sound accusatory. Calibrated questions (e.g. 'How can we solve this?' or 'What is holding us back?') shift the burden of solving the problem to the other party while keeping them collaborative.",
+    "usage": "Essential for conflict resolution, client negotiations, and coaching sessions.",
+    "spanish": "Para desactivar la actitud defensiva y forzar el pensamiento crítico, los especialistas en negociación utilizan preguntas calibradas, que son preguntas abiertas que comienzan con 'Qué' o 'Cómo'.",
+    "tags": [
+      "psychology",
+      "negotiation",
+      "questions"
+    ]
+  },
+  {
+    "deck": "Social_Skills::07_Conversational_Psychology",
+    "scenario": "Psychology: Designing your Origin Story 🚀",
+    "text": "A compelling Origin Story structure is composed of three elements: the {{c1::Status Quo}}, the {{c2::Inciting Incident (Catalyst)}}, and the {{c3::Transformation/Lessons learned}}.",
+    "explanation": "When introducing yourself, listing credentials is cold. Sharing your origin story—focusing on the struggle, the pivot point, and the resulting values—builds human connection and establishes immediate professional credibility.",
+    "usage": "Used in introductory pitches, networking events, and personal brand building.",
+    "spanish": "Una estructura convincente de historia de origen se compone de tres elementos: el statu quo, el incidente incitador (catalizador) y la transformación/lecciones aprendidas.",
+    "tags": [
+      "psychology",
+      "origin_story",
+      "introduction"
+    ]
+  },
+  {
+    "deck": "Social_Skills::07_Conversational_Psychology",
+    "scenario": "Psychology: Oxytocin and Empathy Chemistry 🧪",
+    "text": "Sharing a genuine mistake or vulnerability triggers the release of {{c1::oxytocin}} in the listener's brain, which fosters {{c2::interpersonal trust and empathy}}.",
+    "explanation": "Perfect, boastful stories trigger envy and distance. Showing relatable flaws signals safety and authenticity, which chemically prompts the listener's brain to form a social bond, making them highly receptive to your ideas.",
+    "usage": "Used to rebuild customer relationships after service failures or during leadership updates.",
+    "spanish": "Compartir una vulnerabilidad o un error genuino desencadena la liberación de oxitocina en el cerebro del oyente, lo que fomenta la empatía y la confianza interpersonal.",
+    "tags": [
+      "psychology",
+      "oxytocin",
+      "empathy"
+    ]
+  }
+]

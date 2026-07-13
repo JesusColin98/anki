@@ -1,0 +1,67 @@
+[
+  {
+    "deck": "English::01_Daily_Life::Home_Logistics",
+    "scenario": "Lifestyle: Humidity Protection 🏠",
+    "text": "Explaining to the landlord: \"The basement has accumulated {{c1::mold and mildew}} due to the high {{c2::moisture levels}}, so we need a dehumidifier.\"",
+    "explanation": "<strong>Mold and mildew</strong> refer to fungal growths caused by dampness. **Moisture** refers to wetness or condensation in the air.",
+    "usage": "Pattern: <code>accumulate mold due to high moisture / run a dehumidifier</code><ul><li><code>High moisture levels in the bathroom will cause mold and mildew.</code></li><li><code>We bought a dehumidifier to keep the basement dry.</code></li></ul>",
+    "spanish": "Explicándole al propietario: \"El sótano ha acumulado moho y humedad debido a los altos niveles de humedad, por lo que necesitamos un deshumidificador\".",
+    "tags": [
+      "lifestyle",
+      "home_maintenance",
+      "humidity"
+    ]
+  },
+  {
+    "deck": "English::01_Daily_Life::Home_Logistics",
+    "scenario": "Lifestyle: Troubleshooting Smart Home Sync 🖥️",
+    "text": "Troubleshooting the setup: \"The smart lock has a {{c1::sync issue}} with the hub, so the door sensor doesn't {{c2::trigger the security routine}}.\"",
+    "explanation": "<strong>Sync issue</strong> refers to synchronization failure. **Trigger a routine** means to automatically start a sequence of pre-programmed actions.",
+    "usage": "Pattern: <code>have a sync issue / trigger a routine based on [event]</code><ul><li><code>My phone is having a sync issue with the server.</code></li><li><code>Connecting the sensor will trigger the alarm routine.</code></li></ul>",
+    "spanish": "Resolviendo problemas de la configuración: \"La cerradura inteligente tiene un problema de sincronización con el concentrador, por lo que el sensor de la puerta no activa la rutina de seguridad\".",
+    "tags": [
+      "lifestyle",
+      "smart_home",
+      "troubleshooting"
+    ]
+  },
+  {
+    "deck": "English::01_Daily_Life::Home_Logistics",
+    "scenario": "Lifestyle: Moving House Logistics 📦",
+    "text": "Discussing the rent: \"We need to pay the first month's utilities and the {{c1::security deposit}} before we can inspect the {{c2::floor plan}}.\"",
+    "explanation": "<strong>Security deposit</strong> is a sum of money paid in advance to protect the landlord against damage. **Floor plan** is the scale diagram showing room layouts.",
+    "usage": "Pattern: <code>pay a security deposit / check the floor plan</code><ul><li><code>The landlord returned our security deposit when we moved out.</code></li><li><code>Let's study the floor plan to decide where to put the sofa.</code></li></ul>",
+    "spanish": "Discutiendo el alquiler: \"Debemos pagar los servicios del primer mes y el depósito de seguridad antes de poder inspeccionar el plano de distribución de la casa\".",
+    "tags": [
+      "lifestyle",
+      "moving",
+      "renting"
+    ]
+  },
+  {
+    "deck": "English::01_Daily_Life::Home_Logistics",
+    "scenario": "Lifestyle: Espresso Extraction Barista ☕",
+    "text": "Instructing the barista: \"If your {{c1::grind size}} is too coarse, it causes {{c2::channeling}}, resulting in a watery crema.\"",
+    "explanation": "<strong>Grind size</strong> determines the speed of water flow. **Channeling** occurs when water finds paths of least resistance through the coffee puck instead of extracting evenly.",
+    "usage": "Pattern: <code>adjust the grind size / prevent channeling during extraction</code><ul><li><code>If the grind size is too fine, the espresso will extract too slowly.</code></li><li><code>Tamping the coffee evenly prevents channeling.</code></li></ul>",
+    "spanish": "Instruyendo al barista: \"Si el tamaño de la molienda es demasiado grueso, causa canalización, lo que resulta en una crema aguada\".",
+    "tags": [
+      "lifestyle",
+      "coffee",
+      "barismo"
+    ]
+  },
+  {
+    "deck": "English::01_Daily_Life::Home_Logistics",
+    "scenario": "Lifestyle: Designing Board Game Rules 🎲",
+    "text": "Explaining the game: \"This is a {{c1::turn-based game}} with specific card mechanics, including a roll of dice to resolve any {{c2::tie-breaker}}.\"",
+    "explanation": "<strong>Turn-based</strong> denotes a gameplay mechanic where players take turns. **Tie-breaker** is the rule or action that determines a winner when scores are equal.",
+    "usage": "Pattern: <code>turn-based game / resolve a tie-breaker</code><ul><li><code>Civilization is a famous turn-based strategy game.</code></li><li><code>The team won the match in a sudden-death tie-breaker.</code></li></ul>",
+    "spanish": "Explicando el juego: \"Este es un juego por turnos con mecánicas de cartas específicas, que incluye un lanzamiento de dados para resolver cualquier desempate\".",
+    "tags": [
+      "lifestyle",
+      "games",
+      "rules"
+    ]
+  }
+]

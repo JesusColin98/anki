@@ -1,0 +1,26 @@
+[
+  {
+    "deck": "English::03_Socializing::Dating",
+    "scenario": "Dating & Socializing 💬",
+    "text": "Would you like to {{c1::grab a drink}} sometime?",
+    "explanation": "<strong>grab a drink</strong> is a casual, friendly way to invite someone to go out for a beverage (coffee, beer, or cocktails).",
+    "usage": "Pattern: <code>grab a [item]</code> (e.g. grab a coffee, grab a bite to eat, grab lunch)<ul><li><code>Let's grab a coffee this afternoon.</code></li><li><code>Do you want to grab a bite to eat after work?</code></li></ul>",
+    "spanish": "¿Te gustaría ir a tomar algo alguna vez?",
+    "tags": [
+      "english_scenario",
+      "dating"
+    ]
+  },
+  {
+    "deck": "English::03_Socializing::Dating",
+    "scenario": "Dating & Socializing 💬",
+    "text": "I had a great time tonight, we should {{c1::do this again}}.",
+    "explanation": "<strong>do this again</strong> is a friendly, low-pressure phrase used at the end of a good social gathering or date to show interest in hanging out again.",
+    "usage": "Pattern: <code>we should do this again [sometime/soon]</code><ul><li><code>I really enjoyed the museum. We should do this again sometime!</code></li><li><code>It was great catching up. We should do this again soon.</code></li></ul>",
+    "spanish": "La pasé genial esta noche, deberíamos repetir esto.",
+    "tags": [
+      "english_scenario",
+      "dating"
+    ]
+  }
+]
