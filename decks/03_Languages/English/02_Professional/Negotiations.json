@@ -24,5 +24,109 @@
       "negotiation",
       "compensation"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Payment Terms 🤝",
+    "text": "We are willing to make concessions, but we need you to match us on the {{c1::payment terms}}.",
+    "explanation": "'Payment terms' are the conditions under which a seller will complete a sale, specifying when payment is due and any discounts or fees (e.g. Net 30).",
+    "usage": "Pattern: <code>payment terms / Net 30 / Net 60</code><ul><li><code>The contract specifies payment terms of Net 45.</code></li><li><code>We negotiated better payment terms with our main vendor.</code></li></ul>",
+    "spanish": "Estamos dispuestos a hacer concesiones, pero necesitamos que esté de acuerdo con nosotros en las condiciones de pago.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Long Run 🤝",
+    "text": "Our goal is to reach a win-win agreement that benefits both parties in the {{c1::long run}}.",
+    "explanation": "The 'long run' is an idiomatic expression referring to a long period of time in the future, as opposed to the immediate present.",
+    "usage": "Pattern: <code>in the long run / long-term</code><ul><li><code>This software is expensive, but it will save us money in the long run.</code></li><li><code>Our decisions must benefit the project in the long run.</code></li></ul>",
+    "spanish": "Nuestra meta es llegar a un acuerdo de beneficio mutuo que beneficie a ambas partes a largo plazo.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Guidelines 🤝",
+    "text": "We cannot accept these terms; they do not align with our risk management {{c1::guidelines}}.",
+    "explanation": "'Guidelines' are official rules, principles, or instructions that dictate how a task or business policy must be conducted.",
+    "usage": "Pattern: <code>guidelines / company policy</code><ul><li><code>Please review the branding guidelines before making the logo.</code></li><li><code>Our risk management guidelines prohibit this setup.</code></li></ul>",
+    "spanish": "No podemos aceptar estas condiciones; no se alinean con nuestras directrices/pautas de gestión de riesgos.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Bulk Orders 🤝",
+    "text": "Let's discuss the pricing structure: is there any room for a discount on {{c1::bulk orders}}?",
+    "explanation": "A 'bulk order' (or bulk purchase) is an order for a very large quantity of a product, which typically qualifies for a discount.",
+    "usage": "Pattern: <code>bulk order / bulk discount</code><ul><li><code>We save 20% on paper supplies by placing a bulk order.</code></li><li><code>The supplier offers a discount for bulk orders.</code></li></ul>",
+    "spanish": "Hablemos de la estructura de precios: ¿hay algún margen para un descuento en pedidos al por mayor?",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Compromise Quality 🤝",
+    "text": "We value our partnership and want to find a solution that doesn't {{c1::compromise quality}}.",
+    "explanation": "To 'compromise quality' means to accept a lower standard or degrade the quality of a product or service, often to save money or time.",
+    "usage": "Pattern: <code>compromise quality / lower standards</code><ul><li><code>We want to reduce costs, but we will never compromise quality.</code></li><li><code>Cutting budget now might compromise the quality of the release.</code></li></ul>",
+    "spanish": "Valoramos nuestra asociación y queremos encontrar una solución que no comprometa la calidad.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Service Fee 🤝",
+    "text": "Could we extend the contract duration in exchange for a lower annual service {{c1::fee}}?",
+    "explanation": "A 'service fee' is a charge made by a business for performing work or services for a client (distinct from product cost).",
+    "usage": "Pattern: <code>service fee / annual fee</code><ul><li><code>The contract includes an annual maintenance service fee.</code></li><li><code>The bank charges a service fee for international transfers.</code></li></ul>",
+    "spanish": "¿Podríamos extender la duración del contrato a cambio de una tarifa/cuota de servicio anual más baja?",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Review Clauses 🤝",
+    "text": "Before we sign the agreement, we need to consult with our legal counsel to {{c1::review the clauses}}.",
+    "explanation": "To 'review the clauses' means to read and evaluate the specific sections, paragraphs, or provisions of a legal contract to ensure they are acceptable.",
+    "usage": "Pattern: <code>review the clauses / contract clauses</code><ul><li><code>Our legal team needs to review the liability clauses.</code></li><li><code>We requested changes to the termination clauses.</code></li></ul>",
+    "spanish": "Antes de firmar el acuerdo, necesitamos consultar con nuestro asesor legal para revisar las cláusulas.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Finalize Contract 🤝",
+    "text": "We have reached an agreement on the scope, so let's move forward and {{c1::finalize the contract}}.",
+    "explanation": "To 'finalize the contract' means to complete the last details of a legal agreement and prepare it for signing by both parties.",
+    "usage": "Pattern: <code>finalize the contract / sign contract</code><ul><li><code>We are meeting tomorrow to finalize the contract.</code></li><li><code>Once we finalize the contract, we can begin production.</code></li></ul>",
+    "spanish": "Hemos llegado a un acuerdo sobre el alcance, así que sigamos adelante y finalicemos el contrato.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
   }
 ]

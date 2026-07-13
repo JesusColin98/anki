@@ -50,5 +50,83 @@
       "support_english",
       "appreciation"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Business Operations 📞",
+    "text": "I appreciate your patience while we work to resolve this issue; I understand how important this is to your {{c1::business operations}}.",
+    "explanation": "'Business operations' refers to the core activities, systems, and processes that a company executes daily to deliver value and generate revenue.",
+    "usage": "Pattern: <code>business operations / day-to-day operations</code><ul><li><code>A major database crash can disrupt critical business operations.</code></li><li><code>We must resume business operations as quickly as possible.</code></li></ul>",
+    "spanish": "Agradezco su paciencia mientras trabajamos para resolver este problema; entiendo lo importante que es esto para sus operaciones comerciales.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Quickly as Possible 📞",
+    "text": "I apologize for the inconvenience this has caused you, and I am committed to making this right as {{c1::quickly as possible}}.",
+    "explanation": "'As quickly as possible' (or ASAP) is a common phrase indicating that a task should be executed with the maximum speed and urgency.",
+    "usage": "Pattern: <code>as quickly as possible / with high urgency</code><ul><li><code>Please restore the website connection as quickly as possible.</code></li><li><code>We will process your refund as quickly as possible.</code></li></ul>",
+    "spanish": "Le pido disculpas por el inconveniente que esto le ha causado, y me comprometo a corregir esto tan rápido como sea posible.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Immediate Attention 📞",
+    "text": "I hear your concerns, and I will escalate this ticket to our senior engineering team for immediate {{c1::attention}}.",
+    "explanation": "'Immediate attention' refers to high-priority focus and action required immediately to resolve a critical issue or complaint.",
+    "usage": "Pattern: <code>requires immediate attention / top priority</code><ul><li><code>The security breach requires immediate attention from the director.</code></li><li><code>We will give this matter our immediate attention.</code></li></ul>",
+    "spanish": "Escucho sus preocupaciones, y escalaré este ticket a nuestro equipo de ingeniería sénior para su atención inmediata.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Step of Way 📞",
+    "text": "Please rest assured that we are taking this matter very seriously and will keep you updated every step of the {{c1::way}}.",
+    "explanation": "To keep someone updated 'every step of the way' means to provide regular, detailed updates at each milestone or phase of a process.",
+    "usage": "Pattern: <code>every step of the way / continuous updates</code><ul><li><code>Our support team will guide you every step of the way during migration.</code></li><li><code>We will keep you informed every step of the way.</code></li></ul>",
+    "spanish": "Tenga la seguridad de que nos estamos tomando este asunto muy en serio y le mantendremos informado en cada paso del camino.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Fully Restored 📞",
+    "text": "I know this is frustrating, but I will stay on the line with you until we verify that your connection is {{c1::fully restored}}.",
+    "explanation": "To be 'fully restored' means that a system or network connection has returned to 100% capacity, stability, and functionality after an outage.",
+    "usage": "Pattern: <code>fully restored / connection restored</code><ul><li><code>The database backup is complete, and services are fully restored.</code></li><li><code>We will not close the ticket until service is fully restored.</code></li></ul>",
+    "spanish": "Sé que esto es frustrante, pero permaneceré en la línea con usted hasta que verifiquemos que su conexión está totalmente restaurada.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Bring to Attention 📞",
+    "text": "Thank you for bringing this to our attention; your feedback helps us improve our service for {{c1::all our customers}}.",
+    "explanation": "To 'bring [something] to someone's attention' means to notify them or make them aware of a problem, mistake, or issue.",
+    "usage": "Pattern: <code>bring to attention / point out a bug</code><ul><li><code>Thank you for bringing this calculation error to our attention.</code></li><li><code>He brought the database memory leak to my attention.</code></li></ul>",
+    "spanish": "Gracias por llamar nuestra atención sobre esto; sus comentarios nos ayudan a mejorar nuestro servicio para todos nuestros clientes.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
   }
 ]

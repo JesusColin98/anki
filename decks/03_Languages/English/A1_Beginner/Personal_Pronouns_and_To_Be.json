@@ -68,5 +68,70 @@
       "a1",
       "personal_pronouns_and_to_be"
     ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (Is) 🧩",
+    "text": "She {{c1::is}} a software engineer, and her brother {{c2::is}} a database administrator.",
+    "explanation": "'Is' is the singular third-person form (he/she/it) of the verb 'to be' in the present tense.",
+    "usage": "Pattern: <code>he/she/it is [noun/adjective]</code><ul><li><code>She is a developer.</code></li><li><code>It is a beautiful day.</code></li></ul>",
+    "spanish": "Ella es ingeniera de software, y su hermano es administrador de bases de datos.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (Are) 🧩",
+    "text": "They {{c1::are}} from Mexico, but they currently live and work in the United States.",
+    "explanation": "'Are' is the plural present tense form (they/we/you) of the verb 'to be'.",
+    "usage": "Pattern: <code>they/we/you are [noun/adjective]</code><ul><li><code>They are from Madrid.</code></li><li><code>We are ready.</code></li></ul>",
+    "spanish": "Ellos son de México, pero actualmente viven y trabajan en los Estados Unidos.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (Am) 🧩",
+    "text": "I {{c1::am}} a student, and I want to learn English to study abroad next year.",
+    "explanation": "'Am' is the first-person singular present tense form (I) of the verb 'to be'.",
+    "usage": "Pattern: <code>I am [noun/adjective]</code><ul><li><code>I am happy.</code></li><li><code>I am a software tester.</code></li></ul>",
+    "spanish": "Soy estudiante, y quiero aprender inglés para estudiar en el extranjero el próximo año.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (Are Plural) 🧩",
+    "text": "We {{c1::are}} happy to help you with your project; please let us know what you need.",
+    "explanation": "'Are' is used with the plural subject pronoun 'we' to describe a current state or identity.",
+    "usage": "Pattern: <code>we are [noun/adjective]</code><ul><li><code>We are glad you came.</code></li><li><code>We are members of the team.</code></li></ul>",
+    "spanish": "Estamos felices de ayudarle con su proyecto; por favor háganos saber lo que necesita.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (It Is) 🧩",
+    "text": "It {{c1::is}} cold outside today, so make sure you wear a warm jacket.",
+    "explanation": "'Is' is used with the pronoun 'it' when referring to weather, temperature, or non-human objects.",
+    "usage": "Pattern: <code>it is [adjective/noun]</code><ul><li><code>It is hot today.</code></li><li><code>It is a database issue.</code></li></ul>",
+    "spanish": "Hace frío afuera hoy (Está frío afuera hoy), así que asegúrate de usar una chaqueta abrigada.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
   }
 ]

@@ -115,5 +115,18 @@
       "redirection",
       "difficult_clients"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Peak Traffic 💻",
+    "text": "We need to conduct a Root Cause Analysis (RCA) to determine why the database crashed during the {{c1::peak traffic hour}}.",
+    "explanation": "'Peak traffic hour' refers to the specific time of day when a web service or network receives the highest volume of users or transactions.",
+    "usage": "Pattern: <code>peak traffic / high load times</code><ul><li><code>Our infrastructure must scale up automatically during peak traffic.</code></li><li><code>Latency spikes occur mostly during peak traffic hours.</code></li></ul>",
+    "spanish": "Necesitamos realizar un Análisis de Causa Raíz (RCA) para determinar por qué la base de datos colapsó durante la hora de mayor tráfico.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
   }
 ]

@@ -47,5 +47,83 @@
       "meetings",
       "financial"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Share Afterwards 🖥️",
+    "text": "Could you please take notes during the presentation and share them with the team {{c1::afterwards}}?",
+    "explanation": "'Afterwards' is an adverb meaning at a later or subsequent time; after something else has occurred.",
+    "usage": "Pattern: <code>afterwards / after the meeting</code><ul><li><code>We had a brief discussion afterwards.</code></li><li><code>She completed the task and left immediately afterwards.</code></li></ul>",
+    "spanish": "¿Podrías por favor tomar notas durante la presentación y compartirlas con el equipo después/posteriormente?",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Expertise Area 🖥️",
+    "text": "Let's go around the table and have everyone briefly introduce themselves and their {{c1::area of expertise}}.",
+    "explanation": "An 'area of expertise' is the specific field, subject, or skill set in which a person is highly knowledgeable or skilled.",
+    "usage": "Pattern: <code>area of expertise / domain knowledge</code><ul><li><code>Database performance tuning is my main area of expertise.</code></li><li><code>We hired consultants with expertise in cloud migration.</code></li></ul>",
+    "spanish": "Hagamos una ronda en la mesa para que todos se presenten brevemente y mencionen su área de especialización.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Landing Page 🖥️",
+    "text": "I'd like to share my screen to show you the latest mockup designs for the {{c1::landing page}}.",
+    "explanation": "A 'landing page' is the specific web page that a user arrives at after clicking a link or advertisement, designed to convert visitors.",
+    "usage": "Pattern: <code>landing page / homepage</code><ul><li><code>We optimized the landing page to increase sign-ups.</code></li><li><code>The marketing campaign directs traffic to a custom landing page.</code></li></ul>",
+    "spanish": "Me gustaría compartir mi pantalla para mostrarles los últimos diseños de maqueta para la página de destino (inicio).",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Q&A Session 🖥️",
+    "text": "Let's reserve the last ten minutes of the meeting for a quick Q&A session to address any {{c1::remaining questions}}.",
+    "explanation": "A 'Q&A session' (Question and Answer) is a dedicated time during a meeting or presentation for the audience to ask questions of the speaker.",
+    "usage": "Pattern: <code>Q&A session / questions and answers</code><ul><li><code>The webinar ended with a lively Q&A session.</code></li><li><code>We will take questions during the Q&A session at the end.</code></li></ul>",
+    "spanish": "Reservemos los últimos diez minutos de la reunión para una sesión rápida de preguntas y respuestas para abordar cualquier pregunta restante.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Proposal Iteration 🖥️",
+    "text": "I agree with your suggestion, let's incorporate that feedback into the next iteration of the {{c1::proposal}}.",
+    "explanation": "A 'proposal' is a formal written document or offer presented to others for consideration, typically detailing a plan, budget, or contract.",
+    "usage": "Pattern: <code>project proposal / business proposal</code><ul><li><code>We submitted our proposal to the client yesterday.</code></li><li><code>The board will review the proposal at the next meeting.</code></li></ul>",
+    "spanish": "Estoy de acuerdo con su sugerencia, incorporemos esa retroalimentación en la próxima iteración de la propuesta.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Agenda Items 🖥️",
+    "text": "Before we begin, let's quickly review the {{c1::agenda items}} to make sure we allocate our time properly.",
+    "explanation": "Agenda items are the individual topics or tasks scheduled to be discussed during a meeting.",
+    "usage": "Pattern: <code>agenda items / meeting agenda</code><ul><li><code>We have five agenda items to cover today.</code></li><li><code>Please add this topic to the agenda items for next week.</code></li></ul>",
+    "spanish": "Antes de comenzar, revisemos rápidamente los puntos de la agenda para asegurarnos de asignar nuestro tiempo adecuadamente.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
   }
 ]

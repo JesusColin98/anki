@@ -1685,6 +1685,97 @@
     ]
   },
   {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Counter ✈️",
+    "text": "Could you please tell me where the {{c1::baggage drop-off}} counter is?",
+    "explanation": "The 'baggage drop-off' is the designated counter where passengers who have already checked in online can drop off their luggage before heading to security.",
+    "usage": "Pattern: <code>baggage drop-off / bag drop</code><ul><li><code>Where is the bag drop for airline passengers?</code></li><li><code>You can bypass the main line if you only need the baggage drop-off.</code></li></ul>",
+    "spanish": "¿Podría decirme por favor dónde está el mostrador de entrega de equipaje?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Cabin Luggage ✈️",
+    "text": "I need to check in my luggage, but I want to keep this briefcase as my {{c1::personal item}}.",
+    "explanation": "A 'personal item' is a small bag (like a purse, laptop bag, or small backpack) that must fit under the seat in front of you on a plane, distinct from standard carry-on luggage.",
+    "usage": "Pattern: <code>personal item</code><ul><li><code>Most budget airlines allow one personal item for free.</code></li><li><code>Your laptop bag counts as a personal item.</code></li></ul>",
+    "spanish": "Necesito registrar mi equipaje, pero quiero conservar este maletín como mi artículo personal.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Flight Delay ✈️",
+    "text": "The flight has been delayed, so we need to wait at the {{c1::departure gate}}.",
+    "explanation": "The 'departure gate' (or boarding gate) is the specific area in an airport terminal where passengers assemble to board their aircraft.",
+    "usage": "Pattern: <code>departure gate / boarding gate</code><ul><li><code>Our departure gate has changed from gate 12 to gate 15.</code></li><li><code>Please report to the departure gate immediately.</code></li></ul>",
+    "spanish": "El vuelo se ha retrasado, así que tenemos que esperar en la puerta de salida/embarque.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Layover ✈️",
+    "text": "Excuse me, does this flight have a {{c1::layover}} in New York?",
+    "explanation": "A 'layover' (or connection) is a period of waiting between flights at an intermediate airport before reaching the final destination.",
+    "usage": "Pattern: <code>layover / connection</code><ul><li><code>We have a three-hour layover in Chicago.</code></li><li><code>I prefer direct flights because I hate long layovers.</code></li></ul>",
+    "spanish": "Disculpe, ¿este vuelo tiene una escala en Nueva York?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Security Control ✈️",
+    "text": "We need to go through {{c1::security screening}} before we can access the duty-free area.",
+    "explanation": "The 'security screening' is the checkpoint in an airport where passengers and their baggage are inspected by security officers and scanning machines.",
+    "usage": "Pattern: <code>security screening / security check</code><ul><li><code>The line at the security screening was incredibly long.</code></li><li><code>Remove all laptops and liquids before security screening.</code></li></ul>",
+    "spanish": "Necesitamos pasar por el control de seguridad antes de poder acceder al área libre de impuestos.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Boarding Pass ✈️",
+    "text": "Please have your {{c1::boarding pass}} and ID ready for inspection.",
+    "explanation": "A 'boarding pass' is a document provided by an airline during check-in, giving a passenger permission to board the airplane for a specific flight.",
+    "usage": "Pattern: <code>boarding pass / boarding document</code><ul><li><code>You can show your digital boarding pass on your phone.</code></li><li><code>Please print your boarding pass at the kiosk.</code></li></ul>",
+    "spanish": "Por favor, tenga su pase de abordar e identificación listos para inspección.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Overbooking ✈️",
+    "text": "My flight was overbooked, and they offered me travel vouchers if I {{c1::volunteered to take}} a later flight.",
+    "explanation": "To 'volunteer to take' a later flight means agreeing to give up your seat on an overbooked flight in exchange for compensation (such as travel vouchers or money).",
+    "usage": "Pattern: <code>volunteer to take [flight]</code><ul><li><code>No one volunteered to take the next flight, so they started bumped passengers.</code></li><li><code>I volunteered to take a later flight because the vouchers were worth $500.</code></li></ul>",
+    "spanish": "Mi vuelo estaba sobrevendido, y me ofrecieron vales de viaje si me ofrecía como voluntario para tomar un vuelo posterior.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
     "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
     "scenario": "English Beginner: Asking for Directions 🗺️",
     "text": "Excuse me, could you tell me how to {{c1::get to}} the nearest train station?",
@@ -1695,6 +1786,123 @@
       "english_scenario",
       "beginner",
       "directions"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Turn Left 🗺️",
+    "text": "Go straight ahead for two blocks, then {{c1::take a left}} at the traffic light.",
+    "explanation": "To 'take a left' is a very common idiomatic phrase meaning to turn left at a specific intersection or landmark.",
+    "usage": "Pattern: <code>take a left / make a left / turn left</code><ul><li><code>Take a left at the next street.</code></li><li><code>You will need to take a left after you pass the school.</code></li></ul>",
+    "spanish": "Siga derecho por dos cuadras, luego doble a la izquierda en el semáforo.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Close Distance 🗺️",
+    "text": "Excuse me, is there a pharmacy {{c1::within walking distance}} of here?",
+    "explanation": "'Within walking distance' means close enough to be reached easily by walking (typically less than 10-15 minutes away).",
+    "usage": "Pattern: <code>within walking distance [of something]</code><ul><li><code>The hotel is within walking distance of the beach.</code></li><li><code>We live within walking distance of the office.</code></li></ul>",
+    "spanish": "Disculpe, ¿hay alguna farmacia a corta distancia a pie de aquí?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Across From 🗺️",
+    "text": "You can't miss it; it's right {{c1::across from}} the post office.",
+    "explanation": "'Across from' means directly opposite or on the other side of a street, hallway, or space.",
+    "usage": "Pattern: <code>across from [place] / opposite</code><ul><li><code>The cafe is across from the library.</code></li><li><code>He sat across from me during the meeting.</code></li></ul>",
+    "spanish": "No tiene pérdida; está justo enfrente de la oficina de correos.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Crossing the Street 🗺️",
+    "text": "To get to the museum, you need to {{c1::cross the street}} and walk past the bank.",
+    "explanation": "To 'cross the street' means to walk from one side of a road to the opposite side.",
+    "usage": "Pattern: <code>cross the street / cross the road</code><ul><li><code>Look both ways before you cross the street.</code></li><li><code>We crossed the street to avoid the construction work.</code></li></ul>",
+    "spanish": "Para llegar al museo, debe cruzar la calle y pasar el banco.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Point Direction 🗺️",
+    "text": "Excuse me, could you {{c1::point me in the direction of}} the nearest subway station?",
+    "explanation": "To 'point someone in the direction of' means to show or tell someone the general path or heading to reach a destination.",
+    "usage": "Pattern: <code>point [someone] in the direction of [place]</code><ul><li><code>Can you point me in the direction of the restrooms?</code></li><li><code>She pointed us in the direction of the highway entrance.</code></li></ul>",
+    "spanish": "Disculpe, ¿podría indicarme la dirección hacia la estación de metro más cercana?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Outer Edge 🗺️",
+    "text": "The stadium is located on the {{c1::outer edge}} of the city.",
+    "explanation": "The 'outer edge' refers to the boundary, periphery, or outskirts of an area, such as a city limit.",
+    "usage": "Pattern: <code>outer edge / outskirts</code><ul><li><code>They built a new retail park on the outer edge of town.</code></li><li><code>We live on the outer edge of the metropolitan area.</code></li></ul>",
+    "spanish": "El estadio está ubicado en las afueras/extremo exterior de la ciudad.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Gone Too Far 🗺️",
+    "text": "If you hit the gas station, you've {{c1::gone too far}}; turn back.",
+    "explanation": "To 'go too far' means to travel past the intended destination or target point.",
+    "usage": "Pattern: <code>go too far / pass the destination</code><ul><li><code>If you reach the river, you've gone too far.</code></li><li><code>I think we went too far; we should turn around.</code></li></ul>",
+    "spanish": "Si llega a la gasolinera, se ha pasado; regrese.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Roundabout Exit 🗺️",
+    "text": "Take the second exit at the {{c1::roundabout}} to stay on Main Street.",
+    "explanation": "A 'roundabout' (or traffic circle) is a circular intersection where drivers travel counterclockwise (or clockwise in UK) around a central island.",
+    "usage": "Pattern: <code>roundabout / traffic circle</code><ul><li><code>Go straight through the first roundabout.</code></li><li><code>Turn right at the roundabout.</code></li></ul>",
+    "spanish": "Tome la segunda salida en la rotonda para permanecer en la calle principal.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Hail a Cab 🗺️",
+    "text": "Is it quicker to walk or to {{c1::hail a cab}} from here?",
+    "explanation": "To 'hail a cab' (or hail a taxi) means to signal a taxi on the street (typically by raising your arm) to stop and pick you up.",
+    "usage": "Pattern: <code>hail a cab / catch a taxi</code><ul><li><code>We stood in the rain trying to hail a cab for fifteen minutes.</code></li><li><code>It is easy to hail a cab in this neighborhood.</code></li></ul>",
+    "spanish": "¿Es más rápido caminar o pedir/hacerle señas a un taxi desde aquí?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
     ]
   },
   {
@@ -1743,6 +1951,84 @@
     "tags": [
       "english_scenario",
       "coffee_shop"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Splash of Milk ☕",
+    "text": "I would like to order a large cold brew with a {{c1::splash of}} oat milk.",
+    "explanation": "A 'splash of' is an informal measurement meaning a very small amount of liquid (typically milk, cream, or water) added to a drink.",
+    "usage": "Pattern: <code>splash of [liquid]</code><ul><li><code>Just a splash of milk in my tea, please.</code></li><li><code>He likes his whiskey with a splash of soda.</code></li></ul>",
+    "spanish": "Me gustaría pedir un café extraído en frío grande con un chorrito de leche de avena.",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Dairy-Free ☕",
+    "text": "Do you have any {{c1::dairy-free}} options for the latte?",
+    "explanation": "'Dairy-free' refers to foods or beverages that contain no milk or milk derivatives, suitable for lactose-intolerant or vegan customers.",
+    "usage": "Pattern: <code>dairy-free milk / plant-based milk</code><ul><li><code>Soy and almond milk are common dairy-free alternatives.</code></li><li><code>Is this caramel syrup dairy-free?</code></li></ul>",
+    "spanish": "¿Tienen alguna opción sin lácteos para el café con leche?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Sweetened With ☕",
+    "text": "I'll have a double espresso, and can I get that {{c1::sweetened with}} honey?",
+    "explanation": "To get something 'sweetened with' means to add a specific sweetener (like honey, sugar, syrup, or stevia) to a drink or food.",
+    "usage": "Pattern: <code>sweetened with [sweetener]</code><ul><li><code>I prefer my tea sweetened with raw sugar.</code></li><li><code>This lemonade is sweetened with agave nectar.</code></li></ul>",
+    "spanish": "Tomaré un espresso doble, ¿y me lo pueden dar endulzado con miel?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Guest Wi-Fi ☕",
+    "text": "Is there a password for the {{c1::guest Wi-Fi}} here?",
+    "explanation": "'Guest Wi-Fi' is a secondary wireless network provided by businesses for clients and visitors, keeping the internal network secure.",
+    "usage": "Pattern: <code>guest Wi-Fi / public network</code><ul><li><code>The guest Wi-Fi is free for customers who buy a drink.</code></li><li><code>Ask the barista for the guest Wi-Fi password.</code></li></ul>",
+    "spanish": "¿Hay contraseña para el Wi-Fi para invitados aquí?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Grind Beans ☕",
+    "text": "I'd like to buy a bag of whole bean coffee, could you {{c1::grind it for}} drip?",
+    "explanation": "To 'grind it for [method]' means to crush whole coffee beans into the specific particle size required for a brewing method (e.g. drip, espresso, french press).",
+    "usage": "Pattern: <code>grind [coffee] for [brewing method]</code><ul><li><code>Could you grind these beans for a French press?</code></li><li><code>I grind my own coffee beans for espresso every morning.</code></li></ul>",
+    "spanish": "Me gustaría comprar una bolsa de café en grano entero, ¿podrían molerlo para cafetera de filtro?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Warm Up ☕",
+    "text": "Can I get a pastry to go, and please {{c1::warm it up}} for me?",
+    "explanation": "To 'warm up' something means to make it warm or hot, usually by putting it in a microwave, oven, or toaster.",
+    "usage": "Pattern: <code>warm [something] up / heat up</code><ul><li><code>Would you like me to warm up your croissant?</code></li><li><code>I need to warm up my lunch in the microwave.</code></li></ul>",
+    "spanish": "¿Me da una factura/pan dulce para llevar, y por favor me la calienta?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
     ]
   },
   {
@@ -1811,6 +2097,71 @@
     ]
   },
   {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Take Out Trash 🏠",
+    "text": "Don't forget to {{c1::take out the trash}} before the garbage truck arrives tomorrow morning.",
+    "explanation": "To 'take out the trash' means to carry refuse or garbage containers from inside the house to the outdoor collection spot.",
+    "usage": "Pattern: <code>take out the trash / take out the rubbish</code><ul><li><code>It is your turn to take out the trash tonight.</code></li><li><code>I took out the trash before going to bed.</code></li></ul>",
+    "spanish": "No olvides sacar la basura antes de que llegue el camión de la basura mañana por la mañana.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Run Errands 🏠",
+    "text": "I need to {{c1::run some errands}}, including dropping off the dry cleaning and buying groceries.",
+    "explanation": "To 'run errands' means to take short trips to complete daily tasks or chores outside the house (e.g. post office, grocery store, cleaners).",
+    "usage": "Pattern: <code>run errands / do errands</code><ul><li><code>I have to run some errands this afternoon, so I'll be out of the office.</code></li><li><code>She spent the whole Saturday running errands.</code></li></ul>",
+    "spanish": "Necesito hacer algunos mandados/recados, incluyendo dejar la ropa en la tintorería y comprar víveres.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Call Plumber 🏠",
+    "text": "The kitchen sink is leaking, so I need to {{c1::call a plumber}} to fix it.",
+    "explanation": "To 'call a plumber' is a standard collocation for contacting a professional who installs and repairs pipes, fixtures, and water systems.",
+    "usage": "Pattern: <code>call a plumber / hire a plumber</code><ul><li><code>We had to call a plumber to unclog the drain.</code></li><li><code>The plumber charged $100 just to inspect the pipes.</code></li></ul>",
+    "spanish": "El fregadero de la cocina gotea, así que necesito llamar a un plomero para que lo arregle.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Stock Up 🏠",
+    "text": "We need to {{c1::stock up on}} toilet paper and paper towels this weekend.",
+    "explanation": "To 'stock up on' means to buy a large quantity of something (usually household supplies or food) to keep for future use.",
+    "usage": "Pattern: <code>stock up on [goods]</code><ul><li><code>People stocked up on water and canned food before the storm.</code></li><li><code>I always stock up on coffee when it goes on sale.</code></li></ul>",
+    "spanish": "Necesitamos abastecernos de papel higiénico y toallas de papel este fin de semana.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Put Away Groceries 🏠",
+    "text": "Could you please {{c1::put away the groceries}} in the pantry?",
+    "explanation": "To 'put away groceries' means to place purchased food items in their proper storage locations (fridge, freezer, cabinets, pantry) after shopping.",
+    "usage": "Pattern: <code>put away the groceries</code><ul><li><code>Help me put away the groceries before the ice cream melts.</code></li><li><code>She was busy putting away the groceries.</code></li></ul>",
+    "spanish": "¿Podrías por favor guardar las compras en la despensa?",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
     "deck": "03_Languages::English::01_Daily_Life::Hotel",
     "scenario": "English Intermediate: Hotel Check-in 🏨",
     "text": "I have a reservation under the name Perez, and I'd like to check if my room is {{c1::ready for check-in}}.",
@@ -1824,6 +2175,123 @@
     ]
   },
   {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Check-in 🛎️",
+    "text": "I have a reservation under the name Colin, and I'd like to {{c1::check in}}.",
+    "explanation": "To 'check in' at a hotel is the formal process of registering, showing ID, providing payment, and receiving room keys.",
+    "usage": "Pattern: <code>check in / check-in desk</code><ul><li><code>We can't check in until 3:00 PM.</code></li><li><code>Where is the check-in counter?</code></li></ul>",
+    "spanish": "Tengo una reservación bajo el nombre Colin, y me gustaría registrarme.",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Include Breakfast 🛎️",
+    "text": "Does the room rate {{c1::include breakfast}}, or is there an extra charge?",
+    "explanation": "To 'include breakfast' means that breakfast is provided for free as part of the price paid for the hotel room (often called 'complimentary breakfast').",
+    "usage": "Pattern: <code>include breakfast / complimentary breakfast</code><ul><li><code>Does this booking include breakfast?</code></li><li><code>Our stay includes a free buffet breakfast.</code></li></ul>",
+    "spanish": "¿La tarifa de la habitación incluye desayuno, o hay un cargo extra?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Late Check-out 🛎️",
+    "text": "Could we request a {{c1::late check-out}} for tomorrow at 2:00 PM?",
+    "explanation": "A 'late check-out' is an arrangement allowing hotel guests to stay in their room past the standard checkout time (typically 11:00 AM or 12:00 PM).",
+    "usage": "Pattern: <code>late check-out / request a late check-out</code><ul><li><code>We requested a late check-out because our flight is at night.</code></li><li><code>The hotel charged us a fee for late check-out.</code></li></ul>",
+    "spanish": "¿Podríamos solicitar una salida tardía para mañana a las 2:00 PM?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Shuttle Service 🛎️",
+    "text": "Excuse me, does the hotel offer a {{c1::shuttle service}} to the airport?",
+    "explanation": "A 'shuttle service' is a regular, complimentary transport service (usually a van or bus) provided by a hotel to move guests to and from specific locations like airports or tourist sights.",
+    "usage": "Pattern: <code>shuttle service / airport shuttle</code><ul><li><code>The hotel shuttle service runs every half hour.</code></li><li><code>We took the free shuttle service to the beach.</code></li></ul>",
+    "spanish": "Disculpe, ¿el hotel ofrece servicio de transporte gratuito al aeropuerto?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Re-key Card 🛎️",
+    "text": "My key card is not working; could you please {{c1::re-key it}} for me?",
+    "explanation": "To 're-key' a card means to reprogram the electronic magnetic strip or RFID chip on a hotel key card so that it opens the guest's room door.",
+    "usage": "Pattern: <code>re-key the card / reprogram the key</code><ul><li><code>My card got deactivated near my phone, so they had to re-key it.</code></li><li><code>The receptionist re-keyed my card in seconds.</code></li></ul>",
+    "spanish": "Mi tarjeta llave no funciona; ¿podría volver a programarla para mí?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Send to Room 🛎️",
+    "text": "Could you please send some extra towels and toiletries up to {{c1::our room}}?",
+    "explanation": "To 'send up to a room' is the standard phrasal expression used by guests when requesting room service or housekeeping to deliver items directly to their hotel room.",
+    "usage": "Pattern: <code>send [items] up to our room</code><ul><li><code>Could you send a bottle of water up to room 405?</code></li><li><code>Housekeeping will send the pillows up to your room.</code></li></ul>",
+    "spanish": "¿Podría por favor enviar algunas toallas y artículos de tocador adicionales a nuestra habitación?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Safe Box 🛎️",
+    "text": "Is there a {{c1::safe deposit box}} in the room to store our valuables?",
+    "explanation": "A 'safe deposit box' (or in-room safe) is a small, secure electronic metal box inside a hotel room closet where guests can store passports, cash, and jewelry.",
+    "usage": "Pattern: <code>safe deposit box / room safe</code><ul><li><code>I put my passport in the safe deposit box.</code></li><li><code>Make sure you lock the safe deposit box before leaving.</code></li></ul>",
+    "spanish": "¿Hay caja fuerte en la habitación para guardar nuestros objetos de valor?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Free Calling 🛎️",
+    "text": "I need to make a phone call, is there free {{c1::local calling}} from the room?",
+    "explanation": "'Local calling' refers to telephone calls made to numbers within the same city or local calling area, which hotels often offer for free.",
+    "usage": "Pattern: <code>local calling / long-distance calls</code><ul><li><code>Local calling is free, but long-distance calls will be charged to your room.</code></li><li><code>Does this phone support free local calling?</code></li></ul>",
+    "spanish": "Necesito hacer una llamada telefónica, ¿hay llamadas locales gratuitas desde la habitación?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Leave Bags 🛎️",
+    "text": "We'd like to {{c1::leave our bags}} at the front desk until our room is ready.",
+    "explanation": "To 'leave bags' (or store luggage) means to temporarily place your suitcases in the hotel's secure holding room when arriving before check-in or departing after check-out.",
+    "usage": "Pattern: <code>leave our bags / store our luggage</code><ul><li><code>Can we leave our bags here while we explore the city?</code></li><li><code>You can leave your bags with the bellhop.</code></li></ul>",
+    "spanish": "Nos gustaría dejar nuestras maletas en recepción hasta que nuestra habitación esté lista.",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
     "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
     "scenario": "English Beginner: Ordering Food 🍔",
     "text": "Can I get a cheeseburger and {{c1::a side of}} fries, please?",
@@ -1834,6 +2302,123 @@
       "english_scenario",
       "beginner",
       "ordering_food"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Dressing on Side 🍔",
+    "text": "We are ready to order: I'll have the steak, and can I get the dressing {{c1::on the side}}?",
+    "explanation": "To get a sauce or dressing 'on the side' means it should be served in a small separate cup rather than poured directly over the food.",
+    "usage": "Pattern: <code>on the side / sauce on the side</code><ul><li><code>I'd like a salad with vinaigrette on the side.</code></li><li><code>Can I get the gravy on the side?</code></li></ul>",
+    "spanish": "Estamos listos para pedir: Tomaré el filete, ¿y me puede dar el aderezo aparte/a un lado?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Nut Allergy 🍔",
+    "text": "Excuse me, I'm allergic to nuts; does this dish {{c1::contain any nuts}}?",
+    "explanation": "To 'contain nuts' is a crucial health expression used to check if tree nuts or peanuts are used in the ingredients or preparation of a food item.",
+    "usage": "Pattern: <code>contain nuts / nut-free</code><ul><li><code>Does the pesto sauce contain any nuts?</code></li><li><code>Please let the chef know that my food must not contain any nuts.</code></li></ul>",
+    "spanish": "Disculpe, soy alérgico a las nueces; ¿este plato contiene nueces?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Tap Water 🍔",
+    "text": "Can we get a {{c1::pitcher of tap water}} for the table, please?",
+    "explanation": "A 'pitcher of tap water' is a large container of municipal drinking water provided for free in US/UK restaurants, as opposed to bottled water.",
+    "usage": "Pattern: <code>pitcher of tap water / jug of water</code><ul><li><code>Just a pitcher of tap water is fine, thank you.</code></li><li><code>We always order a pitcher of tap water.</code></li></ul>",
+    "spanish": "¿Nos puede traer una jarra de agua del grifo para la mesa, por favor?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Steak Cooked 🍔",
+    "text": "I'd like my steak cooked {{c1::medium-rare}}, please.",
+    "explanation": "'Medium-rare' is the standard cooking level for meat where the center is warm and red, generally preferred by culinary experts for texture and flavor.",
+    "usage": "Pattern: <code>medium-rare / rare / medium / well-done</code><ul><li><code>I prefer my ribeye cooked medium-rare.</code></li><li><code>He ordered his burger well-done.</code></li></ul>",
+    "spanish": "Me gustaría mi filete término medio (tres cuartos), por favor.",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Check Order 🍔",
+    "text": "Excuse me, we've been waiting for our food for thirty minutes; could you {{c1::check on our order}}?",
+    "explanation": "To 'check on an order' is a polite way to ask a server to go to the kitchen and find out why the food is delayed.",
+    "usage": "Pattern: <code>check on our order / verify the status</code><ul><li><code>Could you please check on our order? It's taking a bit long.</code></li><li><code>I'll go to the kitchen to check on your order right away.</code></li></ul>",
+    "spanish": "Disculpe, hemos estado esperando nuestra comida por treinta minutos; ¿podría revisar nuestro pedido?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Wrong Order 🍔",
+    "text": "This isn't what I ordered; I asked for the grilled chicken, not the {{c1::fried chicken}}.",
+    "explanation": "This is a polite yet direct way to notify a server that they have brought the wrong dish to your table.",
+    "usage": "Pattern: <code>this isn't what I ordered / wrong dish</code><ul><li><code>Excuse me, this isn't what I ordered; I wanted a salad.</code></li><li><code>I apologize, I'll take this back and bring you the correct plate.</code></li></ul>",
+    "spanish": "Esto no es lo que pedí; pedí el pollo a la parrilla, no el pollo frito.",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Bill Check 🍔",
+    "text": "We are done eating, could you please {{c1::bring us the check}}?",
+    "explanation": "To 'bring the check' (or bring the bill) is the standard request to pay for the meal at the end of dining.",
+    "usage": "Pattern: <code>bring us the check / can we get the bill</code><ul><li><code>Excuse me, can you bring us the check when you have a moment?</code></li><li><code>He asked the waiter to bring the check.</code></li></ul>",
+    "spanish": "Hemos terminado de comer, ¿podría por favor traernos la cuenta?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Vegan Option 🍔",
+    "text": "Do you have any vegan options, or can this dish be {{c1::made vegan}}?",
+    "explanation": "To make a dish 'vegan' means modifying the recipe to exclude all animal products (meat, dairy, eggs, honey).",
+    "usage": "Pattern: <code>made vegan / vegan-friendly</code><ul><li><code>Can this pasta be made vegan if you remove the cheese?</code></li><li><code>Is there a vegan alternative for this sauce?</code></li></ul>",
+    "spanish": "¿Tienen alguna opción vegana, o este plato se puede hacer vegano?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Split Bill 🍔",
+    "text": "Can we split the bill {{c1::evenly between}} the three of us?",
+    "explanation": "To 'split the bill evenly' means to divide the total cost of a restaurant meal into equal portions among the diners.",
+    "usage": "Pattern: <code>split the bill / go Dutch</code><ul><li><code>Let's split the bill evenly to keep things simple.</code></li><li><code>We decided to split the bill instead of paying separately.</code></li></ul>",
+    "spanish": "¿Podemos dividir la cuenta en partes iguales entre los tres?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
     ]
   },
   {
@@ -1938,6 +2523,32 @@
     ]
   },
   {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "Supermarket: Aisle Location 🛒",
+    "text": "Excuse me, in which {{c1::aisle}} can I find the olive oil?",
+    "explanation": "An 'aisle' is a long, narrow passage between shelves of goods in a supermarket or grocery store (the 's' is silent, pronounced /aɪl/).",
+    "usage": "Pattern: <code>aisle [number] / product aisle</code><ul><li><code>The baking ingredients are in aisle 4.</code></li><li><code>Excuse me, which aisle is the cereal in?</code></li></ul>",
+    "spanish": "Disculpe, ¿en qué pasillo puedo encontrar el aceite de oliva?",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "Supermarket: Purchase Receipt 🛒",
+    "text": "I'll pay in cash, and I don't need a {{c1::receipt}}, thank you.",
+    "explanation": "A 'receipt' is a printed slip of paper given to customers to prove that a financial transaction took place (the 'p' is silent, pronounced /rɪˈsiːt/).",
+    "usage": "Pattern: <code>sales receipt / cash receipt</code><ul><li><code>Always keep your receipt in case you need to return the item.</code></li><li><code>Do you want your receipt in the bag?</code></li></ul>",
+    "spanish": "Pagaré en efectivo, y no necesito recibo, gracias.",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
     "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
     "scenario": "English Advanced: Conflict Resolution 🤝",
     "text": "I appreciate your perspective, so let's find a {{c1::middle ground}} that addresses both of our concerns.",
@@ -1948,6 +2559,123 @@
       "english_scenario",
       "advanced",
       "conflict_resolution"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Middle Ground 🤝",
+    "text": "I understand your frustration, let's focus on finding a {{c1::middle ground}} that works for both teams.",
+    "explanation": "A 'middle ground' is a compromise or position of agreement between two opposing viewpoints or parties.",
+    "usage": "Pattern: <code>find a middle ground / compromise</code><ul><li><code>Negotiations succeeded once both sides found a middle ground.</code></li><li><code>We need to establish a middle ground regarding work hours.</code></li></ul>",
+    "spanish": "Entiendo su frustración, enfoquémonos en encontrar un punto medio/acuerdo que funcione para ambos equipos.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Iron Out 🤝",
+    "text": "Let's schedule a call to {{c1::iron out}} these misunderstandings before the client meeting.",
+    "explanation": "To 'iron out' is a phrasal verb meaning to resolve, smooth over, or eliminate minor problems or differences in views.",
+    "usage": "Pattern: <code>iron out [problems / details / differences]</code><ul><li><code>We need to iron out the details of the contract.</code></li><li><code>They met to iron out their political differences.</code></li></ul>",
+    "spanish": "Agendemos una llamada para resolver/limar estas asperezas antes de la reunión con el cliente.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Elaborate Concerns 🤝",
+    "text": "I want to make sure I fully grasp your point; could you please {{c1::elaborate on}} your concerns?",
+    "explanation": "To 'elaborate on' means to add more details, explanation, or information to a statement that was previously brief.",
+    "usage": "Pattern: <code>elaborate on [point / concerns / strategy]</code><ul><li><code>Could you elaborate on how this database schema works?</code></li><li><code>The manager elaborated on the restructuring plan.</code></li></ul>",
+    "spanish": "Quiero asegurarme de entender completamente su punto; ¿podría por favor detallar/explayarse sobre sus preocupaciones?",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Pointing Fingers 🤝",
+    "text": "Let's keep this discussion objective and avoid {{c1::pointing fingers}} at individuals.",
+    "explanation": "To 'point fingers' is an idiomatic expression meaning to accuse or place blame on someone else for a failure or problem.",
+    "usage": "Pattern: <code>point fingers / play the blame game</code><ul><li><code>Instead of pointing fingers, let's focus on fixing the bug.</code></li><li><code>She is always quick to point fingers when things go wrong.</code></li></ul>",
+    "spanish": "Mantengamos esta discusión objetiva y evitemos buscar culpables/echarle la culpa a individuos.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Root Cause 🤝",
+    "text": "I appreciate you bringing this up; let's work together to {{c1::address the root cause}} of this issue.",
+    "explanation": "To 'address the root cause' means to identify and fix the underlying, fundamental reason why a problem occurred, rather than just treating symptoms.",
+    "usage": "Pattern: <code>address the root cause / resolve root issue</code><ul><li><code>Rebooting the server only patches the symptom; we must address the root cause.</code></li><li><code>Our investigation aimed to address the root cause of the data breach.</code></li></ul>",
+    "spanish": "Le agradezco que mencione esto; trabajemos juntos para abordar la causa raíz de este problema.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Deadlock State 🤝",
+    "text": "We seem to have reached a {{c1::deadlock}}; let's bring in a neutral third party to mediate.",
+    "explanation": "A 'deadlock' (or impasse) is a situation in a negotiation where no progress is possible because neither party is willing to compromise.",
+    "usage": "Pattern: <code>reach a deadlock / break a deadlock</code><ul><li><code>The contract talks ended in a complete deadlock.</code></li><li><code>We need a mediator to help us break the deadlock.</code></li></ul>",
+    "spanish": "Parece que hemos llegado a un punto muerto/callejón sin salida; involucremos a un tercero neutral para mediar.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Cut Corners 🤝",
+    "text": "I agree that we need to act fast, but we cannot afford to {{c1::cut corners}} on safety.",
+    "explanation": "To 'cut corners' is an idiom meaning to do something in the easiest, cheapest, or fastest way, often sacrificing quality or safety standards.",
+    "usage": "Pattern: <code>cut corners / skimp on quality</code><ul><li><code>The builder cut corners and used cheap materials.</code></li><li><code>Never cut corners on database security audits.</code></li></ul>",
+    "spanish": "Estoy de acuerdo en que debemos actuar rápido, pero no podemos permitirnos tomar atajos/escatimar en seguridad.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Bigger Picture 🤝",
+    "text": "Let's take a step back and look at the {{c1::bigger picture}} before making a decision.",
+    "explanation": "The 'bigger picture' refers to the overall context, long-term goals, or broad view of a situation, rather than small details.",
+    "usage": "Pattern: <code>look at the bigger picture / overview</code><ul><li><code>Don't get bogged down in detail; look at the bigger picture.</code></li><li><code>A manager must always focus on the bigger picture.</code></li></ul>",
+    "spanish": "Demos un paso atrás y miremos el panorama completo/la perspectiva general antes de tomar una decisión.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Make It Right 🤝",
+    "text": "I apologize for the oversight; I will take full responsibility and {{c1::make it right}}.",
+    "explanation": "To 'make it right' means to correct a mistake, repair a bad situation, or compensate someone for an error.",
+    "usage": "Pattern: <code>make it right / repair the damage</code><ul><li><code>We sent the client a refund to make it right.</code></li><li><code>If you make a mistake, do your best to make it right.</code></li></ul>",
+    "spanish": "Pido disculpas por el descuido; asumiré toda la responsabilidad y lo corregiré/enmendaré.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
     ]
   },
   {
@@ -1974,6 +2702,110 @@
       "business_english",
       "professional",
       "director_role"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Long-term Roadmap 💼",
+    "text": "We need to align our department goals to support the company's {{c1::long-term roadmap}}.",
+    "explanation": "A 'long-term roadmap' is a strategic plan that outlines the main goals and milestones of a company over a long period (e.g. 3 to 5 years).",
+    "usage": "Pattern: <code>long-term roadmap / strategic vision</code><ul><li><code>Our product roadmap spans over the next three years.</code></li><li><code>The director presented the long-term roadmap to the division.</code></li></ul>",
+    "spanish": "Necesitamos alinear las metas de nuestro departamento para apoyar la hoja de ruta a largo plazo de la compañía.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Empower Managers 💼",
+    "text": "My role is to steer the strategic direction and {{c1::empower our managers}} to execute it.",
+    "explanation": "To 'empower managers' means giving them the authority, resources, and trust to make decisions and lead their teams independently.",
+    "usage": "Pattern: <code>empower managers / delegate authority</code><ul><li><code>Good directors empower managers rather than micromanage.</code></li><li><code>We must empower our front-line managers to resolve customer issues.</code></li></ul>",
+    "spanish": "Mi rol es guiar la dirección estratégica y capacitar/dar autonomía a nuestros gerentes para ejecutarla.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Maximize ROI 💼",
+    "text": "We must ensure we are allocating our resources efficiently to {{c1::maximize ROI}}.",
+    "explanation": "To 'maximize ROI' (Return on Investment) means to ensure that business spending yields the highest possible profit or strategic benefit.",
+    "usage": "Pattern: <code>maximize ROI / boost returns</code><ul><li><code>Our marketing budget is allocated to channels that maximize ROI.</code></li><li><code>The team restructured the project to maximize ROI.</code></li></ul>",
+    "spanish": "Debemos asegurarnos de asignar nuestros recursos eficientemente para maximizar el retorno de la inversión.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Board of Directors 💼",
+    "text": "I need to report our quarterly performance metrics directly to the {{c1::board of directors}}.",
+    "explanation": "The 'board of directors' is the governing body of a corporation elected by shareholders to oversee management and protect their interests.",
+    "usage": "Pattern: <code>board of directors / board members</code><ul><li><code>The board of directors approved the acquisition.</code></li><li><code>He serves on the board of directors for three companies.</code></li></ul>",
+    "spanish": "Necesito informar nuestras métricas de rendimiento trimestrales directamente a la junta directiva.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Eliminate Silos 💼",
+    "text": "We are restructuring the department to improve cross-functional collaboration and {{c1::eliminate silos}}.",
+    "explanation": "To 'eliminate silos' means to break down barriers between departments that prevent open communication, sharing of data, or collaborative work.",
+    "usage": "Pattern: <code>eliminate silos / break down walls</code><ul><li><code>A key goal of Agile is to eliminate silos between devs and QA.</code></li><li><code>We must eliminate departmental silos to speed up production.</code></li></ul>",
+    "spanish": "Estamos reestructurando el departamento para mejorar la colaboración interfuncional y eliminar los silos/departamentos aislados.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Cultivate Innovation 💼",
+    "text": "We must foster a culture of innovation where calculated risk-taking is {{c1::encouraged rather than penalized}}.",
+    "explanation": "This phrase describes a strategic environment where employees are motivated to try new ideas, knowing that mistakes in pursuit of innovation will not lead to negative career consequences.",
+    "usage": "Pattern: <code>[something] is encouraged rather than penalized</code><ul><li><code>Creative problem solving should be encouraged rather than penalized.</code></li><li><code>Taking initiative is encouraged rather than penalized in this team.</code></li></ul>",
+    "spanish": "Debemos fomentar una cultura de innovación donde la toma de riesgos calculados sea alentada en lugar de penalizada.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Showcase Achievements 💼",
+    "text": "I will represent our division at the upcoming global leadership summit to {{c1::showcase our achievements}}.",
+    "explanation": "To 'showcase achievements' means to display or present positive results, milestones, or accomplishments to others in a prominent way.",
+    "usage": "Pattern: <code>showcase achievements / highlight success</code><ul><li><code>The annual report is an opportunity to showcase our achievements.</code></li><li><code>We built a dashboard to showcase team achievements to executives.</code></li></ul>",
+    "spanish": "Representaré a nuestra división en la próxima cumbre global de liderazgo para exhibir/presentar nuestros logros.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Joint Venture 💼",
+    "text": "We need to conduct a thorough risk assessment before entering this {{c1::joint venture}}.",
+    "explanation": "A 'joint venture' is a business arrangement in which two or more parties agree to pool their resources for the purpose of accomplishing a specific task.",
+    "usage": "Pattern: <code>joint venture / strategic partnership</code><ul><li><code>The two auto giants formed a joint venture to build electric cars.</code></li><li><code>The project is a joint venture between public and private firms.</code></li></ul>",
+    "spanish": "Necesitamos realizar una evaluación de riesgos exhaustiva antes de entrar en esta empresa conjunta/alianza comercial.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
     ]
   },
   {
@@ -2014,6 +2846,97 @@
       "workplace",
       "feedback",
       "communication"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Room for Improvement 📈",
+    "text": "I appreciate your hard work on this project; however, there is still {{c1::room for improvement}} in your documentation.",
+    "explanation": "'Room for improvement' is a polite, professional idiom meaning that something is not perfect and has potential to be better.",
+    "usage": "Pattern: <code>room for improvement / areas of development</code><ul><li><code>The report was good, but there's room for improvement.</code></li><li><code>There is always room for improvement in software performance.</code></li></ul>",
+    "spanish": "Aprecio su arduo trabajo en este proyecto; sin embargo, todavía hay margen de mejora en su documentación.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Constructive Feedback 📈",
+    "text": "To help you grow, I want to offer some {{c1::constructive feedback}} on your client presentation.",
+    "explanation": "'Constructive feedback' is supportive advice or critique designed to help someone improve their work or behavior, rather than simply pointing out faults.",
+    "usage": "Pattern: <code>constructive feedback / constructive criticism</code><ul><li><code>I always appreciate constructive feedback from my manager.</code></li><li><code>Try to phrase your comments as constructive feedback.</code></li></ul>",
+    "spanish": "Para ayudarle a crecer, quiero ofrecerle retroalimentación constructiva sobre su presentación con el cliente.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Keep up Good Work 📈",
+    "text": "You did a fantastic job managing the client's expectations; {{c1::keep up the good work}}!",
+    "explanation": "'Keep up the good work' is a common encouraging phrase used to praise someone's performance and motivate them to continue performing at a high level.",
+    "usage": "Pattern: <code>keep up the good work / keep it up</code><ul><li><code>The manager told us to keep up the good work.</code></li><li><code>Fantastic results this quarter, keep up the good work!</code></li></ul>",
+    "spanish": "Hizo un trabajo fantástico gestionando las expectativas del cliente; ¡siga así (continúe con el buen trabajo)!",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Holding Back 📈",
+    "text": "I've noticed that you've been missing deadlines; is there anything {{c1::holding you back}}?",
+    "explanation": "To 'hold someone back' is a phrasal verb meaning to prevent someone from making progress, developing, or performing to their potential.",
+    "usage": "Pattern: <code>hold [someone] back / block progress</code><ul><li><code>What is holding you back from applying for the promotion?</code></li><li><code>Lack of funding is holding the research back.</code></li></ul>",
+    "spanish": "He notado que ha estado perdiendo fechas límite; ¿hay algo que le impida avanzar/le esté frenando?",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Pain Points 📈",
+    "text": "Let's set up a weekly check-in to track your progress and address any {{c1::pain points}} early.",
+    "explanation": "A 'pain point' is a specific problem, obstacle, or difficulty experienced by employees, customers, or users.",
+    "usage": "Pattern: <code>address pain points / resolve customer pain points</code><ul><li><code>The new software addresses the main pain points of our team.</code></li><li><code>We need to identify user pain points in the checkout flow.</code></li></ul>",
+    "spanish": "Establezcamos una reunión de control semanal para realizar un seguimiento de su progreso y abordar cualquier punto crítico/dificultad temprano.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Active Listening 📈",
+    "text": "Your technical skills are excellent, but you need to work on your {{c1::active listening}} during team meetings.",
+    "explanation": "'Active listening' is a communication technique that requires the listener to fully concentrate, understand, respond, and remember what is being said.",
+    "usage": "Pattern: <code>practice active listening / active listening skills</code><ul><li><code>Active listening is essential for effective conflict resolution.</code></li><li><code>She showed active listening by summarizing my points.</code></li></ul>",
+    "spanish": "Sus habilidades técnicas son excelentes, pero necesita trabajar en su escucha activa durante las reuniones de equipo.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Huge Impact 📈",
+    "text": "I want to recognize your effort; your dedication has made a {{c1::huge impact on}} the team's morale.",
+    "explanation": "To 'make a huge impact on' means to have a very large, significant, or powerful effect or influence on a situation, group, or project.",
+    "usage": "Pattern: <code>make a huge impact on [something]</code><ul><li><code>The training made a huge impact on sales performance.</code></li><li><code>Your feedback has had a huge impact on my career growth.</code></li></ul>",
+    "spanish": "Quiero reconocer su esfuerzo; su dedicación ha tenido un gran impacto en la moral del equipo.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
     ]
   },
   {
@@ -2069,6 +2992,84 @@
     ]
   },
   {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Save Money 🛡️",
+    "text": "I understand your concern about the budget, but let me show you how this tool will {{c1::save you money}} in the long run.",
+    "explanation": "To 'save money' means to reduce expenses or prevent financial waste, a key value proposition in professional sales.",
+    "usage": "Pattern: <code>save money / cost savings</code><ul><li><code>Moving to the cloud will save us money on infrastructure.</code></li><li><code>This energy-efficient device will save you money.</code></li></ul>",
+    "spanish": "Entiendo su preocupación sobre el presupuesto, pero permítame mostrarle cómo esta herramienta le ahorrará dinero a largo plazo.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Legacy Systems 🛡️",
+    "text": "That's a valid point; however, our software integrates seamlessly with your {{c1::legacy systems}}.",
+    "explanation": "A 'legacy system' is an old or outdated computer system, technology, or software application that a company continues to use because it is critical to their business.",
+    "usage": "Pattern: <code>legacy systems / legacy technology</code><ul><li><code>Replacing legacy systems can be extremely expensive and risky.</code></li><li><code>We built an API wrapper to connect our app to their legacy system.</code></li></ul>",
+    "spanish": "Ese es un punto válido; sin embargo, nuestro software se integra a la perfección con sus sistemas heredados/antiguos.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Industry Standards 🛡️",
+    "text": "To address your security concerns, we are fully compliant with all major {{c1::industry standards}}.",
+    "explanation": "An 'industry standard' is a technical specification, requirement, or guideline widely accepted and followed in a specific field (e.g. ISO 27001, SOC 2).",
+    "usage": "Pattern: <code>industry standards / compliance standards</code><ul><li><code>Our security protocols meet the highest industry standards.</code></li><li><code>We must update our process to keep up with changing industry standards.</code></li></ul>",
+    "spanish": "Para abordar sus preocupaciones de seguridad, cumplimos plenamente con todos los principales estándares de la industria.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Around Clock 🛡️",
+    "text": "I hear what you are saying, but our customer support team is available {{c1::around the clock}} to help you.",
+    "explanation": "'Around the clock' is an idiom meaning continuously, 24 hours a day, 7 days a week.",
+    "usage": "Pattern: <code>around the clock / 24/7 support</code><ul><li><code>The engineering team worked around the clock to fix the database.</code></li><li><code>We offer customer service around the clock.</code></li></ul>",
+    "spanish": "Escucho lo que dice, pero nuestro equipo de soporte al cliente está disponible las 24 horas del día para ayudarle.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Deciding Factor 🛡️",
+    "text": "We can adjust the project scope to fit your timeline if that is the {{c1::deciding factor}} for you.",
+    "explanation": "The 'deciding factor' is the key element, reason, or condition that makes a person resolve a choice or make a final decision.",
+    "usage": "Pattern: <code>deciding factor / deal-breaker</code><ul><li><code>Price was the deciding factor in our choice of vendor.</code></li><li><code>Safety features were the deciding factor when buying the car.</code></li></ul>",
+    "spanish": "Podemos ajustar el alcance del proyecto para adaptarlo a su cronograma si ese es el factor decisivo para usted.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Case Studies 🛡️",
+    "text": "Let me walk you through our case studies to show how we solved similar problems for {{c1::other clients}}.",
+    "explanation": "A 'case study' is a detailed analysis of a project or campaign, used as marketing evidence to show potential clients how a company successfully delivered value.",
+    "usage": "Pattern: <code>case study / client success story</code><ul><li><code>We published three new case studies on our website.</code></li><li><code>Our case studies prove that our algorithm improves conversion rates.</code></li></ul>",
+    "spanish": "Permítame guiarle a través de nuestros estudios de caso para mostrar cómo resolvimos problemas similares para otros clientes.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
     "deck": "03_Languages::English::02_Professional::IT_Support",
     "scenario": "IT Support: Troubleshooting 🖥️",
     "text": "Could you please {{c1::power cycle}} the router by unplugging it for 30 seconds?",
@@ -2108,6 +3109,97 @@
     ]
   },
   {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Power Cycle 💻",
+    "text": "Have you tried turning the device off and on again to {{c1::power cycle}} it?",
+    "explanation": "To 'power cycle' a device means to shut off the power to a hardware piece and then turn it back on, which clears memory and resets state.",
+    "usage": "Pattern: <code>power cycle / reboot the router</code><ul><li><code>IT support always asks you to power cycle the modem first.</code></li><li><code>Power cycling the switch resolved the packet loss.</code></li></ul>",
+    "spanish": "¿Ha intentado apagar y volver a encender el dispositivo para reiniciar el ciclo de energía?",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Look Into It 💻",
+    "text": "I will open a support ticket for this issue, and our team will {{c1::look into it}} shortly.",
+    "explanation": "To 'look into' is a common phrasal verb meaning to investigate, examine, or check the status of a problem or request.",
+    "usage": "Pattern: <code>look into [issue / ticket / bug]</code><ul><li><code>We are looking into the server latency report.</code></li><li><code>I'll look into why your payment was declined.</code></li></ul>",
+    "spanish": "Abriré un ticket de soporte para este problema, y nuestro equipo lo revisará/investigará en breve.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Lockout Event 💻",
+    "text": "Please make sure your security credentials are up to date to prevent login {{c1::lockouts}}.",
+    "explanation": "A 'lockout' is a security state where a user is temporarily or permanently barred from accessing an account after too many failed password attempts.",
+    "usage": "Pattern: <code>account lockout / lockout policy</code><ul><li><code>Three failed attempts will trigger an automatic account lockout.</code></li><li><code>Contact IT support to resolve your password lockout.</code></li></ul>",
+    "spanish": "Por favor, asegúrese de que sus credenciales de seguridad estén actualizadas para evitar bloqueos de inicio de sesión.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Server Downtime 💻",
+    "text": "We are currently experiencing a temporary server outage; we apologize for the {{c1::downtime}}.",
+    "explanation": "'Downtime' refers to the period during which a system, computer network, or server is unavailable or offline.",
+    "usage": "Pattern: <code>server downtime / system downtime</code><ul><li><code>Scheduled maintenance downtime will occur this Sunday.</code></li><li><code>Our service level agreement guarantees less than 0.01% downtime.</code></li></ul>",
+    "spanish": "Actualmente estamos experimentando una interrupción temporal del servidor; nos disculpamos por el tiempo de inactividad.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Troubleshoot 💻",
+    "text": "Could you please send me a screenshot of the error message to help us {{c1::troubleshoot}} the problem?",
+    "explanation": "To 'troubleshoot' means to identify, analyze, and resolve technical faults or bugs in a system by following a logical process of elimination.",
+    "usage": "Pattern: <code>troubleshoot the problem / technical troubleshooting</code><ul><li><code>We need to troubleshoot why the API is returning 500 errors.</code></li><li><code>He is very good at troubleshooting network connection problems.</code></li></ul>",
+    "spanish": "¿Podría por favor enviarme una captura de pantalla del mensaje de error para ayudarnos a diagnosticar/resolver el problema?",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Security Vulnerability 💻",
+    "text": "You need to update your operating system to the latest version to patch these {{c1::security vulnerabilities}}.",
+    "explanation": "A 'security vulnerability' is a flaw or weakness in software or hardware that malicious actors can exploit to gain unauthorized access or execute code.",
+    "usage": "Pattern: <code>patch security vulnerabilities / zero-day vulnerability</code><ul><li><code>The patch fixes critical security vulnerabilities in the kernel.</code></li><li><code>Cybercriminals scan the web looking for unpatched security vulnerabilities.</code></li></ul>",
+    "spanish": "Necesita actualizar su sistema operativo a la última versión para parchear estas vulnerabilidades de seguridad.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Inbox Check 💻",
+    "text": "Please check your spam folder if you haven't received the password reset link {{c1::in your inbox}}.",
+    "explanation": "An 'inbox' is the folder where newly received email messages are stored.",
+    "usage": "Pattern: <code>in your inbox / email inbox</code><ul><li><code>The confirmation code should arrive in your inbox in a minute.</code></li><li><code>My inbox is flooded with spam emails.</code></li></ul>",
+    "spanish": "Por favor, revise su carpeta de correo no deseado (spam) si no ha recibido el enlace de restablecimiento de contraseña en su bandeja de entrada.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
     "deck": "03_Languages::English::02_Professional::Interview_Skills",
     "scenario": "Workplace: Job Interview 💼",
     "text": "During the interview, she explained: \"I {{c1::spearheaded the optimization}} of our CI/CD pipelines, which {{c2::streamlined our deployment cycle}} by 40%.\"",
@@ -2121,6 +3213,123 @@
     ]
   },
   {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Particularly Proud 👔",
+    "text": "Could you walk me through your background and describe a project you are {{c1::particularly proud of}}?",
+    "explanation": "To be 'particularly proud of' means to feel a deep sense of satisfaction or accomplishment regarding a specific work piece or result.",
+    "usage": "Pattern: <code>particularly proud of [project / achievement]</code><ul><li><code>I am particularly proud of the database migration we completed last month.</code></li><li><code>She is particularly proud of her team's growth.</code></li></ul>",
+    "spanish": "¿Podría guiarme a través de su trayectoria y describir un proyecto del cual esté especialmente orgulloso?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Under Pressure 👔",
+    "text": "When faced with tight deadlines, how do you prioritize tasks and manage {{c1::under pressure}}?",
+    "explanation": "To manage or work 'under pressure' means to maintain high performance, focus, and emotional control during high-stress conditions.",
+    "usage": "Pattern: <code>work under pressure / perform under pressure</code><ul><li><code>Our ideal candidate must be able to work under pressure.</code></li><li><code>I have learned to stay calm and organized under pressure.</code></li></ul>",
+    "spanish": "Cuando se enfrenta a plazos de entrega ajustados, ¿cómo prioriza las tareas y se desenvuelve bajo presión?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Within Company 👔",
+    "text": "I am looking for a role where I can apply my skills and grow {{c1::within the company}}.",
+    "explanation": "To grow 'within the company' means to advance your career path, receive promotions, and take on new roles inside the same organization over time.",
+    "usage": "Pattern: <code>grow within the company / internal promotion</code><ul><li><code>There are many opportunities to grow within the company.</code></li><li><code>I want to build a long-term career and grow within the company.</code></li></ul>",
+    "spanish": "Estoy buscando un puesto donde pueda aplicar mis habilidades y crecer dentro de la empresa.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Core Values 👔",
+    "text": "Why are you interested in joining our team, and what do you know about our {{c1::core values}}?",
+    "explanation": "'Core values' are the fundamental beliefs and guiding principles that dictate behavior, decisions, and culture inside an organization.",
+    "usage": "Pattern: <code>core values / company culture</code><ul><li><code>Our core values include integrity, innovation, and teamwork.</code></li><li><code>Aligning with the company's core values is essential.</code></li></ul>",
+    "spanish": "¿Por qué está interesado en unirse a nuestro equipo, y qué sabe sobre nuestros valores fundamentales?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Conflict Resolution 👔",
+    "text": "Could you give me an example of a time you had a conflict with a coworker and how you {{c1::resolved it}}?",
+    "explanation": "To 'resolve a conflict' means to settle a disagreement, dispute, or friction between coworkers in a professional, constructive manner.",
+    "usage": "Pattern: <code>resolve a conflict / settle a dispute</code><ul><li><code>We resolved the conflict by scheduling a private discussion.</code></li><li><code>HR helps employees resolve conflicts in the office.</code></li></ul>",
+    "spanish": "¿Podría darme un ejemplo de alguna ocasión en la que haya tenido un conflicto con un compañero de trabajo y cómo lo resolvió?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Work Independently 👔",
+    "text": "I am comfortable working in both collaborative team environments and {{c1::independently}}.",
+    "explanation": "To work 'independently' means to execute tasks, make decisions, and manage your time without constant supervision or direction.",
+    "usage": "Pattern: <code>work independently / self-directed</code><ul><li><code>This role requires someone who can work independently with minimal guidance.</code></li><li><code>He is capable of working independently on complex tasks.</code></li></ul>",
+    "spanish": "Me siento cómodo trabajando tanto en entornos de equipo colaborativos como de manera independiente.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Salary Expectations 👔",
+    "text": "What are your salary expectations for this position, and do you have any {{c1::flexibility}}?",
+    "explanation": "'Salary expectations' refer to the target compensation range an applicant wants to earn in a new job. Asking about 'flexibility' queries if they are open to negotiation.",
+    "usage": "Pattern: <code>salary expectations / target compensation</code><ul><li><code>My salary expectations are in the range of $80,000 to $90,000.</code></li><li><code>We discussed salary expectations during the initial phone screening.</code></li></ul>",
+    "spanish": "¿Cuáles son sus expectativas salariales para este puesto, y tiene alguna flexibilidad?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Next Steps 👔",
+    "text": "Thank you for your time today; I look forward to hearing about the {{c1::next steps}} in the process.",
+    "explanation": "The 'next steps' in a recruiting process refer to the subsequent phases (e.g. technical interview, reference checks, final offer).",
+    "usage": "Pattern: <code>next steps / follow-up process</code><ul><li><code>What are the next steps in your hiring process?</code></li><li><code>The recruiter will contact you regarding the next steps.</code></li></ul>",
+    "spanish": "Gracias por su tiempo hoy; espero con interés saber de los siguientes pasos en el proceso.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Team Dynamics 👔",
+    "text": "Do you have any questions for us about the role or the team {{c1::dynamics}}?",
+    "explanation": "'Team dynamics' refer to the psychological forces and behavioral relationships that influence how a team communicates and collaborates.",
+    "usage": "Pattern: <code>team dynamics / working relationships</code><ul><li><code>I want to ask about the team dynamics and how tasks are assigned.</code></li><li><code>Resolving conflict is crucial to maintaining positive team dynamics.</code></li></ul>",
+    "spanish": "¿Tiene alguna pregunta para nosotros sobre el puesto o la dinámica del equipo?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
     "deck": "03_Languages::English::02_Professional::Manager_Role",
     "scenario": "Manager Role: Delegating Tasks 📋",
     "text": "I'd like you to {{c1::take the lead on}} this integration, but feel free to escalate if you hit any roadblocks.",
@@ -2131,6 +3340,123 @@
       "business_english",
       "professional",
       "manager_role"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Meet Targets 👥",
+    "text": "It is my responsibility to delegate tasks and ensure my team has the support they need to {{c1::meet their targets}}.",
+    "explanation": "To 'meet targets' means to achieve the specific goals, performance levels, or metrics set by company leadership.",
+    "usage": "Pattern: <code>meet targets / achieve goals</code><ul><li><code>The sales team worked hard to meet their targets this quarter.</code></li><li><code>We did not meet our performance targets last year.</code></li></ul>",
+    "spanish": "Es mi responsabilidad delegar tareas y asegurar que mi equipo tenga el apoyo que necesita para cumplir con sus metas/objetivos.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Remove Blockers 👥",
+    "text": "We need to hold weekly one-on-one meetings to check in on progress and remove any {{c1::blockers}}.",
+    "explanation": "A 'blocker' (or impediment) is an issue, bug, or dependency that prevents a team member from making progress on their tasks.",
+    "usage": "Pattern: <code>remove blockers / clear roadblocks</code><ul><li><code>My primary job as a manager is to remove blockers for my devs.</code></li><li><code>Do you have any blockers keeping you from finishing the script?</code></li></ul>",
+    "spanish": "Necesitamos realizar reuniones individuales semanales para revisar el progreso y eliminar cualquier bloqueador/impedimento.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Full Potential 👥",
+    "text": "My goal is to support my team's professional development and help them {{c1::reach their full potential}}.",
+    "explanation": "To 'reach your full potential' means to develop your talents, skills, and career capabilities to the maximum possible level.",
+    "usage": "Pattern: <code>reach full potential / unlock potential</code><ul><li><code>A good leader helps their employees reach their full potential.</code></li><li><code>Mentorship is key to helping junior devs reach their full potential.</code></li></ul>",
+    "spanish": "Mi objetivo es apoyar el desarrollo profesional de mi equipo y ayudarles a alcanzar su máximo potencial.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Team Morale 👥",
+    "text": "We must manage our team's workload carefully to prevent burnout and maintain high {{c1::morale}}.",
+    "explanation": "'Morale' refers to the enthusiasm, confidence, and mental state of a group or team regarding their tasks and work environment.",
+    "usage": "Pattern: <code>boost morale / low morale</code><ul><li><code>Missing targets led to low morale in the sales department.</code></li><li><code>The team-building event was organized to boost morale.</code></li></ul>",
+    "spanish": "Debemos gestionar el volumen de trabajo de nuestro equipo cuidadosamente para evitar el agotamiento y mantener la moral alta.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Avoid Duplication 👥",
+    "text": "I need to coordinate with other department heads to align our resource allocation and {{c1::avoid duplication of effort}}.",
+    "explanation": "To 'avoid duplication of effort' means to organize work so that two different people or teams do not spend resources doing the exact same task independently.",
+    "usage": "Pattern: <code>avoid duplication of effort / streamline work</code><ul><li><code>We merged the codebases to avoid duplication of effort.</code></li><li><code>Communication is essential to avoid duplication of effort in large projects.</code></li></ul>",
+    "spanish": "Necesito coordinar con otros jefes de departamento para alinear nuestra asignación de recursos y evitar la duplicación de esfuerzos.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Public Praise 👥",
+    "text": "We will recognize outstanding performance by offering bonuses and public {{c1::praise}}.",
+    "explanation": "'Praise' refers to expressions of approval, commendation, or admiration. Offering 'public praise' honors someone's achievements in front of their peers.",
+    "usage": "Pattern: <code>public praise / praise employees</code><ul><li><code>Praise in public and criticize in private.</code></li><li><code>The CEO offered public praise to the migration team.</code></li></ul>",
+    "spanish": "Reconoceremos el rendimiento sobresaliente ofreciendo bonos y elogios/reconocimiento público.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Senior Stakeholders 👥",
+    "text": "I need to review our team's performance data and present the findings to senior {{c1::stakeholders}}.",
+    "explanation": "A 'stakeholder' is anyone who has an interest or investment in a business or project. 'Senior stakeholders' typically refer to directors, executives, or clients.",
+    "usage": "Pattern: <code>senior stakeholders / key stakeholders</code><ul><li><code>We must keep our senior stakeholders informed of project delays.</code></li><li><code>The requirements were defined by the key stakeholders.</code></li></ul>",
+    "spanish": "Necesito revisar los datos de rendimiento de nuestro equipo y presentar los hallazgos a las partes interesadas/directivos sénior.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Expected of Them 👥",
+    "text": "We must establish clear performance guidelines so everyone knows what is {{c1::expected of them}}.",
+    "explanation": "What is 'expected of someone' refers to the tasks, behaviors, or results they are responsible for delivering in their role.",
+    "usage": "Pattern: <code>expected of [someone] / job expectations</code><ul><li><code>You did not meet what was expected of you this month.</code></li><li><code>Clear communication helps everyone understand what is expected of them.</code></li></ul>",
+    "spanish": "Debemos establecer pautas de rendimiento claras para que todos sepan qué es esperado de ellos.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Escalate Issues 👥",
+    "text": "I am here to support you; please let me know if you need to {{c1::escalate}} any issues.",
+    "explanation": "To 'escalate' an issue means to refer a problem or task to a higher authority or senior manager because it cannot be resolved at the current level.",
+    "usage": "Pattern: <code>escalate issues / escalate a ticket</code><ul><li><code>If the client is still unhappy, escalate the call to me.</code></li><li><code>We had to escalate the database outage to the operations director.</code></li></ul>",
+    "spanish": "Estoy aquí para apoyarle; por favor hágame saber si necesita escalar/elevar a un nivel superior cualquier problema.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
     ]
   },
   {
@@ -2186,6 +3512,84 @@
     ]
   },
   {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Tangents ⏱️",
+    "text": "Let's keep this meeting productive by stick to the agenda and avoiding {{c1::going off on tangents}}.",
+    "explanation": "To 'go off on a tangent' means to suddenly start talking about a subject that is not directly related to the main topic of conversation.",
+    "usage": "Pattern: <code>go off on a tangent / deviate from agenda</code><ul><li><code>We wasted fifteen minutes because the speaker went off on a tangent.</code></li><li><code>Let's focus on the bug and avoid going off on tangents.</code></li></ul>",
+    "spanish": "Mantengamos esta reunión productiva apegándonos a la agenda y evitando irnos por las ramas/desviarnos del tema.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Straight to Point ⏱️",
+    "text": "We only have thirty minutes, so let's {{c1::get straight to the point}}.",
+    "explanation": "To 'get straight to the point' means to address the most important matter directly, without wasting time on introductory or irrelevant remarks.",
+    "usage": "Pattern: <code>get straight to the point / cut to the chase</code><ul><li><code>I'll get straight to the point: our server was hacked.</code></li><li><code>Baristas appreciate it when customers get straight to the point.</code></li></ul>",
+    "spanish": "Solo tenemos treinta minutos, así que vayamos directo al grano.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Action Items ⏱️",
+    "text": "Could you please send out the meeting minutes and list the {{c1::action items}} by end of day?",
+    "explanation": "An 'action item' is a specific task, chore, or action identified during a meeting that must be executed by a designated team member.",
+    "usage": "Pattern: <code>action items / list of tasks</code><ul><li><code>We assigned the action items to the developers.</code></li><li><code>Please review your action items before the next sync.</code></li></ul>",
+    "spanish": "¿Podrías por favor enviar la minuta de la reunión y listar las tareas pendientes/puntos de acción para el final del día?",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Realign Goals ⏱️",
+    "text": "Let's schedule a brief stand-up meeting tomorrow to check in on our progress and {{c1::realign}}.",
+    "explanation": "To 'realign' means to adjust or coordinate resources, strategies, or team members back into correct alignment or agreement regarding goals.",
+    "usage": "Pattern: <code>realign resources / realign expectations</code><ul><li><code>We need to realign our strategy to match the new budget.</code></li><li><code>The team met to realign after the project scope changed.</code></li></ul>",
+    "spanish": "Agendemos una breve reunión diaria (stand-up) mañana para revisar nuestro progreso y volver a alinearnos.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: On Schedule ⏱️",
+    "text": "We need to respect everyone's time and make sure we start and end our meetings {{c1::on schedule}}.",
+    "explanation": "'On schedule' (or on time) means at the planned or expected time, according to the timetable or agenda.",
+    "usage": "Pattern: <code>on schedule / behind schedule / ahead of schedule</code><ul><li><code>The train arrived exactly on schedule.</code></li><li><code>We must complete the deployment on schedule.</code></li></ul>",
+    "spanish": "Necesitamos respetar el tiempo de todos y asegurarnos de comenzar y terminar nuestras reuniones a tiempo/según lo programado.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Key Decisions ⏱️",
+    "text": "Please review the prep materials before the meeting so we can focus on making {{c1::key decisions}}.",
+    "explanation": "A 'key decision' is a highly important or critical resolution that determines the path, budget, or success of a project or firm.",
+    "usage": "Pattern: <code>make key decisions / decisive actions</code><ul><li><code>The board met to make key decisions regarding the merger.</code></li><li><code>We need senior management to make key decisions on the architecture.</code></li></ul>",
+    "spanish": "Por favor, revise los materiales de preparación antes de la reunión para que podamos enfocarnos en tomar decisiones clave.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
     "deck": "03_Languages::English::02_Professional::Negotiations",
     "scenario": "English Advanced: Contract Negotiation 📑",
     "text": "We cannot agree to these terms unless you include a {{c1::termination clause}} for convenience.",
@@ -2209,6 +3613,110 @@
       "workplace",
       "negotiation",
       "compensation"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Payment Terms 🤝",
+    "text": "We are willing to make concessions, but we need you to match us on the {{c1::payment terms}}.",
+    "explanation": "'Payment terms' are the conditions under which a seller will complete a sale, specifying when payment is due and any discounts or fees (e.g. Net 30).",
+    "usage": "Pattern: <code>payment terms / Net 30 / Net 60</code><ul><li><code>The contract specifies payment terms of Net 45.</code></li><li><code>We negotiated better payment terms with our main vendor.</code></li></ul>",
+    "spanish": "Estamos dispuestos a hacer concesiones, pero necesitamos que esté de acuerdo con nosotros en las condiciones de pago.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Long Run 🤝",
+    "text": "Our goal is to reach a win-win agreement that benefits both parties in the {{c1::long run}}.",
+    "explanation": "The 'long run' is an idiomatic expression referring to a long period of time in the future, as opposed to the immediate present.",
+    "usage": "Pattern: <code>in the long run / long-term</code><ul><li><code>This software is expensive, but it will save us money in the long run.</code></li><li><code>Our decisions must benefit the project in the long run.</code></li></ul>",
+    "spanish": "Nuestra meta es llegar a un acuerdo de beneficio mutuo que beneficie a ambas partes a largo plazo.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Guidelines 🤝",
+    "text": "We cannot accept these terms; they do not align with our risk management {{c1::guidelines}}.",
+    "explanation": "'Guidelines' are official rules, principles, or instructions that dictate how a task or business policy must be conducted.",
+    "usage": "Pattern: <code>guidelines / company policy</code><ul><li><code>Please review the branding guidelines before making the logo.</code></li><li><code>Our risk management guidelines prohibit this setup.</code></li></ul>",
+    "spanish": "No podemos aceptar estas condiciones; no se alinean con nuestras directrices/pautas de gestión de riesgos.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Bulk Orders 🤝",
+    "text": "Let's discuss the pricing structure: is there any room for a discount on {{c1::bulk orders}}?",
+    "explanation": "A 'bulk order' (or bulk purchase) is an order for a very large quantity of a product, which typically qualifies for a discount.",
+    "usage": "Pattern: <code>bulk order / bulk discount</code><ul><li><code>We save 20% on paper supplies by placing a bulk order.</code></li><li><code>The supplier offers a discount for bulk orders.</code></li></ul>",
+    "spanish": "Hablemos de la estructura de precios: ¿hay algún margen para un descuento en pedidos al por mayor?",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Compromise Quality 🤝",
+    "text": "We value our partnership and want to find a solution that doesn't {{c1::compromise quality}}.",
+    "explanation": "To 'compromise quality' means to accept a lower standard or degrade the quality of a product or service, often to save money or time.",
+    "usage": "Pattern: <code>compromise quality / lower standards</code><ul><li><code>We want to reduce costs, but we will never compromise quality.</code></li><li><code>Cutting budget now might compromise the quality of the release.</code></li></ul>",
+    "spanish": "Valoramos nuestra asociación y queremos encontrar una solución que no comprometa la calidad.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Service Fee 🤝",
+    "text": "Could we extend the contract duration in exchange for a lower annual service {{c1::fee}}?",
+    "explanation": "A 'service fee' is a charge made by a business for performing work or services for a client (distinct from product cost).",
+    "usage": "Pattern: <code>service fee / annual fee</code><ul><li><code>The contract includes an annual maintenance service fee.</code></li><li><code>The bank charges a service fee for international transfers.</code></li></ul>",
+    "spanish": "¿Podríamos extender la duración del contrato a cambio de una tarifa/cuota de servicio anual más baja?",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Review Clauses 🤝",
+    "text": "Before we sign the agreement, we need to consult with our legal counsel to {{c1::review the clauses}}.",
+    "explanation": "To 'review the clauses' means to read and evaluate the specific sections, paragraphs, or provisions of a legal contract to ensure they are acceptable.",
+    "usage": "Pattern: <code>review the clauses / contract clauses</code><ul><li><code>Our legal team needs to review the liability clauses.</code></li><li><code>We requested changes to the termination clauses.</code></li></ul>",
+    "spanish": "Antes de firmar el acuerdo, necesitamos consultar con nuestro asesor legal para revisar las cláusulas.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Negotiations",
+    "scenario": "Negotiations: Finalize Contract 🤝",
+    "text": "We have reached an agreement on the scope, so let's move forward and {{c1::finalize the contract}}.",
+    "explanation": "To 'finalize the contract' means to complete the last details of a legal agreement and prepare it for signing by both parties.",
+    "usage": "Pattern: <code>finalize the contract / sign contract</code><ul><li><code>We are meeting tomorrow to finalize the contract.</code></li><li><code>Once we finalize the contract, we can begin production.</code></li></ul>",
+    "spanish": "Hemos llegado a un acuerdo sobre el alcance, así que sigamos adelante y finalicemos el contrato.",
+    "tags": [
+      "english_scenario",
+      "negotiations",
+      "business_english"
     ]
   },
   {
@@ -2261,6 +3769,84 @@
     ]
   },
   {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Share Afterwards 🖥️",
+    "text": "Could you please take notes during the presentation and share them with the team {{c1::afterwards}}?",
+    "explanation": "'Afterwards' is an adverb meaning at a later or subsequent time; after something else has occurred.",
+    "usage": "Pattern: <code>afterwards / after the meeting</code><ul><li><code>We had a brief discussion afterwards.</code></li><li><code>She completed the task and left immediately afterwards.</code></li></ul>",
+    "spanish": "¿Podrías por favor tomar notas durante la presentación y compartirlas con el equipo después/posteriormente?",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Expertise Area 🖥️",
+    "text": "Let's go around the table and have everyone briefly introduce themselves and their {{c1::area of expertise}}.",
+    "explanation": "An 'area of expertise' is the specific field, subject, or skill set in which a person is highly knowledgeable or skilled.",
+    "usage": "Pattern: <code>area of expertise / domain knowledge</code><ul><li><code>Database performance tuning is my main area of expertise.</code></li><li><code>We hired consultants with expertise in cloud migration.</code></li></ul>",
+    "spanish": "Hagamos una ronda en la mesa para que todos se presenten brevemente y mencionen su área de especialización.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Landing Page 🖥️",
+    "text": "I'd like to share my screen to show you the latest mockup designs for the {{c1::landing page}}.",
+    "explanation": "A 'landing page' is the specific web page that a user arrives at after clicking a link or advertisement, designed to convert visitors.",
+    "usage": "Pattern: <code>landing page / homepage</code><ul><li><code>We optimized the landing page to increase sign-ups.</code></li><li><code>The marketing campaign directs traffic to a custom landing page.</code></li></ul>",
+    "spanish": "Me gustaría compartir mi pantalla para mostrarles los últimos diseños de maqueta para la página de destino (inicio).",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Q&A Session 🖥️",
+    "text": "Let's reserve the last ten minutes of the meeting for a quick Q&A session to address any {{c1::remaining questions}}.",
+    "explanation": "A 'Q&A session' (Question and Answer) is a dedicated time during a meeting or presentation for the audience to ask questions of the speaker.",
+    "usage": "Pattern: <code>Q&A session / questions and answers</code><ul><li><code>The webinar ended with a lively Q&A session.</code></li><li><code>We will take questions during the Q&A session at the end.</code></li></ul>",
+    "spanish": "Reservemos los últimos diez minutos de la reunión para una sesión rápida de preguntas y respuestas para abordar cualquier pregunta restante.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Proposal Iteration 🖥️",
+    "text": "I agree with your suggestion, let's incorporate that feedback into the next iteration of the {{c1::proposal}}.",
+    "explanation": "A 'proposal' is a formal written document or offer presented to others for consideration, typically detailing a plan, budget, or contract.",
+    "usage": "Pattern: <code>project proposal / business proposal</code><ul><li><code>We submitted our proposal to the client yesterday.</code></li><li><code>The board will review the proposal at the next meeting.</code></li></ul>",
+    "spanish": "Estoy de acuerdo con su sugerencia, incorporemos esa retroalimentación en la próxima iteración de la propuesta.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Office_Meetings",
+    "scenario": "Office: Agenda Items 🖥️",
+    "text": "Before we begin, let's quickly review the {{c1::agenda items}} to make sure we allocate our time properly.",
+    "explanation": "Agenda items are the individual topics or tasks scheduled to be discussed during a meeting.",
+    "usage": "Pattern: <code>agenda items / meeting agenda</code><ul><li><code>We have five agenda items to cover today.</code></li><li><code>Please add this topic to the agenda items for next week.</code></li></ul>",
+    "spanish": "Antes de comenzar, revisemos rápidamente los puntos de la agenda para asegurarnos de asignar nuestro tiempo adecuadamente.",
+    "tags": [
+      "english_scenario",
+      "office_meetings",
+      "business_english"
+    ]
+  },
+  {
     "deck": "03_Languages::English::02_Professional::Running_Meetings",
     "scenario": "Running Meetings: Keeping on Track ⏱️",
     "text": "Let's not {{c1::get bogged down in}} the implementation details during this high-level sync.",
@@ -2271,6 +3857,123 @@
       "business_english",
       "professional",
       "running_meetings"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Key Objectives 🎤",
+    "text": "Welcome everyone; let's start by reviewing the agenda for today's call and identifying our {{c1::key objectives}}.",
+    "explanation": "'Key objectives' are the primary, most important goals or outcomes that a meeting or project is designed to achieve.",
+    "usage": "Pattern: <code>key objectives / main goals</code><ul><li><code>The key objectives of this phase are database cleanup and indexing.</code></li><li><code>What are the key objectives for today's meeting?</code></li></ul>",
+    "spanish": "Bienvenidos todos; comencemos revisando la agenda para la llamada de hoy e identificando nuestros objetivos clave.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Voice Opinion 🎤",
+    "text": "I'll be facilitating the discussion today, and I want to make sure everyone has an opportunity to {{c1::voice their opinion}}.",
+    "explanation": "To 'voice your opinion' means to express your thoughts, beliefs, or views on a subject openly and publicly.",
+    "usage": "Pattern: <code>voice opinion / express views</code><ul><li><code>Employees are encouraged to voice their opinions in team surveys.</code></li><li><code>He was not afraid to voice his opinion during the board meeting.</code></li></ul>",
+    "spanish": "Estaré moderando la discusión hoy, y quiero asegurarme de que todos tengan la oportunidad de expresar su opinión.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Time Check 🎤",
+    "text": "Let's keep an eye on the time: we need to move on to the next topic on the agenda in {{c1::five minutes}}.",
+    "explanation": "To 'keep an eye on the time' means to monitor the clock continuously to ensure the meeting doesn't run late.",
+    "usage": "Pattern: <code>keep an eye on the time / track time</code><ul><li><code>We must keep an eye on the time to avoid missing our flight.</code></li><li><code>I am keeping an eye on the time so we finish before noon.</code></li></ul>",
+    "spanish": "Estemos atentos al tiempo: necesitamos pasar al siguiente tema de la agenda en cinco minutos.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Marketing Campaign 🎤",
+    "text": "Could you please keep your updates concise so we have enough time to discuss the new {{c1::marketing campaign}}?",
+    "explanation": "A 'marketing campaign' is an organized, strategic course of action to promote a product, service, or brand across media channels.",
+    "usage": "Pattern: <code>marketing campaign / advertising campaign</code><ul><li><code>We are launching a new marketing campaign next week.</code></li><li><code>The marketing campaign resulted in a 30% increase in traffic.</code></li></ul>",
+    "spanish": "¿Podría por favor mantener sus actualizaciones breves para que tengamos suficiente tiempo para discutir la nueva campaña de marketing?",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Adjourn Meeting 🎤",
+    "text": "Let's summarize the main points we've agreed on before we adjourn the meeting for {{c1::today}}.",
+    "explanation": "To 'adjourn the meeting' is formal language meaning to temporarily end or suspend a meeting or assembly.",
+    "usage": "Pattern: <code>adjourn the meeting / end the session</code><ul><li><code>The committee decided to adjourn the meeting until next Tuesday.</code></li><li><code>The chairman adjourned the meeting at 4:00 PM.</code></li></ul>",
+    "spanish": "Resumamos los puntos principales en los que hemos estado de acuerdo antes de levantar la sesión por hoy.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Approve Minutes 🎤",
+    "text": "If there are no objections, let's approve the previous meeting minutes and move to the {{c1::first item}}.",
+    "explanation": "To 'approve the minutes' is the formal process in business meetings of verifying that the written record of the previous meeting is accurate.",
+    "usage": "Pattern: <code>approve the minutes / review minutes</code><ul><li><code>The board voted to approve the minutes of the January meeting.</code></li><li><code>First, we must approve the minutes before discussing new business.</code></li></ul>",
+    "spanish": "Si no hay objeciones, aprobemos la minuta de la reunión anterior y pasemos al primer punto.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Share Insights 🎤",
+    "text": "I'd like to invite our guest speaker to share their insights on industry trends and customer {{c1::behavior}}.",
+    "explanation": "To 'share insights' means to explain deep understandings, professional knowledge, or analytical conclusions about a topic to others.",
+    "usage": "Pattern: <code>share insights / offer recommendations</code><ul><li><code>The analyst shared valuable insights on market growth.</code></li><li><code>Thank you for sharing your insights with us today.</code></li></ul>",
+    "spanish": "Me gustaría invitar a nuestro orador invitado a compartir sus conocimientos/perspectivas sobre las tendencias de la industria y el comportamiento del cliente.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Topic at Hand 🎤",
+    "text": "Let's stay focused on the topic at hand; we can discuss other issues during our next scheduled {{c1::sync call}}.",
+    "explanation": "The 'topic at hand' is the specific subject, problem, or agenda item currently being discussed or addressed.",
+    "usage": "Pattern: <code>topic at hand / current subject</code><ul><li><code>Please limit your questions to the topic at hand.</code></li><li><code>The manager guided the team back to the topic at hand.</code></li></ul>",
+    "spanish": "Mantengámonos enfocados en el tema en cuestión; podemos discutir otros asuntos durante nuestra próxima llamada de sincronización programada.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Active Participation 🎤",
+    "text": "Thank you for your active participation today; I will send out a follow-up email with the next steps {{c1::shortly}}.",
+    "explanation": "'Active participation' refers to actively engaging, speaking, and contributing value during a group meeting or workshop.",
+    "usage": "Pattern: <code>active participation / engage in discussion</code><ul><li><code>The success of the brainstorming session depended on everyone's active participation.</code></li><li><code>Thank you all for your active participation today.</code></li></ul>",
+    "spanish": "Gracias por su participación activa hoy; enviaré un correo electrónico de seguimiento con los siguientes pasos en breve.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
     ]
   },
   {
@@ -2323,6 +4026,84 @@
       "english_scenario",
       "support_english",
       "appreciation"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Business Operations 📞",
+    "text": "I appreciate your patience while we work to resolve this issue; I understand how important this is to your {{c1::business operations}}.",
+    "explanation": "'Business operations' refers to the core activities, systems, and processes that a company executes daily to deliver value and generate revenue.",
+    "usage": "Pattern: <code>business operations / day-to-day operations</code><ul><li><code>A major database crash can disrupt critical business operations.</code></li><li><code>We must resume business operations as quickly as possible.</code></li></ul>",
+    "spanish": "Agradezco su paciencia mientras trabajamos para resolver este problema; entiendo lo importante que es esto para sus operaciones comerciales.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Quickly as Possible 📞",
+    "text": "I apologize for the inconvenience this has caused you, and I am committed to making this right as {{c1::quickly as possible}}.",
+    "explanation": "'As quickly as possible' (or ASAP) is a common phrase indicating that a task should be executed with the maximum speed and urgency.",
+    "usage": "Pattern: <code>as quickly as possible / with high urgency</code><ul><li><code>Please restore the website connection as quickly as possible.</code></li><li><code>We will process your refund as quickly as possible.</code></li></ul>",
+    "spanish": "Le pido disculpas por el inconveniente que esto le ha causado, y me comprometo a corregir esto tan rápido como sea posible.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Immediate Attention 📞",
+    "text": "I hear your concerns, and I will escalate this ticket to our senior engineering team for immediate {{c1::attention}}.",
+    "explanation": "'Immediate attention' refers to high-priority focus and action required immediately to resolve a critical issue or complaint.",
+    "usage": "Pattern: <code>requires immediate attention / top priority</code><ul><li><code>The security breach requires immediate attention from the director.</code></li><li><code>We will give this matter our immediate attention.</code></li></ul>",
+    "spanish": "Escucho sus preocupaciones, y escalaré este ticket a nuestro equipo de ingeniería sénior para su atención inmediata.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Step of Way 📞",
+    "text": "Please rest assured that we are taking this matter very seriously and will keep you updated every step of the {{c1::way}}.",
+    "explanation": "To keep someone updated 'every step of the way' means to provide regular, detailed updates at each milestone or phase of a process.",
+    "usage": "Pattern: <code>every step of the way / continuous updates</code><ul><li><code>Our support team will guide you every step of the way during migration.</code></li><li><code>We will keep you informed every step of the way.</code></li></ul>",
+    "spanish": "Tenga la seguridad de que nos estamos tomando este asunto muy en serio y le mantendremos informado en cada paso del camino.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Fully Restored 📞",
+    "text": "I know this is frustrating, but I will stay on the line with you until we verify that your connection is {{c1::fully restored}}.",
+    "explanation": "To be 'fully restored' means that a system or network connection has returned to 100% capacity, stability, and functionality after an outage.",
+    "usage": "Pattern: <code>fully restored / connection restored</code><ul><li><code>The database backup is complete, and services are fully restored.</code></li><li><code>We will not close the ticket until service is fully restored.</code></li></ul>",
+    "spanish": "Sé que esto es frustrante, pero permaneceré en la línea con usted hasta que verifiquemos que su conexión está totalmente restaurada.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Support_Empathy_and_Containment",
+    "scenario": "Support: Bring to Attention 📞",
+    "text": "Thank you for bringing this to our attention; your feedback helps us improve our service for {{c1::all our customers}}.",
+    "explanation": "To 'bring [something] to someone's attention' means to notify them or make them aware of a problem, mistake, or issue.",
+    "usage": "Pattern: <code>bring to attention / point out a bug</code><ul><li><code>Thank you for bringing this calculation error to our attention.</code></li><li><code>He brought the database memory leak to my attention.</code></li></ul>",
+    "spanish": "Gracias por llamar nuestra atención sobre esto; sus comentarios nos ayudan a mejorar nuestro servicio para todos nuestros clientes.",
+    "tags": [
+      "english_scenario",
+      "support_empathy",
+      "business_english"
     ]
   },
   {
@@ -2443,6 +4224,19 @@
     ]
   },
   {
+    "deck": "03_Languages::English::02_Professional::Technical_Negotiation_and_RCA",
+    "scenario": "RCA: Peak Traffic 💻",
+    "text": "We need to conduct a Root Cause Analysis (RCA) to determine why the database crashed during the {{c1::peak traffic hour}}.",
+    "explanation": "'Peak traffic hour' refers to the specific time of day when a web service or network receives the highest volume of users or transactions.",
+    "usage": "Pattern: <code>peak traffic / high load times</code><ul><li><code>Our infrastructure must scale up automatically during peak traffic.</code></li><li><code>Latency spikes occur mostly during peak traffic hours.</code></li></ul>",
+    "spanish": "Necesitamos realizar un Análisis de Causa Raíz (RCA) para determinar por qué la base de datos colapsó durante la hora de mayor tráfico.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
     "deck": "03_Languages::English::03_Socializing::Dating",
     "scenario": "Dating & Socializing 💬",
     "text": "Would you like to {{c1::grab a drink}} sometime?",
@@ -2463,6 +4257,110 @@
     "spanish": "La pasé genial esta noche, deberíamos repetir esto.",
     "tags": [
       "english_scenario",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::Dating",
+    "scenario": "Socializing: Bite to Eat 💬",
+    "text": "Would you like to go out for a cup of coffee sometime next week, or perhaps grab a {{c1::bite to eat}}?",
+    "explanation": "To 'grab a bite to eat' is a highly common, informal idiom meaning to get a quick meal or snack together.",
+    "usage": "Pattern: <code>grab a bite to eat / get lunch</code><ul><li><code>Let's grab a bite to eat before the movie starts.</code></li><li><code>I only have fifteen minutes to grab a bite to eat.</code></li></ul>",
+    "spanish": "¿Te gustaría salir a tomar una taza de café en algún momento de la próxima semana, o tal vez comer algo rápido?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::Dating",
+    "scenario": "Socializing: Favorite Spot 💬",
+    "text": "I had a wonderful time tonight; thank you for showing me your favorite spot in the {{c1::city}}.",
+    "explanation": "A 'favorite spot' refers to a person's preferred place (like a cafe, park view, or hidden bar) for leisure or dining.",
+    "usage": "Pattern: <code>favorite spot / local hangout</code><ul><li><code>This coffee shop is my favorite spot for reading.</code></li><li><code>She showed me her favorite spot in the botanical gardens.</code></li></ul>",
+    "spanish": "La pasé de maravilla esta noche; gracias por mostrarme tu lugar favorito en la ciudad.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::Dating",
+    "scenario": "Socializing: Talk About 💬",
+    "text": "Let me know when you are free; I'd love to take you out to that new Italian restaurant we talked {{c1::about}}.",
+    "explanation": "To 'talk about' something is the phrasal verb meaning to discuss a topic or place in conversation.",
+    "usage": "Pattern: <code>talk about [place / topic]</code><ul><li><code>This is the book I was talking about yesterday.</code></li><li><code>We talked about the database design for hours.</code></li></ul>",
+    "spanish": "Avísame cuando estés libre; me encantaría llevarte a ese nuevo restaurante italiano del que hablamos.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::Dating",
+    "scenario": "Socializing: Sense of Humor 💬",
+    "text": "I really enjoy talking to you; we seem to have a lot of common interests and share a similar {{c1::sense of humor}}.",
+    "explanation": "A 'sense of humor' is a person's capability to perceive, appreciate, or express what is funny or amusing.",
+    "usage": "Pattern: <code>sense of humor / witty / dry humor</code><ul><li><code>He has a dry sense of humor that is hard to understand at first.</code></li><li><code>A shared sense of humor is key to a good relationship.</code></li></ul>",
+    "spanish": "Realmente disfruto hablar contigo; parece que tenemos muchos intereses en común y compartimos un sentido del humor similar.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::Dating",
+    "scenario": "Socializing: Date Plans 💬",
+    "text": "Are you free this weekend, or do you already have plans with your {{c1::friends}}?",
+    "explanation": "To 'have plans' means to have pre-arranged activities or commitments with friends or family.",
+    "usage": "Pattern: <code>have plans / busy this weekend</code><ul><li><code>I'd love to come, but I already have plans.</code></li><li><code>Do you have plans for the holidays?</code></li></ul>",
+    "spanish": "¿Estás libre este fin de semana, o ya tienes planes con tus amigos?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::Dating",
+    "scenario": "Socializing: Keep in Touch 💬",
+    "text": "I'd love to see you again; let's keep in touch and schedule something for next {{c1::weekend}}.",
+    "explanation": "To 'keep in touch' is an idiom meaning to maintain communication or contact with someone over time.",
+    "usage": "Pattern: <code>keep in touch / stay in contact</code><ul><li><code>We promised to keep in touch after graduation.</code></li><li><code>Let's keep in touch via email.</code></li></ul>",
+    "spanish": "Me encantaría verte de nuevo; mantengámonos en contacto y programemos algo para el próximo fin de semana.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::Dating",
+    "scenario": "Socializing: Pay Next Time 💬",
+    "text": "Thank you for the dinner; it was very kind of you to treat me, and I'd like to pay next {{c1::time}}.",
+    "explanation": "To 'pay next time' is a polite dating convention indicating that the recipient of a free meal wants to reciprocate by paying for the next date.",
+    "usage": "Pattern: <code>pay next time / my treat next time</code><ul><li><code>You paid today, so let me pay next time.</code></li><li><code>She insisted on paying next time.</code></li></ul>",
+    "spanish": "Gracias por la cena; fue muy amable de tu parte invitarme, y me gustaría pagar la próxima vez.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::Dating",
+    "scenario": "Socializing: Know Each Other Better 💬",
+    "text": "Let's go for a walk in the park; it's a beautiful day and a great opportunity to chat and get to {{c1::know each other better}}.",
+    "explanation": "To 'get to know each other better' means to learn more about a person's life, opinions, and character through conversation and shared experiences.",
+    "usage": "Pattern: <code>get to know each other better</code><ul><li><code>Dating is a process of getting to know each other better.</code></li><li><code>I want to get to know my teammates better.</code></li></ul>",
+    "spanish": "Vamos a dar un paseo por el parque; es un hermoso día y una gran oportunidad para charlar y conocernos mejor.",
+    "tags": [
+      "english_scenario",
+      "socializing",
       "dating"
     ]
   },
@@ -2532,6 +4430,71 @@
     ]
   },
   {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: What Been Up To 👋",
+    "text": "It's been a while; what have you been {{c1::up to}} lately?",
+    "explanation": "To be 'up to [something]' is an informal phrasal verb meaning to do or be busy with certain activities.",
+    "usage": "Pattern: <code>what have you been up to / what are you up to</code><ul><li><code>What are you up to this weekend?</code></li><li><code>I haven't seen you in months, what have you been up to?</code></li></ul>",
+    "spanish": "Ha pasado un tiempo; ¿en qué has andado metido/qué has estado haciendo últimamente?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Straight Home 👋",
+    "text": "Would you like to join us for a drink after work, or do you need to go straight {{c1::home}}?",
+    "explanation": "To 'go straight home' means to travel directly from your current location (like work) to your house without stopping anywhere else.",
+    "usage": "Pattern: <code>go straight home / head home</code><ul><li><code>I am tired, so I'm going straight home.</code></li><li><code>He went straight home after school.</code></li></ul>",
+    "spanish": "¿Te gustaría acompañarnos a tomar un trago después del trabajo, o necesitas irte directo a casa?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Come By 👋",
+    "text": "I'm planning a small get-together at my place this Friday, and I'd love for you to {{c1::come by}}.",
+    "explanation": "To 'come by' is a phrasal verb meaning to pay a casual, short visit to a person's house or location.",
+    "usage": "Pattern: <code>come by / drop by / stop by</code><ul><li><code>You can come by my desk if you have any questions.</code></li><li><code>Please come by our office when you are free.</code></li></ul>",
+    "spanish": "Estoy planeando una pequeña reunión en mi casa este viernes, y me encantaría que pasaras por allí.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Lovely Host 👋",
+    "text": "Thank you so much for hosting us; you have a lovely home and are a wonderful {{c1::host}}.",
+    "explanation": "A 'host' is a person who receives or entertains other people as guests in their home or at an event.",
+    "usage": "Pattern: <code>gracious host / host a dinner</code><ul><li><code>Our host provided us with a delicious home-cooked meal.</code></li><li><code>She was a wonderful host during our stay.</code></li></ul>",
+    "spanish": "Muchas gracias por recibirnos; tienes una casa preciosa y eres un anfitrión maravilloso.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Messaging Contact 👋",
+    "text": "Let's keep in touch; do you use any messaging apps or are you active on {{c1::social media}}?",
+    "explanation": "'Social media' refers to interactive computer-mediated technologies (like LinkedIn, Instagram) that facilitate the creation and sharing of information.",
+    "usage": "Pattern: <code>social media account / active on social media</code><ul><li><code>I don't spend much time on social media.</code></li><li><code>Let's connect on social media.</code></li></ul>",
+    "spanish": "Mantengámonos en contacto; ¿usas alguna aplicación de mensajería o estás activo en las redes sociales?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
     "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
     "scenario": "Storytelling: Childhood Trip 🗺️",
     "text": "Looking back: \"I {{c1::vividly remember}} visiting the Andes; it was an {{c2::eye-opening experience}} that changed how I saw nature.\"",
@@ -2597,6 +4560,71 @@
     ]
   },
   {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Long Story Short 📖",
+    "text": "To make a long story short, we ended up missing our flight and had to spend the night at the {{c1::airport terminal}}.",
+    "explanation": "To 'make a long story short' is a very common idiom used to skip minor details and summarize the final outcome of an event quickly.",
+    "usage": "Pattern: <code>to make a long story short / long story short</code><ul><li><code>Long story short, I got the job.</code></li><li><code>To make a long story short, we had to walk home in the rain.</code></li></ul>",
+    "spanish": "Para no hacerles el cuento largo (resumiendo), terminamos perdiendo nuestro vuelo y tuvimos que pasar la noche en la terminal del aeropuerto.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Believe It or Not 📖",
+    "text": "Believe it or not, she actually won the lottery but decided to donate all the winnings to {{c1::charity}}.",
+    "explanation": "'Believe it or not' is a conversational expression used to introduce a surprising, remarkable, or unexpected fact that is nevertheless true.",
+    "usage": "Pattern: <code>believe it or not / surprising fact</code><ul><li><code>Believe it or not, I've never eaten sushi.</code></li><li><code>He completed the marathon in two hours, believe it or not.</code></li></ul>",
+    "spanish": "Lo creas o no, ella realmente ganó la lotería pero decidió donar todas las ganancias a la caridad.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Out of Blue 📖",
+    "text": "Out of the blue, my childhood friend called me after ten years of no contact, which was a pleasant {{c1::surprise}}.",
+    "explanation": "'Out of the blue' is an idiom meaning completely unexpectedly, suddenly, or without any warning.",
+    "usage": "Pattern: <code>out of the blue / suddenly</code><ul><li><code>She quit her job out of the blue.</code></li><li><code>He showed up at my house out of the blue.</code></li></ul>",
+    "spanish": "De la nada (inesperadamente), mi amigo de la infancia me llamó después de diez años sin contacto, lo cual fue una grata sorpresa.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Cut to Chase 📖",
+    "text": "To cut to the chase, we need to approve the proposal today if we want to meet our launch {{c1::deadline}}.",
+    "explanation": "To 'cut to the chase' is an idiom meaning to stop talking about minor details and address the most important part of a matter directly.",
+    "usage": "Pattern: <code>cut to the chase / get straight to point</code><ul><li><code>Let's cut to the chase: how much will this cost?</code></li><li><code>The director cut to the chase and announced the layoffs.</code></li></ul>",
+    "spanish": "Para ir al grano (resumiendo), necesitamos aprobar la propuesta hoy si queremos cumplir con nuestra fecha límite de lanzamiento.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Luck Would Have It 📖",
+    "text": "As luck would have it, I found my lost keys right when I was about to call a locksmith to {{c1::replace them}}.",
+    "explanation": "'As luck would have it' is an idiom meaning by chance or fortune (can be used for both good and bad luck).",
+    "usage": "Pattern: <code>as luck would have it / fortunately / unfortunately</code><ul><li><code>As luck would have it, our train was delayed by two hours.</code></li><li><code>I forgot my umbrella, but as luck would have it, it didn't rain.</code></li></ul>",
+    "spanish": "Como quiso la suerte (por suerte), encontré mis llaves perdidas justo cuando estaba a punto de llamar a un cerrajero para reemplazarlas.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
     "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
     "scenario": "Academic: Philosophy Statecraft 📚",
     "text": "Discussing Machiavelli: \"His lectures focus on the harsh realities of {{c1::statecraft}} and the complex {{c2::power dynamics}} between rulers and citizens.\"",
@@ -2659,6 +4687,71 @@
       "academic",
       "philosophy",
       "comparison"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Correlation 🎓",
+    "text": "The study concludes that there is a strong correlation between sleep quality and cognitive {{c1::performance}}.",
+    "explanation": "'Correlation' refers to a mutual relationship or connection between two or more variables, though it does not imply causation.",
+    "usage": "Pattern: <code>correlation between [X] and [Y]</code><ul><li><code>Statisticians found a positive correlation between education and income.</code></li><li><code>Correlation is not causation.</code></li></ul>",
+    "spanish": "El estudio concluye que existe una fuerte correlación entre la calidad del sueño y el rendimiento cognitivo.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Biases 🎓",
+    "text": "We must analyze the evidence objectively and avoid drawing conclusions based on personal {{c1::biases}}.",
+    "explanation": "A 'bias' is a disproportionate weight in favor of or against an idea or thing, usually in a way that is closed-minded, prejudicial, or unfair.",
+    "usage": "Pattern: <code>personal biases / cognitive bias</code><ul><li><code>Researchers must minimize cognitive biases during clinical trials.</code></li><li><code>Confirmation bias makes us favor information that confirms our beliefs.</code></li></ul>",
+    "spanish": "Debemos analizar la evidencia objetivamente y evitar sacar conclusiones basadas en sesgos personales.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Author Argument 🎓",
+    "text": "The author argues that cultural norms shape our perception of reality and influence our decision-making {{c1::processes}}.",
+    "explanation": "To 'argue' in an academic context means to give reasons or cite evidence in support of an idea, action, or theory.",
+    "usage": "Pattern: <code>author argues that / construct an argument</code><ul><li><code>Chomsky argues that language is an innate human capability.</code></li><li><code>The paper argues for a new approach to database optimization.</code></li></ul>",
+    "spanish": "El autor sostiene que las normas culturales moldean nuestra percepción de la realidad e influyen en nuestros procesos de toma de decisiones.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Hypothesis 🎓",
+    "text": "This hypothesis needs to be tested through rigorous empirical research and peer-reviewed {{c1::studies}}.",
+    "explanation": "A 'hypothesis' is a proposed explanation for a phenomenon, made on the basis of limited evidence as a starting point for further investigation.",
+    "usage": "Pattern: <code>test a hypothesis / formulate a hypothesis</code><ul><li><code>The results supported our initial hypothesis.</code></li><li><code>Let's formulate a hypothesis before collecting data.</code></li></ul>",
+    "spanish": "Esta hipótesis necesita ser probada a través de una investigación empírica rigurosa y estudios revisados por pares.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Causation 🎓",
+    "text": "We must distinguish between correlation and causation to avoid making logical errors in our {{c1::analysis}}.",
+    "explanation": "'Causation' (or causality) is the relationship between an event (the cause) and a second event (the effect), where the second event is understood as a physical consequence of the first.",
+    "usage": "Pattern: <code>distinguish between correlation and causation</code><ul><li><code>Establishing causation requires controlled experimental designs.</code></li><li><code>The correlation was clear, but causation could not be proved.</code></li></ul>",
+    "spanish": "Debemos distinguir entre correlación y causalidad para evitar cometer errores lógicos en nuestro análisis.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
     ]
   },
   {
@@ -2746,6 +4839,58 @@
     ]
   },
   {
+    "deck": "03_Languages::English::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Beginner: Introduce Name 👋",
+    "text": "Hello, my name is Jesus. What is {{c1::your name}}?",
+    "explanation": "'What is your name?' is the standard fundamental question used to ask someone for their name during a first introduction.",
+    "usage": "Pattern: <code>my name is [Name] / what is your name</code><ul><li><code>Hello, my name is Colin. What is your name?</code></li><li><code>Her name is Maria.</code></li></ul>",
+    "spanish": "Hola, mi nombre es Jesús. ¿Cómo te llamas? (¿Cuál es tu nombre?)",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Beginner: Nice to Meet 👋",
+    "text": "Nice to {{c1::meet you}}, Colin. How are you doing today?",
+    "explanation": "'Nice to meet you' is the polite greeting phrase used when meeting someone for the first time.",
+    "usage": "Pattern: <code>nice to meet you / pleased to meet you</code><ul><li><code>Nice to meet you, too.</code></li><li><code>It is a pleasure to meet you.</code></li></ul>",
+    "spanish": "Gusto en conocerte, Colin. ¿Cómo estás hoy?",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Beginner: How About You 👋",
+    "text": "I'm doing well, thank you. And {{c1::how about you}}?",
+    "explanation": "'How about you?' (or 'and you?') is a reciprocal question used to ask the speaker the same question they just asked you.",
+    "usage": "Pattern: <code>how about you / and you</code><ul><li><code>I'm tired, how about you?</code></li><li><code>I like coffee, how about you?</code></li></ul>",
+    "spanish": "Me va bien, gracias. ¿Y qué tal tú? (¿Y tú?)",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Beginner: Sleep Well 👋",
+    "text": "Good morning! Did you {{c1::sleep well}} last night?",
+    "explanation": "To 'sleep well' is a standard friendly check used in the morning to ask someone if they rested comfortably during the night.",
+    "usage": "Pattern: <code>sleep well / rest well</code><ul><li><code>Did you sleep well? Yes, I slept like a baby.</code></li><li><code>Goodnight, sleep well!</code></li></ul>",
+    "spanish": "¡Buenos días! ¿Dormiste bien anoche?",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
     "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
     "scenario": "English A1: Personal Pronouns and To Be 🗣️",
     "text": "In English, how do you say 'First person singular'? {{c1::I am}}",
@@ -2813,6 +4958,71 @@
       "english",
       "a1",
       "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (Is) 🧩",
+    "text": "She {{c1::is}} a software engineer, and her brother {{c2::is}} a database administrator.",
+    "explanation": "'Is' is the singular third-person form (he/she/it) of the verb 'to be' in the present tense.",
+    "usage": "Pattern: <code>he/she/it is [noun/adjective]</code><ul><li><code>She is a developer.</code></li><li><code>It is a beautiful day.</code></li></ul>",
+    "spanish": "Ella es ingeniera de software, y su hermano es administrador de bases de datos.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (Are) 🧩",
+    "text": "They {{c1::are}} from Mexico, but they currently live and work in the United States.",
+    "explanation": "'Are' is the plural present tense form (they/we/you) of the verb 'to be'.",
+    "usage": "Pattern: <code>they/we/you are [noun/adjective]</code><ul><li><code>They are from Madrid.</code></li><li><code>We are ready.</code></li></ul>",
+    "spanish": "Ellos son de México, pero actualmente viven y trabajan en los Estados Unidos.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (Am) 🧩",
+    "text": "I {{c1::am}} a student, and I want to learn English to study abroad next year.",
+    "explanation": "'Am' is the first-person singular present tense form (I) of the verb 'to be'.",
+    "usage": "Pattern: <code>I am [noun/adjective]</code><ul><li><code>I am happy.</code></li><li><code>I am a software tester.</code></li></ul>",
+    "spanish": "Soy estudiante, y quiero aprender inglés para estudiar en el extranjero el próximo año.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (Are Plural) 🧩",
+    "text": "We {{c1::are}} happy to help you with your project; please let us know what you need.",
+    "explanation": "'Are' is used with the plural subject pronoun 'we' to describe a current state or identity.",
+    "usage": "Pattern: <code>we are [noun/adjective]</code><ul><li><code>We are glad you came.</code></li><li><code>We are members of the team.</code></li></ul>",
+    "spanish": "Estamos felices de ayudarle con su proyecto; por favor háganos saber lo que necesita.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Beginner: Verb To Be (It Is) 🧩",
+    "text": "It {{c1::is}} cold outside today, so make sure you wear a warm jacket.",
+    "explanation": "'Is' is used with the pronoun 'it' when referring to weather, temperature, or non-human objects.",
+    "usage": "Pattern: <code>it is [adjective/noun]</code><ul><li><code>It is hot today.</code></li><li><code>It is a database issue.</code></li></ul>",
+    "spanish": "Hace frío afuera hoy (Está frío afuera hoy), así que asegúrate de usar una chaqueta abrigada.",
+    "tags": [
+      "english_beginner",
+      "to_be",
+      "grammar"
     ]
   },
   {

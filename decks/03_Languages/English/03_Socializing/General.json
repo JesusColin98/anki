@@ -63,5 +63,70 @@
       "empathy",
       "comforting"
     ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: What Been Up To 👋",
+    "text": "It's been a while; what have you been {{c1::up to}} lately?",
+    "explanation": "To be 'up to [something]' is an informal phrasal verb meaning to do or be busy with certain activities.",
+    "usage": "Pattern: <code>what have you been up to / what are you up to</code><ul><li><code>What are you up to this weekend?</code></li><li><code>I haven't seen you in months, what have you been up to?</code></li></ul>",
+    "spanish": "Ha pasado un tiempo; ¿en qué has andado metido/qué has estado haciendo últimamente?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Straight Home 👋",
+    "text": "Would you like to join us for a drink after work, or do you need to go straight {{c1::home}}?",
+    "explanation": "To 'go straight home' means to travel directly from your current location (like work) to your house without stopping anywhere else.",
+    "usage": "Pattern: <code>go straight home / head home</code><ul><li><code>I am tired, so I'm going straight home.</code></li><li><code>He went straight home after school.</code></li></ul>",
+    "spanish": "¿Te gustaría acompañarnos a tomar un trago después del trabajo, o necesitas irte directo a casa?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Come By 👋",
+    "text": "I'm planning a small get-together at my place this Friday, and I'd love for you to {{c1::come by}}.",
+    "explanation": "To 'come by' is a phrasal verb meaning to pay a casual, short visit to a person's house or location.",
+    "usage": "Pattern: <code>come by / drop by / stop by</code><ul><li><code>You can come by my desk if you have any questions.</code></li><li><code>Please come by our office when you are free.</code></li></ul>",
+    "spanish": "Estoy planeando una pequeña reunión en mi casa este viernes, y me encantaría que pasaras por allí.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Lovely Host 👋",
+    "text": "Thank you so much for hosting us; you have a lovely home and are a wonderful {{c1::host}}.",
+    "explanation": "A 'host' is a person who receives or entertains other people as guests in their home or at an event.",
+    "usage": "Pattern: <code>gracious host / host a dinner</code><ul><li><code>Our host provided us with a delicious home-cooked meal.</code></li><li><code>She was a wonderful host during our stay.</code></li></ul>",
+    "spanish": "Muchas gracias por recibirnos; tienes una casa preciosa y eres un anfitrión maravilloso.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::03_Socializing::General",
+    "scenario": "Social: Messaging Contact 👋",
+    "text": "Let's keep in touch; do you use any messaging apps or are you active on {{c1::social media}}?",
+    "explanation": "'Social media' refers to interactive computer-mediated technologies (like LinkedIn, Instagram) that facilitate the creation and sharing of information.",
+    "usage": "Pattern: <code>social media account / active on social media</code><ul><li><code>I don't spend much time on social media.</code></li><li><code>Let's connect on social media.</code></li></ul>",
+    "spanish": "Mantengámonos en contacto; ¿usas alguna aplicación de mensajería o estás activo en las redes sociales?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "vocabulary"
+    ]
   }
 ]

@@ -50,5 +50,83 @@
       "handling_objections",
       "competitors"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Save Money 🛡️",
+    "text": "I understand your concern about the budget, but let me show you how this tool will {{c1::save you money}} in the long run.",
+    "explanation": "To 'save money' means to reduce expenses or prevent financial waste, a key value proposition in professional sales.",
+    "usage": "Pattern: <code>save money / cost savings</code><ul><li><code>Moving to the cloud will save us money on infrastructure.</code></li><li><code>This energy-efficient device will save you money.</code></li></ul>",
+    "spanish": "Entiendo su preocupación sobre el presupuesto, pero permítame mostrarle cómo esta herramienta le ahorrará dinero a largo plazo.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Legacy Systems 🛡️",
+    "text": "That's a valid point; however, our software integrates seamlessly with your {{c1::legacy systems}}.",
+    "explanation": "A 'legacy system' is an old or outdated computer system, technology, or software application that a company continues to use because it is critical to their business.",
+    "usage": "Pattern: <code>legacy systems / legacy technology</code><ul><li><code>Replacing legacy systems can be extremely expensive and risky.</code></li><li><code>We built an API wrapper to connect our app to their legacy system.</code></li></ul>",
+    "spanish": "Ese es un punto válido; sin embargo, nuestro software se integra a la perfección con sus sistemas heredados/antiguos.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Industry Standards 🛡️",
+    "text": "To address your security concerns, we are fully compliant with all major {{c1::industry standards}}.",
+    "explanation": "An 'industry standard' is a technical specification, requirement, or guideline widely accepted and followed in a specific field (e.g. ISO 27001, SOC 2).",
+    "usage": "Pattern: <code>industry standards / compliance standards</code><ul><li><code>Our security protocols meet the highest industry standards.</code></li><li><code>We must update our process to keep up with changing industry standards.</code></li></ul>",
+    "spanish": "Para abordar sus preocupaciones de seguridad, cumplimos plenamente con todos los principales estándares de la industria.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Around Clock 🛡️",
+    "text": "I hear what you are saying, but our customer support team is available {{c1::around the clock}} to help you.",
+    "explanation": "'Around the clock' is an idiom meaning continuously, 24 hours a day, 7 days a week.",
+    "usage": "Pattern: <code>around the clock / 24/7 support</code><ul><li><code>The engineering team worked around the clock to fix the database.</code></li><li><code>We offer customer service around the clock.</code></li></ul>",
+    "spanish": "Escucho lo que dice, pero nuestro equipo de soporte al cliente está disponible las 24 horas del día para ayudarle.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Deciding Factor 🛡️",
+    "text": "We can adjust the project scope to fit your timeline if that is the {{c1::deciding factor}} for you.",
+    "explanation": "The 'deciding factor' is the key element, reason, or condition that makes a person resolve a choice or make a final decision.",
+    "usage": "Pattern: <code>deciding factor / deal-breaker</code><ul><li><code>Price was the deciding factor in our choice of vendor.</code></li><li><code>Safety features were the deciding factor when buying the car.</code></li></ul>",
+    "spanish": "Podemos ajustar el alcance del proyecto para adaptarlo a su cronograma si ese es el factor decisivo para usted.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Handling_Objections",
+    "scenario": "Objections: Case Studies 🛡️",
+    "text": "Let me walk you through our case studies to show how we solved similar problems for {{c1::other clients}}.",
+    "explanation": "A 'case study' is a detailed analysis of a project or campaign, used as marketing evidence to show potential clients how a company successfully delivered value.",
+    "usage": "Pattern: <code>case study / client success story</code><ul><li><code>We published three new case studies on our website.</code></li><li><code>Our case studies prove that our algorithm improves conversion rates.</code></li></ul>",
+    "spanish": "Permítame guiarle a través de nuestros estudios de caso para mostrar cómo resolvimos problemas similares para otros clientes.",
+    "tags": [
+      "english_scenario",
+      "handling_objections",
+      "business_english"
+    ]
   }
 ]

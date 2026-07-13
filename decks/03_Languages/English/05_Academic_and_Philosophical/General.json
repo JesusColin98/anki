@@ -63,5 +63,70 @@
       "philosophy",
       "comparison"
     ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Correlation 🎓",
+    "text": "The study concludes that there is a strong correlation between sleep quality and cognitive {{c1::performance}}.",
+    "explanation": "'Correlation' refers to a mutual relationship or connection between two or more variables, though it does not imply causation.",
+    "usage": "Pattern: <code>correlation between [X] and [Y]</code><ul><li><code>Statisticians found a positive correlation between education and income.</code></li><li><code>Correlation is not causation.</code></li></ul>",
+    "spanish": "El estudio concluye que existe una fuerte correlación entre la calidad del sueño y el rendimiento cognitivo.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Biases 🎓",
+    "text": "We must analyze the evidence objectively and avoid drawing conclusions based on personal {{c1::biases}}.",
+    "explanation": "A 'bias' is a disproportionate weight in favor of or against an idea or thing, usually in a way that is closed-minded, prejudicial, or unfair.",
+    "usage": "Pattern: <code>personal biases / cognitive bias</code><ul><li><code>Researchers must minimize cognitive biases during clinical trials.</code></li><li><code>Confirmation bias makes us favor information that confirms our beliefs.</code></li></ul>",
+    "spanish": "Debemos analizar la evidencia objetivamente y evitar sacar conclusiones basadas en sesgos personales.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Author Argument 🎓",
+    "text": "The author argues that cultural norms shape our perception of reality and influence our decision-making {{c1::processes}}.",
+    "explanation": "To 'argue' in an academic context means to give reasons or cite evidence in support of an idea, action, or theory.",
+    "usage": "Pattern: <code>author argues that / construct an argument</code><ul><li><code>Chomsky argues that language is an innate human capability.</code></li><li><code>The paper argues for a new approach to database optimization.</code></li></ul>",
+    "spanish": "El autor sostiene que las normas culturales moldean nuestra percepción de la realidad e influyen en nuestros procesos de toma de decisiones.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Hypothesis 🎓",
+    "text": "This hypothesis needs to be tested through rigorous empirical research and peer-reviewed {{c1::studies}}.",
+    "explanation": "A 'hypothesis' is a proposed explanation for a phenomenon, made on the basis of limited evidence as a starting point for further investigation.",
+    "usage": "Pattern: <code>test a hypothesis / formulate a hypothesis</code><ul><li><code>The results supported our initial hypothesis.</code></li><li><code>Let's formulate a hypothesis before collecting data.</code></li></ul>",
+    "spanish": "Esta hipótesis necesita ser probada a través de una investigación empírica rigurosa y estudios revisados por pares.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::05_Academic_and_Philosophical::General",
+    "scenario": "Academic: Causation 🎓",
+    "text": "We must distinguish between correlation and causation to avoid making logical errors in our {{c1::analysis}}.",
+    "explanation": "'Causation' (or causality) is the relationship between an event (the cause) and a second event (the effect), where the second event is understood as a physical consequence of the first.",
+    "usage": "Pattern: <code>distinguish between correlation and causation</code><ul><li><code>Establishing causation requires controlled experimental designs.</code></li><li><code>The correlation was clear, but causation could not be proved.</code></li></ul>",
+    "spanish": "Debemos distinguir entre correlación y causalidad para evitar cometer errores lógicos en nuestro análisis.",
+    "tags": [
+      "english_academic",
+      "philosophical",
+      "vocabulary"
+    ]
   }
 ]

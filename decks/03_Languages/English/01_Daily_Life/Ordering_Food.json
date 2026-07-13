@@ -11,5 +11,122 @@
       "beginner",
       "ordering_food"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Dressing on Side 🍔",
+    "text": "We are ready to order: I'll have the steak, and can I get the dressing {{c1::on the side}}?",
+    "explanation": "To get a sauce or dressing 'on the side' means it should be served in a small separate cup rather than poured directly over the food.",
+    "usage": "Pattern: <code>on the side / sauce on the side</code><ul><li><code>I'd like a salad with vinaigrette on the side.</code></li><li><code>Can I get the gravy on the side?</code></li></ul>",
+    "spanish": "Estamos listos para pedir: Tomaré el filete, ¿y me puede dar el aderezo aparte/a un lado?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Nut Allergy 🍔",
+    "text": "Excuse me, I'm allergic to nuts; does this dish {{c1::contain any nuts}}?",
+    "explanation": "To 'contain nuts' is a crucial health expression used to check if tree nuts or peanuts are used in the ingredients or preparation of a food item.",
+    "usage": "Pattern: <code>contain nuts / nut-free</code><ul><li><code>Does the pesto sauce contain any nuts?</code></li><li><code>Please let the chef know that my food must not contain any nuts.</code></li></ul>",
+    "spanish": "Disculpe, soy alérgico a las nueces; ¿este plato contiene nueces?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Tap Water 🍔",
+    "text": "Can we get a {{c1::pitcher of tap water}} for the table, please?",
+    "explanation": "A 'pitcher of tap water' is a large container of municipal drinking water provided for free in US/UK restaurants, as opposed to bottled water.",
+    "usage": "Pattern: <code>pitcher of tap water / jug of water</code><ul><li><code>Just a pitcher of tap water is fine, thank you.</code></li><li><code>We always order a pitcher of tap water.</code></li></ul>",
+    "spanish": "¿Nos puede traer una jarra de agua del grifo para la mesa, por favor?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Steak Cooked 🍔",
+    "text": "I'd like my steak cooked {{c1::medium-rare}}, please.",
+    "explanation": "'Medium-rare' is the standard cooking level for meat where the center is warm and red, generally preferred by culinary experts for texture and flavor.",
+    "usage": "Pattern: <code>medium-rare / rare / medium / well-done</code><ul><li><code>I prefer my ribeye cooked medium-rare.</code></li><li><code>He ordered his burger well-done.</code></li></ul>",
+    "spanish": "Me gustaría mi filete término medio (tres cuartos), por favor.",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Check Order 🍔",
+    "text": "Excuse me, we've been waiting for our food for thirty minutes; could you {{c1::check on our order}}?",
+    "explanation": "To 'check on an order' is a polite way to ask a server to go to the kitchen and find out why the food is delayed.",
+    "usage": "Pattern: <code>check on our order / verify the status</code><ul><li><code>Could you please check on our order? It's taking a bit long.</code></li><li><code>I'll go to the kitchen to check on your order right away.</code></li></ul>",
+    "spanish": "Disculpe, hemos estado esperando nuestra comida por treinta minutos; ¿podría revisar nuestro pedido?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Wrong Order 🍔",
+    "text": "This isn't what I ordered; I asked for the grilled chicken, not the {{c1::fried chicken}}.",
+    "explanation": "This is a polite yet direct way to notify a server that they have brought the wrong dish to your table.",
+    "usage": "Pattern: <code>this isn't what I ordered / wrong dish</code><ul><li><code>Excuse me, this isn't what I ordered; I wanted a salad.</code></li><li><code>I apologize, I'll take this back and bring you the correct plate.</code></li></ul>",
+    "spanish": "Esto no es lo que pedí; pedí el pollo a la parrilla, no el pollo frito.",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Bill Check 🍔",
+    "text": "We are done eating, could you please {{c1::bring us the check}}?",
+    "explanation": "To 'bring the check' (or bring the bill) is the standard request to pay for the meal at the end of dining.",
+    "usage": "Pattern: <code>bring us the check / can we get the bill</code><ul><li><code>Excuse me, can you bring us the check when you have a moment?</code></li><li><code>He asked the waiter to bring the check.</code></li></ul>",
+    "spanish": "Hemos terminado de comer, ¿podría por favor traernos la cuenta?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Vegan Option 🍔",
+    "text": "Do you have any vegan options, or can this dish be {{c1::made vegan}}?",
+    "explanation": "To make a dish 'vegan' means modifying the recipe to exclude all animal products (meat, dairy, eggs, honey).",
+    "usage": "Pattern: <code>made vegan / vegan-friendly</code><ul><li><code>Can this pasta be made vegan if you remove the cheese?</code></li><li><code>Is there a vegan alternative for this sauce?</code></li></ul>",
+    "spanish": "¿Tienen alguna opción vegana, o este plato se puede hacer vegano?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Ordering_Food",
+    "scenario": "Food: Split Bill 🍔",
+    "text": "Can we split the bill {{c1::evenly between}} the three of us?",
+    "explanation": "To 'split the bill evenly' means to divide the total cost of a restaurant meal into equal portions among the diners.",
+    "usage": "Pattern: <code>split the bill / go Dutch</code><ul><li><code>Let's split the bill evenly to keep things simple.</code></li><li><code>We decided to split the bill instead of paying separately.</code></li></ul>",
+    "spanish": "¿Podemos dividir la cuenta en partes iguales entre los tres?",
+    "tags": [
+      "english_scenario",
+      "ordering_food",
+      "vocabulary"
+    ]
   }
 ]

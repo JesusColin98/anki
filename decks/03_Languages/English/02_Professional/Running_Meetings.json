@@ -11,5 +11,122 @@
       "professional",
       "running_meetings"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Key Objectives 🎤",
+    "text": "Welcome everyone; let's start by reviewing the agenda for today's call and identifying our {{c1::key objectives}}.",
+    "explanation": "'Key objectives' are the primary, most important goals or outcomes that a meeting or project is designed to achieve.",
+    "usage": "Pattern: <code>key objectives / main goals</code><ul><li><code>The key objectives of this phase are database cleanup and indexing.</code></li><li><code>What are the key objectives for today's meeting?</code></li></ul>",
+    "spanish": "Bienvenidos todos; comencemos revisando la agenda para la llamada de hoy e identificando nuestros objetivos clave.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Voice Opinion 🎤",
+    "text": "I'll be facilitating the discussion today, and I want to make sure everyone has an opportunity to {{c1::voice their opinion}}.",
+    "explanation": "To 'voice your opinion' means to express your thoughts, beliefs, or views on a subject openly and publicly.",
+    "usage": "Pattern: <code>voice opinion / express views</code><ul><li><code>Employees are encouraged to voice their opinions in team surveys.</code></li><li><code>He was not afraid to voice his opinion during the board meeting.</code></li></ul>",
+    "spanish": "Estaré moderando la discusión hoy, y quiero asegurarme de que todos tengan la oportunidad de expresar su opinión.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Time Check 🎤",
+    "text": "Let's keep an eye on the time: we need to move on to the next topic on the agenda in {{c1::five minutes}}.",
+    "explanation": "To 'keep an eye on the time' means to monitor the clock continuously to ensure the meeting doesn't run late.",
+    "usage": "Pattern: <code>keep an eye on the time / track time</code><ul><li><code>We must keep an eye on the time to avoid missing our flight.</code></li><li><code>I am keeping an eye on the time so we finish before noon.</code></li></ul>",
+    "spanish": "Estemos atentos al tiempo: necesitamos pasar al siguiente tema de la agenda en cinco minutos.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Marketing Campaign 🎤",
+    "text": "Could you please keep your updates concise so we have enough time to discuss the new {{c1::marketing campaign}}?",
+    "explanation": "A 'marketing campaign' is an organized, strategic course of action to promote a product, service, or brand across media channels.",
+    "usage": "Pattern: <code>marketing campaign / advertising campaign</code><ul><li><code>We are launching a new marketing campaign next week.</code></li><li><code>The marketing campaign resulted in a 30% increase in traffic.</code></li></ul>",
+    "spanish": "¿Podría por favor mantener sus actualizaciones breves para que tengamos suficiente tiempo para discutir la nueva campaña de marketing?",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Adjourn Meeting 🎤",
+    "text": "Let's summarize the main points we've agreed on before we adjourn the meeting for {{c1::today}}.",
+    "explanation": "To 'adjourn the meeting' is formal language meaning to temporarily end or suspend a meeting or assembly.",
+    "usage": "Pattern: <code>adjourn the meeting / end the session</code><ul><li><code>The committee decided to adjourn the meeting until next Tuesday.</code></li><li><code>The chairman adjourned the meeting at 4:00 PM.</code></li></ul>",
+    "spanish": "Resumamos los puntos principales en los que hemos estado de acuerdo antes de levantar la sesión por hoy.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Approve Minutes 🎤",
+    "text": "If there are no objections, let's approve the previous meeting minutes and move to the {{c1::first item}}.",
+    "explanation": "To 'approve the minutes' is the formal process in business meetings of verifying that the written record of the previous meeting is accurate.",
+    "usage": "Pattern: <code>approve the minutes / review minutes</code><ul><li><code>The board voted to approve the minutes of the January meeting.</code></li><li><code>First, we must approve the minutes before discussing new business.</code></li></ul>",
+    "spanish": "Si no hay objeciones, aprobemos la minuta de la reunión anterior y pasemos al primer punto.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Share Insights 🎤",
+    "text": "I'd like to invite our guest speaker to share their insights on industry trends and customer {{c1::behavior}}.",
+    "explanation": "To 'share insights' means to explain deep understandings, professional knowledge, or analytical conclusions about a topic to others.",
+    "usage": "Pattern: <code>share insights / offer recommendations</code><ul><li><code>The analyst shared valuable insights on market growth.</code></li><li><code>Thank you for sharing your insights with us today.</code></li></ul>",
+    "spanish": "Me gustaría invitar a nuestro orador invitado a compartir sus conocimientos/perspectivas sobre las tendencias de la industria y el comportamiento del cliente.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Topic at Hand 🎤",
+    "text": "Let's stay focused on the topic at hand; we can discuss other issues during our next scheduled {{c1::sync call}}.",
+    "explanation": "The 'topic at hand' is the specific subject, problem, or agenda item currently being discussed or addressed.",
+    "usage": "Pattern: <code>topic at hand / current subject</code><ul><li><code>Please limit your questions to the topic at hand.</code></li><li><code>The manager guided the team back to the topic at hand.</code></li></ul>",
+    "spanish": "Mantengámonos enfocados en el tema en cuestión; podemos discutir otros asuntos durante nuestra próxima llamada de sincronización programada.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Running_Meetings",
+    "scenario": "Running Meetings: Active Participation 🎤",
+    "text": "Thank you for your active participation today; I will send out a follow-up email with the next steps {{c1::shortly}}.",
+    "explanation": "'Active participation' refers to actively engaging, speaking, and contributing value during a group meeting or workshop.",
+    "usage": "Pattern: <code>active participation / engage in discussion</code><ul><li><code>The success of the brainstorming session depended on everyone's active participation.</code></li><li><code>Thank you all for your active participation today.</code></li></ul>",
+    "spanish": "Gracias por su participación activa hoy; enviaré un correo electrónico de seguimiento con los siguientes pasos en breve.",
+    "tags": [
+      "english_scenario",
+      "running_meetings",
+      "business_english"
+    ]
   }
 ]

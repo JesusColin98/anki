@@ -37,5 +37,96 @@
       "it_support",
       "outage"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Power Cycle 💻",
+    "text": "Have you tried turning the device off and on again to {{c1::power cycle}} it?",
+    "explanation": "To 'power cycle' a device means to shut off the power to a hardware piece and then turn it back on, which clears memory and resets state.",
+    "usage": "Pattern: <code>power cycle / reboot the router</code><ul><li><code>IT support always asks you to power cycle the modem first.</code></li><li><code>Power cycling the switch resolved the packet loss.</code></li></ul>",
+    "spanish": "¿Ha intentado apagar y volver a encender el dispositivo para reiniciar el ciclo de energía?",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Look Into It 💻",
+    "text": "I will open a support ticket for this issue, and our team will {{c1::look into it}} shortly.",
+    "explanation": "To 'look into' is a common phrasal verb meaning to investigate, examine, or check the status of a problem or request.",
+    "usage": "Pattern: <code>look into [issue / ticket / bug]</code><ul><li><code>We are looking into the server latency report.</code></li><li><code>I'll look into why your payment was declined.</code></li></ul>",
+    "spanish": "Abriré un ticket de soporte para este problema, y nuestro equipo lo revisará/investigará en breve.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Lockout Event 💻",
+    "text": "Please make sure your security credentials are up to date to prevent login {{c1::lockouts}}.",
+    "explanation": "A 'lockout' is a security state where a user is temporarily or permanently barred from accessing an account after too many failed password attempts.",
+    "usage": "Pattern: <code>account lockout / lockout policy</code><ul><li><code>Three failed attempts will trigger an automatic account lockout.</code></li><li><code>Contact IT support to resolve your password lockout.</code></li></ul>",
+    "spanish": "Por favor, asegúrese de que sus credenciales de seguridad estén actualizadas para evitar bloqueos de inicio de sesión.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Server Downtime 💻",
+    "text": "We are currently experiencing a temporary server outage; we apologize for the {{c1::downtime}}.",
+    "explanation": "'Downtime' refers to the period during which a system, computer network, or server is unavailable or offline.",
+    "usage": "Pattern: <code>server downtime / system downtime</code><ul><li><code>Scheduled maintenance downtime will occur this Sunday.</code></li><li><code>Our service level agreement guarantees less than 0.01% downtime.</code></li></ul>",
+    "spanish": "Actualmente estamos experimentando una interrupción temporal del servidor; nos disculpamos por el tiempo de inactividad.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Troubleshoot 💻",
+    "text": "Could you please send me a screenshot of the error message to help us {{c1::troubleshoot}} the problem?",
+    "explanation": "To 'troubleshoot' means to identify, analyze, and resolve technical faults or bugs in a system by following a logical process of elimination.",
+    "usage": "Pattern: <code>troubleshoot the problem / technical troubleshooting</code><ul><li><code>We need to troubleshoot why the API is returning 500 errors.</code></li><li><code>He is very good at troubleshooting network connection problems.</code></li></ul>",
+    "spanish": "¿Podría por favor enviarme una captura de pantalla del mensaje de error para ayudarnos a diagnosticar/resolver el problema?",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Security Vulnerability 💻",
+    "text": "You need to update your operating system to the latest version to patch these {{c1::security vulnerabilities}}.",
+    "explanation": "A 'security vulnerability' is a flaw or weakness in software or hardware that malicious actors can exploit to gain unauthorized access or execute code.",
+    "usage": "Pattern: <code>patch security vulnerabilities / zero-day vulnerability</code><ul><li><code>The patch fixes critical security vulnerabilities in the kernel.</code></li><li><code>Cybercriminals scan the web looking for unpatched security vulnerabilities.</code></li></ul>",
+    "spanish": "Necesita actualizar su sistema operativo a la última versión para parchear estas vulnerabilidades de seguridad.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::IT_Support",
+    "scenario": "IT: Inbox Check 💻",
+    "text": "Please check your spam folder if you haven't received the password reset link {{c1::in your inbox}}.",
+    "explanation": "An 'inbox' is the folder where newly received email messages are stored.",
+    "usage": "Pattern: <code>in your inbox / email inbox</code><ul><li><code>The confirmation code should arrive in your inbox in a minute.</code></li><li><code>My inbox is flooded with spam emails.</code></li></ul>",
+    "spanish": "Por favor, revise su carpeta de correo no deseado (spam) si no ha recibido el enlace de restablecimiento de contraseña en su bandeja de entrada.",
+    "tags": [
+      "english_scenario",
+      "it_support",
+      "vocabulary"
+    ]
   }
 ]

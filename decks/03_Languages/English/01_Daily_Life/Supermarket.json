@@ -99,5 +99,31 @@
       "subscription",
       "contract"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "Supermarket: Aisle Location 🛒",
+    "text": "Excuse me, in which {{c1::aisle}} can I find the olive oil?",
+    "explanation": "An 'aisle' is a long, narrow passage between shelves of goods in a supermarket or grocery store (the 's' is silent, pronounced /aɪl/).",
+    "usage": "Pattern: <code>aisle [number] / product aisle</code><ul><li><code>The baking ingredients are in aisle 4.</code></li><li><code>Excuse me, which aisle is the cereal in?</code></li></ul>",
+    "spanish": "Disculpe, ¿en qué pasillo puedo encontrar el aceite de oliva?",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Supermarket",
+    "scenario": "Supermarket: Purchase Receipt 🛒",
+    "text": "I'll pay in cash, and I don't need a {{c1::receipt}}, thank you.",
+    "explanation": "A 'receipt' is a printed slip of paper given to customers to prove that a financial transaction took place (the 'p' is silent, pronounced /rɪˈsiːt/).",
+    "usage": "Pattern: <code>sales receipt / cash receipt</code><ul><li><code>Always keep your receipt in case you need to return the item.</code></li><li><code>Do you want your receipt in the bag?</code></li></ul>",
+    "spanish": "Pagaré en efectivo, y no necesito recibo, gracias.",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
   }
 ]

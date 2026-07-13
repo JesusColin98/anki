@@ -46,5 +46,83 @@
       "english_scenario",
       "coffee_shop"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Splash of Milk ☕",
+    "text": "I would like to order a large cold brew with a {{c1::splash of}} oat milk.",
+    "explanation": "A 'splash of' is an informal measurement meaning a very small amount of liquid (typically milk, cream, or water) added to a drink.",
+    "usage": "Pattern: <code>splash of [liquid]</code><ul><li><code>Just a splash of milk in my tea, please.</code></li><li><code>He likes his whiskey with a splash of soda.</code></li></ul>",
+    "spanish": "Me gustaría pedir un café extraído en frío grande con un chorrito de leche de avena.",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Dairy-Free ☕",
+    "text": "Do you have any {{c1::dairy-free}} options for the latte?",
+    "explanation": "'Dairy-free' refers to foods or beverages that contain no milk or milk derivatives, suitable for lactose-intolerant or vegan customers.",
+    "usage": "Pattern: <code>dairy-free milk / plant-based milk</code><ul><li><code>Soy and almond milk are common dairy-free alternatives.</code></li><li><code>Is this caramel syrup dairy-free?</code></li></ul>",
+    "spanish": "¿Tienen alguna opción sin lácteos para el café con leche?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Sweetened With ☕",
+    "text": "I'll have a double espresso, and can I get that {{c1::sweetened with}} honey?",
+    "explanation": "To get something 'sweetened with' means to add a specific sweetener (like honey, sugar, syrup, or stevia) to a drink or food.",
+    "usage": "Pattern: <code>sweetened with [sweetener]</code><ul><li><code>I prefer my tea sweetened with raw sugar.</code></li><li><code>This lemonade is sweetened with agave nectar.</code></li></ul>",
+    "spanish": "Tomaré un espresso doble, ¿y me lo pueden dar endulzado con miel?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Guest Wi-Fi ☕",
+    "text": "Is there a password for the {{c1::guest Wi-Fi}} here?",
+    "explanation": "'Guest Wi-Fi' is a secondary wireless network provided by businesses for clients and visitors, keeping the internal network secure.",
+    "usage": "Pattern: <code>guest Wi-Fi / public network</code><ul><li><code>The guest Wi-Fi is free for customers who buy a drink.</code></li><li><code>Ask the barista for the guest Wi-Fi password.</code></li></ul>",
+    "spanish": "¿Hay contraseña para el Wi-Fi para invitados aquí?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Grind Beans ☕",
+    "text": "I'd like to buy a bag of whole bean coffee, could you {{c1::grind it for}} drip?",
+    "explanation": "To 'grind it for [method]' means to crush whole coffee beans into the specific particle size required for a brewing method (e.g. drip, espresso, french press).",
+    "usage": "Pattern: <code>grind [coffee] for [brewing method]</code><ul><li><code>Could you grind these beans for a French press?</code></li><li><code>I grind my own coffee beans for espresso every morning.</code></li></ul>",
+    "spanish": "Me gustaría comprar una bolsa de café en grano entero, ¿podrían molerlo para cafetera de filtro?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Coffee_Shop",
+    "scenario": "Coffee Shop: Warm Up ☕",
+    "text": "Can I get a pastry to go, and please {{c1::warm it up}} for me?",
+    "explanation": "To 'warm up' something means to make it warm or hot, usually by putting it in a microwave, oven, or toaster.",
+    "usage": "Pattern: <code>warm [something] up / heat up</code><ul><li><code>Would you like me to warm up your croissant?</code></li><li><code>I need to warm up my lunch in the microwave.</code></li></ul>",
+    "spanish": "¿Me da una factura/pan dulce para llevar, y por favor me la calienta?",
+    "tags": [
+      "english_scenario",
+      "coffee_shop",
+      "vocabulary"
+    ]
   }
 ]

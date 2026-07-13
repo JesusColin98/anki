@@ -82,5 +82,57 @@
       "a1",
       "greetings_and_farewells"
     ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Beginner: Introduce Name 👋",
+    "text": "Hello, my name is Jesus. What is {{c1::your name}}?",
+    "explanation": "'What is your name?' is the standard fundamental question used to ask someone for their name during a first introduction.",
+    "usage": "Pattern: <code>my name is [Name] / what is your name</code><ul><li><code>Hello, my name is Colin. What is your name?</code></li><li><code>Her name is Maria.</code></li></ul>",
+    "spanish": "Hola, mi nombre es Jesús. ¿Cómo te llamas? (¿Cuál es tu nombre?)",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Beginner: Nice to Meet 👋",
+    "text": "Nice to {{c1::meet you}}, Colin. How are you doing today?",
+    "explanation": "'Nice to meet you' is the polite greeting phrase used when meeting someone for the first time.",
+    "usage": "Pattern: <code>nice to meet you / pleased to meet you</code><ul><li><code>Nice to meet you, too.</code></li><li><code>It is a pleasure to meet you.</code></li></ul>",
+    "spanish": "Gusto en conocerte, Colin. ¿Cómo estás hoy?",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Beginner: How About You 👋",
+    "text": "I'm doing well, thank you. And {{c1::how about you}}?",
+    "explanation": "'How about you?' (or 'and you?') is a reciprocal question used to ask the speaker the same question they just asked you.",
+    "usage": "Pattern: <code>how about you / and you</code><ul><li><code>I'm tired, how about you?</code></li><li><code>I like coffee, how about you?</code></li></ul>",
+    "spanish": "Me va bien, gracias. ¿Y qué tal tú? (¿Y tú?)",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Beginner: Sleep Well 👋",
+    "text": "Good morning! Did you {{c1::sleep well}} last night?",
+    "explanation": "To 'sleep well' is a standard friendly check used in the morning to ask someone if they rested comfortably during the night.",
+    "usage": "Pattern: <code>sleep well / rest well</code><ul><li><code>Did you sleep well? Yes, I slept like a baby.</code></li><li><code>Goodnight, sleep well!</code></li></ul>",
+    "spanish": "¡Buenos días! ¿Dormiste bien anoche?",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
   }
 ]

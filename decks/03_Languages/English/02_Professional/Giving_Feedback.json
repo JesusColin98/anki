@@ -38,5 +38,96 @@
       "feedback",
       "communication"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Room for Improvement 📈",
+    "text": "I appreciate your hard work on this project; however, there is still {{c1::room for improvement}} in your documentation.",
+    "explanation": "'Room for improvement' is a polite, professional idiom meaning that something is not perfect and has potential to be better.",
+    "usage": "Pattern: <code>room for improvement / areas of development</code><ul><li><code>The report was good, but there's room for improvement.</code></li><li><code>There is always room for improvement in software performance.</code></li></ul>",
+    "spanish": "Aprecio su arduo trabajo en este proyecto; sin embargo, todavía hay margen de mejora en su documentación.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Constructive Feedback 📈",
+    "text": "To help you grow, I want to offer some {{c1::constructive feedback}} on your client presentation.",
+    "explanation": "'Constructive feedback' is supportive advice or critique designed to help someone improve their work or behavior, rather than simply pointing out faults.",
+    "usage": "Pattern: <code>constructive feedback / constructive criticism</code><ul><li><code>I always appreciate constructive feedback from my manager.</code></li><li><code>Try to phrase your comments as constructive feedback.</code></li></ul>",
+    "spanish": "Para ayudarle a crecer, quiero ofrecerle retroalimentación constructiva sobre su presentación con el cliente.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Keep up Good Work 📈",
+    "text": "You did a fantastic job managing the client's expectations; {{c1::keep up the good work}}!",
+    "explanation": "'Keep up the good work' is a common encouraging phrase used to praise someone's performance and motivate them to continue performing at a high level.",
+    "usage": "Pattern: <code>keep up the good work / keep it up</code><ul><li><code>The manager told us to keep up the good work.</code></li><li><code>Fantastic results this quarter, keep up the good work!</code></li></ul>",
+    "spanish": "Hizo un trabajo fantástico gestionando las expectativas del cliente; ¡siga así (continúe con el buen trabajo)!",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Holding Back 📈",
+    "text": "I've noticed that you've been missing deadlines; is there anything {{c1::holding you back}}?",
+    "explanation": "To 'hold someone back' is a phrasal verb meaning to prevent someone from making progress, developing, or performing to their potential.",
+    "usage": "Pattern: <code>hold [someone] back / block progress</code><ul><li><code>What is holding you back from applying for the promotion?</code></li><li><code>Lack of funding is holding the research back.</code></li></ul>",
+    "spanish": "He notado que ha estado perdiendo fechas límite; ¿hay algo que le impida avanzar/le esté frenando?",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Pain Points 📈",
+    "text": "Let's set up a weekly check-in to track your progress and address any {{c1::pain points}} early.",
+    "explanation": "A 'pain point' is a specific problem, obstacle, or difficulty experienced by employees, customers, or users.",
+    "usage": "Pattern: <code>address pain points / resolve customer pain points</code><ul><li><code>The new software addresses the main pain points of our team.</code></li><li><code>We need to identify user pain points in the checkout flow.</code></li></ul>",
+    "spanish": "Establezcamos una reunión de control semanal para realizar un seguimiento de su progreso y abordar cualquier punto crítico/dificultad temprano.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Active Listening 📈",
+    "text": "Your technical skills are excellent, but you need to work on your {{c1::active listening}} during team meetings.",
+    "explanation": "'Active listening' is a communication technique that requires the listener to fully concentrate, understand, respond, and remember what is being said.",
+    "usage": "Pattern: <code>practice active listening / active listening skills</code><ul><li><code>Active listening is essential for effective conflict resolution.</code></li><li><code>She showed active listening by summarizing my points.</code></li></ul>",
+    "spanish": "Sus habilidades técnicas son excelentes, pero necesita trabajar en su escucha activa durante las reuniones de equipo.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Giving_Feedback",
+    "scenario": "Feedback: Huge Impact 📈",
+    "text": "I want to recognize your effort; your dedication has made a {{c1::huge impact on}} the team's morale.",
+    "explanation": "To 'make a huge impact on' means to have a very large, significant, or powerful effect or influence on a situation, group, or project.",
+    "usage": "Pattern: <code>make a huge impact on [something]</code><ul><li><code>The training made a huge impact on sales performance.</code></li><li><code>Your feedback has had a huge impact on my career growth.</code></li></ul>",
+    "spanish": "Quiero reconocer su esfuerzo; su dedicación ha tenido un gran impacto en la moral del equipo.",
+    "tags": [
+      "english_scenario",
+      "giving_feedback",
+      "business_english"
+    ]
   }
 ]

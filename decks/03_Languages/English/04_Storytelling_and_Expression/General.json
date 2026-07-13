@@ -63,5 +63,70 @@
       "lessons",
       "reflection"
     ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Long Story Short 📖",
+    "text": "To make a long story short, we ended up missing our flight and had to spend the night at the {{c1::airport terminal}}.",
+    "explanation": "To 'make a long story short' is a very common idiom used to skip minor details and summarize the final outcome of an event quickly.",
+    "usage": "Pattern: <code>to make a long story short / long story short</code><ul><li><code>Long story short, I got the job.</code></li><li><code>To make a long story short, we had to walk home in the rain.</code></li></ul>",
+    "spanish": "Para no hacerles el cuento largo (resumiendo), terminamos perdiendo nuestro vuelo y tuvimos que pasar la noche en la terminal del aeropuerto.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Believe It or Not 📖",
+    "text": "Believe it or not, she actually won the lottery but decided to donate all the winnings to {{c1::charity}}.",
+    "explanation": "'Believe it or not' is a conversational expression used to introduce a surprising, remarkable, or unexpected fact that is nevertheless true.",
+    "usage": "Pattern: <code>believe it or not / surprising fact</code><ul><li><code>Believe it or not, I've never eaten sushi.</code></li><li><code>He completed the marathon in two hours, believe it or not.</code></li></ul>",
+    "spanish": "Lo creas o no, ella realmente ganó la lotería pero decidió donar todas las ganancias a la caridad.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Out of Blue 📖",
+    "text": "Out of the blue, my childhood friend called me after ten years of no contact, which was a pleasant {{c1::surprise}}.",
+    "explanation": "'Out of the blue' is an idiom meaning completely unexpectedly, suddenly, or without any warning.",
+    "usage": "Pattern: <code>out of the blue / suddenly</code><ul><li><code>She quit her job out of the blue.</code></li><li><code>He showed up at my house out of the blue.</code></li></ul>",
+    "spanish": "De la nada (inesperadamente), mi amigo de la infancia me llamó después de diez años sin contacto, lo cual fue una grata sorpresa.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Cut to Chase 📖",
+    "text": "To cut to the chase, we need to approve the proposal today if we want to meet our launch {{c1::deadline}}.",
+    "explanation": "To 'cut to the chase' is an idiom meaning to stop talking about minor details and address the most important part of a matter directly.",
+    "usage": "Pattern: <code>cut to the chase / get straight to point</code><ul><li><code>Let's cut to the chase: how much will this cost?</code></li><li><code>The director cut to the chase and announced the layoffs.</code></li></ul>",
+    "spanish": "Para ir al grano (resumiendo), necesitamos aprobar la propuesta hoy si queremos cumplir con nuestra fecha límite de lanzamiento.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::04_Storytelling_and_Expression::General",
+    "scenario": "Story: Luck Would Have It 📖",
+    "text": "As luck would have it, I found my lost keys right when I was about to call a locksmith to {{c1::replace them}}.",
+    "explanation": "'As luck would have it' is an idiom meaning by chance or fortune (can be used for both good and bad luck).",
+    "usage": "Pattern: <code>as luck would have it / fortunately / unfortunately</code><ul><li><code>As luck would have it, our train was delayed by two hours.</code></li><li><code>I forgot my umbrella, but as luck would have it, it didn't rain.</code></li></ul>",
+    "spanish": "Como quiso la suerte (por suerte), encontré mis llaves perdidas justo cuando estaba a punto de llamar a un cerrajero para reemplazarlas.",
+    "tags": [
+      "english_story",
+      "expression",
+      "idioms"
+    ]
   }
 ]

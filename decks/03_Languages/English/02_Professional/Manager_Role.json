@@ -11,5 +11,122 @@
       "professional",
       "manager_role"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Meet Targets 👥",
+    "text": "It is my responsibility to delegate tasks and ensure my team has the support they need to {{c1::meet their targets}}.",
+    "explanation": "To 'meet targets' means to achieve the specific goals, performance levels, or metrics set by company leadership.",
+    "usage": "Pattern: <code>meet targets / achieve goals</code><ul><li><code>The sales team worked hard to meet their targets this quarter.</code></li><li><code>We did not meet our performance targets last year.</code></li></ul>",
+    "spanish": "Es mi responsabilidad delegar tareas y asegurar que mi equipo tenga el apoyo que necesita para cumplir con sus metas/objetivos.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Remove Blockers 👥",
+    "text": "We need to hold weekly one-on-one meetings to check in on progress and remove any {{c1::blockers}}.",
+    "explanation": "A 'blocker' (or impediment) is an issue, bug, or dependency that prevents a team member from making progress on their tasks.",
+    "usage": "Pattern: <code>remove blockers / clear roadblocks</code><ul><li><code>My primary job as a manager is to remove blockers for my devs.</code></li><li><code>Do you have any blockers keeping you from finishing the script?</code></li></ul>",
+    "spanish": "Necesitamos realizar reuniones individuales semanales para revisar el progreso y eliminar cualquier bloqueador/impedimento.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Full Potential 👥",
+    "text": "My goal is to support my team's professional development and help them {{c1::reach their full potential}}.",
+    "explanation": "To 'reach your full potential' means to develop your talents, skills, and career capabilities to the maximum possible level.",
+    "usage": "Pattern: <code>reach full potential / unlock potential</code><ul><li><code>A good leader helps their employees reach their full potential.</code></li><li><code>Mentorship is key to helping junior devs reach their full potential.</code></li></ul>",
+    "spanish": "Mi objetivo es apoyar el desarrollo profesional de mi equipo y ayudarles a alcanzar su máximo potencial.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Team Morale 👥",
+    "text": "We must manage our team's workload carefully to prevent burnout and maintain high {{c1::morale}}.",
+    "explanation": "'Morale' refers to the enthusiasm, confidence, and mental state of a group or team regarding their tasks and work environment.",
+    "usage": "Pattern: <code>boost morale / low morale</code><ul><li><code>Missing targets led to low morale in the sales department.</code></li><li><code>The team-building event was organized to boost morale.</code></li></ul>",
+    "spanish": "Debemos gestionar el volumen de trabajo de nuestro equipo cuidadosamente para evitar el agotamiento y mantener la moral alta.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Avoid Duplication 👥",
+    "text": "I need to coordinate with other department heads to align our resource allocation and {{c1::avoid duplication of effort}}.",
+    "explanation": "To 'avoid duplication of effort' means to organize work so that two different people or teams do not spend resources doing the exact same task independently.",
+    "usage": "Pattern: <code>avoid duplication of effort / streamline work</code><ul><li><code>We merged the codebases to avoid duplication of effort.</code></li><li><code>Communication is essential to avoid duplication of effort in large projects.</code></li></ul>",
+    "spanish": "Necesito coordinar con otros jefes de departamento para alinear nuestra asignación de recursos y evitar la duplicación de esfuerzos.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Public Praise 👥",
+    "text": "We will recognize outstanding performance by offering bonuses and public {{c1::praise}}.",
+    "explanation": "'Praise' refers to expressions of approval, commendation, or admiration. Offering 'public praise' honors someone's achievements in front of their peers.",
+    "usage": "Pattern: <code>public praise / praise employees</code><ul><li><code>Praise in public and criticize in private.</code></li><li><code>The CEO offered public praise to the migration team.</code></li></ul>",
+    "spanish": "Reconoceremos el rendimiento sobresaliente ofreciendo bonos y elogios/reconocimiento público.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Senior Stakeholders 👥",
+    "text": "I need to review our team's performance data and present the findings to senior {{c1::stakeholders}}.",
+    "explanation": "A 'stakeholder' is anyone who has an interest or investment in a business or project. 'Senior stakeholders' typically refer to directors, executives, or clients.",
+    "usage": "Pattern: <code>senior stakeholders / key stakeholders</code><ul><li><code>We must keep our senior stakeholders informed of project delays.</code></li><li><code>The requirements were defined by the key stakeholders.</code></li></ul>",
+    "spanish": "Necesito revisar los datos de rendimiento de nuestro equipo y presentar los hallazgos a las partes interesadas/directivos sénior.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Expected of Them 👥",
+    "text": "We must establish clear performance guidelines so everyone knows what is {{c1::expected of them}}.",
+    "explanation": "What is 'expected of someone' refers to the tasks, behaviors, or results they are responsible for delivering in their role.",
+    "usage": "Pattern: <code>expected of [someone] / job expectations</code><ul><li><code>You did not meet what was expected of you this month.</code></li><li><code>Clear communication helps everyone understand what is expected of them.</code></li></ul>",
+    "spanish": "Debemos establecer pautas de rendimiento claras para que todos sepan qué es esperado de ellos.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Manager_Role",
+    "scenario": "Manager: Escalate Issues 👥",
+    "text": "I am here to support you; please let me know if you need to {{c1::escalate}} any issues.",
+    "explanation": "To 'escalate' an issue means to refer a problem or task to a higher authority or senior manager because it cannot be resolved at the current level.",
+    "usage": "Pattern: <code>escalate issues / escalate a ticket</code><ul><li><code>If the client is still unhappy, escalate the call to me.</code></li><li><code>We had to escalate the database outage to the operations director.</code></li></ul>",
+    "spanish": "Estoy aquí para apoyarle; por favor hágame saber si necesita escalar/elevar a un nivel superior cualquier problema.",
+    "tags": [
+      "english_scenario",
+      "manager_role",
+      "business_english"
+    ]
   }
 ]

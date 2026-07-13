@@ -24,5 +24,109 @@
       "professional",
       "director_role"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Long-term Roadmap 💼",
+    "text": "We need to align our department goals to support the company's {{c1::long-term roadmap}}.",
+    "explanation": "A 'long-term roadmap' is a strategic plan that outlines the main goals and milestones of a company over a long period (e.g. 3 to 5 years).",
+    "usage": "Pattern: <code>long-term roadmap / strategic vision</code><ul><li><code>Our product roadmap spans over the next three years.</code></li><li><code>The director presented the long-term roadmap to the division.</code></li></ul>",
+    "spanish": "Necesitamos alinear las metas de nuestro departamento para apoyar la hoja de ruta a largo plazo de la compañía.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Empower Managers 💼",
+    "text": "My role is to steer the strategic direction and {{c1::empower our managers}} to execute it.",
+    "explanation": "To 'empower managers' means giving them the authority, resources, and trust to make decisions and lead their teams independently.",
+    "usage": "Pattern: <code>empower managers / delegate authority</code><ul><li><code>Good directors empower managers rather than micromanage.</code></li><li><code>We must empower our front-line managers to resolve customer issues.</code></li></ul>",
+    "spanish": "Mi rol es guiar la dirección estratégica y capacitar/dar autonomía a nuestros gerentes para ejecutarla.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Maximize ROI 💼",
+    "text": "We must ensure we are allocating our resources efficiently to {{c1::maximize ROI}}.",
+    "explanation": "To 'maximize ROI' (Return on Investment) means to ensure that business spending yields the highest possible profit or strategic benefit.",
+    "usage": "Pattern: <code>maximize ROI / boost returns</code><ul><li><code>Our marketing budget is allocated to channels that maximize ROI.</code></li><li><code>The team restructured the project to maximize ROI.</code></li></ul>",
+    "spanish": "Debemos asegurarnos de asignar nuestros recursos eficientemente para maximizar el retorno de la inversión.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Board of Directors 💼",
+    "text": "I need to report our quarterly performance metrics directly to the {{c1::board of directors}}.",
+    "explanation": "The 'board of directors' is the governing body of a corporation elected by shareholders to oversee management and protect their interests.",
+    "usage": "Pattern: <code>board of directors / board members</code><ul><li><code>The board of directors approved the acquisition.</code></li><li><code>He serves on the board of directors for three companies.</code></li></ul>",
+    "spanish": "Necesito informar nuestras métricas de rendimiento trimestrales directamente a la junta directiva.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Eliminate Silos 💼",
+    "text": "We are restructuring the department to improve cross-functional collaboration and {{c1::eliminate silos}}.",
+    "explanation": "To 'eliminate silos' means to break down barriers between departments that prevent open communication, sharing of data, or collaborative work.",
+    "usage": "Pattern: <code>eliminate silos / break down walls</code><ul><li><code>A key goal of Agile is to eliminate silos between devs and QA.</code></li><li><code>We must eliminate departmental silos to speed up production.</code></li></ul>",
+    "spanish": "Estamos reestructurando el departamento para mejorar la colaboración interfuncional y eliminar los silos/departamentos aislados.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Cultivate Innovation 💼",
+    "text": "We must foster a culture of innovation where calculated risk-taking is {{c1::encouraged rather than penalized}}.",
+    "explanation": "This phrase describes a strategic environment where employees are motivated to try new ideas, knowing that mistakes in pursuit of innovation will not lead to negative career consequences.",
+    "usage": "Pattern: <code>[something] is encouraged rather than penalized</code><ul><li><code>Creative problem solving should be encouraged rather than penalized.</code></li><li><code>Taking initiative is encouraged rather than penalized in this team.</code></li></ul>",
+    "spanish": "Debemos fomentar una cultura de innovación donde la toma de riesgos calculados sea alentada en lugar de penalizada.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Showcase Achievements 💼",
+    "text": "I will represent our division at the upcoming global leadership summit to {{c1::showcase our achievements}}.",
+    "explanation": "To 'showcase achievements' means to display or present positive results, milestones, or accomplishments to others in a prominent way.",
+    "usage": "Pattern: <code>showcase achievements / highlight success</code><ul><li><code>The annual report is an opportunity to showcase our achievements.</code></li><li><code>We built a dashboard to showcase team achievements to executives.</code></li></ul>",
+    "spanish": "Representaré a nuestra división en la próxima cumbre global de liderazgo para exhibir/presentar nuestros logros.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Director_Role",
+    "scenario": "Director: Joint Venture 💼",
+    "text": "We need to conduct a thorough risk assessment before entering this {{c1::joint venture}}.",
+    "explanation": "A 'joint venture' is a business arrangement in which two or more parties agree to pool their resources for the purpose of accomplishing a specific task.",
+    "usage": "Pattern: <code>joint venture / strategic partnership</code><ul><li><code>The two auto giants formed a joint venture to build electric cars.</code></li><li><code>The project is a joint venture between public and private firms.</code></li></ul>",
+    "spanish": "Necesitamos realizar una evaluación de riesgos exhaustiva antes de entrar en esta empresa conjunta/alianza comercial.",
+    "tags": [
+      "english_scenario",
+      "director_role",
+      "business_english"
+    ]
   }
 ]

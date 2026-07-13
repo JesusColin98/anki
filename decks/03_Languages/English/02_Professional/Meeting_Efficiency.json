@@ -50,5 +50,83 @@
       "meeting_efficiency",
       "agenda"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Tangents ⏱️",
+    "text": "Let's keep this meeting productive by stick to the agenda and avoiding {{c1::going off on tangents}}.",
+    "explanation": "To 'go off on a tangent' means to suddenly start talking about a subject that is not directly related to the main topic of conversation.",
+    "usage": "Pattern: <code>go off on a tangent / deviate from agenda</code><ul><li><code>We wasted fifteen minutes because the speaker went off on a tangent.</code></li><li><code>Let's focus on the bug and avoid going off on tangents.</code></li></ul>",
+    "spanish": "Mantengamos esta reunión productiva apegándonos a la agenda y evitando irnos por las ramas/desviarnos del tema.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Straight to Point ⏱️",
+    "text": "We only have thirty minutes, so let's {{c1::get straight to the point}}.",
+    "explanation": "To 'get straight to the point' means to address the most important matter directly, without wasting time on introductory or irrelevant remarks.",
+    "usage": "Pattern: <code>get straight to the point / cut to the chase</code><ul><li><code>I'll get straight to the point: our server was hacked.</code></li><li><code>Baristas appreciate it when customers get straight to the point.</code></li></ul>",
+    "spanish": "Solo tenemos treinta minutos, así que vayamos directo al grano.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Action Items ⏱️",
+    "text": "Could you please send out the meeting minutes and list the {{c1::action items}} by end of day?",
+    "explanation": "An 'action item' is a specific task, chore, or action identified during a meeting that must be executed by a designated team member.",
+    "usage": "Pattern: <code>action items / list of tasks</code><ul><li><code>We assigned the action items to the developers.</code></li><li><code>Please review your action items before the next sync.</code></li></ul>",
+    "spanish": "¿Podrías por favor enviar la minuta de la reunión y listar las tareas pendientes/puntos de acción para el final del día?",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Realign Goals ⏱️",
+    "text": "Let's schedule a brief stand-up meeting tomorrow to check in on our progress and {{c1::realign}}.",
+    "explanation": "To 'realign' means to adjust or coordinate resources, strategies, or team members back into correct alignment or agreement regarding goals.",
+    "usage": "Pattern: <code>realign resources / realign expectations</code><ul><li><code>We need to realign our strategy to match the new budget.</code></li><li><code>The team met to realign after the project scope changed.</code></li></ul>",
+    "spanish": "Agendemos una breve reunión diaria (stand-up) mañana para revisar nuestro progreso y volver a alinearnos.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: On Schedule ⏱️",
+    "text": "We need to respect everyone's time and make sure we start and end our meetings {{c1::on schedule}}.",
+    "explanation": "'On schedule' (or on time) means at the planned or expected time, according to the timetable or agenda.",
+    "usage": "Pattern: <code>on schedule / behind schedule / ahead of schedule</code><ul><li><code>The train arrived exactly on schedule.</code></li><li><code>We must complete the deployment on schedule.</code></li></ul>",
+    "spanish": "Necesitamos respetar el tiempo de todos y asegurarnos de comenzar y terminar nuestras reuniones a tiempo/según lo programado.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Meeting_Efficiency",
+    "scenario": "Meetings: Key Decisions ⏱️",
+    "text": "Please review the prep materials before the meeting so we can focus on making {{c1::key decisions}}.",
+    "explanation": "A 'key decision' is a highly important or critical resolution that determines the path, budget, or success of a project or firm.",
+    "usage": "Pattern: <code>make key decisions / decisive actions</code><ul><li><code>The board met to make key decisions regarding the merger.</code></li><li><code>We need senior management to make key decisions on the architecture.</code></li></ul>",
+    "spanish": "Por favor, revise los materiales de preparación antes de la reunión para que podamos enfocarnos en tomar decisiones clave.",
+    "tags": [
+      "english_scenario",
+      "meeting_efficiency",
+      "business_english"
+    ]
   }
 ]

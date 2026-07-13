@@ -11,5 +11,122 @@
       "beginner",
       "directions"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Turn Left 🗺️",
+    "text": "Go straight ahead for two blocks, then {{c1::take a left}} at the traffic light.",
+    "explanation": "To 'take a left' is a very common idiomatic phrase meaning to turn left at a specific intersection or landmark.",
+    "usage": "Pattern: <code>take a left / make a left / turn left</code><ul><li><code>Take a left at the next street.</code></li><li><code>You will need to take a left after you pass the school.</code></li></ul>",
+    "spanish": "Siga derecho por dos cuadras, luego doble a la izquierda en el semáforo.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Close Distance 🗺️",
+    "text": "Excuse me, is there a pharmacy {{c1::within walking distance}} of here?",
+    "explanation": "'Within walking distance' means close enough to be reached easily by walking (typically less than 10-15 minutes away).",
+    "usage": "Pattern: <code>within walking distance [of something]</code><ul><li><code>The hotel is within walking distance of the beach.</code></li><li><code>We live within walking distance of the office.</code></li></ul>",
+    "spanish": "Disculpe, ¿hay alguna farmacia a corta distancia a pie de aquí?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Across From 🗺️",
+    "text": "You can't miss it; it's right {{c1::across from}} the post office.",
+    "explanation": "'Across from' means directly opposite or on the other side of a street, hallway, or space.",
+    "usage": "Pattern: <code>across from [place] / opposite</code><ul><li><code>The cafe is across from the library.</code></li><li><code>He sat across from me during the meeting.</code></li></ul>",
+    "spanish": "No tiene pérdida; está justo enfrente de la oficina de correos.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Crossing the Street 🗺️",
+    "text": "To get to the museum, you need to {{c1::cross the street}} and walk past the bank.",
+    "explanation": "To 'cross the street' means to walk from one side of a road to the opposite side.",
+    "usage": "Pattern: <code>cross the street / cross the road</code><ul><li><code>Look both ways before you cross the street.</code></li><li><code>We crossed the street to avoid the construction work.</code></li></ul>",
+    "spanish": "Para llegar al museo, debe cruzar la calle y pasar el banco.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Point Direction 🗺️",
+    "text": "Excuse me, could you {{c1::point me in the direction of}} the nearest subway station?",
+    "explanation": "To 'point someone in the direction of' means to show or tell someone the general path or heading to reach a destination.",
+    "usage": "Pattern: <code>point [someone] in the direction of [place]</code><ul><li><code>Can you point me in the direction of the restrooms?</code></li><li><code>She pointed us in the direction of the highway entrance.</code></li></ul>",
+    "spanish": "Disculpe, ¿podría indicarme la dirección hacia la estación de metro más cercana?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Outer Edge 🗺️",
+    "text": "The stadium is located on the {{c1::outer edge}} of the city.",
+    "explanation": "The 'outer edge' refers to the boundary, periphery, or outskirts of an area, such as a city limit.",
+    "usage": "Pattern: <code>outer edge / outskirts</code><ul><li><code>They built a new retail park on the outer edge of town.</code></li><li><code>We live on the outer edge of the metropolitan area.</code></li></ul>",
+    "spanish": "El estadio está ubicado en las afueras/extremo exterior de la ciudad.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Gone Too Far 🗺️",
+    "text": "If you hit the gas station, you've {{c1::gone too far}}; turn back.",
+    "explanation": "To 'go too far' means to travel past the intended destination or target point.",
+    "usage": "Pattern: <code>go too far / pass the destination</code><ul><li><code>If you reach the river, you've gone too far.</code></li><li><code>I think we went too far; we should turn around.</code></li></ul>",
+    "spanish": "Si llega a la gasolinera, se ha pasado; regrese.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Roundabout Exit 🗺️",
+    "text": "Take the second exit at the {{c1::roundabout}} to stay on Main Street.",
+    "explanation": "A 'roundabout' (or traffic circle) is a circular intersection where drivers travel counterclockwise (or clockwise in UK) around a central island.",
+    "usage": "Pattern: <code>roundabout / traffic circle</code><ul><li><code>Go straight through the first roundabout.</code></li><li><code>Turn right at the roundabout.</code></li></ul>",
+    "spanish": "Tome la segunda salida en la rotonda para permanecer en la calle principal.",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Asking_Directions",
+    "scenario": "Directions: Hail a Cab 🗺️",
+    "text": "Is it quicker to walk or to {{c1::hail a cab}} from here?",
+    "explanation": "To 'hail a cab' (or hail a taxi) means to signal a taxi on the street (typically by raising your arm) to stop and pick you up.",
+    "usage": "Pattern: <code>hail a cab / catch a taxi</code><ul><li><code>We stood in the rain trying to hail a cab for fifteen minutes.</code></li><li><code>It is easy to hail a cab in this neighborhood.</code></li></ul>",
+    "spanish": "¿Es más rápido caminar o pedir/hacerle señas a un taxi desde aquí?",
+    "tags": [
+      "english_scenario",
+      "directions",
+      "vocabulary"
+    ]
   }
 ]

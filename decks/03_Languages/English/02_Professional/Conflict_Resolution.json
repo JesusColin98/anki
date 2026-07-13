@@ -11,5 +11,122 @@
       "advanced",
       "conflict_resolution"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Middle Ground 🤝",
+    "text": "I understand your frustration, let's focus on finding a {{c1::middle ground}} that works for both teams.",
+    "explanation": "A 'middle ground' is a compromise or position of agreement between two opposing viewpoints or parties.",
+    "usage": "Pattern: <code>find a middle ground / compromise</code><ul><li><code>Negotiations succeeded once both sides found a middle ground.</code></li><li><code>We need to establish a middle ground regarding work hours.</code></li></ul>",
+    "spanish": "Entiendo su frustración, enfoquémonos en encontrar un punto medio/acuerdo que funcione para ambos equipos.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Iron Out 🤝",
+    "text": "Let's schedule a call to {{c1::iron out}} these misunderstandings before the client meeting.",
+    "explanation": "To 'iron out' is a phrasal verb meaning to resolve, smooth over, or eliminate minor problems or differences in views.",
+    "usage": "Pattern: <code>iron out [problems / details / differences]</code><ul><li><code>We need to iron out the details of the contract.</code></li><li><code>They met to iron out their political differences.</code></li></ul>",
+    "spanish": "Agendemos una llamada para resolver/limar estas asperezas antes de la reunión con el cliente.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Elaborate Concerns 🤝",
+    "text": "I want to make sure I fully grasp your point; could you please {{c1::elaborate on}} your concerns?",
+    "explanation": "To 'elaborate on' means to add more details, explanation, or information to a statement that was previously brief.",
+    "usage": "Pattern: <code>elaborate on [point / concerns / strategy]</code><ul><li><code>Could you elaborate on how this database schema works?</code></li><li><code>The manager elaborated on the restructuring plan.</code></li></ul>",
+    "spanish": "Quiero asegurarme de entender completamente su punto; ¿podría por favor detallar/explayarse sobre sus preocupaciones?",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Pointing Fingers 🤝",
+    "text": "Let's keep this discussion objective and avoid {{c1::pointing fingers}} at individuals.",
+    "explanation": "To 'point fingers' is an idiomatic expression meaning to accuse or place blame on someone else for a failure or problem.",
+    "usage": "Pattern: <code>point fingers / play the blame game</code><ul><li><code>Instead of pointing fingers, let's focus on fixing the bug.</code></li><li><code>She is always quick to point fingers when things go wrong.</code></li></ul>",
+    "spanish": "Mantengamos esta discusión objetiva y evitemos buscar culpables/echarle la culpa a individuos.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Root Cause 🤝",
+    "text": "I appreciate you bringing this up; let's work together to {{c1::address the root cause}} of this issue.",
+    "explanation": "To 'address the root cause' means to identify and fix the underlying, fundamental reason why a problem occurred, rather than just treating symptoms.",
+    "usage": "Pattern: <code>address the root cause / resolve root issue</code><ul><li><code>Rebooting the server only patches the symptom; we must address the root cause.</code></li><li><code>Our investigation aimed to address the root cause of the data breach.</code></li></ul>",
+    "spanish": "Le agradezco que mencione esto; trabajemos juntos para abordar la causa raíz de este problema.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Deadlock State 🤝",
+    "text": "We seem to have reached a {{c1::deadlock}}; let's bring in a neutral third party to mediate.",
+    "explanation": "A 'deadlock' (or impasse) is a situation in a negotiation where no progress is possible because neither party is willing to compromise.",
+    "usage": "Pattern: <code>reach a deadlock / break a deadlock</code><ul><li><code>The contract talks ended in a complete deadlock.</code></li><li><code>We need a mediator to help us break the deadlock.</code></li></ul>",
+    "spanish": "Parece que hemos llegado a un punto muerto/callejón sin salida; involucremos a un tercero neutral para mediar.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Cut Corners 🤝",
+    "text": "I agree that we need to act fast, but we cannot afford to {{c1::cut corners}} on safety.",
+    "explanation": "To 'cut corners' is an idiom meaning to do something in the easiest, cheapest, or fastest way, often sacrificing quality or safety standards.",
+    "usage": "Pattern: <code>cut corners / skimp on quality</code><ul><li><code>The builder cut corners and used cheap materials.</code></li><li><code>Never cut corners on database security audits.</code></li></ul>",
+    "spanish": "Estoy de acuerdo en que debemos actuar rápido, pero no podemos permitirnos tomar atajos/escatimar en seguridad.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Bigger Picture 🤝",
+    "text": "Let's take a step back and look at the {{c1::bigger picture}} before making a decision.",
+    "explanation": "The 'bigger picture' refers to the overall context, long-term goals, or broad view of a situation, rather than small details.",
+    "usage": "Pattern: <code>look at the bigger picture / overview</code><ul><li><code>Don't get bogged down in detail; look at the bigger picture.</code></li><li><code>A manager must always focus on the bigger picture.</code></li></ul>",
+    "spanish": "Demos un paso atrás y miremos el panorama completo/la perspectiva general antes de tomar una decisión.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Conflict_Resolution",
+    "scenario": "Conflict: Make It Right 🤝",
+    "text": "I apologize for the oversight; I will take full responsibility and {{c1::make it right}}.",
+    "explanation": "To 'make it right' means to correct a mistake, repair a bad situation, or compensate someone for an error.",
+    "usage": "Pattern: <code>make it right / repair the damage</code><ul><li><code>We sent the client a refund to make it right.</code></li><li><code>If you make a mistake, do your best to make it right.</code></li></ul>",
+    "spanish": "Pido disculpas por el descuido; asumiré toda la responsabilidad y lo corregiré/enmendaré.",
+    "tags": [
+      "english_scenario",
+      "conflict_resolution",
+      "business_english"
+    ]
   }
 ]

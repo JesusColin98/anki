@@ -11,5 +11,122 @@
       "interview",
       "vocabulary"
     ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Particularly Proud 👔",
+    "text": "Could you walk me through your background and describe a project you are {{c1::particularly proud of}}?",
+    "explanation": "To be 'particularly proud of' means to feel a deep sense of satisfaction or accomplishment regarding a specific work piece or result.",
+    "usage": "Pattern: <code>particularly proud of [project / achievement]</code><ul><li><code>I am particularly proud of the database migration we completed last month.</code></li><li><code>She is particularly proud of her team's growth.</code></li></ul>",
+    "spanish": "¿Podría guiarme a través de su trayectoria y describir un proyecto del cual esté especialmente orgulloso?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Under Pressure 👔",
+    "text": "When faced with tight deadlines, how do you prioritize tasks and manage {{c1::under pressure}}?",
+    "explanation": "To manage or work 'under pressure' means to maintain high performance, focus, and emotional control during high-stress conditions.",
+    "usage": "Pattern: <code>work under pressure / perform under pressure</code><ul><li><code>Our ideal candidate must be able to work under pressure.</code></li><li><code>I have learned to stay calm and organized under pressure.</code></li></ul>",
+    "spanish": "Cuando se enfrenta a plazos de entrega ajustados, ¿cómo prioriza las tareas y se desenvuelve bajo presión?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Within Company 👔",
+    "text": "I am looking for a role where I can apply my skills and grow {{c1::within the company}}.",
+    "explanation": "To grow 'within the company' means to advance your career path, receive promotions, and take on new roles inside the same organization over time.",
+    "usage": "Pattern: <code>grow within the company / internal promotion</code><ul><li><code>There are many opportunities to grow within the company.</code></li><li><code>I want to build a long-term career and grow within the company.</code></li></ul>",
+    "spanish": "Estoy buscando un puesto donde pueda aplicar mis habilidades y crecer dentro de la empresa.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Core Values 👔",
+    "text": "Why are you interested in joining our team, and what do you know about our {{c1::core values}}?",
+    "explanation": "'Core values' are the fundamental beliefs and guiding principles that dictate behavior, decisions, and culture inside an organization.",
+    "usage": "Pattern: <code>core values / company culture</code><ul><li><code>Our core values include integrity, innovation, and teamwork.</code></li><li><code>Aligning with the company's core values is essential.</code></li></ul>",
+    "spanish": "¿Por qué está interesado en unirse a nuestro equipo, y qué sabe sobre nuestros valores fundamentales?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Conflict Resolution 👔",
+    "text": "Could you give me an example of a time you had a conflict with a coworker and how you {{c1::resolved it}}?",
+    "explanation": "To 'resolve a conflict' means to settle a disagreement, dispute, or friction between coworkers in a professional, constructive manner.",
+    "usage": "Pattern: <code>resolve a conflict / settle a dispute</code><ul><li><code>We resolved the conflict by scheduling a private discussion.</code></li><li><code>HR helps employees resolve conflicts in the office.</code></li></ul>",
+    "spanish": "¿Podría darme un ejemplo de alguna ocasión en la que haya tenido un conflicto con un compañero de trabajo y cómo lo resolvió?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Work Independently 👔",
+    "text": "I am comfortable working in both collaborative team environments and {{c1::independently}}.",
+    "explanation": "To work 'independently' means to execute tasks, make decisions, and manage your time without constant supervision or direction.",
+    "usage": "Pattern: <code>work independently / self-directed</code><ul><li><code>This role requires someone who can work independently with minimal guidance.</code></li><li><code>He is capable of working independently on complex tasks.</code></li></ul>",
+    "spanish": "Me siento cómodo trabajando tanto en entornos de equipo colaborativos como de manera independiente.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Salary Expectations 👔",
+    "text": "What are your salary expectations for this position, and do you have any {{c1::flexibility}}?",
+    "explanation": "'Salary expectations' refer to the target compensation range an applicant wants to earn in a new job. Asking about 'flexibility' queries if they are open to negotiation.",
+    "usage": "Pattern: <code>salary expectations / target compensation</code><ul><li><code>My salary expectations are in the range of $80,000 to $90,000.</code></li><li><code>We discussed salary expectations during the initial phone screening.</code></li></ul>",
+    "spanish": "¿Cuáles son sus expectativas salariales para este puesto, y tiene alguna flexibilidad?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Next Steps 👔",
+    "text": "Thank you for your time today; I look forward to hearing about the {{c1::next steps}} in the process.",
+    "explanation": "The 'next steps' in a recruiting process refer to the subsequent phases (e.g. technical interview, reference checks, final offer).",
+    "usage": "Pattern: <code>next steps / follow-up process</code><ul><li><code>What are the next steps in your hiring process?</code></li><li><code>The recruiter will contact you regarding the next steps.</code></li></ul>",
+    "spanish": "Gracias por su tiempo hoy; espero con interés saber de los siguientes pasos en el proceso.",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::02_Professional::Interview_Skills",
+    "scenario": "Interview: Team Dynamics 👔",
+    "text": "Do you have any questions for us about the role or the team {{c1::dynamics}}?",
+    "explanation": "'Team dynamics' refer to the psychological forces and behavioral relationships that influence how a team communicates and collaborates.",
+    "usage": "Pattern: <code>team dynamics / working relationships</code><ul><li><code>I want to ask about the team dynamics and how tasks are assigned.</code></li><li><code>Resolving conflict is crucial to maintaining positive team dynamics.</code></li></ul>",
+    "spanish": "¿Tiene alguna pregunta para nosotros sobre el puesto o la dinámica del equipo?",
+    "tags": [
+      "english_scenario",
+      "interview_skills",
+      "business_english"
+    ]
   }
 ]

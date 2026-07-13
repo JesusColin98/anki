@@ -63,5 +63,70 @@
       "games",
       "rules"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Take Out Trash 🏠",
+    "text": "Don't forget to {{c1::take out the trash}} before the garbage truck arrives tomorrow morning.",
+    "explanation": "To 'take out the trash' means to carry refuse or garbage containers from inside the house to the outdoor collection spot.",
+    "usage": "Pattern: <code>take out the trash / take out the rubbish</code><ul><li><code>It is your turn to take out the trash tonight.</code></li><li><code>I took out the trash before going to bed.</code></li></ul>",
+    "spanish": "No olvides sacar la basura antes de que llegue el camión de la basura mañana por la mañana.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Run Errands 🏠",
+    "text": "I need to {{c1::run some errands}}, including dropping off the dry cleaning and buying groceries.",
+    "explanation": "To 'run errands' means to take short trips to complete daily tasks or chores outside the house (e.g. post office, grocery store, cleaners).",
+    "usage": "Pattern: <code>run errands / do errands</code><ul><li><code>I have to run some errands this afternoon, so I'll be out of the office.</code></li><li><code>She spent the whole Saturday running errands.</code></li></ul>",
+    "spanish": "Necesito hacer algunos mandados/recados, incluyendo dejar la ropa en la tintorería y comprar víveres.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Call Plumber 🏠",
+    "text": "The kitchen sink is leaking, so I need to {{c1::call a plumber}} to fix it.",
+    "explanation": "To 'call a plumber' is a standard collocation for contacting a professional who installs and repairs pipes, fixtures, and water systems.",
+    "usage": "Pattern: <code>call a plumber / hire a plumber</code><ul><li><code>We had to call a plumber to unclog the drain.</code></li><li><code>The plumber charged $100 just to inspect the pipes.</code></li></ul>",
+    "spanish": "El fregadero de la cocina gotea, así que necesito llamar a un plomero para que lo arregle.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Stock Up 🏠",
+    "text": "We need to {{c1::stock up on}} toilet paper and paper towels this weekend.",
+    "explanation": "To 'stock up on' means to buy a large quantity of something (usually household supplies or food) to keep for future use.",
+    "usage": "Pattern: <code>stock up on [goods]</code><ul><li><code>People stocked up on water and canned food before the storm.</code></li><li><code>I always stock up on coffee when it goes on sale.</code></li></ul>",
+    "spanish": "Necesitamos abastecernos de papel higiénico y toallas de papel este fin de semana.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Home_Logistics",
+    "scenario": "Home: Put Away Groceries 🏠",
+    "text": "Could you please {{c1::put away the groceries}} in the pantry?",
+    "explanation": "To 'put away groceries' means to place purchased food items in their proper storage locations (fridge, freezer, cabinets, pantry) after shopping.",
+    "usage": "Pattern: <code>put away the groceries</code><ul><li><code>Help me put away the groceries before the ice cream melts.</code></li><li><code>She was busy putting away the groceries.</code></li></ul>",
+    "spanish": "¿Podrías por favor guardar las compras en la despensa?",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
   }
 ]

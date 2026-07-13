@@ -11,5 +11,122 @@
       "intermediate",
       "hotel"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Check-in 🛎️",
+    "text": "I have a reservation under the name Colin, and I'd like to {{c1::check in}}.",
+    "explanation": "To 'check in' at a hotel is the formal process of registering, showing ID, providing payment, and receiving room keys.",
+    "usage": "Pattern: <code>check in / check-in desk</code><ul><li><code>We can't check in until 3:00 PM.</code></li><li><code>Where is the check-in counter?</code></li></ul>",
+    "spanish": "Tengo una reservación bajo el nombre Colin, y me gustaría registrarme.",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Include Breakfast 🛎️",
+    "text": "Does the room rate {{c1::include breakfast}}, or is there an extra charge?",
+    "explanation": "To 'include breakfast' means that breakfast is provided for free as part of the price paid for the hotel room (often called 'complimentary breakfast').",
+    "usage": "Pattern: <code>include breakfast / complimentary breakfast</code><ul><li><code>Does this booking include breakfast?</code></li><li><code>Our stay includes a free buffet breakfast.</code></li></ul>",
+    "spanish": "¿La tarifa de la habitación incluye desayuno, o hay un cargo extra?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Late Check-out 🛎️",
+    "text": "Could we request a {{c1::late check-out}} for tomorrow at 2:00 PM?",
+    "explanation": "A 'late check-out' is an arrangement allowing hotel guests to stay in their room past the standard checkout time (typically 11:00 AM or 12:00 PM).",
+    "usage": "Pattern: <code>late check-out / request a late check-out</code><ul><li><code>We requested a late check-out because our flight is at night.</code></li><li><code>The hotel charged us a fee for late check-out.</code></li></ul>",
+    "spanish": "¿Podríamos solicitar una salida tardía para mañana a las 2:00 PM?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Shuttle Service 🛎️",
+    "text": "Excuse me, does the hotel offer a {{c1::shuttle service}} to the airport?",
+    "explanation": "A 'shuttle service' is a regular, complimentary transport service (usually a van or bus) provided by a hotel to move guests to and from specific locations like airports or tourist sights.",
+    "usage": "Pattern: <code>shuttle service / airport shuttle</code><ul><li><code>The hotel shuttle service runs every half hour.</code></li><li><code>We took the free shuttle service to the beach.</code></li></ul>",
+    "spanish": "Disculpe, ¿el hotel ofrece servicio de transporte gratuito al aeropuerto?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Re-key Card 🛎️",
+    "text": "My key card is not working; could you please {{c1::re-key it}} for me?",
+    "explanation": "To 're-key' a card means to reprogram the electronic magnetic strip or RFID chip on a hotel key card so that it opens the guest's room door.",
+    "usage": "Pattern: <code>re-key the card / reprogram the key</code><ul><li><code>My card got deactivated near my phone, so they had to re-key it.</code></li><li><code>The receptionist re-keyed my card in seconds.</code></li></ul>",
+    "spanish": "Mi tarjeta llave no funciona; ¿podría volver a programarla para mí?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Send to Room 🛎️",
+    "text": "Could you please send some extra towels and toiletries up to {{c1::our room}}?",
+    "explanation": "To 'send up to a room' is the standard phrasal expression used by guests when requesting room service or housekeeping to deliver items directly to their hotel room.",
+    "usage": "Pattern: <code>send [items] up to our room</code><ul><li><code>Could you send a bottle of water up to room 405?</code></li><li><code>Housekeeping will send the pillows up to your room.</code></li></ul>",
+    "spanish": "¿Podría por favor enviar algunas toallas y artículos de tocador adicionales a nuestra habitación?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Safe Box 🛎️",
+    "text": "Is there a {{c1::safe deposit box}} in the room to store our valuables?",
+    "explanation": "A 'safe deposit box' (or in-room safe) is a small, secure electronic metal box inside a hotel room closet where guests can store passports, cash, and jewelry.",
+    "usage": "Pattern: <code>safe deposit box / room safe</code><ul><li><code>I put my passport in the safe deposit box.</code></li><li><code>Make sure you lock the safe deposit box before leaving.</code></li></ul>",
+    "spanish": "¿Hay caja fuerte en la habitación para guardar nuestros objetos de valor?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Free Calling 🛎️",
+    "text": "I need to make a phone call, is there free {{c1::local calling}} from the room?",
+    "explanation": "'Local calling' refers to telephone calls made to numbers within the same city or local calling area, which hotels often offer for free.",
+    "usage": "Pattern: <code>local calling / long-distance calls</code><ul><li><code>Local calling is free, but long-distance calls will be charged to your room.</code></li><li><code>Does this phone support free local calling?</code></li></ul>",
+    "spanish": "Necesito hacer una llamada telefónica, ¿hay llamadas locales gratuitas desde la habitación?",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Hotel",
+    "scenario": "Hotel: Leave Bags 🛎️",
+    "text": "We'd like to {{c1::leave our bags}} at the front desk until our room is ready.",
+    "explanation": "To 'leave bags' (or store luggage) means to temporarily place your suitcases in the hotel's secure holding room when arriving before check-in or departing after check-out.",
+    "usage": "Pattern: <code>leave our bags / store our luggage</code><ul><li><code>Can we leave our bags here while we explore the city?</code></li><li><code>You can leave your bags with the bellhop.</code></li></ul>",
+    "spanish": "Nos gustaría dejar nuestras maletas en recepción hasta que nuestra habitación esté lista.",
+    "tags": [
+      "english_scenario",
+      "hotel",
+      "vocabulary"
+    ]
   }
 ]

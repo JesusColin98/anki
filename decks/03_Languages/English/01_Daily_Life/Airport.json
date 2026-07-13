@@ -39,5 +39,96 @@
       "conversation",
       "vocabulary"
     ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Counter ✈️",
+    "text": "Could you please tell me where the {{c1::baggage drop-off}} counter is?",
+    "explanation": "The 'baggage drop-off' is the designated counter where passengers who have already checked in online can drop off their luggage before heading to security.",
+    "usage": "Pattern: <code>baggage drop-off / bag drop</code><ul><li><code>Where is the bag drop for airline passengers?</code></li><li><code>You can bypass the main line if you only need the baggage drop-off.</code></li></ul>",
+    "spanish": "¿Podría decirme por favor dónde está el mostrador de entrega de equipaje?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Cabin Luggage ✈️",
+    "text": "I need to check in my luggage, but I want to keep this briefcase as my {{c1::personal item}}.",
+    "explanation": "A 'personal item' is a small bag (like a purse, laptop bag, or small backpack) that must fit under the seat in front of you on a plane, distinct from standard carry-on luggage.",
+    "usage": "Pattern: <code>personal item</code><ul><li><code>Most budget airlines allow one personal item for free.</code></li><li><code>Your laptop bag counts as a personal item.</code></li></ul>",
+    "spanish": "Necesito registrar mi equipaje, pero quiero conservar este maletín como mi artículo personal.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Flight Delay ✈️",
+    "text": "The flight has been delayed, so we need to wait at the {{c1::departure gate}}.",
+    "explanation": "The 'departure gate' (or boarding gate) is the specific area in an airport terminal where passengers assemble to board their aircraft.",
+    "usage": "Pattern: <code>departure gate / boarding gate</code><ul><li><code>Our departure gate has changed from gate 12 to gate 15.</code></li><li><code>Please report to the departure gate immediately.</code></li></ul>",
+    "spanish": "El vuelo se ha retrasado, así que tenemos que esperar en la puerta de salida/embarque.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Layover ✈️",
+    "text": "Excuse me, does this flight have a {{c1::layover}} in New York?",
+    "explanation": "A 'layover' (or connection) is a period of waiting between flights at an intermediate airport before reaching the final destination.",
+    "usage": "Pattern: <code>layover / connection</code><ul><li><code>We have a three-hour layover in Chicago.</code></li><li><code>I prefer direct flights because I hate long layovers.</code></li></ul>",
+    "spanish": "Disculpe, ¿este vuelo tiene una escala en Nueva York?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Security Control ✈️",
+    "text": "We need to go through {{c1::security screening}} before we can access the duty-free area.",
+    "explanation": "The 'security screening' is the checkpoint in an airport where passengers and their baggage are inspected by security officers and scanning machines.",
+    "usage": "Pattern: <code>security screening / security check</code><ul><li><code>The line at the security screening was incredibly long.</code></li><li><code>Remove all laptops and liquids before security screening.</code></li></ul>",
+    "spanish": "Necesitamos pasar por el control de seguridad antes de poder acceder al área libre de impuestos.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Boarding Pass ✈️",
+    "text": "Please have your {{c1::boarding pass}} and ID ready for inspection.",
+    "explanation": "A 'boarding pass' is a document provided by an airline during check-in, giving a passenger permission to board the airplane for a specific flight.",
+    "usage": "Pattern: <code>boarding pass / boarding document</code><ul><li><code>You can show your digital boarding pass on your phone.</code></li><li><code>Please print your boarding pass at the kiosk.</code></li></ul>",
+    "spanish": "Por favor, tenga su pase de abordar e identificación listos para inspección.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::01_Daily_Life::Airport",
+    "scenario": "English: Airport Overbooking ✈️",
+    "text": "My flight was overbooked, and they offered me travel vouchers if I {{c1::volunteered to take}} a later flight.",
+    "explanation": "To 'volunteer to take' a later flight means agreeing to give up your seat on an overbooked flight in exchange for compensation (such as travel vouchers or money).",
+    "usage": "Pattern: <code>volunteer to take [flight]</code><ul><li><code>No one volunteered to take the next flight, so they started bumped passengers.</code></li><li><code>I volunteered to take a later flight because the vouchers were worth $500.</code></li></ul>",
+    "spanish": "Mi vuelo estaba sobrevendido, y me ofrecieron vales de viaje si me ofrecía como voluntario para tomar un vuelo posterior.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
   }
 ]
