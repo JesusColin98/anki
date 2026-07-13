@@ -63,5 +63,70 @@
       "drift",
       "monitoring"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Explainability: SHAP Values 🔍",
+    "text": "To calculate the contribution of each feature to a model's prediction using cooperative game theory, you compute {{c1::Shapley values}} (SHAP).",
+    "explanation": "SHAP (SHapley Additive exPlanations) values assign a numeric contribution to each feature for a specific prediction, satisfying properties of local accuracy, missingness, and consistency.",
+    "usage": "In Python: <code>import shap; explainer = shap.Explainer(model); shap_values = explainer(X)</code>.",
+    "spanish": "Para calcular la contribución de cada característica a la predicción de un modelo utilizando la teoría de juegos cooperativos, calculas los valores de Shapley (SHAP).",
+    "tags": [
+      "explainability",
+      "shap",
+      "feature_importance"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Explainability: LIME Model 🔍",
+    "text": "To explain individual predictions of any black-box model, {{c1::LIME}} trains a local interpretable surrogate model around the prediction.",
+    "explanation": "LIME (Local Interpretable Model-agnostic Explanations) perturbs the input sample, gets predictions from the black-box model, and fits a simple linear model (surrogate) weighted by proximity to explain the local decision boundary.",
+    "usage": "LIME is agnostic, meaning it can explain any model (Random Forest, Neural Networks, SVMs) for text, images, or tabular data.",
+    "spanish": "Para explicar predicciones individuales de cualquier modelo de caja negra, LIME entrena un modelo sustituto interpretable local alrededor de la predicción.",
+    "tags": [
+      "explainability",
+      "lime",
+      "surrogate"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Optimization: SGD 🔍",
+    "text": "To minimize loss functions in large datasets, {{c1::Stochastic Gradient Descent}} (SGD) updates parameters using the gradient of a single randomly selected sample.",
+    "explanation": "Instead of computing the gradient over the entire dataset (Batch GD), SGD computes the gradient on one sample per step. This introduces noise but speeds up computations and helps escape local minima.",
+    "usage": "Standard update rule: \\(\\theta = \\theta - \\eta \\nabla L_i(\\theta)\\) where \\(\\eta\\) is the learning rate.",
+    "spanish": "Para minimizar las funciones de pérdida en grandes conjuntos de datos, el Descenso de Gradiente Estocástico (SGD) actualiza los parámetros utilizando el gradiente de un solo ejemplo seleccionado al azar.",
+    "tags": [
+      "optimization",
+      "sgd",
+      "calculus"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Optimization: Adam 🔍",
+    "text": "For training deep neural networks efficiently, the {{c1::Adam}} optimizer computes adaptive learning rates for each parameter using estimates of first and second moments.",
+    "explanation": "Adam (Adaptive Moment Estimation) combines the principles of Momentum (storing past gradients) and RMSProp (scaling gradients by the root mean square of past gradients).",
+    "usage": "Adam parameters typically default to: \\(\\beta_1 = 0.9\\), \\(\\beta_2 = 0.999\\), and \\(\\epsilon = 10^{-8}\\).",
+    "spanish": "Para entrenar redes neuronales profundas eficientemente, el optimizador Adam calcula tasas de aprendizaje adaptativas para cada parámetro utilizando estimaciones de primer y segundo momento.",
+    "tags": [
+      "optimization",
+      "adam",
+      "neural_networks"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Explainability: Permutation Importance 🔍",
+    "text": "To measure a feature's global importance in a model-agnostic way, we shuffle the feature's values and measure the drop in performance, a method called {{c1::permutation importance}}.",
+    "explanation": "Permutation feature importance measures the increase in prediction error after shuffling the values of a feature, which breaks the relationship between that feature and the target.",
+    "usage": "In Scikit-Learn: <code>from sklearn.inspection import permutation_importance; result = permutation_importance(model, X, y)</code>.",
+    "spanish": "Para medir la importancia global de una característica de manera agnóstica al modelo, barajamos los valores de la característica y medimos la caída en el rendimiento, un método llamado importancia de permutación.",
+    "tags": [
+      "explainability",
+      "feature_importance",
+      "permutation"
+    ]
   }
 ]

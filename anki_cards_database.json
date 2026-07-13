@@ -239,6 +239,90 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
+    "scenario": "Agent Frameworks: CrewAI 🤖",
+    "text": "To build collaborative groups of AI agents that role-play and execute structured tasks, you use the {{c1::CrewAI}} framework, which organizes agents into crews.",
+    "explanation": "CrewAI is a framework designed to orchestrate role-playing, autonomous AI agents. By assigning specific roles, goals, and backstories to each agent, they can collaborate and perform complex multi-agent workflows.",
+    "usage": "In CrewAI, you define <code>Agent</code>, <code>Task</code>, and <code>Crew</code> objects, passing tools directly to the agents for execution.",
+    "spanish": "Para crear grupos colaborativos de agentes de IA que asuman roles y ejecuten tareas estructuradas, utilizas el entorno de trabajo CrewAI, que organiza los agentes en tripulaciones.",
+    "tags": [
+      "ai",
+      "agents",
+      "frameworks",
+      "crewai"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
+    "scenario": "Agent Frameworks: AutoGen 🤖",
+    "text": "For building multi-agent systems where agents communicate via conversational turns, Microsoft developed {{c1::AutoGen}}, which supports customizable chat patterns.",
+    "explanation": "AutoGen is a developer framework that allows multiple agents to converse with one another to solve tasks. It supports human participation, tool execution, and diverse conversation flows (like joint chat or hierarchical chat).",
+    "usage": "AutoGen uses <code>ConversableAgent</code> and <code>UserProxyAgent</code> objects to orchestrate conversations and code execution.",
+    "spanish": "Para construir sistemas multi-agente donde los agentes se comunican mediante turnos conversacionales, Microsoft desarrolló AutoGen, que admite patrones de chat personalizables.",
+    "tags": [
+      "ai",
+      "agents",
+      "frameworks",
+      "autogen"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
+    "scenario": "Agent Frameworks: LangGraph 🤖",
+    "text": "To build stateful, multi-agent applications using graph-based cyclic control flows, you use {{c1::LangGraph}}, which represents agents as nodes and transitions as edges.",
+    "explanation": "LangGraph extends LangChain by allowing developers to define agentic workflows as graphs. It supports cycles, which are crucial for agentic loops (like ReAct), and maintains a persistent state across agent steps.",
+    "usage": "In LangGraph, you define a <code>StateGraph</code>, add nodes using functions, define conditional edges, and compile it into a runnable application.",
+    "spanish": "Para construir aplicaciones multi-agente con estado utilizando flujos de control cíclicos basados en grafos, utilizas LangGraph, que representa a los agentes como nodos y las transiciones como aristas.",
+    "tags": [
+      "ai",
+      "agents",
+      "frameworks",
+      "langgraph"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
+    "scenario": "Agent Frameworks: Semantic Kernel 🤖",
+    "text": "To integrate LLMs into conventional programming languages like C# and Java using native functions and planners, you use Microsoft's {{c1::Semantic Kernel}}.",
+    "explanation": "Semantic Kernel is an SDK that enables integration of AI services with conventional programming languages. It allows developers to define plugins (semantic and native functions) and use planners to automatically execute them.",
+    "usage": "Semantic Kernel supports importing custom plugins and automatically mapping LLM prompts to native C# or Python functions.",
+    "spanish": "Para integrar LLMs en lenguajes de programación convencionales como C# y Java utilizando funciones nativas y planificadores, utilizas Semantic Kernel de Microsoft.",
+    "tags": [
+      "ai",
+      "agents",
+      "frameworks",
+      "semantic_kernel"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
+    "scenario": "Agent Frameworks: Message Passing 🤖",
+    "text": "To prevent blocking and ensure high throughput in multi-agent networks, agents coordinate using {{c1::asynchronous message passing}} protocols.",
+    "explanation": "Asynchronous message passing allows agents to send messages to other agents' inboxes without waiting for an immediate response. This decouples agent execution, improving performance in complex systems.",
+    "usage": "In multi-agent frameworks, agents write to a shared queue or event broker (like RabbitMQ) to achieve asynchronous message passing.",
+    "spanish": "Para evitar el bloqueo y asegurar un alto rendimiento en redes multi-agente, los agentes se coordinan utilizando protocolos de paso de mensajes asincrónicos.",
+    "tags": [
+      "ai",
+      "agents",
+      "frameworks",
+      "networking"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
+    "scenario": "Agent Frameworks: State Sharing 🤖",
+    "text": "To maintain a shared understanding of a task across multiple agents, frameworks implement a centralized database or {{c1::state sharing}} mechanism.",
+    "explanation": "State sharing allows multiple agents in a crew or swarm to read from and write to a common database (like Redis or a graph database). This ensures all agents are aligned on the current task progress.",
+    "usage": "LangGraph implements state sharing by passing a common <code>State</code> dictionary to every node in the graph.",
+    "spanish": "Para mantener un entendimiento compartido de una tarea a lo largo de múltiples agentes, los entornos de trabajo implementan una base de datos centralizada o un mecanismo de intercambio de estado (state sharing).",
+    "tags": [
+      "ai",
+      "agents",
+      "frameworks",
+      "state"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
     "scenario": "Agentic Systems: Planning 🤖",
     "text": "The ReAct framework combines reasoning and acting by generating alternating sequences of {{c1::Thought}}, {{c1::Action}}, and {{c1::Observation}}.",
@@ -260,6 +344,118 @@
     "tags": [
       "ai_learning_path",
       "agentic_systems"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
+    "scenario": "Agentic Systems: ReAct Loop 🤖",
+    "text": "To combine reasoning (thoughts) and actions (tool execution) in a continuous loop, agents implement the {{c1::ReAct}} framework.",
+    "explanation": "The ReAct (Reason + Act) paradigm prompts the LLM to generate a 'Thought' (reasoning about the goal), then execute an 'Action' (calling a tool), and observe the 'Observation' (tool output), repeating until the task is complete.",
+    "usage": "Standard ReAct prompt pattern: <code>Thought: [reasoning] -> Action: [tool] -> Observation: [result]</code>, looping until Final Answer.",
+    "spanish": "Para combinar el razonamiento (pensamientos) y las acciones (ejecución de herramientas) en un bucle continuo, los agentes implementan el marco de trabajo ReAct.",
+    "tags": [
+      "ai",
+      "agents",
+      "react",
+      "planning"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
+    "scenario": "Agentic Systems: Self-Reflection 🤖",
+    "text": "To improve output quality, agents run a validation step where they inspect their own output and suggest corrections; this is called {{c1::self-reflection}}.",
+    "explanation": "Self-reflection prompts the agent to play the role of an evaluator. It evaluates if the generated output meets the quality criteria and, if errors are found, generates a revised prompt to fix them.",
+    "usage": "The agent generates a draft, passes it to a reflection prompt: <code>Review this output for errors and revise if necessary</code>.",
+    "spanish": "Para mejorar la calidad de la salida, los agentes ejecutan un paso de validación en el que inspeccionan su propio resultado y sugieren correcciones; esto se llama auto-reflexión (self-reflection).",
+    "tags": [
+      "ai",
+      "agents",
+      "reflection",
+      "optimization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
+    "scenario": "Agentic Systems: Memory Types 🤖",
+    "text": "To recall past user interactions and facts across sessions, agent architectures implement {{c1::episodic memory}} using vector stores.",
+    "explanation": "Episodic memory stores the logs of past interactions or episodes. By embedding these logs and saving them in a vector database, the agent can perform semantic search to recall past context during a new session.",
+    "usage": "Episodic memory uses vector databases (like Chroma or Pinecone) to perform similarity search on past conversation logs.",
+    "spanish": "Para recordar interacciones pasadas del usuario y hechos a lo largo de las sesiones, las arquitecturas de agentes implementan memoria episódica utilizando almacenes de vectores.",
+    "tags": [
+      "ai",
+      "agents",
+      "memory",
+      "vector_db"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
+    "scenario": "Agentic Systems: Tool Use 🤖",
+    "text": "To interact with external APIs, databases, or run code, the agent translates a natural language request into a structured {{c1::tool call}}.",
+    "explanation": "Tool calling is the mechanism where the LLM selects a tool from a schema (name, description, parameters) and outputs a JSON containing the arguments, which the system then executes.",
+    "usage": "JSON output structure for a tool call: <code>{\"name\": \"run_code\", \"arguments\": {\"code\": \"print('hello')\"}}</code>.",
+    "spanish": "Para interactuar con APIs externas, bases de datos o ejecutar código, el agente traduce una solicitud en lenguaje natural en una llamada a herramienta estructurada (tool call).",
+    "tags": [
+      "ai",
+      "agents",
+      "tools",
+      "json"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
+    "scenario": "Agentic Systems: Task Decomposition 🤖",
+    "text": "To handle large, complex tasks, agents use {{c1::task decomposition}} to break the main goal into smaller sub-tasks.",
+    "explanation": "Task decomposition involves dividing a complex objective into sequential or parallel sub-tasks. This reduces context load and allows specialized agents or tools to handle each sub-step.",
+    "usage": "An agent receives a query, uses a planning prompt to write a checklist (sub-tasks), and tracks progress sequentially.",
+    "spanish": "Para manejar tareas grandes y complejas, los agentes utilizan la descomposición de tareas (task decomposition) para dividir el objetivo principal en subtareas más pequeñas.",
+    "tags": [
+      "ai",
+      "agents",
+      "planning",
+      "decomposition"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
+    "scenario": "Agentic Systems: Autonomy 🤖",
+    "text": "Unlike standard chatbots, agentic systems possess high {{c1::autonomy}}, allowing them to decide the sequence of steps and tools to achieve a goal.",
+    "explanation": "Autonomy is the core capability that defines agents. Instead of following a hardcoded script, the agent analyzes the input, decides which tools to run, evaluates the results, and dynamically adjusts its plan.",
+    "usage": "Autonomy is achieved by running the agent in a loop (like ReAct or Plan-and-Solve) until the agent decides to output a final answer.",
+    "spanish": "A diferencia de los chatbots estándar, los sistemas de agentes poseen una alta autonomía, lo que les permite decidir la secuencia de pasos y herramientas para lograr un objetivo.",
+    "tags": [
+      "ai",
+      "agents",
+      "autonomy",
+      "overview"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
+    "scenario": "Agentic Systems: Safety Guardrails 🤖",
+    "text": "To prevent agents from executing harmful actions (like deleting a database), developers implement {{c1::Human-in-the-Loop}} (HITL) approval gates.",
+    "explanation": "Human-in-the-Loop (HITL) is a design pattern where the agent pauses execution and requests approval from a human user before executing a high-risk tool call.",
+    "usage": "In LangGraph, you can set a breakpoint before high-risk nodes (e.g. <code>delete_db</code>) to require human-in-the-loop validation.",
+    "spanish": "Para evitar que los agentes ejecuten acciones dañinas (como borrar una base de datos), los desarrolladores implementan puertas de aprobación humana en el bucle (Human-in-the-Loop).",
+    "tags": [
+      "ai",
+      "agents",
+      "safety",
+      "hitl"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
+    "scenario": "Agentic Systems: Evaluation 🤖",
+    "text": "To evaluate the quality and correctness of an agent's multi-step execution, developers use the {{c1::LLM-as-a-judge}} paradigm.",
+    "explanation": "LLM-as-a-judge leverages a powerful model (like GPT-4) to evaluate the intermediate steps, tool calls, and final output of an agent against a set of rubrics or reference answers.",
+    "usage": "You prompt an evaluator LLM: <code>Grade the following agent run on a scale of 1-5 based on correctness and safety: [log]</code>.",
+    "spanish": "Para evaluar la calidad y corrección de la ejecución de múltiples pasos de un agente, los desarrolladores utilizan el paradigma de LLM como juez (LLM-as-a-judge).",
+    "tags": [
+      "ai",
+      "agents",
+      "evaluation",
+      "metrics"
     ]
   },
   {
@@ -329,6 +525,71 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: Jacobian Matrix 🧮",
+    "text": "To represent all first-order partial derivatives of a vector-valued function, we compute the {{c1::Jacobian matrix}}.",
+    "explanation": "The Jacobian matrix is a matrix of partial derivatives of a function mapping \\(\\mathbb{R}^n \\to \\mathbb{R}^m\\). It is essential in backpropagation for computing gradients of vector outputs relative to vector inputs.",
+    "usage": "If \\(f(x, y) = [x^2, xy]\\), the Jacobian is \\(J = \\begin{bmatrix} 2x & 0 \\\\ y & x \\end{bmatrix}\\).",
+    "spanish": "Para representar todas las derivadas parciales de primer orden de una función con valores vectoriales, calculamos la matriz jacobiana (Jacobian matrix).",
+    "tags": [
+      "ml_math",
+      "calculus",
+      "jacobian"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: Eigenvalues 🧮",
+    "text": "To find the scaling factors of linear transformations along eigenvector directions, we solve the characteristic equation for {{c1::eigenvalues}}.",
+    "explanation": "Eigenvalues are scalars \\(\\lambda\\) such that \\(Av = \\lambda v\\) for a square matrix \\(A\\) and non-zero vector \\(v\\). They are crucial in PCA for determining the variance along principal components.",
+    "usage": "We solve the characteristic equation: \\(\\det(A - \\lambda I) = 0\\) to find the eigenvalues.",
+    "spanish": "Para encontrar los factores de escala de las transformaciones lineales a lo largo de las direcciones de los autovectores, resolvemos la ecuación característica para los autovalores (eigenvalues).",
+    "tags": [
+      "ml_math",
+      "linear_algebra",
+      "eigenvalues"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: KL Divergence 🧮",
+    "text": "To measure the difference between two probability distributions over the same event space, we use the {{c1::KL divergence}} (Kullback-Leibler).",
+    "explanation": "KL divergence calculates the relative entropy. For distributions \\(P\\) and \\(Q\\), it is defined as \\(D_{KL}(P \\parallel Q) = \\sum P(x) \\log \\frac{P(x)}{Q(x)}\\). It is asymmetric and non-negative.",
+    "usage": "KL divergence is used in Variational Autoencoders (VAEs) to align the latent distribution with a standard Gaussian prior.",
+    "spanish": "Para medir la diferencia entre dos distribuciones de probabilidad sobre el mismo espacio de eventos, utilizamos la divergencia de KL (Kullback-Leibler).",
+    "tags": [
+      "ml_math",
+      "probability",
+      "kl_divergence"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: Conjugate Gradient 🧮",
+    "text": "To solve large, sparse symmetric positive-definite linear systems of equations, we use the iterative {{c1::Conjugate Gradient}} method.",
+    "explanation": "Conjugate Gradient is an iterative method that finds the minimum of a quadratic function. It converges in at most \\(n\\) steps (in exact arithmetic) for an \\(n \\times n\\) matrix, using orthogonal search directions.",
+    "usage": "Conjugate Gradient is preferred over direct matrix inversion (e.g. Cholesky) for very large, sparse systems.",
+    "spanish": "Para resolver sistemas de ecuaciones lineales grandes, dispersos, simétricos y definidos positivos, utilizamos el método iterativo del Gradiente Conjugado (Conjugate Gradient).",
+    "tags": [
+      "ml_math",
+      "optimization",
+      "conjugate_gradient"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: L-BFGS 🧮",
+    "text": "To optimize functions with a large number of variables using quasi-Newton methods without storing the full Hessian, we use the {{c1::L-BFGS}} algorithm.",
+    "explanation": "L-BFGS (Limited-memory BFGS) approximates the inverse Hessian matrix using only a small history of past gradient evaluations and position updates, reducing memory complexity from \\(O(n^2)\\) to \\(O(nd)\\).",
+    "usage": "In PyTorch/Scikit-Learn, <code>L-BFGS</code> is often used as the optimizer for logistic regression or style transfer models.",
+    "spanish": "Para optimizar funciones con un gran número de variables utilizando métodos quasi-Newton sin almacenar la matriz Hessiana completa, utilizamos el algoritmo L-BFGS.",
+    "tags": [
+      "ml_math",
+      "optimization",
+      "l_bfgs"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
     "scenario": "Preprocessing: MICE Missing Data Imputation 🧬",
     "text": "For handling missing data, Multivariate Imputation by Chained Equations (MICE) imputes variables by modeling each variable with missing values as a function of {{c1::all other variables}} in an {{c2::iterative, series-of-regressions loop}}.",
@@ -392,6 +653,71 @@
       "tsne",
       "umap",
       "dimensionality_reduction"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: Target Encoding 📊",
+    "text": "To convert high-cardinality categorical features into numerical values, you can replace each category with the mean of the target variable, a method called {{c1::Target Encoding}}.",
+    "explanation": "Target Encoding (or mean encoding) maps categorical values to the average target value of the training samples within that category. It is highly effective but prone to data leakage and overfitting if not regularized.",
+    "usage": "To prevent leakage, use out-of-fold target encoding or add smoothing parameters:<br><code>S = \\lambda \\cdot M_c + (1 - \\lambda) \\cdot M_{global}</code>",
+    "spanish": "Para convertir características categóricas de alta cardinalidad en valores numéricos, puedes reemplazar cada categoría con la media de la variable objetivo, un método llamado Codificación del Objetivo (Target Encoding).",
+    "tags": [
+      "feature_engineering",
+      "categorical",
+      "encoding"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: TF-IDF 📊",
+    "text": "To represent text documents numerically by weighing terms based on their frequency in a document relative to their frequency across the corpus, you use {{c1::TF-IDF}}.",
+    "explanation": "TF-IDF (Term Frequency-Inverse Document Frequency) down-weights common words (like 'the', 'is') that appear in many documents, while highlighting rare words that are highly descriptive of a specific document.",
+    "usage": "Formula: <code>TF-IDF = TF(t, d) * IDF(t)</code> where <code>IDF(t) = log(N / DF(t))</code>.",
+    "spanish": "Para representar documentos de texto numéricamente pesando los términos según su frecuencia en un documento en relación con su frecuencia en todo el corpus, utilizas TF-IDF.",
+    "tags": [
+      "feature_engineering",
+      "text",
+      "tf_idf"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: PCA Projection 📊",
+    "text": "To reduce dimensionality while preserving maximum variance, PCA projects data onto orthogonal axes called {{c1::principal components}}.",
+    "explanation": "Principal Component Analysis (PCA) performs an eigendecomposition of the covariance matrix. The first principal component is the direction of maximum variance, and subsequent components are orthogonal to it.",
+    "usage": "Scikit-Learn example: <code>from sklearn.decomposition import PCA; pca = PCA(n_components=2).fit_transform(X)</code>.",
+    "spanish": "Para reducir la dimensionalidad conservando la máxima varianza, PCA proyecta los datos sobre ejes ortogonales llamados componentes principales (principal components).",
+    "tags": [
+      "feature_engineering",
+      "pca",
+      "dimensionality_reduction"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: Yeo-Johnson 📊",
+    "text": "To stabilize variance and normalize data containing zero or negative values, you apply the {{c1::Yeo-Johnson transform}}.",
+    "explanation": "The Yeo-Johnson transformation is a power transform similar to Box-Cox, but it supports zero and negative values. It modifies the distribution to be closer to a normal distribution.",
+    "usage": "Scikit-Learn implementation: <code>PowerTransformer(method='yeo-johnson')</code>.",
+    "spanish": "Para estabilizar la varianza y normalizar datos que contienen valores cero o negativos, aplicas la transformación de Yeo-Johnson.",
+    "tags": [
+      "feature_engineering",
+      "normalization",
+      "yeo_johnson"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: Interaction Terms 📊",
+    "text": "To capture non-linear relationships where the effect of one feature depends on the level of another, you generate {{c1::interaction terms}}.",
+    "explanation": "Interaction terms are created by multiplying or dividing two or more features (e.g. \\(x_1 \\cdot x_2\\)). They allow linear models to capture joint feature effects without switching to non-linear algorithms.",
+    "usage": "In Scikit-Learn: <code>PolynomialFeatures(interaction_only=True)</code> generates interaction terms.",
+    "spanish": "Para capturar relaciones no lineales donde el efecto de una característica depende del nivel de otra, generas términos de interacción (interaction terms).",
+    "tags": [
+      "feature_engineering",
+      "interaction",
+      "polynomial"
     ]
   },
   {
@@ -460,6 +786,71 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: SVM Margin 🌲",
+    "text": "Support Vector Machines classify data by finding the hyperplane that maximizes the {{c1::maximum margin}} between the classes.",
+    "explanation": "The margin is the distance between the separating hyperplane and the closest training samples (called support vectors). Maximizing this margin reduces generalization error.",
+    "usage": "SVM objective function minimizes \\(\\frac{1}{2} \\parallel w \\parallel^2\\) subject to classification constraints.",
+    "spanish": "Las Máquinas de Vectores de Soporte clasifican datos encontrando el hiperplano que maximiza el margen máximo (maximum margin) entre las clases.",
+    "tags": [
+      "supervised",
+      "svm",
+      "classification"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: Naive Bayes 🌲",
+    "text": "Naive Bayes classifiers simplify probability calculations by assuming class-{{c1::conditional independence}} between all features.",
+    "explanation": "The 'naive' assumption states that, given the class label, the presence of a feature is completely independent of the presence of any other feature. This simplifies the Bayes theorem calculations.",
+    "usage": "Naive Bayes classifier formula: \\(P(C_k \\mid x) \\propto P(C_k) \\prod_{i=1}^n P(x_i \\mid C_k)\\).",
+    "spanish": "Los clasificadores Naive Bayes simplifican los cálculos de probabilidad al asumir independencia condicional de clase (conditional independence) entre todas las características.",
+    "tags": [
+      "supervised",
+      "naive_bayes",
+      "probability"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: Random Forest 🌲",
+    "text": "To reduce variance and avoid overfitting, a Random Forest aggregates multiple decision trees trained using {{c1::bagging}}.",
+    "explanation": "Bagging (bootstrap aggregating) trains individual decision trees on random subsets of the data (sampled with replacement) and random subsets of features, averaging their predictions to obtain the final output.",
+    "usage": "In Scikit-Learn: <code>from sklearn.ensemble import RandomForestClassifier</code>.",
+    "spanish": "Para reducir la varianza y evitar el sobreajuste, un Bosque Aleatorio (Random Forest) agrega múltiples árboles de decisión entrenados mediante empaquetamiento (bagging).",
+    "tags": [
+      "supervised",
+      "random_forest",
+      "bagging"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: Gradient Boosting 🌲",
+    "text": "Gradient Boosting algorithms build trees sequentially, where each new tree is fit to the {{c1::pseudo-residuals}} of the previous trees.",
+    "explanation": "Instead of training trees independently, gradient boosting trains each tree to predict the negative gradient of the loss function (the pseudo-residuals) of the current model, gradually minimizing total loss.",
+    "usage": "Key packages: <code>XGBoost</code>, <code>LightGBM</code>, <code>CatBoost</code>.",
+    "spanish": "Los algoritmos de Impulso de Gradiente (Gradient Boosting) construyen árboles secuencialmente, donde cada nuevo árbol se ajusta a los pseudo-residuos de los árboles anteriores.",
+    "tags": [
+      "supervised",
+      "gradient_boosting",
+      "boosting"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: Ridge Regression 🌲",
+    "text": "To prevent overfitting by shrinking regression coefficients towards zero without eliminating them, Ridge applies {{c1::L2 regularization}}.",
+    "explanation": "Ridge regression adds a penalty equal to the sum of the squared weights (L2 norm) to the loss function. This discourages large weights but keeps all features in the model.",
+    "usage": "Ridge loss function: \\(L = \\sum(y - Xw)^2 + \\alpha \\sum w_j^2\\).",
+    "spanish": "Para evitar el sobreajuste reduciendo los coeficientes de regresión hacia cero sin eliminarlos, Ridge aplica regularización L2 (L2 regularization).",
+    "tags": [
+      "supervised",
+      "regression",
+      "regularization"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
     "scenario": "Unsupervised: DBSCAN Density Clustering 🛑",
     "text": "DBSCAN classifies points into core, border, and noise categories based on two parameters: {{c1::eps (epsilon neighborhood radius)}} and {{c2::minSamples (minimum points in radius)}}.",
@@ -522,6 +913,71 @@
       "unsupervised",
       "lda",
       "topic_modeling"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: t-SNE Projection 🌀",
+    "text": "To visualize high-dimensional datasets in 2D or 3D, {{c1::t-SNE}} converts Euclidean distances between data points into conditional probabilities that represent similarities.",
+    "explanation": "t-SNE (t-Distributed Stochastic Neighbor Embedding) is a non-linear dimensionality reduction technique. It models local neighborhoods, preserving similarities so that close points in high dimensions remain close in low dimensions.",
+    "usage": "Scikit-Learn: <code>from sklearn.manifold import TSNE; tsne = TSNE(n_components=2)</code>.",
+    "spanish": "Para visualizar conjuntos de datos de alta dimensión en 2D o 3D, t-SNE convierte las distancias euclidianas entre los puntos de datos en probabilidades condicionales que representan similitudes.",
+    "tags": [
+      "unsupervised",
+      "t_sne",
+      "visualization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: DBSCAN Noise 🌀",
+    "text": "Unlike K-Means, the density-based clustering algorithm {{c1::DBSCAN}} does not require specifying the number of clusters and can isolate noise points.",
+    "explanation": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise) groups points that are close to each other based on two parameters: <code>eps</code> (radius) and <code>min_samples</code>. Points in low-density regions are marked as noise/outliers.",
+    "usage": "DBSCAN labels noise points as <code>-1</code> in Scikit-Learn.",
+    "spanish": "A diferencia de K-Means, el algoritmo de agrupamiento basado en densidad DBSCAN no requiere especificar el número de grupos y puede aislar puntos de ruido.",
+    "tags": [
+      "unsupervised",
+      "dbscan",
+      "clustering"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: GMM EM 🌀",
+    "text": "Gaussian Mixture Models perform soft clustering by fitting multiple Gaussian distributions to the data using the {{c1::Expectation-Maximization (EM)}} algorithm.",
+    "explanation": "Expectation-Maximization is an iterative method. The 'E-step' calculates the probability of each point belonging to each Gaussian. The 'M-step' updates the mean, covariance, and mixing weights of the Gaussians to maximize the likelihood.",
+    "usage": "In Scikit-Learn: <code>from sklearn.mixture import GaussianMixture</code>.",
+    "spanish": "Los Modelos de Mezcla Gaussiana (GMM) realizan agrupamientos suaves ajustando múltiples distribuciones gaussianas a los datos utilizando el algoritmo de Esperanza-Maximización (EM).",
+    "tags": [
+      "unsupervised",
+      "gmm",
+      "clustering"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: Isolation Forest 🌀",
+    "text": "To detect anomalies by isolating data points rather than profiling normal behavior, we use the {{c1::Isolation Forest}} algorithm.",
+    "explanation": "Isolation Forest isolates anomalies by randomly partitioning features. Since anomalies require fewer partitions to isolate, they appear closer to the root of the generated decision trees.",
+    "usage": "Anomalies have shorter average path lengths in the trees of an Isolation Forest.",
+    "spanish": "Para detectar anomalías aislando puntos de datos en lugar de perfilar el comportamiento normal, utilizamos el algoritmo Bosque de Aislamiento (Isolation Forest).",
+    "tags": [
+      "unsupervised",
+      "anomaly_detection",
+      "isolation_forest"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: Hierarchical Dendrogram 🌀",
+    "text": "To visualize the nesting of clusters at different levels of similarity in hierarchical clustering, you construct a {{c1::dendrogram}}.",
+    "explanation": "A dendrogram is a tree diagram that illustrates the arrangement of clusters produced by hierarchical clustering. The height of the branches represents the distance or dissimilarity at which clusters are merged.",
+    "usage": "In SciPy: <code>from scipy.cluster.hierarchy import dendrogram, linkage</code>.",
+    "spanish": "Para visualizar el anidamiento de grupos en diferentes niveles de similitud en el agrupamiento jerárquico, construyes un dendrograma.",
+    "tags": [
+      "unsupervised",
+      "hierarchical_clustering",
+      "dendrogram"
     ]
   },
   {
@@ -590,6 +1046,71 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: F1-Score 📐",
+    "text": "The F1-Score evaluates classification models on imbalanced datasets by calculating the {{c1::harmonic mean}} of precision and recall.",
+    "explanation": "The harmonic mean is used instead of the arithmetic mean because it penalizes extreme imbalances. If either precision or recall is close to zero, the F1-Score drops sharply.",
+    "usage": "Formula: \\(F_1 = 2 \\cdot \\frac{\\text{Precision} \\cdot \\text{Recall}}{\\text{Precision} + \\text{Recall}}\\).",
+    "spanish": "El F1-Score evalúa los modelos de clasificación en conjuntos de datos desbalanceados calculando la media armónica (harmonic mean) de la precisión y la recuperación.",
+    "tags": [
+      "metrics",
+      "f1_score",
+      "classification"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: ROC Curve 📐",
+    "text": "To measure a binary classifier's performance at all classification thresholds, we plot the {{c1::ROC curve}} and compute the area under it (AUC).",
+    "explanation": "The Receiver Operating Characteristic (ROC) curve plots the True Positive Rate (Sensitivity) on the y-axis against the False Positive Rate (1 - Specificity) on the x-axis for every possible decision threshold.",
+    "usage": "An AUC of 0.5 represents a random classifier, while an AUC of 1.0 represents a perfect classifier.",
+    "spanish": "Para medir el rendimiento de un clasificador binario en todos los umbrales de clasificación, graficamos la curva ROC y calculamos el área bajo ella (AUC).",
+    "tags": [
+      "metrics",
+      "roc_auc",
+      "classification"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: Log Loss 📐",
+    "text": "To evaluate classification models based on predicted probabilities rather than hard class labels, we calculate {{c1::Log Loss}} (Cross-Entropy).",
+    "explanation": "Log Loss measures the uncertainty of predictions. It penalizes incorrect predictions heavily if the model was highly confident (predicted probability close to 1 or 0).",
+    "usage": "Log Loss formula for binary classification: \\(L = -\\frac{1}{N} \\sum [y_i \\log(p_i) + (1-y_i) \\log(1-p_i)]\\).",
+    "spanish": "Para evaluar los modelos de clasificación basándose en las probabilidades predichas en lugar de etiquetas de clase directas, calculamos la pérdida logarítmica (Log Loss).",
+    "tags": [
+      "metrics",
+      "log_loss",
+      "entropy"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: MAPE 📐",
+    "text": "To express forecasting errors as a percentage of the actual values, regression tasks evaluate the {{c1::MAPE}} metric.",
+    "explanation": "MAPE (Mean Absolute Percentage Error) measures the size of the error in percentage terms. It is defined as the average of the absolute percentage differences between predicted and actual values.",
+    "usage": "Formula: \\(\\text{MAPE} = \\frac{100\\%}{n} \\sum \\left| \\frac{y_i - \\hat{y}_i}{y_i} \\right|\\). Note: MAPE is undefined if \\(y_i = 0\\).",
+    "spanish": "Para expresar los errores de pronóstico como un porcentaje de los valores reales, las tareas de regresión evalúan la métrica MAPE.",
+    "tags": [
+      "metrics",
+      "regression",
+      "mape"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: Silhouette Coefficient 📐",
+    "text": "To evaluate the quality of a clustering model without ground truth labels, we compute the {{c1::Silhouette Coefficient}}.",
+    "explanation": "The Silhouette Coefficient measures how close a sample is to its own cluster compared to other clusters. It ranges from -1 (incorrect clustering) to +1 (highly dense and well-separated clustering).",
+    "usage": "Formula for sample \\(i\\): \\(s(i) = \\frac{b(i) - a(i)}{\\max(a(i), b(i))}\\) where \\(a\\) is intra-cluster distance and \\(b\\) is nearest-cluster distance.",
+    "spanish": "Para evaluar la calidad de un modelo de agrupamiento sin etiquetas de referencia reales, calculamos el coeficiente de Silueta (Silhouette Coefficient).",
+    "tags": [
+      "metrics",
+      "unsupervised",
+      "silhouette"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
     "scenario": "Explainability: Bayesian Optimization acquisition 📐",
     "text": "In hyperparameter tuning, Bayesian Optimization uses a Gaussian Process surrogate model and an {{c1::Acquisition Function (e.g., Expected Improvement)}} to balance {{c2::exploration of unknown spaces}} with {{c3::exploitation of known optimal regions}}.",
@@ -655,6 +1176,71 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Explainability: SHAP Values 🔍",
+    "text": "To calculate the contribution of each feature to a model's prediction using cooperative game theory, you compute {{c1::Shapley values}} (SHAP).",
+    "explanation": "SHAP (SHapley Additive exPlanations) values assign a numeric contribution to each feature for a specific prediction, satisfying properties of local accuracy, missingness, and consistency.",
+    "usage": "In Python: <code>import shap; explainer = shap.Explainer(model); shap_values = explainer(X)</code>.",
+    "spanish": "Para calcular la contribución de cada característica a la predicción de un modelo utilizando la teoría de juegos cooperativos, calculas los valores de Shapley (SHAP).",
+    "tags": [
+      "explainability",
+      "shap",
+      "feature_importance"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Explainability: LIME Model 🔍",
+    "text": "To explain individual predictions of any black-box model, {{c1::LIME}} trains a local interpretable surrogate model around the prediction.",
+    "explanation": "LIME (Local Interpretable Model-agnostic Explanations) perturbs the input sample, gets predictions from the black-box model, and fits a simple linear model (surrogate) weighted by proximity to explain the local decision boundary.",
+    "usage": "LIME is agnostic, meaning it can explain any model (Random Forest, Neural Networks, SVMs) for text, images, or tabular data.",
+    "spanish": "Para explicar predicciones individuales de cualquier modelo de caja negra, LIME entrena un modelo sustituto interpretable local alrededor de la predicción.",
+    "tags": [
+      "explainability",
+      "lime",
+      "surrogate"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Optimization: SGD 🔍",
+    "text": "To minimize loss functions in large datasets, {{c1::Stochastic Gradient Descent}} (SGD) updates parameters using the gradient of a single randomly selected sample.",
+    "explanation": "Instead of computing the gradient over the entire dataset (Batch GD), SGD computes the gradient on one sample per step. This introduces noise but speeds up computations and helps escape local minima.",
+    "usage": "Standard update rule: \\(\\theta = \\theta - \\eta \\nabla L_i(\\theta)\\) where \\(\\eta\\) is the learning rate.",
+    "spanish": "Para minimizar las funciones de pérdida en grandes conjuntos de datos, el Descenso de Gradiente Estocástico (SGD) actualiza los parámetros utilizando el gradiente de un solo ejemplo seleccionado al azar.",
+    "tags": [
+      "optimization",
+      "sgd",
+      "calculus"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Optimization: Adam 🔍",
+    "text": "For training deep neural networks efficiently, the {{c1::Adam}} optimizer computes adaptive learning rates for each parameter using estimates of first and second moments.",
+    "explanation": "Adam (Adaptive Moment Estimation) combines the principles of Momentum (storing past gradients) and RMSProp (scaling gradients by the root mean square of past gradients).",
+    "usage": "Adam parameters typically default to: \\(\\beta_1 = 0.9\\), \\(\\beta_2 = 0.999\\), and \\(\\epsilon = 10^{-8}\\).",
+    "spanish": "Para entrenar redes neuronales profundas eficientemente, el optimizador Adam calcula tasas de aprendizaje adaptativas para cada parámetro utilizando estimaciones de primer y segundo momento.",
+    "tags": [
+      "optimization",
+      "adam",
+      "neural_networks"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
+    "scenario": "Explainability: Permutation Importance 🔍",
+    "text": "To measure a feature's global importance in a model-agnostic way, we shuffle the feature's values and measure the drop in performance, a method called {{c1::permutation importance}}.",
+    "explanation": "Permutation feature importance measures the increase in prediction error after shuffling the values of a feature, which breaks the relationship between that feature and the target.",
+    "usage": "In Scikit-Learn: <code>from sklearn.inspection import permutation_importance; result = permutation_importance(model, X, y)</code>.",
+    "spanish": "Para medir la importancia global de una característica de manera agnóstica al modelo, barajamos los valores de la característica y medimos la caída en el rendimiento, un método llamado importancia de permutación.",
+    "tags": [
+      "explainability",
+      "feature_importance",
+      "permutation"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
     "scenario": "Classical ML: Optimization 📉",
     "text": "The Gradient Descent parameter update formula is {{c1::\\(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\\)}}",
@@ -676,6 +1262,110 @@
     "tags": [
       "ai_learning_path",
       "classical_ml"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Supervised Learning 🌲",
+    "text": "To predict continuous outputs (regression) or discrete categories (classification), we train models using {{c1::supervised learning}} on labeled data.",
+    "explanation": "Supervised learning algorithms learn a mapping function \\(f(x) = y\\) from training pairs \\((x, y)\\) containing input features and corresponding ground-truth targets.",
+    "usage": "Examples of supervised learning: Linear Regression, Logistic Regression, Decision Trees, Support Vector Machines.",
+    "spanish": "Para predecir salidas continuas (regresión) o categorías discretas (clasificación), entrenamos modelos utilizando aprendizaje supervisado (supervised learning) en datos etiquetados.",
+    "tags": [
+      "classical_ml",
+      "supervised",
+      "overview"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Unsupervised Learning 🌲",
+    "text": "To discover hidden structures, groupings, or reduce dimensions without utilizing ground-truth labels, you apply {{c1::unsupervised learning}}.",
+    "explanation": "Unsupervised learning analyzes unlabeled data to identify patterns, group samples by similarity (clustering), or project features into lower dimensions.",
+    "usage": "Examples of unsupervised learning: K-Means clustering, PCA, DBSCAN, Gaussian Mixture Models.",
+    "spanish": "Para descubrir estructuras ocultas, agrupaciones o reducir dimensiones sin utilizar etiquetas de referencia reales, aplicas aprendizaje no supervisado (unsupervised learning).",
+    "tags": [
+      "classical_ml",
+      "unsupervised",
+      "overview"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Reinforcement Learning 🌲",
+    "text": "To train autonomous agents to make sequences of decisions by interacting with an environment, we use {{c1::reinforcement learning}} based on rewards.",
+    "explanation": "In Reinforcement Learning (RL), an agent learns to maximize cumulative reward by executing actions in an environment and observing states and outcomes (Markov Decision Process).",
+    "usage": "Key concepts in RL: Agent, Environment, State, Action, Reward, Q-Learning, Policy Gradient.",
+    "spanish": "Para entrenar agentes autónomos para tomar secuencias de decisiones mediante la interacción con un entorno, utilizamos el aprendizaje por refuerzo (reinforcement learning) basado en recompensas.",
+    "tags": [
+      "classical_ml",
+      "reinforcement_learning",
+      "overview"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Overfitting 🌲",
+    "text": "When a model learns noise and specific details of the training data too well, it suffers from {{c1::overfitting}} (high variance).",
+    "explanation": "Overfitting occurs when a model is overly complex relative to the simplicity of the data. It performs exceptionally well on training data but generalizes poorly to unseen test data.",
+    "usage": "To prevent overfitting: use regularization (L1/L2), cross-validation, dropouts, or gather more training data.",
+    "spanish": "Cuando un modelo aprende el ruido y los detalles específicos de los datos de entrenamiento demasiado bien, sufre de sobreajuste (overfitting - alta varianza).",
+    "tags": [
+      "classical_ml",
+      "overfitting",
+      "variance"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Underfitting 🌲",
+    "text": "If a model is too simple to capture the underlying pattern of the data, it yields high bias, a state called {{c1::underfitting}}.",
+    "explanation": "Underfitting occurs when the model complexity is insufficient (e.g. fitting a straight line to quadratic data). The model performs poorly on both training and validation sets.",
+    "usage": "To fix underfitting: increase model complexity, add feature interactions, or decrease regularization parameters.",
+    "spanish": "Si un modelo es demasiado simple para capturar el patrón subyacente de los datos, produce un sesgo alto, un estado llamado subajuste (underfitting).",
+    "tags": [
+      "classical_ml",
+      "underfitting",
+      "bias"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Bias-Variance Tradeoff 🌲",
+    "text": "Finding the optimal model complexity that minimizes both generalization error sources is known as the {{c1::bias-variance tradeoff}}.",
+    "explanation": "Total error can be decomposed into Bias error (underfitting), Variance error (overfitting), and Irreducible error (noise). As model complexity increases, bias decreases but variance increases.",
+    "usage": "Optimal model complexity is located at the minimum of the U-shaped validation error curve.",
+    "spanish": "Encontrar la complejidad óptima del modelo que minimiza ambas fuentes de error de generalización se conoce como el equilibrio entre sesgo y varianza (bias-variance tradeoff).",
+    "tags": [
+      "classical_ml",
+      "bias_variance",
+      "tradeoff"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Cross-Validation 🌲",
+    "text": "To evaluate a model's generalization capability robustly, you partition the dataset using {{c1::K-Fold cross-validation}}.",
+    "explanation": "K-Fold cross-validation divides the dataset into K subsets (folds). The model is trained K times, each time using K-1 folds for training and the remaining fold for validation, averaging the metrics.",
+    "usage": "In Scikit-Learn: <code>from sklearn.model_selection import cross_val_score; scores = cross_val_score(model, X, y, cv=5)</code>.",
+    "spanish": "Para evaluar la capacidad de generalización de un modelo de forma robusta, particionas el conjunto de datos mediante validación cruzada de K particiones (K-Fold cross-validation).",
+    "tags": [
+      "classical_ml",
+      "validation",
+      "cross_validation"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Data Leakage 🌲",
+    "text": "When information from outside the training dataset is accidentally used to train the model, it causes {{c1::data leakage}}, yielding overly optimistic validation metrics.",
+    "explanation": "Data leakage occurs when target or future information is mixed into the training set (e.g. scaling features before splitting data, or including target-proxies). The model performs perfectly in testing but fails in production.",
+    "usage": "To prevent leakage: build pipelines that split data before any preprocessing or feature scaling steps.",
+    "spanish": "Cuando la información de fuera del conjunto de datos de entrenamiento se utiliza accidentalmente para entrenar el modelo, causa filtración de datos (data leakage), produciendo métricas de validación demasiado optimistas.",
+    "tags": [
+      "classical_ml",
+      "data_leakage",
+      "safety"
     ]
   },
   {
@@ -703,6 +1393,110 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
+    "scenario": "LLM: Attention Mechanism 🤖",
+    "text": "The core of the Transformer architecture is the computation of {{c1::scaled dot-product attention}}, which maps queries, keys, and values.",
+    "explanation": "Scaled dot-product attention measures the similarity between Queries and Keys, scales the results by the square root of key dimension \\(\\sqrt{d_k}\\) to prevent vanishing gradients, applies Softmax, and multiplies by Values.",
+    "usage": "Attention formula: \\(\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\).",
+    "spanish": "El núcleo de la arquitectura Transformer es el cálculo de la atención de producto escalar escalado (scaled dot-product attention), que mapea consultas, claves y valores.",
+    "tags": [
+      "llm",
+      "transformers",
+      "attention"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
+    "scenario": "LLM: Transformer Block 🤖",
+    "text": "A standard encoder-decoder {{c1::Transformer}} block consists of multi-head self-attention, layer normalization, residual connections, and position-wise feed-forward networks.",
+    "explanation": "Transformers discard recurrence (RNNs) entirely, using self-attention to process tokens in parallel, which makes them highly scalable for training on GPUs.",
+    "usage": "First introduced in the seminal paper 'Attention Is All You Need' by Vaswani et al. in 2017.",
+    "spanish": "Un bloque Transformer estándar codificador-decodificador consta de autoatención de múltiples cabezales, normalización de capa, conexiones residuales y redes de alimentación hacia adelante según la posición.",
+    "tags": [
+      "llm",
+      "transformers",
+      "architecture"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
+    "scenario": "LLM: Tokenization 🤖",
+    "text": "To split natural language text into sub-word units before feeding them to an LLM, current models utilize {{c1::Byte-Pair Encoding (BPE)}}.",
+    "explanation": "Byte-Pair Encoding (BPE) is a sub-word tokenization algorithm. It begins with a character-level vocabulary and iteratively merges the most frequent byte pairs in a corpus to create a fixed-size vocabulary.",
+    "usage": "Tokenizers like tiktoken (OpenAI) or SentencePiece (Meta) implement variants of Byte-Pair Encoding.",
+    "spanish": "Para dividir el texto en lenguaje natural en unidades de subpalabras antes de ingresarlas a un LLM, los modelos actuales utilizan la codificación de pares de bytes (BPE).",
+    "tags": [
+      "llm",
+      "tokenization",
+      "bpe"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
+    "scenario": "LLM: Pre-training 🤖",
+    "text": "To learn grammar, world knowledge, and reasoning, base LLMs undergo unsupervised pre-training on large corpora using the {{c1::causal language modeling}} objective.",
+    "explanation": "Causal language modeling (or next-token prediction) masks future tokens, forcing the model to predict the next token given only the left context: \\(P(w_t \\mid w_1, w_2, \\dots, w_{t-1})\\).",
+    "usage": "Decoder-only models (like GPT-4, Llama) are pre-trained using causal language modeling.",
+    "spanish": "Para aprender gramática, conocimiento del mundo y razonamiento, los LLM base se someten a un preentrenamiento no supervisado en grandes corpus utilizando el objetivo de modelado de lenguaje causal (causal language modeling).",
+    "tags": [
+      "llm",
+      "pretraining",
+      "causal_language"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
+    "scenario": "LLM: Instruction Tuning 🤖",
+    "text": "To align pre-trained base models so they follow prompts and behave as assistants, engineers perform {{c1::instruction tuning}} (Supervised Fine-Tuning).",
+    "explanation": "Supervised Fine-Tuning (SFT) trains the base model on high-quality datasets of prompt-response pairs. This adapts the model's output distribution to match user expectations (e.g. conversational format).",
+    "usage": "SFT datasets consist of structured instructions: <code>{\"prompt\": \"Explain RAG\", \"response\": \"...\"}</code>.",
+    "spanish": "Para alinear los modelos base preentrenados de modo que sigan instrucciones y se comporten como asistentes, los ingenieros realizan el ajuste de instrucciones (Supervised Fine-Tuning).",
+    "tags": [
+      "llm",
+      "alignment",
+      "sft"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
+    "scenario": "LLM: Reward Model 🤖",
+    "text": "In RLHF, human preference data is used to train a {{c1::Reward Model}}, which outputs a scalar score evaluating the quality of an LLM's response.",
+    "explanation": "The Reward Model is trained using pairwise comparisons (responses A and B, where one is preferred). It acts as the surrogate human evaluator, providing reinforcement signals to optimize the LLM policy.",
+    "usage": "The Reward Model output is used as the utility function in PPO (Proximal Policy Optimization) loops.",
+    "spanish": "En RLHF, los datos de preferencia humana se utilizan para entrenar un Modelo de Recompensa (Reward Model), que genera una puntuación escalar que evalúa la calidad de la respuesta de un LLM.",
+    "tags": [
+      "llm",
+      "alignment",
+      "rlhf"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
+    "scenario": "LLM: Temperature 🤖",
+    "text": "To control the randomness of generation, the logits are scaled by dividing them by the {{c1::temperature}} parameter before applying Softmax.",
+    "explanation": "Scaling logits by temperature \\(T\\) modifies the probability distribution. High temperature (e.g. \\(T=1.2\\)) flattens the distribution (diverse output). Low temperature (e.g. \\(T=0.1\\)) sharpens it (deterministic output).",
+    "usage": "Logits update: \\(p_i = \\text{softmax}(z_i / T)\\). A temperature of 0 yields greedy decoding.",
+    "spanish": "Para controlar la aleatoriedad de la generación, los logits se escalan dividiéndolos por el parámetro de temperatura (temperature) antes de aplicar Softmax.",
+    "tags": [
+      "llm",
+      "generation",
+      "temperature"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
+    "scenario": "LLM: Context Window 🤖",
+    "text": "The maximum sequence length (in tokens) that an LLM can process in a single execution is called its {{c1::context window}}.",
+    "explanation": "The context window is determined during training (often bound by self-attention memory complexity). If inputs exceed this limit, the model cannot process them without losing early tokens or suffering quality degradation.",
+    "usage": "Recent models support context windows from 32K up to 1M+ tokens (e.g. Gemini).",
+    "spanish": "La longitud máxima de secuencia (en tokens) que un LLM puede procesar en una sola ejecución se denomina ventana de contexto (context window).",
+    "tags": [
+      "llm",
+      "architecture",
+      "context"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
     "scenario": "Advanced LLM: Fine-Tuning ⚙️",
     "text": "Low-Rank Adaptation (LoRA) freeze pre-trained weights and represents weight updates via two low-rank matrices as {{c1::\\(\\Delta W = B \\cdot A\\)}}",
@@ -727,6 +1521,110 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: LoRA 🤖",
+    "text": "To fine-tune LLMs efficiently on consumer GPUs, you freeze the pre-trained weights and inject trainable rank decomposition matrices; this is called {{c1::low-rank adaptation}} (LoRA).",
+    "explanation": "LoRA parameterizes the weight update as \\(\\Delta W = B \\cdot A\\), where \\(W_0 \\in \\mathbb{R}^{d \\times k}\\), \\(B \\in \\mathbb{R}^{d \\times r}\\), and \\(A \\in \\mathbb{R}^{r \\times k}\\) with rank \\(r \\ll \\min(d, k)\\). This reduces trainable parameters by up to 99%.",
+    "usage": "In HuggingFace: <code>from peft import LoraConfig, get_peft_model</code>.",
+    "spanish": "Para ajustar LLMs de manera eficiente en GPUs de consumo, congelas los pesos preentrenados e inyectas matrices de descomposición de rango entrenables; esto se llama adaptación de bajo rango (LoRA).",
+    "tags": [
+      "advanced_llm",
+      "lora",
+      "fine_tuning"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: Quantization 🤖",
+    "text": "To reduce model memory footprint and speed up inference, weights are converted from 16-bit float to lower precision formats (e.g. 8-bit or 4-bit) using {{c1::quantization}}.",
+    "explanation": "Quantization maps high-precision floating point numbers to lower-precision integers (like INT8 or INT4) by scaling and rounding, minimizing information loss using calibration data.",
+    "usage": "Popular formats: <code>AWQ</code> (Activation-aware Weight Quantization), <code>GPTQ</code>, <code>GGUF</code>.",
+    "spanish": "Para reducir la huella de memoria del modelo y acelerar la inferencia, los pesos se convierten de punto flotante de 16 bits a formatos de menor precisión utilizando cuantización (quantization).",
+    "tags": [
+      "advanced_llm",
+      "quantization",
+      "inference"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: MoE 🤖",
+    "text": "To scale model capacity to billions of parameters without increasing computation costs per token, models implement a {{c1::Mixture of Experts (MoE)}} architecture.",
+    "explanation": "Mixture of Experts replaces feed-forward layers with a set of independent 'expert' sub-networks. A routing network directs each token to only a few active experts (e.g. Top-2), maintaining sparse activation.",
+    "usage": "Mixtral 8x7B is a popular Mixture of Experts model where only 2 out of 8 experts are active per token.",
+    "spanish": "Para escalar la capacidad del modelo a miles de millones de parámetros sin aumentar los costos de cómputo por token, los modelos implementan una arquitectura de Mezcla de Expertos (MoE).",
+    "tags": [
+      "advanced_llm",
+      "moe",
+      "architecture"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: FlashAttention 🤖",
+    "text": "To speed up self-attention and reduce memory utilization from quadratic to linear relative to context length, GPUs execute {{c1::FlashAttention}}.",
+    "explanation": "FlashAttention is an IO-aware exact attention algorithm. By partitioning attention computation into blocks and loading them into GPU SRAM, it reduces slower HBM (High Bandwidth Memory) read/write operations.",
+    "usage": "FlashAttention-2 and FlashAttention-3 provide massive speedups for long-context LLM execution.",
+    "spanish": "Para acelerar la autoatención y reducir el uso de memoria de cuadrático a lineal en relación con la longitud del contexto, las GPUs ejecutan FlashAttention.",
+    "tags": [
+      "advanced_llm",
+      "flash_attention",
+      "optimization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: RoPE 🤖",
+    "text": "To encode absolute positional information while naturally generalizing to longer context lengths, modern models utilize {{c1::Rotary Position Embedding (RoPE)}}.",
+    "explanation": "RoPE encodes position by rotating the Query and Key vector representations in 2D planes by an angle proportional to their sequence position. It maintains relative distances between tokens mathematically.",
+    "usage": "RoPE is used by Llama, Mistral, and Qwen architectures instead of absolute sinusiodal positional encodings.",
+    "spanish": "Para codificar información posicional absoluta mientras se generaliza naturalmente a longitudes de contexto más largas, los modelos modernos utilizan la incrustación de posición rotativa (RoPE).",
+    "tags": [
+      "advanced_llm",
+      "rope",
+      "embeddings"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: Speculative Decoding 🤖",
+    "text": "To accelerate autoregressive generation, {{c1::Speculative Decoding}} uses a small draft model to generate multiple tokens, which are validated in parallel by a larger target model.",
+    "explanation": "Speculative Decoding exploits the fact that running a large LLM once on a sequence of tokens (parallel validation) takes almost the same time as running it on one token. This yields 2x-3x generation speedups without quality loss.",
+    "usage": "Requires a fast draft model (e.g. Llama-68M) and a powerful target model (e.g. Llama-70B).",
+    "spanish": "Para acelerar la generación autorregresiva, la decodificación especulativa (Speculative Decoding) utiliza un modelo de borrador pequeño para generar múltiples tokens, que son validados en paralelo por un modelo objetivo más grande.",
+    "tags": [
+      "advanced_llm",
+      "speculative_decoding",
+      "inference"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: DPO 🤖",
+    "text": "To align LLMs directly on human preference data without training a separate reward model or using reinforcement learning, engineers apply {{c1::Direct Preference Optimization}} (DPO).",
+    "explanation": "DPO shows that the RLHF objective can be solved closed-form, mapping human preferences directly to a binary cross-entropy loss that updates the policy model relative to a reference model.",
+    "usage": "DPO is simpler to train and more stable than PPO, eliminating the need to tune reward and value models.",
+    "spanish": "Para alinear LLMs directamente con datos de preferencia humana sin entrenar un modelo de recompensa separado o usar aprendizaje por refuerzo, los ingenieros aplican la Optimización de Preferencias Directas (DPO).",
+    "tags": [
+      "advanced_llm",
+      "alignment",
+      "dpo"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: KV Cache 🤖",
+    "text": "To avoid recomputing attention states for past tokens at each generation step, inference engines implement a {{c1::KV Cache}}.",
+    "explanation": "During autoregressive generation, keys and values of past tokens remain constant. By saving them in GPU memory (KV Cache), the engine only needs to compute queries, keys, and values for the newly generated token.",
+    "usage": "KV Cache memory consumption is a primary bottleneck for scaling concurrent user requests on GPU servers.",
+    "spanish": "Para evitar volver a calcular los estados de atención para tokens pasados en cada paso de generación, los motores de inferencia implementan un KV Cache.",
+    "tags": [
+      "advanced_llm",
+      "kv_cache",
+      "inference"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
     "scenario": "AI Engineering: RAG vs Fine-Tuning 🤖",
     "text": "Chip Huyen states that for foundation models, {{c1::RAG is for facts}} (retrieving dynamic, contextual data) and {{c1::fine-tuning is for form}} (adjusting style, tone, and output formatting).",
@@ -748,6 +1646,110 @@
     "tags": [
       "books_path",
       "ai_engineering"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
+    "scenario": "AI Engineering: Feature Store 📖",
+    "text": "To ensure consistency between feature calculations during model training and real-time inference, engineers set up a centralized {{c1::feature store}}.",
+    "explanation": "A feature store acts as a repository of curated features. It contains an offline database (like parquet/S3) for batch training, and a low-latency online database (like Redis) for serving features during inference.",
+    "usage": "Popular feature stores include <code>Feast</code> and <code>Hopsworks</code>.",
+    "spanish": "Para asegurar la coherencia entre los cálculos de características durante el entrenamiento del modelo y la inferencia en tiempo real, los ingenieros configuran un almacén de características centralizado (feature store).",
+    "tags": [
+      "ai_engineering",
+      "feature_store",
+      "data_pipeline"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
+    "scenario": "AI Engineering: Concept Drift 📖",
+    "text": "When the statistical properties of the target variable change over time, the model performance degrades; this is known as {{c1::concept drift}}.",
+    "explanation": "Concept drift occurs when the mapping function \\(f(x) \\to y\\) changes (e.g. consumer purchasing habits shift). It differs from data drift (where the input feature distribution \\(P(x)\\) changes).",
+    "usage": "To mitigate concept drift, set up monitoring pipelines and automate model retraining when performance drops below a threshold.",
+    "spanish": "Cuando las propiedades estadísticas de la variable objetivo cambian con el tiempo, el rendimiento del modelo se degrada; esto se conoce como deriva de concepto (concept drift).",
+    "tags": [
+      "ai_engineering",
+      "monitoring",
+      "concept_drift"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
+    "scenario": "AI Engineering: Distillation 📖",
+    "text": "To compress a massive, expensive model into a smaller, faster model with minimal performance loss, we use {{c1::knowledge distillation}}.",
+    "explanation": "Knowledge distillation trains a small 'student' model to match the output probability distribution (soft targets) generated by a larger, pre-trained 'teacher' model, transmitting its dark knowledge.",
+    "usage": "The student model is optimized using a loss function that combines hard targets (ground truth) and soft targets (teacher outputs).",
+    "spanish": "Para comprimir un modelo masivo y costoso en un modelo más pequeño y rápido con una pérdida de rendimiento mínima, utilizamos la destilación de conocimiento (knowledge distillation).",
+    "tags": [
+      "ai_engineering",
+      "compression",
+      "distillation"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
+    "scenario": "AI Engineering: Dynamic Batching 📖",
+    "text": "To maximize GPU utility and throughput during model serving, hosting systems implement {{c1::dynamic batching}}.",
+    "explanation": "Dynamic batching groups incoming individual inference requests into a single batch on the fly, holding them for a tiny window (e.g. 5ms) to process them together, maximizing GPU parallel execution.",
+    "usage": "Triton Inference Server and vLLM implement advanced dynamic batching engines.",
+    "spanish": "Para maximizar la utilidad de la GPU y el rendimiento durante el servicio del modelo, los sistemas de alojamiento implementan el procesamiento por lotes dinámico (dynamic batching).",
+    "tags": [
+      "ai_engineering",
+      "serving",
+      "dynamic_batching"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
+    "scenario": "AI Engineering: Shadow Deployment 📖",
+    "text": "To test a new model version in production under real traffic without affecting users, engineers use a {{c1::shadow deployment}}.",
+    "explanation": "In a shadow deployment, incoming production requests are sent to both the active model and the shadow model. The shadow model's outputs are logged but not returned to the user, allowing developers to monitor performance safely.",
+    "usage": "Shadow deployment is safer than canary testing because it has zero impact on user experience.",
+    "spanish": "Para probar la versión de un nuevo modelo en producción bajo tráfico real sin afectar a los usuarios, los ingenieros utilizan un despliegue en la sombra (shadow deployment).",
+    "tags": [
+      "ai_engineering",
+      "deployment",
+      "shadow_deployment"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
+    "scenario": "AI Engineering: Edge AI 📖",
+    "text": "To minimize latency and run models offline without sending data to a server, models are deployed directly to devices using {{c1::edge computing}}.",
+    "explanation": "Edge AI executes neural network inference locally on edge devices (like smartphones, IoT nodes, or autonomous cars) using specialized hardware accelerators (NPUs).",
+    "usage": "Examples: Apple Neural Engine, Google Edge TPU. Frameworks: ONNX Runtime, TensorFlow Lite.",
+    "spanish": "Para minimizar la latencia y ejecutar modelos fuera de línea sin enviar datos a un servidor, los modelos se despliegan directamente en los dispositivos mediante computación en el borde (edge computing).",
+    "tags": [
+      "ai_engineering",
+      "deployment",
+      "edge"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
+    "scenario": "AI Engineering: Orchestration 📖",
+    "text": "To schedule, monitor, and coordinate complex pipelines for data preparation, training, and deployment, MLOps uses an {{c1::orchestration engine}}.",
+    "explanation": "An orchestration engine coordinates task dependencies, manages container execution, and handles retries in case of pipeline step failures.",
+    "usage": "Popular orchestration engines: <code>Apache Airflow</code>, <code>Kubeflow Pipelines</code>, <code>Prefect</code>.",
+    "spanish": "Para programar, monitorear y coordinar canalizaciones complejas para la preparación de datos, entrenamiento y despliegue, MLOps utiliza un motor de orquestación (orchestration engine).",
+    "tags": [
+      "ai_engineering",
+      "pipelines",
+      "orchestration"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
+    "scenario": "AI Engineering: Data Lineage 📖",
+    "text": "To debug pipeline issues and comply with audits, you must track the historical origin, path, and transformation of training datasets, a practice called {{c1::data lineage}}.",
+    "explanation": "Data lineage tracks how data flows from sources to destinations, documenting every transformation step. This ensures reproducibility and helps isolate where errors were introduced.",
+    "usage": "Data lineage tools like <code>OpenLineage</code> record metadata at each stage of the data pipeline.",
+    "spanish": "Para depurar problemas en las canalizaciones y cumplir con auditorías, debes rastrear el origen histórico, ruta y transformación de los conjuntos de datos de entrenamiento, una práctica llamada linaje de datos (data lineage).",
+    "tags": [
+      "ai_engineering",
+      "data",
+      "lineage"
     ]
   },
   {
@@ -993,6 +1995,76 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Tool RAG 🛠️",
+    "text": "When an agent has access to thousands of tools, context constraints require using {{c1::tool retrieval}} (RAG for tools) before prompt generation.",
+    "explanation": "Instead of hardcoding all tool definitions in the system prompt (which bloats context and degrades LLM reasoning), the agent performs vector similarity search to retrieve and inject only the top relevant tools for the current query.",
+    "usage": "Tool retrieval indexes tool names and descriptions in a vector database to fetch relevant APIs on demand.",
+    "spanish": "Cuando un agente tiene acceso a miles de herramientas, las restricciones de contexto requieren el uso de recuperación de herramientas (tool retrieval - RAG para herramientas) antes de generar el prompt.",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "tools",
+      "rag"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Loop Detection 🛠️",
+    "text": "To prevent agents from generating infinite, repetitive tool calls when encountering failures, systems implement {{c1::loop detection}} limits.",
+    "explanation": "Loop detection monitors the agent's action history. If the agent repeats the exact same thought and tool call sequence multiple times without making progress, the loop is broken, and control is handed back to the user.",
+    "usage": "Loop detection is implemented by checking if the sequence of recent state signatures has duplicates, throwing an exception after 3 repetitions.",
+    "spanish": "Para evitar que los agentes generen llamadas a herramientas infinitas y repetitivas al encontrarse con fallas, los sistemas implementan límites de detección de bucles (loop detection).",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "safety",
+      "loop"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Evaluator-Optimizer 🛠️",
+    "text": "For code generation or translation tasks, the {{c1::Evaluator-Optimizer}} design pattern uses one LLM to write a solution and a separate LLM to verify and refine it.",
+    "explanation": "This pattern decouples content generation from quality validation. The generator produces a draft, the evaluator tests it (e.g. running unit tests), and returns feedback, allowing the generator to optimize the next draft.",
+    "usage": "The Evaluator-Optimizer pattern is used to automate code compilation checks and self-correction before outputting results.",
+    "spanish": "Para tareas de generación o traducción de código, el patrón de diseño Evaluador-Optimador (Evaluator-Optimizer) utiliza un LLM para escribir una solución y un LLM separado para verificarla y refinarla.",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "patterns",
+      "evaluator"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Swarms 🛠️",
+    "text": "To organize multiple agents without complex state management, developers use the {{c1::Swarm}} pattern, where agents dynamically hand off control to other agents.",
+    "explanation": "The Swarm pattern coordinates agents by allowing an agent to return another agent object as a tool call output, transferring the execution focus directly to that new agent without a central supervisor.",
+    "usage": "OpenAI's <code>Swarm</code> framework uses <code>Agent</code> definitions and functions returning the next agent to route conversations.",
+    "spanish": "Para organizar múltiples agentes sin una gestión de estado compleja, los desarrolladores utilizan el patrón de Enjambre (Swarm), donde los agentes transfieren el control dinámicamente a otros agentes.",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "frameworks",
+      "swarm"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Orchestrator-Workers 🛠️",
+    "text": "In hierarchical workflows, the {{c1::Orchestrator-Workers}} pattern uses a parent agent to break down tasks and assign sub-steps to specialized child agents.",
+    "explanation": "This pattern is highly effective for complex, modular tasks. The orchestrator maintains the high-level state, reviews worker outputs, and decides the next steps, preventing workers from getting lost in broad context.",
+    "usage": "The orchestrator-workers pattern uses a supervisor agent that calls specific worker subagents using tool schemas.",
+    "spanish": "En flujos de trabajo jerárquicos, el patrón Orquestador-Trabajadores (Orchestrator-Workers) utiliza un agente padre para desglosar tareas y asignar subpasos a agentes hijos especializados.",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "patterns",
+      "orchestrator"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
     "scenario": "Agentic IDEs: Codebase Rules and Config 📐",
     "text": "Next-generation IDEs like Cursor customize agent behavior using root configuration files called {{c1::.cursorrules}} to define development standards and enforce local styling.",
@@ -1055,6 +2127,76 @@
       "ide",
       "auditing",
       "cicd"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Tech Map 2026: LSP Integration 💻",
+    "text": "To enable agentic IDEs to understand code symbols, cross-references, and definitions across files, they integrate with the {{c1::Language Server Protocol (LSP)}}.",
+    "explanation": "The Language Server Protocol (LSP) standardizes communication between editor engines and programming language analysis tools, allowing agents to query autocomplete, jump-to-definition, and compile errors directly.",
+    "usage": "The LSP runs as a background server, providing static analysis data to the coding agent.",
+    "spanish": "Para permitir que los IDEs de agentes entiendan los símbolos de código, las referencias cruzadas y las definiciones en todos los archivos, se integran con el Protocolo de Servidor de Lenguaje (LSP).",
+    "tags": [
+      "tech_map_2026",
+      "ides",
+      "lsp",
+      "tools"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Tech Map 2026: Workspace Context 💻",
+    "text": "To locate relevant files quickly in a massive repository, agentic IDEs search an indexed {{c1::workspace vector index}} containing codebase embeddings.",
+    "explanation": "By splitting files into logical chunks (e.g. functions, classes), generating embeddings, and storing them in a local vector database, the IDE agent can perform semantic search to find code context related to a query.",
+    "usage": "The IDE agent queries the workspace vector index before using file-reading tools to locate target functions.",
+    "spanish": "Para localizar rápidamente archivos relevantes en un repositorio masivo, los IDEs de agentes buscan en un índice de vectores de espacio de trabajo (workspace vector index) que contiene incrustaciones del código base.",
+    "tags": [
+      "tech_map_2026",
+      "ides",
+      "vector_db",
+      "context"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Tech Map 2026: MCP Protocol 💻",
+    "text": "To standardize how LLMs securely connect to external data sources, developer tools, and file systems, Anthropic introduced the {{c1::Model Context Protocol (MCP)}}.",
+    "explanation": "The Model Context Protocol (MCP) defines an open standard protocol for client-server communication, allowing LLMs to access tools (like SQL databases, web search, or git) via modular servers.",
+    "usage": "An MCP Client (like Cursor or Claude Desktop) communicates with MCP Servers using JSON-RPC 2.0 messages.",
+    "spanish": "Para estandarizar cómo los LLMs se conectan de forma segura a fuentes de datos externas, herramientas de desarrollo y sistemas de archivos, Anthropic presentó el Protocolo de Contexto de Modelo (MCP).",
+    "tags": [
+      "tech_map_2026",
+      "ides",
+      "mcp",
+      "protocols"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Tech Map 2026: Agent Sandbox 💻",
+    "text": "To test generated code and run terminal commands safely without exposing the host OS, agentic IDEs execute processes in an {{c1::isolated container sandbox}}.",
+    "explanation": "Executing arbitrary code generated by an AI presents security risks. Isolated container sandboxes (like Docker or WebAssembly containers) prevent malware from accessing host system files or networks.",
+    "usage": "The IDE agent forwards compiler commands to the isolated container sandbox and returns the stdout/stderr.",
+    "spanish": "Para probar el código generado y ejecutar comandos de terminal de forma segura sin exponer el SO anfitrión, los IDEs de agentes ejecutan procesos en un entorno aislado de espacio aislado de contenedor (isolated container sandbox).",
+    "tags": [
+      "tech_map_2026",
+      "ides",
+      "safety",
+      "sandbox"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
+    "scenario": "Tech Map 2026: Context Budget 💻",
+    "text": "To prevent high token costs and model confusion, agentic IDEs monitor the {{c1::context budget}} during multi-turn coding chats.",
+    "explanation": "A context budget is the planned allocation of tokens within the model's context window. Managing it involves dropping old messages, compressing code diffs, and only attaching files relevant to the active task.",
+    "usage": "The system prompt enforces a context budget by capping the maximum size of attached file snippets to 800 lines.",
+    "spanish": "Para evitar altos costos de tokens y la confusión del modelo, los IDEs de agentes monitorean el presupuesto de contexto (context budget) durante las charlas de codificación de múltiples turnos.",
+    "tags": [
+      "tech_map_2026",
+      "ides",
+      "optimization",
+      "tokens"
     ]
   },
   {
@@ -1123,6 +2265,71 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: Reasoning RL 🧠",
+    "text": "Reasoning models (like OpenAI's o1 or DeepSeek-R1) generate long internal chains of thought using policies optimized via {{c1::Reinforcement Learning}}.",
+    "explanation": "Instead of relying solely on supervised pre-training data, reasoning models are trained using RL algorithms (like GRPO or PPO) with rewards based on accuracy and readability of the thinking trace, encouraging self-correction.",
+    "usage": "The model uses RL-optimized policies to formulate hypothesis checks and correct errors before outputting answers.",
+    "spanish": "Los modelos de razonamiento (como o1 de OpenAI o DeepSeek-R1) generan largas cadenas internas de pensamiento utilizando políticas optimizadas mediante Aprendizaje por Refuerzo (Reinforcement Learning).",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "reinforcement_learning"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: Tree Search 🧠",
+    "text": "To evaluate multiple alternative reasoning paths and select the most promising steps, reasoning models integrate {{c1::Monte Carlo Tree Search (MCTS)}} during inference.",
+    "explanation": "MCTS allows the model to treat reasoning as a search tree. It generates alternative tokens (nodes), evaluates their quality using value estimators, and expands the most optimal path, backtracking when paths fail.",
+    "usage": "MCTS is combined with a policy model to guide inference-time search on mathematics and programming tasks.",
+    "spanish": "Para evaluar múltiples rutas alternativas de razonamiento y seleccionar los pasos más prometedores, los modelos de razonamiento integran la Búsqueda de Árbol de Monte Carlo (MCTS) durante la inferencia.",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "search_algorithms"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: Process Supervision 🧠",
+    "text": "To align reasoning models step-by-step, datasets are labeled using {{c1::process supervision}} rather than outcome supervision.",
+    "explanation": "Process supervision rewards the model for the correctness of each individual step in its reasoning chain of thought, whereas outcome supervision only rewards the model for the final answer.",
+    "usage": "Process supervision is highly effective at reducing logical hallucinations in complex math problems.",
+    "spanish": "Para alinear los modelos de razonamiento paso a paso, los conjuntos de datos se etiquetan utilizando la supervisión del proceso (process supervision) en lugar de la supervisión del resultado.",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "process_supervision"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: Inference Compute 🧠",
+    "text": "Reasoning models scale performance on hard tasks by allocating more {{c1::inference-time compute}} to think before answering.",
+    "explanation": "While standard LLMs generate responses in a single forward pass, reasoning models use inference-time compute to generate thousands of tokens representing their internal chain of thought, verifying hypotheses before writing the final output.",
+    "usage": "Inference-time compute follows scaling laws: spending more compute during inference yields log-linear accuracy gains.",
+    "spanish": "Los modelos de razonamiento escalan el rendimiento en tareas difíciles al asignar más cómputo en tiempo de inferencia (inference-time compute) para pensar antes de responder.",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "inference_compute"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: System 2 Thinking 🧠",
+    "text": "By pausing to deliberate, generate intermediate thoughts, and verify logic, reasoning LLMs emulate human {{c1::System 2 thinking}}.",
+    "explanation": "According to dual-process theory, System 1 thinking is fast and intuitive, while System 2 thinking is slow, deliberate, and logical. Standard LLMs behave like System 1, whereas reasoning models implement System 2.",
+    "usage": "System 2 thinking is activated in reasoning models by wrapping the generation in <code><thought>...</thought></code> tags.",
+    "spanish": "Al pausar para deliberar, generar pensamientos intermedios y verificar la lógica, los LLM de razonamiento emulan el pensamiento del Sistema 2 del ser humano (System 2 thinking).",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "system_2"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
     "scenario": "MLOps: Agentic Observability 🔍",
     "text": "Observability tools like LangSmith track agent workflows by recording nested traces, calculating token usage, and visualizing {{c1::spans}} that represent {{c2::tool executions}}.",
@@ -1188,6 +2395,76 @@
     ]
   },
   {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: PII Redaction 🛡️",
+    "text": "To prevent models from leaking sensitive user information (like SSNs or credit cards) in their outputs, MLOps gateways execute {{c1::PII redaction}} filters.",
+    "explanation": "Personally Identifiable Information (PII) redaction uses named entity recognition (NER) or regular expressions to detect and replace sensitive data with placeholders (like <code>[REDACTED]</code>) before the response reaches the user.",
+    "usage": "Frameworks like Microsoft's <code>Presidio</code> are used in the MLOps pipeline to automate PII redaction.",
+    "spanish": "Para evitar que los modelos filtren información confidencial del usuario (como números de seguridad social o tarjetas de crédito) en sus respuestas, las pasarelas MLOps ejecutan filtros de redacción de PII (PII redaction).",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "pii"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Input Sanitization 🛡️",
+    "text": "To detect and block malicious prompt payloads designed to hijack the model's system prompt, gateways perform {{c1::prompt injection sanitization}}.",
+    "explanation": "Prompt injection sanitization checks incoming user requests for adversarial content (e.g. 'Ignore all previous instructions...'). If detected, the gateway blocks the request and returns a safety error.",
+    "usage": "Gateways use specialized classifier models (like Llama-Guard) to score inputs for prompt injection risk.",
+    "spanish": "Para detectar y bloquear cargas útiles de prompts maliciosos diseñadas para secuestrar el prompt del sistema del modelo, las pasarelas realizan la desinfección de inyección de prompts (prompt injection sanitization).",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "injection"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Gateway Firewall 🛡️",
+    "text": "To enforce global usage policies, rate limits, and audit logging across all internal LLM integrations, organizations set up a centralized {{c1::LLM gateway firewall}}.",
+    "explanation": "An LLM gateway firewall acts as an API proxy. It intercepts all model requests and responses, injecting safety filters, tracing logs, and enforcing organizational compliance.",
+    "usage": "Open-source proxies like <code>LiteLLM</code> or <code>Portkey</code> function as LLM gateways for security management.",
+    "spanish": "Para hacer cumplir las políticas de uso global, los límites de velocidad y el registro de auditoría en todas las integraciones internas de LLM, las organizaciones configuran un cortafuegos de pasarela LLM centralizado (LLM gateway firewall).",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "firewall"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Jailbreak Detection 🛡️",
+    "text": "To classify if an input is attempting to bypass safety alignments through roleplay or cipher encodings, gateways run {{c1::adversarial jailbreak detection}}.",
+    "explanation": "Adversarial jailbreaks use complex wrapper prompts (like 'Do Anything Now' - DAN) or base64 encodings to bypass the LLM's safety filters. Jailbreak detectors evaluate the structural syntax of inputs to intercept these patterns.",
+    "usage": "Jailbreak detection filters run in parallel with the user prompt token parsing step.",
+    "spanish": "Para clasificar si una entrada está intentando eludir las alineaciones de seguridad a través de juegos de rol o codificaciones cifradas, las pasarelas ejecutan la detección de evasión de restricciones adversarias (adversarial jailbreak detection).",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "jailbreak"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Rate Limiting 🛡️",
+    "text": "To protect costly model endpoints from denial-of-service (DoS) abuse and control costs, firewalls enforce {{c1::rate limiting}} on API tokens.",
+    "explanation": "Rate limiting restricts the number of API requests or total tokens processed per user within a specific timeframe (e.g. 1000 tokens per minute), throwing a 429 Too Many Requests error if exceeded.",
+    "usage": "Implemented at the gateway using algorithms like Token Bucket or Leaky Bucket with Redis backends.",
+    "spanish": "Para proteger los costosos puntos finales del modelo del abuso de denegación de servicio (DoS) y controlar los costos, los cortafuegos aplican limitación de velocidad (rate limiting) en los tokens de la API.",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "limits"
+    ]
+  },
+  {
     "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
     "scenario": "Advanced RAG: Multimodal Retrieval 🖼️",
     "text": "Instead of extracting plain text from complex documents, multimodal RAG uses models like {{c1::ColPali}} to generate vector embeddings directly from {{c2::rendered document images}}.",
@@ -1250,6 +2527,76 @@
       "rag",
       "semantic_chunking",
       "preprocessing"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Tech Map 2026: Query Expansion 🔍",
+    "text": "To improve document retrieval recall by generating multiple variations of the user's query, RAG systems run {{c1::Query Expansion}}.",
+    "explanation": "Query Expansion uses an LLM to rewrite a single query into 3-5 variations or sub-queries. This handles different wordings and synonyms, searching the vector database with all variations to yield a broader set of relevant documents.",
+    "usage": "Common Query Expansion prompt: <code>Generate 3 alternative search queries for: [query]</code>.",
+    "spanish": "Para mejorar la recuperación de documentos generando múltiples variaciones del prompt del usuario, los sistemas RAG ejecutan la expansión de consultas (Query Expansion).",
+    "tags": [
+      "tech_map_2026",
+      "rag",
+      "query",
+      "retrieval"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Tech Map 2026: Reranking 🔍",
+    "text": "To re-evaluate and sort the top retrieved vector search documents based on semantic relevance, RAG pipelines implement {{c1::cross-encoder reranking}}.",
+    "explanation": "While dense vector search (bi-encoders) is fast but approximate, cross-encoders compute joint attention over the query and document together. Running a reranker on the top 20 retrieved chunks ensures only the most relevant are sent to the LLM.",
+    "usage": "Popular rerankers include <code>Cohere Rerank</code> and <code>BGE-Reranker</code>.",
+    "spanish": "Para reevaluar y clasificar los documentos de búsqueda vectorial mejor recuperados según su relevancia semántica, las canalizaciones RAG implementan la reclasificación por codificador cruzado (cross-encoder reranking).",
+    "tags": [
+      "tech_map_2026",
+      "rag",
+      "reranking",
+      "retrieval"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Tech Map 2026: Parent Document Retrieval 🔍",
+    "text": "To search on small, precise vector chunks but feed the larger surrounding context to the LLM, pipelines implement {{c1::Parent Document Retrieval}}.",
+    "explanation": "During indexing, documents are split into large parent documents and smaller child chunks. The vector database stores only child chunks. When a child is retrieved, the system fetches the larger parent document from storage to feed the LLM, preserving context.",
+    "usage": "In LangChain: <code>ParentDocumentRetriever</code> manages child vector stores and parent docstores.",
+    "spanish": "Para buscar en fragmentos vectoriales pequeños y precisos pero entregar el contexto circundante más grande al LLM, las canalizaciones implementan la Recuperación de Documento Padre (Parent Document Retrieval).",
+    "tags": [
+      "tech_map_2026",
+      "rag",
+      "retrieval",
+      "context"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Tech Map 2026: Hybrid Search 🔍",
+    "text": "To combine semantic understanding and exact keyword matching, advanced RAG systems execute a {{c1::hybrid search}} merging vector and BM25 scores.",
+    "explanation": "Hybrid search runs both dense vector search (for semantic meaning) and sparse keyword search (for exact names, codes, or products), merging their scores using Reciprocal Rank Fusion (RRF).",
+    "usage": "RRF formula combines rankings: \\(RRF(d) = \\sum \\frac{1}{k + r_m(d)}\\) where \\(r_m(d)\\) is document rank in search \\(m\\).",
+    "spanish": "Para combinar la comprensión semántica y la coincidencia exacta de palabras clave, los sistemas RAG avanzados ejecutan una búsqueda híbrida (hybrid search) fusionando puntuaciones vectoriales y BM25.",
+    "tags": [
+      "tech_map_2026",
+      "rag",
+      "hybrid_search",
+      "retrieval"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
+    "scenario": "Tech Map 2026: Vector Compression 🔍",
+    "text": "To reduce the massive RAM requirements of millions of document embeddings, vector databases apply {{c1::Product Quantization (PQ)}}.",
+    "explanation": "Product Quantization compresses high-dimensional vectors by dividing them into sub-vectors, clustering each sub-vector space, and storing only the cluster centroid index, reducing vector size by up to 95%.",
+    "usage": "PQ is supported in vector libraries like FAISS and Milvus to scale storage.",
+    "spanish": "Para reducir los enormes requisitos de RAM de millones de incrustaciones de documentos, las bases de datos vectoriales aplican la cuantización de productos (Product Quantization).",
+    "tags": [
+      "tech_map_2026",
+      "rag",
+      "vector_db",
+      "quantization"
     ]
   },
   {
@@ -9279,6 +10626,97 @@
     ]
   },
   {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+    "scenario": "Philosophy: Pre-Socratics 🏛️",
+    "text": "Early Greek philosophers sought the fundamental, originating substance of the cosmos, which they called the {{c1::Arche}}.",
+    "explanation": "The Arche represents the primary material or source of all things. For Thales, the Arche was water; for Anaximenes, it was air; for Heraclitus, it was fire.",
+    "usage": "The search for the Arche marks the birth of rational metaphysics, moving away from mythological explanations.",
+    "spanish": "Los primeros filósofos griegos buscaron la sustancia fundamental y originaria del cosmos, a la que llamaron el Arjé (Arche).",
+    "tags": [
+      "philosophy",
+      "classical_foundations",
+      "pre_socratics"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+    "scenario": "Philosophy: Epicureanism 🏛️",
+    "text": "Epicurus taught that the greatest good is to seek pleasure and avoid pain to achieve a state of mental tranquility known as {{c1::Ataraxia}}.",
+    "explanation": "Ataraxia is a state of serene calmness and freedom from fear and worry, achieved by understanding the natural limits of desires and overcoming the fear of death.",
+    "usage": "Ataraxia is contrasted with active, physical pleasure; it is the pleasure of absence of pain (aponia) and anxiety.",
+    "spanish": "Epicuro enseñó que el mayor bien es buscar el placer y evitar el dolor para lograr un estado de tranquilidad mental conocido como ataraxia.",
+    "tags": [
+      "philosophy",
+      "classical_foundations",
+      "epicureanism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+    "scenario": "Philosophy: Cynicism 🏛️",
+    "text": "The philosophical school of {{c1::Cynicism}}, led by Diogenes of Sinope, advocated living in extreme simplicity and accordance with nature, rejecting social conventions.",
+    "explanation": "Cynics believed that virtue is the only good, and that happiness is achieved by being self-sufficient and living naturally, free from desires for wealth, power, or fame.",
+    "usage": "Diogenes famously lived in a tub on the streets of Athens, mocking social status and conventions.",
+    "spanish": "La escuela filosófica del cinismo (Cynicism), liderada por Diógenes de Sinope, abogaba por vivir en extrema simplicidad y de acuerdo con la naturaleza, rechazando las convenciones sociales.",
+    "tags": [
+      "philosophy",
+      "classical_foundations",
+      "cynicism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+    "scenario": "Philosophy: Pyrrhonian Skepticism 🏛️",
+    "text": "Skeptics argue that absolute knowledge is impossible, and that one should practice suspension of judgment, known as {{c1::Epoche}}.",
+    "explanation": "Epoche is the suspension of belief or judgment regarding non-evident assertions. Pyrrhonian skeptics believed that by suspending judgment, one achieves tranquility (ataraxia) by stopping the search for dogmatic truths.",
+    "usage": "Epoche is a method of questioning assumptions to prevent dogmatism.",
+    "spanish": "Los escépticos argumentan que el conocimiento absoluto es imposible, y que uno debería practicar la suspensión del juicio, conocida como epojé (Epoche).",
+    "tags": [
+      "philosophy",
+      "classical_foundations",
+      "skepticism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+    "scenario": "Philosophy: Aristotelian Syllogism 🏛️",
+    "text": "To construct logical deductive arguments, Aristotle developed the {{c1::syllogism}}, consisting of a major premise, minor premise, and a conclusion.",
+    "explanation": "A syllogism is a form of reasoning where a conclusion is drawn from two assumed propositions. Example: 'All humans are mortal (major); Socrates is human (minor); therefore, Socrates is mortal (conclusion).'",
+    "usage": "Syllogistic logic remained the dominant framework of formal logic in the West until the late 19th century.",
+    "spanish": "Para construir argumentos deductivos lógicos, Aristóteles desarrolló el silogismo (syllogism), que consta de una premisa mayor, una premisa menor y una conclusión.",
+    "tags": [
+      "philosophy",
+      "classical_foundations",
+      "logic"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+    "scenario": "Philosophy: Plato's Republic 🏛️",
+    "text": "In the Republic, Plato proposes that the ideal state should be ruled by {{c1::philosopher kings}} who possess knowledge of the Good.",
+    "explanation": "Plato argued that because philosophers have access to the immutable world of Forms (truth and justice), they are uniquely qualified to rule without greed or corruption, guiding society toward harmony.",
+    "usage": "Plato's philosopher kings represent the rule of reason and intellect over physical desires and military power.",
+    "spanish": "En la República, Platón propone que el estado ideal debería ser gobernado por reyes filósofos (philosopher kings) que poseen el conocimiento del Bien.",
+    "tags": [
+      "philosophy",
+      "classical_foundations",
+      "plato"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
+    "scenario": "Philosophy: Socratic Virtue 🏛️",
+    "text": "Socrates' ethical thesis that no one does evil knowingly, and that doing wrong is always a result of ignorance, is known as {{c1::virtue is knowledge}}.",
+    "explanation": "This is Socratic intellectualism. Socrates believed that if a person truly understands what is good and just, they will naturally act virtuously. Acting maliciously is therefore a cognitive failure (ignorance).",
+    "usage": "Under this view, rehabilitation and philosophical dialogue are preferred over retributive punishment.",
+    "spanish": "La tesis ética de Sócrates de que nadie hace el mal a sabiendas, y que actuar mal es siempre resultado de la ignorancia, se conoce como la virtud es conocimiento (virtue is knowledge).",
+    "tags": [
+      "philosophy",
+      "classical_foundations",
+      "socrates"
+    ]
+  },
+  {
     "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
     "scenario": "Philosophy Beginner: Taoism ☯️",
     "text": "The core Taoist concept of {{c1::Wu Wei}} (non-action) refers to a state of alignment with the flow of life, acting effortlessly without {{c1::force or struggle}}.",
@@ -9288,6 +10726,123 @@
     "tags": [
       "philosophy_path",
       "eastern_philosophies"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+    "scenario": "Eastern Philosophy: Wu Wei ☯️",
+    "text": "In Taoism, the concept of effortless action or acting in alignment with the natural flow of the universe is known as {{c1::Wu Wei}}.",
+    "explanation": "Wu Wei (non-action or effortless action) does not mean laziness; it means acting without forced struggle, adapting to situations organically, much like water flowing around an obstacle.",
+    "usage": "To practice Wu Wei, avoid forcing outcomes and let events take their natural course.",
+    "spanish": "En el taoísmo, el concepto de acción sin esfuerzo o actuar en alineación con el flujo natural del universo se conoce como Wu Wei.",
+    "tags": [
+      "philosophy",
+      "eastern",
+      "taoism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+    "scenario": "Eastern Philosophy: Impermanence ☸️",
+    "text": "In Buddhism, the doctrine that all conditioned things are in a constant state of change and flux is called {{c1::Anicca}} (Impermanence).",
+    "explanation": "Anicca is one of the Three Marks of Existence in Buddhism. It asserts that nothing in the physical or mental world is static or permanent, and attachment to transient things is the source of suffering.",
+    "usage": "Reflecting on Anicca helps practitioners cultivate non-attachment and accept life's changes.",
+    "spanish": "En el budismo, la doctrina de que todas las cosas condicionadas están en un estado constante de cambio y flujo se llama Anicca (impermanencia).",
+    "tags": [
+      "philosophy",
+      "eastern",
+      "buddhism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+    "scenario": "Eastern Philosophy: Non-Self ☸️",
+    "text": "The Buddhist concept that there is no permanent, unchanging soul or self in living beings is known as {{c1::Anatta}} (Non-Self).",
+    "explanation": "Anatta asserts that what we call the 'self' is a temporary bundle of physical and mental aggregates (Skandhas). Realizing that there is no independent 'I' is key to achieving Nirvana.",
+    "usage": "Anatta challenges the conventional idea of a fixed identity or soul.",
+    "spanish": "El concepto budista de que no existe un alma o yo permanente e inmutable en los seres vivos se conoce como Anatta (inexistencia del yo).",
+    "tags": [
+      "philosophy",
+      "eastern",
+      "buddhism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+    "scenario": "Eastern Philosophy: Filial Piety 🇨🇳",
+    "text": "In Confucianism, the core virtue of respect for one's parents, ancestors, and elders is known as {{c1::Xiao}} (Filial Piety).",
+    "explanation": "Xiao is the foundation of social harmony in Confucian thought. It establishes the moral duties of children toward parents, forming the basis of all hierarchical societal relationships.",
+    "usage": "Filial piety requires not just supporting parents but honoring and respecting them.",
+    "spanish": "En el confucianismo, la virtud fundamental del respeto a los padres, ancestros y mayores se conoce como Xiao (piedad filial).",
+    "tags": [
+      "philosophy",
+      "eastern",
+      "confucianism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+    "scenario": "Eastern Philosophy: Benevolence 🇨🇳",
+    "text": "Confucius taught that the ultimate moral quality of human-heartedness, empathy, and benevolence toward others is {{c1::Ren}}.",
+    "explanation": "Ren (humaneness or benevolence) is the highest Confucian virtue. It represents the ethical duty to treat others with empathy and respect, maintaining social cohesion.",
+    "usage": "Ren is often expressed through the golden rule: 'Do not do to others what you do not want done to yourself.'",
+    "spanish": "Confucio enseñó que la cualidad moral máxima de empatía, humanidad y benevolencia hacia los demás es el Ren.",
+    "tags": [
+      "philosophy",
+      "eastern",
+      "confucianism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+    "scenario": "Eastern Philosophy: Cosmic Duty 🕉️",
+    "text": "In Hinduism, the moral law, cosmic order, and personal duty one must follow in accordance with their stage of life and caste is {{c1::Dharma}}.",
+    "explanation": "Dharma represents the ethical duties that sustain social and cosmic order. Acting in accordance with Dharma generates good karma, leading to spiritual progress.",
+    "usage": "In the Bhagavad Gita, Krishna urges Arjuna to follow his Dharma as a warrior.",
+    "spanish": "En el hinduismo, la ley moral, el orden cósmico y el deber personal que uno debe seguir de acuerdo con su etapa de vida y casta es el Dharma.",
+    "tags": [
+      "philosophy",
+      "eastern",
+      "hinduism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+    "scenario": "Eastern Philosophy: Liberation 🕉️",
+    "text": "The ultimate goal in Hinduism, representing liberation from the cycle of rebirth (Samsara) and union with the ultimate reality, is {{c1::Moksha}}.",
+    "explanation": "Moksha is the release of the soul (Atman) from the material world and its union with Brahman. It is achieved through knowledge, devotion, and selfless action.",
+    "usage": "Moksha marks the end of karmic accumulation and the cycle of reincarnation.",
+    "spanish": "La meta última en el hinduismo, que representa la liberación del ciclo de reencarnación (Samsara) y la unión con la realidad absoluta, es Moksha.",
+    "tags": [
+      "philosophy",
+      "eastern",
+      "hinduism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+    "scenario": "Eastern Philosophy: Suffering ☸️",
+    "text": "The first Noble Truth of Buddhism states that life is characterized by dissatisfaction, pain, and suffering, a concept known as {{c1::Dukkha}}.",
+    "explanation": "Dukkha refers to the inherent unsatisfactoriness of mundane life. It arises from craving (Tanha) and attachment to impermanent things.",
+    "usage": "Understanding Dukkha is the first step toward walking the Eightfold Path to eliminate suffering.",
+    "spanish": "La primera Noble Verdad del budismo establece que la vida se caracteriza por la insatisfacción, el dolor y el sufrimiento, un concepto conocido como Dukkha.",
+    "tags": [
+      "philosophy",
+      "eastern",
+      "buddhism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
+    "scenario": "Eastern Philosophy: The Way ☯️",
+    "text": "The undefinable, absolute principle that is the source, pattern, and substance of everything that exists in Taoism is called the {{c1::Tao}} (The Way).",
+    "explanation": "The Tao is the cosmic flow that governs the universe. It cannot be fully described in words; instead, it is experienced by living in harmony and simplicity.",
+    "usage": "Opening line of the Tao Te Ching: 'The Tao that can be spoken of is not the eternal Tao.'",
+    "spanish": "El principio absoluto e indefinible que es la fuente, el patrón y la sustancia de todo lo que existe en el taoísmo se llama el Tao (El Camino).",
+    "tags": [
+      "philosophy",
+      "eastern",
+      "taoism"
     ]
   },
   {
@@ -9315,6 +10870,110 @@
     ]
   },
   {
+    "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
+    "scenario": "Stoicism: Dichotomy of Control 🏛️",
+    "text": "The primary rule of Stoicism, taught by Epictetus, states that we should distinguish between what is up to us and what is not; this is called the {{c1::Dichotomy of Control}}.",
+    "explanation": "The Dichotomy of Control divides events into internal (our thoughts, reactions, actions) and external (other people, weather, outcomes). Stoics focus energy exclusively on the former, accepting the latter.",
+    "usage": "To practice the dichotomy of control: when anxious, ask: 'Is this within my control?' If no, practice acceptance.",
+    "spanish": "La regla principal del estoicismo, enseñada por Epicteto, establece que debemos distinguir entre lo que depende de nosotros y lo que no; esto se llama la dicotomía del control.",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "epictetus"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
+    "scenario": "Stoicism: Obstacle is Way 🏛️",
+    "text": "Marcus Aurelius' Stoic maxim that setbacks should be embraced as opportunities for practice is summarized as {{c1::the obstacle is the way}}.",
+    "explanation": "This principle states that instead of complaining about obstacles, we should use them to practice virtues (like patience, creativity, or courage). The impediment to action becomes the catalyst for action.",
+    "usage": "Quote: 'The impediment to action advances action. What stands in the way becomes the way.'",
+    "spanish": "La máxima estoica de Marco Aurelio de que los contratiempos deben adoptarse como oportunidades para la práctica se resume como el obstáculo es el camino (the obstacle is the way).",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "marcus_aurelius"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
+    "scenario": "Stoicism: Cardinal Virtues 🏛️",
+    "text": "Stoicism defines the only true good as virtue, which is split into four {{c1::cardinal virtues}}: Wisdom, Courage, Justice, and Temperance.",
+    "explanation": "These four virtues guide all ethical behavior. Wisdom is knowing what is good/bad; Courage is facing fear; Justice is treating others fairly; Temperance is practicing self-control.",
+    "usage": "Every action must be evaluated against the four cardinal virtues.",
+    "spanish": "El estoicismo define el único bien verdadero como la virtud, que se divide en cuatro virtudes cardinales: Sabiduría, Coraje, Justicia y Templanza.",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "ethics"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
+    "scenario": "Stoicism: Memento Mori 🏛️",
+    "text": "The Stoic practice of reflecting on one's own mortality to value time and maintain humility is known as {{c1::Memento Mori}}.",
+    "explanation": "Memento Mori ('Remember you must die') encourages practitioners to live each day deliberately, realizing that life is transient and material status is temporary.",
+    "usage": "Carry a reminder or meditate on the fact that this day could be your last.",
+    "spanish": "La práctica estoica de reflexionar sobre la propia mortalidad para valorar el tiempo y mantener la humildad se conoce como Memento Mori.",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "mindset"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
+    "scenario": "Stoicism: Amor Fati 🏛️",
+    "text": "The Stoic attitude of not just accepting but loving everything that happens in one's life is called {{c1::Amor Fati}}.",
+    "explanation": "Amor Fati ('Love of fate') means embracing all events (successes and tragedies alike) as necessary, useful, and positive elements of your destiny.",
+    "usage": "When a setback occurs, view it not as a disaster but as a custom challenge designed to help you grow.",
+    "spanish": "La actitud estoica de no solo aceptar sino amar todo lo que sucede en la vida de uno se llama Amor Fati.",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "mindset"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
+    "scenario": "Stoicism: Premeditation of Evils 🏛️",
+    "text": "To reduce anxiety and prepare for future setbacks, Stoics practice the visualization of potential disasters, known as {{c1::Premeditatio Malorum}}.",
+    "explanation": "Premeditatio Malorum is the premeditation of evils. By mentally simulating failures (exile, loss of wealth, illness), you reduce their shock value and formulate plans to handle them.",
+    "usage": "Meditate on everything that could go wrong with a project before launching it.",
+    "spanish": "Para reducir la ansiedad y prepararse para futuros contratiempos, los estoicos practican la visualización de posibles desastres, conocida como Premeditatio Malorum.",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "mental_prep"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
+    "scenario": "Stoicism: Meditations 🏛️",
+    "text": "The private journal of Roman Emperor Marcus Aurelius, containing his personal reflections on Stoic philosophy, was published as the {{c1::Meditations}}.",
+    "explanation": "Written while on military campaign, the Meditations was never intended for publication. It contains Marcus's internal reminders to practice duty, humility, and reason in the face of absolute power.",
+    "usage": "The Meditations remains one of the most widely read texts of Stoic philosophy.",
+    "spanish": "El diario privado del emperador romano Marco Aurelio, que contiene sus reflexiones personales sobre la filosofía estoica, se publicó como Meditaciones (Meditations).",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "books"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
+    "scenario": "Stoicism: Voluntary Discomfort 🏛️",
+    "text": "Seneca advocated practicing poverty periodically by eating cheap food and wearing rough clothes, a practice known as {{c1::voluntary discomfort}}.",
+    "explanation": "Voluntary discomfort trains the mind to realize that our fears of loss are exaggerated. By experiencing discomfort voluntarily, we reduce our dependency on luxury and build resilience.",
+    "usage": "Spend three days sleeping on the floor and eating plain rice to practice voluntary discomfort.",
+    "spanish": "Séneca abogaba por practicar la pobreza periódicamente comiendo comida barata y vistiendo ropa áspera, una práctica conocida como incomodidad voluntaria.",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "seneca"
+    ]
+  },
+  {
     "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
     "scenario": "Philosophy Advanced: Existentialism 🎭",
     "text": "Jean-Paul Sartre's existentialist maxim {{c1::'existence precedes essence'}} states that humans exist first, and then define their purpose and identity through their {{c1::choices and actions}}.",
@@ -9324,6 +10983,123 @@
     "tags": [
       "philosophy_path",
       "existentialism"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+    "scenario": "Modern Philosophy: Kantian Ethics 🏛️",
+    "text": "Immanuel Kant's supreme moral principle that one should act only according to maxims that can be universalized is the {{c1::Categorical Imperative}}.",
+    "explanation": "The Categorical Imperative asserts that moral duties are absolute and binding regardless of consequences. Act only on rules you would want everyone in the world to follow without contradiction.",
+    "usage": "Under Kantian ethics, lying is always morally wrong, even to protect someone, because universalized lying destroys the trust required for language.",
+    "spanish": "El principio moral supremo de Immanuel Kant de que uno debería actuar únicamente de acuerdo con máximas que puedan universalizarse es el Imperativo Categórico (Categorical Imperative).",
+    "tags": [
+      "philosophy",
+      "modern",
+      "kant"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+    "scenario": "Modern Philosophy: Nietzsche 🏛️",
+    "text": "Friedrich Nietzsche posited that the fundamental driving force of all organic life is not self-preservation but the {{c1::Will to Power}} (Der Wille zur Macht).",
+    "explanation": "The Will to Power represents the drive to master oneself, expand influence, dominate obstacles, and achieve self-overcoming, contrasting with Darwinian survival metrics.",
+    "usage": "Nietzsche used the Will to Power to criticize conventional Christian morality as life-denying.",
+    "spanish": "Friedrich Nietzsche postuló que la fuerza motriz fundamental de toda vida orgánica no es la autoconservación sino la Voluntad de Poder (Will to Power).",
+    "tags": [
+      "philosophy",
+      "modern",
+      "nietzsche"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+    "scenario": "Existentialism: Sartre 🏛️",
+    "text": "Jean-Paul Sartre's core existentialist premise that humans define their own purpose and nature through choices is summarized as {{c1::existence precedes essence}}.",
+    "explanation": "Unlike objects (which are designed with a pre-defined essence/purpose), humans are born first (exist) without any inherent purpose. We must construct our own values and meaning through our actions.",
+    "usage": "Because existence precedes essence, humans are 'condemned to be free' and carry absolute responsibility for their lives.",
+    "spanish": "La premisa existencialista central de Jean-Paul Sartre de que los seres humanos definen su propio propósito y naturaleza a través de las elecciones se resume como la existencia precede a la esencia.",
+    "tags": [
+      "philosophy",
+      "modern",
+      "sartre"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+    "scenario": "Postmodernism: Foucault 🏛️",
+    "text": "Michel Foucault analyzed how modern institutions enforce compliance and self-surveillance using Jeremy Bentham's architectural design of the {{c1::Panopticon}}.",
+    "explanation": "The Panopticon is a circular prison design where inmates can be watched at any moment from a central tower but cannot see the guard. Inmates internalize surveillance, policing their own behavior out of uncertainty.",
+    "usage": "Foucault used the Panopticon as a metaphor for modern disciplinary societies (schools, factories, hospitals).",
+    "spanish": "Michel Foucault analizó cómo las instituciones modernas imponen el cumplimiento y la autovigilancia utilizando el diseño arquitectónico de Bentham del Panóptico (Panopticon).",
+    "tags": [
+      "philosophy",
+      "postmodern",
+      "foucault"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+    "scenario": "Postmodernism: Deconstruction 🏛️",
+    "text": "Jacques Derrida developed a critical analysis method to expose the internal contradictions and hierarchies of binary oppositions in texts, known as {{c1::Deconstruction}}.",
+    "explanation": "Deconstruction challenges logocentrism. It demonstrates that philosophical systems rely on binary pairs (e.g. speech/writing, presence/absence) where one is favored, and seeks to subvert and destabilize these hierarchies.",
+    "usage": "Deconstruction shows that texts have multiple, unstable, and self-contradictory meanings.",
+    "spanish": "Jacques Derrida desarrolló un método de análisis crítico para exponer las contradicciones internas y las jerarquías de las oposiciones binarias en los textos, conocido como Deconstrucción.",
+    "tags": [
+      "philosophy",
+      "postmodern",
+      "derrida"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+    "scenario": "Modern Philosophy: Descartes 🏛️",
+    "text": "René Descartes sought an indubitable foundation for knowledge, arriving at the primary truth: {{c1::Cogito, ergo sum}} (I think, therefore I am).",
+    "explanation": "Descartes used methodical doubt to reject all beliefs that could possibly be false. He realized that even if an evil demon is deceiving him, the very act of thinking proves his own existence.",
+    "usage": "This foundational truth marked the beginning of modern rationalist epistemology.",
+    "spanish": "René Descartes buscó un fundamento indudable para el conocimiento, llegando a la verdad primaria: Cogito, ergo sum (Pienso, luego existo).",
+    "tags": [
+      "philosophy",
+      "modern",
+      "descartes"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+    "scenario": "Modern Philosophy: Hume 🏛️",
+    "text": "David Hume challenged empiricism by questioning if we can logically justify predicting future events based on past observations, known as the {{c1::problem of induction}}.",
+    "explanation": "The problem of induction states that we cannot prove the uniformity of nature logically. Relying on past experiences to justify future outcomes assumes the very principle we need to prove.",
+    "usage": "Hume's problem of induction heavily influenced Kant's critique of pure reason.",
+    "spanish": "David Hume desafió el empirismo al cuestionar si podemos justificar lógicamente la predicción de eventos futuros basados en observaciones pasadas, lo que se conoce como el problema de la inducción.",
+    "tags": [
+      "philosophy",
+      "modern",
+      "hume"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+    "scenario": "Modern Philosophy: Nietzsche 🏛️",
+    "text": "Nietzsche proposed a goal for humanity consisting of self-mastery and the creation of one's own values, embodied in the figure of the {{c1::Übermensch}} (Overman).",
+    "explanation": "The Übermensch is a person who overcomes the nihilism caused by the death of God by rising above herd morality, constructing their own values, and embracing life fully.",
+    "usage": "Thus Spoke Zarathustra is the primary text introducing the Übermensch concept.",
+    "spanish": "Nietzsche propuso una meta para la humanidad que consiste en el autodominio y la creación de los propios valores, encarnada en la figura del Übermensch (Superhombre).",
+    "tags": [
+      "philosophy",
+      "modern",
+      "nietzsche"
+    ]
+  },
+  {
+    "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
+    "scenario": "Existentialism: Bad Faith 🏛️",
+    "text": "Sartre defined the act of adopting false values under social pressure to escape the anxiety of absolute freedom as {{c1::bad faith}} (mauvaise foi).",
+    "explanation": "Bad faith occurs when a person convinces themselves that they do not have choices, pretending to be a passive object (e.g. playing a role like a waiter too perfectly) to avoid the responsibility of self-definition.",
+    "usage": "Acting in bad faith is the opposite of living authentically.",
+    "spanish": "Sartre definió el acto de adoptar falsos valores bajo la presión social para escapar de la ansiedad de la libertad absoluta como mala fe (bad faith).",
+    "tags": [
+      "philosophy",
+      "modern",
+      "sartre"
     ]
   },
   {

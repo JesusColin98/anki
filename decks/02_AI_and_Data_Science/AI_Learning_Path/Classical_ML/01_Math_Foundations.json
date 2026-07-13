@@ -64,5 +64,70 @@
       "bootstrapping",
       "sampling"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: Jacobian Matrix 🧮",
+    "text": "To represent all first-order partial derivatives of a vector-valued function, we compute the {{c1::Jacobian matrix}}.",
+    "explanation": "The Jacobian matrix is a matrix of partial derivatives of a function mapping \\(\\mathbb{R}^n \\to \\mathbb{R}^m\\). It is essential in backpropagation for computing gradients of vector outputs relative to vector inputs.",
+    "usage": "If \\(f(x, y) = [x^2, xy]\\), the Jacobian is \\(J = \\begin{bmatrix} 2x & 0 \\\\ y & x \\end{bmatrix}\\).",
+    "spanish": "Para representar todas las derivadas parciales de primer orden de una función con valores vectoriales, calculamos la matriz jacobiana (Jacobian matrix).",
+    "tags": [
+      "ml_math",
+      "calculus",
+      "jacobian"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: Eigenvalues 🧮",
+    "text": "To find the scaling factors of linear transformations along eigenvector directions, we solve the characteristic equation for {{c1::eigenvalues}}.",
+    "explanation": "Eigenvalues are scalars \\(\\lambda\\) such that \\(Av = \\lambda v\\) for a square matrix \\(A\\) and non-zero vector \\(v\\). They are crucial in PCA for determining the variance along principal components.",
+    "usage": "We solve the characteristic equation: \\(\\det(A - \\lambda I) = 0\\) to find the eigenvalues.",
+    "spanish": "Para encontrar los factores de escala de las transformaciones lineales a lo largo de las direcciones de los autovectores, resolvemos la ecuación característica para los autovalores (eigenvalues).",
+    "tags": [
+      "ml_math",
+      "linear_algebra",
+      "eigenvalues"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: KL Divergence 🧮",
+    "text": "To measure the difference between two probability distributions over the same event space, we use the {{c1::KL divergence}} (Kullback-Leibler).",
+    "explanation": "KL divergence calculates the relative entropy. For distributions \\(P\\) and \\(Q\\), it is defined as \\(D_{KL}(P \\parallel Q) = \\sum P(x) \\log \\frac{P(x)}{Q(x)}\\). It is asymmetric and non-negative.",
+    "usage": "KL divergence is used in Variational Autoencoders (VAEs) to align the latent distribution with a standard Gaussian prior.",
+    "spanish": "Para medir la diferencia entre dos distribuciones de probabilidad sobre el mismo espacio de eventos, utilizamos la divergencia de KL (Kullback-Leibler).",
+    "tags": [
+      "ml_math",
+      "probability",
+      "kl_divergence"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: Conjugate Gradient 🧮",
+    "text": "To solve large, sparse symmetric positive-definite linear systems of equations, we use the iterative {{c1::Conjugate Gradient}} method.",
+    "explanation": "Conjugate Gradient is an iterative method that finds the minimum of a quadratic function. It converges in at most \\(n\\) steps (in exact arithmetic) for an \\(n \\times n\\) matrix, using orthogonal search directions.",
+    "usage": "Conjugate Gradient is preferred over direct matrix inversion (e.g. Cholesky) for very large, sparse systems.",
+    "spanish": "Para resolver sistemas de ecuaciones lineales grandes, dispersos, simétricos y definidos positivos, utilizamos el método iterativo del Gradiente Conjugado (Conjugate Gradient).",
+    "tags": [
+      "ml_math",
+      "optimization",
+      "conjugate_gradient"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
+    "scenario": "ML Math: L-BFGS 🧮",
+    "text": "To optimize functions with a large number of variables using quasi-Newton methods without storing the full Hessian, we use the {{c1::L-BFGS}} algorithm.",
+    "explanation": "L-BFGS (Limited-memory BFGS) approximates the inverse Hessian matrix using only a small history of past gradient evaluations and position updates, reducing memory complexity from \\(O(n^2)\\) to \\(O(nd)\\).",
+    "usage": "In PyTorch/Scikit-Learn, <code>L-BFGS</code> is often used as the optimizer for logistic regression or style transfer models.",
+    "spanish": "Para optimizar funciones con un gran número de variables utilizando métodos quasi-Newton sin almacenar la matriz Hessiana completa, utilizamos el algoritmo L-BFGS.",
+    "tags": [
+      "ml_math",
+      "optimization",
+      "l_bfgs"
+    ]
   }
 ]

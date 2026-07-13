@@ -63,5 +63,70 @@
       "flash_attention",
       "context_window"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: Reasoning RL 🧠",
+    "text": "Reasoning models (like OpenAI's o1 or DeepSeek-R1) generate long internal chains of thought using policies optimized via {{c1::Reinforcement Learning}}.",
+    "explanation": "Instead of relying solely on supervised pre-training data, reasoning models are trained using RL algorithms (like GRPO or PPO) with rewards based on accuracy and readability of the thinking trace, encouraging self-correction.",
+    "usage": "The model uses RL-optimized policies to formulate hypothesis checks and correct errors before outputting answers.",
+    "spanish": "Los modelos de razonamiento (como o1 de OpenAI o DeepSeek-R1) generan largas cadenas internas de pensamiento utilizando políticas optimizadas mediante Aprendizaje por Refuerzo (Reinforcement Learning).",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "reinforcement_learning"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: Tree Search 🧠",
+    "text": "To evaluate multiple alternative reasoning paths and select the most promising steps, reasoning models integrate {{c1::Monte Carlo Tree Search (MCTS)}} during inference.",
+    "explanation": "MCTS allows the model to treat reasoning as a search tree. It generates alternative tokens (nodes), evaluates their quality using value estimators, and expands the most optimal path, backtracking when paths fail.",
+    "usage": "MCTS is combined with a policy model to guide inference-time search on mathematics and programming tasks.",
+    "spanish": "Para evaluar múltiples rutas alternativas de razonamiento y seleccionar los pasos más prometedores, los modelos de razonamiento integran la Búsqueda de Árbol de Monte Carlo (MCTS) durante la inferencia.",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "search_algorithms"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: Process Supervision 🧠",
+    "text": "To align reasoning models step-by-step, datasets are labeled using {{c1::process supervision}} rather than outcome supervision.",
+    "explanation": "Process supervision rewards the model for the correctness of each individual step in its reasoning chain of thought, whereas outcome supervision only rewards the model for the final answer.",
+    "usage": "Process supervision is highly effective at reducing logical hallucinations in complex math problems.",
+    "spanish": "Para alinear los modelos de razonamiento paso a paso, los conjuntos de datos se etiquetan utilizando la supervisión del proceso (process supervision) en lugar de la supervisión del resultado.",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "process_supervision"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: Inference Compute 🧠",
+    "text": "Reasoning models scale performance on hard tasks by allocating more {{c1::inference-time compute}} to think before answering.",
+    "explanation": "While standard LLMs generate responses in a single forward pass, reasoning models use inference-time compute to generate thousands of tokens representing their internal chain of thought, verifying hypotheses before writing the final output.",
+    "usage": "Inference-time compute follows scaling laws: spending more compute during inference yields log-linear accuracy gains.",
+    "spanish": "Los modelos de razonamiento escalan el rendimiento en tareas difíciles al asignar más cómputo en tiempo de inferencia (inference-time compute) para pensar antes de responder.",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "inference_compute"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
+    "scenario": "Tech Map 2026: System 2 Thinking 🧠",
+    "text": "By pausing to deliberate, generate intermediate thoughts, and verify logic, reasoning LLMs emulate human {{c1::System 2 thinking}}.",
+    "explanation": "According to dual-process theory, System 1 thinking is fast and intuitive, while System 2 thinking is slow, deliberate, and logical. Standard LLMs behave like System 1, whereas reasoning models implement System 2.",
+    "usage": "System 2 thinking is activated in reasoning models by wrapping the generation in <code><thought>...</thought></code> tags.",
+    "spanish": "Al pausar para deliberar, generar pensamientos intermedios y verificar la lógica, los LLM de razonamiento emulan el pensamiento del Sistema 2 del ser humano (System 2 thinking).",
+    "tags": [
+      "tech_map_2026",
+      "reasoning",
+      "system_2"
+    ]
   }
 ]

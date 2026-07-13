@@ -22,5 +22,109 @@
       "ai_learning_path",
       "classical_ml"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Supervised Learning 🌲",
+    "text": "To predict continuous outputs (regression) or discrete categories (classification), we train models using {{c1::supervised learning}} on labeled data.",
+    "explanation": "Supervised learning algorithms learn a mapping function \\(f(x) = y\\) from training pairs \\((x, y)\\) containing input features and corresponding ground-truth targets.",
+    "usage": "Examples of supervised learning: Linear Regression, Logistic Regression, Decision Trees, Support Vector Machines.",
+    "spanish": "Para predecir salidas continuas (regresión) o categorías discretas (clasificación), entrenamos modelos utilizando aprendizaje supervisado (supervised learning) en datos etiquetados.",
+    "tags": [
+      "classical_ml",
+      "supervised",
+      "overview"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Unsupervised Learning 🌲",
+    "text": "To discover hidden structures, groupings, or reduce dimensions without utilizing ground-truth labels, you apply {{c1::unsupervised learning}}.",
+    "explanation": "Unsupervised learning analyzes unlabeled data to identify patterns, group samples by similarity (clustering), or project features into lower dimensions.",
+    "usage": "Examples of unsupervised learning: K-Means clustering, PCA, DBSCAN, Gaussian Mixture Models.",
+    "spanish": "Para descubrir estructuras ocultas, agrupaciones o reducir dimensiones sin utilizar etiquetas de referencia reales, aplicas aprendizaje no supervisado (unsupervised learning).",
+    "tags": [
+      "classical_ml",
+      "unsupervised",
+      "overview"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Reinforcement Learning 🌲",
+    "text": "To train autonomous agents to make sequences of decisions by interacting with an environment, we use {{c1::reinforcement learning}} based on rewards.",
+    "explanation": "In Reinforcement Learning (RL), an agent learns to maximize cumulative reward by executing actions in an environment and observing states and outcomes (Markov Decision Process).",
+    "usage": "Key concepts in RL: Agent, Environment, State, Action, Reward, Q-Learning, Policy Gradient.",
+    "spanish": "Para entrenar agentes autónomos para tomar secuencias de decisiones mediante la interacción con un entorno, utilizamos el aprendizaje por refuerzo (reinforcement learning) basado en recompensas.",
+    "tags": [
+      "classical_ml",
+      "reinforcement_learning",
+      "overview"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Overfitting 🌲",
+    "text": "When a model learns noise and specific details of the training data too well, it suffers from {{c1::overfitting}} (high variance).",
+    "explanation": "Overfitting occurs when a model is overly complex relative to the simplicity of the data. It performs exceptionally well on training data but generalizes poorly to unseen test data.",
+    "usage": "To prevent overfitting: use regularization (L1/L2), cross-validation, dropouts, or gather more training data.",
+    "spanish": "Cuando un modelo aprende el ruido y los detalles específicos de los datos de entrenamiento demasiado bien, sufre de sobreajuste (overfitting - alta varianza).",
+    "tags": [
+      "classical_ml",
+      "overfitting",
+      "variance"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Underfitting 🌲",
+    "text": "If a model is too simple to capture the underlying pattern of the data, it yields high bias, a state called {{c1::underfitting}}.",
+    "explanation": "Underfitting occurs when the model complexity is insufficient (e.g. fitting a straight line to quadratic data). The model performs poorly on both training and validation sets.",
+    "usage": "To fix underfitting: increase model complexity, add feature interactions, or decrease regularization parameters.",
+    "spanish": "Si un modelo es demasiado simple para capturar el patrón subyacente de los datos, produce un sesgo alto, un estado llamado subajuste (underfitting).",
+    "tags": [
+      "classical_ml",
+      "underfitting",
+      "bias"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Bias-Variance Tradeoff 🌲",
+    "text": "Finding the optimal model complexity that minimizes both generalization error sources is known as the {{c1::bias-variance tradeoff}}.",
+    "explanation": "Total error can be decomposed into Bias error (underfitting), Variance error (overfitting), and Irreducible error (noise). As model complexity increases, bias decreases but variance increases.",
+    "usage": "Optimal model complexity is located at the minimum of the U-shaped validation error curve.",
+    "spanish": "Encontrar la complejidad óptima del modelo que minimiza ambas fuentes de error de generalización se conoce como el equilibrio entre sesgo y varianza (bias-variance tradeoff).",
+    "tags": [
+      "classical_ml",
+      "bias_variance",
+      "tradeoff"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Cross-Validation 🌲",
+    "text": "To evaluate a model's generalization capability robustly, you partition the dataset using {{c1::K-Fold cross-validation}}.",
+    "explanation": "K-Fold cross-validation divides the dataset into K subsets (folds). The model is trained K times, each time using K-1 folds for training and the remaining fold for validation, averaging the metrics.",
+    "usage": "In Scikit-Learn: <code>from sklearn.model_selection import cross_val_score; scores = cross_val_score(model, X, y, cv=5)</code>.",
+    "spanish": "Para evaluar la capacidad de generalización de un modelo de forma robusta, particionas el conjunto de datos mediante validación cruzada de K particiones (K-Fold cross-validation).",
+    "tags": [
+      "classical_ml",
+      "validation",
+      "cross_validation"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
+    "scenario": "Classical ML: Data Leakage 🌲",
+    "text": "When information from outside the training dataset is accidentally used to train the model, it causes {{c1::data leakage}}, yielding overly optimistic validation metrics.",
+    "explanation": "Data leakage occurs when target or future information is mixed into the training set (e.g. scaling features before splitting data, or including target-proxies). The model performs perfectly in testing but fails in production.",
+    "usage": "To prevent leakage: build pipelines that split data before any preprocessing or feature scaling steps.",
+    "spanish": "Cuando la información de fuera del conjunto de datos de entrenamiento se utiliza accidentalmente para entrenar el modelo, causa filtración de datos (data leakage), produciendo métricas de validación demasiado optimistas.",
+    "tags": [
+      "classical_ml",
+      "data_leakage",
+      "safety"
+    ]
   }
 ]

@@ -63,5 +63,70 @@
       "lda",
       "topic_modeling"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: t-SNE Projection 🌀",
+    "text": "To visualize high-dimensional datasets in 2D or 3D, {{c1::t-SNE}} converts Euclidean distances between data points into conditional probabilities that represent similarities.",
+    "explanation": "t-SNE (t-Distributed Stochastic Neighbor Embedding) is a non-linear dimensionality reduction technique. It models local neighborhoods, preserving similarities so that close points in high dimensions remain close in low dimensions.",
+    "usage": "Scikit-Learn: <code>from sklearn.manifold import TSNE; tsne = TSNE(n_components=2)</code>.",
+    "spanish": "Para visualizar conjuntos de datos de alta dimensión en 2D o 3D, t-SNE convierte las distancias euclidianas entre los puntos de datos en probabilidades condicionales que representan similitudes.",
+    "tags": [
+      "unsupervised",
+      "t_sne",
+      "visualization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: DBSCAN Noise 🌀",
+    "text": "Unlike K-Means, the density-based clustering algorithm {{c1::DBSCAN}} does not require specifying the number of clusters and can isolate noise points.",
+    "explanation": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise) groups points that are close to each other based on two parameters: <code>eps</code> (radius) and <code>min_samples</code>. Points in low-density regions are marked as noise/outliers.",
+    "usage": "DBSCAN labels noise points as <code>-1</code> in Scikit-Learn.",
+    "spanish": "A diferencia de K-Means, el algoritmo de agrupamiento basado en densidad DBSCAN no requiere especificar el número de grupos y puede aislar puntos de ruido.",
+    "tags": [
+      "unsupervised",
+      "dbscan",
+      "clustering"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: GMM EM 🌀",
+    "text": "Gaussian Mixture Models perform soft clustering by fitting multiple Gaussian distributions to the data using the {{c1::Expectation-Maximization (EM)}} algorithm.",
+    "explanation": "Expectation-Maximization is an iterative method. The 'E-step' calculates the probability of each point belonging to each Gaussian. The 'M-step' updates the mean, covariance, and mixing weights of the Gaussians to maximize the likelihood.",
+    "usage": "In Scikit-Learn: <code>from sklearn.mixture import GaussianMixture</code>.",
+    "spanish": "Los Modelos de Mezcla Gaussiana (GMM) realizan agrupamientos suaves ajustando múltiples distribuciones gaussianas a los datos utilizando el algoritmo de Esperanza-Maximización (EM).",
+    "tags": [
+      "unsupervised",
+      "gmm",
+      "clustering"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: Isolation Forest 🌀",
+    "text": "To detect anomalies by isolating data points rather than profiling normal behavior, we use the {{c1::Isolation Forest}} algorithm.",
+    "explanation": "Isolation Forest isolates anomalies by randomly partitioning features. Since anomalies require fewer partitions to isolate, they appear closer to the root of the generated decision trees.",
+    "usage": "Anomalies have shorter average path lengths in the trees of an Isolation Forest.",
+    "spanish": "Para detectar anomalías aislando puntos de datos en lugar de perfilar el comportamiento normal, utilizamos el algoritmo Bosque de Aislamiento (Isolation Forest).",
+    "tags": [
+      "unsupervised",
+      "anomaly_detection",
+      "isolation_forest"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
+    "scenario": "Unsupervised: Hierarchical Dendrogram 🌀",
+    "text": "To visualize the nesting of clusters at different levels of similarity in hierarchical clustering, you construct a {{c1::dendrogram}}.",
+    "explanation": "A dendrogram is a tree diagram that illustrates the arrangement of clusters produced by hierarchical clustering. The height of the branches represents the distance or dissimilarity at which clusters are merged.",
+    "usage": "In SciPy: <code>from scipy.cluster.hierarchy import dendrogram, linkage</code>.",
+    "spanish": "Para visualizar el anidamiento de grupos en diferentes niveles de similitud en el agrupamiento jerárquico, construyes un dendrograma.",
+    "tags": [
+      "unsupervised",
+      "hierarchical_clustering",
+      "dendrogram"
+    ]
   }
 ]

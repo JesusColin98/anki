@@ -64,5 +64,70 @@
       "umap",
       "dimensionality_reduction"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: Target Encoding 📊",
+    "text": "To convert high-cardinality categorical features into numerical values, you can replace each category with the mean of the target variable, a method called {{c1::Target Encoding}}.",
+    "explanation": "Target Encoding (or mean encoding) maps categorical values to the average target value of the training samples within that category. It is highly effective but prone to data leakage and overfitting if not regularized.",
+    "usage": "To prevent leakage, use out-of-fold target encoding or add smoothing parameters:<br><code>S = \\lambda \\cdot M_c + (1 - \\lambda) \\cdot M_{global}</code>",
+    "spanish": "Para convertir características categóricas de alta cardinalidad en valores numéricos, puedes reemplazar cada categoría con la media de la variable objetivo, un método llamado Codificación del Objetivo (Target Encoding).",
+    "tags": [
+      "feature_engineering",
+      "categorical",
+      "encoding"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: TF-IDF 📊",
+    "text": "To represent text documents numerically by weighing terms based on their frequency in a document relative to their frequency across the corpus, you use {{c1::TF-IDF}}.",
+    "explanation": "TF-IDF (Term Frequency-Inverse Document Frequency) down-weights common words (like 'the', 'is') that appear in many documents, while highlighting rare words that are highly descriptive of a specific document.",
+    "usage": "Formula: <code>TF-IDF = TF(t, d) * IDF(t)</code> where <code>IDF(t) = log(N / DF(t))</code>.",
+    "spanish": "Para representar documentos de texto numéricamente pesando los términos según su frecuencia en un documento en relación con su frecuencia en todo el corpus, utilizas TF-IDF.",
+    "tags": [
+      "feature_engineering",
+      "text",
+      "tf_idf"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: PCA Projection 📊",
+    "text": "To reduce dimensionality while preserving maximum variance, PCA projects data onto orthogonal axes called {{c1::principal components}}.",
+    "explanation": "Principal Component Analysis (PCA) performs an eigendecomposition of the covariance matrix. The first principal component is the direction of maximum variance, and subsequent components are orthogonal to it.",
+    "usage": "Scikit-Learn example: <code>from sklearn.decomposition import PCA; pca = PCA(n_components=2).fit_transform(X)</code>.",
+    "spanish": "Para reducir la dimensionalidad conservando la máxima varianza, PCA proyecta los datos sobre ejes ortogonales llamados componentes principales (principal components).",
+    "tags": [
+      "feature_engineering",
+      "pca",
+      "dimensionality_reduction"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: Yeo-Johnson 📊",
+    "text": "To stabilize variance and normalize data containing zero or negative values, you apply the {{c1::Yeo-Johnson transform}}.",
+    "explanation": "The Yeo-Johnson transformation is a power transform similar to Box-Cox, but it supports zero and negative values. It modifies the distribution to be closer to a normal distribution.",
+    "usage": "Scikit-Learn implementation: <code>PowerTransformer(method='yeo-johnson')</code>.",
+    "spanish": "Para estabilizar la varianza y normalizar datos que contienen valores cero o negativos, aplicas la transformación de Yeo-Johnson.",
+    "tags": [
+      "feature_engineering",
+      "normalization",
+      "yeo_johnson"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
+    "scenario": "Features: Interaction Terms 📊",
+    "text": "To capture non-linear relationships where the effect of one feature depends on the level of another, you generate {{c1::interaction terms}}.",
+    "explanation": "Interaction terms are created by multiplying or dividing two or more features (e.g. \\(x_1 \\cdot x_2\\)). They allow linear models to capture joint feature effects without switching to non-linear algorithms.",
+    "usage": "In Scikit-Learn: <code>PolynomialFeatures(interaction_only=True)</code> generates interaction terms.",
+    "spanish": "Para capturar relaciones no lineales donde el efecto de una característica depende del nivel de otra, generas términos de interacción (interaction terms).",
+    "tags": [
+      "feature_engineering",
+      "interaction",
+      "polynomial"
+    ]
   }
 ]

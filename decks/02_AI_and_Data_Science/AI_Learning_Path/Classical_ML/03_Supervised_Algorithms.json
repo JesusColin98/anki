@@ -63,5 +63,70 @@
       "catboost",
       "categorical"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: SVM Margin 🌲",
+    "text": "Support Vector Machines classify data by finding the hyperplane that maximizes the {{c1::maximum margin}} between the classes.",
+    "explanation": "The margin is the distance between the separating hyperplane and the closest training samples (called support vectors). Maximizing this margin reduces generalization error.",
+    "usage": "SVM objective function minimizes \\(\\frac{1}{2} \\parallel w \\parallel^2\\) subject to classification constraints.",
+    "spanish": "Las Máquinas de Vectores de Soporte clasifican datos encontrando el hiperplano que maximiza el margen máximo (maximum margin) entre las clases.",
+    "tags": [
+      "supervised",
+      "svm",
+      "classification"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: Naive Bayes 🌲",
+    "text": "Naive Bayes classifiers simplify probability calculations by assuming class-{{c1::conditional independence}} between all features.",
+    "explanation": "The 'naive' assumption states that, given the class label, the presence of a feature is completely independent of the presence of any other feature. This simplifies the Bayes theorem calculations.",
+    "usage": "Naive Bayes classifier formula: \\(P(C_k \\mid x) \\propto P(C_k) \\prod_{i=1}^n P(x_i \\mid C_k)\\).",
+    "spanish": "Los clasificadores Naive Bayes simplifican los cálculos de probabilidad al asumir independencia condicional de clase (conditional independence) entre todas las características.",
+    "tags": [
+      "supervised",
+      "naive_bayes",
+      "probability"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: Random Forest 🌲",
+    "text": "To reduce variance and avoid overfitting, a Random Forest aggregates multiple decision trees trained using {{c1::bagging}}.",
+    "explanation": "Bagging (bootstrap aggregating) trains individual decision trees on random subsets of the data (sampled with replacement) and random subsets of features, averaging their predictions to obtain the final output.",
+    "usage": "In Scikit-Learn: <code>from sklearn.ensemble import RandomForestClassifier</code>.",
+    "spanish": "Para reducir la varianza y evitar el sobreajuste, un Bosque Aleatorio (Random Forest) agrega múltiples árboles de decisión entrenados mediante empaquetamiento (bagging).",
+    "tags": [
+      "supervised",
+      "random_forest",
+      "bagging"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: Gradient Boosting 🌲",
+    "text": "Gradient Boosting algorithms build trees sequentially, where each new tree is fit to the {{c1::pseudo-residuals}} of the previous trees.",
+    "explanation": "Instead of training trees independently, gradient boosting trains each tree to predict the negative gradient of the loss function (the pseudo-residuals) of the current model, gradually minimizing total loss.",
+    "usage": "Key packages: <code>XGBoost</code>, <code>LightGBM</code>, <code>CatBoost</code>.",
+    "spanish": "Los algoritmos de Impulso de Gradiente (Gradient Boosting) construyen árboles secuencialmente, donde cada nuevo árbol se ajusta a los pseudo-residuos de los árboles anteriores.",
+    "tags": [
+      "supervised",
+      "gradient_boosting",
+      "boosting"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
+    "scenario": "Supervised: Ridge Regression 🌲",
+    "text": "To prevent overfitting by shrinking regression coefficients towards zero without eliminating them, Ridge applies {{c1::L2 regularization}}.",
+    "explanation": "Ridge regression adds a penalty equal to the sum of the squared weights (L2 norm) to the loss function. This discourages large weights but keeps all features in the model.",
+    "usage": "Ridge loss function: \\(L = \\sum(y - Xw)^2 + \\alpha \\sum w_j^2\\).",
+    "spanish": "Para evitar el sobreajuste reduciendo los coeficientes de regresión hacia cero sin eliminarlos, Ridge aplica regularización L2 (L2 regularization).",
+    "tags": [
+      "supervised",
+      "regression",
+      "regularization"
+    ]
   }
 ]

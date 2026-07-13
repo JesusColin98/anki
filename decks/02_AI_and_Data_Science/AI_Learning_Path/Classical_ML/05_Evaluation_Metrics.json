@@ -63,5 +63,70 @@
       "f_beta",
       "metrics"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: F1-Score 📐",
+    "text": "The F1-Score evaluates classification models on imbalanced datasets by calculating the {{c1::harmonic mean}} of precision and recall.",
+    "explanation": "The harmonic mean is used instead of the arithmetic mean because it penalizes extreme imbalances. If either precision or recall is close to zero, the F1-Score drops sharply.",
+    "usage": "Formula: \\(F_1 = 2 \\cdot \\frac{\\text{Precision} \\cdot \\text{Recall}}{\\text{Precision} + \\text{Recall}}\\).",
+    "spanish": "El F1-Score evalúa los modelos de clasificación en conjuntos de datos desbalanceados calculando la media armónica (harmonic mean) de la precisión y la recuperación.",
+    "tags": [
+      "metrics",
+      "f1_score",
+      "classification"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: ROC Curve 📐",
+    "text": "To measure a binary classifier's performance at all classification thresholds, we plot the {{c1::ROC curve}} and compute the area under it (AUC).",
+    "explanation": "The Receiver Operating Characteristic (ROC) curve plots the True Positive Rate (Sensitivity) on the y-axis against the False Positive Rate (1 - Specificity) on the x-axis for every possible decision threshold.",
+    "usage": "An AUC of 0.5 represents a random classifier, while an AUC of 1.0 represents a perfect classifier.",
+    "spanish": "Para medir el rendimiento de un clasificador binario en todos los umbrales de clasificación, graficamos la curva ROC y calculamos el área bajo ella (AUC).",
+    "tags": [
+      "metrics",
+      "roc_auc",
+      "classification"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: Log Loss 📐",
+    "text": "To evaluate classification models based on predicted probabilities rather than hard class labels, we calculate {{c1::Log Loss}} (Cross-Entropy).",
+    "explanation": "Log Loss measures the uncertainty of predictions. It penalizes incorrect predictions heavily if the model was highly confident (predicted probability close to 1 or 0).",
+    "usage": "Log Loss formula for binary classification: \\(L = -\\frac{1}{N} \\sum [y_i \\log(p_i) + (1-y_i) \\log(1-p_i)]\\).",
+    "spanish": "Para evaluar los modelos de clasificación basándose en las probabilidades predichas en lugar de etiquetas de clase directas, calculamos la pérdida logarítmica (Log Loss).",
+    "tags": [
+      "metrics",
+      "log_loss",
+      "entropy"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: MAPE 📐",
+    "text": "To express forecasting errors as a percentage of the actual values, regression tasks evaluate the {{c1::MAPE}} metric.",
+    "explanation": "MAPE (Mean Absolute Percentage Error) measures the size of the error in percentage terms. It is defined as the average of the absolute percentage differences between predicted and actual values.",
+    "usage": "Formula: \\(\\text{MAPE} = \\frac{100\\%}{n} \\sum \\left| \\frac{y_i - \\hat{y}_i}{y_i} \\right|\\). Note: MAPE is undefined if \\(y_i = 0\\).",
+    "spanish": "Para expresar los errores de pronóstico como un porcentaje de los valores reales, las tareas de regresión evalúan la métrica MAPE.",
+    "tags": [
+      "metrics",
+      "regression",
+      "mape"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
+    "scenario": "Metrics: Silhouette Coefficient 📐",
+    "text": "To evaluate the quality of a clustering model without ground truth labels, we compute the {{c1::Silhouette Coefficient}}.",
+    "explanation": "The Silhouette Coefficient measures how close a sample is to its own cluster compared to other clusters. It ranges from -1 (incorrect clustering) to +1 (highly dense and well-separated clustering).",
+    "usage": "Formula for sample \\(i\\): \\(s(i) = \\frac{b(i) - a(i)}{\\max(a(i), b(i))}\\) where \\(a\\) is intra-cluster distance and \\(b\\) is nearest-cluster distance.",
+    "spanish": "Para evaluar la calidad de un modelo de agrupamiento sin etiquetas de referencia reales, calculamos el coeficiente de Silueta (Silhouette Coefficient).",
+    "tags": [
+      "metrics",
+      "unsupervised",
+      "silhouette"
+    ]
   }
 ]

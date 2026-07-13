@@ -63,5 +63,75 @@
       "langgraph",
       "state_machine"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Tool RAG 🛠️",
+    "text": "When an agent has access to thousands of tools, context constraints require using {{c1::tool retrieval}} (RAG for tools) before prompt generation.",
+    "explanation": "Instead of hardcoding all tool definitions in the system prompt (which bloats context and degrades LLM reasoning), the agent performs vector similarity search to retrieve and inject only the top relevant tools for the current query.",
+    "usage": "Tool retrieval indexes tool names and descriptions in a vector database to fetch relevant APIs on demand.",
+    "spanish": "Cuando un agente tiene acceso a miles de herramientas, las restricciones de contexto requieren el uso de recuperación de herramientas (tool retrieval - RAG para herramientas) antes de generar el prompt.",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "tools",
+      "rag"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Loop Detection 🛠️",
+    "text": "To prevent agents from generating infinite, repetitive tool calls when encountering failures, systems implement {{c1::loop detection}} limits.",
+    "explanation": "Loop detection monitors the agent's action history. If the agent repeats the exact same thought and tool call sequence multiple times without making progress, the loop is broken, and control is handed back to the user.",
+    "usage": "Loop detection is implemented by checking if the sequence of recent state signatures has duplicates, throwing an exception after 3 repetitions.",
+    "spanish": "Para evitar que los agentes generen llamadas a herramientas infinitas y repetitivas al encontrarse con fallas, los sistemas implementan límites de detección de bucles (loop detection).",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "safety",
+      "loop"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Evaluator-Optimizer 🛠️",
+    "text": "For code generation or translation tasks, the {{c1::Evaluator-Optimizer}} design pattern uses one LLM to write a solution and a separate LLM to verify and refine it.",
+    "explanation": "This pattern decouples content generation from quality validation. The generator produces a draft, the evaluator tests it (e.g. running unit tests), and returns feedback, allowing the generator to optimize the next draft.",
+    "usage": "The Evaluator-Optimizer pattern is used to automate code compilation checks and self-correction before outputting results.",
+    "spanish": "Para tareas de generación o traducción de código, el patrón de diseño Evaluador-Optimador (Evaluator-Optimizer) utiliza un LLM para escribir una solución y un LLM separado para verificarla y refinarla.",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "patterns",
+      "evaluator"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Swarms 🛠️",
+    "text": "To organize multiple agents without complex state management, developers use the {{c1::Swarm}} pattern, where agents dynamically hand off control to other agents.",
+    "explanation": "The Swarm pattern coordinates agents by allowing an agent to return another agent object as a tool call output, transferring the execution focus directly to that new agent without a central supervisor.",
+    "usage": "OpenAI's <code>Swarm</code> framework uses <code>Agent</code> definitions and functions returning the next agent to route conversations.",
+    "spanish": "Para organizar múltiples agentes sin una gestión de estado compleja, los desarrolladores utilizan el patrón de Enjambre (Swarm), donde los agentes transfieren el control dinámicamente a otros agentes.",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "frameworks",
+      "swarm"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
+    "scenario": "Tech Map 2026: Orchestrator-Workers 🛠️",
+    "text": "In hierarchical workflows, the {{c1::Orchestrator-Workers}} pattern uses a parent agent to break down tasks and assign sub-steps to specialized child agents.",
+    "explanation": "This pattern is highly effective for complex, modular tasks. The orchestrator maintains the high-level state, reviews worker outputs, and decides the next steps, preventing workers from getting lost in broad context.",
+    "usage": "The orchestrator-workers pattern uses a supervisor agent that calls specific worker subagents using tool schemas.",
+    "spanish": "En flujos de trabajo jerárquicos, el patrón Orquestador-Trabajadores (Orchestrator-Workers) utiliza un agente padre para desglosar tareas y asignar subpasos a agentes hijos especializados.",
+    "tags": [
+      "tech_map_2026",
+      "agents",
+      "patterns",
+      "orchestrator"
+    ]
   }
 ]

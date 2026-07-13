@@ -1,5 +1,5 @@
 {
-  "total_cards": 830,
+  "total_cards": 964,
   "total_decks": 97,
   "decks": [
     {
@@ -25,62 +25,62 @@
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Agentic_Systems/Agent_Frameworks.json",
-      "cards_count": 4
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Overview",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Agentic_Systems/Overview.json",
-      "cards_count": 2
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::01_Math_Foundations",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/01_Math_Foundations.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::02_Feature_Engineering",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/02_Feature_Engineering.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::03_Supervised_Algorithms",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/03_Supervised_Algorithms.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::04_Unsupervised_Algorithms",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/04_Unsupervised_Algorithms.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::05_Evaluation_Metrics",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/05_Evaluation_Metrics.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::06_Optimization_Explicability",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/06_Optimization_Explicability.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Classical_ML::Overview",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Classical_ML/Overview.json",
-      "cards_count": 2
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::02_LLM_Fundamentals",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/LLM_Systems/02_LLM_Fundamentals.json",
-      "cards_count": 2
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/LLM_Systems/03_Advanced_LLM.json",
-      "cards_count": 2
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
       "path": "decks/02_AI_and_Data_Science/Books/AI_ML/04_AI_Engineering.json",
-      "cards_count": 2
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::Books::AI_ML::06_AI_ML_Essential_Library",
@@ -90,27 +90,27 @@
     {
       "deck": "02_AI_and_Data_Science::Tech_Map_2026::Agents::01_AI_Agents_Autonomy",
       "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/Agents/01_AI_Agents_Autonomy.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::Tech_Map_2026::IDEs::04_Agentic_Dev_IDEs",
       "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/IDEs/04_Agentic_Dev_IDEs.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::Tech_Map_2026::LLMs::02_Reasoning_LLMs",
       "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/LLMs/02_Reasoning_LLMs.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
       "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/MLOps/06_MLOps_Guardrails.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "02_AI_and_Data_Science::Tech_Map_2026::RAG::03_Advanced_RAG",
       "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/RAG/03_Advanced_RAG.json",
-      "cards_count": 5
+      "cards_count": 10
     },
     {
       "deck": "03_Languages::Chinese::A1_Beginner::Greetings_and_Farewells",
@@ -405,22 +405,22 @@
     {
       "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::01_Classical_Foundations",
       "path": "decks/04_Social_and_Humanities/Philosophy/01_Beginner/01_Classical_Foundations.json",
-      "cards_count": 3
+      "cards_count": 10
     },
     {
       "deck": "04_Social_and_Humanities::Philosophy::01_Beginner::02_Eastern_Philosophies",
       "path": "decks/04_Social_and_Humanities/Philosophy/01_Beginner/02_Eastern_Philosophies.json",
-      "cards_count": 1
+      "cards_count": 10
     },
     {
       "deck": "04_Social_and_Humanities::Philosophy::02_Intermediate::01_Stoicism",
       "path": "decks/04_Social_and_Humanities/Philosophy/02_Intermediate/01_Stoicism.json",
-      "cards_count": 2
+      "cards_count": 10
     },
     {
       "deck": "04_Social_and_Humanities::Philosophy::03_Advanced::01_Modern_Postmodern",
       "path": "decks/04_Social_and_Humanities/Philosophy/03_Advanced/01_Modern_Postmodern.json",
-      "cards_count": 1
+      "cards_count": 10
     },
     {
       "deck": "04_Social_and_Humanities::Psychology::Conversational::07_Conversational_Psychology",

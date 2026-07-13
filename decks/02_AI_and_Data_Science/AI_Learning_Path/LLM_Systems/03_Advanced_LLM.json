@@ -22,5 +22,109 @@
       "ai_learning_path",
       "advanced_llm"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: LoRA 🤖",
+    "text": "To fine-tune LLMs efficiently on consumer GPUs, you freeze the pre-trained weights and inject trainable rank decomposition matrices; this is called {{c1::low-rank adaptation}} (LoRA).",
+    "explanation": "LoRA parameterizes the weight update as \\(\\Delta W = B \\cdot A\\), where \\(W_0 \\in \\mathbb{R}^{d \\times k}\\), \\(B \\in \\mathbb{R}^{d \\times r}\\), and \\(A \\in \\mathbb{R}^{r \\times k}\\) with rank \\(r \\ll \\min(d, k)\\). This reduces trainable parameters by up to 99%.",
+    "usage": "In HuggingFace: <code>from peft import LoraConfig, get_peft_model</code>.",
+    "spanish": "Para ajustar LLMs de manera eficiente en GPUs de consumo, congelas los pesos preentrenados e inyectas matrices de descomposición de rango entrenables; esto se llama adaptación de bajo rango (LoRA).",
+    "tags": [
+      "advanced_llm",
+      "lora",
+      "fine_tuning"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: Quantization 🤖",
+    "text": "To reduce model memory footprint and speed up inference, weights are converted from 16-bit float to lower precision formats (e.g. 8-bit or 4-bit) using {{c1::quantization}}.",
+    "explanation": "Quantization maps high-precision floating point numbers to lower-precision integers (like INT8 or INT4) by scaling and rounding, minimizing information loss using calibration data.",
+    "usage": "Popular formats: <code>AWQ</code> (Activation-aware Weight Quantization), <code>GPTQ</code>, <code>GGUF</code>.",
+    "spanish": "Para reducir la huella de memoria del modelo y acelerar la inferencia, los pesos se convierten de punto flotante de 16 bits a formatos de menor precisión utilizando cuantización (quantization).",
+    "tags": [
+      "advanced_llm",
+      "quantization",
+      "inference"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: MoE 🤖",
+    "text": "To scale model capacity to billions of parameters without increasing computation costs per token, models implement a {{c1::Mixture of Experts (MoE)}} architecture.",
+    "explanation": "Mixture of Experts replaces feed-forward layers with a set of independent 'expert' sub-networks. A routing network directs each token to only a few active experts (e.g. Top-2), maintaining sparse activation.",
+    "usage": "Mixtral 8x7B is a popular Mixture of Experts model where only 2 out of 8 experts are active per token.",
+    "spanish": "Para escalar la capacidad del modelo a miles de millones de parámetros sin aumentar los costos de cómputo por token, los modelos implementan una arquitectura de Mezcla de Expertos (MoE).",
+    "tags": [
+      "advanced_llm",
+      "moe",
+      "architecture"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: FlashAttention 🤖",
+    "text": "To speed up self-attention and reduce memory utilization from quadratic to linear relative to context length, GPUs execute {{c1::FlashAttention}}.",
+    "explanation": "FlashAttention is an IO-aware exact attention algorithm. By partitioning attention computation into blocks and loading them into GPU SRAM, it reduces slower HBM (High Bandwidth Memory) read/write operations.",
+    "usage": "FlashAttention-2 and FlashAttention-3 provide massive speedups for long-context LLM execution.",
+    "spanish": "Para acelerar la autoatención y reducir el uso de memoria de cuadrático a lineal en relación con la longitud del contexto, las GPUs ejecutan FlashAttention.",
+    "tags": [
+      "advanced_llm",
+      "flash_attention",
+      "optimization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: RoPE 🤖",
+    "text": "To encode absolute positional information while naturally generalizing to longer context lengths, modern models utilize {{c1::Rotary Position Embedding (RoPE)}}.",
+    "explanation": "RoPE encodes position by rotating the Query and Key vector representations in 2D planes by an angle proportional to their sequence position. It maintains relative distances between tokens mathematically.",
+    "usage": "RoPE is used by Llama, Mistral, and Qwen architectures instead of absolute sinusiodal positional encodings.",
+    "spanish": "Para codificar información posicional absoluta mientras se generaliza naturalmente a longitudes de contexto más largas, los modelos modernos utilizan la incrustación de posición rotativa (RoPE).",
+    "tags": [
+      "advanced_llm",
+      "rope",
+      "embeddings"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: Speculative Decoding 🤖",
+    "text": "To accelerate autoregressive generation, {{c1::Speculative Decoding}} uses a small draft model to generate multiple tokens, which are validated in parallel by a larger target model.",
+    "explanation": "Speculative Decoding exploits the fact that running a large LLM once on a sequence of tokens (parallel validation) takes almost the same time as running it on one token. This yields 2x-3x generation speedups without quality loss.",
+    "usage": "Requires a fast draft model (e.g. Llama-68M) and a powerful target model (e.g. Llama-70B).",
+    "spanish": "Para acelerar la generación autorregresiva, la decodificación especulativa (Speculative Decoding) utiliza un modelo de borrador pequeño para generar múltiples tokens, que son validados en paralelo por un modelo objetivo más grande.",
+    "tags": [
+      "advanced_llm",
+      "speculative_decoding",
+      "inference"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: DPO 🤖",
+    "text": "To align LLMs directly on human preference data without training a separate reward model or using reinforcement learning, engineers apply {{c1::Direct Preference Optimization}} (DPO).",
+    "explanation": "DPO shows that the RLHF objective can be solved closed-form, mapping human preferences directly to a binary cross-entropy loss that updates the policy model relative to a reference model.",
+    "usage": "DPO is simpler to train and more stable than PPO, eliminating the need to tune reward and value models.",
+    "spanish": "Para alinear LLMs directamente con datos de preferencia humana sin entrenar un modelo de recompensa separado o usar aprendizaje por refuerzo, los ingenieros aplican la Optimización de Preferencias Directas (DPO).",
+    "tags": [
+      "advanced_llm",
+      "alignment",
+      "dpo"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
+    "scenario": "Advanced LLM: KV Cache 🤖",
+    "text": "To avoid recomputing attention states for past tokens at each generation step, inference engines implement a {{c1::KV Cache}}.",
+    "explanation": "During autoregressive generation, keys and values of past tokens remain constant. By saving them in GPU memory (KV Cache), the engine only needs to compute queries, keys, and values for the newly generated token.",
+    "usage": "KV Cache memory consumption is a primary bottleneck for scaling concurrent user requests on GPU servers.",
+    "spanish": "Para evitar volver a calcular los estados de atención para tokens pasados en cada paso de generación, los motores de inferencia implementan un KV Cache.",
+    "tags": [
+      "advanced_llm",
+      "kv_cache",
+      "inference"
+    ]
   }
 ]

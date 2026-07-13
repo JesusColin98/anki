@@ -63,5 +63,75 @@
       "rlaif",
       "dpo"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: PII Redaction 🛡️",
+    "text": "To prevent models from leaking sensitive user information (like SSNs or credit cards) in their outputs, MLOps gateways execute {{c1::PII redaction}} filters.",
+    "explanation": "Personally Identifiable Information (PII) redaction uses named entity recognition (NER) or regular expressions to detect and replace sensitive data with placeholders (like <code>[REDACTED]</code>) before the response reaches the user.",
+    "usage": "Frameworks like Microsoft's <code>Presidio</code> are used in the MLOps pipeline to automate PII redaction.",
+    "spanish": "Para evitar que los modelos filtren información confidencial del usuario (como números de seguridad social o tarjetas de crédito) en sus respuestas, las pasarelas MLOps ejecutan filtros de redacción de PII (PII redaction).",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "pii"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Input Sanitization 🛡️",
+    "text": "To detect and block malicious prompt payloads designed to hijack the model's system prompt, gateways perform {{c1::prompt injection sanitization}}.",
+    "explanation": "Prompt injection sanitization checks incoming user requests for adversarial content (e.g. 'Ignore all previous instructions...'). If detected, the gateway blocks the request and returns a safety error.",
+    "usage": "Gateways use specialized classifier models (like Llama-Guard) to score inputs for prompt injection risk.",
+    "spanish": "Para detectar y bloquear cargas útiles de prompts maliciosos diseñadas para secuestrar el prompt del sistema del modelo, las pasarelas realizan la desinfección de inyección de prompts (prompt injection sanitization).",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "injection"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Gateway Firewall 🛡️",
+    "text": "To enforce global usage policies, rate limits, and audit logging across all internal LLM integrations, organizations set up a centralized {{c1::LLM gateway firewall}}.",
+    "explanation": "An LLM gateway firewall acts as an API proxy. It intercepts all model requests and responses, injecting safety filters, tracing logs, and enforcing organizational compliance.",
+    "usage": "Open-source proxies like <code>LiteLLM</code> or <code>Portkey</code> function as LLM gateways for security management.",
+    "spanish": "Para hacer cumplir las políticas de uso global, los límites de velocidad y el registro de auditoría en todas las integraciones internas de LLM, las organizaciones configuran un cortafuegos de pasarela LLM centralizado (LLM gateway firewall).",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "firewall"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Jailbreak Detection 🛡️",
+    "text": "To classify if an input is attempting to bypass safety alignments through roleplay or cipher encodings, gateways run {{c1::adversarial jailbreak detection}}.",
+    "explanation": "Adversarial jailbreaks use complex wrapper prompts (like 'Do Anything Now' - DAN) or base64 encodings to bypass the LLM's safety filters. Jailbreak detectors evaluate the structural syntax of inputs to intercept these patterns.",
+    "usage": "Jailbreak detection filters run in parallel with the user prompt token parsing step.",
+    "spanish": "Para clasificar si una entrada está intentando eludir las alineaciones de seguridad a través de juegos de rol o codificaciones cifradas, las pasarelas ejecutan la detección de evasión de restricciones adversarias (adversarial jailbreak detection).",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "jailbreak"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::MLOps::06_MLOps_Guardrails",
+    "scenario": "MLOps: Rate Limiting 🛡️",
+    "text": "To protect costly model endpoints from denial-of-service (DoS) abuse and control costs, firewalls enforce {{c1::rate limiting}} on API tokens.",
+    "explanation": "Rate limiting restricts the number of API requests or total tokens processed per user within a specific timeframe (e.g. 1000 tokens per minute), throwing a 429 Too Many Requests error if exceeded.",
+    "usage": "Implemented at the gateway using algorithms like Token Bucket or Leaky Bucket with Redis backends.",
+    "spanish": "Para proteger los costosos puntos finales del modelo del abuso de denegación de servicio (DoS) y controlar los costos, los cortafuegos aplican limitación de velocidad (rate limiting) en los tokens de la API.",
+    "tags": [
+      "tech_map_2026",
+      "mlops",
+      "security",
+      "limits"
+    ]
   }
 ]
