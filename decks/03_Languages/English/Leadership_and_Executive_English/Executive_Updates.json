@@ -6,7 +6,14 @@
     "explanation": "This opener signals a structured briefing is coming. It respects the executive's time by promising brevity and orientation. 'Where things stand' is a fixed chunk that implies current state, not history.",
     "usage": "<ul><li><b>Opening:</b> \"Here's a quick update on where things stand with the migration.\"</li><li><b>Alternative:</b> \"I wanted to loop you in on what's happening with the rollout.\"</li><li><b>Email subject:</b> \"Quick update: Project Atlas — status as of Friday\"</li></ul>",
     "spanish": "Para comenzar una actualización ejecutiva concisa, un hablante nativo dice: 'Aquí hay una actualización rápida sobre cómo están las cosas.'",
-    "tags": ["english", "executive", "updates", "status", "professional", "leadership"]
+    "tags": [
+      "english",
+      "executive",
+      "updates",
+      "status",
+      "professional",
+      "leadership"
+    ]
   },
   {
     "deck": "03_Languages::English::Leadership_and_Executive_English::Executive_Updates",
@@ -15,7 +22,13 @@
     "explanation": "This two-part structure — name the risk, then show ownership of a mitigation — is essential for executive credibility. Leaders who only name problems without responses lose trust. The phrase 'at this point' signals situational awareness.",
     "usage": "<ul><li>\"The main risk at this point is timeline slippage due to the vendor delay. We've already identified two backup suppliers.\"</li><li>\"The key concern is data quality. We're running validation checks daily and flagging anomalies automatically.\"</li></ul>",
     "spanish": "'El principal riesgo en este momento es X, y esto es lo que estamos haciendo al respecto.' — estructura dos en uno: nombra el problema, muestra que tienes el control.",
-    "tags": ["english", "executive", "risk_communication", "leadership", "professional"]
+    "tags": [
+      "english",
+      "executive",
+      "risk_communication",
+      "leadership",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Leadership_and_Executive_English::Executive_Updates",
@@ -24,7 +37,13 @@
     "explanation": "This sentence is powerful because it does three things: (1) quantifies the ask (one decision), (2) implies the team is action-ready, (3) positions the executive as an enabler, not a bottleneck. Contrast with the weaker: 'Can we discuss some things?'",
     "usage": "<ul><li>\"I need your input on one decision before we move forward: do we extend the deadline or reduce scope?\"</li><li>\"There's one call I need from you: should we pause the deployment or proceed with a rollback plan in place?\"</li></ul>",
     "spanish": "'Necesito tu aval sobre una decisión antes de avanzar.' — enfatiza que el equipo ya está listo y solo necesita una decisión específica.",
-    "tags": ["english", "executive", "decision_request", "professional", "leadership"]
+    "tags": [
+      "english",
+      "executive",
+      "decision_request",
+      "professional",
+      "leadership"
+    ]
   },
   {
     "deck": "03_Languages::English::Leadership_and_Executive_English::Executive_Updates",
@@ -33,7 +52,13 @@
     "explanation": "BLUF (Bottom Line Up Front) is the military-derived communication standard adopted in executive communication. Instead of 'We started the project in Q1, faced challenges, and eventually...' → say 'We need 3 more weeks. Here's why.' Context supports the conclusion, it never precedes it.",
     "usage": "<ul><li><b>BLUF version:</b> \"We'll miss the launch date by 2 weeks. The cause is a dependency on the security review, which is running behind.\"</li><li><b>Anti-pattern (avoid):</b> \"So we started the process in March, and then we ran into a few issues with the security team, and eventually...\"</li></ul>",
     "spanish": "BLUF — Bottom Line Up Front: empieza cada actualización con la conclusión o la acción necesaria, antes de cualquier contexto o antecedentes. Principio estándar en comunicación ejecutiva.",
-    "tags": ["english", "executive", "bluf", "communication_structure", "professional"]
+    "tags": [
+      "english",
+      "executive",
+      "bluf",
+      "communication_structure",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Leadership_and_Executive_English::Executive_Updates",
@@ -42,7 +67,13 @@
     "explanation": "Executive updates that end without clear next steps waste the meeting. The three-element formula — action + owner + deadline — is the minimum viable closure. 'Owned by' is more accountable than 'handled by' or 'assigned to'.",
     "usage": "<ul><li>\"Next step: finalize the vendor contract, owned by Sarah, by end of Wednesday.\"</li><li>\"Two next steps: (1) security review — owned by IT, by Friday; (2) stakeholder sign-off — owned by me, by next Monday.\"</li></ul>",
     "spanish": "'Próximos pasos: [acción], a cargo de [persona], para el [fecha].' — la fórmula mínima para cerrar cualquier actualización ejecutiva con claridad.",
-    "tags": ["english", "executive", "next_steps", "accountability", "professional"]
+    "tags": [
+      "english",
+      "executive",
+      "next_steps",
+      "accountability",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Leadership_and_Executive_English::Executive_Updates",
@@ -51,7 +82,14 @@
     "explanation": "This phrase does critical work: (1) it positions you as proactive and trustworthy — you're not hiding problems; (2) 'heads-up' is a neutral, informal signal that shifts register to collaborative; (3) 'before this becomes bigger' shows situational awareness. Never let executives learn bad news from others first.",
     "usage": "<ul><li>\"I want to give you a heads-up before this becomes a bigger issue: the deployment we ran last night introduced a latency spike. We've isolated the cause and are rolling it back.\"</li><li>\"Quick heads-up: we're behind on the integration. Here's the recovery plan.\"</li></ul>",
     "spanish": "'Quiero avisarte antes de que esto se convierta en un problema mayor.' — fundamental para generar confianza como líder: siempre lleva las malas noticias tú primero.",
-    "tags": ["english", "executive", "bad_news", "proactive", "trust_building", "professional"]
+    "tags": [
+      "english",
+      "executive",
+      "bad_news",
+      "proactive",
+      "trust_building",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Leadership_and_Executive_English::Executive_Updates",
@@ -60,7 +98,13 @@
     "explanation": "'On track', 'slightly behind', and 'ahead of schedule' are executive-grade traffic light signals. They allow rapid comprehension. Always anchor the signal to a specific milestone, not a vague 'the project'. The phrase 'here's where we land' invites a zoomed-out view.",
     "usage": "<ul><li>\"We're slightly behind on Phase 2 of the data migration. We'll land 3 days late but within budget.\"</li><li>\"We're actually ahead of schedule on the model training — we can start evaluation a week early.\"</li><li>\"On track for the go-live date, but I want to flag a dependency that could shift things.\"</li></ul>",
     "spanish": "'Estamos en tiempo / ligeramente atrasados / adelantados en [hito], así es como termina.' — señales de semáforo para ejecutivos que permiten comprensión rápida.",
-    "tags": ["english", "executive", "progress_framing", "milestones", "professional"]
+    "tags": [
+      "english",
+      "executive",
+      "progress_framing",
+      "milestones",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Leadership_and_Executive_English::Executive_Updates",
@@ -69,7 +113,13 @@
     "explanation": "Executive environments punish both overconfidence (wrong) and paralysis (slow). This phrase threads the needle: it signals intellectual honesty (we don't know everything) while projecting leadership (we're actively working it). The phrase 'close the gap' is a management-register idiom for filling a knowledge deficit.",
     "usage": "<ul><li>\"We don't have the full picture yet on the outage root cause. What we know: the issue started at 2:14 AM. We've isolated it to the caching layer and have the team focused on a fix.\"</li><li>\"I'll give you a preliminary read: we're not sure yet if this affects all regions or just US-East.\"</li></ul>",
     "spanish": "'No tenemos el panorama completo todavía, pero esto es lo que sabemos y lo que estamos haciendo para llenar los vacíos.' — comunica honestidad intelectual sin perder autoridad.",
-    "tags": ["english", "executive", "uncertainty", "confidence", "professional"]
+    "tags": [
+      "english",
+      "executive",
+      "uncertainty",
+      "confidence",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Leadership_and_Executive_English::Executive_Updates",
@@ -78,7 +128,13 @@
     "explanation": "'The numbers this week' is a crisp, professional opener that signals data-driven communication. Executives expect quantitative signals before qualitative narrative. The bridging phrase 'the story behind them' acknowledges that numbers need context — but you're giving the data first, not last.",
     "usage": "<ul><li>\"The numbers this week: CSAT at 87%, up 4 points. First contact resolution at 91%. The story behind them: the new escalation routing we implemented Tuesday is already showing impact.\"</li><li>\"Quick metrics snapshot: P1 incidents — zero. Response SLA — 98.7% met. Model latency — averaging 320ms, down from 480ms.\"</li></ul>",
     "spanish": "'Los números de esta semana: [métrica A], [métrica B]. La historia detrás de ellos es...' — comunicación ejecutiva orientada a datos primero, narrativa después.",
-    "tags": ["english", "executive", "metrics", "data_driven", "professional"]
+    "tags": [
+      "english",
+      "executive",
+      "metrics",
+      "data_driven",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Leadership_and_Executive_English::Executive_Updates",
@@ -87,6 +143,12 @@
     "explanation": "Escalation is a professional skill, not a sign of weakness. This phrasing is important for two reasons: (1) 'beyond my authority' signals you know your mandate and are respecting organizational hierarchy; (2) 'requires your visibility' frames it as strategic awareness, not just passing a problem upward.",
     "usage": "<ul><li>\"I'm escalating this because the vendor SLA breach requires legal involvement, which is beyond my authority to initiate.\"</li><li>\"I wanted to flag this to you directly — the potential churn risk on this account requires your visibility given the ARR involved.\"</li></ul>",
     "spanish": "'Lo traigo a tu atención porque está más allá de mi autoridad / requiere tu visibilidad.' — escalar es una habilidad profesional, no una señal de debilidad.",
-    "tags": ["english", "executive", "escalation", "authority", "professional"]
+    "tags": [
+      "english",
+      "executive",
+      "escalation",
+      "authority",
+      "professional"
+    ]
   }
 ]

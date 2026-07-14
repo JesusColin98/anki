@@ -1,0 +1,106 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "ML Foundations: Bias and Variance ⚖️",
+    "text": "A model with high {{c1::bias}} underfits the data, while high {{c2::variance}} overfits and fails to generalize.",
+    "explanation": "Bias-variance tradeoff is a core concept for choosing models, regularization, and validation strategies.",
+    "usage": "Fundamental for supervised learning, model selection, and debugging poor performance.",
+    "spanish": "Un modelo con alto sesgo subajusta los datos, mientras que alta varianza sobreajusta y falla en generalizar.",
+    "tags": [
+      "ai",
+      "ml",
+      "statistics"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "ML Foundations: Cross-Validation 🔄",
+    "text": "Cross-validation estimates generalization by repeatedly splitting data into train and validation folds.",
+    "explanation": "It reduces the risk of reporting optimistic performance from a single lucky split.",
+    "usage": "Used in model comparison, hyperparameter tuning, and feature engineering workflows.",
+    "spanish": "La validación cruzada estima la generalización al dividir los datos en múltiples folds de entrenamiento y validación.",
+    "tags": [
+      "ai",
+      "ml",
+      "validation"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "ML Foundations: Confounding 🎯",
+    "text": "A {{c1::confounder}} can create a misleading association between a feature and the target if it is not controlled.",
+    "explanation": "Confounding is central for causal reasoning and for avoiding false conclusions in experimentation.",
+    "usage": "Important in observational studies, marketing analysis, and policy evaluation.",
+    "spanish": "Un factor de confusión puede crear una asociación engañosa entre una característica y la meta si no se controla.",
+    "tags": [
+      "ai",
+      "ml",
+      "causal"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "ML Foundations: Regularization 🧱",
+    "text": "Regularization adds a penalty to limit model complexity and reduce overfitting.",
+    "explanation": "L1 and L2 regularization are standard tools for controlling variance in linear and neural models.",
+    "usage": "Essential in logistic regression, SVMs, and deep learning optimization.",
+    "spanish": "La regularización añade una penalización para limitar la complejidad del modelo y reducir el sobreajuste.",
+    "tags": [
+      "ai",
+      "ml",
+      "regularization"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "ML Foundations: Class Imbalance 📊",
+    "text": "In imbalanced datasets, metrics like {{c1::precision}}, {{c2::recall}}, and {{c3::F1}} are often more informative than raw accuracy.",
+    "explanation": "Class imbalance can make accuracy nearly useless when one class dominates the dataset.",
+    "usage": "Common in fraud detection, rare disease prediction, and anomaly detection.",
+    "spanish": "En conjuntos con clases desbalanceadas, métricas como precisión, recall y F1 suelen ser más informativas que la exactitud pura.",
+    "tags": [
+      "ai",
+      "ml",
+      "evaluation"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "ML Foundations: Feature Engineering 🧪",
+    "text": "Feature engineering transforms raw variables into representations that expose relevant structure to the model.",
+    "explanation": "Good features often matter more than the algorithm itself in practical forecasting and tabular problems.",
+    "usage": "Central in credit scoring, churn prediction, and recommendation systems.",
+    "spanish": "La ingeniería de características transforma variables crudas en representaciones que exponen estructura relevante al modelo.",
+    "tags": [
+      "ai",
+      "ml",
+      "features"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "ML Foundations: Calibration 🎚️",
+    "text": "A calibrated model outputs probabilities that reflect real-world confidence rather than just ranking examples.",
+    "explanation": "Calibration is essential for risk estimation, medical diagnosis, and decision support.",
+    "usage": "Used when probabilities matter more than hard labels.",
+    "spanish": "Un modelo calibrado devuelve probabilidades que reflejan la confianza real en lugar de solo ordenar ejemplos.",
+    "tags": [
+      "ai",
+      "ml",
+      "probability"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "ML Foundations: Distribution Shift 🌍",
+    "text": "Distribution shift occurs when the data seen in production no longer matches the training distribution.",
+    "explanation": "This is one of the most common causes of degraded real-world ML performance.",
+    "usage": "Critical for deployment monitoring, forecasting, and fraud systems.",
+    "spanish": "El cambio de distribución ocurre cuando los datos vistos en producción ya no coinciden con la distribución de entrenamiento.",
+    "tags": [
+      "ai",
+      "ml",
+      "deployment"
+    ]
+  }
+]

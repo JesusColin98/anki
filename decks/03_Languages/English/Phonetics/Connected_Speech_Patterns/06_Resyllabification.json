@@ -1,0 +1,42 @@
+[
+  {
+    "deck": "03_Languages::English::Phonetics::CS_06_Resyllabification",
+    "scenario": "Book Concept 📚",
+    "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/check%20it%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/check/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Hey, {{c1::check it out}}! This is cool.",
+    "explanation": "<b>Written:</b> check it out<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">che-ki-tout</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Míralo/Compruébalo. La consonante final de cada palabra migra al inicio de la vocal de la siguiente palabra.",
+    "usage": "Written: <code>check it out</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">che-ki-tout</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/check%20it%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/check/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+    "spanish": "Míralo/Compruébalo. La consonante final de cada palabra migra al inicio de la vocal de la siguiente palabra.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/check%20it%20out/english/us",
+      "forvo_word": "https://forvo.com/word/check/#en"
+    },
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "resyllabification",
+      "tier_1",
+      "resyllabification"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::CS_06_Resyllabification",
+    "scenario": "Book Concept 📚",
+    "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hold%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can you {{c1::hold on}} for a second?",
+    "explanation": "<b>Written:</b> hold on<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hol-don</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Espera. La /d/ final de 'hold' se desplaza para iniciar la sílaba de 'on'.",
+    "usage": "Written: <code>hold on</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hol-don</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hold%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+    "spanish": "Espera. La /d/ final de 'hold' se desplaza para iniciar la sílaba de 'on'.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/hold%20on/english/us",
+      "forvo_word": "https://forvo.com/word/hold/#en"
+    },
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "resyllabification",
+      "tier_1",
+      "resyllabification"
+    ]
+  }
+]

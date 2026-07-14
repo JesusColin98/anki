@@ -1,0 +1,60 @@
+[
+  {
+    "deck": "03_Languages::English::Daily_and_Social::Airport_and_Flight",
+    "scenario": "✈️ Airport English — Checking Bags: 'I need to check a bag'",
+    "text": "<div style='margin-bottom:10px'><a href='https://youglish.com/pronounce/need+to+check+a+bag/english/us' target='_blank' style='background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em'>🎧 YouGlish</a></div>At the airline counter, tell the agent: {{c1::\"I have one carry-on and I need to check a bag.\"}}",
+    "explanation": "<b>Native speed:</b> <span style='color:#FF6B35;font-weight:bold'>'aɪ hæv wʌn kæ·ri·ɑn ən aɪ niː·də tʃɛ·kə bæg'</span><br><b>Rules applied:</b><br>• <code>need to</code> → /niː·də/ (Flap T cross-boundary: /t/ of 'to' is flapped between /d/ and /u/ → reduced to schwa)<br>• <code>check a</code> → /tʃɛ·kə/ (linking C+V: final /k/ of 'check' links to 'a')<br><br>🧠 'Check a bag' means it goes in the cargo hold. 'Carry-on' is the small bag you bring on the plane.",
+    "usage": "<ul><li>\"I need to check two bags and I'll keep this backpack as my personal item.\"</li><li>\"How much does it cost to check a bag?\"</li></ul>",
+    "spanish": "'Tengo un equipaje de mano y necesito registrar una maleta.' — Registrando equipaje. Fonéticamente, 'need to' se reduce a 'nee-duh' con un Flap T, y 'check a' se convierte en 'che-kuh'.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/need+to+check+a+bag/english/us"
+    },
+    "tags": [
+      "english",
+      "colloquial",
+      "airport",
+      "checking_bags",
+      "flap_t",
+      "linking",
+      "daily_life"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Daily_and_Social::Airport_and_Flight",
+    "scenario": "✈️ Airport English — Asking for Gate: 'Where is gate...'",
+    "text": "<div style='margin-bottom:10px'><a href='https://youglish.com/pronounce/where+is+gate/english/us' target='_blank' style='background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em'>🎧 YouGlish</a></div>To find your departure gate, ask: {{c1::\"Excuse me, do you know where gate B12 is?\"}}",
+    "explanation": "<b>Native speed:</b> <span style='color:#FF6B35;font-weight:bold'>'ɪk·skjuːz mi, dʒə noʊ wɛr geɪt...'</span><br>• <code>do you</code> → /dʒə/ or /jə/ (Yod Coalescence + schwa reduction)<br>• <code>gate B12</code> → /ˈgeɪt̚ biː·twɛlv/ (unreleased stop: the /t/ of 'gate' is held and not released before the consonant 'B')<br><br>🧠 'Gate' is the specific boarding area. Note the unexploded /t/ at the end of 'gate'.",
+    "usage": "<ul><li>\"Is this gate B12 for the flight to Chicago?\"</li><li>\"My boarding pass says gate C5, is that past security?\"</li></ul>",
+    "spanish": "'Disculpe, ¿sabe dónde queda la puerta B12?' — Preguntar por la puerta de embarque. Fonética: 'do you' colapsa en 'djuh/juh' y la /t/ en 'gate' queda retenida (sin explosión de aire) antes del sonido de la B.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/where+is+gate/english/us"
+    },
+    "tags": [
+      "english",
+      "colloquial",
+      "airport",
+      "gate",
+      "unreleased_stop",
+      "daily_life"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Daily_and_Social::Airport_and_Flight",
+    "scenario": "✈️ Airport English — Flight Crew Requests: 'Can I get a blanket?'",
+    "text": "<div style='margin-bottom:10px'><a href='https://youglish.com/pronounce/can+I+get+a+blanket/english/us' target='_blank' style='background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em'>🎧 YouGlish</a></div>During a flight, to ask the flight attendant for something, say: {{c1::\"Can I get a blanket and some water, please?\"}}",
+    "explanation": "<b>Native speed:</b> <span style='color:#FF6B35;font-weight:bold'>'kə·naɪ·gɛ·rə blæŋ·kɪ·ɾən sʌm wɑ·ɾər pliːz'</span><br>• <code>Can I get a</code> → /kə·naɪ·gɛ·rə/ (schwa on 'can' + Flap T on 'get a')<br>• <code>blanket and</code> → /blæŋ·kɪ·ɾən/ (Flap T on 'blanket' before 'and' + H-drop/D-deletion on 'and')<br><br>🧠 Politeness rules: 'Can I get...' with a 'please' at the end is the standard friendly request pattern for in-flight service.",
+    "usage": "<ul><li>\"Can I get a set of headphones, please?\"</li><li>\"Can I get an extra pillow?\"</li></ul>",
+    "spanish": "'¿Me podría dar una manta y agua, por favor?' — Petición a bordo. Fonéticamente, 'Can I get a' se pronuncia 'kə-naɪ-gɛ-rə' y el final de 'blanket' puede enlazarse como un Flap T suave antes de 'and'.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/can+I+get+a+blanket/english/us"
+    },
+    "tags": [
+      "english",
+      "colloquial",
+      "flight",
+      "requests",
+      "flap_t",
+      "daily_life"
+    ]
+  }
+]

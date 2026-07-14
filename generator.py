@@ -806,14 +806,18 @@ def render_t8_card(raw: Dict[str, Any], rule_info: Dict[str, Any]) -> Dict[str, 
         f"<tbody>{pairs_rows}</tbody></table>"
     )
 
+    color_a = "#1565C0"
+    color_b = "#4CAF50"
+    color_ref = "#6A1B9A"
+    
     return {
         "deck": rule_info["deck"],
         "scenario": f"Minimal Pair 🎯: {pa} vs {pb} (EN)",
         "text": (
             f"<div style='margin-bottom:10px'>"
-            f"<a href='{fv_a}' target='_blank' style='{AUDIO_BUTTON_STYLE.format(bg=\"#1565C0\")}'>🔊 {pa}</a>&nbsp;"
-            f"<a href='{fv_b}' target='_blank' style='{AUDIO_BUTTON_STYLE.format(bg=\"#4CAF50\")}'>🔊 {pb}</a>&nbsp;"
-            f"<a href='{ipa_ref}' target='_blank' style='{AUDIO_BUTTON_STYLE.format(bg=\"#6A1B9A\")}'>📖 IPAchart</a>"
+            f"<a href='{fv_a}' target='_blank' style='{AUDIO_BUTTON_STYLE.format(bg=color_a)}'>🔊 {pa}</a>&nbsp;"
+            f"<a href='{fv_b}' target='_blank' style='{AUDIO_BUTTON_STYLE.format(bg=color_b)}'>🔊 {pb}</a>&nbsp;"
+            f"<a href='{ipa_ref}' target='_blank' style='{AUDIO_BUTTON_STYLE.format(bg=color_ref)}'>📖 IPAchart</a>"
             f"</div>"
             f"<b>Phoneme A</b> <code>{pa}</code><br>"
             f"<b>IPA description:</b> {{{{c1::{ipa_a}}}}}"

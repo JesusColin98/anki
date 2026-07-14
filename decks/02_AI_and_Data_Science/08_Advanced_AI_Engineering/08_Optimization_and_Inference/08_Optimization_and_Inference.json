@@ -1,0 +1,74 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Inference: Quantization 🧠",
+    "text": "Quantization reduces the precision of model weights and activations to lower memory usage and speed up inference.",
+    "explanation": "It is one of the most important techniques for serving large models efficiently.",
+    "usage": "Common in edge devices, mobile apps, and cost-sensitive deployments.",
+    "spanish": "La cuantización reduce la precisión de los pesos y activaciones del modelo para bajar el uso de memoria y acelerar la inferencia.",
+    "tags": ["ai", "inference", "quantization"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Inference: KV Cache ⚡",
+    "text": "The KV cache stores past attention states so autoregressive decoding becomes much faster on repeated tokens.",
+    "explanation": "It is a critical optimization for chat systems and long-form generation.",
+    "usage": "Essential in LLM serving and interactive assistants.",
+    "spanish": "El KV cache almacena estados de atención pasados para que la decodificación autoregresiva sea mucho más rápida en tokens repetidos.",
+    "tags": ["ai", "inference", "cache"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Inference: Speculative Decoding 🚀",
+    "text": "Speculative decoding uses a smaller draft model to propose tokens, which are then verified by the larger model.",
+    "explanation": "It can sharply reduce latency for high-throughput inference.",
+    "usage": "Useful for real-time assistants and API serving at scale.",
+    "spanish": "La decodificación especulativa usa un modelo más pequeño para proponer tokens, que luego son verificados por el modelo grande.",
+    "tags": ["ai", "inference", "speculation"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Inference: Batching and Pipelining 🧵",
+    "text": "Batching groups requests together, while pipelining overlaps computation and communication to improve throughput.",
+    "explanation": "These techniques are essential when serving many users under tight latency budgets.",
+    "usage": "Common in API backends, enterprise copilots, and recommendation systems.",
+    "spanish": "El batching agrupa solicitudes, mientras que el pipelining solapa cómputo y comunicación para mejorar el throughput.",
+    "tags": ["ai", "inference", "throughput"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Inference: Distillation 🧪",
+    "text": "Knowledge distillation transfers behavior from a larger teacher model to a smaller student model.",
+    "explanation": "It is a practical way to deploy strong performance with lower cost and latency.",
+    "usage": "Useful in edge AI, on-device assistants, and mobile applications.",
+    "spanish": "La destilación de conocimiento transfiere comportamiento de un modelo profesor grande a un modelo estudiante más pequeño.",
+    "tags": ["ai", "inference", "distillation"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Inference: Latency vs Cost ⚖️",
+    "text": "A production system needs to trade latency, accuracy, and cost carefully because faster models often sacrifice quality.",
+    "explanation": "This tradeoff is central in real-world AI product design.",
+    "usage": "Important for SaaS products, internal copilots, and customer-facing assistants.",
+    "spanish": "Un sistema de producción necesita equilibrar latencia, precisión y costo cuidadosamente porque los modelos más rápidos a menudo sacrifican calidad.",
+    "tags": ["ai", "inference", "tradeoffs"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Inference: Caching Strategies 🗂️",
+    "text": "Caching can reuse prior computations such as prompt prefixes, embeddings, or frequent answers to lower cost.",
+    "explanation": "Good caching can dramatically improve efficiency without changing the model.",
+    "usage": "Common in high-volume search, support, and customer-facing assistants.",
+    "spanish": "El caching puede reutilizar cálculos previos como prefijos de prompts, embeddings o respuestas frecuentes para bajar costos.",
+    "tags": ["ai", "inference", "caching"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Inference: Serving Frameworks 🏗️",
+    "text": "Serving frameworks manage model loading, batching, autoscaling, and request routing for production workloads.",
+    "explanation": "The serving layer is often the difference between a demo and a reliable product.",
+    "usage": "Essential in enterprise AI platforms and scalable APIs.",
+    "spanish": "Los frameworks de serving gestionan carga de modelos, batching, autoscaling y enrutado de solicitudes para cargas de trabajo de producción.",
+    "tags": ["ai", "inference", "serving"]
+  }
+]

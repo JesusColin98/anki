@@ -6,7 +6,14 @@
     "explanation": "This phrase does two things simultaneously: (1) it signals that escalation is the correct action (threshold crossed), not a sign of helplessness; (2) 'support to resolve quickly' frames the executive as an enabler, not a rescue. Avoid 'I don't know what to do' — it erodes confidence.",
     "usage": "<ul><li>\"This is a P1 for us — I'm escalating because the issue is cross-team and I need your authority to expedite the vendor response.\"</li><li>\"I wouldn't escalate if I hadn't tried everything at my level. We need your weight behind this to unblock the infrastructure team.\"</li></ul>",
     "spanish": "'Lo escalo porque hemos cruzado el umbral de impacto donde necesito tu apoyo para resolverlo rápidamente.' — escalar es la acción correcta, no una señal de incapacidad.",
-    "tags": ["english", "support", "escalation", "incident", "professional", "operations"]
+    "tags": [
+      "english",
+      "support",
+      "escalation",
+      "incident",
+      "professional",
+      "operations"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Escalation_Handling",
@@ -15,7 +22,14 @@
     "explanation": "Executives make priority decisions based on business impact, not technical severity. A 'database error' means nothing; 'affecting 3,400 enterprise users and $180K in at-risk renewals since 6 AM' makes priority clear. Always lead with who/what is affected, not with the technical cause.",
     "usage": "<ul><li>\"This is affecting approximately 2,100 active users in the US-West region and has been ongoing since 3:47 PM. SLA breach window opens in 90 minutes.\"</li><li>\"Impact: two enterprise accounts that represent $240K ARR are unable to access core functionality. We've had 14 contacts in the last 2 hours.\"</li></ul>",
     "spanish": "'Esto está afectando a [N] clientes / [$X en ingresos] / [métrica SLA] desde [hora].' — los ejecutivos priorizan por impacto de negocio, no por severidad técnica.",
-    "tags": ["english", "support", "escalation", "impact", "sla", "professional"]
+    "tags": [
+      "english",
+      "support",
+      "escalation",
+      "impact",
+      "sla",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Escalation_Handling",
@@ -24,7 +38,13 @@
     "explanation": "Executives and senior engineers will ask 'did you try X?' before helping. Pre-empting this question with a clear 'what we've done' list saves time and signals competence. It changes the conversation from 'let me fix your problem' to 'here's a clear picture — what do you know that I don't?'",
     "usage": "<ul><li>\"We've already: restarted all pods, rolled back the last deployment, checked the database connections. Issue persists. The blocker is the upstream API that requires the vendor's ops team to cycle.\"</li><li>\"I've tried three workarounds: cache bypass, direct DB query, and region failover. None worked. We need infrastructure admin access to proceed.\"</li></ul>",
     "spanish": "'Ya intentamos X, Y y Z. Ninguno lo resolvió. El bloqueador es [problema específico].' — anticiparse a las preguntas sobre lo intentado demuestra competencia y acelera la resolución.",
-    "tags": ["english", "support", "escalation", "troubleshooting", "professional"]
+    "tags": [
+      "english",
+      "support",
+      "escalation",
+      "troubleshooting",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Escalation_Handling",
@@ -33,7 +53,14 @@
     "explanation": "When escalating via Slack, email, or paging, long messages get skimmed or missed. The 3-line format forces radical compression and ensures the reader knows immediately what action to take. This is the incident communication equivalent of BLUF. Every word after line 3 is optional context.",
     "usage": "<ul><li>Line 1: \"Auth service returning 503s for all EU users since 08:22 UTC.\"<br>Line 2: \"~4,500 users can't log in. SLA breach in 38 minutes.\"<br>Line 3: \"Need @infra-team to check the load balancer config. Can you join the bridge call?\"</li></ul>",
     "spanish": "El estándar dorado para escalar de forma asíncrona: Línea 1: Qué se rompió. Línea 2: Impacto ahora mismo. Línea 3: Qué necesito de ti. Compresión radical para máxima claridad.",
-    "tags": ["english", "support", "escalation", "async", "incident", "professional"]
+    "tags": [
+      "english",
+      "support",
+      "escalation",
+      "async",
+      "incident",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Escalation_Handling",
@@ -42,7 +69,13 @@
     "explanation": "The worst thing during an escalation is customer silence. 'Working on it' without a timeline creates anxiety. The time commitment — even if it's just a check-in update, not a resolution — gives the customer a predictable next touchpoint. Never say 'I don't know when this will be fixed.'",
     "usage": "<ul><li>\"I've escalated this to our senior infrastructure team and I'm in a live call with them now. I'll have an update for you by 2:30 PM — that's 45 minutes from now.\"</li><li>\"I'm not going to leave you hanging. Even if we don't have a fix, I'll update you every 30 minutes until we do.\"</li></ul>",
     "spanish": "'Estoy trabajando activamente en esto con nuestro equipo ahora mismo. Tendré una actualización para ti en [X minutos/horas].' — nunca dejes al cliente en silencio durante una escalada.",
-    "tags": ["english", "support", "escalation", "customer_communication", "professional"]
+    "tags": [
+      "english",
+      "support",
+      "escalation",
+      "customer_communication",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Escalation_Handling",
@@ -51,7 +84,14 @@
     "explanation": "The post-escalation debrief is often skipped in favor of moving on. This is a mistake. A structured close-out — cause, response, prevention — builds institutional trust, creates documentation for future incidents, and signals operational maturity. Keep it to 3-5 bullets, not a full report.",
     "usage": "<ul><li>\"Quick close-out: root cause was a misconfigured load balancer rule pushed at 08:15. Resolution was a config rollback at 09:47. Prevention: adding automated config validation to the deployment pipeline by next Thursday.\"</li><li>\"Full postmortem will follow, but the headline: we resolved it in 85 minutes, customer was kept informed throughout, and we've already opened 3 follow-up tickets for system hardening.\"</li></ul>",
     "spanish": "'Un breve resumen de qué ocurrió, qué hicimos y qué ponemos en marcha para prevenirlo.' — el cierre post-escalada construye confianza institucional y documenta aprendizajes.",
-    "tags": ["english", "support", "escalation", "postmortem", "debrief", "professional"]
+    "tags": [
+      "english",
+      "support",
+      "escalation",
+      "postmortem",
+      "debrief",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Escalation_Handling",
@@ -60,7 +100,14 @@
     "explanation": "Understanding and naming escalation tiers correctly prevents both over-escalation (involving executives in L2 issues) and under-escalation (keeping L3 issues at L2 too long). Use tier language explicitly: 'I'm escalating to L3 because we've exhausted the L2 playbook' signals structured thinking to leadership.",
     "usage": "<ul><li>\"This is an L3 escalation — we've been through the L2 runbook twice and need engineering to look at the source code.\"</li><li>\"I'm keeping this at L2 for now — the specialist team has a lead. I'll escalate to executive if we don't have resolution in 2 hours.\"</li></ul>",
     "spanish": "Los niveles de escalada: L1 (contacto inicial, guión estándar), L2 (técnico especializado), L3 (ingeniería o proveedor), Ejecutivo (decisión de impacto de negocio). Nombrarlos correctamente previene la escalada excesiva.",
-    "tags": ["english", "support", "escalation", "tiers", "operations", "professional"]
+    "tags": [
+      "english",
+      "support",
+      "escalation",
+      "tiers",
+      "operations",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Escalation_Handling",
@@ -69,6 +116,13 @@
     "explanation": "Customers sometimes escalate to executives not because they need executive action, but because they feel unheard. This phrase validates the urgency feeling while making a logical case for why staying at the current level is faster. It redirects the focus from 'who's in charge' to 'what gets this solved fastest.'",
     "usage": "<ul><li>\"I hear you — this is critical for your business. I want to be transparent: our CTO joining the call right now would take us 30 minutes to set up. My team has the exact expertise needed and we're live on this right now.\"</li><li>\"Escalating to the VP at this point would actually reset the clock. Let's give my team 90 more minutes with the authority I already have.\"</li></ul>",
     "spanish": "'Entiendo que esto se siente urgente. Déjame asegurarte que ya lo estamos tratando con la máxima prioridad. Involucrar a [nombre] en esta etapa realmente nos ralentizaría — aquí está el porqué.'",
-    "tags": ["english", "support", "escalation", "de-escalation", "customer", "professional"]
+    "tags": [
+      "english",
+      "support",
+      "escalation",
+      "de-escalation",
+      "customer",
+      "professional"
+    ]
   }
 ]

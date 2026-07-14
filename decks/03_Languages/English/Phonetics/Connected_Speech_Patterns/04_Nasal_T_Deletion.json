@@ -1,0 +1,42 @@
+[
+  {
+    "deck": "03_Languages::English::Phonetics::CS_04_Nasal_T_Deletion",
+    "scenario": "Book Concept 📚",
+    "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/internet/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/internet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I checked the information on the {{c1::internet}}.",
+    "explanation": "<b>Written:</b> internet<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innernet</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T-Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Internet. La /t/ después de la /n/ en sílaba no acentuada desaparece en inglés americano.",
+    "usage": "Written: <code>internet</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innernet</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/internet/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/internet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+    "spanish": "Internet. La /t/ después de la /n/ en sílaba no acentuada desaparece en inglés americano.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/internet/english/us",
+      "forvo_word": "https://forvo.com/word/internet/#en"
+    },
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "nasal_t_deletion",
+      "tier_1",
+      "nasal_t-deletion"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::CS_04_Nasal_T_Deletion",
+    "scenario": "Book Concept 📚",
+    "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/twenty/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/twenty/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I have {{c1::twenty}} dollars left.",
+    "explanation": "<b>Written:</b> twenty<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tweny</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T-Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Veinte. La /t/ se elide tras la /n/.",
+    "usage": "Written: <code>twenty</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tweny</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/twenty/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/twenty/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+    "spanish": "Veinte. La /t/ se elide tras la /n/.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/twenty/english/us",
+      "forvo_word": "https://forvo.com/word/twenty/#en"
+    },
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "nasal_t_deletion",
+      "tier_1",
+      "nasal_t-deletion"
+    ]
+  }
+]

@@ -6,7 +6,11 @@
     "explanation": "When three consonants appear close together, native speakers often reduce the middle consonant, especially in casual speech.",
     "usage": "Pattern: <code>cluster reduction / consonant elision</code><ul><li><code>Last night sounds like las-night.</code></li><li><code>Next door sounds like nex-door.</code></li></ul>",
     "spanish": "En el habla conectada, una secuencia como 'next door' suele sonar como una agrupación más suave y rápida, casi como 'nex door'.",
-    "tags": ["english", "phonetics", "connected_speech"]
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Connected_Speech_Advanced::Connected_Speech_Advanced",
@@ -15,7 +19,11 @@
     "explanation": "This is common in words like water, better, or city, where the sound becomes a light tap in the mouth.",
     "usage": "Pattern: <code>flapping / alveolar flap</code><ul><li><code>water → wa-ter</code></li><li><code>better → be-er</code></li></ul>",
     "spanish": "En inglés americano, una 't' entre vocales puede sonar como un golpe breve en lugar de un bloqueo claro.",
-    "tags": ["english", "phonetics", "flapping"]
+    "tags": [
+      "english",
+      "phonetics",
+      "flapping"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Connected_Speech_Advanced::Connected_Speech_Advanced",
@@ -24,7 +32,11 @@
     "explanation": "This creates a small catch in the throat and is very common in everyday speech.",
     "usage": "Pattern: <code>glottal stop / t-glottalization</code><ul><li><code>button → bu'n</code></li><li><code>can't go → ca'n go</code></li></ul>",
     "spanish": "En algunas variedades de inglés, una 't' antes de una nasal o al final de una sílaba puede convertirse en una parada glotal.",
-    "tags": ["english", "phonetics", "glottal_stop"]
+    "tags": [
+      "english",
+      "phonetics",
+      "glottal_stop"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Connected_Speech_Advanced::Connected_Speech_Advanced",
@@ -33,7 +45,11 @@
     "explanation": "Words like to, of, and, or can become very short and unstressed, making the sentence sound smoother.",
     "usage": "Pattern: <code>schwa / reduced vowel</code><ul><li><code>I can go → I kən go</code></li><li><code>fish and chips → fish n chips</code></li></ul>",
     "spanish": "Las palabras funcionales a menudo se reducen a una vocal débil llamada schwa en el habla rápida.",
-    "tags": ["english", "phonetics", "schwa"]
+    "tags": [
+      "english",
+      "phonetics",
+      "schwa"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Connected_Speech_Advanced::Connected_Speech_Advanced",
@@ -42,6 +58,10 @@
     "explanation": "This is common in phrases like law and order or idea of it, where a subtle r bridges two vowel sounds.",
     "usage": "Pattern: <code>linking r / intrusive r</code><ul><li><code>law and order → law-r-and-order</code></li><li><code>idea of it → idea-r-of-it</code></li></ul>",
     "spanish": "En acentos no róticos, los hablantes pueden agregar una r intrusiva entre vocales para que la frase suene más fluida.",
-    "tags": ["english", "phonetics", "linking_r"]
+    "tags": [
+      "english",
+      "phonetics",
+      "linking_r"
+    ]
   }
 ]

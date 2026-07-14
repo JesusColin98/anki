@@ -1,0 +1,106 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::05_Fine_Tuning_and_Adaptation::05_Fine_Tuning_and_Adaptation",
+    "scenario": "Fine-Tuning: SFT 🧠",
+    "text": "Supervised fine-tuning trains a model on task-specific examples to improve behavior in a target domain.",
+    "explanation": "SFT is often the first step when you want a general model to become useful for a business workflow.",
+    "usage": "Common in domain assistants, classification, and structured extraction tasks.",
+    "spanish": "El fine-tuning supervisado entrena un modelo con ejemplos específicos de tarea para mejorar su comportamiento en un dominio objetivo.",
+    "tags": [
+      "ai",
+      "fine_tuning",
+      "sft"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::05_Fine_Tuning_and_Adaptation::05_Fine_Tuning_and_Adaptation",
+    "scenario": "Fine-Tuning: LoRA and QLoRA ⚙️",
+    "text": "LoRA and QLoRA adapt models by updating a small number of low-rank parameters rather than all weights.",
+    "explanation": "These methods make fine-tuning cheaper, faster, and more accessible for smaller teams.",
+    "usage": "Widely used for private, domain-specific, and cost-effective model adaptation.",
+    "spanish": "LoRA y QLoRA adaptan modelos actualizando un pequeño número de parámetros de bajo rango en lugar de todos los pesos.",
+    "tags": [
+      "ai",
+      "fine_tuning",
+      "lora"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::05_Fine_Tuning_and_Adaptation::05_Fine_Tuning_and_Adaptation",
+    "scenario": "Fine-Tuning: DPO 🧭",
+    "text": "Direct Preference Optimization trains on preference pairs so the model more strongly prefers better responses.",
+    "explanation": "DPO is often simpler and more stable than PPO for preference alignment.",
+    "usage": "Useful when optimizing helpfulness, tone, and safety on chat models.",
+    "spanish": "Direct Preference Optimization entrena con pares de preferencias para que el modelo prefiera respuestas mejores.",
+    "tags": [
+      "ai",
+      "fine_tuning",
+      "dpo"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::05_Fine_Tuning_and_Adaptation::05_Fine_Tuning_and_Adaptation",
+    "scenario": "Fine-Tuning: PPO 🏃",
+    "text": "Proximal Policy Optimization is a reinforcement learning method used to align models with reward signals.",
+    "explanation": "PPO is powerful but less lightweight than SFT or DPO, often requiring more engineering effort.",
+    "usage": "Used in RLHF pipelines and reward-driven agent behavior.",
+    "spanish": "Proximal Policy Optimization es un método de aprendizaje por refuerzo usado para alinear modelos con señales de recompensa.",
+    "tags": [
+      "ai",
+      "fine_tuning",
+      "ppo"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::05_Fine_Tuning_and_Adaptation::05_Fine_Tuning_and_Adaptation",
+    "scenario": "Fine-Tuning: Synthetic Data 🧪",
+    "text": "Synthetic data generation can create large training sets when real labels are scarce or expensive.",
+    "explanation": "It is powerful but must be monitored carefully to avoid introducing bias or feedback loops.",
+    "usage": "Common in classification, generation, and multilingual tasks.",
+    "spanish": "La generación de datos sintéticos puede crear grandes conjuntos de entrenamiento cuando las etiquetas reales son escasas o costosas.",
+    "tags": [
+      "ai",
+      "fine_tuning",
+      "synthetic_data"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::05_Fine_Tuning_and_Adaptation::05_Fine_Tuning_and_Adaptation",
+    "scenario": "Fine-Tuning: Domain Adaptation 🌐",
+    "text": "Domain adaptation tailors a model to new contexts such as finance, medicine, or engineering without fully retraining it.",
+    "explanation": "This is often more practical than training from scratch for specialized tasks.",
+    "usage": "Critical in regulated and industry-specific AI products.",
+    "spanish": "La adaptación a dominio ajusta un modelo a nuevos contextos como finanzas, medicina o ingeniería sin entrenarlo de cero.",
+    "tags": [
+      "ai",
+      "fine_tuning",
+      "adaptation"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::05_Fine_Tuning_and_Adaptation::05_Fine_Tuning_and_Adaptation",
+    "scenario": "Fine-Tuning: Catastrophic Forgetting 🧶",
+    "text": "Catastrophic forgetting happens when fine-tuning erases previously learned capabilities.",
+    "explanation": "A good adaptation strategy preserves core abilities while improving the target behavior.",
+    "usage": "Important for multi-task assistants and long-lived model variants.",
+    "spanish": "El olvido catastrófico ocurre cuando el fine-tuning borra capacidades previamente aprendidas.",
+    "tags": [
+      "ai",
+      "fine_tuning",
+      "forgetting"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::05_Fine_Tuning_and_Adaptation::05_Fine_Tuning_and_Adaptation",
+    "scenario": "Fine-Tuning: Data Quality 🧼",
+    "text": "The quality of the training data often matters more than the algorithm choice when fine-tuning a model.",
+    "explanation": "Noisy, inconsistent, or biased data produces brittle behavior in the adapted model.",
+    "usage": "Central in reliable enterprise AI pipelines.",
+    "spanish": "La calidad de los datos de entrenamiento a menudo importa más que la elección del algoritmo al fine-tunar un modelo.",
+    "tags": [
+      "ai",
+      "fine_tuning",
+      "data_quality"
+    ]
+  }
+]

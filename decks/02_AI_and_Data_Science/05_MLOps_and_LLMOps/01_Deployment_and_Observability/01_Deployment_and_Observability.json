@@ -6,7 +6,11 @@
     "explanation": "Deployment is not only about serving a model; it also requires secure traffic control, quotas, and observability.",
     "usage": "Core pattern for enterprise AI systems and internal LLM applications.",
     "spanish": "Un modelo de producción suele desplegarse detrás de una pasarela API que realiza enrutamiento, limitación de velocidad y registro de solicitudes.",
-    "tags": ["mlops", "deployment", "inference"]
+    "tags": [
+      "mlops",
+      "deployment",
+      "inference"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::05_MLOps_and_LLMOps::01_Deployment_and_Observability::01_Deployment_and_Observability",
@@ -15,7 +19,11 @@
     "explanation": "A model can work technically and still fail in production if teams cannot see quality degradation or rising costs.",
     "usage": "Essential for model monitoring dashboards and incident response.",
     "spanish": "La observabilidad en sistemas de ML significa rastrear latencia, costo y deriva entre versiones de modelos y segmentos de usuarios.",
-    "tags": ["mlops", "observability", "monitoring"]
+    "tags": [
+      "mlops",
+      "observability",
+      "monitoring"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::05_MLOps_and_LLMOps::01_Deployment_and_Observability::01_Deployment_and_Observability",
@@ -24,7 +32,11 @@
     "explanation": "Drift detection is critical because a model trained on old patterns may become unreliable in a new context.",
     "usage": "Used in monitoring pipelines for finance, fraud, and recommendation systems.",
     "spanish": "La deriva de datos ocurre cuando cambia la distribución de las características, mientras que la deriva conceptual ocurre cuando cambia la relación con el objetivo.",
-    "tags": ["mlops", "drift", "monitoring"]
+    "tags": [
+      "mlops",
+      "drift",
+      "monitoring"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::05_MLOps_and_LLMOps::01_Deployment_and_Observability::01_Deployment_and_Observability",
@@ -33,7 +45,11 @@
     "explanation": "This reduces latency and token cost for large-system prompts and multi-turn conversations.",
     "usage": "Very useful for assistants, copilots, and enterprise knowledge bots.",
     "spanish": "El almacenamiento en caché de prompts guarda prefijos reutilizables para evitar recomputar el mismo contexto en solicitudes repetidas.",
-    "tags": ["mlops", "llmops", "prompt_caching"]
+    "tags": [
+      "mlops",
+      "llmops",
+      "prompt_caching"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::05_MLOps_and_LLMOps::01_Deployment_and_Observability::01_Deployment_and_Observability",
@@ -42,6 +58,10 @@
     "explanation": "Rollback is a crucial operational safeguard for AI systems because failures are often discovered only after release.",
     "usage": "Common in continuous delivery pipelines and model registries.",
     "spanish": "Un pipeline de despliegue robusto incluye una estrategia de reversión para restaurar rápidamente una versión anterior del modelo si aparecen problemas.",
-    "tags": ["mlops", "deployment", "reliability"]
+    "tags": [
+      "mlops",
+      "deployment",
+      "reliability"
+    ]
   }
 ]

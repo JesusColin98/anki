@@ -1,0 +1,42 @@
+[
+  {
+    "deck": "03_Languages::English::Daily_and_Social::Taxi_and_Rideshare",
+    "scenario": "🚕 Taxi and Rideshare — Hailing / Picking Up: 'Are you looking for...'",
+    "text": "<div style='margin-bottom:10px'><a href='https://youglish.com/pronounce/are+you+looking+for/english/us' target='_blank' style='background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em'>🎧 YouGlish</a></div>When identifying your Uber/Lyft driver, standard confirmation is: {{c1::\"Hi, are you looking for Colin?\"}}",
+    "explanation": "<b>Native speed:</b> <span style='color:#FF6B35;font-weight:bold'>'haɪ, ər·jə lʊ·kɪŋ fər...'</span><br><b>Rules applied:</b><br>• <code>are you</code> → /ər·jə/ (schwa reduction on 'you')<br>• <code>looking for</code> → /lʊ·kɪŋ fər/ (schwa reduction on 'for')<br><br>🧠 Drivers usually ask 'What name is it under?' or 'Are you [Name]?' to avoid picking up the wrong person. 'Are you looking for...' reverses the confirmation politely.",
+    "usage": "<ul><li>\"Hi, are you looking for Colin? I'm your rider.\"</li><li>\"Are you looking for Sarah? My Uber app says you're here.\"</li></ul>",
+    "spanish": "'Hola, ¿estás buscando a Colin?' — Forma típica de confirmar con un conductor de Uber/Lyft. Fonéticamente, 'are you' se reduce a 'er-juh' y 'for' a 'fer'.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/are+you+looking+for/english/us"
+    },
+    "tags": [
+      "english",
+      "colloquial",
+      "rideshare",
+      "pickup",
+      "schwa",
+      "daily_life"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Daily_and_Social::Taxi_and_Rideshare",
+    "scenario": "🚕 Taxi and Rideshare — Giving Directions: 'Can you pull over here?'",
+    "text": "<div style='margin-bottom:10px'><a href='https://youglish.com/pronounce/pull+over+here/english/us' target='_blank' style='background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em'>🎧 YouGlish</a></div>When you reach your destination, tell the driver: {{c1::\"You can just pull over right here.\"}}",
+    "explanation": "<b>Native speed:</b> <span style='color:#FF6B35;font-weight:bold'>'jə kən dʒʌst pʊ·loʊ·vər raɪ·dɪr'</span><br>• <code>pull over</code> → /pʊ·loʊ·vər/ (linking C+V: final /l/ of 'pull' slides into 'over')<br>• <code>right here</code> → /raɪ·dɪr/ (H-dropping: 'here' loses /h/, and Flap T links 'right' to 'ere' → /raɪ·dɪr/)<br><br>🧠 'Pull over' means to steer the vehicle to the side of the road and stop.",
+    "usage": "<ul><li>\"You can pull over by the corner, please.\"</li><li>\"Can you pull over near the blue car?\"</li></ul>",
+    "spanish": "'Puede simplemente orillarse justo aquí.' — Dar indicaciones finales al conductor. 'Pull over' es un phrasal verb para orillarse. Fonéticamente, 'pull over' se enlaza y 'right here' colapsa a 'rai-dir' por caída de la H y un Flap T.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/pull+over+right+here/english/us"
+    },
+    "tags": [
+      "english",
+      "colloquial",
+      "rideshare",
+      "directions",
+      "linking",
+      "h_dropping",
+      "flap_t",
+      "daily_life"
+    ]
+  }
+]

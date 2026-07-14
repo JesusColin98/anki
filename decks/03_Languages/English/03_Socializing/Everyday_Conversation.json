@@ -6,7 +6,11 @@
     "explanation": "Unpredictable is a natural adjective for discussing weather and changing conditions in social conversation.",
     "usage": "Pattern: <code>the weather is ...</code><ul><li><code>The weather is amazing today.</code></li><li><code>The weather has been awful all week.</code></li></ul>",
     "spanish": "El clima ha sido tan impredecible últimamente.",
-    "tags": ["english", "social", "weather"]
+    "tags": [
+      "english",
+      "social",
+      "weather"
+    ]
   },
   {
     "deck": "03_Languages::English::03_Socializing::Everyday_Conversation",
@@ -15,7 +19,11 @@
     "explanation": "To hang out means to spend time casually with people, often in a relaxed or informal way.",
     "usage": "Pattern: <code>hang out with</code><ul><li><code>I hung out at the park.</code></li><li><code>We hung out after work.</code></li></ul>",
     "spanish": "Ayer simplemente pasé el rato con unos amigos.",
-    "tags": ["english", "social", "daily_life"]
+    "tags": [
+      "english",
+      "social",
+      "daily_life"
+    ]
   },
   {
     "deck": "03_Languages::English::03_Socializing::Everyday_Conversation",
@@ -24,7 +32,11 @@
     "explanation": "To be into something means to like it or be interested in it a lot.",
     "usage": "Pattern: <code>I’m into ...</code><ul><li><code>I’m into cooking.</code></li><li><code>She’s really into music.</code></li></ul>",
     "spanish": "Me interesa mucho la fotografía y el senderismo.",
-    "tags": ["english", "social", "hobbies"]
+    "tags": [
+      "english",
+      "social",
+      "hobbies"
+    ]
   },
   {
     "deck": "03_Languages::English::03_Socializing::Everyday_Conversation",
@@ -33,7 +45,11 @@
     "explanation": "Politics is an everyday topic, but people often use it carefully in social or professional contexts.",
     "usage": "Pattern: <code>talk about politics / political issues</code><ul><li><code>Politics is a sensitive topic.</code></li><li><code>We discussed political issues at dinner.</code></li></ul>",
     "spanish": "Intento no hablar demasiado de política en el trabajo.",
-    "tags": ["english", "social", "politics"]
+    "tags": [
+      "english",
+      "social",
+      "politics"
+    ]
   },
   {
     "deck": "03_Languages::English::03_Socializing::Everyday_Conversation",
@@ -42,16 +58,24 @@
     "explanation": "Pretty chill means relaxed, low-stress, and not too busy. This is very natural in conversational English.",
     "usage": "Pattern: <code>pretty chill / keep it simple</code><ul><li><code>We’re keeping it pretty chill.</code></li><li><code>I just want a chill weekend.</code></li></ul>",
     "spanish": "Vamos a tener un fin de semana bastante relajado.",
-    "tags": ["english", "social", "weekend"]
+    "tags": [
+      "english",
+      "social",
+      "weekend"
+    ]
   },
   {
     "deck": "03_Languages::English::03_Socializing::Everyday_Conversation",
     "scenario": "Everyday English: News 📰",
     "text": "I caught the {{c1::news}} this morning before work.",
     "explanation": "To catch the news means to watch or hear the news briefly. It is a natural phrase in daily conversation.",
-     "usage": "Pattern: <code>catch the news / hear the news</code><ul><li><code>I caught the news on the radio.</code></li><li><code>Did you hear the news?</code></li></ul>",
+    "usage": "Pattern: <code>catch the news / hear the news</code><ul><li><code>I caught the news on the radio.</code></li><li><code>Did you hear the news?</code></li></ul>",
     "spanish": "Vi las noticias esta mañana antes de ir al trabajo.",
-    "tags": ["english", "social", "news"]
+    "tags": [
+      "english",
+      "social",
+      "news"
+    ]
   },
   {
     "deck": "03_Languages::English::03_Socializing::Everyday_Conversation",
@@ -60,7 +84,11 @@
     "explanation": "Chill is a casual adjective meaning relaxed or calm. It is used a lot in informal speech.",
     "usage": "Pattern: <code>pretty chill / a chill day</code><ul><li><code>It’s a chill evening.</code></li><li><code>We had a chill lunch together.</code></li></ul>",
     "spanish": "Ha sido una semana bastante tranquila hasta ahora.",
-    "tags": ["english", "social", "casual"]
+    "tags": [
+      "english",
+      "social",
+      "casual"
+    ]
   },
   {
     "deck": "03_Languages::English::03_Socializing::Everyday_Conversation",
@@ -69,6 +97,10 @@
     "explanation": "This phrase is very common in casual conversation when someone is uncertain or ambivalent.",
     "usage": "Pattern: <code>not sure what to think</code><ul><li><code>I’m not sure what to think about the new policy.</code></li><li><code>She wasn’t sure what to say.</code></li></ul>",
     "spanish": "No estoy realmente seguro de qué pensar al respecto.",
-    "tags": ["english", "social", "uncertainty"]
+    "tags": [
+      "english",
+      "social",
+      "uncertainty"
+    ]
   }
 ]

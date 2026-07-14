@@ -6,7 +6,11 @@
     "explanation": "An incident update is a concise communication about what is happening, who is involved, and what steps are being taken.",
     "usage": "Pattern: <code>incident update / status update</code><ul><li><code>We sent an incident update to all affected users.</code></li><li><code>The incident update confirmed that the issue was contained.</code></li></ul>",
     "spanish": "Quiero darles una breve actualización sobre el estado actual del incidente.",
-    "tags": ["english", "support", "ops"]
+    "tags": [
+      "english",
+      "support",
+      "ops"
+    ]
   },
   {
     "deck": "03_Languages::English::07_English_for_Support_and_Ops::Incident_Communication::Incident_Communication",
@@ -15,7 +19,11 @@
     "explanation": "Affected users are the people who are experiencing the problem or disruption.",
     "usage": "Pattern: <code>affected users / impacted users</code><ul><li><code>We are notifying affected users now.</code></li><li><code>Only a subset of impacted users is currently affected.</code></li></ul>",
     "spanish": "El problema está afectando actualmente a un pequeño número de usuarios afectados en la región de la UE.",
-    "tags": ["english", "support", "incident"]
+    "tags": [
+      "english",
+      "support",
+      "incident"
+    ]
   },
   {
     "deck": "03_Languages::English::07_English_for_Support_and_Ops::Incident_Communication::Incident_Communication",
@@ -24,7 +32,11 @@
     "explanation": "Containment is the immediate action taken to limit the impact of an incident.",
     "usage": "Pattern: <code>containment / mitigate impact</code><ul><li><code>The containment step was successful.</code></li><li><code>We are mitigating the impact as quickly as possible.</code></li></ul>",
     "spanish": "Nuestra primera prioridad es contener el problema para que no se extienda a más clientes.",
-    "tags": ["english", "support", "containment"]
+    "tags": [
+      "english",
+      "support",
+      "containment"
+    ]
   },
   {
     "deck": "03_Languages::English::07_English_for_Support_and_Ops::Incident_Communication::Incident_Communication",
@@ -33,7 +45,11 @@
     "explanation": "The root cause is the underlying reason why the problem happened.",
     "usage": "Pattern: <code>root cause / underlying issue</code><ul><li><code>The root cause was a failed deployment.</code></li><li><code>We are validating the underlying issue now.</code></li></ul>",
     "spanish": "Hemos identificado la causa raíz y estamos validando la solución en staging.",
-    "tags": ["english", "support", "rca"]
+    "tags": [
+      "english",
+      "support",
+      "rca"
+    ]
   },
   {
     "deck": "03_Languages::English::07_English_for_Support_and_Ops::Incident_Communication::Incident_Communication",
@@ -42,6 +58,10 @@
     "explanation": "Restoring trust means rebuilding confidence after a service problem or mistake.",
     "usage": "Pattern: <code>restore trust / rebuild confidence</code><ul><li><code>Transparent communication helps restore trust.</code></li><li><code>The team is rebuilding confidence with customers.</code></li></ul>",
     "spanish": "Estamos tomando medidas para recuperar la confianza siendo transparentes y proactivos.",
-    "tags": ["english", "support", "customer_recovery"]
+    "tags": [
+      "english",
+      "support",
+      "customer_recovery"
+    ]
   }
 ]

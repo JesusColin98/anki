@@ -1,0 +1,106 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::06_Agents_and_Tool_Use::06_Agents_and_Tool_Use",
+    "scenario": "Agents: Tool Use 🔧",
+    "text": "An agent uses tools such as search, code execution, or databases to extend its capabilities beyond pure text generation.",
+    "explanation": "Tool use is what turns a language model into an action-oriented system.",
+    "usage": "Essential in copilots, workflow automation, and software engineering agents.",
+    "spanish": "Un agente usa herramientas como búsqueda, ejecución de código o bases de datos para extender sus capacidades más allá de la generación de texto.",
+    "tags": [
+      "ai",
+      "agents",
+      "tool_use"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::06_Agents_and_Tool_Use::06_Agents_and_Tool_Use",
+    "scenario": "Agents: Planning 🧭",
+    "text": "Planning allows an agent to break a large goal into subtasks and choose an execution strategy.",
+    "explanation": "Good planning improves reliability, especially for complex and multi-step tasks.",
+    "usage": "Used in research assistants, coding agents, and orchestrated workflows.",
+    "spanish": "La planificación permite que un agente divida una meta grande en subtareas y elija una estrategia de ejecución.",
+    "tags": [
+      "ai",
+      "agents",
+      "planning"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::06_Agents_and_Tool_Use::06_Agents_and_Tool_Use",
+    "scenario": "Agents: Reflection 🪞",
+    "text": "Reflection means the agent reviews its own output and tries to improve or correct it.",
+    "explanation": "Self-reflection can improve quality, though it also increases latency and cost.",
+    "usage": "Useful in coding, research, and multi-pass document analysis.",
+    "spanish": "La reflexión significa que el agente revisa su propio output e intenta mejorarlo o corregirlo.",
+    "tags": [
+      "ai",
+      "agents",
+      "reflection"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::06_Agents_and_Tool_Use::06_Agents_and_Tool_Use",
+    "scenario": "Agents: Memory 🧠",
+    "text": "Agent memory stores important facts, preferences, and state across interactions.",
+    "explanation": "Memory is what makes agents feel more personalized and persistent over time.",
+    "usage": "Key for customer support agents, personal assistants, and long-running workflows.",
+    "spanish": "La memoria del agente almacena hechos importantes, preferencias y estado a través de interacciones.",
+    "tags": [
+      "ai",
+      "agents",
+      "memory"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::06_Agents_and_Tool_Use::06_Agents_and_Tool_Use",
+    "scenario": "Agents: Guardrails 🛡️",
+    "text": "Guardrails constrain agent behavior so it stays within policy, safety, and business rules.",
+    "explanation": "They are a core part of making agents safe in production environments.",
+    "usage": "Essential in finance, healthcare, and regulated enterprise scenarios.",
+    "spanish": "Los guardrails restringen el comportamiento del agente para que se mantenga dentro de políticas, seguridad y reglas del negocio.",
+    "tags": [
+      "ai",
+      "agents",
+      "safety"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::06_Agents_and_Tool_Use::06_Agents_and_Tool_Use",
+    "scenario": "Agents: Orchestration 🎼",
+    "text": "Orchestration coordinates multiple steps, tools, and sub-agents to solve a broader task.",
+    "explanation": "Orchestration is the system design layer that makes agent pipelines practical.",
+    "usage": "Used in multi-step research, software engineering, and data analysis agents.",
+    "spanish": "La orquestación coordina múltiples pasos, herramientas y subagentes para resolver una tarea más amplia.",
+    "tags": [
+      "ai",
+      "agents",
+      "orchestration"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::06_Agents_and_Tool_Use::06_Agents_and_Tool_Use",
+    "scenario": "Agents: Multi-Agent Systems 🧩",
+    "text": "Multi-agent systems split work across specialized agents that coordinate around a shared objective.",
+    "explanation": "This pattern can scale better for complex domains, but adds coordination and failure-mode complexity.",
+    "usage": "Increasingly common in research, coding, and operations automation.",
+    "spanish": "Los sistemas multiagente dividen el trabajo entre agentes especializados que coordinan alrededor de un objetivo compartido.",
+    "tags": [
+      "ai",
+      "agents",
+      "multi_agent"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::06_Agents_and_Tool_Use::06_Agents_and_Tool_Use",
+    "scenario": "Agents: Failure Recovery 🔄",
+    "text": "Failure recovery lets an agent detect errors, retry, fall back, or ask for clarification when a tool or step fails.",
+    "explanation": "Robust agents need graceful failure handling rather than brittle single-shot execution.",
+    "usage": "Crucial in production automation and interactive assistant systems.",
+    "spanish": "La recuperación de fallos permite que un agente detecte errores, reintente, haga fallback o pida aclaración cuando falla una herramienta o paso.",
+    "tags": [
+      "ai",
+      "agents",
+      "reliability"
+    ]
+  }
+]

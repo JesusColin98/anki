@@ -6,7 +6,11 @@
     "explanation": "Good AI products are not defined by the model alone, but by the business problem they solve.",
     "usage": "Useful for product managers, founders, and AI strategy teams.",
     "spanish": "El mejor producto de IA comienza con un caso de uso que tenga claro valor, límites definidos y datos suficientes para iterar.",
-    "tags": ["ai_product", "strategy", "use_cases"]
+    "tags": [
+      "ai_product",
+      "strategy",
+      "use_cases"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::07_AI_Product_and_Strategy::01_AI_Product_Adoption::01_AI_Product_Adoption",
@@ -15,7 +19,11 @@
     "explanation": "Executive stakeholders often need a simple, credible business case rather than a purely technical pitch.",
     "usage": "Very relevant for leaders discussing AI investment and adoption.",
     "spanish": "Un argumento sólido de ROI para IA combina ahorros de costo, tiempo, mejora de calidad y reducción de riesgo en una estimación realista.",
-    "tags": ["ai_product", "roi", "business"]
+    "tags": [
+      "ai_product",
+      "roi",
+      "business"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::07_AI_Product_and_Strategy::01_AI_Product_Adoption::01_AI_Product_Adoption",
@@ -24,7 +32,11 @@
     "explanation": "Technical excellence is not enough if the human side of change is ignored.",
     "usage": "Central for internal copilots, automation tools, and AI-assisted workflows.",
     "spanish": "La adopción fracasa cuando los usuarios no reciben capacitación, soporte y una razón clara para cambiar sus hábitos.",
-    "tags": ["ai_product", "adoption", "change_management"]
+    "tags": [
+      "ai_product",
+      "adoption",
+      "change_management"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::07_AI_Product_and_Strategy::01_AI_Product_Adoption::01_AI_Product_Adoption",
@@ -33,6 +45,10 @@
     "explanation": "Communication is part of product strategy because AI systems often create uncertainty for non-technical stakeholders.",
     "usage": "Essential for product leads and managers working across functions.",
     "spanish": "Los mejores líderes de IA explican los compromisos en un lenguaje sencillo y conectan la tecnología con resultados de negocio.",
-    "tags": ["ai_product", "communication", "leadership"]
+    "tags": [
+      "ai_product",
+      "communication",
+      "leadership"
+    ]
   }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "deck": "03_Languages::English::Phonetics::CS_10_Lexical_Chunks",
+    "scenario": "Book Concept 📚",
+    "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/going%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/going/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I'm {{c1::going to}} tell him the truth.",
+    "explanation": "<b>Written:</b> going to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gonna</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Ir a (futuro). Compresión de alta frecuencia que se convierte en un chunk gramaticalizado independiente.",
+    "usage": "Written: <code>going to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gonna</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/going%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/going/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+    "spanish": "Ir a (futuro). Compresión de alta frecuencia que se convierte en un chunk gramaticalizado independiente.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/going%20to/english/us",
+      "forvo_word": "https://forvo.com/word/going/#en"
+    },
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "lexical_chunks",
+      "tier_1",
+      "lexical_chunks"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::CS_10_Lexical_Chunks",
+    "scenario": "Book Concept 📚",
+    "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/want%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/want/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Do you {{c1::want to}} go out?",
+    "explanation": "<b>Written:</b> want to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wanna</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Querer. Fusión de 'want' y 'to' en 'wanna'.",
+    "usage": "Written: <code>want to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wanna</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/want%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/want/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+    "spanish": "Querer. Fusión de 'want' y 'to' en 'wanna'.",
+    "audio_links": {
+      "youglish_phrase": "https://youglish.com/pronounce/want%20to/english/us",
+      "forvo_word": "https://forvo.com/word/want/#en"
+    },
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "lexical_chunks",
+      "tier_1",
+      "lexical_chunks"
+    ]
+  }
+]

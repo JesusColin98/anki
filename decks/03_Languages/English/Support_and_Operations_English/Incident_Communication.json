@@ -6,7 +6,14 @@
     "explanation": "Incident bridge calls without structure waste the first 10 minutes on 'who's on the call' and 'what do we know.' The incident commander role, explicit team assignments, and a working hypothesis cut that down to 60 seconds. 'Let's go' is a signal to begin parallel workstreams — not more discussion.",
     "usage": "<ul><li>\"This is Carlos, IC. P1 — auth service down for EU region since 08:22. 4,500 users affected. Working hypothesis: load balancer misconfiguration from the 08:15 deployment. Engineering: dig into the LB config. Support: draft customer comms now. Let's go.\"</li></ul>",
     "spanish": "'Soy [nombre], incident commander. Tenemos un incidente [P1/P2]. Esto es lo que sabemos: [2 oraciones]. Hipótesis de trabajo: [X]. Necesito a [equipo A] en diagnóstico y a [equipo B] en comunicación al cliente. Vamos.' — apertura de bridge call sin pérdida de tiempo.",
-    "tags": ["english", "incident", "communication", "bridge_call", "commander", "operations"]
+    "tags": [
+      "english",
+      "incident",
+      "communication",
+      "bridge_call",
+      "commander",
+      "operations"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Incident_Communication",
@@ -15,7 +22,14 @@
     "explanation": "Inconsistent updates during incidents create anxiety and trigger unnecessary escalations. Setting an explicit cadence — 'I'll update every 30 minutes until resolved' — prevents executives from interrupting the response team to check status. Each update must answer: where are we, what did we just learn, what happens next.",
     "usage": "<ul><li>\"Update at 09:45: Still investigating. We've confirmed the issue is isolated to the authentication microservice. Next: Engineering is doing a config rollback. Next update: 10:15.\"</li><li>Template: \"[Time] Update: Status [Open/Contained/Resolved]. Latest: [finding]. Next: [action]. ETA for next update: [time].\"</li></ul>",
     "spanish": "Durante un incidente activo, la cadencia de actualizaciones estándar es: cada 15-30 min para stakeholders internos, cada 30-60 min para clientes afectados. Cada actualización: estado, último hallazgo, próxima acción.",
-    "tags": ["english", "incident", "communication", "cadence", "status_update", "operations"]
+    "tags": [
+      "english",
+      "incident",
+      "communication",
+      "cadence",
+      "status_update",
+      "operations"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Incident_Communication",
@@ -24,7 +38,13 @@
     "explanation": "External incident communications are NOT technical troubleshooting notes. Customers don't need to know it's a 'LB misconfiguration' — they need to know 'EU login is unavailable and you can expect an update by 10:30 AM.' Oversharing technical details creates liability and confusion; undersharing creates panic and churn.",
     "usage": "<ul><li><b>Good:</b> \"We are currently experiencing an issue affecting login for users in the EU region. Our team is actively working to restore service. We expect to provide a next update by 10:30 AM UTC. We apologize for the inconvenience.\"</li><li><b>Avoid:</b> \"Our load balancer threw a 502 due to a bad deployment at 08:15.\" (Too technical, implies fault.)</li></ul>",
     "spanish": "Una declaración de incidente dirigida al cliente debe contener: qué está afectado (no la causa técnica), cuántos usuarios, cuándo comenzó y un tiempo de restauración esperado o próxima actualización. No compartir detalles técnicos en comunicaciones externas.",
-    "tags": ["english", "incident", "customer_communication", "external", "professional"]
+    "tags": [
+      "english",
+      "incident",
+      "customer_communication",
+      "external",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Incident_Communication",
@@ -33,7 +53,15 @@
     "explanation": "Consistent severity language prevents 'everything is P1' fatigue. When severity is inflated, response teams can't prioritize. When it's deflated, executives are caught off guard. The ITIL/PagerDuty standard defines P1 as requiring immediate mobilization, 24/7 response, and executive notification. P2 requires a response within the business day.",
     "usage": "<ul><li>P1: \"Payment processing is completely down. Zero transactions completing. Mobilizing full response team now.\"</li><li>P2: \"API response times are 4x above baseline for 20% of users. Degraded but functional. Investigating.\"</li><li>P3: \"One report module is returning stale data. Workaround available. Fix scheduled for next sprint.\"</li></ul>",
     "spanish": "P1: interrupción completa del servicio o pérdida crítica de datos con impacto inmediato al cliente. P2: servicio degradado que afecta a muchos usuarios. P3: impacto menor o hay solución alternativa. La coherencia en el lenguaje de severidad previene la fatiga de 'todo es P1'.",
-    "tags": ["english", "incident", "severity", "p1", "p2", "itil", "operations"]
+    "tags": [
+      "english",
+      "incident",
+      "severity",
+      "p1",
+      "p2",
+      "itil",
+      "operations"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Incident_Communication",
@@ -42,7 +70,14 @@
     "explanation": "War room noise is one of the biggest time wasters during P1 incidents. When 10 people are speculating simultaneously, the signal-to-noise ratio collapses. The incident commander's job is to enforce structured communication: 'Do you have a finding or are you still investigating?' Thinking out loud belongs in side channels (Slack thread), not the main bridge.",
     "usage": "<ul><li>IC: \"Engineering — do you have something confirmed?\" Eng: \"Yes. The LB config shows rule #14 was modified at 08:13.\" IC: \"Good. Can you revert it? How long?\" Eng: \"10 minutes.\" IC: \"Go. I'll update stakeholders.\"</li><li>Avoid: Open speculation on the bridge call. Move hypotheses to a side Slack thread.</li></ul>",
     "spanish": "En un war room o bridge call: habla solo cuando tengas un hallazgo confirmado, una decisión que tomar o una acción que asignar — no para pensar en voz alta. El IC debe imponer comunicación estructurada.",
-    "tags": ["english", "incident", "war_room", "discipline", "commander", "operations"]
+    "tags": [
+      "english",
+      "incident",
+      "war_room",
+      "discipline",
+      "commander",
+      "operations"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Incident_Communication",
@@ -51,7 +86,13 @@
     "explanation": "A clean resolution announcement closes the loop for all stakeholders simultaneously. The four elements — time, scope of restoration, brief root cause, postmortem commitment — give customers confidence that the issue is truly over and that the organization is learning from it. Never declare resolved without confirming with monitoring data.",
     "usage": "<ul><li>\"As of 10:52 AM UTC, the authentication service is fully restored for all EU users. Root cause: a load balancer config change at 08:13 was reverted. We'll publish a full postmortem within 5 business days.\"</li><li>Internal: \"Incident closed. Full details in the incident ticket #INC-2341. Postmortem call scheduled for Thursday.\"</li></ul>",
     "spanish": "'A partir de [hora], el incidente está resuelto. El servicio está completamente restaurado para todos los usuarios. Causa raíz: [breve]. Postmortem completo en [plazo].' — cierra el ciclo para todos los stakeholders.",
-    "tags": ["english", "incident", "resolution", "postmortem", "professional"]
+    "tags": [
+      "english",
+      "incident",
+      "resolution",
+      "postmortem",
+      "professional"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Incident_Communication",
@@ -60,7 +101,14 @@
     "explanation": "Blameless postmortems (pioneered by Google SRE and Etsy) identify systemic failures, not individual failures. When a human makes a mistake, the blameless question is: 'What would have prevented this system from allowing that mistake?' Blame kills psychological safety, which reduces future incident reporting — making the system more fragile.",
     "usage": "<ul><li><b>Blame:</b> \"John deployed without testing.\"</li><li><b>Blameless:</b> \"The deployment pipeline didn't require a mandatory test gate before production push.\"</li><li><b>Blame:</b> \"Sarah missed the alert.\"</li><li><b>Blameless:</b> \"The alerting threshold was set too high, resulting in a delayed notification.\"</li></ul>",
     "spanish": "En las retrospectivas de incidentes, evita el lenguaje de culpa. Reemplaza 'John olvidó...' con 'El proceso no tenía una salvaguarda para...' Los postmortems sin culpa identifican fallas sistémicas, no individuales.",
-    "tags": ["english", "incident", "blameless", "postmortem", "psychological_safety", "sre"]
+    "tags": [
+      "english",
+      "incident",
+      "blameless",
+      "postmortem",
+      "psychological_safety",
+      "sre"
+    ]
   },
   {
     "deck": "03_Languages::English::Support_and_Operations_English::Incident_Communication",
@@ -69,6 +117,13 @@
     "explanation": "Executives paged during incidents often receive walls of text or vague 'call me' messages. The sub-5-line constraint forces prioritization. The explicit ask ('can you join the bridge?' / 'I need your sign-off to engage vendor support') removes ambiguity. The recipient should know in 10 seconds whether to drop what they're doing.",
     "usage": "<ul><li>\"@CTO — P1 ACTIVE. Auth service down for 4,500 EU users since 08:22. SLA breach in 45 min. I need your authorization to engage [Vendor] premium support. Can you reply Y/N?\"</li><li>\"[Name] — P2 incident on payment processing. Degraded, not down. No exec action needed yet. I'll update you at 11:00.\"</li></ul>",
     "spanish": "Al enviar un mensaje de alerta a un ejecutivo durante un incidente: máximo 5 líneas, incluye el nivel de severidad, el impacto y una solicitud explícita. El receptor debe saber en 10 segundos si necesita actuar.",
-    "tags": ["english", "incident", "paging", "stakeholder", "communication", "operations"]
+    "tags": [
+      "english",
+      "incident",
+      "paging",
+      "stakeholder",
+      "communication",
+      "operations"
+    ]
   }
 ]
