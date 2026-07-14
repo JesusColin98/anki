@@ -1,0 +1,56 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
+    "scenario": "Data Pipelines: Schema Validation 🧾",
+    "text": "Schema validation checks that incoming data conforms to expected columns, types, and constraints.",
+    "explanation": "It prevents silent data issues from destabilizing training and inference.",
+    "usage": "Essential in production ML pipelines and data quality frameworks.",
+    "spanish": "La validación de esquema comprueba que los datos entrantes cumplan columnas, tipos y restricciones esperadas.",
+    "tags": ["ai", "data_pipeline", "validation"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
+    "scenario": "Data Pipelines: Data Lineage 🔗",
+    "text": "Data lineage tracks where data comes from, how it is transformed, and where it is consumed.",
+    "explanation": "It is crucial for reproducibility, auditing, and debugging model issues.",
+    "usage": "Important in regulated and enterprise AI systems.",
+    "spanish": "La lineage de datos rastrea de dónde provienen los datos, cómo se transforman y dónde se consumen.",
+    "tags": ["ai", "data_pipeline", "lineage"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
+    "scenario": "Feature Stores: Online and Offline Features ⚡",
+    "text": "Feature stores provide both offline training features and online serving features from the same source of truth.",
+    "explanation": "This prevents train/serve skew and improves consistency across environments.",
+    "usage": "Common in recommendation, fraud, and personalization systems.",
+    "spanish": "Los feature stores proporcionan features offline para entrenamiento y features online para serving desde la misma fuente de verdad.",
+    "tags": ["ai", "feature_store", "mlops"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
+    "scenario": "Experimentation: A/B Testing 🧪",
+    "text": "A/B testing compares two versions of a system by randomizing users and measuring business or model outcomes.",
+    "explanation": "It is the gold standard for validating product changes and algorithmic interventions.",
+    "usage": "Widely used in ranking, search, and product experimentation.",
+    "spanish": "El A/B testing compara dos versiones de un sistema randomizando usuarios y midiendo resultados de negocio o del modelo.",
+    "tags": ["ai", "experimentation", "ab_testing"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
+    "scenario": "Experimentation: Statistical Power 📊",
+    "text": "Statistical power measures how likely an experiment is to detect a real effect when one exists.",
+    "explanation": "Low-powered tests waste time and can produce false negatives.",
+    "usage": "Important for experiment design, budget planning, and launch decisions.",
+    "spanish": "La potencia estadística mide qué tan probable es que un experimento detecte un efecto real cuando existe.",
+    "tags": ["ai", "experimentation", "statistics"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
+    "scenario": "Experimentation: Train-Serve Skew ⚖️",
+    "text": "Train-serve skew occurs when the features used during training differ from those used at inference time.",
+    "explanation": "It is a frequent cause of unexpected performance drops in production ML.",
+    "usage": "Critical for real-time scoring, search, and personalization systems.",
+    "spanish": "El train-serve skew ocurre cuando las features usadas durante entrenamiento difieren de las usadas en inferencia.",
+    "tags": ["ai", "mlops", "deployment"]
+  }
+]

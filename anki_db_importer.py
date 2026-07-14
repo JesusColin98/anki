@@ -447,8 +447,20 @@ def import_database():
     created_count = 0
     if notes_to_add:
         print(f"Uploading {len(notes_to_add)} new cards to Anki...")
-        result = invoke('addNotes', notes=notes_to_add)
-        created_count = len(result)
+        try:
+            result = invoke('addNotes', notes=notes_to_add)
+            created_count = len([r for r in result if r is not None])
+        except Exception as e:
+            print("[!] Bulk upload encountered an issue. Falling back to individual card uploads for safety...")
+            for idx, note in enumerate(notes_to_add):
+                try:
+                    res = invoke('addNote', note=note)
+                    if res:
+                        created_count += 1
+                except Exception as ex:
+                    err_msg = str(ex)
+                    if "duplicate" not in err_msg.lower():
+                        print(f"    [-] Failed to import card '{note['fields']['Scenario']}': {err_msg}")
         
     print(f"\nSync summary: {created_count} cards created, {updated_count} cards updated, {skipped_count} cards skipped (already in sync).")
 

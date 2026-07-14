@@ -1,6 +1,6 @@
 {
-  "total_cards": 2875,
-  "total_decks": 188,
+  "total_cards": 2929,
+  "total_decks": 197,
   "decks": [
     {
       "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
@@ -941,6 +941,51 @@
       "deck": "06_Business_and_Productivity::Productivity::Learning::09 Ultralearning",
       "path": "decks/06_Business_and_Productivity/Productivity/Learning/09_Ultralearning.json",
       "cards_count": 20
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/10_Training_Systems_and_Optimization/10_Training_Systems_and_Optimization.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::11_Deep_Learning_Architectures::11_Deep_Learning_Architectures",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/11_Deep_Learning_Architectures/11_Deep_Learning_Architectures.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::12_Recommendation_and_Graph_Learning::12_Recommendation_and_Graph_Learning",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/12_Recommendation_and_Graph_Learning/12_Recommendation_and_Graph_Learning.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::13_Generative_Models_and_Diffusion::13_Generative_Models_and_Diffusion",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/13_Generative_Models_and_Diffusion/13_Generative_Models_and_Diffusion.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::14_Security_Privacy_and_Adversarial_AI::14_Security_Privacy_and_Adversarial_AI",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/14_Security_Privacy_and_Adversarial_AI/14_Security_Privacy_and_Adversarial_AI.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/15_Experimentation_Data_Pipelines_and_Feature_Stores/15_Experimentation_Data_Pipelines_and_Feature_Stores.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::16_LLM_Systems_Design_and_Inference::16_LLM_Systems_Design_and_Inference",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/16_LLM_Systems_Design_and_Inference/16_LLM_Systems_Design_and_Inference.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::17_Agent_Evals_and_Observability::17_Agent_Evals_and_Observability",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/17_Agent_Evals_and_Observability/17_Agent_Evals_and_Observability.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::18_ML_System_Design_and_Platforms::18_ML_System_Design_and_Platforms",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/18_ML_System_Design_and_Platforms/18_ML_System_Design_and_Platforms.json",
+      "cards_count": 6
     }
   ]
 }
