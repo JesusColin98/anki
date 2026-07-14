@@ -121,5 +121,70 @@
       "recovery",
       "professional"
     ]
+  },
+  {
+    "deck": "03_Languages::English::Leadership_and_Executive_English::Delegation_and_Accountability",
+    "scenario": "Coaching: Growth Conversation 🌱",
+    "text": "I want to talk about your growth, your strengths, and the areas where you can {{c1::develop}} further.",
+    "explanation": "A coaching conversation focuses on development, not blame, and helps someone improve over time.",
+    "usage": "Pattern: <code>develop further / growth conversation</code><ul><li><code>We scheduled a growth conversation this Friday.</code></li><li><code>I want to help you develop further in this role.</code></li></ul>",
+    "spanish": "Quiero hablar sobre tu crecimiento, tus fortalezas y las áreas en las que puedes desarrollarte aún más.",
+    "tags": [
+      "english",
+      "leadership",
+      "coaching"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Leadership_and_Executive_English::Delegation_and_Accountability",
+    "scenario": "Coaching: Support and Accountability 🤝",
+    "text": "I am here to {{c1::support}} you, but I also need you to be accountable for the outcomes.",
+    "explanation": "Support and accountability go together in effective leadership. The leader helps, but the person must still own the work.",
+    "usage": "Pattern: <code>support and accountability</code><ul><li><code>We provide support and accountability at the same time.</code></li><li><code>Accountability is essential in leadership.</code></li></ul>",
+    "spanish": "Estoy aquí para apoyarte, pero también necesito que seas responsable de los resultados.",
+    "tags": [
+      "english",
+      "leadership",
+      "accountability"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Leadership_and_Executive_English::Delegation_and_Accountability",
+    "scenario": "Performance: Clear Expectations 📌",
+    "text": "To avoid confusion, we need to make our {{c1::expectations}} explicit and measurable.",
+    "explanation": "Clear expectations reduce ambiguity and help people understand what success looks like.",
+    "usage": "Pattern: <code>clear expectations / measurable expectations</code><ul><li><code>We set clear expectations for the release.</code></li><li><code>Our expectations are measurable and time-bound.</code></li></ul>",
+    "spanish": "Para evitar confusión, necesitamos dejar nuestras expectativas explícitas y medibles.",
+    "tags": [
+      "english",
+      "leadership",
+      "performance"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Leadership_and_Executive_English::Delegation_and_Accountability",
+    "scenario": "Performance: Action Plan 🛠️",
+    "text": "Let's create an {{c1::action plan}} with milestones and follow-up dates.",
+    "explanation": "An action plan is a structured set of steps to address a gap or improve performance.",
+    "usage": "Pattern: <code>action plan / milestones</code><ul><li><code>We created an action plan for the onboarding process.</code></li><li><code>The milestones are due at the end of each month.</code></li></ul>",
+    "spanish": "Creemos un plan de acción con hitos y fechas de seguimiento.",
+    "tags": [
+      "english",
+      "leadership",
+      "coaching"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Leadership_and_Executive_English::Delegation_and_Accountability",
+    "scenario": "Performance: Feedback Loop 🔁",
+    "text": "We need a consistent {{c1::feedback loop}} so people can adjust early instead of late.",
+    "explanation": "A feedback loop is a recurring process of giving and receiving feedback to improve performance.",
+    "usage": "Pattern: <code>feedback loop / regular feedback</code><ul><li><code>We implemented a weekly feedback loop.</code></li><li><code>Regular feedback helps people mature faster.</code></li></ul>",
+    "spanish": "Necesitamos un ciclo de retroalimentación consistente para que las personas puedan ajustarse temprano en lugar de tarde.",
+    "tags": [
+      "english",
+      "leadership",
+      "feedback"
+    ]
   }
 ]
