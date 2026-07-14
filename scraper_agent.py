@@ -2,18 +2,21 @@
 """Article & News Scraper Agent for Anki Flashcard Generation.
 
 Fetches web articles, extracts core technical facts, cleans noise, and formats
-them into atomic Anki Cloze & Scenario flashcards saved into the decks/ tree.
+them into atomic Anki Cloze & Scenario flashcards using Gemini LLM.
 """
 
 import json
 from pathlib import Path
 import re
 import sys
-import urllib.parse
 from bs4 import BeautifulSoup
 import requests
 
 BASE_DIR = Path(__file__).parent.resolve()
+sys.path.insert(0, str(BASE_DIR))
+
+from gemini_provider import generate_anki_cards_gemini
+
 DECKS_DIR = BASE_DIR / "decks"
 
 
@@ -64,57 +67,19 @@ def scrape_article(url: str) -> dict:
 def generate_flashcards_from_article(
     article_data: dict, deck_name: str = "News_Scraped::General"
 ) -> list:
-  """Extract atomic facts and format them into Cloze deletion cards."""
-  title = article_data["title"]
-  paragraphs = article_data["paragraphs"]
-  cards = []
-
-  # Clean deck category name for tagging
-  category_tag = re.sub(r"\W+", "_", deck_name.split("::")[-1]).lower()
-
-  for i, p in enumerate(paragraphs[:10]):  # Process top 10 key paragraphs
-    # Simple rule-based cloze extraction for key sentences
-    sentences = re.split(r"(?<=[.!?]) +", p)
-    for s in sentences:
-      if len(s) < 30 or len(s) > 200:
-        continue
-
-      # Highlight potential keywords (Capitalized terms or technical words)
-      words = s.split()
-      if len(words) > 6:
-        # Pick a key middle word or entity for Cloze deletion
-        target_idx = max(2, len(words) // 2)
-        target_word = words[target_idx].strip(".,;:\"'")
-        if len(target_word) > 3:
-          cloze_text = s.replace(target_word, f"{{{{c1::{target_word}}}}}")
-
-          card = {
-              "deck": deck_name,
-              "scenario": f"News & Articles 📰 ({title[:30]})",
-              "text": cloze_text,
-              "explanation": (
-                  f"Extract from article: <strong>{title}</strong>.<br>Source:"
-                  f' <a href="{article_data["url"]}">{article_data["url"]}</a>'
-              ),
-              "usage": (
-                  f"Context: <code>{s}</code><ul><li>Source: {title}</li></ul>"
-              ),
-              "spanish": f"Extraído de: {title}",
-              "tags": ["news_scraped", category_tag],
-          }
-          cards.append(card)
-          if len(cards) >= 5:  # Limit per article
-            break
-    if len(cards) >= 5:
-      break
-
-  return cards
+  """Extract atomic facts and format them into Cloze deletion cards using Gemini."""
+  print(f"[+] Generating cards via Gemini for: {article_data['title']}")
+  return generate_anki_cards_gemini(article_data["full_text"], deck_name)
 
 
 def save_cards_to_deck(cards: list, deck_name: str):
   """Save generated cards into the appropriate subfolder under decks/."""
-  rel_path = deck_name.replace("::", "/") + ".json"
-  target_file = DECKS_DIR / rel_path
+  # Convert deck name to relative path on disk, keeping space inside names
+  rel_path_str = deck_name.replace("::", "/")
+  parts = rel_path_str.split("/")
+  file_part = parts[-1].replace(" ", "_") + ".json"
+  rel_path = "/".join(parts[:-1]) + "/" + file_part
+  target_file = DECKS_DIR / rel_path.replace("decks/", "")
   target_file.parent.mkdir(parents=True, exist_ok=True)
 
   existing_cards = []
@@ -145,12 +110,12 @@ def main():
     print("Usage: python3 scraper_agent.py <URL> [deck_name]")
     print(
         "Example: python3 scraper_agent.py https://example.com/article"
-        " News_Scraped::AI_Trends"
+        " 03_Languages::English::News::AI_Trends"
     )
     sys.exit(1)
 
   url = sys.argv[1]
-  deck_name = sys.argv[2] if len(sys.argv) > 2 else "News_Scraped::General"
+  deck_name = sys.argv[2] if len(sys.argv) > 2 else "03_Languages::English::News::General"
 
   article = scrape_article(url)
   print(

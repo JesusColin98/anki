@@ -23,11 +23,6 @@
       "cards_count": 5
     },
     {
-      "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery",
-      "path": "decks/02_AI_and_Data_Science/Agentic_Systems/ADK_Mastery.json",
-      "cards_count": 21
-    },
-    {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/Agentic_Systems/Agent_Frameworks.json",
       "cards_count": 10
@@ -81,6 +76,11 @@
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::LLM_Systems::03_Advanced_LLM",
       "path": "decks/02_AI_and_Data_Science/AI_Learning_Path/LLM_Systems/03_Advanced_LLM.json",
       "cards_count": 10
+    },
+    {
+      "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK::ADK_Mastery",
+      "path": "decks/02_AI_and_Data_Science/Agentic_Systems/ADK/ADK_Mastery.json",
+      "cards_count": 21
     },
     {
       "deck": "02_AI_and_Data_Science::Books::AI_ML::04_AI_Engineering",
@@ -188,13 +188,13 @@
       "cards_count": 20
     },
     {
-      "deck": "03_Languages::English::02_Professional::Interview_Skills",
-      "path": "decks/03_Languages/English/02_Professional/Interview_Skills.json",
+      "deck": "03_Languages::English::02_Professional::IT_Support",
+      "path": "decks/03_Languages/English/02_Professional/IT_Support.json",
       "cards_count": 20
     },
     {
-      "deck": "03_Languages::English::02_Professional::IT_Support",
-      "path": "decks/03_Languages/English/02_Professional/IT_Support.json",
+      "deck": "03_Languages::English::02_Professional::Interview_Skills",
+      "path": "decks/03_Languages/English/02_Professional/Interview_Skills.json",
       "cards_count": 20
     },
     {
@@ -448,6 +448,11 @@
       "cards_count": 5
     },
     {
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::04_Customer_Support_Excellence::Fundamentals",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/04_Customer_Support_Excellence/Fundamentals.json",
+      "cards_count": 4
+    },
+    {
       "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Active_Listening::02_Active_Listening",
       "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Active_Listening/02_Active_Listening.json",
       "cards_count": 2
@@ -463,11 +468,6 @@
       "cards_count": 4
     },
     {
-      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Support_Excellence::04_Customer_Support_Excellence",
-      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Customer_Support_Excellence/04_Customer_Support_Excellence.json",
-      "cards_count": 4
-    },
-    {
       "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Persuasion::01_Persuasion",
       "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Persuasion/01_Persuasion.json",
       "cards_count": 1
@@ -478,119 +478,119 @@
       "cards_count": 6
     },
     {
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Presence::Nonverbal_Communication",
+      "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Presence/Nonverbal_Communication.json",
+      "cards_count": 80
+    },
+    {
       "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Storytelling_Foundations::06_Storytelling_Foundations",
       "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Storytelling_Foundations/06_Storytelling_Foundations.json",
       "cards_count": 5
     },
     {
-      "deck": "05_Soft_Skills_and_Leadership::SoftSkills::Phonetics::General",
-      "path": "decks/05_Soft_Skills_and_Leadership/SoftSkills/Phonetics/General.json",
-      "cards_count": 80
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Memory::15 How to Develop a Brilliant Memory",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/15_How_to_Develop_a_Brilliant_Memory.json",
+      "deck": "06_Business_and_Productivity::Business::Sales::10 Fanatical Prospecting",
+      "path": "decks/06_Business_and_Productivity/Business/Sales/10_Fanatical_Prospecting.json",
       "cards_count": 20
     },
     {
-      "deck": "06_Business_and_Productivity::Books_Path::Memory::16 Memory Craft",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/16_Memory_Craft.json",
+      "deck": "06_Business_and_Productivity::Business::Sales::11 Gap Selling",
+      "path": "decks/06_Business_and_Productivity/Business/Sales/11_Gap_Selling.json",
       "cards_count": 20
     },
     {
-      "deck": "06_Business_and_Productivity::Books_Path::Memory::17 Moonwalking with Einstein",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/17_Moonwalking_with_Einstein.json",
+      "deck": "06_Business_and_Productivity::Business::Sales::12 Objections",
+      "path": "decks/06_Business_and_Productivity/Business/Sales/12_Objections.json",
       "cards_count": 20
     },
     {
-      "deck": "06_Business_and_Productivity::Books_Path::Memory::18 The Art Of Memory",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/18_The_Art_Of_Memory.json",
+      "deck": "06_Business_and_Productivity::Business::Sales::13 SPIN Selling",
+      "path": "decks/06_Business_and_Productivity/Business/Sales/13_SPIN_Selling.json",
       "cards_count": 20
     },
     {
-      "deck": "06_Business_and_Productivity::Books_Path::Memory::19 The Memory Book",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/19_The_Memory_Book.json",
+      "deck": "06_Business_and_Productivity::Business::Sales::14 The Challenger Sale",
+      "path": "decks/06_Business_and_Productivity/Business/Sales/14_The_Challenger_Sale.json",
       "cards_count": 20
     },
     {
-      "deck": "06_Business_and_Productivity::Books_Path::Memory::20 Unlimited Memory",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/20_Unlimited_Memory.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::01 A Mind For Numbers",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/01_A_Mind_For_Numbers.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::02 Become a SuperLearner",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/02_Become_a_SuperLearner.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/03_Make_It_Stick.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::04 Building a Second Brain",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/04_Building_a_Second_Brain.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::05 Essentialism",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/05_Essentialism.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::06 Four Thousand Weeks",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/06_Four_Thousand_Weeks.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::07 How to Take Smart Notes",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/07_How_to_Take_Smart_Notes.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::08 Tiny Habits",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/08_Tiny_Habits.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::09 Ultralearning",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/09_Ultralearning.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Sales::10 Fanatical Prospecting",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/10_Fanatical_Prospecting.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Sales::11 Gap Selling",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/11_Gap_Selling.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Sales::12 Objections",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/12_Objections.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Sales::13 SPIN Selling",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/13_SPIN_Selling.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Sales::14 The Challenger Sale",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/14_The_Challenger_Sale.json",
-      "cards_count": 20
-    },
-    {
-      "deck": "06_Business_and_Productivity::Books_Path::Strategy::01_Business_Strategy",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Strategy/01_Business_Strategy.json",
+      "deck": "06_Business_and_Productivity::Business::Strategy::01_Business_Strategy",
+      "path": "decks/06_Business_and_Productivity/Business/Strategy/01_Business_Strategy.json",
       "cards_count": 3
+    },
+    {
+      "deck": "06_Business_and_Productivity::Learning_Methods::Memory_Techniques::15 How to Develop a Brilliant Memory",
+      "path": "decks/06_Business_and_Productivity/Learning_Methods/Memory_Techniques/15_How_to_Develop_a_Brilliant_Memory.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Learning_Methods::Memory_Techniques::16 Memory Craft",
+      "path": "decks/06_Business_and_Productivity/Learning_Methods/Memory_Techniques/16_Memory_Craft.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Learning_Methods::Memory_Techniques::17 Moonwalking with Einstein",
+      "path": "decks/06_Business_and_Productivity/Learning_Methods/Memory_Techniques/17_Moonwalking_with_Einstein.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Learning_Methods::Memory_Techniques::18 The Art Of Memory",
+      "path": "decks/06_Business_and_Productivity/Learning_Methods/Memory_Techniques/18_The_Art_Of_Memory.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Learning_Methods::Memory_Techniques::19 The Memory Book",
+      "path": "decks/06_Business_and_Productivity/Learning_Methods/Memory_Techniques/19_The_Memory_Book.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Learning_Methods::Memory_Techniques::20 Unlimited Memory",
+      "path": "decks/06_Business_and_Productivity/Learning_Methods/Memory_Techniques/20_Unlimited_Memory.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Productivity::Learning::01 A Mind For Numbers",
+      "path": "decks/06_Business_and_Productivity/Productivity/Learning/01_A_Mind_For_Numbers.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Productivity::Learning::02 Become a SuperLearner",
+      "path": "decks/06_Business_and_Productivity/Productivity/Learning/02_Become_a_SuperLearner.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Productivity::Learning::03 Make It Stick",
+      "path": "decks/06_Business_and_Productivity/Productivity/Learning/03_Make_It_Stick.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Productivity::Learning::04 Building a Second Brain",
+      "path": "decks/06_Business_and_Productivity/Productivity/Learning/04_Building_a_Second_Brain.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Productivity::Learning::05 Essentialism",
+      "path": "decks/06_Business_and_Productivity/Productivity/Learning/05_Essentialism.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Productivity::Learning::06 Four Thousand Weeks",
+      "path": "decks/06_Business_and_Productivity/Productivity/Learning/06_Four_Thousand_Weeks.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+      "path": "decks/06_Business_and_Productivity/Productivity/Learning/07_How_to_Take_Smart_Notes.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Productivity::Learning::08 Tiny Habits",
+      "path": "decks/06_Business_and_Productivity/Productivity/Learning/08_Tiny_Habits.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Productivity::Learning::09 Ultralearning",
+      "path": "decks/06_Business_and_Productivity/Productivity/Learning/09_Ultralearning.json",
+      "cards_count": 20
     }
   ]
 }

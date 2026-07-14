@@ -1,0 +1,262 @@
+[
+  {
+    "scenario": "Smart Notes: Zettelkasten 🗂️",
+    "text": "The core technique in How to Take Smart Notes is the {{c1::Zettelkasten}} (Slip-box) system, developed by German sociologist Niklas Luhmann.",
+    "explanation": "A slip-box acts as an external thinking partner. It stores notes as atomic cards that are interconnected through links, creating a web of thought.",
+    "spanish": "La técnica central en How to Take Smart Notes es el sistema Zettelkasten (caja de fichas), desarrollado por Niklas Luhmann.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "learning"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Fleeting Notes 🗂️",
+    "text": "In the slip-box system, {{c1::fleeting notes}} are temporary reminders, ideas, or quick captures that must be processed within a day or two.",
+    "explanation": "These are messy notes captured on the go. They are discarded once their content is moved to permanent notes.",
+    "usage": "Use a notepad or quick voice memo to write down a sudden idea while walking.",
+    "spanish": "En el sistema Zettelkasten, las notas fugaces (fleeting notes) son recordatorios temporales que deben procesarse pronto.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "notes"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes"
+  },
+  {
+    "scenario": "Smart Notes: Literature Notes 🗂️",
+    "text": "When reading, you should take {{c1::literature notes}}—summarizing key arguments in your own words, keeping them short and citing the source.",
+    "explanation": "Do not copy quotes. Summarizing forces active processing. Keep them in a central index folder.",
+    "usage": "Write a 2-sentence summary of a chapter on a card, with reference to page numbers.",
+    "spanish": "Al leer, debes tomar notas de literatura (literature notes), resumiendo los argumentos clave en tus propias palabras.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "notes"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes"
+  },
+  {
+    "scenario": "Smart Notes: Permanent Notes 🗂️",
+    "text": "The core assets of the slip-box are {{c1::permanent notes}}—atomic, self-contained thoughts written in full sentences that can be understood on their own.",
+    "explanation": "Each permanent note contains exactly one idea. They are filed in the slip-box and connected to existing notes.",
+    "usage": "Write a note: 'Spaced repetition works by retrieving memories just before they are forgotten.' Connect it to a note on neuroscience.",
+    "spanish": "Los activos principales del Zettelkasten son las notas permanentes: pensamientos atómicos escritos con oraciones completas.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "notes"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes"
+  },
+  {
+    "scenario": "Smart Notes: Atomic Principle 🗂️",
+    "text": "The atomic principle states that each note must contain {{c1::only one idea}} so that it can be easily linked to other notes in different contexts.",
+    "explanation": "If a note contains multiple topics, linking to it becomes confusing and the structure loses flexibility.",
+    "spanish": "El principio atómico establece que cada nota debe contener solo una idea para que pueda enlazarse fácilmente.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "structure"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Interconnection 🗂️",
+    "text": "The value of a slip-box comes not from the number of notes, but from the {{c1::links between them}}.",
+    "explanation": "Linking notes replicates the neural structure of the brain. It allows you to discover surprising connections and patterns.",
+    "usage": "Use wiki-style links in Obsidian (e.g. [[Spaced Repetition]]) to connect related notes.",
+    "spanish": "El valor de un Zettelkasten no proviene del número de notas, sino de los enlaces entre ellas.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "links"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes"
+  },
+  {
+    "scenario": "Smart Notes: Index 🗂️",
+    "text": "To find entry points into the web of notes, the slip-box uses an {{c1::index}}—a central document listing keywords and linking to key notes.",
+    "explanation": "The index does not catalog everything; it only provides starting points for different topics.",
+    "spanish": "Para encontrar puntos de entrada a la red de notas, el Zettelkasten utiliza un índice.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "index"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Writing as Thinking 🗂️",
+    "text": "The book argues that writing is not the product of thinking; rather, writing is the {{c1::medium in which thinking takes place}}.",
+    "explanation": "You don't think first and then write. You think while writing, as the physical act of articulating thoughts exposes errors in logic.",
+    "spanish": "El libro sostiene que escribir no es el producto del pensamiento, sino el medio en el que ocurre el pensamiento.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "philosophy"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Top-Down vs Bottom-Up 🗂️",
+    "text": "Instead of a top-down approach (creating folders and outlines first), the Zettelkasten is a {{c1::bottom-up}} system where structure emerges naturally from the notes.",
+    "explanation": "Creating folders first restricts your thinking. Letting notes accumulate and group naturally lets connections guide the outline.",
+    "spanish": "En lugar de un enfoque de arriba hacia abajo, el Zettelkasten es un sistema de abajo hacia arriba donde la estructura surge naturalmente.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "structure"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Standardized Workflow 🗂️",
+    "text": "To minimize cognitive friction, standardizing the {{c1::workflow of note-taking}} is essential, freeing up mental energy for actual thinking.",
+    "explanation": "If you have to think about 'where to save this' or 'what template to use' every time, you waste willpower.",
+    "usage": "Use a simple workflow: Quick capture on notepad -> convert to Obsidian atomic note at night -> link to 1-2 existing notes.",
+    "spanish": "Para minimizar la fricción cognitiva, estandarizar el flujo de trabajo de la toma de notas es esencial.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "workflow"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes"
+  },
+  {
+    "scenario": "Smart Notes: Internal Communication 🗂️",
+    "text": "Luhmann described his slip-box as an independent partner with whom he could communicate, because the box often returned {{c1::unexpected connections}}.",
+    "explanation": "As the box grows, notes you wrote years ago connect with new inputs, generating novel ideas automatically.",
+    "spanish": "Luhmann describió su caja de fichas como un socio independiente con el que podía comunicarse debido a las conexiones inesperadas.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "philosophy"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Fleeting Notes Disposal 🗂️",
+    "text": "Fleeting notes should be {{c1::deleted or archived}} once they are processed into permanent notes.",
+    "explanation": "Keeping messy fleeting notes clutters your inbox and increases cognitive noise.",
+    "spanish": "Las notas fugaces deben eliminarse o archivarse una vez que se procesan en notas permanentes.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "notes"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Self-Explaining 🗂️",
+    "text": "Permanent notes must be written as if for a {{c1::stranger}}, explaining the context fully and using clear, unambiguous sentences.",
+    "explanation": "You will forget the context in a few months. If the note is not self-contained, it will become useless.",
+    "spanish": "Las notas permanentes deben escribirse como si fueran para un extraño, explicando el contexto por completo.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "notes"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Literature Notes Location 🗂️",
+    "text": "Keep literature notes separated from permanent notes, using the literature notes as a references list or {{c1::bibliography database}}.",
+    "explanation": "Separation keeps the slip-box clean. The slip-box holds ideas; the bibliography holds references.",
+    "spanish": "Mantén las notas de literatura separadas de las notas permanentes, utilizándolas como una base de datos bibliográfica.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "structure"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Index Entry 🗂️",
+    "text": "When adding a note to the slip-box, always search for at least {{c1::one existing note}} to link it to, ensuring it becomes part of the web.",
+    "explanation": "An isolated note is a dead note. It will be forgotten because there is no path leading to it.",
+    "spanish": "Al agregar una nota al Zettelkasten, busca siempre al menos una nota existente para enlazarla.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "links"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Context over Category 🗂️",
+    "text": "In a slip-box, focus on the {{c1::context of retrieval}} rather than the category of filing. Ask: 'In what situation will I want to find this note?'",
+    "explanation": "Filing by topic (e.g. 'History') is too broad. Filing by use case (e.g. 'Examples of memory palaces') is highly actionable.",
+    "spanish": "En un Zettelkasten, enfócate en el contexto de recuperación en lugar de la categoría de archivo.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "filing"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Habit of Writing 🗂️",
+    "text": "The primary indicator of academic productivity is the habit of daily {{c1::scholarly writing}}, not the volume of reading.",
+    "explanation": "Reading without writing is consumer behavior. Writing forces structure and exposes limits of understanding.",
+    "spanish": "El indicador principal de la productividad académica es el hábito de escribir diariamente.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "writing"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Cognitive Load 🗂️",
+    "text": "By offloading the storage of ideas to the slip-box, you reduce {{c1::cognitive load}}, allowing your working memory to focus entirely on reasoning.",
+    "explanation": "Similar to GTD (Getting Things Done), externalizing ideas keeps the mind calm and alert.",
+    "spanish": "Al transferir el almacenamiento de ideas al Zettelkasten, reduces la carga cognitiva.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "productivity"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Luhmann's Card Format 🗂️",
+    "text": "Luhmann's physical slip-box used a unique numbering system (e.g., 1, 1a, 1a1) that allowed him to insert new cards {{c1::anywhere in the sequence}}, enabling infinite branching.",
+    "explanation": "Digital wikilinks replicate this numbering system without needing physical codes.",
+    "spanish": "El Zettelkasten físico de Luhmann usaba un sistema de numeración único que le permitía insertar tarjetas en cualquier parte.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "history"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  },
+  {
+    "scenario": "Smart Notes: Permanent Notes Rule 🗂️",
+    "text": "Every permanent note must have a reference back to the {{c1::literature note}} or source it was derived from.",
+    "explanation": "Ensures you can always double-check the source material to prevent misinterpretation or copyright issues.",
+    "spanish": "Cada nota permanente debe tener una referencia a la nota de literatura de la que se derivó.",
+    "tags": [
+      "books_path",
+      "zettelkasten",
+      "notes"
+    ],
+    "deck": "06_Business_and_Productivity::Productivity::Learning::07 How to Take Smart Notes",
+    "usage": ""
+  }
+]
