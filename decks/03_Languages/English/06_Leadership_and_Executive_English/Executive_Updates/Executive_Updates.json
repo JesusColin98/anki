@@ -1,0 +1,56 @@
+[
+  {
+    "deck": "03_Languages::English::06_Leadership_and_Executive_English::Executive_Updates::Executive_Updates",
+    "scenario": "Executive English: Status Update 🧭",
+    "text": "Let me give you a quick {{c1::status update}} on the project before we discuss next steps.",
+    "explanation": "A status update is a concise summary of progress, risks, priorities, and decisions that need attention.",
+    "usage": "Pattern: <code>status update / quick update</code><ul><li><code>Here is a quick status update on the rollout.</code></li><li><code>I will send a status update after the stakeholder meeting.</code></li></ul>",
+    "spanish": "Permítame darle una actualización breve sobre el estado del proyecto antes de discutir los próximos pasos.",
+    "tags": ["english", "leadership", "executive_english"]
+  },
+  {
+    "deck": "03_Languages::English::06_Leadership_and_Executive_English::Executive_Updates::Executive_Updates",
+    "scenario": "Executive English: Main Risk ⚠️",
+    "text": "The {{c1::main risk}} at the moment is the dependency on the vendor's delayed delivery.",
+    "explanation": "The main risk is the most significant issue that could affect completion, quality, or timing.",
+    "usage": "Pattern: <code>main risk / key concern</code><ul><li><code>The main risk is resource availability.</code></li><li><code>Our key concern is data quality.</code></li></ul>",
+    "spanish": "El principal riesgo en este momento es la dependencia de la entrega tardía del proveedor.",
+    "tags": ["english", "leadership", "risk_communication"]
+  },
+  {
+    "deck": "03_Languages::English::06_Leadership_and_Executive_English::Executive_Updates::Executive_Updates",
+    "scenario": "Executive English: Decision Needed 🧠",
+    "text": "We need a decision today on whether to {{c1::accelerate}} the rollout or keep the current timeline.",
+    "explanation": "To accelerate means to increase speed or move faster than planned.",
+    "usage": "Pattern: <code>need a decision / accelerate the rollout</code><ul><li><code>We need a decision on the budget.</code></li><li><code>We may need to accelerate the release.</code></li></ul>",
+    "spanish": "Necesitamos una decisión hoy sobre si acelerar el despliegue o mantener el calendario actual.",
+    "tags": ["english", "leadership", "decision_making"]
+  },
+  {
+    "deck": "03_Languages::English::06_Leadership_and_Executive_English::Executive_Updates::Executive_Updates",
+    "scenario": "Executive English: Proposed Plan 🧭",
+    "text": "My {{c1::proposed plan}} is to phase the rollout over two weeks to reduce operational risk.",
+    "explanation": "A proposed plan is a suggested approach or strategy that is still being discussed or reviewed.",
+    "usage": "Pattern: <code>proposed plan / suggested approach</code><ul><li><code>My proposed plan is to test in staging first.</code></li><li><code>We reviewed the suggested approach with the team.</code></li></ul>",
+    "spanish": "Mi plan propuesto es implementar el despliegue en fases durante dos semanas para reducir el riesgo operativo.",
+    "tags": ["english", "leadership", "planning"]
+  },
+  {
+    "deck": "03_Languages::English::06_Leadership_and_Executive_English::Executive_Updates::Executive_Updates",
+    "scenario": "Executive English: Align on Priorities 🎯",
+    "text": "Before we move forward, let's {{c1::align on priorities}} so everyone understands the order of work.",
+    "explanation": "To align on priorities means to agree on the most important issues and sequencing of actions.",
+    "usage": "Pattern: <code>align on priorities / agree on what matters most</code><ul><li><code>We need to align on priorities before the budget review.</code></li><li><code>The team aligned on what matters most this quarter.</code></li></ul>",
+    "spanish": "Antes de avanzar, alineemos las prioridades para que todos entiendan el orden del trabajo.",
+    "tags": ["english", "leadership", "stakeholders"]
+  },
+  {
+    "deck": "03_Languages::English::06_Leadership_and_Executive_English::Executive_Updates::Executive_Updates",
+    "scenario": "Executive English: Trade-off ⚖️",
+    "text": "The trade-off is between {{c1::speed}} and {{c2::quality}}, and we need to choose carefully.",
+    "explanation": "A trade-off is a situation where choosing one benefit means giving up another.",
+    "usage": "Pattern: <code>trade-off between X and Y</code><ul><li><code>The trade-off is between cost and reliability.</code></li><li><code>There is always a trade-off in product delivery.</code></li></ul>",
+    "spanish": "La compensación es entre velocidad y calidad, y necesitamos elegir con cuidado.",
+    "tags": ["english", "leadership", "executive_language"]
+  }
+]

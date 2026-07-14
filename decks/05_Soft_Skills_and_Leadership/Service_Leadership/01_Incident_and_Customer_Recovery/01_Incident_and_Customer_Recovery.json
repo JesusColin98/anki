@@ -1,0 +1,29 @@
+[
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Service_Leadership::01_Incident_and_Customer_Recovery::01_Incident_and_Customer_Recovery",
+    "scenario": "Service Leadership: Empathy Under Pressure 💛",
+    "text": "In a crisis, the leader should combine calm communication with genuine {{c1::empathy}} so the team and the customer feel supported.",
+    "explanation": "Empathy reduces panic and helps both the team and the customer stay aligned during high-stress moments.",
+    "usage": "Crucial in support, operations, and incident response situations.",
+    "spanish": "En una crisis, el líder debe combinar una comunicación serena con empatía genuina para que el equipo y el cliente se sientan apoyados.",
+    "tags": ["leadership", "service", "customer_recovery"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Service_Leadership::01_Incident_and_Customer_Recovery::01_Incident_and_Customer_Recovery",
+    "scenario": "Service Leadership: Ownership 🧩",
+    "text": "Customers remember whether someone took {{c1::ownership}} of the issue, even when the solution is not immediate.",
+    "explanation": "Ownership builds trust because it shows commitment and follow-through.",
+    "usage": "Essential for support leads and managers in customer-facing roles.",
+    "spanish": "Los clientes recuerdan si alguien asumió la responsabilidad del problema, incluso cuando la solución no es inmediata.",
+    "tags": ["leadership", "support", "ownership"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Service_Leadership::01_Incident_and_Customer_Recovery::01_Incident_and_Customer_Recovery",
+    "scenario": "Service Leadership: Retrospective 🔍",
+    "text": "A good retrospective focuses on what happened, what should change, and how the team will improve the {{c1::process}}.",
+    "explanation": "Retrospectives turn incidents into learning opportunities instead of blame cycles.",
+    "usage": "Very important in support, engineering, and operations.",
+    "spanish": "Una buena retrospectiva se centra en qué pasó, qué debería cambiar y cómo el equipo mejorará el proceso.",
+    "tags": ["leadership", "retrospective", "continuous_improvement"]
+  }
+]
