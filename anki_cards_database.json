@@ -858,6 +858,281 @@
     ]
   },
   {
+    "scenario": "ADK Architecture: Layered Isolation 🏗️",
+    "text": "When debugging ADK agents, isolate issues to three layers: the {{c1::ADK Framework}} coordinates system prompts and memory; the {{c2::Model Context Protocol (MCP)}} manages tool execution; and the {{c3::Agent Engine Runtime}} hosts the Cloud Run container.",
+    "explanation": "Isolating the issue to the correct layer prevents wasting time debugging Cloud Run container timeouts when the root cause is a local MCP schema mismatch.",
+    "usage": "Layer isolation check:<ul><li>Prompt/Memory -> ADK</li><li>Schema/Tool -> MCP</li><li>Permissions/VPC/Timeout -> Agent Engine Runtime</li></ul>",
+    "spanish": "Al depurar agentes de ADK, aísle los problemas en tres capas: ADK Framework coordina prompts y memoria; MCP maneja la ejecución de herramientas; y Agent Engine Runtime aloja el contenedor.",
+    "tags": [
+      "adk",
+      "architecture",
+      "agent_engine"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Architecture: Tenant Project 🏗️",
+    "text": "When you deploy an ADK agent using reasoning_engines.ReasoningEngine.create(), the container is deployed in a Google-managed {{c1::Tenant Project}} linked to your billing account.",
+    "explanation": "Because the agent container does not run directly in your User Project, certain low-level startup logs are not written to your project's Cloud Logging.",
+    "usage": "Architecture: <code>User Project (GCS/IAM) &larr; VPC-SC/PSC &rarr; Tenant Project (Cloud Run Agent)</code>.",
+    "spanish": "Al implementar un agente de ADK, el contenedor se implementa en un Proyecto Inquilino (Tenant Project) administrado por Google.",
+    "tags": [
+      "adk",
+      "architecture",
+      "tenant_project"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Architecture: Low-Level Debugging 🔍",
+    "text": "If your agent fails during container initialization (before it can write logs to your User Project), you must view logs using the {{c1::uCAIP Debug Console}} (go/ucaip-debug-console) or Sherlog.",
+    "explanation": "Container startup crashes (e.g. pickle import errors) occur before the user project logging sidecar initializes.",
+    "usage": "Tool: <code>go/ucaip-debug-console</code> (Internal Google Console).",
+    "spanish": "Si tu agente falla durante la inicialización del contenedor, debes ver los registros usando la consola de depuración de uCAIP (go/ucaip-debug-console).",
+    "tags": [
+      "adk",
+      "debugging",
+      "ucaip"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Platform: Universal Language Settings 🌐",
+    "text": "To prevent {{c1::Piccolo}} routing validation errors when running background tasks, never delete dev roles to bypass ULS blocks; instead, ensure both prod and dev URIs are whitelisted.",
+    "explanation": "Whitelisting prod and dev URIs in the processors (e.g. supportability-themes and supportability-themes-dev-jobs) prevents routing blocks.",
+    "usage": "Config rule: <code>Never delete dev roles; ensure both URIs are whitelisted in data flow definitions.</code>",
+    "spanish": "Para evitar errores de validación de enrutamiento de Piccolo al ejecutar tareas en segundo plano, asegúrese de que tanto el URI de prod como el de dev estén en la lista blanca de ULS.",
+    "tags": [
+      "adk",
+      "uls",
+      "piccolo"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Networking: Ingress Routing 🔒",
+    "text": "To route traffic from the Cloud Run tenant container into your private VPC network securely, Orcas uses {{c1::Private Service Connect Interfaces (PSC-I)}}.",
+    "explanation": "If your User Project is inside a VPC Service Controls (VPC-SC) perimeter, PSC-I allows secure ingress crossing the boundary.",
+    "usage": "Access configuration: <code>VPC-SC Boundaries -> PSC Interfaces for secure routing.</code>",
+    "spanish": "Para enrutar el tráfico del contenedor inquilino de Cloud Run a tu red de VPC privada de forma segura, se utilizan interfaces de Private Service Connect (PSC-I).",
+    "tags": [
+      "adk",
+      "networking",
+      "vpc_sc",
+      "psc"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Components: Tool Fallback 🛠️",
+    "text": "To prevent agent crashes when a primary API is offline, implement robust error handling inside the tool, and define a {{c1::fallback tool}} (like Google Search) to salvage the response.",
+    "explanation": "If a primary tool throws a ConnectionError, catching the error and invoking a fallback tool ensures the agent remains functional.",
+    "usage": "Code pattern: <code>try: call_primary() except: call_fallback()</code>",
+    "spanish": "Para evitar bloqueos del agente cuando una API principal está caída, implementa el manejo de errores e invoca una herramienta de respaldo (como Google Search).",
+    "tags": [
+      "adk",
+      "tools",
+      "error_handling"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Components: Standalone Auth 🔑",
+    "text": "Running standalone scripts that call ADK services requires configuring {{c1::Application Default Credentials (ADC)}} or setting the GOOGLE_APPLICATION_CREDENTIALS variable.",
+    "explanation": "If credentials are not explicitly passed or inherited, calls to memory banks or Vertex AI services will fail with Gaia ID not found errors.",
+    "usage": "Setup: <code>gcloud auth application-default login</code> or setting <code>os.environ['GOOGLE_APPLICATION_CREDENTIALS']</code>.",
+    "spanish": "La ejecución de scripts independientes que llaman a servicios de ADK requiere configurar las Credenciales Predeterminadas de la Aplicación (ADC) o la variable GOOGLE_APPLICATION_CREDENTIALS.",
+    "tags": [
+      "adk",
+      "auth",
+      "adc"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Components: Tool Confirmation 🔒",
+    "text": "In ADK v1.14+, to prevent tool execution from waiting for user confirmation on read-only tools in automated scripts, set {{c1::require_tool_confirmation=False}}.",
+    "explanation": "By default, ADK requires user confirmation for tool execution to prevent destructive actions, but this blocks automated background runtimes.",
+    "usage": "Agent config: <code>ReasoningEngineAgent(..., require_tool_confirmation=False)</code>",
+    "spanish": "En ADK v1.14+, para evitar que la ejecución de herramientas espere la confirmación del usuario para herramientas de lectura, establezca require_tool_confirmation=False.",
+    "tags": [
+      "adk",
+      "mcp",
+      "tools"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK GCS Storage: Path Resolution 🪣",
+    "text": "In ADK, `GcsArtifactService` saves user-scoped files under the path `gs://{bucket}/{app}/{user_id}/user/{file}` and session-scoped files under `gs://{bucket}/{app}/{user_id}/{{c1::session_id}}/{file}`.",
+    "explanation": "If app_name is omitted, it defaults to a random UUID locally, or GOOGLE_CLOUD_AGENT_ENGINE_ID when deployed, causing path drift.",
+    "usage": "Rule: <code>Anchor app_name inside AdkApp configuration to ensure stable GCS path resolution.</code>",
+    "spanish": "En ADK, GcsArtifactService guarda los archivos del usuario bajo la ruta con el ID del usuario, y los archivos de sesión bajo el ID de sesión.",
+    "tags": [
+      "adk",
+      "gcs",
+      "artifact_drift"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Security: Deployed SA IAM 🖼️",
+    "text": "To let a deployed agent read GCS images and execute model queries, you must grant the Agent Engine Service Account both {{c1::roles/storage.objectViewer}} and {{c2::roles/aiplatform.user}}.",
+    "explanation": "While your local environment uses your user credentials, the deployed container runs under the Agent Engine SA (service-PROJECT_NUMBER@gcp-sa-aiplatform-re.iam.gserviceaccount.com).",
+    "usage": "Command: <code>gcloud projects add-iam-policy-binding PROJECT_ID --member=\"serviceAccount:service-...@gcp-sa-aiplatform-re.iam.gserviceaccount.com\" --role=\"roles/...\"</code>",
+    "spanish": "Para permitir que un agente implementado lea imágenes de GCS y ejecute consultas, debe otorgar a la Cuenta de Servicio de Agent Engine los roles de storage.objectViewer y aiplatform.user.",
+    "tags": [
+      "adk",
+      "iam",
+      "permissions"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Security: Cross-Project Function Auth 🗺️",
+    "text": "For an agent in Project A to call a private Cloud Function in Project B, Project A's Agent Engine Service Account must be granted the {{c1::roles/cloudfunctions.invoker}} role in Project B.",
+    "explanation": "Cloud Functions in different projects require explicit IAM invoker permissions for the caller's service account identity.",
+    "usage": "Access control: <code>gcloud functions add-iam-policy-binding function-name --project=project-b --member=serviceAccount:agent-sa-project-a --role=roles/cloudfunctions.invoker</code>",
+    "spanish": "Para que un agente del Proyecto A llame a una Cloud Function privada en el Proyecto B, la cuenta de servicio de Agent Engine del Proyecto A debe tener el rol de invoker de Cloud Functions en el Proyecto B.",
+    "tags": [
+      "adk",
+      "iam",
+      "cross_project"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Models: Endpoint Mismatch 🗺️",
+    "text": "To call a global model from a regional Agent Engine instance and avoid endpoint routing errors, instantiate the model passing a custom client with global endpoint override to {{c1::api_client}}.",
+    "explanation": "A regional Agent Engine (e.g. us-central1) cannot natively route queries to global model names without an overridden API client.",
+    "usage": "Code: <code>global_client = genai.Client(http_options={'api_version': 'v1'}); model = GeminiModel(client=global_client)</code>",
+    "spanish": "Para llamar a un modelo global desde una instancia regional de Agent Engine y evitar errores, cree el cliente global e indíquele que lo use en api_client.",
+    "tags": [
+      "adk",
+      "models",
+      "endpoints"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Persistence: Session Memory 💾",
+    "text": "To prevent conversation history loss from stateless container restarts, register the {{c1::VertexAiMemoryBankService}} in your AdkApp configuration.",
+    "explanation": "Cloud Run instances are stateless and recycle periodically. Long-term session turn persistence requires a database-backed memory bank.",
+    "usage": "Code: <code>app = AdkApp(..., memory_service_builder=lambda: VertexAiMemoryBankService(...))</code>",
+    "spanish": "Para evitar la pérdida del historial de conversación por reinicios del contenedor, registre el VertexAiMemoryBankService en AdkApp.",
+    "tags": [
+      "adk",
+      "memory",
+      "session_persistence"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Multi-Agent: Shared Artifacts 🔗",
+    "text": "To avoid exhausting prompt token limits when passing large data between agents, write the data to the shared {{c1::GcsArtifactService}} and let the consumer load it via InvocationContext.",
+    "explanation": "Passing huge JSON files directly inside agent-to-agent (A2A) prompt strings consumes excessive tokens and increases cost.",
+    "usage": "Flow: <code>ctx.artifact_service.save_artifact(...) &rarr; Consumer loads via ctx.artifact_service.load_artifact(...)</code>",
+    "spanish": "Para evitar agotar el límite de tokens al pasar datos grandes entre agentes, escriba los datos en el GcsArtifactService compartido y deje que el consumidor los lea.",
+    "tags": [
+      "adk",
+      "multi_agent",
+      "artifacts"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Multi-Agent: Handoff Pattern 🤝",
+    "text": "To break a monolithic agent into a hierarchical network and improve tool selection, wrap sub-agents inside {{c1::AgentTool}} and register them as tools in the parent agent.",
+    "explanation": "A single agent with 20+ tools dilutes context and causes incorrect tool selection. Delegating to specialized sub-agents via AgentTool solves this.",
+    "usage": "Code: <code>shop_agent = BaseAgent(..., tools=[AgentTool(agent=research_agent)])</code>",
+    "spanish": "Para dividir un agente monolítico y mejorar la selección de herramientas, envuelva los subagentes dentro de AgentTool y regístrelos en el agente padre.",
+    "tags": [
+      "adk",
+      "multi_agent",
+      "agent_tool"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Components: Dynamic Prompting 🎨",
+    "text": "To update system instructions without rebuilding and redeploying the container, load the prompt dynamically from a {{c1::Firestore}} document during initialization.",
+    "explanation": "Hardcoding instructions inside the container forces a full deploy cycle for every prompt adjustment. Loading from Firestore enables hot updates.",
+    "usage": "Code: <code>instruction = firestore.Client().collection('prompts').document('agent').get().to_dict().get('prompt')</code>",
+    "spanish": "Para actualizar las instrucciones del sistema sin reconstruir el contenedor, cargue el prompt dinámicamente desde Firestore.",
+    "tags": [
+      "adk",
+      "firestore",
+      "dynamic_prompting"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Security: CMEK Coexistence 🔑",
+    "text": "To prevent CMEK UI errors like 'default assistant cannot be found', all DataStores within a single App/Engine must {{c1::share the exact same CMEK}} configuration.",
+    "explanation": "Mixed CMEK settings (some encrypted Datastores, some unencrypted) within one App will trigger database access and parsing crashes.",
+    "usage": "Rule: <code>Verify CMEK configuration from inception; you cannot retroactively mix Datastores.</code>",
+    "spanish": "Para evitar errores de CMEK donde no se encuentra el asistente, todos los DataStores dentro de una App deben compartir exactamente la misma configuración de CMEK.",
+    "tags": [
+      "adk",
+      "security",
+      "cmek"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Security: CMEK Key Restoration 🔑",
+    "text": "If a restored KMS key shows 'not ready for use' due to sync lag, the customer should {{c1::Disable and then Enable}} the key version in KMS to force a cache reset.",
+    "explanation": "Discovery Engine caches the key status in Spanner. Toggle-disabling/enabling the key version forces the internal monitoring pipeline to refresh.",
+    "usage": "Lag recovery: <code>Disable key version &rarr; wait 10 seconds &rarr; Enable key version (note: data reconstruction can take up to 10 hours)</code>",
+    "spanish": "Si una clave KMS restaurada se muestra como no lista para usar por retraso de sincronización, el cliente debe Deshabilitar y luego Habilitar la versión.",
+    "tags": [
+      "adk",
+      "security",
+      "cmek",
+      "key_issue"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Security: WIF Case Sensitivity 🪪",
+    "text": "Workforce Identity Federation (WIF) subject matching is strictly {{c1::case-sensitive}}; mismatched casings between IDP tokens (e.g. PascalCase) and Spanner ACL tags cause search blocks.",
+    "explanation": "If a user is authenticated as 'Aaron' but documents are tagged with 'aaron', the search engine blocks access. IDP rules must force lowercase.",
+    "usage": "Mitigation: <code>IDP transformation rule (.lower()) or Spanner migration to coerce all user identities to lowercase.</code>",
+    "spanish": "La coincidencia de sujetos en WIF es estrictamente sensible a mayúsculas y minúsculas; las discrepancias con las etiquetas de Spanner bloquean el acceso.",
+    "tags": [
+      "adk",
+      "wif",
+      "identity"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Prompts: Constraint Placement 🧠",
+    "text": "To protect against prompt injections and ensure the model respects negative constraints, place critical constraints in a block at the {{c1::absolute end}} of the system instructions.",
+    "explanation": "If negative constraints are diluted inside a long, early system instruction block, the model's attention is diverted by context.",
+    "usage": "Formatting: <code>Place constraint blocks like 'Never share financial data' at the absolute end of instructions.</code>",
+    "spanish": "Para protegerse contra inyecciones de prompt y garantizar que el modelo respete las restricciones, colóquelas al final absoluto.",
+    "tags": [
+      "adk",
+      "prompts",
+      "constraints"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
+    "scenario": "ADK Debugging: Circular Reasoning 🔌",
+    "text": "To mitigate circular reasoning loops when tools return empty data, configure a {{c1::max_turns}} limit in the runner or implement Loop Detection in tool parameters.",
+    "explanation": "If a tool returns empty data, the model might repeatedly call the same tool trying to find a result, causing an infinite loop.",
+    "usage": "Rule: <code>Set max_turns in configuration; track tool call history to break identical consecutive calls.</code>",
+    "spanish": "Para mitigar bucles de razonamiento circular cuando las herramientas devuelven datos vacíos, configure max_turns o implemente Loop Detection.",
+    "tags": [
+      "adk",
+      "debugging",
+      "loops"
+    ],
+    "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery"
+  },
+  {
     "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
     "scenario": "Agent Toolkits: Graph Orchestration 📊",
     "text": "For complex, cyclical workflows requiring strict reliability, {{c1::LangGraph}} structures agents as a state machine where {{c2::Nodes}} represent actions and {{c2::Edges}} represent transitions.",
@@ -11375,6 +11650,144 @@
     "tags": [
       "pronunciation_drill",
       "advanced_auxiliary_chunks"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Rhythm & Isocronía ⏳",
+    "text": "Unlike syllable-timed languages like Spanish, English is a {{c1::stress-timed language (isocronía)}}, meaning the duration between stressed syllables remains constant, while unstressed syllables are compressed.",
+    "explanation": "This means that 'CATS CHASE MICE' and 'The CATS have been CHASING the MICE' take roughly the same amount of time to say. Unstressed words like 'have been' or 'the' are squeezed into tiny fractions of a second, forcing reductions like the schwa.",
+    "usage": "Contrast: <code>CATS CHASE MICE</code> (~1.5s) vs. <code>The CATS have been CHASING the MICE</code> (~1.5s).",
+    "spanish": "A diferencia de los idiomas con ritmo silábico (como el español), el inglés es un idioma con ritmo acentual (isocronía), lo que significa que el tiempo entre sílabas acentuadas es constante y las sílabas átonas se comprimen.",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Regional Accent: General American (GenAm) 🇺🇸",
+    "text": "The General American (GenAm) accent is characterized by full rhoticity, extensive use of {{c1::Flap T and Flap D}} between vowels, and the dropping of /t/ after /n/ in unstressed syllables.",
+    "explanation": "Rhoticity means 'r' is pronounced everywhere it is written (e.g. 'car' /kɑːr/). Flapping turns intervocalic /t/ and /d/ into [ɾ], making 'latter' and 'ladder' homophones. Nasal T-deletion turns 'internet' to 'innernet'.",
+    "usage": "GenAm features: <code>internet</code> &rarr; 'innernet' | <code>better</code> &rarr; 'bed-er' | <code>water</code> &rarr; 'wa-der'.",
+    "spanish": "El acento americano general se caracteriza por su roticidad completa, el uso de la T y D suaves (flaps) entre vocales, y la caída de la T después de la N en sílabas átonas.",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Regional Accent: British RP & Cockney 🇬🇧",
+    "text": "The British RP and Cockney accents are non-rhotic and feature prominent {{c1::glottal stops [ʔ]}} in place of intervocalic or final /t/ (e.g. 'bottle' &rarr; 'bo'el'), along with intrusive /r/ linking.",
+    "explanation": "Non-rhotic means 'r' is silent unless followed by a vowel. Glottal stop [ʔ] replaces /t/ by closing the vocal folds briefly in the throat. Intrusive R bridges vowel-to-vowel gaps (e.g. 'law and order' &rarr; 'law-r-and-order').",
+    "usage": "British features: <code>bottle</code> &rarr; 'bo'el' | <code>law and order</code> &rarr; 'law-r-and-order' | <code>idea of it</code> &rarr; 'idea-r-of-it'.",
+    "spanish": "Los acentos británicos RP y Cockney no son róticos, presentan abundante oclusión glotal en lugar de la T intermedia o final, e insertan una R intrusiva de enlace.",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Regional Accent: Southern US & AAVE 🤠",
+    "text": "Southern US English and AAVE (African American Vernacular English) often feature {{c1::monophthongization}} of /aɪ/ (e.g. 'my' &rarr; 'mah'), G-dropping, and final consonant cluster reduction (e.g. 'cold' &rarr; 'cole').",
+    "explanation": "Monophthongization turns a two-part vowel glide (diphthong) into a single long vowel. Consonant cluster reduction drops the final stop consonant when sandwiched at the end of words.",
+    "usage": "Dialect examples: <code>my friend</code> &rarr; 'mah friend' | <code>cold night</code> &rarr; 'cole night' | <code>running</code> &rarr; 'runnin'' | <code>fixing to</code> &rarr; 'finna'.",
+    "spanish": "El inglés del sur de EE. UU. y el AAVE suelen presentar monoptongación (reducción de diptongos a una sola vocal larga, como 'my' &rarr; 'mah'), omisión de G final, y reducción de grupos consonánticos finales ('cold' &rarr; 'cole').",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Regional Accent: Australian English 🇦🇺",
+    "text": "Australian English is non-rhotic, features extensive Flap T usage, and is famous for a vowel shift where the diphthong /eɪ/ sounds closer to {{c1::/aɪ/ (like the 'i' in 'bite')}}.",
+    "explanation": "Australian vowels are shifted; for example, 'today' sounds similar to 'to-die' to American ears. It also relies heavily on colloquial abbreviations ending in '-ie' or '-o' (e.g. 'breakfast' &rarr; 'brekkie', 'service station' &rarr; 'servo').",
+    "usage": "Aussie features: <code>today</code> &rarr; 'to-die' | <code>breakfast</code> &rarr; 'brekkie' | <code>service station</code> &rarr; 'servo'.",
+    "spanish": "El inglés australiano no es rótico, usa flaps frecuentes y presenta un cambio vocálico donde el diptongo /eɪ/ se acerca a /aɪ/ ('today' suena similar a 'to-die'), además de abundantes abreviaciones coloquiales.",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Auditory Decoding Routine 🎧",
+    "text": "The daily 15-minute auditory decoding routine consists of: 5 mins of active phonetic transcription, 5 mins of {{c1::comparison with subtitles & identifying patterns}}, and 5 mins of shadowing (3x repetitions).",
+    "explanation": "This routine trains the brain to bridge the gap between spelling and native fast pronunciation. Regular transcription exercises target the 'Jungle Stage' of listening.",
+    "usage": "Daily Protocol: <ul><li>Min 0-5: Active transcription (write down what you hear phonetically)</li><li>Min 5-10: Analyze patterns (compare with actual subtitles)</li><li>Min 10-15: Shadowing (repeat 3x trying to mimic speed)</li></ul>",
+    "spanish": "La rutina diaria de 15 minutos para decodificación auditiva consiste en: 5 min de transcripción fonética activa, 5 min de cotejo e identificación de patrones, y 5 min de shadowing (repitiendo 3 veces).",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Cluster Elision 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>I must go to the last station. (Challenge: The next-door neighbor said it must be last night.)</b>\"<br>Connected speech pronunciation: {{c1::I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)}}",
+    "explanation": "Applied Rule: <b>Shadowing: Cluster Elision</b><br>Cluster Elision (Rule of 3 Consonants): When 3 consonants meet, the middle /t/ or /d/ is dropped.<br>🎥 Search: 'English with Martin Blacutt regla de 3 consonantes elision' on YouTube.<br>🔗 YouGlish search terms: <code>last night</code> / <code>next door</code>",
+    "usage": "Formal: <code>I must go to the last station. (Challenge: The next-door neighbor said it must be last night.)</code> &rarr; Connected: <code>I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)</code>",
+    "spanish": "Spanish: Lento: I must go to the last station. Conectado: I mus-go to the las-station. Reto: El vecino de al lado dijo que debió ser anoche.",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_cluster_elision"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Flap T / Flap D 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Put it in a bottle of water while riding the ladder. (Challenge: What a better city to get a job.)</b>\"<br>Connected speech pronunciation: {{c1::Pu-di-tin a bo-dle of wa-der while ri-ding the la-der. (Challenge: What a be-rer ci-dy to ge-da job.)}}",
+    "explanation": "Applied Rule: <b>Shadowing: Flap T / Flap D</b><br>Flap T & D (Intervocalic Flapping): Intervocalic /t/ and /d/ turn into soft flap [ɾ].<br>🎥 Search: 'Rachel's English - How to pronounce Flap T' on YouTube.<br>🔗 YouGlish search terms: <code>put it on</code> / <code>better water</code>",
+    "usage": "Formal: <code>Put it in a bottle of water while riding the ladder. (Challenge: What a better city to get a job.)</code> &rarr; Connected: <code>Pu-di-tin a bo-dle of wa-der while ri-ding the la-der. (Challenge: What a be-rer ci-dy to ge-da job.)</code>",
+    "spanish": "Spanish: Lento: Ponlo en una botella de agua mientras montas la escalera. Reto: Qué mejor ciudad para conseguir un trabajo.",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_flap_t_/_flap_d"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Yod Coalescence 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Don't you know what would you do if I asked you? (Challenge: Did you see what caught you off guard?)</b>\"<br>Connected speech pronunciation: {{c1::Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)}}",
+    "explanation": "Applied Rule: <b>Shadowing: Yod Coalescence</b><br>Yod Coalescence: Merging /t, d, s, z/ with palatal /j/ creates CH, DJ, SH, ZH.<br>🎥 Search: 'BBC Learning English - Tim's Pronunciation Workshop: Assimilation' on YouTube.<br>🔗 YouGlish search terms: <code>don't you</code> / <code>would you</code>",
+    "usage": "Formal: <code>Don't you know what would you do if I asked you? (Challenge: Did you see what caught you off guard?)</code> &rarr; Connected: <code>Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)</code>",
+    "spanish": "Spanish: Lento: ¿No sabes qué harías si te lo pidiera? Reto: ¿Viste qué te tomó por sorpresa?",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_yod_coalescence"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Dark L Vocalization 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>I feel that the milk in the bottle is cold.</b>\"<br>Connected speech pronunciation: {{c1::I feew that the miwk in the boddle is cowd.}}",
+    "explanation": "Applied Rule: <b>Shadowing: Dark L Vocalization</b><br>Dark L Vocalization: The back-of-the-mouth L [ɫ] vocalizes to [w] or [ʊ] before consonants or final pauses.<br>🎥 Search: 'Rachel's English Dark L sound' on YouTube.<br>🔗 YouGlish search terms: <code>feel cold</code> / <code>milk bottle</code>",
+    "usage": "Formal: <code>I feel that the milk in the bottle is cold.</code> &rarr; Connected: <code>I feew that the miwk in the boddle is cowd.</code>",
+    "spanish": "Spanish: Lento: Siento que la leche en la botella está fría. Conectado: I feew that the miwk in the boddle is cowd.",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_dark_l_vocalization"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Intrusive Glides 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Go out and do it because I am ready.</b>\"<br>Connected speech pronunciation: {{c1::Go-w-out and do-w-it because I-y-am ready.}}",
+    "explanation": "Applied Rule: <b>Shadowing: Intrusive Glides</b><br>Intrusive Glides: Inserting linking /w/ or /j/ ('y') to smooth out adjacent vowel clashes.<br>🎥 Search: 'Linking vowels with W and Y sound English' on YouTube.<br>🔗 YouGlish search terms: <code>go out</code> / <code>do it</code>",
+    "usage": "Formal: <code>Go out and do it because I am ready.</code> &rarr; Connected: <code>Go-w-out and do-w-it because I-y-am ready.</code>",
+    "spanish": "Spanish: Lento: Sal y hazlo porque estoy listo. Conectado: Go-w-out and do-w-it because I-y-am ready.",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_intrusive_glides"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Auxiliary Chunks 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>What did you do? Did you ever think it would have been easy? (Challenge: What do you mean how's it going?)</b>\"<br>Connected speech pronunciation: {{c1::Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)}}",
+    "explanation": "Applied Rule: <b>Shadowing: Auxiliary Chunks</b><br>Complex Auxiliary Contractions: Compression of auxiliary groups and questions.<br>🎥 Search: 'English reductions whadja jever whadaya' on YouTube.<br>🔗 YouGlish search terms: <code>what did you do</code> / <code>would have been</code>",
+    "usage": "Formal: <code>What did you do? Did you ever think it would have been easy? (Challenge: What do you mean how's it going?)</code> &rarr; Connected: <code>Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)</code>",
+    "spanish": "Spanish: Lento: ¿Qué hiciste? ¿Pensaste que habría sido fácil? Reto: ¿A qué te refieres con cómo te va?",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_auxiliary_chunks"
     ]
   },
   {

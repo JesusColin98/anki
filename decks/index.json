@@ -1,6 +1,6 @@
 {
-  "total_cards": 2006,
-  "total_decks": 117,
+  "total_cards": 2039,
+  "total_decks": 118,
   "decks": [
     {
       "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
@@ -21,6 +21,11 @@
       "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Infrastructure::05_Infrastructure_Science",
       "path": "decks/01_Cloud_and_Infrastructure/Systems_Engineering/Infrastructure/05_Infrastructure_Science.json",
       "cards_count": 5
+    },
+    {
+      "deck": "02_AI_and_Data_Science::Agentic_Systems::ADK_Mastery",
+      "path": "decks/02_AI_and_Data_Science/Agentic_Systems/ADK_Mastery.json",
+      "cards_count": 21
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Learning_Path::Agentic_Systems::Agent_Frameworks",
@@ -260,7 +265,7 @@
     {
       "deck": "03_Languages::English::Phonetics::Connected_Speech",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech.json",
-      "cards_count": 34
+      "cards_count": 46
     },
     {
       "deck": "03_Languages::English::Phonetics::General",

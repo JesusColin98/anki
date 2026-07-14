@@ -485,5 +485,143 @@
       "pronunciation_drill",
       "advanced_auxiliary_chunks"
     ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Rhythm & Isocronía ⏳",
+    "text": "Unlike syllable-timed languages like Spanish, English is a {{c1::stress-timed language (isocronía)}}, meaning the duration between stressed syllables remains constant, while unstressed syllables are compressed.",
+    "explanation": "This means that 'CATS CHASE MICE' and 'The CATS have been CHASING the MICE' take roughly the same amount of time to say. Unstressed words like 'have been' or 'the' are squeezed into tiny fractions of a second, forcing reductions like the schwa.",
+    "usage": "Contrast: <code>CATS CHASE MICE</code> (~1.5s) vs. <code>The CATS have been CHASING the MICE</code> (~1.5s).",
+    "spanish": "A diferencia de los idiomas con ritmo silábico (como el español), el inglés es un idioma con ritmo acentual (isocronía), lo que significa que el tiempo entre sílabas acentuadas es constante y las sílabas átonas se comprimen.",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Regional Accent: General American (GenAm) 🇺🇸",
+    "text": "The General American (GenAm) accent is characterized by full rhoticity, extensive use of {{c1::Flap T and Flap D}} between vowels, and the dropping of /t/ after /n/ in unstressed syllables.",
+    "explanation": "Rhoticity means 'r' is pronounced everywhere it is written (e.g. 'car' /kɑːr/). Flapping turns intervocalic /t/ and /d/ into [ɾ], making 'latter' and 'ladder' homophones. Nasal T-deletion turns 'internet' to 'innernet'.",
+    "usage": "GenAm features: <code>internet</code> &rarr; 'innernet' | <code>better</code> &rarr; 'bed-er' | <code>water</code> &rarr; 'wa-der'.",
+    "spanish": "El acento americano general se caracteriza por su roticidad completa, el uso de la T y D suaves (flaps) entre vocales, y la caída de la T después de la N en sílabas átonas.",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Regional Accent: British RP & Cockney 🇬🇧",
+    "text": "The British RP and Cockney accents are non-rhotic and feature prominent {{c1::glottal stops [ʔ]}} in place of intervocalic or final /t/ (e.g. 'bottle' &rarr; 'bo'el'), along with intrusive /r/ linking.",
+    "explanation": "Non-rhotic means 'r' is silent unless followed by a vowel. Glottal stop [ʔ] replaces /t/ by closing the vocal folds briefly in the throat. Intrusive R bridges vowel-to-vowel gaps (e.g. 'law and order' &rarr; 'law-r-and-order').",
+    "usage": "British features: <code>bottle</code> &rarr; 'bo'el' | <code>law and order</code> &rarr; 'law-r-and-order' | <code>idea of it</code> &rarr; 'idea-r-of-it'.",
+    "spanish": "Los acentos británicos RP y Cockney no son róticos, presentan abundante oclusión glotal en lugar de la T intermedia o final, e insertan una R intrusiva de enlace.",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Regional Accent: Southern US & AAVE 🤠",
+    "text": "Southern US English and AAVE (African American Vernacular English) often feature {{c1::monophthongization}} of /aɪ/ (e.g. 'my' &rarr; 'mah'), G-dropping, and final consonant cluster reduction (e.g. 'cold' &rarr; 'cole').",
+    "explanation": "Monophthongization turns a two-part vowel glide (diphthong) into a single long vowel. Consonant cluster reduction drops the final stop consonant when sandwiched at the end of words.",
+    "usage": "Dialect examples: <code>my friend</code> &rarr; 'mah friend' | <code>cold night</code> &rarr; 'cole night' | <code>running</code> &rarr; 'runnin'' | <code>fixing to</code> &rarr; 'finna'.",
+    "spanish": "El inglés del sur de EE. UU. y el AAVE suelen presentar monoptongación (reducción de diptongos a una sola vocal larga, como 'my' &rarr; 'mah'), omisión de G final, y reducción de grupos consonánticos finales ('cold' &rarr; 'cole').",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Regional Accent: Australian English 🇦🇺",
+    "text": "Australian English is non-rhotic, features extensive Flap T usage, and is famous for a vowel shift where the diphthong /eɪ/ sounds closer to {{c1::/aɪ/ (like the 'i' in 'bite')}}.",
+    "explanation": "Australian vowels are shifted; for example, 'today' sounds similar to 'to-die' to American ears. It also relies heavily on colloquial abbreviations ending in '-ie' or '-o' (e.g. 'breakfast' &rarr; 'brekkie', 'service station' &rarr; 'servo').",
+    "usage": "Aussie features: <code>today</code> &rarr; 'to-die' | <code>breakfast</code> &rarr; 'brekkie' | <code>service station</code> &rarr; 'servo'.",
+    "spanish": "El inglés australiano no es rótico, usa flaps frecuentes y presenta un cambio vocálico donde el diptongo /eɪ/ se acerca a /aɪ/ ('today' suena similar a 'to-die'), además de abundantes abreviaciones coloquiales.",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Auditory Decoding Routine 🎧",
+    "text": "The daily 15-minute auditory decoding routine consists of: 5 mins of active phonetic transcription, 5 mins of {{c1::comparison with subtitles & identifying patterns}}, and 5 mins of shadowing (3x repetitions).",
+    "explanation": "This routine trains the brain to bridge the gap between spelling and native fast pronunciation. Regular transcription exercises target the 'Jungle Stage' of listening.",
+    "usage": "Daily Protocol: <ul><li>Min 0-5: Active transcription (write down what you hear phonetically)</li><li>Min 5-10: Analyze patterns (compare with actual subtitles)</li><li>Min 10-15: Shadowing (repeat 3x trying to mimic speed)</li></ul>",
+    "spanish": "La rutina diaria de 15 minutos para decodificación auditiva consiste en: 5 min de transcripción fonética activa, 5 min de cotejo e identificación de patrones, y 5 min de shadowing (repitiendo 3 veces).",
+    "tags": [
+      "wozniak_t1_cloze"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Cluster Elision 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>I must go to the last station. (Challenge: The next-door neighbor said it must be last night.)</b>\"<br>Connected speech pronunciation: {{c1::I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)}}",
+    "explanation": "Applied Rule: <b>Shadowing: Cluster Elision</b><br>Cluster Elision (Rule of 3 Consonants): When 3 consonants meet, the middle /t/ or /d/ is dropped.<br>🎥 Search: 'English with Martin Blacutt regla de 3 consonantes elision' on YouTube.<br>🔗 YouGlish search terms: <code>last night</code> / <code>next door</code>",
+    "usage": "Formal: <code>I must go to the last station. (Challenge: The next-door neighbor said it must be last night.)</code> &rarr; Connected: <code>I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)</code>",
+    "spanish": "Spanish: Lento: I must go to the last station. Conectado: I mus-go to the las-station. Reto: El vecino de al lado dijo que debió ser anoche.",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_cluster_elision"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Flap T / Flap D 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Put it in a bottle of water while riding the ladder. (Challenge: What a better city to get a job.)</b>\"<br>Connected speech pronunciation: {{c1::Pu-di-tin a bo-dle of wa-der while ri-ding the la-der. (Challenge: What a be-rer ci-dy to ge-da job.)}}",
+    "explanation": "Applied Rule: <b>Shadowing: Flap T / Flap D</b><br>Flap T & D (Intervocalic Flapping): Intervocalic /t/ and /d/ turn into soft flap [ɾ].<br>🎥 Search: 'Rachel's English - How to pronounce Flap T' on YouTube.<br>🔗 YouGlish search terms: <code>put it on</code> / <code>better water</code>",
+    "usage": "Formal: <code>Put it in a bottle of water while riding the ladder. (Challenge: What a better city to get a job.)</code> &rarr; Connected: <code>Pu-di-tin a bo-dle of wa-der while ri-ding the la-der. (Challenge: What a be-rer ci-dy to ge-da job.)</code>",
+    "spanish": "Spanish: Lento: Ponlo en una botella de agua mientras montas la escalera. Reto: Qué mejor ciudad para conseguir un trabajo.",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_flap_t_/_flap_d"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Yod Coalescence 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Don't you know what would you do if I asked you? (Challenge: Did you see what caught you off guard?)</b>\"<br>Connected speech pronunciation: {{c1::Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)}}",
+    "explanation": "Applied Rule: <b>Shadowing: Yod Coalescence</b><br>Yod Coalescence: Merging /t, d, s, z/ with palatal /j/ creates CH, DJ, SH, ZH.<br>🎥 Search: 'BBC Learning English - Tim's Pronunciation Workshop: Assimilation' on YouTube.<br>🔗 YouGlish search terms: <code>don't you</code> / <code>would you</code>",
+    "usage": "Formal: <code>Don't you know what would you do if I asked you? (Challenge: Did you see what caught you off guard?)</code> &rarr; Connected: <code>Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)</code>",
+    "spanish": "Spanish: Lento: ¿No sabes qué harías si te lo pidiera? Reto: ¿Viste qué te tomó por sorpresa?",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_yod_coalescence"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Dark L Vocalization 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>I feel that the milk in the bottle is cold.</b>\"<br>Connected speech pronunciation: {{c1::I feew that the miwk in the boddle is cowd.}}",
+    "explanation": "Applied Rule: <b>Shadowing: Dark L Vocalization</b><br>Dark L Vocalization: The back-of-the-mouth L [ɫ] vocalizes to [w] or [ʊ] before consonants or final pauses.<br>🎥 Search: 'Rachel's English Dark L sound' on YouTube.<br>🔗 YouGlish search terms: <code>feel cold</code> / <code>milk bottle</code>",
+    "usage": "Formal: <code>I feel that the milk in the bottle is cold.</code> &rarr; Connected: <code>I feew that the miwk in the boddle is cowd.</code>",
+    "spanish": "Spanish: Lento: Siento que la leche en la botella está fría. Conectado: I feew that the miwk in the boddle is cowd.",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_dark_l_vocalization"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Intrusive Glides 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Go out and do it because I am ready.</b>\"<br>Connected speech pronunciation: {{c1::Go-w-out and do-w-it because I-y-am ready.}}",
+    "explanation": "Applied Rule: <b>Shadowing: Intrusive Glides</b><br>Intrusive Glides: Inserting linking /w/ or /j/ ('y') to smooth out adjacent vowel clashes.<br>🎥 Search: 'Linking vowels with W and Y sound English' on YouTube.<br>🔗 YouGlish search terms: <code>go out</code> / <code>do it</code>",
+    "usage": "Formal: <code>Go out and do it because I am ready.</code> &rarr; Connected: <code>Go-w-out and do-w-it because I-y-am ready.</code>",
+    "spanish": "Spanish: Lento: Sal y hazlo porque estoy listo. Conectado: Go-w-out and do-w-it because I-y-am ready.",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_intrusive_glides"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Shadowing: Auxiliary Chunks 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>What did you do? Did you ever think it would have been easy? (Challenge: What do you mean how's it going?)</b>\"<br>Connected speech pronunciation: {{c1::Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)}}",
+    "explanation": "Applied Rule: <b>Shadowing: Auxiliary Chunks</b><br>Complex Auxiliary Contractions: Compression of auxiliary groups and questions.<br>🎥 Search: 'English reductions whadja jever whadaya' on YouTube.<br>🔗 YouGlish search terms: <code>what did you do</code> / <code>would have been</code>",
+    "usage": "Formal: <code>What did you do? Did you ever think it would have been easy? (Challenge: What do you mean how's it going?)</code> &rarr; Connected: <code>Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)</code>",
+    "spanish": "Spanish: Lento: ¿Qué hiciste? ¿Pensaste que habría sido fácil? Reto: ¿A qué te refieres con cómo te va?",
+    "tags": [
+      "pronunciation_drill",
+      "shadowing:_auxiliary_chunks"
+    ]
   }
 ]
