@@ -1,0 +1,83 @@
+[
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership_Core::Coaching_Conversations",
+    "scenario": "Leadership 🎓: GROW Model",
+    "text": "The GROW coaching model stands for {{c1::Goal, Reality, Options, Will (or Way Forward)}} — a structured framework for coaching conversations.",
+    "explanation": "GROW (Whitmore, 1992) is the most widely used coaching framework in business. Goal: What do you want to achieve? Reality: Where are you now? What's happening? Options: What could you do? What are the possibilities? Will: What will you do? By when? The coach's role is to ask questions, not give answers — the coachee discovers their own solutions. This increases ownership and commitment to the agreed action.",
+    "usage": "<ul><li>G: 'What would you like to achieve by the end of this conversation?'</li><li>R: 'Where are things right now? What have you already tried?'</li><li>O: 'What are all the options available to you, even the unlikely ones?'</li><li>W: 'What are you going to do? By when? What might get in the way?'</li></ul>",
+    "spanish": "El modelo de coaching GROW: Goal (objetivo), Reality (realidad actual), Options (opciones disponibles), Will/Way Forward (qué harás y cuándo). El coach hace preguntas, no da respuestas — el coachee descubre sus propias soluciones.",
+    "tags": ["leadership", "coaching", "grow", "conversation", "soft_skills"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership_Core::Coaching_Conversations",
+    "scenario": "Leadership 🎓: Powerful Coaching Questions",
+    "text": "The single most powerful coaching question is: {{c1::\"What would you do if you knew you couldn't fail?\"}} or its variant: \"What do you know that you're not saying?\"",
+    "explanation": "Powerful coaching questions have 3 properties: (1) open-ended — cannot be answered with yes/no; (2) curious — seek understanding, not advice; (3) future-oriented — focused on possibility, not the past. Contrast: 'Why didn't you talk to your manager about this?' (blame-backward) vs. 'What would a direct conversation with your manager make possible?' (solution-forward). Silence after a powerful question is good — it means the coachee is thinking.",
+    "usage": "<ul><li>'What's most important to you about this situation?'</li><li>'What would success look like 6 months from now?'</li><li>'What's the 1% chance that this actually works out?'</li><li>'What would you advise a friend in your exact situation?'</li><li>'What haven't you tried yet?'</li><li>'What are you most afraid of — and what if that actually happened?'</li></ul>",
+    "spanish": "Las preguntas de coaching poderosas son: abiertas (no se responden con sí/no), curiosas (buscan comprensión, no consejo) y orientadas al futuro (enfocadas en posibilidades). El silencio después de una pregunta poderosa es una señal positiva.",
+    "tags": ["leadership", "coaching", "questions", "soft_skills", "grow"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership_Core::Coaching_Conversations",
+    "scenario": "Leadership 🎓: Coaching vs. Advising",
+    "text": "The key difference between coaching and advising is: coaching asks {{c1::'What do YOU think you should do?'}}, while advising says {{c1::'Here's what I think you should do.'}}",
+    "explanation": "Both have a place. Advising is appropriate when someone lacks knowledge or skill (apprentice stage). Coaching is appropriate when someone has the capability but lacks clarity, confidence, or commitment (practitioner stage). The most common manager mistake: advising when coaching would serve better — because advising is faster in the short term but builds dependency. Rule of thumb: before giving advice, ask 'What have you already considered?'",
+    "usage": "<ul><li>Team member: 'I don't know how to handle this conflict with my peer.'</li><li><b>Advisor:</b> 'Here's what you should say: first acknowledge their concern, then...'</li><li><b>Coach:</b> 'What have you tried so far? What do you think is underneath the conflict? What would a direct conversation sound like?'</li><li>Coaching builds lasting capability; advising builds short-term solutions.</li></ul>",
+    "spanish": "El coaching pregunta '¿Qué crees tú que deberías hacer?', mientras que el consejo dice 'Aquí está lo que creo que deberías hacer.' El error más común de los managers: aconsejar cuando el coaching serviría mejor. El coaching construye capacidad duradera; el consejo construye soluciones a corto plazo.",
+    "tags": ["leadership", "coaching", "advising", "soft_skills", "management"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership_Core::Difficult_Conversations",
+    "scenario": "Leadership 💬: SBI Feedback Framework",
+    "text": "The SBI framework structures feedback as: {{c1::Situation (when/where), Behavior (what you observed — no interpretation), Impact (the effect it had)}}.",
+    "explanation": "SBI (CCL — Center for Creative Leadership) eliminates the two biggest feedback failures: (1) generalization ('you're always late') and (2) mind-reading ('you clearly don't care'). Situation anchors the conversation to a specific event. Behavior describes observable actions, not character. Impact describes the real effect — which creates accountability without blame. End with a question, not an instruction: 'What are your thoughts?' invites dialogue.",
+    "usage": "<ul><li><b>Situation:</b> 'In yesterday's team meeting...'</li><li><b>Behavior:</b> '...you interrupted Sarah three times while she was presenting her analysis...'</li><li><b>Impact:</b> '...which led to her not finishing her point, and I noticed the team seemed disengaged after that.'</li><li><b>Question:</b> 'I'm curious — what was going on for you in that moment?'</li></ul>",
+    "spanish": "El marco SBI estructura la retroalimentación como: Situación (cuándo/dónde), Comportamiento (lo que observaste — sin interpretación), Impacto (el efecto que tuvo). Elimina las generalizaciones ('siempre llegas tarde') y la lectura de mentes ('claramente no te importa').",
+    "tags": ["leadership", "feedback", "sbi", "difficult_conversations", "management"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership_Core::Difficult_Conversations",
+    "scenario": "Leadership 💬: Managing Underperformance",
+    "text": "Before starting a performance improvement conversation, a manager must clarify: {{c1::Is this a skills gap (can't do it), a motivation gap (won't do it), or a systems/clarity gap (doesn't understand what's expected)?}}",
+    "explanation": "Each root cause requires a different intervention: Can't → coaching, training, resources. Won't → motivation exploration, consequences conversation, sometimes exit path. Doesn't know → clarity conversation, expectations reset, better check-ins. The most common mistake: treating a clarity gap as a motivation problem (putting someone on a PIP when they simply didn't understand what was expected). The first step is always to ask: 'Do they know exactly what's expected? Do they have everything they need to succeed?'",
+    "usage": "<ul><li>Skills gap: 'Let's set up weekly coaching sessions and pair you with someone who excels at this.'</li><li>Motivation gap: 'I want to understand what's getting in the way. Is there something about this role that isn't working for you?'</li><li>Clarity gap: 'Let me be more direct: the standard I'm expecting is X. Here's a concrete example of what that looks like.'</li></ul>",
+    "spanish": "Antes de iniciar una conversación de rendimiento, un manager debe aclarar: ¿Es una brecha de habilidades (no puede), de motivación (no quiere) o de claridad/sistemas (no entiende qué se espera)? Cada causa raíz requiere una intervención diferente.",
+    "tags": ["leadership", "performance_management", "underperformance", "management", "difficult_conversations"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Executive_Presence::Executive_Communication",
+    "scenario": "Executive Presence 🎤: The Rule of 3",
+    "text": "The Rule of 3 in executive communication means: {{c1::structure every message with exactly 3 key points, because the human brain retains triads better than any other grouping}}.",
+    "explanation": "Research from cognitive psychology (Miller's Law, Levin & Simons) shows that 3 is the minimum number of points that feels complete and the maximum that feels simple. Below 3 feels insufficient; above 3 feels like a list, which loses executive attention. Apply this to: presentations (3 recommendations), updates (3 headlines), emails (3 bullets), elevator pitches (3 messages). If you have more than 3 points, cluster them.",
+    "usage": "<ul><li>Instead of 7 agenda items: group into 'What happened, What we're doing, What we need.'</li><li>Instead of 5 recommendations: pick the 3 most critical, or cluster them: 'Here are 3 areas we need to act on: people, process, and technology.'</li><li>Jeff Bezos: 'There's no way to capture nuance in a bullet list. But three points land.'</li></ul>",
+    "spanish": "La Regla de 3 en comunicación ejecutiva: estructura cada mensaje con exactamente 3 puntos clave, porque el cerebro humano retiene las tríadas mejor que cualquier otra agrupación. Debajo de 3 se siente insuficiente; más de 3 pierde la atención ejecutiva.",
+    "tags": ["executive_presence", "communication", "leadership", "structure", "soft_skills"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Executive_Presence::Executive_Communication",
+    "scenario": "Executive Presence 🎤: Composure Under Pressure",
+    "text": "When challenged or attacked in a meeting, composure is maintained by {{c1::pausing 2-3 seconds before responding, naming the tension briefly, and redirecting to facts or shared goals}}.",
+    "explanation": "The 2-3 second pause is the single most powerful composure tool in high-stakes conversations. It signals confidence (you don't need to fill silence immediately), prevents reactive responses, and gives your brain time to shift from defensive to analytical mode. Naming the tension ('That's a fair challenge') validates the other party and reduces hostility. Redirecting to shared goals removes personal defensiveness.",
+    "usage": "<ul><li><b>Under attack:</b> [2-second pause] 'That's a fair challenge. Here's what the data shows.' [continue]</li><li><b>Unexpected question:</b> [pause] 'Good question. I want to make sure I give you an accurate answer — can I follow up on that by EOD?'</li><li><b>Hostile tone:</b> 'I hear the concern behind that. Let's focus on what we can do from here.'</li></ul>",
+    "spanish": "Cuando te desafían en una reunión, la compostura se mantiene haciendo una pausa de 2-3 segundos antes de responder, nombrando brevemente la tensión y redirigiendo a los hechos o metas compartidas. La pausa es la herramienta más poderosa en conversaciones de alto riesgo.",
+    "tags": ["executive_presence", "composure", "communication", "leadership", "soft_skills"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Ops_Leadership::Psychological_Safety",
+    "scenario": "Ops Leadership 🛡️: Psychological Safety — Edmondson Model",
+    "text": "Amy Edmondson defines psychological safety as {{c1::the belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes}}.",
+    "explanation": "Edmondson's 1999 Harvard research found that high-performing teams have HIGHER error reporting rates — not because they make more mistakes, but because they feel safe to report them. Google's Project Aristotle (2016) confirmed psychological safety as the #1 predictor of team performance, above talent or process. The opposite — a fear culture — produces concealment, which makes systems more fragile (incident non-reporting, near-miss suppression).",
+    "usage": "<ul><li>Team-building behaviors that increase PS: 'I made a mistake too. Here's what I learned.' (leader modeling vulnerability)</li><li>'There are no stupid questions in this team.' (explicit permission)</li><li>Avoid: punishing people for raising problems. Celebrate: 'I'm glad you flagged that early.'</li><li>Measure: Google's gTeams survey includes 5 items specifically measuring psychological safety.</li></ul>",
+    "spanish": "La seguridad psicológica (Edmondson): la creencia de que no serás castigado o humillado por hablar con ideas, preguntas, preocupaciones o errores. El #1 predictor del rendimiento del equipo según el Proyecto Aristotle de Google (2016).",
+    "tags": ["leadership", "psychological_safety", "team", "edmondson", "ops_leadership"]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Ops_Leadership::Retrospectives_and_Continuous_Improvement",
+    "scenario": "Ops Leadership 🔄: Effective Retrospective Format",
+    "text": "The standard agile retrospective structure is: {{c1::What went well? / What didn't go well? / What will we do differently next sprint?}} — with team voting on priority improvements.",
+    "explanation": "Retrospectives (from Agile/Scrum) fail when they produce lists of problems but no committed actions. The three questions ensure: balance (not just problems), reflection (not just blame), and forward momentum (committed change). Enhancement: use dot voting (each person gets 3 votes) on action items to surface team priorities democratically. Commit to maximum 2-3 improvements per sprint — focus beats volume.",
+    "usage": "<ul><li>Facilitation: 5 min individual sticky note writing → 5 min grouping → 10 min dot voting → 10 min action planning → owner + deadline per action.</li><li>Anti-pattern: having the same retrospective notes every sprint. Solution: open the previous retro's action items first — did we actually do them?</li><li>Remote: use Miro, FigJam, or Parabol for async participation.</li></ul>",
+    "spanish": "La estructura estándar de retrospectiva ágil: ¿Qué salió bien? / ¿Qué no salió bien? / ¿Qué haremos diferente en el próximo sprint? — con votación del equipo sobre mejoras prioritarias. Compromiso máximo de 2-3 mejoras por sprint.",
+    "tags": ["leadership", "retrospective", "agile", "continuous_improvement", "ops_leadership"]
+  }
+]
