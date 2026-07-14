@@ -24,7 +24,7 @@ def get_api_key() -> str:
     return ""
 
 GEMINI_API_KEY = get_api_key()
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent?key={GEMINI_API_KEY}"
 
 def generate_anki_cards_gemini(prompt_text: str, deck_name: str) -> List[Dict[str, Any]]:
     """Calls Gemini API to generate structured, high-quality Anki cards from input text."""
