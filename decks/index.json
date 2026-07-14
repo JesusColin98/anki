@@ -1,6 +1,6 @@
 {
-  "total_cards": 2347,
-  "total_decks": 178,
+  "total_cards": 2875,
+  "total_decks": 188,
   "decks": [
     {
       "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
@@ -70,6 +70,16 @@
     {
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::07_Multimodal_and_Embeddings::07_Multimodal_and_Embeddings",
       "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/07_Multimodal_and_Embeddings/07_Multimodal_and_Embeddings.json",
+      "cards_count": 8
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/08_Optimization_and_Inference/08_Optimization_and_Inference.json",
+      "cards_count": 8
+    },
+    {
+      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::09_Causal_and_Time_Series::09_Causal_and_Time_Series",
+      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/09_Causal_and_Time_Series/09_Causal_and_Time_Series.json",
       "cards_count": 8
     },
     {
@@ -473,59 +483,99 @@
       "cards_count": 5
     },
     {
-      "deck": "03_Languages::English::Phonetics::Connected_Speech_Patterns::00_Minimal_Pairs",
+      "deck": "03_Languages::English::Phonetics::CS_00_Minimal_Pairs",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/00_Minimal_Pairs.json",
       "cards_count": 3
     },
     {
-      "deck": "03_Languages::English::Phonetics::Connected_Speech_Patterns::01_Cluster_Elision",
+      "deck": "03_Languages::English::Phonetics::CS_01_Cluster_Elision",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/01_Cluster_Elision.json",
-      "cards_count": 3
+      "cards_count": 30
     },
     {
       "deck": "03_Languages::English::Phonetics::CS_02_Flap_T",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/02_Flap_T.json",
-      "cards_count": 6
+      "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics::Connected_Speech_Patterns::03_Glottal_Stop",
+      "deck": "03_Languages::English::Phonetics::CS_03_Glottal_Stop",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/03_Glottal_Stop.json",
-      "cards_count": 2
+      "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics::Connected_Speech_Patterns::04_Nasal_T_Deletion",
+      "deck": "03_Languages::English::Phonetics::CS_04_Nasal_T_Deletion",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/04_Nasal_T_Deletion.json",
-      "cards_count": 2
+      "cards_count": 30
     },
     {
       "deck": "03_Languages::English::Phonetics::CS_05_Yod_Coalescence",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/05_Yod_Coalescence.json",
-      "cards_count": 5
+      "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics::Connected_Speech_Patterns::06_Resyllabification",
+      "deck": "03_Languages::English::Phonetics::CS_06_Resyllabification",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/06_Resyllabification.json",
-      "cards_count": 2
+      "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics::Connected_Speech_Patterns::07_H_Dropping",
+      "deck": "03_Languages::English::Phonetics::CS_07_H_Dropping",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/07_H_Dropping.json",
-      "cards_count": 2
+      "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics::Connected_Speech_Patterns::08_Schwa_Reduction",
+      "deck": "03_Languages::English::Phonetics::CS_08_Schwa_Reduction",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/08_Schwa_Reduction.json",
-      "cards_count": 2
+      "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics::Connected_Speech_Patterns::09_Linking_R",
+      "deck": "03_Languages::English::Phonetics::CS_09_Linking_R",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/09_Linking_R.json",
-      "cards_count": 2
+      "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics::Connected_Speech_Patterns::10_Lexical_Chunks",
+      "deck": "03_Languages::English::Phonetics::CS_10_Lexical_Chunks",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/10_Lexical_Chunks.json",
-      "cards_count": 2
+      "cards_count": 30
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::CS_11_Dark_L",
+      "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/11_Dark_L.json",
+      "cards_count": 30
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::CS_12_Intrusive_Glides",
+      "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/12_Intrusive_Glides.json",
+      "cards_count": 30
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::CS_13_Unreleased_Stops",
+      "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/13_Unreleased_Stops.json",
+      "cards_count": 30
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::CS_14_Stress_Rhythm",
+      "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/14_Stress_Timed_Rhythm.json",
+      "cards_count": 30
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::CS_15_Flap_D",
+      "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/15_Flap_D.json",
+      "cards_count": 30
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::CS_16_Pre_Glottalization",
+      "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/16_Pre_Glottalization.json",
+      "cards_count": 30
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::CS_17_Auxiliary_Chunks",
+      "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/17_Auxiliary_Chunks.json",
+      "cards_count": 30
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::CS_18_Syllabic_Consonants",
+      "path": "decks/03_Languages/English/Phonetics/Connected_Speech_Patterns/18_Syllabic_Consonants.json",
+      "cards_count": 30
     },
     {
       "deck": "03_Languages::English::Phonetics::General",
