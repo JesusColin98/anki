@@ -1,6 +1,6 @@
 {
-  "total_cards": 2929,
-  "total_decks": 197,
+  "total_cards": 3939,
+  "total_decks": 202,
   "decks": [
     {
       "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
@@ -986,6 +986,31 @@
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::18_ML_System_Design_and_Platforms::18_ML_System_Design_and_Platforms",
       "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/18_ML_System_Design_and_Platforms/18_ML_System_Design_and_Platforms.json",
       "cards_count": 6
+    },
+    {
+      "deck": "03_Languages::English::Phonetics::Pronunciation_and_Listening_Advanced",
+      "path": "decks/03_Languages/English/Phonetics/Pronunciation_and_Listening_Advanced.json",
+      "cards_count": 10
+    },
+    {
+      "deck": "03_Languages::English::08_Real_Scenario_Expansion::01_Daily_Life",
+      "path": "decks/03_Languages/English/08_Real_Scenario_Expansion/01_Daily_Life/01_Daily_Life.json",
+      "cards_count": 250
+    },
+    {
+      "deck": "03_Languages::English::08_Real_Scenario_Expansion::02_Workplace",
+      "path": "decks/03_Languages/English/08_Real_Scenario_Expansion/02_Workplace/02_Workplace.json",
+      "cards_count": 250
+    },
+    {
+      "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
+      "path": "decks/03_Languages/English/08_Real_Scenario_Expansion/03_Travel_and_Public_Services/03_Travel_and_Public_Services.json",
+      "cards_count": 250
+    },
+    {
+      "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
+      "path": "decks/03_Languages/English/08_Real_Scenario_Expansion/04_Social_and_Community/04_Social_and_Community.json",
+      "cards_count": 250
     }
   ]
 }
