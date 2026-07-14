@@ -1,7 +1,7 @@
 [
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d like to talk about my {c1::experience}.",
+    "text": "Write a short response using: I’d like to talk about my {c1::{{c1::experience}}}.",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -18,7 +18,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: One of my biggest strengths is {c1::strengths}.",
+    "text": "Write a short response using: One of my biggest {{c1::strengths}} is {c1::strengths}.",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -35,7 +35,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’ve developed a lot of {c1::weaknesses} over the past few years.",
+    "text": "Write a short response using: I’ve developed a lot of {c1::{{c1::weaknesses}}} over the past few years.",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -52,7 +52,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: My main goal is to grow in {c1::career goals}.",
+    "text": "Write a short response using: My main goal is to grow in {c1::{{c1::career goals}}}.",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -69,7 +69,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m especially interested in {c1::leadership}.",
+    "text": "Write a short response using: I’m especially interested in {c1::{{c1::leadership}}}.",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -86,7 +86,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I believe my {c1::problem-solving} would be valuable here.",
+    "text": "Write a short response using: I believe my {c1::{{c1::problem}}-solving} would be valuable here.",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -103,7 +103,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: Could you tell me more about the {c1::teamwork} role?",
+    "text": "Write a short response using: Could you tell me more about the {c1::{{c1::teamwork}}} role?",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -120,7 +120,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d be happy to explain my {c1::communication} approach.",
+    "text": "Write a short response using: I’d be happy to explain my {c1::{{c1::communication}}} approach.",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -137,7 +137,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: What would success look like in terms of {c1::adaptability}?",
+    "text": "Write a short response using: What would success look like in terms of {c1::{{c1::adaptability}}}?",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -154,7 +154,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::initiative}.",
+    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::{{c1::initiative}}}.",
     "scenario": "05_Interviews_and_Careers: At a job interview · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -171,7 +171,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d like to talk about my {c1::strengths}.",
+    "text": "Write a short response using: I’d like to talk about my {c1::{{c1::strengths}}}.",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -188,7 +188,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: One of my biggest strengths is {c1::weaknesses}.",
+    "text": "Write a short response using: One of my biggest strengths is {c1::{{c1::weaknesses}}}.",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -205,7 +205,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’ve developed a lot of {c1::career goals} over the past few years.",
+    "text": "Write a short response using: I’ve developed a lot of {c1::{{c1::career goals}}} over the past few years.",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -222,7 +222,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: My main goal is to grow in {c1::leadership}.",
+    "text": "Write a short response using: My main goal is to grow in {c1::{{c1::leadership}}}.",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -239,7 +239,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m especially interested in {c1::problem-solving}.",
+    "text": "Write a short response using: I’m especially interested in {c1::{{c1::problem}}-solving}.",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -256,7 +256,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I believe my {c1::teamwork} would be valuable here.",
+    "text": "Write a short response using: I believe my {c1::{{c1::teamwork}}} would be valuable here.",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -273,7 +273,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: Could you tell me more about the {c1::communication} role?",
+    "text": "Write a short response using: Could you tell me more about the {c1::{{c1::communication}}} role?",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -290,7 +290,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d be happy to explain my {c1::adaptability} approach.",
+    "text": "Write a short response using: I’d be happy to explain my {c1::{{c1::adaptability}}} approach.",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -307,7 +307,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: What would success look like in terms of {c1::initiative}?",
+    "text": "Write a short response using: What would success look like in terms of {c1::{{c1::initiative}}}?",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -324,7 +324,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::results}.",
+    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::{{c1::results}}}.",
     "scenario": "05_Interviews_and_Careers: In a networking event · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -341,7 +341,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d like to talk about my {c1::weaknesses}.",
+    "text": "Write a short response using: I’d like to talk about my {c1::{{c1::weaknesses}}}.",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -358,7 +358,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: One of my biggest strengths is {c1::career goals}.",
+    "text": "Write a short response using: One of my biggest strengths is {c1::{{c1::career goals}}}.",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -375,7 +375,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’ve developed a lot of {c1::leadership} over the past few years.",
+    "text": "Write a short response using: I’ve developed a lot of {c1::{{c1::leadership}}} over the past few years.",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -392,7 +392,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: My main goal is to grow in {c1::problem-solving}.",
+    "text": "Write a short response using: My main goal is to grow in {c1::{{c1::problem}}-solving}.",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -409,7 +409,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m especially interested in {c1::teamwork}.",
+    "text": "Write a short response using: I’m especially interested in {c1::{{c1::teamwork}}}.",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -426,7 +426,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I believe my {c1::communication} would be valuable here.",
+    "text": "Write a short response using: I believe my {c1::{{c1::communication}}} would be valuable here.",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -443,7 +443,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: Could you tell me more about the {c1::adaptability} role?",
+    "text": "Write a short response using: Could you tell me more about the {c1::{{c1::adaptability}}} role?",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -460,7 +460,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d be happy to explain my {c1::initiative} approach.",
+    "text": "Write a short response using: I’d be happy to explain my {c1::{{c1::initiative}}} approach.",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -477,7 +477,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: What would success look like in terms of {c1::results}?",
+    "text": "Write a short response using: What would success look like in terms of {c1::{{c1::results}}}?",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -494,7 +494,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::impact}.",
+    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::{{c1::impact}}}.",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -511,7 +511,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d like to talk about my {c1::career goals}.",
+    "text": "Write a short response using: I’d like to talk about my {c1::{{c1::career goals}}}.",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -528,7 +528,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: One of my biggest strengths is {c1::leadership}.",
+    "text": "Write a short response using: One of my biggest strengths is {c1::{{c1::leadership}}}.",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -545,7 +545,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’ve developed a lot of {c1::problem-solving} over the past few years.",
+    "text": "Write a short response using: I’ve developed a lot of {c1::{{c1::problem}}-solving} over the past few years.",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -562,7 +562,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: My main goal is to grow in {c1::teamwork}.",
+    "text": "Write a short response using: My main goal is to grow in {c1::{{c1::teamwork}}}.",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -579,7 +579,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m especially interested in {c1::communication}.",
+    "text": "Write a short response using: I’m especially interested in {c1::{{c1::communication}}}.",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -596,7 +596,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I believe my {c1::adaptability} would be valuable here.",
+    "text": "Write a short response using: I believe my {c1::{{c1::adaptability}}} would be valuable here.",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -613,7 +613,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: Could you tell me more about the {c1::initiative} role?",
+    "text": "Write a short response using: Could you tell me more about the {c1::{{c1::initiative}}} role?",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -630,7 +630,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d be happy to explain my {c1::results} approach.",
+    "text": "Write a short response using: I’d be happy to explain my {c1::{{c1::results}}} approach.",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -647,7 +647,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: What would success look like in terms of {c1::impact}?",
+    "text": "Write a short response using: What would success look like in terms of {c1::{{c1::impact}}}?",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -664,7 +664,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::growth}.",
+    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::{{c1::growth}}}.",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -681,7 +681,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d like to talk about my {c1::leadership}.",
+    "text": "Write a short response using: I’d like to talk about my {c1::{{c1::leadership}}}.",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -698,7 +698,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: One of my biggest strengths is {c1::problem-solving}.",
+    "text": "Write a short response using: One of my biggest strengths is {c1::{{c1::problem}}-solving}.",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -715,7 +715,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’ve developed a lot of {c1::teamwork} over the past few years.",
+    "text": "Write a short response using: I’ve developed a lot of {c1::{{c1::teamwork}}} over the past few years.",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -732,7 +732,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: My main goal is to grow in {c1::communication}.",
+    "text": "Write a short response using: My main goal is to grow in {c1::{{c1::communication}}}.",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -749,7 +749,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m especially interested in {c1::adaptability}.",
+    "text": "Write a short response using: I’m especially interested in {c1::{{c1::adaptability}}}.",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -766,7 +766,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I believe my {c1::initiative} would be valuable here.",
+    "text": "Write a short response using: I believe my {c1::{{c1::initiative}}} would be valuable here.",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -783,7 +783,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: Could you tell me more about the {c1::results} role?",
+    "text": "Write a short response using: Could you tell me more about the {c1::{{c1::results}}} role?",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -800,7 +800,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d be happy to explain my {c1::impact} approach.",
+    "text": "Write a short response using: I’d be happy to explain my {c1::{{c1::impact}}} approach.",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -817,7 +817,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: What would success look like in terms of {c1::growth}?",
+    "text": "Write a short response using: What would success look like in terms of {c1::{{c1::growth}}}?",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -834,7 +834,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::learning}.",
+    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::{{c1::learning}}}.",
     "scenario": "05_Interviews_and_Careers: In a performance review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -851,7 +851,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d like to talk about my {c1::problem-solving}.",
+    "text": "Write a short response using: I’d like to talk about my {c1::{{c1::problem}}-solving}.",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -868,7 +868,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: One of my biggest strengths is {c1::teamwork}.",
+    "text": "Write a short response using: One of my biggest strengths is {c1::{{c1::teamwork}}}.",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -885,7 +885,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’ve developed a lot of {c1::communication} over the past few years.",
+    "text": "Write a short response using: I’ve developed a lot of {c1::{{c1::communication}}} over the past few years.",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -902,7 +902,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: My main goal is to grow in {c1::adaptability}.",
+    "text": "Write a short response using: My main goal is to grow in {c1::{{c1::adaptability}}}.",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -919,7 +919,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m especially interested in {c1::initiative}.",
+    "text": "Write a short response using: I’m especially interested in {c1::{{c1::initiative}}}.",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -936,7 +936,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I believe my {c1::results} would be valuable here.",
+    "text": "Write a short response using: I believe my {c1::{{c1::results}}} would be valuable here.",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -953,7 +953,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: Could you tell me more about the {c1::impact} role?",
+    "text": "Write a short response using: Could you tell me more about the {c1::{{c1::impact}}} role?",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -970,7 +970,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d be happy to explain my {c1::growth} approach.",
+    "text": "Write a short response using: I’d be happy to explain my {c1::{{c1::growth}}} approach.",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -987,7 +987,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: What would success look like in terms of {c1::learning}?",
+    "text": "Write a short response using: What would success look like in terms of {c1::{{c1::learning}}}?",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1004,7 +1004,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::focus}.",
+    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::{{c1::focus}}}.",
     "scenario": "05_Interviews_and_Careers: At a career fair · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1021,7 +1021,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d like to talk about my {c1::teamwork}.",
+    "text": "Write a short response using: I’d like to talk about my {c1::{{c1::teamwork}}}.",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1038,7 +1038,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: One of my biggest strengths is {c1::communication}.",
+    "text": "Write a short response using: One of my biggest strengths is {c1::{{c1::communication}}}.",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1055,7 +1055,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’ve developed a lot of {c1::adaptability} over the past few years.",
+    "text": "Write a short response using: I’ve developed a lot of {c1::{{c1::adaptability}}} over the past few years.",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1072,7 +1072,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: My main goal is to grow in {c1::initiative}.",
+    "text": "Write a short response using: My main goal is to grow in {c1::{{c1::initiative}}}.",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1089,7 +1089,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m especially interested in {c1::results}.",
+    "text": "Write a short response using: I’m especially interested in {c1::{{c1::results}}}.",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1106,7 +1106,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I believe my {c1::impact} would be valuable here.",
+    "text": "Write a short response using: I believe my {c1::{{c1::impact}}} would be valuable here.",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1123,7 +1123,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: Could you tell me more about the {c1::growth} role?",
+    "text": "Write a short response using: Could you tell me more about the {c1::{{c1::growth}}} role?",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1140,7 +1140,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d be happy to explain my {c1::learning} approach.",
+    "text": "Write a short response using: I’d be happy to explain my {c1::{{c1::learning}}} approach.",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1157,7 +1157,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: What would success look like in terms of {c1::focus}?",
+    "text": "Write a short response using: What would success look like in terms of {c1::{{c1::focus}}}?",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1174,7 +1174,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::skills}.",
+    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::{{c1::skills}}}.",
     "scenario": "05_Interviews_and_Careers: In a recruiter call · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1191,7 +1191,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d like to talk about my {c1::communication}.",
+    "text": "Write a short response using: I’d like to talk about my {c1::{{c1::communication}}}.",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1208,7 +1208,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: One of my biggest strengths is {c1::adaptability}.",
+    "text": "Write a short response using: One of my biggest strengths is {c1::{{c1::adaptability}}}.",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1225,7 +1225,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’ve developed a lot of {c1::initiative} over the past few years.",
+    "text": "Write a short response using: I’ve developed a lot of {c1::{{c1::initiative}}} over the past few years.",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1242,7 +1242,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: My main goal is to grow in {c1::results}.",
+    "text": "Write a short response using: My main goal is to grow in {c1::{{c1::results}}}.",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1259,7 +1259,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m especially interested in {c1::impact}.",
+    "text": "Write a short response using: I’m especially interested in {c1::{{c1::impact}}}.",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1276,7 +1276,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I believe my {c1::growth} would be valuable here.",
+    "text": "Write a short response using: I believe my {c1::{{c1::growth}}} would be valuable here.",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1293,7 +1293,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: Could you tell me more about the {c1::learning} role?",
+    "text": "Write a short response using: Could you tell me more about the {c1::{{c1::learning}}} role?",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1310,7 +1310,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’d be happy to explain my {c1::focus} approach.",
+    "text": "Write a short response using: I’d be happy to explain my {c1::{{c1::focus}}} approach.",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1327,7 +1327,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: What would success look like in terms of {c1::skills}?",
+    "text": "Write a short response using: What would success look like in terms of {c1::{{c1::skills}}}?",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",
@@ -1344,7 +1344,7 @@
   },
   {
     "deck": "03_Languages::English::Case_Variants::03_Writing",
-    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::motivation}.",
+    "text": "Write a short response using: I’m looking for an opportunity to expand my {c1::{{c1::motivation}}}.",
     "scenario": "05_Interviews_and_Careers: At a portfolio review · Writing",
     "explanation": "This is a writing reinforcement card derived from the same base scenario.",
     "usage": "Write 2–3 sentences that keep the same meaning and feel natural.",

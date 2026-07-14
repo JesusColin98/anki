@@ -2,7 +2,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. I’d like to talk about my {c1::experience}.",
+    "text": "Write a short response using the same idea. I’d like to talk about my {c1::{{c1::experience}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me gustaría hablar de mi experience.",
@@ -17,7 +17,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. One of my biggest strengths is {c1::strengths}.",
+    "text": "Write a short response using the same idea. One of my biggest {{c1::strengths}} is {c1::strengths}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Una de mis mayores fortalezas es strengths.",
@@ -32,7 +32,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. I’ve developed a lot of {c1::weaknesses} over the past few years.",
+    "text": "Write a short response using the same idea. I’ve developed a lot of {c1::{{c1::weaknesses}}} over the past few years.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. He desarrollado mucho weaknesses en los últimos años.",
@@ -47,7 +47,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. My main goal is to grow in {c1::career goals}.",
+    "text": "Write a short response using the same idea. My main goal is to grow in {c1::{{c1::career goals}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Mi objetivo principal es crecer en career goals.",
@@ -62,7 +62,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. I’m especially interested in {c1::leadership}.",
+    "text": "Write a short response using the same idea. I’m especially interested in {c1::{{c1::leadership}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me interesa especialmente leadership.",
@@ -77,7 +77,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. I believe my {c1::problem-solving} would be valuable here.",
+    "text": "Write a short response using the same idea. I believe my {c1::{{c1::problem}}-solving} would be valuable here.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Creo que mi problem-solving sería valioso aquí.",
@@ -92,7 +92,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. Could you tell me more about the {c1::teamwork} role?",
+    "text": "Write a short response using the same idea. Could you tell me more about the {c1::{{c1::teamwork}}} role?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías contarme más sobre el puesto de teamwork?",
@@ -107,7 +107,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. I’d be happy to explain my {c1::communication} approach.",
+    "text": "Write a short response using the same idea. I’d be happy to explain my {c1::{{c1::communication}}} approach.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me encantaría explicarte mi enfoque de communication.",
@@ -122,7 +122,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. What would success look like in terms of {c1::adaptability}?",
+    "text": "Write a short response using the same idea. What would success look like in terms of {c1::{{c1::adaptability}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Qué se vería como éxito en términos de adaptability?",
@@ -137,7 +137,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: At a job interview · writing",
-    "text": "Write a short response using the same idea. I’m looking for an opportunity to expand my {c1::initiative}.",
+    "text": "Write a short response using the same idea. I’m looking for an opportunity to expand my {c1::{{c1::initiative}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy buscando una oportunidad para ampliar mi initiative.",
@@ -152,7 +152,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. I’d like to talk about my {c1::strengths}.",
+    "text": "Write a short response using the same idea. I’d like to talk about my {c1::{{c1::strengths}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me gustaría hablar de mi strengths.",
@@ -167,7 +167,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. One of my biggest strengths is {c1::weaknesses}.",
+    "text": "Write a short response using the same idea. One of my biggest strengths is {c1::{{c1::weaknesses}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Una de mis mayores fortalezas es weaknesses.",
@@ -182,7 +182,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. I’ve developed a lot of {c1::career goals} over the past few years.",
+    "text": "Write a short response using the same idea. I’ve developed a lot of {c1::{{c1::career goals}}} over the past few years.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. He desarrollado mucho career goals en los últimos años.",
@@ -197,7 +197,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. My main goal is to grow in {c1::leadership}.",
+    "text": "Write a short response using the same idea. My main goal is to grow in {c1::{{c1::leadership}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Mi objetivo principal es crecer en leadership.",
@@ -212,7 +212,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. I’m especially interested in {c1::problem-solving}.",
+    "text": "Write a short response using the same idea. I’m especially interested in {c1::{{c1::problem}}-solving}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me interesa especialmente problem-solving.",
@@ -227,7 +227,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. I believe my {c1::teamwork} would be valuable here.",
+    "text": "Write a short response using the same idea. I believe my {c1::{{c1::teamwork}}} would be valuable here.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Creo que mi teamwork sería valioso aquí.",
@@ -242,7 +242,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. Could you tell me more about the {c1::communication} role?",
+    "text": "Write a short response using the same idea. Could you tell me more about the {c1::{{c1::communication}}} role?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías contarme más sobre el puesto de communication?",
@@ -257,7 +257,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. I’d be happy to explain my {c1::adaptability} approach.",
+    "text": "Write a short response using the same idea. I’d be happy to explain my {c1::{{c1::adaptability}}} approach.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me encantaría explicarte mi enfoque de adaptability.",
@@ -272,7 +272,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. What would success look like in terms of {c1::initiative}?",
+    "text": "Write a short response using the same idea. What would success look like in terms of {c1::{{c1::initiative}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Qué se vería como éxito en términos de initiative?",
@@ -287,7 +287,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "05_Interviews_and_Careers: In a networking event · writing",
-    "text": "Write a short response using the same idea. I’m looking for an opportunity to expand my {c1::results}.",
+    "text": "Write a short response using the same idea. I’m looking for an opportunity to expand my {c1::{{c1::results}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy buscando una oportunidad para ampliar mi results.",
@@ -302,7 +302,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. I’m calling about {c1::the order}.",
+    "text": "Write a short response using the same idea. I’m calling about {c1::{{c1::the order}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy llamando por the order.",
@@ -317,7 +317,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. Could you help me with {c1::the appointment}?",
+    "text": "Write a short response using the same idea. Could you help me with {c1::{{c1::the appointment}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías ayudarme con the appointment?",
@@ -332,7 +332,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. I’d like to check the status of {c1::the refund}.",
+    "text": "Write a short response using the same idea. I’d like to check the status of {c1::{{c1::the refund}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me gustaría comprobar el estado de the refund.",
@@ -347,7 +347,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. Can you confirm {c1::the account} for me?",
+    "text": "Write a short response using the same idea. Can you confirm {c1::{{c1::the account}}} for me?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Puedes confirmar the account por mí?",
@@ -362,7 +362,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. I need to speak to someone about {c1::the invoice}.",
+    "text": "Write a short response using the same idea. I need to speak to someone about {c1::{{c1::the invoice}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Necesito hablar con alguien sobre the invoice.",
@@ -377,7 +377,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. Could you put me through to the team handling {c1::the policy}?",
+    "text": "Write a short response using the same idea. Could you put me through to the team handling {c1::{{c1::the policy}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías pasarme al equipo que gestiona the policy?",
@@ -392,7 +392,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. I’m afraid there’s a problem with {c1::the schedule}.",
+    "text": "Write a short response using the same idea. I’m afraid there’s a problem with {c1::{{c1::the schedule}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me temo que hay un problema con the schedule.",
@@ -407,7 +407,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. Would it be possible to arrange {c1::the status}?",
+    "text": "Write a short response using the same idea. Would it be possible to arrange {c1::{{c1::the status}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Sería posible arreglar the status?",
@@ -422,7 +422,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. I’m trying to resolve {c1::the delivery} as quickly as possible.",
+    "text": "Write a short response using the same idea. I’m trying to resolve {c1::{{c1::the delivery}}} as quickly as possible.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy intentando resolver the delivery lo más rápido posible.",
@@ -437,7 +437,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support · writing",
-    "text": "Write a short response using the same idea. Can I get an update on {c1::the complaint}?",
+    "text": "Write a short response using the same idea. Can I get an update on {c1::{{c1::the complaint}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Puedo recibir una actualización sobre the complaint?",
@@ -452,7 +452,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. I’m calling about {c1::the appointment}.",
+    "text": "Write a short response using the same idea. I’m calling about {c1::{{c1::the appointment}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy llamando por the appointment.",
@@ -467,7 +467,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. Could you help me with {c1::the refund}?",
+    "text": "Write a short response using the same idea. Could you help me with {c1::{{c1::the refund}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías ayudarme con the refund?",
@@ -482,7 +482,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. I’d like to check the status of {c1::the account}.",
+    "text": "Write a short response using the same idea. I’d like to check the status of {c1::{{c1::the account}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me gustaría comprobar el estado de the account.",
@@ -497,7 +497,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. Can you confirm {c1::the invoice} for me?",
+    "text": "Write a short response using the same idea. Can you confirm {c1::{{c1::the invoice}}} for me?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Puedes confirmar the invoice por mí?",
@@ -512,7 +512,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. I need to speak to someone about {c1::the policy}.",
+    "text": "Write a short response using the same idea. I need to speak to someone about {c1::{{c1::the policy}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Necesito hablar con alguien sobre the policy.",
@@ -527,7 +527,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. Could you put me through to the team handling {c1::the schedule}?",
+    "text": "Write a short response using the same idea. Could you put me through to the team handling {c1::{{c1::the schedule}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías pasarme al equipo que gestiona the schedule?",
@@ -542,7 +542,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. I’m afraid there’s a problem with {c1::the status}.",
+    "text": "Write a short response using the same idea. I’m afraid there’s a problem with {c1::{{c1::the status}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Me temo que hay un problema con the status.",
@@ -557,7 +557,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. Would it be possible to arrange {c1::the delivery}?",
+    "text": "Write a short response using the same idea. Would it be possible to arrange {c1::{{c1::the delivery}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Sería posible arreglar the delivery?",
@@ -572,7 +572,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. I’m trying to resolve {c1::the complaint} as quickly as possible.",
+    "text": "Write a short response using the same idea. I’m trying to resolve {c1::{{c1::the complaint}}} as quickly as possible.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy intentando resolver the complaint lo más rápido posible.",
@@ -587,7 +587,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call · writing",
-    "text": "Write a short response using the same idea. Can I get an update on {c1::the issue}?",
+    "text": "Write a short response using the same idea. Can I get an update on {c1::{{c1::the issue}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Puedo recibir una actualización sobre the issue?",
@@ -602,7 +602,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. I’m having trouble with {c1::pain}.",
+    "text": "Write a short response using the same {{c1::idea}}. I’m having trouble with {c1::pain}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy teniendo problemas con pain.",
@@ -617,7 +617,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. I’ve been feeling {c1::symptoms} for the last few days.",
+    "text": "Write a short response using the same idea. I’ve been feeling {c1::{{c1::symptoms}}} for the last few days.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. He estado sintiendo symptoms durante los últimos días.",
@@ -632,7 +632,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. Could you explain the side effects of {c1::medication}?",
+    "text": "Write a short response using the same idea. Could you explain the side effects of {c1::{{c1::medication}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías explicar los efectos secundarios de medication?",
@@ -647,7 +647,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. I need to know more about {c1::allergies}.",
+    "text": "Write a short response using the same idea. I need to know more about {c1::{{c1::allergies}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Necesito saber más sobre allergies.",
@@ -662,7 +662,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. Is {c1::vaccination} serious?",
+    "text": "Write a short response using the same idea. Is {c1::{{c1::vaccination}}} serious?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Es vaccination serio?",
@@ -677,7 +677,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. Please call someone if {c1::treatment} gets worse.",
+    "text": "Write a short response using the same idea. Please call someone if {c1::{{c1::treatment}}} gets worse.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Por favor, llama a alguien si treatment empeora.",
@@ -692,7 +692,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. I need a prescription for {c1::tests}.",
+    "text": "Write a short response using the same idea. I need a prescription for {c1::{{c1::tests}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Necesito una receta para tests.",
@@ -707,7 +707,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. Can you tell me when I should take {c1::the diagnosis}?",
+    "text": "Write a short response using the same idea. Can you tell me when I should take {c1::{{c1::the diagnosis}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Puedes decirme cuándo debo tomar the diagnosis?",
@@ -722,7 +722,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. I’m concerned about {c1::the prescription}.",
+    "text": "Write a short response using the same idea. I’m concerned about {c1::{{c1::the prescription}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy preocupado/a por the prescription.",
@@ -737,7 +737,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the doctor’s office · writing",
-    "text": "Write a short response using the same idea. Could you help me with {c1::the appointment} right away?",
+    "text": "Write a short response using the same idea. Could you help me with {c1::{{c1::the appointment}}} right away?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías ayudarme con the appointment enseguida?",
@@ -752,7 +752,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. I’m having trouble with {c1::symptoms}.",
+    "text": "Write a short response using the same idea. I’m having trouble with {c1::{{c1::symptoms}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy teniendo problemas con symptoms.",
@@ -767,7 +767,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. I’ve been feeling {c1::medication} for the last few days.",
+    "text": "Write a short response using the same idea. I’ve been feeling {c1::{{c1::medication}}} for the last few days.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. He estado sintiendo medication durante los últimos días.",
@@ -782,7 +782,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. Could you explain the side effects of {c1::allergies}?",
+    "text": "Write a short response using the same idea. Could you explain the side effects of {c1::{{c1::allergies}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías explicar los efectos secundarios de allergies?",
@@ -797,7 +797,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. I need to know more about {c1::vaccination}.",
+    "text": "Write a short response using the same idea. I need to know more about {c1::{{c1::vaccination}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Necesito saber más sobre vaccination.",
@@ -812,7 +812,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. Is {c1::treatment} serious?",
+    "text": "Write a short response using the same idea. Is {c1::{{c1::treatment}}} serious?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Es treatment serio?",
@@ -827,7 +827,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. Please call someone if {c1::tests} gets worse.",
+    "text": "Write a short response using the same idea. Please call someone if {c1::{{c1::tests}}} gets worse.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Por favor, llama a alguien si tests empeora.",
@@ -842,7 +842,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. I need a prescription for {c1::the diagnosis}.",
+    "text": "Write a short response using the same idea. I need a prescription for {c1::{{c1::the diagnosis}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Necesito una receta para the diagnosis.",
@@ -857,7 +857,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. Can you tell me when I should take {c1::the prescription}?",
+    "text": "Write a short response using the same idea. Can you tell me when I should take {c1::{{c1::the prescription}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Puedes decirme cuándo debo tomar the prescription?",
@@ -872,7 +872,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. I’m concerned about {c1::the appointment}.",
+    "text": "Write a short response using the same idea. I’m concerned about {c1::{{c1::the appointment}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy preocupado/a por the appointment.",
@@ -887,7 +887,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "07_Health_and_Emergencies: At the emergency room · writing",
-    "text": "Write a short response using the same idea. Could you help me with {c1::the side effects} right away?",
+    "text": "Write a short response using the same idea. Could you help me with {c1::{{c1::the side effects}}} right away?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías ayudarme con the side effects enseguida?",
@@ -902,7 +902,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. I’m trying to understand {c1::the assignment}.",
+    "text": "Write a short response using the same idea. I’m trying to understand {c1::{{c1::the assignment}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy intentando entender the assignment.",
@@ -917,7 +917,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. Could you explain {c1::the deadline} one more time?",
+    "text": "Write a short response using the same idea. Could you explain {c1::{{c1::the deadline}}} one more time?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías explicar the deadline otra vez?",
@@ -932,7 +932,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. I’m not sure how to approach {c1::the reading}.",
+    "text": "Write a short response using the same idea. I’m not sure how to approach {c1::{{c1::the reading}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. No estoy seguro/a de cómo abordar the reading.",
@@ -947,7 +947,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. Would you mind helping me with {c1::the lecture}?",
+    "text": "Write a short response using the same idea. Would you mind helping me with {c1::{{c1::the lecture}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Te importaría ayudarme con the lecture?",
@@ -962,7 +962,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. I need a little more clarification on {c1::the topic}.",
+    "text": "Write a short response using the same idea. I need a little more clarification on {c1::{{c1::the topic}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Necesito un poco más de aclaración sobre the topic.",
@@ -977,7 +977,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. Can we discuss {c1::the rubric} after class?",
+    "text": "Write a short response using the same idea. Can we discuss {c1::{{c1::the rubric}}} after class?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podemos discutir the rubric después de clase?",
@@ -992,7 +992,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. I’m worried about {c1::the grade} and the deadline.",
+    "text": "Write a short response using the same idea. I’m worried about {c1::{{c1::the grade}}} and the deadline.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy preocupado/a por the grade y la fecha límite.",
@@ -1007,7 +1007,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. Do we need to submit {c1::the lab} this week?",
+    "text": "Write a short response using the same idea. Do we need to submit {c1::{{c1::the lab}}} this week?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Tenemos que entregar the lab esta semana?",
@@ -1022,7 +1022,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. I think I missed something about {c1::the thesis}.",
+    "text": "Write a short response using the same idea. I think I missed something about {c1::{{c1::the thesis}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Creo que he perdido algo sobre the thesis.",
@@ -1037,7 +1037,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: In a classroom · writing",
-    "text": "Write a short response using the same idea. Could you point me to the resources for {c1::the project}?",
+    "text": "Write a short response using the same idea. Could you point me to the resources for {c1::{{c1::the project}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías indicarme los recursos para the project?",
@@ -1052,7 +1052,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. I’m trying to understand {c1::the deadline}.",
+    "text": "Write a short response using the same idea. I’m trying to understand {c1::{{c1::the deadline}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy intentando entender the deadline.",
@@ -1067,7 +1067,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. Could you explain {c1::the reading} one more time?",
+    "text": "Write a short response using the same idea. Could you explain {c1::{{c1::the reading}}} one more time?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías explicar the reading otra vez?",
@@ -1082,7 +1082,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. I’m not sure how to approach {c1::the lecture}.",
+    "text": "Write a short response using the same idea. I’m not sure how to approach {c1::{{c1::the lecture}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. No estoy seguro/a de cómo abordar the lecture.",
@@ -1097,7 +1097,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. Would you mind helping me with {c1::the topic}?",
+    "text": "Write a short response using the same idea. Would you mind helping me with {c1::{{c1::the topic}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Te importaría ayudarme con the topic?",
@@ -1112,7 +1112,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. I need a little more clarification on {c1::the rubric}.",
+    "text": "Write a short response using the same idea. I need a little more clarification on {c1::{{c1::the rubric}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Necesito un poco más de aclaración sobre the rubric.",
@@ -1127,7 +1127,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. Can we discuss {c1::the grade} after class?",
+    "text": "Write a short response using the same idea. Can we discuss {c1::{{c1::the grade}}} after class?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podemos discutir the grade después de clase?",
@@ -1142,7 +1142,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. I’m worried about {c1::the lab} and the deadline.",
+    "text": "Write a short response using the same idea. I’m worried about {c1::{{c1::the lab}}} and the deadline.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Estoy preocupado/a por the lab y la fecha límite.",
@@ -1157,7 +1157,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. Do we need to submit {c1::the thesis} this week?",
+    "text": "Write a short response using the same idea. Do we need to submit {c1::{{c1::the thesis}}} this week?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Tenemos que entregar the thesis esta semana?",
@@ -1172,7 +1172,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. I think I missed something about {c1::the project}.",
+    "text": "Write a short response using the same idea. I think I missed something about {c1::{{c1::the project}}}.",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. Creo que he perdido algo sobre the project.",
@@ -1187,7 +1187,7 @@
   {
     "deck": "03_Languages::English::Variant_Pipeline::Writing",
     "scenario": "08_Education_and_Academic_Contexts: At a professor’s office · writing",
-    "text": "Write a short response using the same idea. Could you point me to the resources for {c1::the note}?",
+    "text": "Write a short response using the same idea. Could you point me to the resources for {c1::{{c1::the note}}}?",
     "explanation": "Reinforcement card for the same scenario using a writing exercise.",
     "usage": "Write a short response using the same idea.",
     "spanish": "Escribe una respuesta corta usando la misma idea. ¿Podrías indicarme los recursos para the note?",

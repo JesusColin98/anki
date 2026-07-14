@@ -2,7 +2,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "I’m calling about {c1::the order}.",
+    "text": "I’m calling about {c1::{{c1::the order}}}.",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "Estoy llamando por the order.",
@@ -15,7 +15,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "Could you help me with {c1::the appointment}?",
+    "text": "Could you help me with {c1::{{c1::the appointment}}}?",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "¿Podrías ayudarme con the appointment?",
@@ -28,7 +28,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "I’d like to check the status of {c1::the refund}.",
+    "text": "I’d like to check the status of {c1::{{c1::the refund}}}.",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "Me gustaría comprobar el estado de the refund.",
@@ -41,7 +41,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "Can you confirm {c1::the account} for me?",
+    "text": "Can you confirm {c1::{{c1::the account}}} for me?",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "¿Puedes confirmar the account por mí?",
@@ -54,7 +54,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "I need to speak to someone about {c1::the invoice}.",
+    "text": "I need to speak to someone about {c1::{{c1::the invoice}}}.",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "Necesito hablar con alguien sobre the invoice.",
@@ -67,7 +67,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "Could you put me through to the team handling {c1::the policy}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the policy}}}?",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the policy?",
@@ -80,7 +80,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "I’m afraid there’s a problem with {c1::the schedule}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the schedule}}}.",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "Me temo que hay un problema con the schedule.",
@@ -93,7 +93,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "Would it be possible to arrange {c1::the status}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the status}}}?",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "¿Sería posible arreglar the status?",
@@ -106,7 +106,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "I’m trying to resolve {c1::the delivery} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the delivery}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "Estoy intentando resolver the delivery lo más rápido posible.",
@@ -119,7 +119,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling customer support",
-    "text": "Can I get an update on {c1::the complaint}?",
+    "text": "Can I get an update on {c1::{{c1::the complaint}}}?",
     "explanation": "This is a practical phrase used in calling customer support to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling customer support.",
     "spanish": "¿Puedo recibir una actualización sobre the complaint?",
@@ -132,7 +132,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "I’m calling about {c1::the appointment}.",
+    "text": "I’m calling about {c1::{{c1::the appointment}}}.",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "Estoy llamando por the appointment.",
@@ -145,7 +145,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "Could you help me with {c1::the refund}?",
+    "text": "Could you help me with {c1::{{c1::the refund}}}?",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "¿Podrías ayudarme con the refund?",
@@ -158,7 +158,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "I’d like to check the status of {c1::the account}.",
+    "text": "I’d like to check the status of {c1::{{c1::the account}}}.",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "Me gustaría comprobar el estado de the account.",
@@ -171,7 +171,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "Can you confirm {c1::the invoice} for me?",
+    "text": "Can you confirm {c1::{{c1::the invoice}}} for me?",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "¿Puedes confirmar the invoice por mí?",
@@ -184,7 +184,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "I need to speak to someone about {c1::the policy}.",
+    "text": "I need to speak to someone about {c1::{{c1::the policy}}}.",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "Necesito hablar con alguien sobre the policy.",
@@ -197,7 +197,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "Could you put me through to the team handling {c1::the schedule}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the schedule}}}?",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the schedule?",
@@ -210,7 +210,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "I’m afraid there’s a problem with {c1::the status}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the status}}}.",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "Me temo que hay un problema con the status.",
@@ -223,7 +223,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "Would it be possible to arrange {c1::the delivery}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the delivery}}}?",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "¿Sería posible arreglar the delivery?",
@@ -236,7 +236,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "I’m trying to resolve {c1::the complaint} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the complaint}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "Estoy intentando resolver the complaint lo más rápido posible.",
@@ -249,7 +249,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Answering a phone call",
-    "text": "Can I get an update on {c1::the issue}?",
+    "text": "Can I get an update on {c1::{{c1::the issue}}}?",
     "explanation": "This is a practical phrase used in answering a phone call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in answering a phone call.",
     "spanish": "¿Puedo recibir una actualización sobre the issue?",
@@ -262,7 +262,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "I’m calling about {c1::the refund}.",
+    "text": "I’m calling about {c1::{{c1::the refund}}}.",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "Estoy llamando por the refund.",
@@ -275,7 +275,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "Could you help me with {c1::the account}?",
+    "text": "Could you help me with {c1::{{c1::the account}}}?",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "¿Podrías ayudarme con the account?",
@@ -288,7 +288,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "I’d like to check the status of {c1::the invoice}.",
+    "text": "I’d like to check the status of {c1::{{c1::the invoice}}}.",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "Me gustaría comprobar el estado de the invoice.",
@@ -301,7 +301,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "Can you confirm {c1::the policy} for me?",
+    "text": "Can you confirm {c1::{{c1::the policy}}} for me?",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "¿Puedes confirmar the policy por mí?",
@@ -314,7 +314,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "I need to speak to someone about {c1::the schedule}.",
+    "text": "I need to speak to someone about {c1::{{c1::the schedule}}}.",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "Necesito hablar con alguien sobre the schedule.",
@@ -327,7 +327,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "Could you put me through to the team handling {c1::the status}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the status}}}?",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the status?",
@@ -340,7 +340,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "I’m afraid there’s a problem with {c1::the delivery}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the delivery}}}.",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "Me temo que hay un problema con the delivery.",
@@ -353,7 +353,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "Would it be possible to arrange {c1::the complaint}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the complaint}}}?",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "¿Sería posible arreglar the complaint?",
@@ -366,7 +366,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "I’m trying to resolve {c1::the issue} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the issue}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "Estoy intentando resolver the issue lo más rápido posible.",
@@ -379,7 +379,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Booking an appointment",
-    "text": "Can I get an update on {c1::the balance}?",
+    "text": "Can I get an update on {c1::{{c1::the balance}}}?",
     "explanation": "This is a practical phrase used in booking an appointment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in booking an appointment.",
     "spanish": "¿Puedo recibir una actualización sobre the balance?",
@@ -392,7 +392,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "I’m calling about {c1::the account}.",
+    "text": "I’m calling about {c1::{{c1::the account}}}.",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "Estoy llamando por the account.",
@@ -405,7 +405,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "Could you help me with {c1::the invoice}?",
+    "text": "Could you help me with {c1::{{c1::the invoice}}}?",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "¿Podrías ayudarme con the invoice?",
@@ -418,7 +418,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "I’d like to check the status of {c1::the policy}.",
+    "text": "I’d like to check the status of {c1::{{c1::the policy}}}.",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "Me gustaría comprobar el estado de the policy.",
@@ -431,7 +431,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "Can you confirm {c1::the schedule} for me?",
+    "text": "Can you confirm {c1::{{c1::the schedule}}} for me?",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "¿Puedes confirmar the schedule por mí?",
@@ -444,7 +444,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "I need to speak to someone about {c1::the status}.",
+    "text": "I need to speak to someone about {c1::{{c1::the status}}}.",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "Necesito hablar con alguien sobre the status.",
@@ -457,7 +457,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "Could you put me through to the team handling {c1::the delivery}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the delivery}}}?",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the delivery?",
@@ -470,7 +470,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "I’m afraid there’s a problem with {c1::the complaint}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the complaint}}}.",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "Me temo que hay un problema con the complaint.",
@@ -483,7 +483,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "Would it be possible to arrange {c1::the issue}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the issue}}}?",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "¿Sería posible arreglar the issue?",
@@ -496,7 +496,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "I’m trying to resolve {c1::the balance} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the balance}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "Estoy intentando resolver the balance lo más rápido posible.",
@@ -509,7 +509,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Following up on an order",
-    "text": "Can I get an update on {c1::the plan}?",
+    "text": "Can I get an update on {c1::{{c1::the plan}}}?",
     "explanation": "This is a practical phrase used in following up on an order to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in following up on an order.",
     "spanish": "¿Puedo recibir una actualización sobre the plan?",
@@ -522,7 +522,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "I’m calling about {c1::the invoice}.",
+    "text": "I’m calling about {c1::{{c1::the invoice}}}.",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "Estoy llamando por the invoice.",
@@ -535,7 +535,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "Could you help me with {c1::the policy}?",
+    "text": "Could you help me with {c1::{{c1::the policy}}}?",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "¿Podrías ayudarme con the policy?",
@@ -548,7 +548,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "I’d like to check the status of {c1::the schedule}.",
+    "text": "I’d like to check the status of {c1::{{c1::the schedule}}}.",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "Me gustaría comprobar el estado de the schedule.",
@@ -561,7 +561,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "Can you confirm {c1::the status} for me?",
+    "text": "Can you confirm {c1::{{c1::the status}}} for me?",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "¿Puedes confirmar the status por mí?",
@@ -574,7 +574,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "I need to speak to someone about {c1::the delivery}.",
+    "text": "I need to speak to someone about {c1::{{c1::the delivery}}}.",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "Necesito hablar con alguien sobre the delivery.",
@@ -587,7 +587,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "Could you put me through to the team handling {c1::the complaint}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the complaint}}}?",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the complaint?",
@@ -600,7 +600,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "I’m afraid there’s a problem with {c1::the issue}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the issue}}}.",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "Me temo que hay un problema con the issue.",
@@ -613,7 +613,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "Would it be possible to arrange {c1::the balance}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the balance}}}?",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "¿Sería posible arreglar the balance?",
@@ -626,7 +626,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "I’m trying to resolve {c1::the plan} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the plan}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "Estoy intentando resolver the plan lo más rápido posible.",
@@ -639,7 +639,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Handling a complaint",
-    "text": "Can I get an update on {c1::the contract}?",
+    "text": "Can I get an update on {c1::{{c1::the contract}}}?",
     "explanation": "This is a practical phrase used in handling a complaint to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in handling a complaint.",
     "spanish": "¿Puedo recibir una actualización sobre the contract?",
@@ -652,7 +652,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "I’m calling about {c1::the policy}.",
+    "text": "I’m calling about {c1::{{c1::the policy}}}.",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "Estoy llamando por the policy.",
@@ -665,7 +665,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "Could you help me with {c1::the schedule}?",
+    "text": "Could you help me with {c1::{{c1::the schedule}}}?",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "¿Podrías ayudarme con the schedule?",
@@ -678,7 +678,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "I’d like to check the status of {c1::the status}.",
+    "text": "I’d like to check {{c1::the status}} of {c1::the status}.",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "Me gustaría comprobar el estado de the status.",
@@ -691,7 +691,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "Can you confirm {c1::the delivery} for me?",
+    "text": "Can you confirm {c1::{{c1::the delivery}}} for me?",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "¿Puedes confirmar the delivery por mí?",
@@ -704,7 +704,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "I need to speak to someone about {c1::the complaint}.",
+    "text": "I need to speak to someone about {c1::{{c1::the complaint}}}.",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "Necesito hablar con alguien sobre the complaint.",
@@ -717,7 +717,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "Could you put me through to the team handling {c1::the issue}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the issue}}}?",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the issue?",
@@ -730,7 +730,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "I’m afraid there’s a problem with {c1::the balance}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the balance}}}.",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "Me temo que hay un problema con the balance.",
@@ -743,7 +743,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "Would it be possible to arrange {c1::the plan}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the plan}}}?",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "¿Sería posible arreglar the plan?",
@@ -756,7 +756,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "I’m trying to resolve {c1::the contract} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the contract}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "Estoy intentando resolver the contract lo más rápido posible.",
@@ -769,7 +769,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Returning a missed call",
-    "text": "Can I get an update on {c1::the replacement}?",
+    "text": "Can I get an update on {c1::{{c1::the replacement}}}?",
     "explanation": "This is a practical phrase used in returning a missed call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in returning a missed call.",
     "spanish": "¿Puedo recibir una actualización sobre the replacement?",
@@ -782,7 +782,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "I’m calling about {c1::the schedule}.",
+    "text": "I’m calling about {c1::{{c1::the schedule}}}.",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "Estoy llamando por the schedule.",
@@ -795,7 +795,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "Could you help me with {c1::the status}?",
+    "text": "Could you help me with {c1::{{c1::the status}}}?",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "¿Podrías ayudarme con the status?",
@@ -808,7 +808,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "I’d like to check the status of {c1::the delivery}.",
+    "text": "I’d like to check the status of {c1::{{c1::the delivery}}}.",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "Me gustaría comprobar el estado de the delivery.",
@@ -821,7 +821,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "Can you confirm {c1::the complaint} for me?",
+    "text": "Can you confirm {c1::{{c1::the complaint}}} for me?",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "¿Puedes confirmar the complaint por mí?",
@@ -834,7 +834,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "I need to speak to someone about {c1::the issue}.",
+    "text": "I need to speak to someone about {c1::{{c1::the issue}}}.",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "Necesito hablar con alguien sobre the issue.",
@@ -847,7 +847,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "Could you put me through to the team handling {c1::the balance}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the balance}}}?",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the balance?",
@@ -860,7 +860,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "I’m afraid there’s a problem with {c1::the plan}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the plan}}}.",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "Me temo que hay un problema con the plan.",
@@ -873,7 +873,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "Would it be possible to arrange {c1::the contract}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the contract}}}?",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "¿Sería posible arreglar the contract?",
@@ -886,7 +886,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "I’m trying to resolve {c1::the replacement} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the replacement}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "Estoy intentando resolver the replacement lo más rápido posible.",
@@ -899,7 +899,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a hotline",
-    "text": "Can I get an update on {c1::the callback}?",
+    "text": "Can I get an update on {c1::{{c1::the callback}}}?",
     "explanation": "This is a practical phrase used in talking to a hotline to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a hotline.",
     "spanish": "¿Puedo recibir una actualización sobre the callback?",
@@ -912,7 +912,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "I’m calling about {c1::the status}.",
+    "text": "I’m calling about {c1::{{c1::the status}}}.",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "Estoy llamando por the status.",
@@ -925,7 +925,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "Could you help me with {c1::the delivery}?",
+    "text": "Could you help me with {c1::{{c1::the delivery}}}?",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "¿Podrías ayudarme con the delivery?",
@@ -938,7 +938,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "I’d like to check the status of {c1::the complaint}.",
+    "text": "I’d like to check the status of {c1::{{c1::the complaint}}}.",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "Me gustaría comprobar el estado de the complaint.",
@@ -951,7 +951,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "Can you confirm {c1::the issue} for me?",
+    "text": "Can you confirm {c1::{{c1::the issue}}} for me?",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "¿Puedes confirmar the issue por mí?",
@@ -964,7 +964,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "I need to speak to someone about {c1::the balance}.",
+    "text": "I need to speak to someone about {c1::{{c1::the balance}}}.",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "Necesito hablar con alguien sobre the balance.",
@@ -977,7 +977,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "Could you put me through to the team handling {c1::the plan}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the plan}}}?",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the plan?",
@@ -990,7 +990,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "I’m afraid there’s a problem with {c1::the contract}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the contract}}}.",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "Me temo que hay un problema con the contract.",
@@ -1003,7 +1003,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "Would it be possible to arrange {c1::the replacement}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the replacement}}}?",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "¿Sería posible arreglar the replacement?",
@@ -1016,7 +1016,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "I’m trying to resolve {c1::the callback} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the callback}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "Estoy intentando resolver the callback lo más rápido posible.",
@@ -1029,7 +1029,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a billing team",
-    "text": "Can I get an update on {c1::the reservation}?",
+    "text": "Can I get an update on {c1::{{c1::the reservation}}}?",
     "explanation": "This is a practical phrase used in speaking to a billing team to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a billing team.",
     "spanish": "¿Puedo recibir una actualización sobre the reservation?",
@@ -1042,7 +1042,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "I’m calling about {c1::the delivery}.",
+    "text": "I’m calling about {c1::{{c1::the delivery}}}.",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "Estoy llamando por the delivery.",
@@ -1055,7 +1055,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "Could you help me with {c1::the complaint}?",
+    "text": "Could you help me with {c1::{{c1::the complaint}}}?",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "¿Podrías ayudarme con the complaint?",
@@ -1068,7 +1068,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "I’d like to check the status of {c1::the issue}.",
+    "text": "I’d like to check the status of {c1::{{c1::the issue}}}.",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "Me gustaría comprobar el estado de the issue.",
@@ -1081,7 +1081,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "Can you confirm {c1::the balance} for me?",
+    "text": "Can you confirm {c1::{{c1::the balance}}} for me?",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "¿Puedes confirmar the balance por mí?",
@@ -1094,7 +1094,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "I need to speak to someone about {c1::the plan}.",
+    "text": "I need to speak to someone about {c1::{{c1::the plan}}}.",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "Necesito hablar con alguien sobre the plan.",
@@ -1107,7 +1107,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "Could you put me through to the team handling {c1::the contract}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the contract}}}?",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the contract?",
@@ -1120,7 +1120,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "I’m afraid there’s a problem with {c1::the replacement}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the replacement}}}.",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "Me temo que hay un problema con the replacement.",
@@ -1133,7 +1133,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "Would it be possible to arrange {c1::the callback}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the callback}}}?",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "¿Sería posible arreglar the callback?",
@@ -1146,7 +1146,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "I’m trying to resolve {c1::the reservation} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the reservation}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "Estoy intentando resolver the reservation lo más rápido posible.",
@@ -1159,7 +1159,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a travel agency",
-    "text": "Can I get an update on {c1::the billing}?",
+    "text": "Can I get an update on {c1::{{c1::the billing}}}?",
     "explanation": "This is a practical phrase used in calling a travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a travel agency.",
     "spanish": "¿Puedo recibir una actualización sobre the billing?",
@@ -1172,7 +1172,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "I’m calling about {c1::the complaint}.",
+    "text": "I’m calling about {c1::{{c1::the complaint}}}.",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "Estoy llamando por the complaint.",
@@ -1185,7 +1185,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "Could you help me with {c1::the issue}?",
+    "text": "Could you help me with {c1::{{c1::the issue}}}?",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "¿Podrías ayudarme con the issue?",
@@ -1198,7 +1198,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "I’d like to check the status of {c1::the balance}.",
+    "text": "I’d like to check the status of {c1::{{c1::the balance}}}.",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "Me gustaría comprobar el estado de the balance.",
@@ -1211,7 +1211,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "Can you confirm {c1::the plan} for me?",
+    "text": "Can you confirm {c1::{{c1::the plan}}} for me?",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "¿Puedes confirmar the plan por mí?",
@@ -1224,7 +1224,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "I need to speak to someone about {c1::the contract}.",
+    "text": "I need to speak to someone about {c1::{{c1::the contract}}}.",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "Necesito hablar con alguien sobre the contract.",
@@ -1237,7 +1237,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "Could you put me through to the team handling {c1::the replacement}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the replacement}}}?",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the replacement?",
@@ -1250,7 +1250,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "I’m afraid there’s a problem with {c1::the callback}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the callback}}}.",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "Me temo que hay un problema con the callback.",
@@ -1263,7 +1263,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "Would it be possible to arrange {c1::the reservation}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the reservation}}}?",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "¿Sería posible arreglar the reservation?",
@@ -1276,7 +1276,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "I’m trying to resolve {c1::the billing} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the billing}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "Estoy intentando resolver the billing lo más rápido posible.",
@@ -1289,7 +1289,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a doctor’s office",
-    "text": "Can I get an update on {c1::the subscription}?",
+    "text": "Can I get an update on {c1::{{c1::the subscription}}}?",
     "explanation": "This is a practical phrase used in calling a doctor’s office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a doctor’s office.",
     "spanish": "¿Puedo recibir una actualización sobre the subscription?",
@@ -1302,7 +1302,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "I’m calling about {c1::the issue}.",
+    "text": "I’m calling about {c1::{{c1::the issue}}}.",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "Estoy llamando por the issue.",
@@ -1315,7 +1315,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "Could you help me with {c1::the balance}?",
+    "text": "Could you help me with {c1::{{c1::the balance}}}?",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "¿Podrías ayudarme con the balance?",
@@ -1328,7 +1328,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "I’d like to check the status of {c1::the plan}.",
+    "text": "I’d like to check the status of {c1::{{c1::the plan}}}.",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "Me gustaría comprobar el estado de the plan.",
@@ -1341,7 +1341,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "Can you confirm {c1::the contract} for me?",
+    "text": "Can you confirm {c1::{{c1::the contract}}} for me?",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "¿Puedes confirmar the contract por mí?",
@@ -1354,7 +1354,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "I need to speak to someone about {c1::the replacement}.",
+    "text": "I need to speak to someone about {c1::{{c1::the replacement}}}.",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "Necesito hablar con alguien sobre the replacement.",
@@ -1367,7 +1367,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "Could you put me through to the team handling {c1::the callback}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the callback}}}?",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the callback?",
@@ -1380,7 +1380,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "I’m afraid there’s a problem with {c1::the reservation}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the reservation}}}.",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "Me temo que hay un problema con the reservation.",
@@ -1393,7 +1393,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "Would it be possible to arrange {c1::the billing}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the billing}}}?",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "¿Sería posible arreglar the billing?",
@@ -1406,7 +1406,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "I’m trying to resolve {c1::the subscription} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the subscription}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "Estoy intentando resolver the subscription lo más rápido posible.",
@@ -1419,7 +1419,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a landlord",
-    "text": "Can I get an update on {c1::the service}?",
+    "text": "Can I get an update on {c1::{{c1::the service}}}?",
     "explanation": "This is a practical phrase used in speaking to a landlord to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a landlord.",
     "spanish": "¿Puedo recibir una actualización sobre the service?",
@@ -1432,7 +1432,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "I’m calling about {c1::the balance}.",
+    "text": "I’m calling about {c1::{{c1::the balance}}}.",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "Estoy llamando por the balance.",
@@ -1445,7 +1445,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "Could you help me with {c1::the plan}?",
+    "text": "Could you help me with {c1::{{c1::the plan}}}?",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "¿Podrías ayudarme con the plan?",
@@ -1458,7 +1458,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "I’d like to check the status of {c1::the contract}.",
+    "text": "I’d like to check the status of {c1::{{c1::the contract}}}.",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "Me gustaría comprobar el estado de the contract.",
@@ -1471,7 +1471,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "Can you confirm {c1::the replacement} for me?",
+    "text": "Can you confirm {c1::{{c1::the replacement}}} for me?",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "¿Puedes confirmar the replacement por mí?",
@@ -1484,7 +1484,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "I need to speak to someone about {c1::the callback}.",
+    "text": "I need to speak to someone about {c1::{{c1::the callback}}}.",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "Necesito hablar con alguien sobre the callback.",
@@ -1497,7 +1497,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "Could you put me through to the team handling {c1::the reservation}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the reservation}}}?",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the reservation?",
@@ -1510,7 +1510,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "I’m afraid there’s a problem with {c1::the billing}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the billing}}}.",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "Me temo que hay un problema con the billing.",
@@ -1523,7 +1523,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "Would it be possible to arrange {c1::the subscription}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the subscription}}}?",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "¿Sería posible arreglar the subscription?",
@@ -1536,7 +1536,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "I’m trying to resolve {c1::the service} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the service}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "Estoy intentando resolver the service lo más rápido posible.",
@@ -1549,7 +1549,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Talking to a supplier",
-    "text": "Can I get an update on {c1::the payment}?",
+    "text": "Can I get an update on {c1::{{c1::the payment}}}?",
     "explanation": "This is a practical phrase used in talking to a supplier to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in talking to a supplier.",
     "spanish": "¿Puedo recibir una actualización sobre the payment?",
@@ -1562,7 +1562,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "I’m calling about {c1::the plan}.",
+    "text": "I’m calling about {c1::{{c1::the plan}}}.",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "Estoy llamando por the plan.",
@@ -1575,7 +1575,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "Could you help me with {c1::the contract}?",
+    "text": "Could you help me with {c1::{{c1::the contract}}}?",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "¿Podrías ayudarme con the contract?",
@@ -1588,7 +1588,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "I’d like to check the status of {c1::the replacement}.",
+    "text": "I’d like to check the status of {c1::{{c1::the replacement}}}.",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "Me gustaría comprobar el estado de the replacement.",
@@ -1601,7 +1601,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "Can you confirm {c1::the callback} for me?",
+    "text": "Can you confirm {c1::{{c1::the callback}}} for me?",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "¿Puedes confirmar the callback por mí?",
@@ -1614,7 +1614,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "I need to speak to someone about {c1::the reservation}.",
+    "text": "I need to speak to someone about {c1::{{c1::the reservation}}}.",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "Necesito hablar con alguien sobre the reservation.",
@@ -1627,7 +1627,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "Could you put me through to the team handling {c1::the billing}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the billing}}}?",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the billing?",
@@ -1640,7 +1640,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "I’m afraid there’s a problem with {c1::the subscription}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the subscription}}}.",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "Me temo que hay un problema con the subscription.",
@@ -1653,7 +1653,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "Would it be possible to arrange {c1::the service}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the service}}}?",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "¿Sería posible arreglar the service?",
@@ -1666,7 +1666,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "I’m trying to resolve {c1::the payment} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the payment}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "Estoy intentando resolver the payment lo más rápido posible.",
@@ -1679,7 +1679,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a school office",
-    "text": "Can I get an update on {c1::the cancellation}?",
+    "text": "Can I get an update on {c1::{{c1::the cancellation}}}?",
     "explanation": "This is a practical phrase used in calling a school office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a school office.",
     "spanish": "¿Puedo recibir una actualización sobre the cancellation?",
@@ -1692,7 +1692,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "I’m calling about {c1::the contract}.",
+    "text": "I’m calling about {c1::{{c1::the contract}}}.",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "Estoy llamando por the contract.",
@@ -1705,7 +1705,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "Could you help me with {c1::the replacement}?",
+    "text": "Could you help me with {c1::{{c1::the replacement}}}?",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "¿Podrías ayudarme con the replacement?",
@@ -1718,7 +1718,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "I’d like to check the status of {c1::the callback}.",
+    "text": "I’d like to check the status of {c1::{{c1::the callback}}}.",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "Me gustaría comprobar el estado de the callback.",
@@ -1731,7 +1731,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "Can you confirm {c1::the reservation} for me?",
+    "text": "Can you confirm {c1::{{c1::the reservation}}} for me?",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "¿Puedes confirmar the reservation por mí?",
@@ -1744,7 +1744,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "I need to speak to someone about {c1::the billing}.",
+    "text": "I need to speak to someone about {c1::{{c1::the billing}}}.",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "Necesito hablar con alguien sobre the billing.",
@@ -1757,7 +1757,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "Could you put me through to the team handling {c1::the subscription}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the subscription}}}?",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the subscription?",
@@ -1770,7 +1770,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "I’m afraid there’s a problem with {c1::the service}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the service}}}.",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "Me temo que hay un problema con the service.",
@@ -1783,7 +1783,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "Would it be possible to arrange {c1::the payment}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the payment}}}?",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "¿Sería posible arreglar the payment?",
@@ -1796,7 +1796,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "I’m trying to resolve {c1::the cancellation} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the cancellation}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "Estoy intentando resolver the cancellation lo más rápido posible.",
@@ -1809,7 +1809,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Contacting a utility company",
-    "text": "Can I get an update on {c1::the upgrade}?",
+    "text": "Can I get an update on {c1::{{c1::the upgrade}}}?",
     "explanation": "This is a practical phrase used in contacting a utility company to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in contacting a utility company.",
     "spanish": "¿Puedo recibir una actualización sobre the upgrade?",
@@ -1822,7 +1822,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "I’m calling about {c1::the replacement}.",
+    "text": "I’m calling about {c1::{{c1::the replacement}}}.",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "Estoy llamando por the replacement.",
@@ -1835,7 +1835,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "Could you help me with {c1::the callback}?",
+    "text": "Could you help me with {c1::{{c1::the callback}}}?",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "¿Podrías ayudarme con the callback?",
@@ -1848,7 +1848,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "I’d like to check the status of {c1::the reservation}.",
+    "text": "I’d like to check the status of {c1::{{c1::the reservation}}}.",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "Me gustaría comprobar el estado de the reservation.",
@@ -1861,7 +1861,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "Can you confirm {c1::the billing} for me?",
+    "text": "Can you confirm {c1::{{c1::the billing}}} for me?",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "¿Puedes confirmar the billing por mí?",
@@ -1874,7 +1874,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "I need to speak to someone about {c1::the subscription}.",
+    "text": "I need to speak to someone about {c1::{{c1::the subscription}}}.",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "Necesito hablar con alguien sobre the subscription.",
@@ -1887,7 +1887,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "Could you put me through to the team handling {c1::the service}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the service}}}?",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the service?",
@@ -1900,7 +1900,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "I’m afraid there’s a problem with {c1::the payment}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the payment}}}.",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "Me temo que hay un problema con the payment.",
@@ -1913,7 +1913,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "Would it be possible to arrange {c1::the cancellation}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the cancellation}}}?",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "¿Sería posible arreglar the cancellation?",
@@ -1926,7 +1926,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "I’m trying to resolve {c1::the upgrade} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the upgrade}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "Estoy intentando resolver the upgrade lo más rápido posible.",
@@ -1939,7 +1939,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a refund",
-    "text": "Can I get an update on {c1::the ticket}?",
+    "text": "Can I get an update on {c1::{{c1::the ticket}}}?",
     "explanation": "This is a practical phrase used in requesting a refund to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a refund.",
     "spanish": "¿Puedo recibir una actualización sobre the ticket?",
@@ -1952,7 +1952,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "I’m calling about {c1::the callback}.",
+    "text": "I’m calling about {c1::{{c1::the callback}}}.",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "Estoy llamando por the callback.",
@@ -1965,7 +1965,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "Could you help me with {c1::the reservation}?",
+    "text": "Could you help me with {c1::{{c1::the reservation}}}?",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "¿Podrías ayudarme con the reservation?",
@@ -1978,7 +1978,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "I’d like to check the status of {c1::the billing}.",
+    "text": "I’d like to check the status of {c1::{{c1::the billing}}}.",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "Me gustaría comprobar el estado de the billing.",
@@ -1991,7 +1991,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "Can you confirm {c1::the subscription} for me?",
+    "text": "Can you confirm {c1::{{c1::the subscription}}} for me?",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "¿Puedes confirmar the subscription por mí?",
@@ -2004,7 +2004,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "I need to speak to someone about {c1::the service}.",
+    "text": "I need to speak to someone about {c1::{{c1::the service}}}.",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "Necesito hablar con alguien sobre the service.",
@@ -2017,7 +2017,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "Could you put me through to the team handling {c1::the payment}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the payment}}}?",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the payment?",
@@ -2030,7 +2030,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "I’m afraid there’s a problem with {c1::the cancellation}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the cancellation}}}.",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "Me temo que hay un problema con the cancellation.",
@@ -2043,7 +2043,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "Would it be possible to arrange {c1::the upgrade}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the upgrade}}}?",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "¿Sería posible arreglar the upgrade?",
@@ -2056,7 +2056,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "I’m trying to resolve {c1::the ticket} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the ticket}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "Estoy intentando resolver the ticket lo más rápido posible.",
@@ -2069,7 +2069,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Checking an invoice",
-    "text": "Can I get an update on {c1::the timeline}?",
+    "text": "Can I get an update on {c1::{{c1::the timeline}}}?",
     "explanation": "This is a practical phrase used in checking an invoice to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in checking an invoice.",
     "spanish": "¿Puedo recibir una actualización sobre the timeline?",
@@ -2082,7 +2082,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "I’m calling about {c1::the reservation}.",
+    "text": "I’m calling about {c1::{{c1::the reservation}}}.",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "Estoy llamando por the reservation.",
@@ -2095,7 +2095,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "Could you help me with {c1::the billing}?",
+    "text": "Could you help me with {c1::{{c1::the billing}}}?",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "¿Podrías ayudarme con the billing?",
@@ -2108,7 +2108,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "I’d like to check the status of {c1::the subscription}.",
+    "text": "I’d like to check the status of {c1::{{c1::the subscription}}}.",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "Me gustaría comprobar el estado de the subscription.",
@@ -2121,7 +2121,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "Can you confirm {c1::the service} for me?",
+    "text": "Can you confirm {c1::{{c1::the service}}} for me?",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "¿Puedes confirmar the service por mí?",
@@ -2134,7 +2134,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "I need to speak to someone about {c1::the payment}.",
+    "text": "I need to speak to someone about {c1::{{c1::the payment}}}.",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "Necesito hablar con alguien sobre the payment.",
@@ -2147,7 +2147,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "Could you put me through to the team handling {c1::the cancellation}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the cancellation}}}?",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the cancellation?",
@@ -2160,7 +2160,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "I’m afraid there’s a problem with {c1::the upgrade}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the upgrade}}}.",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "Me temo que hay un problema con the upgrade.",
@@ -2173,7 +2173,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "Would it be possible to arrange {c1::the ticket}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the ticket}}}?",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "¿Sería posible arreglar the ticket?",
@@ -2186,7 +2186,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "I’m trying to resolve {c1::the timeline} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the timeline}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "Estoy intentando resolver the timeline lo más rápido posible.",
@@ -2199,7 +2199,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Asking for a replacement",
-    "text": "Can I get an update on {c1::the order}?",
+    "text": "Can I get an update on {c1::{{c1::the order}}}?",
     "explanation": "This is a practical phrase used in asking for a replacement to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in asking for a replacement.",
     "spanish": "¿Puedo recibir una actualización sobre the order?",
@@ -2212,7 +2212,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "I’m calling about {c1::the billing}.",
+    "text": "I’m calling about {c1::{{c1::the billing}}}.",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "Estoy llamando por the billing.",
@@ -2225,7 +2225,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "Could you help me with {c1::the subscription}?",
+    "text": "Could you help me with {c1::{{c1::the subscription}}}?",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "¿Podrías ayudarme con the subscription?",
@@ -2238,7 +2238,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "I’d like to check the status of {c1::the service}.",
+    "text": "I’d like to check the status of {c1::{{c1::the service}}}.",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "Me gustaría comprobar el estado de the service.",
@@ -2251,7 +2251,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "Can you confirm {c1::the payment} for me?",
+    "text": "Can you confirm {c1::{{c1::the payment}}} for me?",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "¿Puedes confirmar the payment por mí?",
@@ -2264,7 +2264,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "I need to speak to someone about {c1::the cancellation}.",
+    "text": "I need to speak to someone about {c1::{{c1::the cancellation}}}.",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "Necesito hablar con alguien sobre the cancellation.",
@@ -2277,7 +2277,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "Could you put me through to the team handling {c1::the upgrade}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the upgrade}}}?",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the upgrade?",
@@ -2290,7 +2290,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "I’m afraid there’s a problem with {c1::the ticket}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the ticket}}}.",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "Me temo que hay un problema con the ticket.",
@@ -2303,7 +2303,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "Would it be possible to arrange {c1::the timeline}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the timeline}}}?",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "¿Sería posible arreglar the timeline?",
@@ -2316,7 +2316,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "I’m trying to resolve {c1::the order} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the order}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "Estoy intentando resolver the order lo más rápido posible.",
@@ -2329,7 +2329,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a cancellation",
-    "text": "Can I get an update on {c1::the appointment}?",
+    "text": "Can I get an update on {c1::{{c1::the appointment}}}?",
     "explanation": "This is a practical phrase used in discussing a cancellation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a cancellation.",
     "spanish": "¿Puedo recibir una actualización sobre the appointment?",
@@ -2342,7 +2342,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "I’m calling about {c1::the subscription}.",
+    "text": "I’m calling about {c1::{{c1::the subscription}}}.",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "Estoy llamando por the subscription.",
@@ -2355,7 +2355,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "Could you help me with {c1::the service}?",
+    "text": "Could you help me with {c1::{{c1::the service}}}?",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "¿Podrías ayudarme con the service?",
@@ -2368,7 +2368,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "I’d like to check the status of {c1::the payment}.",
+    "text": "I’d like to check the status of {c1::{{c1::the payment}}}.",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "Me gustaría comprobar el estado de the payment.",
@@ -2381,7 +2381,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "Can you confirm {c1::the cancellation} for me?",
+    "text": "Can you confirm {c1::{{c1::the cancellation}}} for me?",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "¿Puedes confirmar the cancellation por mí?",
@@ -2394,7 +2394,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "I need to speak to someone about {c1::the upgrade}.",
+    "text": "I need to speak to someone about {c1::{{c1::the upgrade}}}.",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "Necesito hablar con alguien sobre the upgrade.",
@@ -2407,7 +2407,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "Could you put me through to the team handling {c1::the ticket}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the ticket}}}?",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the ticket?",
@@ -2420,7 +2420,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "I’m afraid there’s a problem with {c1::the timeline}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the timeline}}}.",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "Me temo que hay un problema con the timeline.",
@@ -2433,7 +2433,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "Would it be possible to arrange {c1::the order}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the order}}}?",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "¿Sería posible arreglar the order?",
@@ -2446,7 +2446,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "I’m trying to resolve {c1::the appointment} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the appointment}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "Estoy intentando resolver the appointment lo más rápido posible.",
@@ -2459,7 +2459,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Confirming a delivery",
-    "text": "Can I get an update on {c1::the refund}?",
+    "text": "Can I get an update on {c1::{{c1::the refund}}}?",
     "explanation": "This is a practical phrase used in confirming a delivery to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in confirming a delivery.",
     "spanish": "¿Puedo recibir una actualización sobre the refund?",
@@ -2472,7 +2472,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "I’m calling about {c1::the service}.",
+    "text": "I’m calling about {c1::{{c1::the service}}}.",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "Estoy llamando por the service.",
@@ -2485,7 +2485,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "Could you help me with {c1::the payment}?",
+    "text": "Could you help me with {c1::{{c1::the payment}}}?",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "¿Podrías ayudarme con the payment?",
@@ -2498,7 +2498,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "I’d like to check the status of {c1::the cancellation}.",
+    "text": "I’d like to check the status of {c1::{{c1::the cancellation}}}.",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "Me gustaría comprobar el estado de the cancellation.",
@@ -2511,7 +2511,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "Can you confirm {c1::the upgrade} for me?",
+    "text": "Can you confirm {c1::{{c1::the upgrade}}} for me?",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "¿Puedes confirmar the upgrade por mí?",
@@ -2524,7 +2524,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "I need to speak to someone about {c1::the ticket}.",
+    "text": "I need to speak to someone about {c1::{{c1::the ticket}}}.",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "Necesito hablar con alguien sobre the ticket.",
@@ -2537,7 +2537,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "Could you put me through to the team handling {c1::the timeline}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the timeline}}}?",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the timeline?",
@@ -2550,7 +2550,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "I’m afraid there’s a problem with {c1::the order}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the order}}}.",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "Me temo que hay un problema con the order.",
@@ -2563,7 +2563,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "Would it be possible to arrange {c1::the appointment}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the appointment}}}?",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "¿Sería posible arreglar the appointment?",
@@ -2576,7 +2576,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "I’m trying to resolve {c1::the refund} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the refund}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "Estoy intentando resolver the refund lo más rápido posible.",
@@ -2589,7 +2589,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling about an account",
-    "text": "Can I get an update on {c1::the account}?",
+    "text": "Can I get an update on {c1::{{c1::the account}}}?",
     "explanation": "This is a practical phrase used in calling about an account to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling about an account.",
     "spanish": "¿Puedo recibir una actualización sobre the account?",
@@ -2602,7 +2602,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "I’m calling about {c1::the payment}.",
+    "text": "I’m calling about {c1::{{c1::the payment}}}.",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "Estoy llamando por the payment.",
@@ -2615,7 +2615,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "Could you help me with {c1::the cancellation}?",
+    "text": "Could you help me with {c1::{{c1::the cancellation}}}?",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "¿Podrías ayudarme con the cancellation?",
@@ -2628,7 +2628,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "I’d like to check the status of {c1::the upgrade}.",
+    "text": "I’d like to check the status of {c1::{{c1::the upgrade}}}.",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "Me gustaría comprobar el estado de the upgrade.",
@@ -2641,7 +2641,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "Can you confirm {c1::the ticket} for me?",
+    "text": "Can you confirm {c1::{{c1::the ticket}}} for me?",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "¿Puedes confirmar the ticket por mí?",
@@ -2654,7 +2654,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "I need to speak to someone about {c1::the timeline}.",
+    "text": "I need to speak to someone about {c1::{{c1::the timeline}}}.",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "Necesito hablar con alguien sobre the timeline.",
@@ -2667,7 +2667,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "Could you put me through to the team handling {c1::the order}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the order}}}?",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the order?",
@@ -2680,7 +2680,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "I’m afraid there’s a problem with {c1::the appointment}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the appointment}}}.",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "Me temo que hay un problema con the appointment.",
@@ -2693,7 +2693,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "Would it be possible to arrange {c1::the refund}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the refund}}}?",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "¿Sería posible arreglar the refund?",
@@ -2706,7 +2706,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "I’m trying to resolve {c1::the account} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the account}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "Estoy intentando resolver the account lo más rápido posible.",
@@ -2719,7 +2719,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Reporting a problem",
-    "text": "Can I get an update on {c1::the invoice}?",
+    "text": "Can I get an update on {c1::{{c1::the invoice}}}?",
     "explanation": "This is a practical phrase used in reporting a problem to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in reporting a problem.",
     "spanish": "¿Puedo recibir una actualización sobre the invoice?",
@@ -2732,7 +2732,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "I’m calling about {c1::the cancellation}.",
+    "text": "I’m calling about {c1::{{c1::the cancellation}}}.",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "Estoy llamando por the cancellation.",
@@ -2745,7 +2745,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "Could you help me with {c1::the upgrade}?",
+    "text": "Could you help me with {c1::{{c1::the upgrade}}}?",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "¿Podrías ayudarme con the upgrade?",
@@ -2758,7 +2758,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "I’d like to check the status of {c1::the ticket}.",
+    "text": "I’d like to check the status of {c1::{{c1::the ticket}}}.",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "Me gustaría comprobar el estado de the ticket.",
@@ -2771,7 +2771,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "Can you confirm {c1::the timeline} for me?",
+    "text": "Can you confirm {c1::{{c1::the timeline}}} for me?",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "¿Puedes confirmar the timeline por mí?",
@@ -2784,7 +2784,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "I need to speak to someone about {c1::the order}.",
+    "text": "I need to speak to someone about {c1::{{c1::the order}}}.",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "Necesito hablar con alguien sobre the order.",
@@ -2797,7 +2797,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "Could you put me through to the team handling {c1::the appointment}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the appointment}}}?",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the appointment?",
@@ -2810,7 +2810,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "I’m afraid there’s a problem with {c1::the refund}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the refund}}}.",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "Me temo que hay un problema con the refund.",
@@ -2823,7 +2823,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "Would it be possible to arrange {c1::the account}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the account}}}?",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "¿Sería posible arreglar the account?",
@@ -2836,7 +2836,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "I’m trying to resolve {c1::the invoice} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the invoice}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "Estoy intentando resolver the invoice lo más rápido posible.",
@@ -2849,7 +2849,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Requesting a callback",
-    "text": "Can I get an update on {c1::the policy}?",
+    "text": "Can I get an update on {c1::{{c1::the policy}}}?",
     "explanation": "This is a practical phrase used in requesting a callback to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in requesting a callback.",
     "spanish": "¿Puedo recibir una actualización sobre the policy?",
@@ -2862,7 +2862,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "I’m calling about {c1::the upgrade}.",
+    "text": "I’m calling about {c1::{{c1::the upgrade}}}.",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "Estoy llamando por the upgrade.",
@@ -2875,7 +2875,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "Could you help me with {c1::the ticket}?",
+    "text": "Could you help me with {c1::{{c1::the ticket}}}?",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "¿Podrías ayudarme con the ticket?",
@@ -2888,7 +2888,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "I’d like to check the status of {c1::the timeline}.",
+    "text": "I’d like to check the status of {c1::{{c1::the timeline}}}.",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "Me gustaría comprobar el estado de the timeline.",
@@ -2901,7 +2901,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "Can you confirm {c1::the order} for me?",
+    "text": "Can you confirm {c1::{{c1::the order}}} for me?",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "¿Puedes confirmar the order por mí?",
@@ -2914,7 +2914,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "I need to speak to someone about {c1::the appointment}.",
+    "text": "I need to speak to someone about {c1::{{c1::the appointment}}}.",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "Necesito hablar con alguien sobre the appointment.",
@@ -2927,7 +2927,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "Could you put me through to the team handling {c1::the refund}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the refund}}}?",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the refund?",
@@ -2940,7 +2940,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "I’m afraid there’s a problem with {c1::the account}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the account}}}.",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "Me temo que hay un problema con the account.",
@@ -2953,7 +2953,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "Would it be possible to arrange {c1::the invoice}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the invoice}}}?",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "¿Sería posible arreglar the invoice?",
@@ -2966,7 +2966,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "I’m trying to resolve {c1::the policy} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the policy}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "Estoy intentando resolver the policy lo más rápido posible.",
@@ -2979,7 +2979,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Speaking to a sales rep",
-    "text": "Can I get an update on {c1::the schedule}?",
+    "text": "Can I get an update on {c1::{{c1::the schedule}}}?",
     "explanation": "This is a practical phrase used in speaking to a sales rep to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in speaking to a sales rep.",
     "spanish": "¿Puedo recibir una actualización sobre the schedule?",
@@ -2992,7 +2992,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "I’m calling about {c1::the ticket}.",
+    "text": "I’m calling about {c1::{{c1::the ticket}}}.",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "Estoy llamando por the ticket.",
@@ -3005,7 +3005,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "Could you help me with {c1::the timeline}?",
+    "text": "Could you help me with {c1::{{c1::the timeline}}}?",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "¿Podrías ayudarme con the timeline?",
@@ -3018,7 +3018,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "I’d like to check the status of {c1::the order}.",
+    "text": "I’d like to check the status of {c1::{{c1::the order}}}.",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "Me gustaría comprobar el estado de the order.",
@@ -3031,7 +3031,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "Can you confirm {c1::the appointment} for me?",
+    "text": "Can you confirm {c1::{{c1::the appointment}}} for me?",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "¿Puedes confirmar the appointment por mí?",
@@ -3044,7 +3044,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "I need to speak to someone about {c1::the refund}.",
+    "text": "I need to speak to someone about {c1::{{c1::the refund}}}.",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "Necesito hablar con alguien sobre the refund.",
@@ -3057,7 +3057,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "Could you put me through to the team handling {c1::the account}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the account}}}?",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the account?",
@@ -3070,7 +3070,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "I’m afraid there’s a problem with {c1::the invoice}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the invoice}}}.",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "Me temo que hay un problema con the invoice.",
@@ -3083,7 +3083,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "Would it be possible to arrange {c1::the policy}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the policy}}}?",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "¿Sería posible arreglar the policy?",
@@ -3096,7 +3096,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "I’m trying to resolve {c1::the schedule} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the schedule}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "Estoy intentando resolver the schedule lo más rápido posible.",
@@ -3109,7 +3109,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Calling a repair service",
-    "text": "Can I get an update on {c1::the status}?",
+    "text": "Can I get an update on {c1::{{c1::the status}}}?",
     "explanation": "This is a practical phrase used in calling a repair service to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in calling a repair service.",
     "spanish": "¿Puedo recibir una actualización sobre the status?",
@@ -3122,7 +3122,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "I’m calling about {c1::the timeline}.",
+    "text": "I’m calling about {c1::{{c1::the timeline}}}.",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "Estoy llamando por the timeline.",
@@ -3135,7 +3135,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "Could you help me with {c1::the order}?",
+    "text": "Could you help me with {c1::{{c1::the order}}}?",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "¿Podrías ayudarme con the order?",
@@ -3148,7 +3148,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "I’d like to check the status of {c1::the appointment}.",
+    "text": "I’d like to check the status of {c1::{{c1::the appointment}}}.",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "Me gustaría comprobar el estado de the appointment.",
@@ -3161,7 +3161,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "Can you confirm {c1::the refund} for me?",
+    "text": "Can you confirm {c1::{{c1::the refund}}} for me?",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "¿Puedes confirmar the refund por mí?",
@@ -3174,7 +3174,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "I need to speak to someone about {c1::the account}.",
+    "text": "I need to speak to someone about {c1::{{c1::the account}}}.",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "Necesito hablar con alguien sobre the account.",
@@ -3187,7 +3187,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "Could you put me through to the team handling {c1::the invoice}?",
+    "text": "Could you put me through to the team handling {c1::{{c1::the invoice}}}?",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "¿Podrías pasarme al equipo que gestiona the invoice?",
@@ -3200,7 +3200,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "I’m afraid there’s a problem with {c1::the policy}.",
+    "text": "I’m afraid there’s a problem with {c1::{{c1::the policy}}}.",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "Me temo que hay un problema con the policy.",
@@ -3213,7 +3213,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "Would it be possible to arrange {c1::the schedule}?",
+    "text": "Would it be possible to arrange {c1::{{c1::the schedule}}}?",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "¿Sería posible arreglar the schedule?",
@@ -3226,7 +3226,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "I’m trying to resolve {c1::the status} as quickly as possible.",
+    "text": "I’m trying to resolve {c1::{{c1::the status}}} as quickly as possible.",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "Estoy intentando resolver the status lo más rápido posible.",
@@ -3239,7 +3239,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
     "scenario": "06_Phone_Calls_and_Customer_Service: Discussing a subscription update",
-    "text": "Can I get an update on {c1::the delivery}?",
+    "text": "Can I get an update on {c1::{{c1::the delivery}}}?",
     "explanation": "This is a practical phrase used in discussing a subscription update to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in discussing a subscription update.",
     "spanish": "¿Puedo recibir una actualización sobre the delivery?",

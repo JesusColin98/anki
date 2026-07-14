@@ -2,7 +2,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "I’d like to talk about my {c1::experience}.",
+    "text": "I’d like to talk about my {c1::{{c1::experience}}}.",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "Me gustaría hablar de mi experience.",
@@ -15,7 +15,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "One of my biggest strengths is {c1::strengths}.",
+    "text": "One of my biggest {{c1::strengths}} is {c1::strengths}.",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "Una de mis mayores fortalezas es strengths.",
@@ -28,7 +28,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "I’ve developed a lot of {c1::weaknesses} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::weaknesses}}} over the past few years.",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "He desarrollado mucho weaknesses en los últimos años.",
@@ -41,7 +41,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "My main goal is to grow in {c1::career goals}.",
+    "text": "My main goal is to grow in {c1::{{c1::career goals}}}.",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "Mi objetivo principal es crecer en career goals.",
@@ -54,7 +54,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "I’m especially interested in {c1::leadership}.",
+    "text": "I’m especially interested in {c1::{{c1::leadership}}}.",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "Me interesa especialmente leadership.",
@@ -67,7 +67,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "I believe my {c1::problem-solving} would be valuable here.",
+    "text": "I believe my {c1::{{c1::problem}}-solving} would be valuable here.",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "Creo que mi problem-solving sería valioso aquí.",
@@ -80,7 +80,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "Could you tell me more about the {c1::teamwork} role?",
+    "text": "Could you tell me more about the {c1::{{c1::teamwork}}} role?",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "¿Podrías contarme más sobre el puesto de teamwork?",
@@ -93,7 +93,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "I’d be happy to explain my {c1::communication} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::communication}}} approach.",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "Me encantaría explicarte mi enfoque de communication.",
@@ -106,7 +106,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "What would success look like in terms of {c1::adaptability}?",
+    "text": "What would success look like in terms of {c1::{{c1::adaptability}}}?",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "¿Qué se vería como éxito en términos de adaptability?",
@@ -119,7 +119,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a job interview",
-    "text": "I’m looking for an opportunity to expand my {c1::initiative}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::initiative}}}.",
     "explanation": "This is a practical phrase used in at a job interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a job interview.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi initiative.",
@@ -132,7 +132,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "I’d like to talk about my {c1::strengths}.",
+    "text": "I’d like to talk about my {c1::{{c1::strengths}}}.",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "Me gustaría hablar de mi strengths.",
@@ -145,7 +145,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "One of my biggest strengths is {c1::weaknesses}.",
+    "text": "One of my biggest strengths is {c1::{{c1::weaknesses}}}.",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "Una de mis mayores fortalezas es weaknesses.",
@@ -158,7 +158,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "I’ve developed a lot of {c1::career goals} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::career goals}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "He desarrollado mucho career goals en los últimos años.",
@@ -171,7 +171,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "My main goal is to grow in {c1::leadership}.",
+    "text": "My main goal is to grow in {c1::{{c1::leadership}}}.",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "Mi objetivo principal es crecer en leadership.",
@@ -184,7 +184,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "I’m especially interested in {c1::problem-solving}.",
+    "text": "I’m especially interested in {c1::{{c1::problem}}-solving}.",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "Me interesa especialmente problem-solving.",
@@ -197,7 +197,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "I believe my {c1::teamwork} would be valuable here.",
+    "text": "I believe my {c1::{{c1::teamwork}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "Creo que mi teamwork sería valioso aquí.",
@@ -210,7 +210,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "Could you tell me more about the {c1::communication} role?",
+    "text": "Could you tell me more about the {c1::{{c1::communication}}} role?",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "¿Podrías contarme más sobre el puesto de communication?",
@@ -223,7 +223,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "I’d be happy to explain my {c1::adaptability} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::adaptability}}} approach.",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "Me encantaría explicarte mi enfoque de adaptability.",
@@ -236,7 +236,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "What would success look like in terms of {c1::initiative}?",
+    "text": "What would success look like in terms of {c1::{{c1::initiative}}}?",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "¿Qué se vería como éxito en términos de initiative?",
@@ -249,7 +249,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a networking event",
-    "text": "I’m looking for an opportunity to expand my {c1::results}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::results}}}.",
     "explanation": "This is a practical phrase used in in a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a networking event.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi results.",
@@ -262,7 +262,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "I’d like to talk about my {c1::weaknesses}.",
+    "text": "I’d like to talk about my {c1::{{c1::weaknesses}}}.",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "Me gustaría hablar de mi weaknesses.",
@@ -275,7 +275,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "One of my biggest strengths is {c1::career goals}.",
+    "text": "One of my biggest strengths is {c1::{{c1::career goals}}}.",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "Una de mis mayores fortalezas es career goals.",
@@ -288,7 +288,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "I’ve developed a lot of {c1::leadership} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::leadership}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "He desarrollado mucho leadership en los últimos años.",
@@ -301,7 +301,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "My main goal is to grow in {c1::problem-solving}.",
+    "text": "My main goal is to grow in {c1::{{c1::problem}}-solving}.",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "Mi objetivo principal es crecer en problem-solving.",
@@ -314,7 +314,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "I’m especially interested in {c1::teamwork}.",
+    "text": "I’m especially interested in {c1::{{c1::teamwork}}}.",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "Me interesa especialmente teamwork.",
@@ -327,7 +327,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "I believe my {c1::communication} would be valuable here.",
+    "text": "I believe my {c1::{{c1::communication}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "Creo que mi communication sería valioso aquí.",
@@ -340,7 +340,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "Could you tell me more about the {c1::adaptability} role?",
+    "text": "Could you tell me more about the {c1::{{c1::adaptability}}} role?",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "¿Podrías contarme más sobre el puesto de adaptability?",
@@ -353,7 +353,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "I’d be happy to explain my {c1::initiative} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::initiative}}} approach.",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "Me encantaría explicarte mi enfoque de initiative.",
@@ -366,7 +366,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "What would success look like in terms of {c1::results}?",
+    "text": "What would success look like in terms of {c1::{{c1::results}}}?",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "¿Qué se vería como éxito en términos de results?",
@@ -379,7 +379,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a promotion discussion",
-    "text": "I’m looking for an opportunity to expand my {c1::impact}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::impact}}}.",
     "explanation": "This is a practical phrase used in in a promotion discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a promotion discussion.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi impact.",
@@ -392,7 +392,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "I’d like to talk about my {c1::career goals}.",
+    "text": "I’d like to talk about my {c1::{{c1::career goals}}}.",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "Me gustaría hablar de mi career goals.",
@@ -405,7 +405,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "One of my biggest strengths is {c1::leadership}.",
+    "text": "One of my biggest strengths is {c1::{{c1::leadership}}}.",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "Una de mis mayores fortalezas es leadership.",
@@ -418,7 +418,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "I’ve developed a lot of {c1::problem-solving} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::problem}}-solving} over the past few years.",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "He desarrollado mucho problem-solving en los últimos años.",
@@ -431,7 +431,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "My main goal is to grow in {c1::teamwork}.",
+    "text": "My main goal is to grow in {c1::{{c1::teamwork}}}.",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "Mi objetivo principal es crecer en teamwork.",
@@ -444,7 +444,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "I’m especially interested in {c1::communication}.",
+    "text": "I’m especially interested in {c1::{{c1::communication}}}.",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "Me interesa especialmente communication.",
@@ -457,7 +457,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "I believe my {c1::adaptability} would be valuable here.",
+    "text": "I believe my {c1::{{c1::adaptability}}} would be valuable here.",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "Creo que mi adaptability sería valioso aquí.",
@@ -470,7 +470,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "Could you tell me more about the {c1::initiative} role?",
+    "text": "Could you tell me more about the {c1::{{c1::initiative}}} role?",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "¿Podrías contarme más sobre el puesto de initiative?",
@@ -483,7 +483,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "I’d be happy to explain my {c1::results} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::results}}} approach.",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "Me encantaría explicarte mi enfoque de results.",
@@ -496,7 +496,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "What would success look like in terms of {c1::impact}?",
+    "text": "What would success look like in terms of {c1::{{c1::impact}}}?",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "¿Qué se vería como éxito en términos de impact?",
@@ -509,7 +509,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a salary negotiation",
-    "text": "I’m looking for an opportunity to expand my {c1::growth}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::growth}}}.",
     "explanation": "This is a practical phrase used in during a salary negotiation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a salary negotiation.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi growth.",
@@ -522,7 +522,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "I’d like to talk about my {c1::leadership}.",
+    "text": "I’d like to talk about my {c1::{{c1::leadership}}}.",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "Me gustaría hablar de mi leadership.",
@@ -535,7 +535,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "One of my biggest strengths is {c1::problem-solving}.",
+    "text": "One of my biggest strengths is {c1::{{c1::problem}}-solving}.",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "Una de mis mayores fortalezas es problem-solving.",
@@ -548,7 +548,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "I’ve developed a lot of {c1::teamwork} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::teamwork}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "He desarrollado mucho teamwork en los últimos años.",
@@ -561,7 +561,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "My main goal is to grow in {c1::communication}.",
+    "text": "My main goal is to grow in {c1::{{c1::communication}}}.",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "Mi objetivo principal es crecer en communication.",
@@ -574,7 +574,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "I’m especially interested in {c1::adaptability}.",
+    "text": "I’m especially interested in {c1::{{c1::adaptability}}}.",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "Me interesa especialmente adaptability.",
@@ -587,7 +587,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "I believe my {c1::initiative} would be valuable here.",
+    "text": "I believe my {c1::{{c1::initiative}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "Creo que mi initiative sería valioso aquí.",
@@ -600,7 +600,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "Could you tell me more about the {c1::results} role?",
+    "text": "Could you tell me more about the {c1::{{c1::results}}} role?",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "¿Podrías contarme más sobre el puesto de results?",
@@ -613,7 +613,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "I’d be happy to explain my {c1::impact} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::impact}}} approach.",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "Me encantaría explicarte mi enfoque de impact.",
@@ -626,7 +626,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "What would success look like in terms of {c1::growth}?",
+    "text": "What would success look like in terms of {c1::{{c1::growth}}}?",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "¿Qué se vería como éxito en términos de growth?",
@@ -639,7 +639,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a performance review",
-    "text": "I’m looking for an opportunity to expand my {c1::learning}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::learning}}}.",
     "explanation": "This is a practical phrase used in in a performance review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a performance review.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi learning.",
@@ -652,7 +652,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "I’d like to talk about my {c1::problem-solving}.",
+    "text": "I’d like to talk about my {c1::{{c1::problem}}-solving}.",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "Me gustaría hablar de mi problem-solving.",
@@ -665,7 +665,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "One of my biggest strengths is {c1::teamwork}.",
+    "text": "One of my biggest strengths is {c1::{{c1::teamwork}}}.",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "Una de mis mayores fortalezas es teamwork.",
@@ -678,7 +678,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "I’ve developed a lot of {c1::communication} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::communication}}} over the past few years.",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "He desarrollado mucho communication en los últimos años.",
@@ -691,7 +691,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "My main goal is to grow in {c1::adaptability}.",
+    "text": "My main goal is to grow in {c1::{{c1::adaptability}}}.",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "Mi objetivo principal es crecer en adaptability.",
@@ -704,7 +704,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "I’m especially interested in {c1::initiative}.",
+    "text": "I’m especially interested in {c1::{{c1::initiative}}}.",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "Me interesa especialmente initiative.",
@@ -717,7 +717,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "I believe my {c1::results} would be valuable here.",
+    "text": "I believe my {c1::{{c1::results}}} would be valuable here.",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "Creo que mi results sería valioso aquí.",
@@ -730,7 +730,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "Could you tell me more about the {c1::impact} role?",
+    "text": "Could you tell me more about the {c1::{{c1::impact}}} role?",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "¿Podrías contarme más sobre el puesto de impact?",
@@ -743,7 +743,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "I’d be happy to explain my {c1::growth} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::growth}}} approach.",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "Me encantaría explicarte mi enfoque de growth.",
@@ -756,7 +756,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "What would success look like in terms of {c1::learning}?",
+    "text": "What would success look like in terms of {c1::{{c1::learning}}}?",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "¿Qué se vería como éxito en términos de learning?",
@@ -769,7 +769,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a career fair",
-    "text": "I’m looking for an opportunity to expand my {c1::focus}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::focus}}}.",
     "explanation": "This is a practical phrase used in at a career fair to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a career fair.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi focus.",
@@ -782,7 +782,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "I’d like to talk about my {c1::teamwork}.",
+    "text": "I’d like to talk about my {c1::{{c1::teamwork}}}.",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "Me gustaría hablar de mi teamwork.",
@@ -795,7 +795,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "One of my biggest strengths is {c1::communication}.",
+    "text": "One of my biggest strengths is {c1::{{c1::communication}}}.",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "Una de mis mayores fortalezas es communication.",
@@ -808,7 +808,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "I’ve developed a lot of {c1::adaptability} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::adaptability}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "He desarrollado mucho adaptability en los últimos años.",
@@ -821,7 +821,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "My main goal is to grow in {c1::initiative}.",
+    "text": "My main goal is to grow in {c1::{{c1::initiative}}}.",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "Mi objetivo principal es crecer en initiative.",
@@ -834,7 +834,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "I’m especially interested in {c1::results}.",
+    "text": "I’m especially interested in {c1::{{c1::results}}}.",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "Me interesa especialmente results.",
@@ -847,7 +847,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "I believe my {c1::impact} would be valuable here.",
+    "text": "I believe my {c1::{{c1::impact}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "Creo que mi impact sería valioso aquí.",
@@ -860,7 +860,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "Could you tell me more about the {c1::growth} role?",
+    "text": "Could you tell me more about the {c1::{{c1::growth}}} role?",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "¿Podrías contarme más sobre el puesto de growth?",
@@ -873,7 +873,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "I’d be happy to explain my {c1::learning} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::learning}}} approach.",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "Me encantaría explicarte mi enfoque de learning.",
@@ -886,7 +886,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "What would success look like in terms of {c1::focus}?",
+    "text": "What would success look like in terms of {c1::{{c1::focus}}}?",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "¿Qué se vería como éxito en términos de focus?",
@@ -899,7 +899,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a recruiter call",
-    "text": "I’m looking for an opportunity to expand my {c1::skills}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::skills}}}.",
     "explanation": "This is a practical phrase used in in a recruiter call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a recruiter call.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi skills.",
@@ -912,7 +912,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "I’d like to talk about my {c1::communication}.",
+    "text": "I’d like to talk about my {c1::{{c1::communication}}}.",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "Me gustaría hablar de mi communication.",
@@ -925,7 +925,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "One of my biggest strengths is {c1::adaptability}.",
+    "text": "One of my biggest strengths is {c1::{{c1::adaptability}}}.",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "Una de mis mayores fortalezas es adaptability.",
@@ -938,7 +938,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "I’ve developed a lot of {c1::initiative} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::initiative}}} over the past few years.",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "He desarrollado mucho initiative en los últimos años.",
@@ -951,7 +951,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "My main goal is to grow in {c1::results}.",
+    "text": "My main goal is to grow in {c1::{{c1::results}}}.",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "Mi objetivo principal es crecer en results.",
@@ -964,7 +964,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "I’m especially interested in {c1::impact}.",
+    "text": "I’m especially interested in {c1::{{c1::impact}}}.",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "Me interesa especialmente impact.",
@@ -977,7 +977,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "I believe my {c1::growth} would be valuable here.",
+    "text": "I believe my {c1::{{c1::growth}}} would be valuable here.",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "Creo que mi growth sería valioso aquí.",
@@ -990,7 +990,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "Could you tell me more about the {c1::learning} role?",
+    "text": "Could you tell me more about the {c1::{{c1::learning}}} role?",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "¿Podrías contarme más sobre el puesto de learning?",
@@ -1003,7 +1003,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "I’d be happy to explain my {c1::focus} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::focus}}} approach.",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "Me encantaría explicarte mi enfoque de focus.",
@@ -1016,7 +1016,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "What would success look like in terms of {c1::skills}?",
+    "text": "What would success look like in terms of {c1::{{c1::skills}}}?",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "¿Qué se vería como éxito en términos de skills?",
@@ -1029,7 +1029,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a portfolio review",
-    "text": "I’m looking for an opportunity to expand my {c1::motivation}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::motivation}}}.",
     "explanation": "This is a practical phrase used in at a portfolio review to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a portfolio review.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi motivation.",
@@ -1042,7 +1042,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "I’d like to talk about my {c1::adaptability}.",
+    "text": "I’d like to talk about my {c1::{{c1::adaptability}}}.",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "Me gustaría hablar de mi adaptability.",
@@ -1055,7 +1055,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "One of my biggest strengths is {c1::initiative}.",
+    "text": "One of my biggest strengths is {c1::{{c1::initiative}}}.",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "Una de mis mayores fortalezas es initiative.",
@@ -1068,7 +1068,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "I’ve developed a lot of {c1::results} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::results}}} over the past few years.",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "He desarrollado mucho results en los últimos años.",
@@ -1081,7 +1081,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "My main goal is to grow in {c1::impact}.",
+    "text": "My main goal is to grow in {c1::{{c1::impact}}}.",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "Mi objetivo principal es crecer en impact.",
@@ -1094,7 +1094,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "I’m especially interested in {c1::growth}.",
+    "text": "I’m especially interested in {c1::{{c1::growth}}}.",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "Me interesa especialmente growth.",
@@ -1107,7 +1107,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "I believe my {c1::learning} would be valuable here.",
+    "text": "I believe my {c1::{{c1::learning}}} would be valuable here.",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "Creo que mi learning sería valioso aquí.",
@@ -1120,7 +1120,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "Could you tell me more about the {c1::focus} role?",
+    "text": "Could you tell me more about the {c1::{{c1::focus}}} role?",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "¿Podrías contarme más sobre el puesto de focus?",
@@ -1133,7 +1133,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "I’d be happy to explain my {c1::skills} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::skills}}} approach.",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "Me encantaría explicarte mi enfoque de skills.",
@@ -1146,7 +1146,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "What would success look like in terms of {c1::motivation}?",
+    "text": "What would success look like in terms of {c1::{{c1::motivation}}}?",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "¿Qué se vería como éxito en términos de motivation?",
@@ -1159,7 +1159,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During onboarding",
-    "text": "I’m looking for an opportunity to expand my {c1::confidence}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::confidence}}}.",
     "explanation": "This is a practical phrase used in during onboarding to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during onboarding.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi confidence.",
@@ -1172,7 +1172,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "I’d like to talk about my {c1::initiative}.",
+    "text": "I’d like to talk about my {c1::{{c1::initiative}}}.",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "Me gustaría hablar de mi initiative.",
@@ -1185,7 +1185,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "One of my biggest strengths is {c1::results}.",
+    "text": "One of my biggest strengths is {c1::{{c1::results}}}.",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "Una de mis mayores fortalezas es results.",
@@ -1198,7 +1198,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "I’ve developed a lot of {c1::impact} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::impact}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "He desarrollado mucho impact en los últimos años.",
@@ -1211,7 +1211,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "My main goal is to grow in {c1::growth}.",
+    "text": "My main goal is to grow in {c1::{{c1::growth}}}.",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "Mi objetivo principal es crecer en growth.",
@@ -1224,7 +1224,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "I’m especially interested in {c1::learning}.",
+    "text": "I’m especially interested in {c1::{{c1::learning}}}.",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "Me interesa especialmente learning.",
@@ -1237,7 +1237,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "I believe my {c1::focus} would be valuable here.",
+    "text": "I believe my {c1::{{c1::focus}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "Creo que mi focus sería valioso aquí.",
@@ -1250,7 +1250,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "Could you tell me more about the {c1::skills} role?",
+    "text": "Could you tell me more about the {c1::{{c1::skills}}} role?",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "¿Podrías contarme más sobre el puesto de skills?",
@@ -1263,7 +1263,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "I’d be happy to explain my {c1::motivation} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::motivation}}} approach.",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "Me encantaría explicarte mi enfoque de motivation.",
@@ -1276,7 +1276,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "What would success look like in terms of {c1::confidence}?",
+    "text": "What would success look like in terms of {c1::{{c1::confidence}}}?",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "¿Qué se vería como éxito en términos de confidence?",
@@ -1289,7 +1289,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a team handoff",
-    "text": "I’m looking for an opportunity to expand my {c1::responsibility}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::responsibility}}}.",
     "explanation": "This is a practical phrase used in in a team handoff to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a team handoff.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi responsibility.",
@@ -1302,7 +1302,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "I’d like to talk about my {c1::results}.",
+    "text": "I’d like to talk about my {c1::{{c1::results}}}.",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "Me gustaría hablar de mi results.",
@@ -1315,7 +1315,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "One of my biggest strengths is {c1::impact}.",
+    "text": "One of my biggest strengths is {c1::{{c1::impact}}}.",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "Una de mis mayores fortalezas es impact.",
@@ -1328,7 +1328,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "I’ve developed a lot of {c1::growth} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::growth}}} over the past few years.",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "He desarrollado mucho growth en los últimos años.",
@@ -1341,7 +1341,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "My main goal is to grow in {c1::learning}.",
+    "text": "My main goal is to grow in {c1::{{c1::learning}}}.",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "Mi objetivo principal es crecer en learning.",
@@ -1354,7 +1354,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "I’m especially interested in {c1::focus}.",
+    "text": "I’m especially interested in {c1::{{c1::focus}}}.",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "Me interesa especialmente focus.",
@@ -1367,7 +1367,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "I believe my {c1::skills} would be valuable here.",
+    "text": "I believe my {c1::{{c1::skills}}} would be valuable here.",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "Creo que mi skills sería valioso aquí.",
@@ -1380,7 +1380,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "Could you tell me more about the {c1::motivation} role?",
+    "text": "Could you tell me more about the {c1::{{c1::motivation}}} role?",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "¿Podrías contarme más sobre el puesto de motivation?",
@@ -1393,7 +1393,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "I’d be happy to explain my {c1::confidence} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::confidence}}} approach.",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "Me encantaría explicarte mi enfoque de confidence.",
@@ -1406,7 +1406,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "What would success look like in terms of {c1::responsibility}?",
+    "text": "What would success look like in terms of {c1::{{c1::responsibility}}}?",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "¿Qué se vería como éxito en términos de responsibility?",
@@ -1419,7 +1419,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a leadership meeting",
-    "text": "I’m looking for an opportunity to expand my {c1::availability}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::availability}}}.",
     "explanation": "This is a practical phrase used in at a leadership meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a leadership meeting.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi availability.",
@@ -1432,7 +1432,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "I’d like to talk about my {c1::impact}.",
+    "text": "I’d like to talk about my {c1::{{c1::impact}}}.",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "Me gustaría hablar de mi impact.",
@@ -1445,7 +1445,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "One of my biggest strengths is {c1::growth}.",
+    "text": "One of my biggest strengths is {c1::{{c1::growth}}}.",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "Una de mis mayores fortalezas es growth.",
@@ -1458,7 +1458,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "I’ve developed a lot of {c1::learning} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::learning}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "He desarrollado mucho learning en los últimos años.",
@@ -1471,7 +1471,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "My main goal is to grow in {c1::focus}.",
+    "text": "My main goal is to grow in {c1::{{c1::focus}}}.",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "Mi objetivo principal es crecer en focus.",
@@ -1484,7 +1484,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "I’m especially interested in {c1::skills}.",
+    "text": "I’m especially interested in {c1::{{c1::skills}}}.",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "Me interesa especialmente skills.",
@@ -1497,7 +1497,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "I believe my {c1::motivation} would be valuable here.",
+    "text": "I believe my {c1::{{c1::motivation}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "Creo que mi motivation sería valioso aquí.",
@@ -1510,7 +1510,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "Could you tell me more about the {c1::confidence} role?",
+    "text": "Could you tell me more about the {c1::{{c1::confidence}}} role?",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "¿Podrías contarme más sobre el puesto de confidence?",
@@ -1523,7 +1523,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "I’d be happy to explain my {c1::responsibility} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::responsibility}}} approach.",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "Me encantaría explicarte mi enfoque de responsibility.",
@@ -1536,7 +1536,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "What would success look like in terms of {c1::availability}?",
+    "text": "What would success look like in terms of {c1::{{c1::availability}}}?",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "¿Qué se vería como éxito en términos de availability?",
@@ -1549,7 +1549,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a mentoring session",
-    "text": "I’m looking for an opportunity to expand my {c1::salary}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::salary}}}.",
     "explanation": "This is a practical phrase used in in a mentoring session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a mentoring session.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi salary.",
@@ -1562,7 +1562,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "I’d like to talk about my {c1::growth}.",
+    "text": "I’d like to talk about my {c1::{{c1::growth}}}.",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "Me gustaría hablar de mi growth.",
@@ -1575,7 +1575,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "One of my biggest strengths is {c1::learning}.",
+    "text": "One of my biggest strengths is {c1::{{c1::learning}}}.",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "Una de mis mayores fortalezas es learning.",
@@ -1588,7 +1588,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "I’ve developed a lot of {c1::focus} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::focus}}} over the past few years.",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "He desarrollado mucho focus en los últimos años.",
@@ -1601,7 +1601,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "My main goal is to grow in {c1::skills}.",
+    "text": "My main goal is to grow in {c1::{{c1::skills}}}.",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "Mi objetivo principal es crecer en skills.",
@@ -1614,7 +1614,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "I’m especially interested in {c1::motivation}.",
+    "text": "I’m especially interested in {c1::{{c1::motivation}}}.",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "Me interesa especialmente motivation.",
@@ -1627,7 +1627,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "I believe my {c1::confidence} would be valuable here.",
+    "text": "I believe my {c1::{{c1::confidence}}} would be valuable here.",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "Creo que mi confidence sería valioso aquí.",
@@ -1640,7 +1640,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "Could you tell me more about the {c1::responsibility} role?",
+    "text": "Could you tell me more about the {c1::{{c1::responsibility}}} role?",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "¿Podrías contarme más sobre el puesto de responsibility?",
@@ -1653,7 +1653,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "I’d be happy to explain my {c1::availability} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::availability}}} approach.",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "Me encantaría explicarte mi enfoque de availability.",
@@ -1666,7 +1666,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "What would success look like in terms of {c1::salary}?",
+    "text": "What would success look like in terms of {c1::{{c1::salary}}}?",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "¿Qué se vería como éxito en términos de salary?",
@@ -1679,7 +1679,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a training interview",
-    "text": "I’m looking for an opportunity to expand my {c1::value}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::value}}}.",
     "explanation": "This is a practical phrase used in during a training interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a training interview.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi value.",
@@ -1692,7 +1692,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "I’d like to talk about my {c1::learning}.",
+    "text": "I’d like to talk about my {c1::{{c1::learning}}}.",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "Me gustaría hablar de mi learning.",
@@ -1705,7 +1705,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "One of my biggest strengths is {c1::focus}.",
+    "text": "One of my biggest strengths is {c1::{{c1::focus}}}.",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "Una de mis mayores fortalezas es focus.",
@@ -1718,7 +1718,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "I’ve developed a lot of {c1::skills} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::skills}}} over the past few years.",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "He desarrollado mucho skills en los últimos años.",
@@ -1731,7 +1731,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "My main goal is to grow in {c1::motivation}.",
+    "text": "My main goal is to grow in {c1::{{c1::motivation}}}.",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "Mi objetivo principal es crecer en motivation.",
@@ -1744,7 +1744,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "I’m especially interested in {c1::confidence}.",
+    "text": "I’m especially interested in {c1::{{c1::confidence}}}.",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "Me interesa especialmente confidence.",
@@ -1757,7 +1757,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "I believe my {c1::responsibility} would be valuable here.",
+    "text": "I believe my {c1::{{c1::responsibility}}} would be valuable here.",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "Creo que mi responsibility sería valioso aquí.",
@@ -1770,7 +1770,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "Could you tell me more about the {c1::availability} role?",
+    "text": "Could you tell me more about the {c1::{{c1::availability}}} role?",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "¿Podrías contarme más sobre el puesto de availability?",
@@ -1783,7 +1783,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "I’d be happy to explain my {c1::salary} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::salary}}} approach.",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "Me encantaría explicarte mi enfoque de salary.",
@@ -1796,7 +1796,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "What would success look like in terms of {c1::value}?",
+    "text": "What would success look like in terms of {c1::{{c1::value}}}?",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "¿Qué se vería como éxito en términos de value?",
@@ -1809,7 +1809,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a remote interview",
-    "text": "I’m looking for an opportunity to expand my {c1::portfolio}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::portfolio}}}.",
     "explanation": "This is a practical phrase used in at a remote interview to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a remote interview.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi portfolio.",
@@ -1822,7 +1822,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "I’d like to talk about my {c1::focus}.",
+    "text": "I’d like to talk about my {c1::{{c1::focus}}}.",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "Me gustaría hablar de mi focus.",
@@ -1835,7 +1835,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "One of my biggest strengths is {c1::skills}.",
+    "text": "One of my biggest strengths is {c1::{{c1::skills}}}.",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "Una de mis mayores fortalezas es skills.",
@@ -1848,7 +1848,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "I’ve developed a lot of {c1::motivation} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::motivation}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "He desarrollado mucho motivation en los últimos años.",
@@ -1861,7 +1861,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "My main goal is to grow in {c1::confidence}.",
+    "text": "My main goal is to grow in {c1::{{c1::confidence}}}.",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "Mi objetivo principal es crecer en confidence.",
@@ -1874,7 +1874,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "I’m especially interested in {c1::responsibility}.",
+    "text": "I’m especially interested in {c1::{{c1::responsibility}}}.",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "Me interesa especialmente responsibility.",
@@ -1887,7 +1887,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "I believe my {c1::availability} would be valuable here.",
+    "text": "I believe my {c1::{{c1::availability}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "Creo que mi availability sería valioso aquí.",
@@ -1900,7 +1900,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "Could you tell me more about the {c1::salary} role?",
+    "text": "Could you tell me more about the {c1::{{c1::salary}}} role?",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "¿Podrías contarme más sobre el puesto de salary?",
@@ -1913,7 +1913,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "I’d be happy to explain my {c1::value} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::value}}} approach.",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "Me encantaría explicarte mi enfoque de value.",
@@ -1926,7 +1926,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "What would success look like in terms of {c1::portfolio}?",
+    "text": "What would success look like in terms of {c1::{{c1::portfolio}}}?",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "¿Qué se vería como éxito en términos de portfolio?",
@@ -1939,7 +1939,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a follow-up email conversation",
-    "text": "I’m looking for an opportunity to expand my {c1::projects}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::projects}}}.",
     "explanation": "This is a practical phrase used in in a follow-up email conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a follow-up email conversation.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi projects.",
@@ -1952,7 +1952,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "I’d like to talk about my {c1::skills}.",
+    "text": "I’d like to talk about my {c1::{{c1::skills}}}.",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "Me gustaría hablar de mi skills.",
@@ -1965,7 +1965,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "One of my biggest strengths is {c1::motivation}.",
+    "text": "One of my biggest strengths is {c1::{{c1::motivation}}}.",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "Una de mis mayores fortalezas es motivation.",
@@ -1978,7 +1978,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "I’ve developed a lot of {c1::confidence} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::confidence}}} over the past few years.",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "He desarrollado mucho confidence en los últimos años.",
@@ -1991,7 +1991,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "My main goal is to grow in {c1::responsibility}.",
+    "text": "My main goal is to grow in {c1::{{c1::responsibility}}}.",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "Mi objetivo principal es crecer en responsibility.",
@@ -2004,7 +2004,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "I’m especially interested in {c1::availability}.",
+    "text": "I’m especially interested in {c1::{{c1::availability}}}.",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "Me interesa especialmente availability.",
@@ -2017,7 +2017,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "I believe my {c1::salary} would be valuable here.",
+    "text": "I believe my {c1::{{c1::salary}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "Creo que mi salary sería valioso aquí.",
@@ -2030,7 +2030,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "Could you tell me more about the {c1::value} role?",
+    "text": "Could you tell me more about the {c1::{{c1::value}}} role?",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "¿Podrías contarme más sobre el puesto de value?",
@@ -2043,7 +2043,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "I’d be happy to explain my {c1::portfolio} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::portfolio}}} approach.",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "Me encantaría explicarte mi enfoque de portfolio.",
@@ -2056,7 +2056,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "What would success look like in terms of {c1::projects}?",
+    "text": "What would success look like in terms of {c1::{{c1::projects}}}?",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "¿Qué se vería como éxito en términos de projects?",
@@ -2069,7 +2069,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In an internal transfer discussion",
-    "text": "I’m looking for an opportunity to expand my {c1::collaboration}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::collaboration}}}.",
     "explanation": "This is a practical phrase used in in an internal transfer discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in an internal transfer discussion.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi collaboration.",
@@ -2082,7 +2082,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "I’d like to talk about my {c1::motivation}.",
+    "text": "I’d like to talk about my {c1::{{c1::motivation}}}.",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "Me gustaría hablar de mi motivation.",
@@ -2095,7 +2095,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "One of my biggest strengths is {c1::confidence}.",
+    "text": "One of my biggest strengths is {c1::{{c1::confidence}}}.",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "Una de mis mayores fortalezas es confidence.",
@@ -2108,7 +2108,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "I’ve developed a lot of {c1::responsibility} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::responsibility}}} over the past few years.",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "He desarrollado mucho responsibility en los últimos años.",
@@ -2121,7 +2121,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "My main goal is to grow in {c1::availability}.",
+    "text": "My main goal is to grow in {c1::{{c1::availability}}}.",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "Mi objetivo principal es crecer en availability.",
@@ -2134,7 +2134,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "I’m especially interested in {c1::salary}.",
+    "text": "I’m especially interested in {c1::{{c1::salary}}}.",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "Me interesa especialmente salary.",
@@ -2147,7 +2147,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "I believe my {c1::value} would be valuable here.",
+    "text": "I believe my {c1::{{c1::value}}} would be valuable here.",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "Creo que mi value sería valioso aquí.",
@@ -2160,7 +2160,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "Could you tell me more about the {c1::portfolio} role?",
+    "text": "Could you tell me more about the {c1::{{c1::portfolio}}} role?",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "¿Podrías contarme más sobre el puesto de portfolio?",
@@ -2173,7 +2173,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "I’d be happy to explain my {c1::projects} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::projects}}} approach.",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "Me encantaría explicarte mi enfoque de projects.",
@@ -2186,7 +2186,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "What would success look like in terms of {c1::collaboration}?",
+    "text": "What would success look like in terms of {c1::{{c1::collaboration}}}?",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "¿Qué se vería como éxito en términos de collaboration?",
@@ -2199,7 +2199,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a consulting pitch",
-    "text": "I’m looking for an opportunity to expand my {c1::mentorship}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::mentorship}}}.",
     "explanation": "This is a practical phrase used in at a consulting pitch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a consulting pitch.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi mentorship.",
@@ -2212,7 +2212,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "I’d like to talk about my {c1::confidence}.",
+    "text": "I’d like to talk about my {c1::{{c1::confidence}}}.",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "Me gustaría hablar de mi confidence.",
@@ -2225,7 +2225,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "One of my biggest strengths is {c1::responsibility}.",
+    "text": "One of my biggest strengths is {c1::{{c1::responsibility}}}.",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "Una de mis mayores fortalezas es responsibility.",
@@ -2238,7 +2238,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "I’ve developed a lot of {c1::availability} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::availability}}} over the past few years.",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "He desarrollado mucho availability en los últimos años.",
@@ -2251,7 +2251,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "My main goal is to grow in {c1::salary}.",
+    "text": "My main goal is to grow in {c1::{{c1::salary}}}.",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "Mi objetivo principal es crecer en salary.",
@@ -2264,7 +2264,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "I’m especially interested in {c1::value}.",
+    "text": "I’m especially interested in {c1::{{c1::value}}}.",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "Me interesa especialmente value.",
@@ -2277,7 +2277,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "I believe my {c1::portfolio} would be valuable here.",
+    "text": "I believe my {c1::{{c1::portfolio}}} would be valuable here.",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "Creo que mi portfolio sería valioso aquí.",
@@ -2290,7 +2290,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "Could you tell me more about the {c1::projects} role?",
+    "text": "Could you tell me more about the {c1::{{c1::projects}}} role?",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "¿Podrías contarme más sobre el puesto de projects?",
@@ -2303,7 +2303,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "I’d be happy to explain my {c1::collaboration} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::collaboration}}} approach.",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "Me encantaría explicarte mi enfoque de collaboration.",
@@ -2316,7 +2316,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "What would success look like in terms of {c1::mentorship}?",
+    "text": "What would success look like in terms of {c1::{{c1::mentorship}}}?",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "¿Qué se vería como éxito en términos de mentorship?",
@@ -2329,7 +2329,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a role change discussion",
-    "text": "I’m looking for an opportunity to expand my {c1::mentoring}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::mentoring}}}.",
     "explanation": "This is a practical phrase used in during a role change discussion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a role change discussion.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi mentoring.",
@@ -2342,7 +2342,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "I’d like to talk about my {c1::responsibility}.",
+    "text": "I’d like to talk about my {c1::{{c1::responsibility}}}.",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "Me gustaría hablar de mi responsibility.",
@@ -2355,7 +2355,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "One of my biggest strengths is {c1::availability}.",
+    "text": "One of my biggest strengths is {c1::{{c1::availability}}}.",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "Una de mis mayores fortalezas es availability.",
@@ -2368,7 +2368,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "I’ve developed a lot of {c1::salary} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::salary}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "He desarrollado mucho salary en los últimos años.",
@@ -2381,7 +2381,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "My main goal is to grow in {c1::value}.",
+    "text": "My main goal is to grow in {c1::{{c1::value}}}.",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "Mi objetivo principal es crecer en value.",
@@ -2394,7 +2394,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "I’m especially interested in {c1::portfolio}.",
+    "text": "I’m especially interested in {c1::{{c1::portfolio}}}.",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "Me interesa especialmente portfolio.",
@@ -2407,7 +2407,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "I believe my {c1::projects} would be valuable here.",
+    "text": "I believe my {c1::{{c1::projects}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "Creo que mi projects sería valioso aquí.",
@@ -2420,7 +2420,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "Could you tell me more about the {c1::collaboration} role?",
+    "text": "Could you tell me more about the {c1::{{c1::collaboration}}} role?",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "¿Podrías contarme más sobre el puesto de collaboration?",
@@ -2433,7 +2433,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "I’d be happy to explain my {c1::mentorship} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::mentorship}}} approach.",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "Me encantaría explicarte mi enfoque de mentorship.",
@@ -2446,7 +2446,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "What would success look like in terms of {c1::mentoring}?",
+    "text": "What would success look like in terms of {c1::{{c1::mentoring}}}?",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "¿Qué se vería como éxito en términos de mentoring?",
@@ -2459,7 +2459,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a freelance client call",
-    "text": "I’m looking for an opportunity to expand my {c1::scope}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::scope}}}.",
     "explanation": "This is a practical phrase used in in a freelance client call to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a freelance client call.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi scope.",
@@ -2472,7 +2472,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "I’d like to talk about my {c1::availability}.",
+    "text": "I’d like to talk about my {c1::{{c1::availability}}}.",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "Me gustaría hablar de mi availability.",
@@ -2485,7 +2485,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "One of my biggest strengths is {c1::salary}.",
+    "text": "One of my biggest strengths is {c1::{{c1::salary}}}.",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "Una de mis mayores fortalezas es salary.",
@@ -2498,7 +2498,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "I’ve developed a lot of {c1::value} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::value}}} over the past few years.",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "He desarrollado mucho value en los últimos años.",
@@ -2511,7 +2511,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "My main goal is to grow in {c1::portfolio}.",
+    "text": "My main goal is to grow in {c1::{{c1::portfolio}}}.",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "Mi objetivo principal es crecer en portfolio.",
@@ -2524,7 +2524,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "I’m especially interested in {c1::projects}.",
+    "text": "I’m especially interested in {c1::{{c1::projects}}}.",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "Me interesa especialmente projects.",
@@ -2537,7 +2537,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "I believe my {c1::collaboration} would be valuable here.",
+    "text": "I believe my {c1::{{c1::collaboration}}} would be valuable here.",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "Creo que mi collaboration sería valioso aquí.",
@@ -2550,7 +2550,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "Could you tell me more about the {c1::mentorship} role?",
+    "text": "Could you tell me more about the {c1::{{c1::mentorship}}} role?",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "¿Podrías contarme más sobre el puesto de mentorship?",
@@ -2563,7 +2563,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "I’d be happy to explain my {c1::mentoring} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::mentoring}}} approach.",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "Me encantaría explicarte mi enfoque de mentoring.",
@@ -2576,7 +2576,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "What would success look like in terms of {c1::scope}?",
+    "text": "What would success look like in terms of {c1::{{c1::scope}}}?",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "¿Qué se vería como éxito en términos de scope?",
@@ -2589,7 +2589,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At an employer meetup",
-    "text": "I’m looking for an opportunity to expand my {c1::timeline}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::timeline}}}.",
     "explanation": "This is a practical phrase used in at an employer meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at an employer meetup.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi timeline.",
@@ -2602,7 +2602,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "I’d like to talk about my {c1::salary}.",
+    "text": "I’d like to talk about my {c1::{{c1::salary}}}.",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "Me gustaría hablar de mi salary.",
@@ -2615,7 +2615,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "One of my biggest strengths is {c1::value}.",
+    "text": "One of my biggest strengths is {c1::{{c1::value}}}.",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "Una de mis mayores fortalezas es value.",
@@ -2628,7 +2628,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "I’ve developed a lot of {c1::portfolio} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::portfolio}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "He desarrollado mucho portfolio en los últimos años.",
@@ -2641,7 +2641,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "My main goal is to grow in {c1::projects}.",
+    "text": "My main goal is to grow in {c1::{{c1::projects}}}.",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "Mi objetivo principal es crecer en projects.",
@@ -2654,7 +2654,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "I’m especially interested in {c1::collaboration}.",
+    "text": "I’m especially interested in {c1::{{c1::collaboration}}}.",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "Me interesa especialmente collaboration.",
@@ -2667,7 +2667,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "I believe my {c1::mentorship} would be valuable here.",
+    "text": "I believe my {c1::{{c1::mentorship}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "Creo que mi mentorship sería valioso aquí.",
@@ -2680,7 +2680,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "Could you tell me more about the {c1::mentoring} role?",
+    "text": "Could you tell me more about the {c1::{{c1::mentoring}}} role?",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "¿Podrías contarme más sobre el puesto de mentoring?",
@@ -2693,7 +2693,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "I’d be happy to explain my {c1::scope} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::scope}}} approach.",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "Me encantaría explicarte mi enfoque de scope.",
@@ -2706,7 +2706,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "What would success look like in terms of {c1::timeline}?",
+    "text": "What would success look like in terms of {c1::{{c1::timeline}}}?",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "¿Qué se vería como éxito en términos de timeline?",
@@ -2719,7 +2719,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a job referral conversation",
-    "text": "I’m looking for an opportunity to expand my {c1::feedback}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::feedback}}}.",
     "explanation": "This is a practical phrase used in in a job referral conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a job referral conversation.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi feedback.",
@@ -2732,7 +2732,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "I’d like to talk about my {c1::value}.",
+    "text": "I’d like to talk about my {c1::{{c1::value}}}.",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "Me gustaría hablar de mi value.",
@@ -2745,7 +2745,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "One of my biggest strengths is {c1::portfolio}.",
+    "text": "One of my biggest strengths is {c1::{{c1::portfolio}}}.",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "Una de mis mayores fortalezas es portfolio.",
@@ -2758,7 +2758,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "I’ve developed a lot of {c1::projects} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::projects}}} over the past few years.",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "He desarrollado mucho projects en los últimos años.",
@@ -2771,7 +2771,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "My main goal is to grow in {c1::collaboration}.",
+    "text": "My main goal is to grow in {c1::{{c1::collaboration}}}.",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "Mi objetivo principal es crecer en collaboration.",
@@ -2784,7 +2784,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "I’m especially interested in {c1::mentorship}.",
+    "text": "I’m especially interested in {c1::{{c1::mentorship}}}.",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "Me interesa especialmente mentorship.",
@@ -2797,7 +2797,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "I believe my {c1::mentoring} would be valuable here.",
+    "text": "I believe my {c1::{{c1::mentoring}}} would be valuable here.",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "Creo que mi mentoring sería valioso aquí.",
@@ -2810,7 +2810,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "Could you tell me more about the {c1::scope} role?",
+    "text": "Could you tell me more about the {c1::{{c1::scope}}} role?",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "¿Podrías contarme más sobre el puesto de scope?",
@@ -2823,7 +2823,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "I’d be happy to explain my {c1::timeline} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::timeline}}} approach.",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "Me encantaría explicarte mi enfoque de timeline.",
@@ -2836,7 +2836,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "What would success look like in terms of {c1::feedback}?",
+    "text": "What would success look like in terms of {c1::{{c1::feedback}}}?",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "¿Qué se vería como éxito en términos de feedback?",
@@ -2849,7 +2849,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: During a professional introduction",
-    "text": "I’m looking for an opportunity to expand my {c1::experience}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::experience}}}.",
     "explanation": "This is a practical phrase used in during a professional introduction to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in during a professional introduction.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi experience.",
@@ -2862,7 +2862,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "I’d like to talk about my {c1::portfolio}.",
+    "text": "I’d like to talk about my {c1::{{c1::portfolio}}}.",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "Me gustaría hablar de mi portfolio.",
@@ -2875,7 +2875,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "One of my biggest strengths is {c1::projects}.",
+    "text": "One of my biggest strengths is {c1::{{c1::projects}}}.",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "Una de mis mayores fortalezas es projects.",
@@ -2888,7 +2888,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "I’ve developed a lot of {c1::collaboration} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::collaboration}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "He desarrollado mucho collaboration en los últimos años.",
@@ -2901,7 +2901,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "My main goal is to grow in {c1::mentorship}.",
+    "text": "My main goal is to grow in {c1::{{c1::mentorship}}}.",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "Mi objetivo principal es crecer en mentorship.",
@@ -2914,7 +2914,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "I’m especially interested in {c1::mentoring}.",
+    "text": "I’m especially interested in {c1::{{c1::mentoring}}}.",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "Me interesa especialmente mentoring.",
@@ -2927,7 +2927,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "I believe my {c1::scope} would be valuable here.",
+    "text": "I believe my {c1::{{c1::scope}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "Creo que mi scope sería valioso aquí.",
@@ -2940,7 +2940,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "Could you tell me more about the {c1::timeline} role?",
+    "text": "Could you tell me more about the {c1::{{c1::timeline}}} role?",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "¿Podrías contarme más sobre el puesto de timeline?",
@@ -2953,7 +2953,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "I’d be happy to explain my {c1::feedback} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::feedback}}} approach.",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "Me encantaría explicarte mi enfoque de feedback.",
@@ -2966,7 +2966,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "What would success look like in terms of {c1::experience}?",
+    "text": "What would success look like in terms of {c1::{{c1::experience}}}?",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "¿Qué se vería como éxito en términos de experience?",
@@ -2979,7 +2979,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career coaching session",
-    "text": "I’m looking for an opportunity to expand my {c1::strengths}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::strengths}}}.",
     "explanation": "This is a practical phrase used in in a career coaching session to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career coaching session.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi strengths.",
@@ -2992,7 +2992,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "I’d like to talk about my {c1::projects}.",
+    "text": "I’d like to talk about my {c1::{{c1::projects}}}.",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "Me gustaría hablar de mi projects.",
@@ -3005,7 +3005,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "One of my biggest strengths is {c1::collaboration}.",
+    "text": "One of my biggest strengths is {c1::{{c1::collaboration}}}.",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "Una de mis mayores fortalezas es collaboration.",
@@ -3018,7 +3018,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "I’ve developed a lot of {c1::mentorship} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::mentorship}}} over the past few years.",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "He desarrollado mucho mentorship en los últimos años.",
@@ -3031,7 +3031,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "My main goal is to grow in {c1::mentoring}.",
+    "text": "My main goal is to grow in {c1::{{c1::mentoring}}}.",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "Mi objetivo principal es crecer en mentoring.",
@@ -3044,7 +3044,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "I’m especially interested in {c1::scope}.",
+    "text": "I’m especially interested in {c1::{{c1::scope}}}.",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "Me interesa especialmente scope.",
@@ -3057,7 +3057,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "I believe my {c1::timeline} would be valuable here.",
+    "text": "I believe my {c1::{{c1::timeline}}} would be valuable here.",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "Creo que mi timeline sería valioso aquí.",
@@ -3070,7 +3070,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "Could you tell me more about the {c1::feedback} role?",
+    "text": "Could you tell me more about the {c1::{{c1::feedback}}} role?",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "¿Podrías contarme más sobre el puesto de feedback?",
@@ -3083,7 +3083,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "I’d be happy to explain my {c1::experience} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::experience}}} approach.",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "Me encantaría explicarte mi enfoque de experience.",
@@ -3096,7 +3096,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "What would success look like in terms of {c1::strengths}?",
+    "text": "What would success look like in terms of {c1::{{c1::strengths}}}?",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "¿Qué se vería como éxito en términos de strengths?",
@@ -3109,7 +3109,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: At a skills assessment",
-    "text": "I’m looking for an opportunity to expand my {c1::weaknesses}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::weaknesses}}}.",
     "explanation": "This is a practical phrase used in at a skills assessment to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a skills assessment.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi weaknesses.",
@@ -3122,7 +3122,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "I’d like to talk about my {c1::collaboration}.",
+    "text": "I’d like to talk about my {c1::{{c1::collaboration}}}.",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "Me gustaría hablar de mi collaboration.",
@@ -3135,7 +3135,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "One of my biggest strengths is {c1::mentorship}.",
+    "text": "One of my biggest strengths is {c1::{{c1::mentorship}}}.",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "Una de mis mayores fortalezas es mentorship.",
@@ -3148,7 +3148,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "I’ve developed a lot of {c1::mentoring} over the past few years.",
+    "text": "I’ve developed a lot of {c1::{{c1::mentoring}}} over the past few years.",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "He desarrollado mucho mentoring en los últimos años.",
@@ -3161,7 +3161,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "My main goal is to grow in {c1::scope}.",
+    "text": "My main goal is to grow in {c1::{{c1::scope}}}.",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "Mi objetivo principal es crecer en scope.",
@@ -3174,7 +3174,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "I’m especially interested in {c1::timeline}.",
+    "text": "I’m especially interested in {c1::{{c1::timeline}}}.",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "Me interesa especialmente timeline.",
@@ -3187,7 +3187,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "I believe my {c1::feedback} would be valuable here.",
+    "text": "I believe my {c1::{{c1::feedback}}} would be valuable here.",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "Creo que mi feedback sería valioso aquí.",
@@ -3200,7 +3200,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "Could you tell me more about the {c1::experience} role?",
+    "text": "Could you tell me more about the {c1::{{c1::experience}}} role?",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "¿Podrías contarme más sobre el puesto de experience?",
@@ -3213,7 +3213,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "I’d be happy to explain my {c1::strengths} approach.",
+    "text": "I’d be happy to explain my {c1::{{c1::strengths}}} approach.",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "Me encantaría explicarte mi enfoque de strengths.",
@@ -3226,7 +3226,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "What would success look like in terms of {c1::weaknesses}?",
+    "text": "What would success look like in terms of {c1::{{c1::weaknesses}}}?",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "¿Qué se vería como éxito en términos de weaknesses?",
@@ -3239,7 +3239,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
     "scenario": "05_Interviews_and_Careers: In a career development conversation",
-    "text": "I’m looking for an opportunity to expand my {c1::career goals}.",
+    "text": "I’m looking for an opportunity to expand my {c1::{{c1::career goals}}}.",
     "explanation": "This is a practical phrase used in in a career development conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a career development conversation.",
     "spanish": "Estoy buscando una oportunidad para ampliar mi career goals.",
