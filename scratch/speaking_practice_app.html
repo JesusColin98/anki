@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Speaking Practice Recorder</title>
+  <style>
+    body { font-family: Inter, system-ui, sans-serif; background: #f8fafc; color: #0f172a; margin: 0; padding: 24px; }
+    .card { max-width: 760px; margin: 0 auto; background: white; border-radius: 16px; padding: 24px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); }
+    .prompt { font-size: 1.2rem; font-weight: 600; margin-bottom: 16px; }
+    .controls { display: flex; gap: 12px; flex-wrap: wrap; margin: 16px 0; }
+    button { border: 0; border-radius: 999px; padding: 10px 16px; font-weight: 600; cursor: pointer; }
+    .record { background: #dc2626; color: white; }
+    .stop { background: #2563eb; color: white; }
+    .save { background: #16a34a; color: white; }
+    audio { width: 100%; margin-top: 10px; }
+    .status { margin-top: 12px; color: #475569; }
+    .download-link { margin-top: 12px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>Speaking Practice Recorder</h2>
+    <div class="prompt" id="prompt">Say this out loud and record yourself.</div>
+    <div class="controls">
+      <button class="record" id="startBtn">Start recording</button>
+      <button class="stop" id="stopBtn" disabled>Stop recording</button>
+      <button class="save" id="saveBtn" disabled>Save locally</button>
+    </div>
+    <div class="status" id="status">Ready to record.</div>
+    <audio id="playback" controls></audio>
+    <div class="download-link" id="downloadLink"></div>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const promptText = params.get('prompt') || 'Say this out loud and record yourself.';
+    document.getElementById('prompt').textContent = promptText;
+
+    let mediaRecorder;
+    let chunks = [];
+    let audioUrl = '';
+
+    const startBtn = document.getElementById('startBtn');
+    const stopBtn = document.getElementById('stopBtn');
+    const saveBtn = document.getElementById('saveBtn');
+    const status = document.getElementById('status');
+    const playback = document.getElementById('playback');
+    const downloadLink = document.getElementById('downloadLink');
+
+    startBtn.addEventListener('click', async () => {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      mediaRecorder = new MediaRecorder(stream);
+      chunks = [];
+
+      mediaRecorder.ondataavailable = (event) => {
+        if (event.data.size > 0) chunks.push(event.data);
+      };
+
+      mediaRecorder.onstop = () => {
+        const blob = new Blob(chunks, { type: 'audio/webm' });
+        audioUrl = URL.createObjectURL(blob);
+        playback.src = audioUrl;
+        playback.load();
+        saveBtn.disabled = false;
+        status.textContent = 'Recording complete. You can replay it or save it locally.';
+        stream.getTracks().forEach((track) => track.stop());
+      };
+
+      mediaRecorder.start();
+      startBtn.disabled = true;
+      stopBtn.disabled = false;
+      status.textContent = 'Recording... speak naturally and keep going for 10–20 seconds.';
+    });
+
+    stopBtn.addEventListener('click', () => {
+      if (mediaRecorder && mediaRecorder.state !== 'inactive') {
+        mediaRecorder.stop();
+        startBtn.disabled = false;
+        stopBtn.disabled = true;
+      }
+    });
+
+    saveBtn.addEventListener('click', () => {
+      if (!audioUrl) return;
+      const a = document.createElement('a');
+      a.href = audioUrl;
+      a.download = 'speaking-practice.webm';
+      a.click();
+      status.textContent = 'Download started.';
+    });
+  </script>
+</body>
+</html>

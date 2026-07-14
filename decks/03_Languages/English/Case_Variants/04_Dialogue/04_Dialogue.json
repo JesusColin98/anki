@@ -1,0 +1,1362 @@
+[
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d like to talk about my {c1::experience}.",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me gustaría hablar de mi experience.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d like to talk about my {c1::experience}.",
+    "source_spanish": "Me gustaría hablar de mi experience.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: One of my biggest strengths is {c1::strengths}.",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Una de mis mayores fortalezas es strengths.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "One of my biggest strengths is {c1::strengths}.",
+    "source_spanish": "Una de mis mayores fortalezas es strengths.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’ve developed a lot of {c1::weaknesses} over the past few years.",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: He desarrollado mucho weaknesses en los últimos años.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’ve developed a lot of {c1::weaknesses} over the past few years.",
+    "source_spanish": "He desarrollado mucho weaknesses en los últimos años.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: My main goal is to grow in {c1::career goals}.",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Mi objetivo principal es crecer en career goals.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "My main goal is to grow in {c1::career goals}.",
+    "source_spanish": "Mi objetivo principal es crecer en career goals.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m especially interested in {c1::leadership}.",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me interesa especialmente leadership.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m especially interested in {c1::leadership}.",
+    "source_spanish": "Me interesa especialmente leadership.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I believe my {c1::problem-solving} would be valuable here.",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Creo que mi problem-solving sería valioso aquí.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I believe my {c1::problem-solving} would be valuable here.",
+    "source_spanish": "Creo que mi problem-solving sería valioso aquí.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: Could you tell me more about the {c1::teamwork} role?",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Podrías contarme más sobre el puesto de teamwork?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "Could you tell me more about the {c1::teamwork} role?",
+    "source_spanish": "¿Podrías contarme más sobre el puesto de teamwork?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d be happy to explain my {c1::communication} approach.",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me encantaría explicarte mi enfoque de communication.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d be happy to explain my {c1::communication} approach.",
+    "source_spanish": "Me encantaría explicarte mi enfoque de communication.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: What would success look like in terms of {c1::adaptability}?",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Qué se vería como éxito en términos de adaptability?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "What would success look like in terms of {c1::adaptability}?",
+    "source_spanish": "¿Qué se vería como éxito en términos de adaptability?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m looking for an opportunity to expand my {c1::initiative}.",
+    "scenario": "05_Interviews_and_Careers: At a job interview · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Estoy buscando una oportunidad para ampliar mi initiative.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m looking for an opportunity to expand my {c1::initiative}.",
+    "source_spanish": "Estoy buscando una oportunidad para ampliar mi initiative.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d like to talk about my {c1::strengths}.",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me gustaría hablar de mi strengths.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d like to talk about my {c1::strengths}.",
+    "source_spanish": "Me gustaría hablar de mi strengths.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: One of my biggest strengths is {c1::weaknesses}.",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Una de mis mayores fortalezas es weaknesses.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "One of my biggest strengths is {c1::weaknesses}.",
+    "source_spanish": "Una de mis mayores fortalezas es weaknesses.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’ve developed a lot of {c1::career goals} over the past few years.",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: He desarrollado mucho career goals en los últimos años.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’ve developed a lot of {c1::career goals} over the past few years.",
+    "source_spanish": "He desarrollado mucho career goals en los últimos años.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: My main goal is to grow in {c1::leadership}.",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Mi objetivo principal es crecer en leadership.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "My main goal is to grow in {c1::leadership}.",
+    "source_spanish": "Mi objetivo principal es crecer en leadership.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m especially interested in {c1::problem-solving}.",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me interesa especialmente problem-solving.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m especially interested in {c1::problem-solving}.",
+    "source_spanish": "Me interesa especialmente problem-solving.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I believe my {c1::teamwork} would be valuable here.",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Creo que mi teamwork sería valioso aquí.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I believe my {c1::teamwork} would be valuable here.",
+    "source_spanish": "Creo que mi teamwork sería valioso aquí.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: Could you tell me more about the {c1::communication} role?",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Podrías contarme más sobre el puesto de communication?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "Could you tell me more about the {c1::communication} role?",
+    "source_spanish": "¿Podrías contarme más sobre el puesto de communication?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d be happy to explain my {c1::adaptability} approach.",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me encantaría explicarte mi enfoque de adaptability.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d be happy to explain my {c1::adaptability} approach.",
+    "source_spanish": "Me encantaría explicarte mi enfoque de adaptability.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: What would success look like in terms of {c1::initiative}?",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Qué se vería como éxito en términos de initiative?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "What would success look like in terms of {c1::initiative}?",
+    "source_spanish": "¿Qué se vería como éxito en términos de initiative?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m looking for an opportunity to expand my {c1::results}.",
+    "scenario": "05_Interviews_and_Careers: In a networking event · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Estoy buscando una oportunidad para ampliar mi results.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m looking for an opportunity to expand my {c1::results}.",
+    "source_spanish": "Estoy buscando una oportunidad para ampliar mi results.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d like to talk about my {c1::weaknesses}.",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me gustaría hablar de mi weaknesses.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d like to talk about my {c1::weaknesses}.",
+    "source_spanish": "Me gustaría hablar de mi weaknesses.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: One of my biggest strengths is {c1::career goals}.",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Una de mis mayores fortalezas es career goals.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "One of my biggest strengths is {c1::career goals}.",
+    "source_spanish": "Una de mis mayores fortalezas es career goals.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’ve developed a lot of {c1::leadership} over the past few years.",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: He desarrollado mucho leadership en los últimos años.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’ve developed a lot of {c1::leadership} over the past few years.",
+    "source_spanish": "He desarrollado mucho leadership en los últimos años.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: My main goal is to grow in {c1::problem-solving}.",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Mi objetivo principal es crecer en problem-solving.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "My main goal is to grow in {c1::problem-solving}.",
+    "source_spanish": "Mi objetivo principal es crecer en problem-solving.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m especially interested in {c1::teamwork}.",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me interesa especialmente teamwork.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m especially interested in {c1::teamwork}.",
+    "source_spanish": "Me interesa especialmente teamwork.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I believe my {c1::communication} would be valuable here.",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Creo que mi communication sería valioso aquí.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I believe my {c1::communication} would be valuable here.",
+    "source_spanish": "Creo que mi communication sería valioso aquí.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: Could you tell me more about the {c1::adaptability} role?",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Podrías contarme más sobre el puesto de adaptability?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "Could you tell me more about the {c1::adaptability} role?",
+    "source_spanish": "¿Podrías contarme más sobre el puesto de adaptability?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d be happy to explain my {c1::initiative} approach.",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me encantaría explicarte mi enfoque de initiative.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d be happy to explain my {c1::initiative} approach.",
+    "source_spanish": "Me encantaría explicarte mi enfoque de initiative.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: What would success look like in terms of {c1::results}?",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Qué se vería como éxito en términos de results?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "What would success look like in terms of {c1::results}?",
+    "source_spanish": "¿Qué se vería como éxito en términos de results?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m looking for an opportunity to expand my {c1::impact}.",
+    "scenario": "05_Interviews_and_Careers: In a promotion discussion · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Estoy buscando una oportunidad para ampliar mi impact.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m looking for an opportunity to expand my {c1::impact}.",
+    "source_spanish": "Estoy buscando una oportunidad para ampliar mi impact.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d like to talk about my {c1::career goals}.",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me gustaría hablar de mi career goals.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d like to talk about my {c1::career goals}.",
+    "source_spanish": "Me gustaría hablar de mi career goals.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: One of my biggest strengths is {c1::leadership}.",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Una de mis mayores fortalezas es leadership.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "One of my biggest strengths is {c1::leadership}.",
+    "source_spanish": "Una de mis mayores fortalezas es leadership.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’ve developed a lot of {c1::problem-solving} over the past few years.",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: He desarrollado mucho problem-solving en los últimos años.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’ve developed a lot of {c1::problem-solving} over the past few years.",
+    "source_spanish": "He desarrollado mucho problem-solving en los últimos años.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: My main goal is to grow in {c1::teamwork}.",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Mi objetivo principal es crecer en teamwork.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "My main goal is to grow in {c1::teamwork}.",
+    "source_spanish": "Mi objetivo principal es crecer en teamwork.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m especially interested in {c1::communication}.",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me interesa especialmente communication.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m especially interested in {c1::communication}.",
+    "source_spanish": "Me interesa especialmente communication.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I believe my {c1::adaptability} would be valuable here.",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Creo que mi adaptability sería valioso aquí.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I believe my {c1::adaptability} would be valuable here.",
+    "source_spanish": "Creo que mi adaptability sería valioso aquí.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: Could you tell me more about the {c1::initiative} role?",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Podrías contarme más sobre el puesto de initiative?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "Could you tell me more about the {c1::initiative} role?",
+    "source_spanish": "¿Podrías contarme más sobre el puesto de initiative?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d be happy to explain my {c1::results} approach.",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me encantaría explicarte mi enfoque de results.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d be happy to explain my {c1::results} approach.",
+    "source_spanish": "Me encantaría explicarte mi enfoque de results.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: What would success look like in terms of {c1::impact}?",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Qué se vería como éxito en términos de impact?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "What would success look like in terms of {c1::impact}?",
+    "source_spanish": "¿Qué se vería como éxito en términos de impact?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m looking for an opportunity to expand my {c1::growth}.",
+    "scenario": "05_Interviews_and_Careers: During a salary negotiation · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Estoy buscando una oportunidad para ampliar mi growth.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m looking for an opportunity to expand my {c1::growth}.",
+    "source_spanish": "Estoy buscando una oportunidad para ampliar mi growth.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d like to talk about my {c1::leadership}.",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me gustaría hablar de mi leadership.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d like to talk about my {c1::leadership}.",
+    "source_spanish": "Me gustaría hablar de mi leadership.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: One of my biggest strengths is {c1::problem-solving}.",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Una de mis mayores fortalezas es problem-solving.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "One of my biggest strengths is {c1::problem-solving}.",
+    "source_spanish": "Una de mis mayores fortalezas es problem-solving.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’ve developed a lot of {c1::teamwork} over the past few years.",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: He desarrollado mucho teamwork en los últimos años.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’ve developed a lot of {c1::teamwork} over the past few years.",
+    "source_spanish": "He desarrollado mucho teamwork en los últimos años.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: My main goal is to grow in {c1::communication}.",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Mi objetivo principal es crecer en communication.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "My main goal is to grow in {c1::communication}.",
+    "source_spanish": "Mi objetivo principal es crecer en communication.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m especially interested in {c1::adaptability}.",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me interesa especialmente adaptability.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m especially interested in {c1::adaptability}.",
+    "source_spanish": "Me interesa especialmente adaptability.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I believe my {c1::initiative} would be valuable here.",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Creo que mi initiative sería valioso aquí.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I believe my {c1::initiative} would be valuable here.",
+    "source_spanish": "Creo que mi initiative sería valioso aquí.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: Could you tell me more about the {c1::results} role?",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Podrías contarme más sobre el puesto de results?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "Could you tell me more about the {c1::results} role?",
+    "source_spanish": "¿Podrías contarme más sobre el puesto de results?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d be happy to explain my {c1::impact} approach.",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me encantaría explicarte mi enfoque de impact.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d be happy to explain my {c1::impact} approach.",
+    "source_spanish": "Me encantaría explicarte mi enfoque de impact.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: What would success look like in terms of {c1::growth}?",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Qué se vería como éxito en términos de growth?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "What would success look like in terms of {c1::growth}?",
+    "source_spanish": "¿Qué se vería como éxito en términos de growth?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m looking for an opportunity to expand my {c1::learning}.",
+    "scenario": "05_Interviews_and_Careers: In a performance review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Estoy buscando una oportunidad para ampliar mi learning.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m looking for an opportunity to expand my {c1::learning}.",
+    "source_spanish": "Estoy buscando una oportunidad para ampliar mi learning.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d like to talk about my {c1::problem-solving}.",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me gustaría hablar de mi problem-solving.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d like to talk about my {c1::problem-solving}.",
+    "source_spanish": "Me gustaría hablar de mi problem-solving.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: One of my biggest strengths is {c1::teamwork}.",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Una de mis mayores fortalezas es teamwork.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "One of my biggest strengths is {c1::teamwork}.",
+    "source_spanish": "Una de mis mayores fortalezas es teamwork.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’ve developed a lot of {c1::communication} over the past few years.",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: He desarrollado mucho communication en los últimos años.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’ve developed a lot of {c1::communication} over the past few years.",
+    "source_spanish": "He desarrollado mucho communication en los últimos años.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: My main goal is to grow in {c1::adaptability}.",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Mi objetivo principal es crecer en adaptability.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "My main goal is to grow in {c1::adaptability}.",
+    "source_spanish": "Mi objetivo principal es crecer en adaptability.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m especially interested in {c1::initiative}.",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me interesa especialmente initiative.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m especially interested in {c1::initiative}.",
+    "source_spanish": "Me interesa especialmente initiative.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I believe my {c1::results} would be valuable here.",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Creo que mi results sería valioso aquí.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I believe my {c1::results} would be valuable here.",
+    "source_spanish": "Creo que mi results sería valioso aquí.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: Could you tell me more about the {c1::impact} role?",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Podrías contarme más sobre el puesto de impact?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "Could you tell me more about the {c1::impact} role?",
+    "source_spanish": "¿Podrías contarme más sobre el puesto de impact?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d be happy to explain my {c1::growth} approach.",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me encantaría explicarte mi enfoque de growth.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d be happy to explain my {c1::growth} approach.",
+    "source_spanish": "Me encantaría explicarte mi enfoque de growth.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: What would success look like in terms of {c1::learning}?",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Qué se vería como éxito en términos de learning?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "What would success look like in terms of {c1::learning}?",
+    "source_spanish": "¿Qué se vería como éxito en términos de learning?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m looking for an opportunity to expand my {c1::focus}.",
+    "scenario": "05_Interviews_and_Careers: At a career fair · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Estoy buscando una oportunidad para ampliar mi focus.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m looking for an opportunity to expand my {c1::focus}.",
+    "source_spanish": "Estoy buscando una oportunidad para ampliar mi focus.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d like to talk about my {c1::teamwork}.",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me gustaría hablar de mi teamwork.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d like to talk about my {c1::teamwork}.",
+    "source_spanish": "Me gustaría hablar de mi teamwork.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: One of my biggest strengths is {c1::communication}.",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Una de mis mayores fortalezas es communication.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "One of my biggest strengths is {c1::communication}.",
+    "source_spanish": "Una de mis mayores fortalezas es communication.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’ve developed a lot of {c1::adaptability} over the past few years.",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: He desarrollado mucho adaptability en los últimos años.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’ve developed a lot of {c1::adaptability} over the past few years.",
+    "source_spanish": "He desarrollado mucho adaptability en los últimos años.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: My main goal is to grow in {c1::initiative}.",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Mi objetivo principal es crecer en initiative.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "My main goal is to grow in {c1::initiative}.",
+    "source_spanish": "Mi objetivo principal es crecer en initiative.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m especially interested in {c1::results}.",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me interesa especialmente results.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m especially interested in {c1::results}.",
+    "source_spanish": "Me interesa especialmente results.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I believe my {c1::impact} would be valuable here.",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Creo que mi impact sería valioso aquí.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I believe my {c1::impact} would be valuable here.",
+    "source_spanish": "Creo que mi impact sería valioso aquí.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: Could you tell me more about the {c1::growth} role?",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Podrías contarme más sobre el puesto de growth?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "Could you tell me more about the {c1::growth} role?",
+    "source_spanish": "¿Podrías contarme más sobre el puesto de growth?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d be happy to explain my {c1::learning} approach.",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me encantaría explicarte mi enfoque de learning.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d be happy to explain my {c1::learning} approach.",
+    "source_spanish": "Me encantaría explicarte mi enfoque de learning.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: What would success look like in terms of {c1::focus}?",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Qué se vería como éxito en términos de focus?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "What would success look like in terms of {c1::focus}?",
+    "source_spanish": "¿Qué se vería como éxito en términos de focus?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m looking for an opportunity to expand my {c1::skills}.",
+    "scenario": "05_Interviews_and_Careers: In a recruiter call · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Estoy buscando una oportunidad para ampliar mi skills.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m looking for an opportunity to expand my {c1::skills}.",
+    "source_spanish": "Estoy buscando una oportunidad para ampliar mi skills.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d like to talk about my {c1::communication}.",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me gustaría hablar de mi communication.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d like to talk about my {c1::communication}.",
+    "source_spanish": "Me gustaría hablar de mi communication.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: One of my biggest strengths is {c1::adaptability}.",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Una de mis mayores fortalezas es adaptability.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "One of my biggest strengths is {c1::adaptability}.",
+    "source_spanish": "Una de mis mayores fortalezas es adaptability.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’ve developed a lot of {c1::initiative} over the past few years.",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: He desarrollado mucho initiative en los últimos años.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’ve developed a lot of {c1::initiative} over the past few years.",
+    "source_spanish": "He desarrollado mucho initiative en los últimos años.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: My main goal is to grow in {c1::results}.",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Mi objetivo principal es crecer en results.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "My main goal is to grow in {c1::results}.",
+    "source_spanish": "Mi objetivo principal es crecer en results.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m especially interested in {c1::impact}.",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me interesa especialmente impact.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m especially interested in {c1::impact}.",
+    "source_spanish": "Me interesa especialmente impact.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I believe my {c1::growth} would be valuable here.",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Creo que mi growth sería valioso aquí.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I believe my {c1::growth} would be valuable here.",
+    "source_spanish": "Creo que mi growth sería valioso aquí.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: Could you tell me more about the {c1::learning} role?",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Podrías contarme más sobre el puesto de learning?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "Could you tell me more about the {c1::learning} role?",
+    "source_spanish": "¿Podrías contarme más sobre el puesto de learning?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’d be happy to explain my {c1::focus} approach.",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Me encantaría explicarte mi enfoque de focus.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’d be happy to explain my {c1::focus} approach.",
+    "source_spanish": "Me encantaría explicarte mi enfoque de focus.",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: What would success look like in terms of {c1::skills}?",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: ¿Qué se vería como éxito en términos de skills?",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "What would success look like in terms of {c1::skills}?",
+    "source_spanish": "¿Qué se vería como éxito en términos de skills?",
+    "variant_type": "dialogue"
+  },
+  {
+    "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+    "text": "Complete the dialogue: I’m looking for an opportunity to expand my {c1::motivation}.",
+    "scenario": "05_Interviews_and_Careers: At a portfolio review · Dialogue",
+    "explanation": "This is a dialogue reinforcement card derived from the same base scenario.",
+    "usage": "Use the phrase naturally and keep the exchange realistic.",
+    "spanish": "Completa el diálogo usando: Estoy buscando una oportunidad para ampliar mi motivation.",
+    "tags": [
+      "english",
+      "case_variant",
+      "dialogue",
+      "deterministic"
+    ],
+    "source_text": "I’m looking for an opportunity to expand my {c1::motivation}.",
+    "source_spanish": "Estoy buscando una oportunidad para ampliar mi motivation.",
+    "variant_type": "dialogue"
+  }
+]

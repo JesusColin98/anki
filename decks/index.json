@@ -1,6 +1,6 @@
 {
-  "total_cards": 3949,
-  "total_decks": 200,
+  "total_cards": 5349,
+  "total_decks": 209,
   "decks": [
     {
       "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
@@ -1001,6 +1001,51 @@
       "deck": "06_Business_and_Productivity::Productivity::Learning::09 Ultralearning",
       "path": "decks/06_Business_and_Productivity/Productivity/Learning/09_Ultralearning.json",
       "cards_count": 20
+    },
+    {
+      "deck": "03_Languages::English::08_Real_Scenario_Expansion::05_Interviews_and_Careers",
+      "path": "decks/03_Languages/English/08_Real_Scenario_Expansion/05_Interviews_and_Careers/05_Interviews_and_Careers.json",
+      "cards_count": 250
+    },
+    {
+      "deck": "03_Languages::English::08_Real_Scenario_Expansion::06_Phone_Calls_and_Customer_Service",
+      "path": "decks/03_Languages/English/08_Real_Scenario_Expansion/06_Phone_Calls_and_Customer_Service/06_Phone_Calls_and_Customer_Service.json",
+      "cards_count": 250
+    },
+    {
+      "deck": "03_Languages::English::08_Real_Scenario_Expansion::07_Health_and_Emergencies",
+      "path": "decks/03_Languages/English/08_Real_Scenario_Expansion/07_Health_and_Emergencies/07_Health_and_Emergencies.json",
+      "cards_count": 250
+    },
+    {
+      "deck": "03_Languages::English::08_Real_Scenario_Expansion::08_Education_and_Academic_Contexts",
+      "path": "decks/03_Languages/English/08_Real_Scenario_Expansion/08_Education_and_Academic_Contexts/08_Education_and_Academic_Contexts.json",
+      "cards_count": 250
+    },
+    {
+      "deck": "03_Languages::English::Speaking::01_Speaking_Practice",
+      "path": "decks/03_Languages/English/Speaking/01_Speaking_Practice/01_Speaking_Practice.json",
+      "cards_count": 80
+    },
+    {
+      "deck": "03_Languages::English::Case_Variants::01_Speaking",
+      "path": "decks/03_Languages/English/Case_Variants/01_Speaking/01_Speaking.json",
+      "cards_count": 80
+    },
+    {
+      "deck": "03_Languages::English::Case_Variants::02_Listening",
+      "path": "decks/03_Languages/English/Case_Variants/02_Listening/02_Listening.json",
+      "cards_count": 80
+    },
+    {
+      "deck": "03_Languages::English::Case_Variants::03_Writing",
+      "path": "decks/03_Languages/English/Case_Variants/03_Writing/03_Writing.json",
+      "cards_count": 80
+    },
+    {
+      "deck": "03_Languages::English::Case_Variants::04_Dialogue",
+      "path": "decks/03_Languages/English/Case_Variants/04_Dialogue/04_Dialogue.json",
+      "cards_count": 80
     }
   ]
 }

@@ -21,18 +21,12 @@ def invoke(action, **params):
         print(f"Error connecting to AnkiConnect. Is Anki running?", file=sys.stderr)
         sys.exit(1)
     except Exception as e:
-        print(f"Error: {e}", file=sys.stderr)
-        sys.exit(1)
+        raise e
 
 def ensure_model_exists():
-    model_name = "Engaging_Cloze_Model"
     models = invoke('modelNames')
-    if model_name in models:
-        print(f"Model '{model_name}' already exists.")
-        return
-    
-    print(f"Creating custom model '{model_name}'...")
-    css_content = """
+
+    cloze_css = """
 .card {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     font-size: 19px;
@@ -224,17 +218,92 @@ details p {
 }
 """
 
-    front_template = """<div class="scenario-badge">{{Scenario}}</div>
-<div class="sentence-front">{{cloze:Text}}</div>"""
+    speaking_css = """
+.card {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 19px;
+    line-height: 1.6;
+    color: #2D3748;
+    background-color: #F8FAFC;
+    padding: 24px;
+    max-width: 620px;
+    margin: 0 auto;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
 
-    back_template = """<div class="scenario-badge">{{Scenario}}</div>
-<div class="sentence-front">{{cloze:Text}}</div>
+.scenario-badge {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #475569;
+    background-color: #E2E8F0;
+    padding: 4px 12px;
+    border-radius: 9999px;
+    margin-bottom: 16px;
+}
+
+.prompt-block {
+    font-size: 22px;
+    font-weight: 600;
+    color: #0F172A;
+    margin-bottom: 16px;
+}
+
+.audio-player {
+    background: #EFF6FF;
+    border-left: 4px solid #2563EB;
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin: 12px 0;
+}
+
+.practice-link {
+    margin-top: 10px;
+}
+
+.practice-link a {
+    color: #2563EB;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.practice-link a:hover {
+    text-decoration: underline;
+}
+
+.nightMode .card {
+    background-color: #1E293B;
+    color: #E2E8F0;
+}
+
+.nightMode .prompt-block {
+    color: #F8FAFC;
+}
+
+.nightMode .audio-player {
+    background: #1E3A8A;
+    border-left-color: #60A5FA;
+}
+"""
+
+    models_to_create = [
+        {
+            "model_name": "Engaging_Cloze_Model",
+            "is_cloze": True,
+            "css": cloze_css,
+            "front_template": """<div class=\"scenario-badge\">{{Scenario}}</div>
+<div class=\"sentence-front\">{{cloze:Text}}</div>""",
+            "back_template": """<div class=\"scenario-badge\">{{Scenario}}</div>
+<div class=\"sentence-front\">{{cloze:Text}}</div>
 <hr>
-<div class="explanation-section">
+<div class=\"explanation-section\">
     <h3>Meaning & Context</h3>
     {{Explanation}}
 </div>
-<div class="examples-section">
+<div class=\"examples-section\">
     <h3>Key Takeaways & Examples</h3>
     {{Usage_Examples}}
 </div>
@@ -242,21 +311,59 @@ details p {
     <summary>Show Spanish Translation</summary>
     <p>{{Spanish_Translation}}</p>
 </details>
-{{Audio}}"""
+{{Audio}}""",
+            "fields": ["Text", "Scenario", "Explanation", "Usage_Examples", "Spanish_Translation", "Audio"],
+        },
+        {
+            "model_name": "Engaging_Speaking_Model",
+            "is_cloze": False,
+            "css": speaking_css,
+            "front_template": """<div class=\"scenario-badge\">{{Scenario}}</div>
+<div class=\"prompt-block\">{{Prompt}}</div>
+{{Audio}}
+{{Practice_Link}}""",
+            "back_template": """<div class=\"scenario-badge\">{{Scenario}}</div>
+<div class=\"prompt-block\">{{Prompt}}</div>
+{{Audio}}
+<div class=\"practice-link\">{{Practice_Link}}</div>
+<hr>
+<div class=\"explanation-section\">
+    <h3>Meaning & Context</h3>
+    {{Explanation}}
+</div>
+<div class=\"examples-section\">
+    <h3>Practice Notes</h3>
+    {{Usage_Examples}}
+</div>
+<details>
+    <summary>Show Spanish Translation</summary>
+    <p>{{Spanish_Translation}}</p>
+</details>
+<div class=\"audio-player\">{{Recording_Hint}}</div>""",
+            "fields": ["Prompt", "Scenario", "Explanation", "Usage_Examples", "Spanish_Translation", "Audio", "Practice_Link", "Recording_Hint"],
+        },
+    ]
 
-    invoke(
-        'createModel',
-        modelName=model_name,
-        inOrderFields=["Text", "Scenario", "Explanation", "Usage_Examples", "Spanish_Translation", "Audio"],
-        isCloze=True,
-        cardTemplates=[{
-            "Name": "Cloze Template",
-            "Front": front_template,
-            "Back": back_template
-        }],
-        css=css_content
-    )
-    print("Model created successfully.")
+    for spec in models_to_create:
+        model_name = spec["model_name"]
+        if model_name in models:
+            print(f"Model '{model_name}' already exists.")
+            continue
+
+        print(f"Creating custom model '{model_name}'...")
+        invoke(
+            'createModel',
+            modelName=model_name,
+            inOrderFields=spec["fields"],
+            isCloze=spec["is_cloze"],
+            cardTemplates=[{
+                "Name": "Main Template",
+                "Front": spec["front_template"],
+                "Back": spec["back_template"],
+            }],
+            css=spec["css"],
+        )
+    print("Models created successfully.")
 
 def load_all_cards(base_dir="."):
     decks_dir = os.path.join(base_dir, "decks")
@@ -367,9 +474,31 @@ def import_database():
         tags = card.get("tags", [])
         tags.append(card['deck'].split("::")[-1].lower())
         tags = sorted(list(set(tags))) # unique and sorted tags
+
+        model_name = card.get("model_name", "Engaging_Cloze_Model")
+        if model_name == "Engaging_Speaking_Model":
+            fields = {
+                "Prompt": card.get("prompt", card.get("text", "")),
+                "Scenario": card.get("scenario", ""),
+                "Explanation": card.get("explanation", ""),
+                "Usage_Examples": card.get("usage", ""),
+                "Spanish_Translation": card.get("spanish", ""),
+                "Audio": card.get("audio", ""),
+                "Practice_Link": card.get("practice_link", card.get("practice_url", "")),
+                "Recording_Hint": card.get("recording_hint", "Record yourself and compare your delivery with the model audio."),
+            }
+        else:
+            fields = {
+                "Text": card['text'],
+                "Scenario": card['scenario'],
+                "Explanation": card['explanation'],
+                "Usage_Examples": card['usage'],
+                "Spanish_Translation": card['spanish'],
+                "Audio": card.get("audio", "")
+            }
         
         # Text key normalized
-        card_text_normalized = card['text'].strip()
+        card_text_normalized = str(card.get('text') or card.get('prompt') or '').strip()
         
         if card_text_normalized in existing_anki_notes:
             # Note already exists. Check if we need to update deck, fields or tags
@@ -387,14 +516,7 @@ def import_database():
             
             # Compare fields
             fields_to_update = {}
-            new_fields = {
-                "Text": card['text'],
-                "Scenario": card['scenario'],
-                "Explanation": card['explanation'],
-                "Usage_Examples": card['usage'],
-                "Spanish_Translation": card['spanish'],
-                "Audio": card.get("audio", "")
-            }
+            new_fields = fields
             
             for field_name, new_val in new_fields.items():
                 existing_val = existing['fields'].get(field_name, {}).get('value', '')
@@ -428,15 +550,8 @@ def import_database():
             # Note does not exist in Anki. Add to new notes list.
             note = {
                 "deckName": card['deck'],
-                "modelName": "Engaging_Cloze_Model",
-                "fields": {
-                    "Text": card['text'],
-                    "Scenario": card['scenario'],
-                    "Explanation": card['explanation'],
-                    "Usage_Examples": card['usage'],
-                    "Spanish_Translation": card['spanish'],
-                    "Audio": card.get("audio", "")
-                },
+                "modelName": model_name,
+                "fields": fields,
                 "options": {
                     "allowDuplicate": False # Force unique note check in Anki
                 },

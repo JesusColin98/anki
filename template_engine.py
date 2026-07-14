@@ -131,6 +131,19 @@ TEMPLATES = {
             "leadership_technique",
         ],
     },
+    "T12_SpeakingPractice": {
+        "description": "Speaking practice card with reference audio and a recorder companion link",
+        "required_fields": [
+            "deck",
+            "prompt",
+            "scenario",
+            "explanation",
+            "usage",
+            "spanish",
+            "model_audio_url",
+            "practice_url",
+        ],
+    },
 }
 
 
@@ -426,6 +439,44 @@ def forvo_fallback(word: str, lang_code: str = "en") -> str:
     return f"https://forvo.com/word/{quote(word.lower(), safe='')}/#en"
 
 
+def render_t12_speaking_practice(data: Dict[str, Any]) -> Dict[str, Any]:
+    """T12: Speaking practice card with remote model audio and a recorder companion link."""
+    audio_url = data.get("model_audio_url") or data.get("audio_url", "")
+    practice_url = data.get("practice_url", "")
+    audio_html = ""
+    if audio_url:
+        audio_html = (
+            f'<div class="audio-player"><audio controls preload="none">'
+            f'<source src="{audio_url}" type="audio/mpeg">'
+            f'Your browser does not support the audio element.</audio></div>'
+        )
+    practice_link = ""
+    if practice_url:
+        practice_link = (
+            f'<div class="practice-link"><a href="{practice_url}" target="_blank">🎙️ Open speaking recorder</a></div>'
+        )
+
+    return {
+        "deck": data["deck"],
+        "scenario": data.get("scenario", "Speaking Practice 🎤"),
+        "text": (
+            f"<b>Prompt:</b> {data['prompt']}<br><br>"
+            f"{audio_html}"
+        ),
+        "explanation": (
+            f"{data['explanation']}<br><br>"
+            f"<b>Practice tip:</b> {data.get('usage', 'Record yourself and compare your rhythm and intonation with the sample audio.')}"
+            f"{practice_link}"
+        ),
+        "usage": data.get("usage", "Speak naturally and record yourself to compare your delivery."),
+        "spanish": data["spanish"],
+        "audio": audio_html,
+        "practice_link": practice_link,
+        "tags": data.get("tags", ["speaking", "pronunciation", "self_recording"]),
+        "model_name": "Engaging_Speaking_Model",
+    }
+
+
 def render_t11_executive_pitch(data: Dict[str, Any]) -> Dict[str, Any]:
     """T11: Leadership communication shadowing — pitch contour and pause analysis.
 
@@ -508,6 +559,7 @@ _RENDERERS = {
     "T9_ListeningChunk": render_t9_listening_chunk,
     "T10_ReadingPatternDrill": render_t10_reading_pattern,
     "T11_ExecutivePitch": render_t11_executive_pitch,
+    "T12_SpeakingPractice": render_t12_speaking_practice,
 }
 
 
