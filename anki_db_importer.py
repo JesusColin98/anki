@@ -420,9 +420,14 @@ def import_database():
         print(f"Ensuring deck '{deck}' exists...")
         invoke('createDeck', deck=deck)
         
-    # Query all existing notes of our custom model in Anki
+    # Query all existing notes of our custom models in Anki
     print("\nFetching existing notes from Anki...")
     existing_note_ids = invoke('findNotes', query='note:Engaging_Cloze_Model')
+    try:
+        speaking_ids = invoke('findNotes', query='note:Engaging_Speaking_Model')
+        existing_note_ids.extend(speaking_ids)
+    except Exception:
+        pass
     
     # Fetch details of existing notes in batches
     existing_notes_details = []
@@ -450,12 +455,15 @@ def import_database():
     for card in card_details:
         note_to_deck[card['note']] = card['deckName']
         
-    # Create mapping of Text -> (noteId, deckName, fields, tags, cards)
+    # Create mapping of Text/Prompt -> (noteId, deckName, fields, tags, cards)
     existing_anki_notes = {}
     for note in existing_notes_details:
         note_id = note['noteId']
         deck_name = note_to_deck.get(note_id, "Unknown")
-        text_val = note['fields'].get('Text', {}).get('value', '').strip()
+        text_val = note['fields'].get('Text', {}).get('value', '')
+        if not text_val and 'Prompt' in note['fields']:
+            text_val = note['fields'].get('Prompt', {}).get('value', '')
+        text_val = text_val.strip()
         existing_anki_notes[text_val] = {
             'noteId': note_id,
             'deckName': deck_name,
@@ -575,7 +583,9 @@ def import_database():
                 except Exception as ex:
                     err_msg = str(ex)
                     if "duplicate" not in err_msg.lower():
-                        print(f"    [-] Failed to import card '{note['fields']['Scenario']}': {err_msg}")
+                        scenario_clean = note['fields']['Scenario'].encode('ascii', 'ignore').decode('ascii')
+                        err_clean = err_msg.encode('ascii', 'ignore').decode('ascii')
+                        print(f"    [-] Failed to import card '{scenario_clean}': {err_clean}")
         
     print(f"\nSync summary: {created_count} cards created, {updated_count} cards updated, {skipped_count} cards skipped (already in sync).")
 

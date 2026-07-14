@@ -1,6 +1,6 @@
 {
-  "total_cards": 5669,
-  "total_decks": 213,
+  "total_cards": 6309,
+  "total_decks": 217,
   "decks": [
     {
       "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
@@ -1066,6 +1066,26 @@
       "deck": "06_Business_and_Productivity::Productivity::Learning::09 Ultralearning",
       "path": "decks/06_Business_and_Productivity/Productivity/Learning/09_Ultralearning.json",
       "cards_count": 20
+    },
+    {
+      "deck": "03_Languages::English::Variant_Pipeline::Roleplay",
+      "path": "decks/03_Languages/English/Variant_Pipeline/roleplay/roleplay.json",
+      "cards_count": 160
+    },
+    {
+      "deck": "03_Languages::English::Variant_Pipeline::ErrorCorrection",
+      "path": "decks/03_Languages/English/Variant_Pipeline/error_correction/error_correction.json",
+      "cards_count": 160
+    },
+    {
+      "deck": "03_Languages::English::Variant_Pipeline::Paraphrase",
+      "path": "decks/03_Languages/English/Variant_Pipeline/paraphrase/paraphrase.json",
+      "cards_count": 160
+    },
+    {
+      "deck": "03_Languages::English::Variant_Pipeline::Summary",
+      "path": "decks/03_Languages/English/Variant_Pipeline/summary/summary.json",
+      "cards_count": 160
     }
   ]
 }
