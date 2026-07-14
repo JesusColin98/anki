@@ -247,5 +247,18 @@
       "phonetics",
       "tips"
     ]
+  },
+  {
+    "scenario": "Russian Phonetics 🗣️",
+    "text": "In Russian phonetics, unstressed vowels undergo **reduction**. For example, the letter 'о' when unstressed is pronounced like {{c1::а}} (/a/ or /ə/). E.g. *хорошо* (well) is pronounced {{c2::/xərɐˈʂo/}} (khara-sho).",
+    "explanation": "Vowel reduction is key to a native Russian accent. Only the stressed 'о' gets a full 'o' sound.",
+    "usage": "Rule: Unstressed O reduction. Example: <code>молоко</code> (milk) -> pronounced /malakó/.",
+    "spanish": "En la fonética rusa, las vocales átonas se reducen. La letra 'о' sin acento prosódico se pronuncia como una 'а'. Ej. 'хорошо' se pronuncia /xərɐˈʂo/ (jara-shó).",
+    "tags": [
+      "languages_path",
+      "russian",
+      "phonetics"
+    ],
+    "deck": "03_Languages::Russian::Phonetics::General"
   }
 ]

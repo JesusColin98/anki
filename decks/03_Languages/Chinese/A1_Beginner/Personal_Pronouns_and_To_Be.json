@@ -1,72 +1,282 @@
 [
   {
     "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
-    "scenario": "Chinese A1: Personal Pronouns and To Be 🗣️",
-    "text": "In Chinese, how do you say 'To be'? {{c1::是 (shì)}}",
-    "explanation": "Vocabulary for the topic 'Personal Pronouns and To Be'. Level: A1.",
-    "usage": "Term: <code>是 (shì)</code> | Meaning: To be",
-    "spanish": "¿Cómo se dice 'To be' en Chinese? 是 (shì)",
+    "scenario": "Chinese A1: I / Me 🧩",
+    "text": "In Chinese, '我' means {{c1::I / me}}. Pronunciation: {{c2::Wǒ}}.",
+    "explanation": "'我' (Wǒ) is the first-person singular pronoun in Chinese. Unlike English, Chinese uses the same word for both subject ('I') and object ('me').",
+    "usage": "Term: <code>我 (Wǒ)</code><ul><li><code>我是学生。</code> — I am a student.</li><li><code>他认识我。</code> — He knows me.</li></ul>",
+    "spanish": "En chino, '我' significa 'Yo / Me'. Pronunciación: Wǒ.",
     "tags": [
       "languages_path",
       "chinese",
       "a1",
-      "personal_pronouns_and_to_be"
+      "pronouns"
     ]
   },
   {
     "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
-    "scenario": "Chinese A1: Personal Pronouns and To Be 🗣️",
-    "text": "In Chinese, how do you say 'To not be'? {{c1::不是 (bú shì)}}",
-    "explanation": "Vocabulary for the topic 'Personal Pronouns and To Be'. Level: A1.",
-    "usage": "Term: <code>不是 (bú shì)</code> | Meaning: To not be",
-    "spanish": "¿Cómo se dice 'To not be' en Chinese? 不是 (bú shì)",
+    "scenario": "Chinese A1: You 🧩",
+    "text": "In Chinese, '你' means {{c1::you (singular)}}. Pronunciation: {{c2::Nǐ}}.",
+    "explanation": "'你' (Nǐ) is the second-person singular pronoun. A respectful/formal version is '您' (Nín), used when addressing elders or superiors.",
+    "usage": "Term: <code>你 (Nǐ)</code><ul><li><code>你是谁?</code> — Who are you?</li><li><code>我爱你。</code> — I love you.</li></ul>",
+    "spanish": "En chino, '你' significa 'Tú / Usted'. Pronunciación: Nǐ.",
     "tags": [
       "languages_path",
       "chinese",
       "a1",
-      "personal_pronouns_and_to_be"
+      "pronouns"
     ]
   },
   {
     "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
-    "scenario": "Chinese A1: Personal Pronouns and To Be 🗣️",
-    "text": "In Chinese, how do you say 'I am'? {{c1::我是 (wǒ shì)}}",
-    "explanation": "Vocabulary for the topic 'Personal Pronouns and To Be'. Level: A1.",
-    "usage": "Term: <code>我是 (wǒ shì)</code> | Meaning: I am",
-    "spanish": "¿Cómo se dice 'I am' en Chinese? 我是 (wǒ shì)",
+    "scenario": "Chinese A1: He / She / It 🧩",
+    "text": "In spoken Chinese, the pronoun for He, She, and It all sound the same: {{c1::tā}}. The characters differ: He=他, She=她, It=它.",
+    "explanation": "In written Chinese, '他' (he), '她' (she), and '它' (it) are distinct. But in spoken Mandarin, all three are pronounced identically as 'tā'. Context determines meaning.",
+    "usage": "Term: <code>他/她/它 (tā)</code><ul><li><code>她是我的老师。</code> — She is my teacher.</li><li><code>他很忙。</code> — He is very busy.</li></ul>",
+    "spanish": "En chino, 他/她/它 todos suenan igual: 'tā' (él/ella/ello). Los caracteres son distintos.",
     "tags": [
       "languages_path",
       "chinese",
       "a1",
-      "personal_pronouns_and_to_be"
+      "pronouns"
     ]
   },
   {
     "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
-    "scenario": "Chinese A1: Personal Pronouns and To Be 🗣️",
-    "text": "In Chinese, how do you say 'You are'? {{c1::你是 (nǐ shì)}}",
-    "explanation": "Vocabulary for the topic 'Personal Pronouns and To Be'. Level: A1.",
-    "usage": "Term: <code>你是 (nǐ shì)</code> | Meaning: You are",
-    "spanish": "¿Cómo se dice 'You are' en Chinese? 你是 (nǐ shì)",
+    "scenario": "Chinese A1: We 🧩",
+    "text": "In Chinese, '我们' means {{c1::We / us}}. Pronunciation: {{c2::Wǒmen}}.",
+    "explanation": "'我们' (Wǒmen) is the first-person plural pronoun. The suffix '们' (men) is added to singular pronouns to make them plural: 你们 (you all), 他们 (they).",
+    "usage": "Term: <code>我们 (Wǒmen)</code><ul><li><code>我们是朋友。</code> — We are friends.</li><li><code>我们一起去吧!</code> — Let's go together!</li></ul>",
+    "spanish": "En chino, '我们' significa 'Nosotros'. Pronunciación: Wǒmen.",
     "tags": [
       "languages_path",
       "chinese",
       "a1",
-      "personal_pronouns_and_to_be"
+      "pronouns"
     ]
   },
   {
     "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
-    "scenario": "Chinese A1: Personal Pronouns and To Be 🗣️",
-    "text": "In Chinese, how do you say 'He is'? {{c1::他是 (tā shì)}}",
-    "explanation": "Vocabulary for the topic 'Personal Pronouns and To Be'. Level: A1.",
-    "usage": "Term: <code>他是 (tā shì)</code> | Meaning: He is",
-    "spanish": "¿Cómo se dice 'He is' en Chinese? 他是 (tā shì)",
+    "scenario": "Chinese A1: They 🧩",
+    "text": "In Chinese, '他们' means {{c1::They}}. Pronunciation: {{c2::Tāmen}}.",
+    "explanation": "'他们' (Tāmen) is the third-person plural. For an all-female group '她们' is used, though '他们' is gender-neutral in plural.",
+    "usage": "Term: <code>他们 (Tāmen)</code><ul><li><code>他们在哪里?</code> — Where are they?</li><li><code>他们都是工程师。</code> — They are all engineers.</li></ul>",
+    "spanish": "En chino, '他们' significa 'Ellos/Ellas'. Pronunciación: Tāmen.",
     "tags": [
       "languages_path",
       "chinese",
       "a1",
-      "personal_pronouns_and_to_be"
+      "pronouns"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: To Be — 是 🧩",
+    "text": "In Chinese, the verb 'to be' (for identity/classification) is {{c1::是 (shì)}}. Example: 我是老师 = {{c2::I am a teacher}}.",
+    "explanation": "'是' (shì) is used to link a subject with a noun (identity). Unlike English 'be', it is NOT used with adjectives. For adjectives, Chinese omits the verb entirely: 她很美 = She is beautiful.",
+    "usage": "Term: <code>是 (shì)</code><ul><li><code>这是我的手机。</code> — This is my phone.</li><li><code>他是墨西哥人。</code> — He is Mexican.</li></ul>",
+    "spanish": "En chino, 'ser/estar' con sustantivos se dice '是 (shì)'. No se usa con adjetivos.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: Negation — 不是 🧩",
+    "text": "In Chinese, '不是' means {{c1::am not / is not / are not}}. Pronunciation: {{c2::Bú shì}}.",
+    "explanation": "Negation in Chinese is formed by placing '不' (bù/bú) before the verb. '不是' (bú shì) negates '是'. Note the tone change: 不 changes from 4th to 2nd tone before another 4th tone.",
+    "usage": "Term: <code>不是 (Bú shì)</code><ul><li><code>我不是你的老师。</code> — I am not your teacher.</li><li><code>这不是我的书包。</code> — This is not my backpack.</li></ul>",
+    "spanish": "En chino, '不是 (bú shì)' significa 'no ser'. La negación se forma con '不' antes del verbo.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: Questions with 吗 🧩",
+    "text": "To turn any statement into a yes/no question in Chinese, add {{c1::吗 (ma)}} at the end. Example: 你是学生吗? = {{c2::Are you a student?}}",
+    "explanation": "'吗' (ma) is a question particle that converts statements to yes/no questions with no word order change. This makes Chinese question formation simpler than in English.",
+    "usage": "Term: <code>吗 (ma)</code><ul><li><code>你饿吗?</code> — Are you hungry?</li><li><code>他是你朋友吗?</code> — Is he your friend?</li></ul>",
+    "spanish": "En chino, añadir '吗 (ma)' al final de una oración la convierte en pregunta de sí/no.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: Possessive — 的 🧩",
+    "text": "In Chinese, the possessive particle is {{c1::的 (de)}}. Example: 我的书 = {{c2::My book}}.",
+    "explanation": "'的' (de) works like the English apostrophe 's. It follows a pronoun or noun to show possession. 你的 = your, 他的 = his, 我们的 = our.",
+    "usage": "Term: <code>的 (de)</code><ul><li><code>这是我的电脑。</code> — This is my computer.</li><li><code>他们的办公室在三楼。</code> — Their office is on the third floor.</li></ul>",
+    "spanish": "En chino, '的 (de)' funciona como el apóstrofe 's para indicar posesión. 我的 = mío, 你的 = tuyo.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: You All 🧩",
+    "text": "In Chinese, '你们' means {{c1::You all / You (plural)}}. Pronunciation: {{c2::Nǐmen}}.",
+    "explanation": "'你们' is the informal second-person plural. The formal plural '您们' (Nínmen) exists but is rarely used — in formal settings, addressing a group, '各位' (gèwèi = everyone) is preferred.",
+    "usage": "Term: <code>你们 (Nǐmen)</code><ul><li><code>你们好!</code> — Hello everyone! (group greeting)</li><li><code>你们准备好了吗?</code> — Are you all ready?</li></ul>",
+    "spanish": "En chino, '你们' significa 'Vosotros / Ustedes'. Pronunciación: Nǐmen.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "pronouns"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: There Is / There Are — 有 🧩",
+    "text": "In Chinese, '有' (yǒu) expresses {{c1::existence / there is / to have}}. Example: 这里有一家咖啡店 = {{c2::There is a coffee shop here}}.",
+    "explanation": "'有' (yǒu) serves as both 'to have' and 'there is/are'. Its negative is '没有' (méiyǒu) — does not have / there is not.",
+    "usage": "Term: <code>有 (yǒu)</code><ul><li><code>我有一个问题。</code> — I have a question.</li><li><code>这里没有信号。</code> — There is no signal here.</li></ul>",
+    "spanish": "En chino, '有 (yǒu)' significa 'tener / haber'. Su negativo es '没有 (méiyǒu)'.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: Location — 在 🧩",
+    "text": "In Chinese, '在' (zài) expresses {{c1::location / to be at / to be in}}. Example: 我在北京 = {{c2::I am in Beijing}}.",
+    "explanation": "'在' (zài) is used instead of '是' when talking about location. It means 'to be at/in' a place. Note: 我是北京 is grammatically wrong for location.",
+    "usage": "Term: <code>在 (zài)</code><ul><li><code>她在图书馆。</code> — She is at the library.</li><li><code>文件在桌子上。</code> — The file is on the desk.</li></ul>",
+    "spanish": "En chino, '在 (zài)' indica ubicación: 'estar en un lugar'. Se usa en lugar de '是' para expresar dónde está algo.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: My Name Is 🧩",
+    "text": "In Chinese, '我叫...' means {{c1::My name is... / I am called...}}. Pronunciation: {{c2::Wǒ jiào...}}",
+    "explanation": "'叫' (jiào) literally means 'to be called'. '我叫Jesus' — I am called Jesus. You can also say '我的名字是Jesus' (Wǒ de míngzi shì Jesus), which uses '是'.",
+    "usage": "Term: <code>我叫 (Wǒ jiào)</code><ul><li><code>大家好，我叫 Jesus。</code> — Hello everyone, my name is Jesus.</li></ul>",
+    "spanish": "En chino, '我叫...' significa 'Me llamo...'. Pronunciación: Wǒ jiào.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: Very — 很 🧩",
+    "text": "In Chinese, adjective sentences require the intensifier {{c1::很 (hěn)}} before the adjective. Example: 她很忙 = {{c2::She is very busy}}.",
+    "explanation": "In Chinese, when an adjective is used as the predicate, '很' must be placed before it. While '很' literally means 'very', in simple statements it acts as a linking word and its intensity is often neutral.",
+    "usage": "Term: <code>很 (hěn)</code><ul><li><code>他很高。</code> — He is tall.</li><li><code>中文很难。</code> — Chinese is difficult.</li></ul>",
+    "spanish": "En chino, '很 (hěn)' es necesario entre el sujeto y el adjetivo predicativo. Técnicamente significa 'muy'.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: Also — 也 🧩",
+    "text": "In Chinese, '也' means {{c1::also / too / as well}}. Pronunciation: {{c2::Yě}}.",
+    "explanation": "'也' (yě) is placed after the subject and before the verb, not at the end of a sentence like in English. Position matters: 我也是 = I am also / Me too.",
+    "usage": "Term: <code>也 (yě)</code><ul><li>A: 我是工程师。— B: 我也是。(Me too / I'm also [one].)</li><li><code>她也学中文。</code> — She also studies Chinese.</li></ul>",
+    "spanish": "En chino, '也 (yě)' significa 'también'. Va después del sujeto y antes del verbo.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: This / That 🧩",
+    "text": "In Chinese, '这' means {{c1::this}} (Zhè) and '那' means {{c2::that}} (Nà).",
+    "explanation": "'这' (zhè) and '那' (nà) are demonstrative pronouns/adjectives. Add '个' (ge) for 'this one / that one': 这个 / 那个. They are used with '是' to identify things.",
+    "usage": "Term: <code>这 (zhè) / 那 (nà)</code><ul><li><code>这是什么?</code> — What is this?</li><li><code>那个人是谁?</code> — Who is that person?</li></ul>",
+    "spanish": "En chino, '这 (zhè)' = este/esta y '那 (nà)' = ese/aquel.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "pronouns"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: Who — 谁 🧩",
+    "text": "In Chinese, '谁' means {{c1::Who}}. Pronunciation: {{c2::Shéi / Shuí}}.",
+    "explanation": "'谁' (shéi or shuí, both pronunciations are correct) is the question word for 'who'. Chinese question words stay in the same position as the answer would be.",
+    "usage": "Term: <code>谁 (Shéi)</code><ul><li><code>你是谁?</code> — Who are you?</li><li><code>谁是你的老板?</code> — Who is your boss?</li></ul>",
+    "spanish": "En chino, '谁 (shéi)' significa '¿Quién?'. Las palabras interrogativas mantienen su posición en la oración.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: What — 什么 🧩",
+    "text": "In Chinese, '什么' means {{c1::What}}. Pronunciation: {{c2::Shénme}}.",
+    "explanation": "'什么' (shénme) is the most common question word. Like other Chinese question words, it stays in the same position as the answer: 你叫什么名字? (You called what name?)",
+    "usage": "Term: <code>什么 (Shénme)</code><ul><li><code>这是什么?</code> — What is this?</li><li><code>你要什么?</code> — What do you want?</li></ul>",
+    "spanish": "En chino, '什么 (shénme)' significa '¿Qué?'. Permanece en la posición de la respuesta.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: Numbers — One to Five 🧩",
+    "text": "In Chinese, the numbers 1-5 are: 一(yī), 二(èr), 三(sān), 四(sì), 五(wǔ). What is {{c1::三 (sān)}} and {{c2::五 (wǔ)}} in English?",
+    "explanation": "Chinese numerals are phonetically simple and consistent. 一=1, 二=2, 三=3, 四=4, 五=5. Numbers are essential for counting, phone numbers, prices, and telling time.",
+    "usage": "Term: <code>一二三四五 (yī èr sān sì wǔ)</code><ul><li><code>我要三个包子。</code> — I want three buns.</li><li><code>我们有五个人。</code> — We have five people.</li></ul>",
+    "spanish": "En chino: 一(yī)=1, 二(èr)=2, 三(sān)=3, 四(sì)=4, 五(wǔ)=5.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "numbers"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "Chinese A1: Not Have — 没有 🧩",
+    "text": "In Chinese, '没有' means {{c1::don't have / there is not}}. Pronunciation: {{c2::Méiyǒu}}.",
+    "explanation": "'没有' (méiyǒu) is the negation of '有' (to have). It is also used like 'there is not': 没有人 = There is nobody. In everyday speech, '没有' is often shortened to '没' (méi).",
+    "usage": "Term: <code>没有 (Méiyǒu)</code><ul><li><code>我没有钱。</code> — I don't have money.</li><li><code>没有问题!</code> — No problem!</li></ul>",
+    "spanish": "En chino, '没有 (méiyǒu)' significa 'no tener / no haber'. Es la negación de '有'.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "a1",
+      "grammar"
     ]
   }
 ]

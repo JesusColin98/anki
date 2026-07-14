@@ -54,5 +54,229 @@
       "a1",
       "personal_pronouns_and_to_be"
     ]
+  },
+  {
+    "scenario": "Japanese A1: Pronouns 🇯🇵",
+    "text": "In Japanese, the standard polite word for 'I' is '{{c1::わたし}}' (Watashi).",
+    "explanation": "In casual speech, males often use 'ぼく' (Boku) or 'おれ' (Ore). Females often use 'わたし' or 'あたし'.",
+    "usage": "Polite: <code>わたしはエンジニアです。</code> (I am an engineer.)",
+    "spanish": "En japonés, la palabra estándar y cortés para 'yo' es 'わたし' (Watashi).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Pronouns 🇯🇵",
+    "text": "In Japanese, the word for 'you (singular)' is '{{c1::あなた}}' (Anata).",
+    "explanation": "In Japanese culture, it is polite to address people by their name + '-san' rather than saying 'Anata' (which can sound overly direct or mean 'dear' when said by a spouse).",
+    "usage": "Rule: Prefer name + <code>さん (san)</code> over <code>あなた</code>. Example: <code>マルコさんは学生ですか？</code> (Is Marco a student?)",
+    "spanish": "En japonés, 'tú' es 'あなた' (Anata), pero suele preferirse el nombre de la persona + 'san'.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Pronouns 🇯🇵",
+    "text": "In Japanese, the pronouns for 'he' and 'she' are '{{c1::かれ}}' (Kare) and '{{c2::かのじょ}}' (Kanojo).",
+    "explanation": "'Kanojo' also means 'girlfriend' and 'Kare' can mean 'boyfriend' depending on context.",
+    "usage": "Examples: <code>彼は先生です。</code> (He is a teacher.) | <code>彼女は元気です。</code> (She is well.)",
+    "spanish": "En japonés, los pronombres para 'él' y 'ella' son 'かれ' (Kare) y 'かのじょ' (Kanojo).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Pronouns 🇯🇵",
+    "text": "In Japanese, to make a pronoun plural, you add the suffix '{{c1::たち}}' (-tachi). For example, 'we' is '{{c2::わたしたち}}' (Watashitachi).",
+    "explanation": "-tachi can be appended to personal pronouns or nouns representing people.",
+    "usage": "Example: <code>わたしたちは学生です。</code> (We are students.) | <code>あなたたち</code> (You all)",
+    "spanish": "En japonés, para hacer plural un pronombre, se añade '-tachi'. 'Watashi' (yo) -> 'Watashitachi' (nosotros).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Copula 🇯🇵",
+    "text": "In Japanese, the polite copula meaning 'is / am / are' is '{{c1::です}}' (desu). Example: I am a student = 学生{{c2::です}}.",
+    "explanation": "'desu' is placed at the end of the sentence and serves as the predicate of state or identity.",
+    "usage": "Usage: Place at end of noun/adjective sentences. <code>本です。</code> (It is a book.)",
+    "spanish": "En japonés, la cópula cortés que equivale a 'ser/estar' es 'です' (desu). Se ubica al final.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Copula Negation 🇯🇵",
+    "text": "In Japanese, the polite negative form of 'desu' (am not / is not / are not) is '{{c1::ではありません}}' (de wa arimasen) or casually '{{c2::じゃないです}}' (ja nai desu).",
+    "explanation": "'de wa arimasen' is formal written/spoken. 'ja nai desu' is common spoken.",
+    "usage": "Formal: <code>学生ではありません。</code> | Casual: <code>学生じゃないです。</code> (I am not a student.)",
+    "spanish": "En japonés, la forma negativa cortés de 'desu' es 'ではありません' (de wa arimasen) o 'じゃないです' (ja nai desu).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Questions 🇯🇵",
+    "text": "To make a question in Japanese, you add the question particle '{{c1::か}}' (ka) at the very end of the sentence.",
+    "explanation": "Acts like a spoken question mark. You do not invert subject/verb or add auxiliary verbs.",
+    "usage": "Example: <code>学生ですか？</code> (Are you a student?) | <code>そうですか。</code> (Is that so?)",
+    "spanish": "En japonés, las preguntas se forman añadiendo la partícula 'か' (ka) al final de la oración.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Particles 🇯🇵",
+    "text": "In Japanese, the topic marker particle is '{{c1::は}}' (pronounced 'wa'). Example: わたし{{c2::は}}学生です (As for me, I am a student).",
+    "explanation": "Written with the character for 'ha' but pronounced as 'wa' when used as a particle.",
+    "usage": "Rule: Subject/Topic + <code>は</code> + Predicate. Example: <code>これは何ですか？</code> (What is this?)",
+    "spanish": "En japonés, la partícula marcadora de tema es 'は' (se pronuncia 'wa').",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Particles 🇯🇵",
+    "text": "In Japanese, the direct object marker particle is '{{c1::を}}' (pronounced 'o').",
+    "explanation": "Written with 'wo' (を) but normally pronounced 'o'. It marks the target of transitive actions.",
+    "usage": "Example: <code>水を飲みます。</code> (I drink water. [mizu = water, nomimasu = drink])",
+    "spanish": "En japonés, la partícula marcadora de objeto directo es 'を' (se pronuncia 'o').",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Particles 🇯🇵",
+    "text": "In Japanese, the possessive particle that acts like English apostrophe 's or 'of' is '{{c1::の}}' (no). Example: My book = わたし{{c2::の}}本.",
+    "explanation": "Connects nouns. Noun 1 + の + Noun 2 -> Noun 2 belongs to Noun 1.",
+    "usage": "Example: <code>日本のカメラ</code> (Japanese camera) | <code>先生の本</code> (The teacher's book)",
+    "spanish": "En japonés, la partícula posesiva o modificadora de sustantivos es 'の' (no). わたしの本 = Mi libro.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Demonstratives 🇯🇵",
+    "text": "In Japanese, the words for 'this', 'that' (near listener), and 'that over there' (far from both) are '{{c1::これ}}' (Kore), '{{c2::それ}}' (Sore), and '{{c3::あれ}}' (Are).",
+    "explanation": "These are demonstrative pronouns. The corresponding demonstrative adjectives (followed by a noun) are kono, sono, ano.",
+    "usage": "Pronoun: <code>これはペンです。</code> (This is a pen.) | Adjective: <code>このペンはわたしのです。</code> (This pen is mine.)",
+    "spanish": "En japonés: 'これ' (esto), 'それ' (eso) y 'あれ' (aquello).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Introductions 🇯🇵",
+    "text": "In Japanese, what is the polite phrase to say 'My name is [Name]' using the copula? '[Name] {{c1::です}}' or '[Name] {{c2::と申します}}' (more formal).",
+    "explanation": "Simply putting 'desu' after your name is the most common self-introduction. 'To moushimasu' translates to 'I am called...'.",
+    "usage": "Example: <code>ジーザスです。 (I am Jesus.)</code>",
+    "spanish": "Para decir 'Mi nombre es...' en japonés de forma sencilla: '[Nombre] です' o '[Nombre] と申します' (humilde/formal).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Particles 🇯🇵",
+    "text": "In Japanese, the particle meaning 'also' or 'too' is '{{c1::も}}' (mo), which replaces 'wa' or 'ga'. Example: Me too = わたし{{c2::も}}.",
+    "explanation": "Identical in meaning to Spanish 'también'.",
+    "usage": "Example: <code>彼も学生です。</code> (He is also a student.)",
+    "spanish": "En japonés, la partícula que significa 'también' es 'も' (mo), la cual reemplaza a 'wa'.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Question Words 🇯🇵",
+    "text": "In Japanese, the question word for 'What' is '{{c1::何}}' (pronounced 'nani' or 'nan').",
+    "explanation": "'nan' is used before 'desu' or counter words. 'nani' is used in other cases.",
+    "usage": "Examples: <code>何ですか？</code> (What is it?) | <code>何を食べますか？</code> (What will you eat?)",
+    "spanish": "En japonés, la palabra interrogativa para '¿Qué?' es '何' (nani / nan).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Question Words 🇯🇵",
+    "text": "In Japanese, the question word for 'Who' is '{{c1::だれ}}' (Dare) or politely '{{c2::どなた}}' (Donata).",
+    "explanation": "'Donata' is used in business or formal situations.",
+    "usage": "Example: <code>あの人は誰ですか？</code> (Who is that person?)",
+    "spanish": "En japonés, la palabra interrogativa para '¿Quién?' es 'だれ' (Dare) o formalmente 'どなた' (Donata).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Japanese A1: Introductions 🇯🇵",
+    "text": "In Japanese, what is the polite phrase meaning 'Nice to meet you' when exchanging names? {{c1::よろしくおねがいします}} (Yoroshiku onegaishimasu).",
+    "explanation": "Literally: 'Please treat me well.' It's an indispensable greeting in self-introductions.",
+    "usage": "Dialogue: <code>- ジーザスです。どうぞよろしく。</code> (- I am Jesus. Nice to meet you.)",
+    "spanish": "En japonés, la frase clave para cerrar una presentación y decir 'Un placer' es 'よろしくおねがいします'.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be"
   }
 ]

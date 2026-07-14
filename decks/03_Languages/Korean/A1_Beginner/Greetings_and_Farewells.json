@@ -96,5 +96,187 @@
       "a1",
       "greetings_and_farewells"
     ]
+  },
+  {
+    "scenario": "Korean A1: Greetings 🇰🇷",
+    "text": "In Korean, the standard polite greeting 'Hello' is '{{c1::안녕하세요}}' (Annyeonghaseyo).",
+    "explanation": "This greeting is in the polite 'haeyo' style. Informally, among close friends, you say '안녕' (Annyeong).",
+    "usage": "Polite: <code>안녕하세요</code> | Informal: <code>안녕</code>",
+    "spanish": "En coreano, el saludo estándar 'Hola' en tono cortés es '안녕하세요' (Annyeonghaseyo).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Goodbyes 🇰🇷",
+    "text": "In Korean, if you are LEAVING and the other person is STAYING, you say: '{{c1::안녕히 계세요}}' (Annyeonghi gyeseyo).",
+    "explanation": "Literally: 'Please stay peacefully.' '계시다' (gyesida) is the honorific verb for 'to stay'.",
+    "usage": "Term: <code>안녕히 계세요</code>",
+    "spanish": "En coreano, si te VAS y la otra persona se QUEDA, dices: '안녕히 계세요' (Annyeonghi gyeseyo).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Goodbyes 🇰🇷",
+    "text": "In Korean, if you are STAYING (or both of you are leaving) and the other person is GOING, you say: '{{c1::안녕히 가세요}}' (Annyeonghi gaseyo).",
+    "explanation": "Literally: 'Please go peacefully.' '가다' (gada) is the verb 'to go'.",
+    "usage": "Term: <code>안녕히 가세요</code>",
+    "spanish": "En coreano, si te QUEDAS y la otra persona se VA, dices: '안녕히 가세요' (Annyeonghi gaseyo).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Gratitude 🇰🇷",
+    "text": "In Korean, the standard polite way to say 'Thank you' is '{{c1::감사합니다}}' (Gamsahabnida) or '{{c2::고맙습니다}}' (Gomapseubnida).",
+    "explanation": "Both are polite formal (하십시오체) endings. 'Gamsahabnida' is Sino-Korean and slightly more formal.",
+    "usage": "Polite: <code>감사합니다</code> | Casual: <code>고마워</code> (Thanks)",
+    "spanish": "¿Cómo se dice 'Gracias' formalmente en coreano? 감사합니다 (Gamsahabnida) / 고맙습니다 (Gomapseubnida).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Apology 🇰🇷",
+    "text": "In Korean, the polite way to say 'Sorry / I apologize' is '{{c1::죄송합니다}}' (Joesonghabnida) or '{{c2::미안합니다}}' (Mianhabnida).",
+    "explanation": "'Joesonghabnida' is higher respect and used with superiors/strangers.",
+    "usage": "Polite: <code>죄송합니다</code> | Casual: <code>미안해</code> (Sorry)",
+    "spanish": "¿Cómo se dice 'Lo siento' formalmente en coreano? 죄송합니다 (Joesonghabnida) / 미안합니다 (Mianhabnida).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Introductions 🇰🇷",
+    "text": "In Korean, how do you say 'Nice to meet you' at a first meeting? {{c1::반갑습니다}} (Bangapseubnida) or {{c2::처음 뵙겠습니다}} (Cheoeum boepgessseubnida).",
+    "explanation": "'Cheoeum boepgessseubnida' is very formal (lit. 'I meet you for the first time'). 'Bangapseubnida' is standard polite.",
+    "usage": "Dialogue: <code>- 반갑습니다. - 네, 반갑습니다.</code>",
+    "spanish": "¿Cómo se dice 'Mucho gusto / Encantado' en coreano? 반갑습니다 (Bangapseubnida) / 처음 뵙겠습니다.",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Introductions 🇰🇷",
+    "text": "In Korean, how do you say 'My name is [Name]' politely? '제 이름은 [Name]입니다' ({{c1::Je ireumeun [Name]-ibnida}}).",
+    "explanation": "'제' (je) is polite 'my', '이름' (ireum) is 'name', and '입니다' (ibnida) is 'is'.",
+    "usage": "Example: <code>제 이름은 지저스입니다.</code> (My name is Jesus.)",
+    "spanish": "¿Cómo se dice 'Mi nombre es...' en coreano? 제 이름은 [Nombre]입니다 (Je ireumeun... ibnida).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Introductions 🇰🇷",
+    "text": "In Korean, how do you ask 'What is your name?' politely? {{c1::이름이 무엇입니까?}} (Ireumi mueos-ibnikka?) or {{c2::성함이 어떻게 되세요?}} (Sunghami eotteohge doeseyo? - highly respectful).",
+    "explanation": "'성함' (sungham) is the honorific word for name.",
+    "usage": "Polite: <code>이름이 무엇입니까?</code> | Respectful: <code>성함이 어떻게 되세요?</code>",
+    "spanish": "¿Cómo se dice '¿Cómo te llamas / cuál es su nombre?' en coreano? 이름이 무엇입니까? / 성함이 어떻게 되세요?.",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Politeness 🇰🇷",
+    "text": "In Korean, a common polite suffix added to names to show respect (like 'Mr./Ms.') is '{{c1::씨}}' (ssi). Example: Marco = 마르코{{c2::씨}}.",
+    "explanation": "Added to the full name or just the given name. Never added to the family name alone.",
+    "usage": "Example: <code>마르코 씨, 안녕하세요?</code> (Hello, Mr. Marco.)",
+    "spanish": "En coreano, el sufijo honorífico equivalente a 'Señor/Señorita' que se añade al nombre es '씨' (ssi).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Politeness 🇰🇷",
+    "text": "In Korean, how do you say 'Please' (when requesting something)? {{c1::주세요}} (Juseyo) or {{c2::부탁드립니다}} (Butagdeuribnida).",
+    "explanation": "'주세요' is literally 'please give me'. 'Butagdeuribnida' means 'I request of you'.",
+    "usage": "Examples: <code>물 주세요.</code> (Water, please.) | <code>도와주세요.</code> (Help me, please.)",
+    "spanish": "¿Cómo se dice 'Por favor / Deme' en coreano? 주세요 (Juseyo) / 부탁드립니다 (Butagdeuribnida).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Gratitude 🇰🇷",
+    "text": "In Korean, a polite way to say 'You're welcome' is '{{c1::천만에요}}' (Cheonmaneyo) or simply '{{c2::아니에요}}' (Anieyo - 'No problem / It's nothing').",
+    "explanation": "'Cheonmaneyo' is textbook but rarely used in speech. 'Anieyo' is much more natural.",
+    "usage": "Dialogue: <code>- 감사합니다! - 아니에요.</code>",
+    "spanish": "¿Cómo se dice 'De nada' en coreano? 천만에요 (Cheonmaneyo) / 아니에요 (Anieyo - más natural).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Greetings 🇰🇷",
+    "text": "In Korean, how do you ask 'How have you been / How are you?' politely? {{c1::어떻게 지내세요?}} (Eotteohge jinaeseyo?)",
+    "explanation": "Literally: 'How are you spending time?'.",
+    "usage": "Dialogue: <code>- 어떻게 지내세요? - 잘 지내요. (I'm doing well.)</code>",
+    "spanish": "¿Cómo se dice '¿Cómo estás / Cómo te va?' en coreano? 어떻게 지내세요? (Eotteohge jinaeseyo?).",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Korean A1: Introductions 🇰🇷",
+    "text": "In Korean, what is the polite phrase meaning 'Please look after me / I look forward to working with you'? {{c1::잘 부탁드립니다}} (Jal butagdeuribnida).",
+    "explanation": "A crucial cultural phrase in self-introductions in business, school, or community.",
+    "usage": "Term: <code>잘 부탁드립니다</code>",
+    "spanish": "En coreano, la frase típica de cortesía al presentarse que significa 'Por favor, cuide de mí' es '잘 부탁드립니다'.",
+    "tags": [
+      "languages_path",
+      "korean",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells"
   }
 ]

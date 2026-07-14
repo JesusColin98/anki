@@ -261,5 +261,86 @@
       "phonetics",
       "tips"
     ]
+  },
+  {
+    "deck": "03_Languages::French::Phonetics::General",
+    "scenario": "French Phonetics 🗣️",
+    "text": "In French phonetics, the rule of {{c1::La Liaison}} is defined as: A normally silent final consonant is pronounced and linked to the initial vowel of the following word (e.g., *les enfants* &rarr; /le.zɑ̃.fɑ̃/).",
+    "explanation": "Liaison maintains phonetic flow (enchaînement) by avoiding hiatus (the clashing of two vowels). The silent consonant is resurrected to serve as the onset of the next word's syllable.",
+    "usage": "Rule: <code>La Liaison</code><br>Examples:<ul><li><code>les enfants</code> &rarr; \"le-zanfan\"</li><li><code>vous avez</code> &rarr; \"vou-zavez\"</li><li><code>un petit ami</code> &rarr; \"un peti-tami\"</li></ul>",
+    "spanish": "La Liaison: Pronunciación de una consonante final muda al unirse con una palabra que empieza por vocal. Ejemplo: \"les enfants\" &rarr; \"le-zanfan\".",
+    "tags": [
+      "languages_path",
+      "french",
+      "phonetics",
+      "connected_speech",
+      "liaison"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::Phonetics::General",
+    "scenario": "French Phonetics 🗣️",
+    "text": "In French phonetics, the rule of {{c1::Elision of 'E' Muet (Schwa Deletion)}} is defined as: Unstressed mute 'e' is dropped in fast speech, merging consonants (e.g., *je ne sais pas* &rarr; \"j'sais pas\" /ʃe.pa/).",
+    "explanation": "Dropping the schwa /ə/ (e caduc) is the most prominent feature of rapid spoken French, reducing the syllable count and leading to consonant voicing assimilation (e.g., /ʒ/ becomes voiceless /ʃ/ before /s/).",
+    "usage": "Rule: <code>Elision of 'E' Muet</code><br>Examples:<ul><li><code>je ne sais pas</code> &rarr; \"j'sais pas\" (sounds like \"she-pa\")</li><li><code>petit</code> &rarr; \"p'tit\"</li><li><code>tout de suite</code> &rarr; \"tout'suite\"</li></ul>",
+    "spanish": "Caída de la 'E' muda: Omisión del sonido schwa francés en el habla rápida, provocando asimilación de consonantes contiguas.",
+    "tags": [
+      "languages_path",
+      "french",
+      "phonetics",
+      "connected_speech",
+      "schwa_elision"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::Phonetics::General",
+    "scenario": "French Phonetics 🗣️",
+    "text": "In French phonetics, the rule of {{c1::Pronoun Compression}} is defined as: Pronoun groups contract by elision of vowels and merging of syllables in rapid speech (e.g., *il y a* &rarr; \"y'a\" /ja/, *tu as* &rarr; \"t'as\").",
+    "explanation": "Subject and object pronouns before verbs are unstressed functional elements and undergo severe contraction in native conversational speed.",
+    "usage": "Rule: <code>Pronoun Compression</code><br>Examples:<ul><li><code>il y a</code> &rarr; \"y'a\"</li><li><code>tu as</code> &rarr; \"t'as\"</li><li><code>je suis</code> &rarr; \"chuis\" (/ʃɥi/)</li></ul>",
+    "spanish": "Compresión de Pronombres: Contracción y elisión de vocales en grupos de pronombres rápidos. Ejemplo: \"il y a\" &rarr; \"y'a\".",
+    "tags": [
+      "languages_path",
+      "french",
+      "phonetics",
+      "connected_speech",
+      "pronoun_compression"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::Phonetics::General",
+    "scenario": "Pronunciation Drill: La Liaison 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Nous avons des enfants.</b>\"<br>Connected speech pronunciation: {{c1::Nou-zavon de-zanfan.}}",
+    "explanation": "Applied Rule: <b>La Liaison</b><br>The normally silent final 's' in 'nous' and 'des' is voiced as [z] and links directly to the initial vowels.",
+    "usage": "Formal: <code>Nous avons des enfants.</code> &rarr; Connected: <code>Nou-zavon de-zanfan.</code>",
+    "spanish": "Spanish: Tenemos niños.",
+    "tags": [
+      "pronunciation_drill",
+      "la_liaison"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::Phonetics::General",
+    "scenario": "Pronunciation Drill: Elision of E Muet 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Je ne sais pas quoi faire.</b>\"<br>Connected speech pronunciation: {{c1::J'sais pas quoi faire.}}",
+    "explanation": "Applied Rule: <b>Elision of E Muet</b><br>The mute 'e' in 'ne' is dropped, creating a consonant cluster /ʒs/ which assimilates to voiceless [ʃs] ('sh-pais').",
+    "usage": "Formal: <code>Je ne sais pas quoi faire.</code> &rarr; Connected: <code>J'sais pas quoi faire.</code>",
+    "spanish": "Spanish: No sé qué hacer.",
+    "tags": [
+      "pronunciation_drill",
+      "elision_of_e_muet"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::Phonetics::General",
+    "scenario": "Pronunciation Drill: Pronoun Compression 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Il y a un problème.</b>\"<br>Connected speech pronunciation: {{c1::Y'a un problème.}}",
+    "explanation": "Applied Rule: <b>Pronoun Compression</b><br>The pronoun sequence 'il y a' is compressed to the single syllable 'y'a' (/ja/) in conversational speech.",
+    "usage": "Formal: <code>Il y a un problème.</code> &rarr; Connected: <code>Y'a un problème.</code>",
+    "spanish": "Spanish: Hay un problema.",
+    "tags": [
+      "pronunciation_drill",
+      "pronoun_compression"
+    ]
   }
 ]

@@ -295,5 +295,195 @@
       "reductions",
       "informal"
     ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Nasal T-Deletion 👃",
+    "text": "In American English, a /t/ following a /n/ in an unstressed syllable is often {{c1::omitted (dropped)}}, making \"twenty\" sound like \"tweny\" and \"internet\" sound like \"innernet\".",
+    "explanation": "Because /n/ and /t/ are both pronounced at the alveolar ridge, and /n/ is nasalized, the nasal airflow dominates when the syllable is unstressed, leading the speaker to skip the stop /t/ completely.",
+    "usage": "Practice Drills:<ul><li><code>twenty</code> &rarr; \"tweny\"</li><li><code>internet</code> &rarr; \"innernet\"</li><li><code>center</code> &rarr; \"cener\"</li><li><code>international</code> &rarr; \"innernational\"</li></ul>",
+    "spanish": "En inglés americano, la /t/ después de una /n/ en una sílaba átona a menudo se omite. Ejemplo: \"twenty\" suena como \"tweny\" e \"internet\" como \"innernet\".",
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "t_deletion"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Linking & Intrusive R 🔗",
+    "text": "In non-rhotic accents (e.g., British RP), speakers insert a {{c1::Linking or Intrusive R}} between two words when the first ends in a vowel and the second starts with a vowel, as in \"law and order\" sounding like \"law-r-and-order\".",
+    "explanation": "Non-rhotic speakers do not pronounce 'r' at the end of words (e.g., 'car' is /kɑː/). However, if the next word starts with a vowel, they activate it as a 'Linking R' (e.g., 'car is' &rarr; /kɑːr ɪz/). If there is no 'r' in the spelling but the vowels clash, they insert an 'Intrusive R' (e.g., 'idea of' &rarr; /aɪˈdɪə.rəv/).",
+    "usage": "Practice Drills:<ul><li><code>law and order</code> &rarr; \"law-r-an-order\"</li><li><code>idea of it</code> &rarr; \"idea-r-of-it\"</li><li><code>media event</code> &rarr; \"media-r-event\"</li></ul>",
+    "spanish": "En acentos no róticos (como el británico RP), los hablantes insertan una R de enlace ('Linking/Intrusive R') entre palabras cuando una termina en vocal y la otra empieza en vocal. Ejemplo: \"law and order\" &rarr; \"law-r-and-order\".",
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "linking_r",
+      "intrusive_r"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Lexical Compressions (Chunking) 🗣️",
+    "text": "Highly frequent word combinations are compressed into single colloquial units: \"going to\" becomes {{c1::gonna}}, \"want to\" becomes {{c2::wanna}}, and \"don't know\" becomes {{c3::dunno}}.",
+    "explanation": "Lexical chunking occurs because these high-frequency phrases are retrieved as a single cognitive unit, allowing the articulatory organs to take extreme shortcuts.",
+    "usage": "Practice Drills:<ul><li><code>going to go</code> &rarr; \"gonna go\"</li><li><code>want to eat</code> &rarr; \"wanna eat\"</li><li><code>I don't know</code> &rarr; \"I dunno\"</li><li><code>got to leave</code> &rarr; \"gotta leave\"</li></ul>",
+    "spanish": "Combinaciones de palabras muy frecuentes se comprimen en unidades coloquiales: \"going to\" se convierte en \"gonna\", \"want to\" en \"wanna\", y \"don't know\" en \"dunno\".",
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "chunking",
+      "reductions"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Unreleased Stops 🤐",
+    "text": "When a stop consonant (/p, t, k, b, d, g/) occurs at the end of a word or before another consonant, native speakers often use an {{c1::unreleased stop [̚]}}, meaning they block the air without letting it explode out.",
+    "explanation": "Instead of releasing the air pressure with a small burst of air (as in citation form), the airflow is stopped by the tongue or lips and held, resulting in an abrupt cut-off of the preceding vowel.",
+    "usage": "Practice Drills:<ul><li><code>stop it</code> &rarr; \"stop-it\" (held lip closure)</li><li><code>hot dog</code> &rarr; \"hot-dog\" (tongue stays on alveolar ridge)</li><li><code>cat food</code> &rarr; \"cat-food\" (abrupt stop before 'f')</li></ul>",
+    "spanish": "Cuando una consonante oclusiva (/p, t, k, b, d, g/) está al final de una palabra o antes de otra consonante, se suele retener la liberación de aire (oclusión retenida), cortando el sonido de golpe.",
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "stops",
+      "unreleased"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Flap D ⚡",
+    "text": "In American English, a /d/ between vowels behaves exactly like a /t/, turning into a {{c1::Flap D [ɾ]}} (which sounds identical to a Flap T), making \"ladder\" homophonous with \"latter\".",
+    "explanation": "Because the tongue tap is so fast, the distinction between the voiced /d/ and voiceless /t/ is neutralized in this position, resulting in the same alveolar flap [ɾ] sound.",
+    "usage": "Contrastive Pairs (Sound Identical):<ul><li><code>ladder</code> vs. <code>latter</code> (/ˈlæ.ɾər/)</li><li><code>riding</code> vs. <code>writing</code> (/ˈraɪ.ɾɪŋ/)</li><li><code>beading</code> vs. <code>beating</code> (/ˈbiː.ɾɪŋ/)</li></ul>",
+    "spanish": "En inglés americano, la /d/ entre vocales se convierte en una 'Flap D' [ɾ] (idéntica a la Flap T), haciendo que palabras como \"ladder\" (escalera) y \"latter\" (último) suenen igual.",
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "flap_d",
+      "homophones"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Pre-Glottalization 🤐",
+    "text": "Before voiceless stops (/p, t, k/) at the end of syllables, speakers often reinforce the consonant with a simultaneous closing of the vocal cords, a process called {{c1::Pre-Glottalization or Glottal Reinforcement}}.",
+    "explanation": "The glottis closes briefly just before or during the oral closure for the stop consonant. This makes the onset of the consonant sound sharper and prevents voicing.",
+    "usage": "Practice Drills:<ul><li><code>napkin</code> &rarr; \"na[ʔ]pkin\"</li><li><code>actor</code> &rarr; \"a[ʔ]ctor\"</li><li><code>backward</code> &rarr; \"ba[ʔ]kward\"</li></ul>",
+    "spanish": "Antes de las consonantes sordas /p, t, k/ al final de una sílaba, los hablantes a menudo cierran las cuerdas vocales simultáneamente, reforzando el sonido (pre-glotalización).",
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "glottalization",
+      "stops"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Advanced Auxiliary Chunks 🗣️",
+    "text": "Complex auxiliary verb structures are heavily contracted in native conversation: \"What did you do?\" becomes {{c1::\"whadja do?\"}} and \"would have been\" becomes {{c2::\"woulda bin\"}}.",
+    "explanation": "Auxiliary and modal verbs carry low semantic weight compared to main verbs and nouns. In rapid speech, they undergo extreme vowel reduction and coalescence to speed up delivery.",
+    "usage": "Practice Drills:<ul><li><code>What did you do?</code> &rarr; \"whadja do?\"</li><li><code>Did you ever...?</code> &rarr; \"jever...?\"</li><li><code>would have been</code> &rarr; \"woulda bin\"</li><li><code>What do you mean?</code> &rarr; \"whadaya mean?\"</li></ul>",
+    "spanish": "Las estructuras de verbos auxiliares complejos se contraen de forma extrema: \"What did you do?\" se convierte en \"whadja do?\" y \"would have been\" en \"woulda bin\".",
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "auxiliary",
+      "reductions"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Fast English: Syllabic Consonants 🗣️",
+    "text": "When an unstressed vowel is followed by /l/, /n/, or /m/, the vowel is often dropped completely, and the consonant itself becomes the nucleus of the syllable, known as a {{c1::Syllabic Consonant [n̩, l̩, m̩]}} (e.g., \"button\" &rarr; /ˈbʌ.tn̩/).",
+    "explanation": "Instead of pronouncing the schwa /ə/ and then the consonant, the tongue transitions directly from the preceding consonant to the nasal/lateral position, eliminating the vowel sound entirely.",
+    "usage": "Practice Drills:<ul><li><code>button</code> &rarr; \"butt-n\" (/ˈbʌ.tn̩/)</li><li><code>little</code> &rarr; \"litt-l\" (/ˈlɪ.tl̩/)</li><li><code>rhythm</code> &rarr; \"rhyth-m\" (/ˈrɪð.m̩/)</li><li><code>sudden</code> &rarr; \"sudd-n\" (/ˈsʌd.n̩/)</li></ul>",
+    "spanish": "Cuando una vocal átona es seguida por /l/, /n/ o /m/, la vocal se elimina y la consonante actúa como núcleo de la sílaba (consonante silábica). Ejemplo: \"button\" suena como \"butt-n\".",
+    "tags": [
+      "english",
+      "phonetics",
+      "connected_speech",
+      "syllabic_consonants"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Flap T 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Put it in a bottle of water.</b>\"<br>Connected speech pronunciation: {{c1::Pu-di-tin a bo-dle of wa-der.}}",
+    "explanation": "Applied Rule: <b>Flap T</b><br>The /t/ sounds are located between vowels in unstressed syllables. They tap against the alveolar ridge, sounding like a Spanish 'r' or light 'd', linking all words together.",
+    "usage": "Formal: <code>Put it in a bottle of water.</code> &rarr; Connected: <code>Pu-di-tin a bo-dle of wa-der.</code>",
+    "spanish": "Spanish: Ponlo en una botella de agua.",
+    "tags": [
+      "pronunciation_drill",
+      "flap_t"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Nasal T-Deletion 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>The international center has twenty computers.</b>\"<br>Connected speech pronunciation: {{c1::The innernational cener has tweny computers.}}",
+    "explanation": "Applied Rule: <b>Nasal T-Deletion</b><br>Unstressed /t/ directly following /n/ is omitted because the nasal articulation dominates at the alveolar ridge, letting speakers skip the stop sound.",
+    "usage": "Formal: <code>The international center has twenty computers.</code> &rarr; Connected: <code>The innernational cener has tweny computers.</code>",
+    "spanish": "Spanish: El centro internacional tiene veinte computadoras.",
+    "tags": [
+      "pronunciation_drill",
+      "nasal_t-deletion"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Linking and Intrusive R 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>I have no idea of the law and order.</b>\"<br>Connected speech pronunciation: {{c1::I have no idea-r-of the law-r-and order.}}",
+    "explanation": "Applied Rule: <b>Linking and Intrusive R</b><br>In non-rhotic accents, an 'r' sound is inserted to bridge contiguous vowel sounds, preventing a glottal break (hiatus).",
+    "usage": "Formal: <code>I have no idea of the law and order.</code> &rarr; Connected: <code>I have no idea-r-of the law-r-and order.</code>",
+    "spanish": "Spanish: No tengo idea de la ley y el orden.",
+    "tags": [
+      "pronunciation_drill",
+      "linking_and_intrusive_r"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Glottal Stop 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>I can't go to the football match.</b>\"<br>Connected speech pronunciation: {{c1::I can' ɡo to the foo'ball match.}}",
+    "explanation": "Applied Rule: <b>Glottal Stop</b><br>Before another consonant, final /t/ is not released with air; instead, the airflow is cut off briefly in the glottis (throat).",
+    "usage": "Formal: <code>I can't go to the football match.</code> &rarr; Connected: <code>I can' ɡo to the foo'ball match.</code>",
+    "spanish": "Spanish: No puedo ir al partido de fútbol.",
+    "tags": [
+      "pronunciation_drill",
+      "glottal_stop"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Unreleased Stops 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Drop it in the hot dog bag.</b>\"<br>Connected speech pronunciation: {{c1::Drop-it in the hah-dog bag.}}",
+    "explanation": "Applied Rule: <b>Unreleased Stops</b><br>The final stop consonants /p/, /t/, and /g/ are unreleased (held), cutting off the vowels abruptly without a puff of air.",
+    "usage": "Formal: <code>Drop it in the hot dog bag.</code> &rarr; Connected: <code>Drop-it in the hah-dog bag.</code>",
+    "spanish": "Spanish: Déjalo en la bolsa de los perros calientes.",
+    "tags": [
+      "pronunciation_drill",
+      "unreleased_stops"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Phonetics::Connected_Speech",
+    "scenario": "Pronunciation Drill: Advanced Auxiliary Chunks 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>What did you do? Did you ever think it would have been easy?</b>\"<br>Connected speech pronunciation: {{c1::Whadja do? Jever think it woulda bin easy?}}",
+    "explanation": "Applied Rule: <b>Advanced Auxiliary Chunks</b><br>The auxiliary sequences compress heavily via coalescence (what did you &rarr; whadja; did you &rarr; jever) and reduction (would have &rarr; woulda).",
+    "usage": "Formal: <code>What did you do? Did you ever think it would have been easy?</code> &rarr; Connected: <code>Whadja do? Jever think it woulda bin easy?</code>",
+    "spanish": "Spanish: ¿Qué hiciste? ¿Alguna vez pensaste que habría sido fácil?",
+    "tags": [
+      "pronunciation_drill",
+      "advanced_auxiliary_chunks"
+    ]
   }
 ]

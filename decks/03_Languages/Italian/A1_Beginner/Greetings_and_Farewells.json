@@ -96,5 +96,187 @@
       "a1",
       "greetings_and_farewells"
     ]
+  },
+  {
+    "scenario": "Italian A1: Greetings 🇮🇹",
+    "text": "In Italian, 'ciao' is an informal greeting that means both {{c1::hello / hi}} and {{c2::bye / goodbye}}.",
+    "explanation": "'Ciao' is the most popular informal greeting in Italian. It should not be used in formal contexts.",
+    "usage": "Term: <code>Ciao</code> | Dialogue: <code>- Ciao Marco! - Ciao Sofia, come va?</code>",
+    "spanish": "En italiano, 'ciao' es un saludo informal que significa tanto 'hola' como 'adiós'.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Greetings 🇮🇹",
+    "text": "In Italian, how do you say 'Good morning / Good day' formally? {{c1::Buongiorno}}",
+    "explanation": "Used from morning until early afternoon as a polite greeting.",
+    "usage": "Term: <code>Buongiorno</code> | Example: <code>Buongiorno, Signor Rossi.</code> (Good morning, Mr. Rossi.)",
+    "spanish": "¿Cómo se dice 'Buenos días / Buen día' formalmente en italiano? Buongiorno.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Greetings 🇮🇹",
+    "text": "In Italian, how do you say 'Good night' (when going to bed)? {{c1::Buonanotte}}",
+    "explanation": "Used specifically when someone is going to sleep or parting late at night.",
+    "usage": "Term: <code>Buonanotte</code> | Example: <code>Buonanotte, sogni d'oro.</code> (Good night, sweet dreams.)",
+    "spanish": "¿Cómo se dice 'Buenas noches (al acostarse)' en italiano? Buonanotte.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Goodbyes 🇮🇹",
+    "text": "In Italian, how do you say 'Goodbye' formally? {{c1::Arrivederci}}",
+    "explanation": "Literally 'until we see each other again'. Used in shops, offices, or with strangers.",
+    "usage": "Term: <code>Arrivederci</code> | Example: <code>Grazie, arrivederci!</code> (Thank you, goodbye!)",
+    "spanish": "¿Cómo se dice 'Adiós' formalmente en italiano? Arrivederci.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Politeness 🇮🇹",
+    "text": "In Italian, how do you say 'Please'? {{c1::Per favore}} or {{c1::Per piacere}}.",
+    "explanation": "Both phrases are extremely common and polite.",
+    "usage": "Examples: <code>Un caffè, per favore.</code> (A coffee, please.) | <code>Mi aiuti, per piacere.</code> (Help me, please.)",
+    "spanish": "¿Cómo se dice 'Por favor' en italiano? Per favore / Per piacere.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Gratitude 🇮🇹",
+    "text": "In Italian, how do you say 'Thank you very much'? {{c1::Grazie mille}}",
+    "explanation": "Literally 'a thousand thanks'. The standard way to show strong appreciation.",
+    "usage": "Term: <code>Grazie mille</code> | Example: <code>Grazie mille per l'aiuto.</code> (Thank you very much for the help.)",
+    "spanish": "¿Cómo se dice 'Muchas gracias' en italiano? Grazie mille.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Gratitude 🇮🇹",
+    "text": "In Italian, the standard response to 'Grazie' is '{{c1::Prego}}'.",
+    "explanation": "'Prego' means 'You're welcome'. It is also used by waiters or hosts to say 'Please (after you)' or 'How can I help you?'.",
+    "usage": "Dialogue: <code>- Grazie! - Prego.</code>",
+    "spanish": "En italiano, la respuesta estándar a 'Grazie' es 'Prego' (De nada).",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Introductions 🇮🇹",
+    "text": "In Italian, the informal way to ask someone their name is '{{c1::Come ti chiami?}}' and the response is '{{c2::Mi chiamo}} [Name]'.",
+    "explanation": "Uses the reflexive verb 'chiamarsi' (to call oneself). Literally: 'How do you call yourself?'.",
+    "usage": "Dialogue: <code>- Come ti chiami? - Mi chiamo Jesus.</code>",
+    "spanish": "En italiano, la pregunta informal para preguntar el nombre es 'Come ti chiami?' y la respuesta es 'Mi chiamo...'.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Introductions 🇮🇹",
+    "text": "In Italian, how do you say 'Nice to meet you' when meeting someone for the first time? {{c1::Piacere}} or {{c1::Piacere di conoscerti}}.",
+    "explanation": "'Piacere' alone is very common. 'Piacere di conoscerti' is informal, and 'Piacere di conoscerla' is formal.",
+    "usage": "Dialogue: <code>- Mi chiamo Sofia. - Piacere, io sono Marco.</code>",
+    "spanish": "¿Cómo se dice 'Mucho gusto / Encantado' en italiano? Piacere / Piacere di conoscerti.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Greetings 🇮🇹",
+    "text": "In Italian, how do you ask 'How are you?' informally? {{c1::Come stai?}} or {{c1::Come va?}}.",
+    "explanation": "'Come stai?' is for peers/friends. 'Come va?' is generic (How's it going?). The formal version is 'Come sta?'.",
+    "usage": "Dialogue: <code>- Ciao, come stai? - Bene, grazie. E tu?</code>",
+    "spanish": "¿Cómo se dice '¿Cómo estás?' informalmente en italiano? Come stai? / Come va?.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Italian A1: Goodbyes 🇮🇹",
+    "text": "In Italian, how do you say 'Have a nice day' upon parting? {{c1::Buona giornata}}",
+    "explanation": "Similar to French 'Bonne journée', used when leaving during the day.",
+    "usage": "Term: <code>Buona giornata</code> | Example: <code>Grazie, buona giornata!</code> (Thank you, have a nice day!)",
+    "spanish": "¿Cómo se dice 'Que tenga un buen día' al despedirse en italiano? Buona giornata.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Italian A1: Parting 🇮🇹",
+    "text": "In Italian, a very common and friendly way to say 'See you / See you later' is '{{c1::Ci vediamo}}'.",
+    "explanation": "Literally means 'we see each other'. Used daily among friends and coworkers.",
+    "usage": "Term: <code>Ci vediamo</code> | Example: <code>Ciao ragazzi, ci vediamo domani!</code> (Bye guys, see you tomorrow!)",
+    "spanish": "En italiano, una forma muy común y amistosa de decir 'Nos vemos' es 'Ci vediamo'.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ]
+  },
+  {
+    "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "Italian A1: Goodbyes 🇮🇹",
+    "text": "In Italian, how do you say 'Good day' as a wish when parting? {{c1::Buona giornata}}",
+    "explanation": "Used when leaving during the day. Do not confuse with 'Buongiorno' which is used when arriving.",
+    "usage": "Term: <code>Buona giornata</code> | Dialogue: <code>- Arrivederci! - Buona giornata!</code>",
+    "spanish": "¿Cómo se dice 'Que tenga un buen día' al despedirse en italiano? Buona giornata.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "greetings"
+    ]
   }
 ]

@@ -82,5 +82,201 @@
       "a1",
       "personal_pronouns_and_to_be"
     ]
+  },
+  {
+    "scenario": "Russian A1: Pronouns 🇷🇺",
+    "text": "In Russian, the subject pronouns for 'I' and 'you (singular informal)' are {{c1::я}} (ya) and {{c2::ты}} (ty).",
+    "explanation": "Subject pronouns are used in front of verbs and nouns.",
+    "usage": "Examples: <code>Я студент.</code> (I am a student.) | <code>Ты дома?</code> (Are you at home?)",
+    "spanish": "En ruso, los pronombres para 'yo' y 'tú' son я y ты.",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Pronouns 🇷🇺",
+    "text": "In Russian, the third-person singular pronouns for 'he', 'she', and 'it' are {{c1::он}} (on), {{c2::она}} (ona), and {{c3::оно}} (ono).",
+    "explanation": "Russian nouns have three genders, and pronouns match the gender of the noun.",
+    "usage": "Examples: <code>Он врач.</code> (He is a doctor.) | <code>Она учитель.</code> (She is a teacher.)",
+    "spanish": "En ruso, los pronombres de tercera persona singular son он (él), она (ella) y оно (ello/neutro).",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Pronouns 🇷🇺",
+    "text": "In Russian, the plural subject pronouns for 'we', 'you (formal/plural)', and 'they' are {{c1::мы}} (my), {{c2::вы}} (vy), and {{c3::они}} (oni).",
+    "explanation": "'вы' is capitalized as 'Вы' when writing to one person formally.",
+    "usage": "Examples: <code>Мы готовы.</code> (We are ready.) | <code>Они здесь.</code> (They are here.)",
+    "spanish": "En ruso, los pronombres de sujeto plurales son мы (nosotros), вы (vosotros/ustedes/formal) y они (ellos/ellas).",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Present To Be 🇷🇺",
+    "text": "In present tense Russian, the verb 'to be' (am / is / are) is {{c1::omitted / not used}}. Example: 'I am a doctor' is translated simply as '{{c2::Я врач}}'.",
+    "explanation": "The present copula (есть) exists but is almost never used in simple identity statements. A dash is sometimes used in writing (e.g. Я — врач).",
+    "usage": "Formula: Subject + Noun. Example: <code>Я инженер.</code> (I am an engineer.)",
+    "spanish": "En el presente del ruso, el verbo 'ser/estar' se omite. 'Я врач' = Yo soy médico.",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Negation 🇷🇺",
+    "text": "To negate a sentence in Russian, you place the particle '{{c1::не}}' (nye) directly before the word being negated. Example: I am not a student = {{c2::Я не студент}}.",
+    "explanation": "Simple negation by placing 'не' before the noun, verb, or adjective.",
+    "usage": "Example: <code>Он не здесь.</code> (He is not here.)",
+    "spanish": "Para negar en ruso, se coloca la partícula 'не' directamente antes de la palabra. 'Я не студент' = No soy estudiante.",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Possessives 🇷🇺",
+    "text": "In Russian, the possessive pronouns for 'my' and 'your (informal)' in masculine form are {{c1::мой}} (moy) and {{c2::твой}} (tvoy).",
+    "explanation": "Possessives must agree in gender with the noun they modify. (мой - masc, моя - fem, моё - neuter).",
+    "usage": "Examples: <code>мой дом</code> (my house [masc]) | <code>моя книга</code> (my book [fem])",
+    "spanish": "En ruso, los posesivos masculinos para 'mi' y 'tu' son мой y твой. Concuerdan en género con el sustantivo.",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Possessives 🇷🇺",
+    "text": "In Russian, the possessive pronouns for 'our' and 'your (formal/plural)' in masculine form are {{c1::наш}} (nash) and {{c2::ваш}} (vash).",
+    "explanation": "They modify nouns and agree in gender (e.g. наш дом, наша страна).",
+    "usage": "Examples: <code>наш город</code> (our city) | <code>ваш паспорт</code> (your passport)",
+    "spanish": "En ruso, los posesivos masculinos para 'nuestro' y 'vuestro/su' son наш y ваш.",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Possessives 🇷🇺",
+    "text": "In Russian, the possessive pronouns for 'his', 'her', and 'their' are {{c1::его}} (yevo), {{c2::её}} (yeyo), and {{c3::их}} (ikh).",
+    "explanation": "These possessive pronouns are invariable — they do not change according to the gender or number of the noun they modify.",
+    "usage": "Examples: <code>его книга</code> (his book) | <code>её дом</code> (her house) | <code>их дети</code> (their children)",
+    "spanish": "En ruso, los posesivos invariables 'su' (de él), 'su' (de ella) y 'su' (de ellos) son его, её y их.",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Introductions 🇷🇺",
+    "text": "In Russian, the pronoun 'me' in the phrase 'Menya zovut' (My name is) is '{{c1::меня}}' (menya), which is the accusative case of 'я'.",
+    "explanation": "Literally means 'They call me...'.",
+    "usage": "Term: <code>меня</code> | Example: <code>Меня зовут Иван.</code>",
+    "spanish": "El pronombre 'меня' (menya) en 'Menya zovut' es el acusativo de я (yo). Significa 'A mí me llaman'.",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Question Words 🇷🇺",
+    "text": "In Russian, the question word for 'Who' is '{{c1::Кто}}' (Kto) and for 'What' is '{{c2::Что}}' (pronounced 'shto').",
+    "explanation": "Note that 'Что' is written with 'ч' but pronounced as 'ш' (sh).",
+    "usage": "Examples: <code>Кто это?</code> (Who is this?) | <code>Что это?</code> (What is this?)",
+    "spanish": "En ruso, '¿Quién?' es 'Кто' y '¿Qué?' es 'Что' (se pronuncia 'shto').",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Demonstratives 🇷🇺",
+    "text": "In Russian, the phrase used to say 'this is / that is / these are' pointing to things is '{{c1::это}}' (eto).",
+    "explanation": "An invariable demonstrative pronoun used for identification.",
+    "usage": "Example: <code>Это мой телефон.</code> (This is my phone.) | <code>Это наши друзья.</code> (These are our friends.)",
+    "spanish": "En ruso, la palabra invariable usada para señalar y decir 'esto es / eso es' es 'это' (eto).",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Location 🇷🇺",
+    "text": "To state location in Russian, use 'где' (where) followed by the subject. Present verb is omitted. Example: Where is the hotel? = {{c1::Где гостиница?}}",
+    "explanation": "No verb 'to be' is needed in the present tense for location either.",
+    "usage": "Dialogue: <code>- Где метро? - Метро там.</code> (- Where is the metro? - The metro is there.)",
+    "spanish": "Para indicar ubicación en ruso, se usa 'где' seguido de la palabra. 'Где гостиница?' = ¿Dónde está el hotel?",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Pronouns 🇷🇺",
+    "text": "In Russian, the formal/respectful pronoun for 'you' is '{{c1::Вы}}' (with capital 'В' in writing) and the informal is '{{c2::ты}}'.",
+    "explanation": "Always use 'Вы' with teachers, doctors, customers, and strangers.",
+    "usage": "Formal: <code>Как Вы поживаете?</code> (How are you? - formal)",
+    "spanish": "El pronombre formal 'usted' en ruso es 'Вы' (con V mayúscula) y el informal 'tú' es 'ты'.",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Russian A1: Introductions 🇷🇺",
+    "text": "In Russian, the pronoun 'you' in the formal question 'Kak vas zovut?' (What is your name?) is '{{c1::вас}}' (vas), which is the accusative case of 'вы'.",
+    "explanation": "Literally: 'How do they call you?'",
+    "usage": "Term: <code>вас</code>",
+    "spanish": "El pronombre 'вас' (vas) en 'Как вас зовут?' es el acusativo de вы.",
+    "tags": [
+      "languages_path",
+      "russian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be"
   }
 ]

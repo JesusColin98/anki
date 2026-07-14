@@ -287,5 +287,86 @@
       "phonetics",
       "tips"
     ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Vowel Devoicing (無声化)}} is defined as: High vowels /i/ and /u/ lose their voicing between voiceless consonants or at the end of a sentence following a voiceless consonant (e.g., *desu* &rarr; \"des'\", *suki* &rarr; \"s-ki\").",
+    "explanation": "Devoicing occurs because the vocal cords do not vibrate during the transition between two voiceless consonants (like /s/ and /k/), silencing the high vowels.",
+    "usage": "Rule: <code>Vowel Devoicing (無声化)</code><br>Examples:<ul><li><code>desu (to be)</code> &rarr; \"des'\"</li><li><code>suki (like)</code> &rarr; \"s-ki\"</li><li><code>shita (under)</code> &rarr; \"sh-ta\"</li></ul>",
+    "spanish": "Dessonorización de Vocales 'U' e 'I': Las vocales altas pierden su sonoridad cuando están entre consonantes sordas o al final de frase tras consonante sorda. Ejemplo: \"desu\" &rarr; \"des'\".",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics",
+      "connected_speech",
+      "devoicing"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Sokuon (促音)}} is defined as: The small *tsu* (っ) represents a double consonant, causing a one-mora pause (air blockage) before pronouncing the next sorda consonant (e.g., *matte* &rarr; [maʔte]).",
+    "explanation": "The Sokuon represents a geminate consonant that takes exactly one mora (unit of time) of silence, during which the mouth prepares the shape for the next consonant.",
+    "usage": "Rule: <code>Sokuon (促音)</code><br>Examples:<ul><li><code>matte (wait)</code> &rarr; \"ma [pause] te\"</li><li><code>gakkou (school)</code> &rarr; \"ga [pause] kou\"</li></ul>",
+    "spanish": "Sokuon (っ): La pequeña tsu representa una pausa de una mora (detención de aire) antes de una consonante sorda. Ejemplo: \"matte\" &rarr; \"ma-tte\".",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics",
+      "connected_speech",
+      "sokuon"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Japanese Phonetics 🗣️",
+    "text": "In Japanese phonetics, the rule of {{c1::Colloquial Contractions}} is defined as: High-frequency verb endings compress in casual fast speech (e.g., *~te shimau* &rarr; \"~tchau\", *~de wa* &rarr; \"~ja\").",
+    "explanation": "Common grammaticized auxiliaries contract heavily in casual speed: the glide /j/ fuses with preceding dental consonants.",
+    "usage": "Rule: <code>Colloquial Contractions</code><br>Examples:<ul><li><code>tabete shimau</code> &rarr; \"tabetchau\"</li><li><code>de wa nai</code> &rarr; \"ja nai\"</li><li><code>te oku</code> &rarr; \"toku\"</li></ul>",
+    "spanish": "Contracciones Coloquiales: Reducciones extremas de terminaciones de verbos en el habla rápida informal. Ejemplo: \"~te shimau\" &rarr; \"~tchau\".",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "phonetics",
+      "connected_speech",
+      "contractions"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Pronunciation Drill: Vowel Devoicing 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>好きです (Suki desu).</b>\"<br>Connected speech pronunciation: {{c1::S-ki des'.}}",
+    "explanation": "Applied Rule: <b>Vowel Devoicing</b><br>High vowels /u/ and /i/ lose their voicing between voiceless consonants /s/, /k/, /t/.",
+    "usage": "Formal: <code>好きです (Suki desu).</code> &rarr; Connected: <code>S-ki des'.</code>",
+    "spanish": "Spanish: Me gusta / Es así.",
+    "tags": [
+      "pronunciation_drill",
+      "vowel_devoicing"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Pronunciation Drill: Sokuon (促音) 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>ちょっと待ってください (Chotto matte kudasai).</b>\"<br>Connected speech pronunciation: {{c1::Chotto ma[pause]te kudasai.}}",
+    "explanation": "Applied Rule: <b>Sokuon (促音)</b><br>The small tsu represents a one-mora silent pause, holding the breath before the /t/ sound.",
+    "usage": "Formal: <code>ちょっと待ってください (Chotto matte kudasai).</code> &rarr; Connected: <code>Chotto ma[pause]te kudasai.</code>",
+    "spanish": "Spanish: Espere un momento, por favor.",
+    "tags": [
+      "pronunciation_drill",
+      "sokuon_(促音)"
+    ]
+  },
+  {
+    "deck": "03_Languages::Japanese::Phonetics::General",
+    "scenario": "Pronunciation Drill: Colloquial Contractions 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>食べてしまった (Tabete shimatta).</b>\"<br>Connected speech pronunciation: {{c1::Tabetchatta.}}",
+    "explanation": "Applied Rule: <b>Colloquial Contractions</b><br>The auxiliary verb ending '-te shimatta' fuses and contracts into '-tchatta' in casual speech.",
+    "usage": "Formal: <code>食べてしまった (Tabete shimatta).</code> &rarr; Connected: <code>Tabetchatta.</code>",
+    "spanish": "Spanish: Terminé comiéndolo.",
+    "tags": [
+      "pronunciation_drill",
+      "colloquial_contractions"
+    ]
   }
 ]

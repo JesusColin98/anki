@@ -248,5 +248,54 @@
       "phonetics",
       "tips"
     ]
+  },
+  {
+    "scenario": "Portuguese Phonetics 🗣️",
+    "text": "In Portuguese, the tilde accent (~) indicates {{c1::nasalization}} of the vowel. The common ending '-ão' is pronounced as a nasal diphthong {{c2::/ɐ̃w̃/}}.",
+    "explanation": "The air goes through both the mouth and the nose when pronouncing these vowels. Essential for correct Portuguese accent.",
+    "usage": "Examples: <code>pão</code> (/pɐ̃w̃/ - bread), <code>não</code> (/nɐ̃w̃/ - no), <code>coração</code> (heart).",
+    "spanish": "En portugués, el acento de virgulilla (~) indica nasalización. La terminación '-ão' suena como el diptongo nasal '/ɐ̃w̃/'.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "phonetics"
+    ],
+    "deck": "03_Languages::Portuguese::Phonetics::General"
+  },
+  {
+    "deck": "03_Languages::Portuguese::Phonetics::General",
+    "scenario": "Pronunciation Drill: Palatalization of T/D (BR) 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Bom dia, tia.</b>\"<br>Connected speech pronunciation: {{c1::Bom djia, tchia.}}",
+    "explanation": "Applied Rule: <b>Palatalization of T/D (BR)</b><br>In Brazilian Portuguese, /d/ and /t/ are palatalized into affricates [dʒ] and [tʃ] when preceding the vowel /i/.",
+    "usage": "Formal: <code>Bom dia, tia.</code> &rarr; Connected: <code>Bom djia, tchia.</code>",
+    "spanish": "Spanish: Buenos días, tía.",
+    "tags": [
+      "pronunciation_drill",
+      "palatalization_of_t/d_(br)"
+    ]
+  },
+  {
+    "deck": "03_Languages::Portuguese::Phonetics::General",
+    "scenario": "Pronunciation Drill: L-Vocalization (BR) 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>O Brasil ganhou sob o sol.</b>\"<br>Connected speech pronunciation: {{c1::O Brasiw ganhou sob o sow.}}",
+    "explanation": "Applied Rule: <b>L-Vocalization (BR)</b><br>Syllable-final L is vocalized to the semivowel [w] in Brazilian dialects.",
+    "usage": "Formal: <code>O Brasil ganhou sob o sol.</code> &rarr; Connected: <code>O Brasiw ganhou sob o sow.</code>",
+    "spanish": "Spanish: Brasil ganó bajo el sol.",
+    "tags": [
+      "pronunciation_drill",
+      "l-vocalization_(br)"
+    ]
+  },
+  {
+    "deck": "03_Languages::Portuguese::Phonetics::General",
+    "scenario": "Pronunciation Drill: Vowel Reduction (PT) 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Isto é excelente.</b>\"<br>Connected speech pronunciation: {{c1::Isto é shs-lẽt.}}",
+    "explanation": "Applied Rule: <b>Vowel Reduction (PT)</b><br>In European Portuguese, unstressed vowels are almost completely deleted, leaving consonant clusters.",
+    "usage": "Formal: <code>Isto é excelente.</code> &rarr; Connected: <code>Isto é shs-lẽt.</code>",
+    "spanish": "Spanish: Esto es excelente.",
+    "tags": [
+      "pronunciation_drill",
+      "vowel_reduction_(pt)"
+    ]
   }
 ]

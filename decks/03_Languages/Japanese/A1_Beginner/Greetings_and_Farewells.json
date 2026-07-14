@@ -96,5 +96,187 @@
       "a1",
       "greetings_and_farewells"
     ]
+  },
+  {
+    "scenario": "Japanese A1: Greetings 🇯🇵",
+    "text": "In Japanese, the general greeting 'Hello' used in the afternoon is '{{c1::こんにちは}}' (Konnichiwa).",
+    "explanation": "Note that the final 'wa' sound is written with the hiragana 'ha' (は) because it historically starts a topic clause.",
+    "usage": "Term: <code>こんにちは (Konnichiwa)</code> | Use: Day greeting.",
+    "spanish": "En japonés, el saludo general 'Hola' en la tarde es 'こんにちは' (Konnichiwa).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Greetings 🇯🇵",
+    "text": "In Japanese, the polite way to say 'Good morning' is '{{c1::おはようございます}}' (Ohayou gozaimasu).",
+    "explanation": "Informally (with friends or family), you can simply say 'おはよう' (Ohayou).",
+    "usage": "Polite: <code>おはようございます</code> | Informal: <code>おはよう</code>",
+    "spanish": "¿Cómo se dice 'Buenos días' formalmente en japonés? おはようございます (Ohayou gozaimasu).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Greetings 🇯🇵",
+    "text": "In Japanese, how do you say 'Good evening'? {{c1::こんばんは}} (Konbanwa)",
+    "explanation": "Like Konnichiwa, the final 'wa' sound is written with the topic marker particle 'ha' (は).",
+    "usage": "Term: <code>こんばんは (Konbanwa)</code>",
+    "spanish": "¿Cómo se dice 'Buenas noches (al llegar)' en japonés? こんばんは (Konbanwa).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Greetings 🇯🇵",
+    "text": "In Japanese, the polite way to say 'Good night' (when going to bed) is '{{c1::おやすみなさい}}' (Oyasuminasai).",
+    "explanation": "Informally, you can say 'おやすみ' (Oyasumi).",
+    "usage": "Polite: <code>おやすみなさい</code> | Informal: <code>おやすみ</code>",
+    "spanish": "¿Cómo se dice 'Buenas noches (al despedirse o ir a dormir)' en japonés? おやすみなさい (Oyasuminasai).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Goodbyes 🇯🇵",
+    "text": "In Japanese, how do you say 'Goodbye' formally (implying a long separation)? {{c1::さようなら}} (Sayounara)",
+    "explanation": "Often avoided with coworkers or daily contacts because it implies a final or long farewell. Classrooms and friends use shorter, informal words.",
+    "usage": "Term: <code>さようなら</code> | Informal alternatives: <code>またね (See you)</code>, <code>じゃあね (Bye)</code>.",
+    "spanish": "¿Cómo se dice 'Adiós' formalmente en japonés? さようなら (Sayounara).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Introductions 🇯🇵",
+    "text": "In Japanese, when meeting someone for the first time, you start with the greeting '{{c1::はじめまして}}' (Hajimemashite), which means 'Nice to meet you'.",
+    "explanation": "Derived from the verb 'hajimeru' (to begin). Used strictly at the very beginning of a self-introduction.",
+    "usage": "Term: <code>はじめまして (Hajimemashite)</code>",
+    "spanish": "Al presentarse en japonés, se empieza con 'はじめまして' (Hajimemashite), que significa 'Encantado de conocerle'.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Introductions 🇯🇵",
+    "text": "In Japanese, at the end of a self-introduction, you say '{{c1::どうぞよろしくおねがいします}}' (Douzo yoroshiku onegaishimasu), which translates to 'Please be kind to me'.",
+    "explanation": "An essential cultural phrase showing respect and requesting a good relationship.",
+    "usage": "Term: <code>どうぞよろしくおねがいします</code> | Casual: <code>よろしく</code>",
+    "spanish": "Al final de una presentación en japonés, se dice 'どうぞよろしくおねがいします' (Douzo yoroshiku onegaishimasu), que equivale a 'Mucho gusto / Cuento con usted'.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Politeness 🇯🇵",
+    "text": "In Japanese, the polite way to say 'Please' (when asking for an action or object) is '{{c1::おねがいします}}' (Onegaishimasu) or '{{c2::ください}}' (Kudasai).",
+    "explanation": "Onegaishimasu is more formal and can be used on its own. Kudasai is appended to items or verbs in the -te form.",
+    "usage": "Examples: <code>お水をお願いします。</code> (Water, please.) | <code>これ、ください。</code> (This one, please.)",
+    "spanish": "En japonés, para decir 'Por favor', se usa 'おねがいします' (Onegaishimasu) o 'ください' (Kudasai).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Gratitude 🇯🇵",
+    "text": "In Japanese, the polite way to say 'Thank you very much' is '{{c1::ありがとうございます}}' (Arigatou gozaimasu).",
+    "explanation": "Informally (with close peers), you can say just 'ありがとう' (Arigatou) or even 'どうも' (Doumo).",
+    "usage": "Polite: <code>ありがとうございます</code> | Informal: <code>ありがとう</code>",
+    "spanish": "¿Cómo se dice 'Muchas gracias' en japonés? ありがとうございます (Arigatou gozaimasu).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Gratitude 🇯🇵",
+    "text": "In Japanese, how do you say 'You're welcome'? {{c1::どういたしまして}} (Douitashimashite)",
+    "explanation": "The standard textbook response to 'Arigatou'. In natural conversation, speakers often say 'いいえ' (Iie - No problem).",
+    "usage": "Term: <code>どういたしまして</code>",
+    "spanish": "¿Cómo se dice 'De nada' en japonés? どういたしまして (Douitashimashite).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Introductions 🇯🇵",
+    "text": "In Japanese, how do you ask 'What is your name?' politely? {{c1::お名前は何ですか}} (O-namae wa nan desu ka)",
+    "explanation": "The prefix 'o-' is honorific, expressing respect towards the other person.",
+    "usage": "Dialogue: <code>- お名前は何ですか。 - ジーザスです。</code>",
+    "spanish": "¿Cómo se dice '¿Cuál es su nombre?' en japonés? お名前は何ですか (O-namae wa nan desu ka).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Greetings 🇯🇵",
+    "text": "In Japanese, how do you ask 'How are you? / Are you well?'? {{c1::お元気ですか}} (O-genki desu ka)",
+    "explanation": "Used when you haven't seen someone for a while. Not used daily like 'how are you' in English.",
+    "usage": "Dialogue: <code>- お元気ですか。 - はい、元気です。</code>",
+    "spanish": "¿Cómo se dice '¿Cómo estás? / ¿Está usted bien?' en japonés? お元気ですか (O-genki desu ka).",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
+  },
+  {
+    "scenario": "Japanese A1: Politeness 🇯🇵",
+    "text": "In Japanese, '{{c1::すみません}}' (Sumimasen) is a highly useful word that means {{c2::Excuse me / Sorry / Thank you}}.",
+    "explanation": "Used to get attention, apologize, or thank someone for going to trouble for you.",
+    "usage": "Example: <code>すみません、ビルはどこですか？</code> (Excuse me, where is the building?)",
+    "spanish": "En japonés, 'すみません' (Sumimasen) significa 'Disculpe / Lo siento / Gracias' según el contexto.",
+    "tags": [
+      "languages_path",
+      "japanese",
+      "a1",
+      "greetings"
+    ],
+    "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells"
   }
 ]

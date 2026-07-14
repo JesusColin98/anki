@@ -221,5 +221,80 @@
       "phonetics",
       "tips"
     ]
+  },
+  {
+    "deck": "03_Languages::Chinese::Phonetics::General",
+    "scenario": "Chinese Phonetics: Vowel ü 🗣️",
+    "text": "In Chinese phonetics, the vowel {{c1::ü / yu}} is pronounced as a close front rounded vowel (/y/), which is formed by shaping your lips to say 'oo' (as in 'boot') while pronouncing the vowel 'ee' (as in 'beet').",
+    "explanation": "The vowel 'ü' is distinct from 'u' in Mandarin. It occurs in words like 女 (nǚ - female) and 绿 (lǜ - green) to distinguish from 怒 (nù) and 路 (lù).",
+    "usage": "Rule: <code>ü pronunciation</code><br>Examples: <code>女 (nǚ)</code>, <code>绿 (lǜ)</code>.",
+    "spanish": "En la fonética del chino, la vocal 'ü / yu' se pronuncia como una vocal redondeada anterior cerrada (/y/), que se forma redondeando los labios como para decir 'u' mientras pronuncias la vocal 'i'.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::Phonetics::General",
+    "scenario": "Chinese Phonetics: Initial r 🗣️",
+    "text": "In Chinese phonetics, the initial consonant {{c1::r}} is pronounced as a voiced retroflex fricative (/ʐ/) or retroflex approximant (/ɻ/), which sounds like a soft blend of the English 'r' and the 'z' in 'seizure'.",
+    "explanation": "The Chinese 'r' initial involves curling the tongue backward toward the roof of the mouth. It is voiced and has some friction, unlike the English 'r'.",
+    "usage": "Consonant: <code>r initial</code><br>Examples: <code>人 (rén - person)</code>, <code>热 (rè - hot)</code>.",
+    "spanish": "En la fonética del chino, la consonante inicial 'r' se pronuncia como una fricativa retrofleja sonora (/ʐ/), lo que suena como una mezcla suave de la 'r' en inglés y la 'j' francesa.",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::Phonetics::General",
+    "scenario": "Chinese Phonetics: Ending ian 🗣️",
+    "text": "In Chinese Pinyin, the final combination {{c1::ian}} is not pronounced 'ee-ahn'; instead, the 'a' shifts to an 'eh' sound, making the entire final sound like {{c2::yen}} (/jɛn/).",
+    "explanation": "Many beginners mispronounce Pinyin 'ian' by making a broad 'a' sound. In standard Mandarin, 'ian' always rhymes with English 'pen' or 'yen'.",
+    "usage": "Final rhyme: <code>ian</code><br>Examples: <code>天 (tiān - day)</code>, <code>面 (miàn - face)</code>.",
+    "spanish": "En el Pinyin chino, la combinación final 'ian' no se pronuncia 'i-an'; en su lugar, la 'a' cambia a un sonido 'e', haciendo que suene como 'ien' (/jɛn/).",
+    "tags": [
+      "languages_path",
+      "chinese",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::Phonetics::General",
+    "scenario": "Pronunciation Drill: Erhua (儿化) 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>我们在玩儿呢 (Women zai wan er ne).</b>\"<br>Connected speech pronunciation: {{c1::Women zai waer ne.}}",
+    "explanation": "Applied Rule: <b>Erhua (儿化)</b><br>The retroflex suffix blends with the final vowel of 'wan', dropping the nasal 'n' and adding r-coloring.",
+    "usage": "Formal: <code>我们在玩儿呢 (Women zai wan er ne).</code> &rarr; Connected: <code>Women zai waer ne.</code>",
+    "spanish": "Spanish: Estamos jugando aquí.",
+    "tags": [
+      "pronunciation_drill",
+      "erhua_(儿化)"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::Phonetics::General",
+    "scenario": "Pronunciation Drill: Neutral Tone (轻声) 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>这是什么？ (Zhe shi shen me?)</b>\"<br>Connected speech pronunciation: {{c1::Zhe shi shenme?}}",
+    "explanation": "Applied Rule: <b>Neutral Tone (轻声)</b><br>The second character 'me' loses its original tone, becoming short, flat, and soft.",
+    "usage": "Formal: <code>这是什么？ (Zhe shi shen me?)</code> &rarr; Connected: <code>Zhe shi shenme?</code>",
+    "spanish": "Spanish: ¿Qué es esto?",
+    "tags": [
+      "pronunciation_drill",
+      "neutral_tone_(轻声)"
+    ]
+  },
+  {
+    "deck": "03_Languages::Chinese::Phonetics::General",
+    "scenario": "Pronunciation Drill: Syllable Contraction 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>我不知道 (Wo bu zhi dao).</b>\"<br>Connected speech pronunciation: {{c1::Wo buzdao.}}",
+    "explanation": "Applied Rule: <b>Syllable Contraction</b><br>The adjacent syllables 'bu', 'zhi', and 'dao' merge into 'buzdao' by dropping the retroflex initial /zh/.",
+    "usage": "Formal: <code>我不知道 (Wo bu zhi dao).</code> &rarr; Connected: <code>Wo buzdao.</code>",
+    "spanish": "Spanish: No lo sé.",
+    "tags": [
+      "pronunciation_drill",
+      "syllable_contraction"
+    ]
   }
 ]

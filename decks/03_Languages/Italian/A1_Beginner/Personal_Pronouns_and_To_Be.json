@@ -82,5 +82,201 @@
       "a1",
       "personal_pronouns_and_to_be"
     ]
+  },
+  {
+    "scenario": "Italian A1: Pronouns 🇮🇹",
+    "text": "In Italian, the subject pronouns for 'I' and 'you (singular informal)' are {{c1::io}} and {{c2::tu}}.",
+    "explanation": "Italian pronouns are often omitted in sentences because the verb conjugation clearly indicates the subject.",
+    "usage": "Examples: <code>Io sono stanco.</code> (I am tired.) | <code>Tu sei pronto?</code> (Are you ready?)",
+    "spanish": "En italiano, los pronombres de sujeto para 'yo' y 'tú' son 'io' y 'tu'.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Pronouns 🇮🇹",
+    "text": "In Italian, the subject pronouns for 'he' and 'she' are {{c1::lui}} and {{c2::lei}}.",
+    "explanation": "In grammatical descriptions, you might see 'egli' (he) and 'ella' (she), but in modern spoken Italian, 'lui' and 'lei' are exclusively used.",
+    "usage": "Examples: <code>Lui è bravo.</code> (He is good.) | <code>Lei è italiana.</code> (She is Italian.)",
+    "spanish": "En italiano, los pronombres de sujeto para 'él' y 'ella' son 'lui' y 'lei'.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Pronouns 🇮🇹",
+    "text": "In Italian, the subject pronoun for 'we' is {{c1::noi}}, and for 'you all (plural)' is {{c2::voi}}.",
+    "explanation": "Unlike Spanish, Italian 'noi' and 'voi' do not change ending for gender (no 'nosotras' or 'vosotras').",
+    "usage": "Examples: <code>Noi siamo amici.</code> (We are friends.) | <code>Voi siete pronti?</code> (Are you all ready?)",
+    "spanish": "En italiano, los pronombres para 'nosotros' y 'vosotros/ustedes' son 'noi' y 'voi' (invariables en género).",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Pronouns 🇮🇹",
+    "text": "In Italian, the subject pronoun for 'they' is {{c1::loro}}.",
+    "explanation": "Used for both masculine, feminine, or mixed groups.",
+    "usage": "Example: <code>Loro sono stanchi.</code> (They are tired.)",
+    "spanish": "En italiano, el pronombre para 'ellos/ellas' es 'loro'.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Verb Essere 🇮🇹",
+    "text": "In Italian, what is the infinitive form of the verb 'to be'? {{c1::essere}}",
+    "explanation": "Essere is one of the two auxiliary verbs in Italian.",
+    "usage": "Term: <code>essere</code> | Example: <code>essere o non essere</code> (to be or not to be)",
+    "spanish": "¿Cuál es el infinitivo del verbo 'ser/estar' en italiano? essere.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Verb Essere 🇮🇹",
+    "text": "Conjugate 'essere' (to be) in the present tense for 'io' (I) and 'tu' (you): io {{c1::sono}}, tu {{c2::sei}}.",
+    "explanation": "Essere present tense conjugations are highly irregular.",
+    "usage": "Examples: <code>Io sono felice.</code> (I am happy.) | <code>Tu sei qui.</code> (You are here.)",
+    "spanish": "Conjuga 'essere' en presente para 'yo' y 'tú': io sono, tu sei.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Verb Essere 🇮🇹",
+    "text": "Conjugate 'essere' (to be) in the present tense for 'lui/lei' (he/she) and 'noi' (we): lui/lei {{c1::è}}, noi {{c2::siamo}}.",
+    "explanation": "Note the grave accent on 'è' (is). Without the accent, 'e' means 'and'.",
+    "usage": "Examples: <code>Lui è stanco.</code> (He is tired.) | <code>Noi siamo a casa.</code> (We are at home.)",
+    "spanish": "Conjuga 'essere' en presente para 'él/ella' y 'nosotros': lui/lei è, noi siamo.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Verb Essere 🇮🇹",
+    "text": "Conjugate 'essere' (to be) in the present tense for 'voi' (you all) and 'loro' (they): voi {{c1::siete}}, loro {{c2::sono}}.",
+    "explanation": "Notice that 'sono' is used for both 'io' (I am) and 'loro' (they are). Context tells them apart.",
+    "usage": "Examples: <code>Voi siete italiani?</code> (Are you all Italian?) | <code>Loro sono stanchi.</code> (They are tired.)",
+    "spanish": "Conjuga 'essere' en presente para 'vosotros' y 'ellos': voi siete, loro sono.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Pronouns 🇮🇹",
+    "text": "In Italian, the polite/formal pronoun for 'you (singular)' is {{c1::Lei}}.",
+    "explanation": "It is grammatically feminine (same as 'she') and conjugates with the third-person singular verb form (e.g. 'Lei è' = You are formal), but refers to both men and women.",
+    "usage": "Example: <code>Signore, Lei è molto gentile.</code> (Sir, you are very kind.)",
+    "spanish": "En italiano, el pronombre formal/cortés para 'usted' es 'Lei' (con mayúscula). Usa la tercera persona singular del verbo.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Negation 🇮🇹",
+    "text": "To make a sentence negative in Italian, you place the word {{c1::non}} directly before the verb. Example: I am not Italian = {{c2::Non sono italiano}}.",
+    "explanation": "Very simple negation structure, placed right before the verb.",
+    "usage": "Example: <code>Lui non è stanco.</code> (He is not tired.)",
+    "spanish": "Para hacer una oración negativa en italiano, se coloca 'non' justo antes del verbo. 'Non sono italiano' = No soy italiano.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Questions 🇮🇹",
+    "text": "To ask a question in Italian, you do not need to change the word order or use auxiliary verbs; you simply raise your {{c1::intonation}} at the end of the sentence.",
+    "explanation": "Word order remains identical to statements. Just change the pitch.",
+    "usage": "Statement: <code>Sei stanco.</code> (You are tired.) | Question: <code>Sei stanco?</code> (Are you tired?)",
+    "spanish": "En italiano, no es necesario cambiar el orden de las palabras para hacer preguntas; solo se eleva la entonación al final.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Possessives 🇮🇹",
+    "text": "In Italian, possessive adjectives usually require a definite article. For example, 'my book' is '{{c1::il mio libro}}' and 'my house' is '{{c2::la mia casa}}'.",
+    "explanation": "mio/mia are masculine/feminine. Unlike Spanish, you must include 'il/la' in front.",
+    "usage": "Examples: <code>Questo è il mio libro.</code> (This is my book.) | <code>La mia macchina è rossa.</code> (My car is red.)",
+    "spanish": "En italiano, los adjetivos posesivos suelen requerir un artículo definido. 'il mio libro' = mi libro.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Demonstratives 🇮🇹",
+    "text": "In Italian, 'this' is '{{c1::questo}}' (masc) / '{{c1::questa}}' (fem) and 'that' is '{{c2::quello}}' / '{{c2::quella}}'.",
+    "explanation": "These agree in gender and number with the noun they modify.",
+    "usage": "Examples: <code>questo tavolo</code> (this table) | <code>quella sedia</code> (that chair)",
+    "spanish": "En italiano, 'este' se dice 'questo/questa' y 'ese/aquel' se dice 'quello/quella'.",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Italian A1: Plural Agreement 🇮🇹",
+    "text": "In Italian, adjectives must agree in gender and number. If 'He is happy' is 'Lui è felice', 'They (masc) are happy' is '{{c1::Loro sono felici}}'.",
+    "explanation": "Adjectives ending in '-e' become '-i' in the plural for both masculine and feminine.",
+    "usage": "Example: <code>Le ragazze sono felici.</code> (The girls are happy.)",
+    "spanish": "En italiano, los adjetivos concuerdan en género y número. 'Lui è felice' -> 'Loro sono felici' (las palabras terminadas en -e cambian a -i).",
+    "tags": [
+      "languages_path",
+      "italian",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be"
   }
 ]

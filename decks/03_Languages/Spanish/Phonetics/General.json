@@ -261,5 +261,53 @@
       "phonetics",
       "tips"
     ]
+  },
+  {
+    "deck": "03_Languages::Spanish::Phonetics::General",
+    "scenario": "Pronunciation Drill: Sinalefa 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Mi hijo va de una vez a la escuela.</b>\"<br>Connected speech pronunciation: {{c1::Mijo va duna vez a la escuela.}}",
+    "explanation": "Applied Rule: <b>Sinalefa</b><br>Contiguous vowels 'i-hi' and 'de-u' merge into single syllables in fast speech, eliminating word boundaries.",
+    "usage": "Formal: <code>Mi hijo va de una vez a la escuela.</code> &rarr; Connected: <code>Mijo va duna vez a la escuela.</code>",
+    "spanish": "Spanish: My son goes to school at once.",
+    "tags": [
+      "pronunciation_drill",
+      "sinalefa"
+    ]
+  },
+  {
+    "deck": "03_Languages::Spanish::Phonetics::General",
+    "scenario": "Pronunciation Drill: Aspiración de S 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Los mismos muchachos están listos.</b>\"<br>Connected speech pronunciation: {{c1::Lo' mi'mo' muchachos ehta' liht-o'.}}",
+    "explanation": "Applied Rule: <b>Aspiración de S</b><br>Syllable-final 's' is aspirated to a soft breath [h] or dropped entirely in fast conversational dialects.",
+    "usage": "Formal: <code>Los mismos muchachos están listos.</code> &rarr; Connected: <code>Lo' mi'mo' muchachos ehta' liht-o'.</code>",
+    "spanish": "Spanish: The same boys are ready.",
+    "tags": [
+      "pronunciation_drill",
+      "aspiración_de_s"
+    ]
+  },
+  {
+    "deck": "03_Languages::Spanish::Phonetics::General",
+    "scenario": "Pronunciation Drill: Relajación de D 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Está cansado de trabajar para nada.</b>\"<br>Connected speech pronunciation: {{c1::Está cansao de trabajar pa' na'.}}",
+    "explanation": "Applied Rule: <b>Relajación de D</b><br>The dental consonant /d/ between vowels is extremely relaxed, resulting in complete deletion in colloquial fast speech.",
+    "usage": "Formal: <code>Está cansado de trabajar para nada.</code> &rarr; Connected: <code>Está cansao de trabajar pa' na'.</code>",
+    "spanish": "Spanish: He is tired of working for nothing.",
+    "tags": [
+      "pronunciation_drill",
+      "relajación_de_d"
+    ]
+  },
+  {
+    "deck": "03_Languages::Spanish::Phonetics::General",
+    "scenario": "Pronunciation Drill: Asimilación N-M 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Dame un beso en mi mejilla.</b>\"<br>Connected speech pronunciation: {{c1::Dame um beso em mi mejilla.}}",
+    "explanation": "Applied Rule: <b>Asimilación N-M</b><br>The nasal /n/ shifts its place of articulation to bilabial [m] before the upcoming bilabial consonants /b/ and /m/.",
+    "usage": "Formal: <code>Dame un beso en mi mejilla.</code> &rarr; Connected: <code>Dame um beso em mi mejilla.</code>",
+    "spanish": "Spanish: Give me a kiss on my cheek.",
+    "tags": [
+      "pronunciation_drill",
+      "asimilación_n-m"
+    ]
   }
 ]

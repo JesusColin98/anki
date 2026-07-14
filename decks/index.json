@@ -1,21 +1,21 @@
 {
-  "total_cards": 1224,
-  "total_decks": 97,
+  "total_cards": 2006,
+  "total_decks": 117,
   "decks": [
     {
       "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
       "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Defense_Evasion/03_Defense_Evasion.json",
-      "cards_count": 3
+      "cards_count": 20
     },
     {
       "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Reconnaissance::02_Reconnaissance",
       "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Reconnaissance/02_Reconnaissance.json",
-      "cards_count": 3
+      "cards_count": 20
     },
     {
       "deck": "01_Cloud_and_Infrastructure::Networking::Fundamentals::01_Fundamentals",
       "path": "decks/01_Cloud_and_Infrastructure/Networking/Fundamentals/01_Fundamentals.json",
-      "cards_count": 3
+      "cards_count": 20
     },
     {
       "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Infrastructure::05_Infrastructure_Science",
@@ -115,17 +115,17 @@
     {
       "deck": "03_Languages::Chinese::A1_Beginner::Greetings_and_Farewells",
       "path": "decks/03_Languages/Chinese/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 7
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Chinese::A1_Beginner::Personal_Pronouns_and_To_Be",
       "path": "decks/03_Languages/Chinese/A1_Beginner/Personal_Pronouns_and_To_Be.json",
-      "cards_count": 5
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Chinese::Phonetics::General",
       "path": "decks/03_Languages/Chinese/Phonetics/General.json",
-      "cards_count": 17
+      "cards_count": 23
     },
     {
       "deck": "03_Languages::English::01_Daily_Life::Airport",
@@ -183,13 +183,13 @@
       "cards_count": 20
     },
     {
-      "deck": "03_Languages::English::02_Professional::IT_Support",
-      "path": "decks/03_Languages/English/02_Professional/IT_Support.json",
+      "deck": "03_Languages::English::02_Professional::Interview_Skills",
+      "path": "decks/03_Languages/English/02_Professional/Interview_Skills.json",
       "cards_count": 20
     },
     {
-      "deck": "03_Languages::English::02_Professional::Interview_Skills",
-      "path": "decks/03_Languages/English/02_Professional/Interview_Skills.json",
+      "deck": "03_Languages::English::02_Professional::IT_Support",
+      "path": "decks/03_Languages/English/02_Professional/IT_Support.json",
       "cards_count": 20
     },
     {
@@ -260,7 +260,7 @@
     {
       "deck": "03_Languages::English::Phonetics::Connected_Speech",
       "path": "decks/03_Languages/English/Phonetics/Connected_Speech.json",
-      "cards_count": 20
+      "cards_count": 34
     },
     {
       "deck": "03_Languages::English::Phonetics::General",
@@ -268,84 +268,84 @@
       "cards_count": 27
     },
     {
-      "deck": "03_Languages::French::01_A1_Beginner::01_Greetings_and_Farewells",
-      "path": "decks/03_Languages/French/01_A1_Beginner/01_Greetings_and_Farewells.json",
-      "cards_count": 3
-    },
-    {
       "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
       "path": "decks/03_Languages/French/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 7
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
       "path": "decks/03_Languages/French/A1_Beginner/Personal_Pronouns_and_To_Be.json",
-      "cards_count": 6
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::French::Phonetics::General",
       "path": "decks/03_Languages/French/Phonetics/General.json",
-      "cards_count": 20
+      "cards_count": 26
     },
     {
-      "deck": "03_Languages::German::01_A1_Beginner::01_Greetings_and_Farewells",
-      "path": "decks/03_Languages/German/01_A1_Beginner/01_Greetings_and_Farewells.json",
-      "cards_count": 3
+      "deck": "03_Languages::General::Phonetics::Cognitive_Listening",
+      "path": "decks/03_Languages/General/Phonetics/Cognitive_Listening.json",
+      "cards_count": 8
     },
     {
       "deck": "03_Languages::German::A1_Beginner::Greetings_and_Farewells",
       "path": "decks/03_Languages/German/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 8
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
       "path": "decks/03_Languages/German/A1_Beginner/Personal_Pronouns_and_To_Be.json",
-      "cards_count": 6
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::German::Phonetics::General",
       "path": "decks/03_Languages/German/Phonetics/General.json",
-      "cards_count": 18
+      "cards_count": 23
+    },
+    {
+      "deck": "03_Languages::Hindi::Phonetics::General",
+      "path": "decks/03_Languages/Hindi/Phonetics/General.json",
+      "cards_count": 6
     },
     {
       "deck": "03_Languages::Italian::A1_Beginner::Greetings_and_Farewells",
       "path": "decks/03_Languages/Italian/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 7
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Italian::A1_Beginner::Personal_Pronouns_and_To_Be",
       "path": "decks/03_Languages/Italian/A1_Beginner/Personal_Pronouns_and_To_Be.json",
-      "cards_count": 6
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Italian::Phonetics::General",
       "path": "decks/03_Languages/Italian/Phonetics/General.json",
-      "cards_count": 15
+      "cards_count": 22
     },
     {
       "deck": "03_Languages::Japanese::A1_Beginner::Greetings_and_Farewells",
       "path": "decks/03_Languages/Japanese/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 7
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Japanese::A1_Beginner::Personal_Pronouns_and_To_Be",
       "path": "decks/03_Languages/Japanese/A1_Beginner/Personal_Pronouns_and_To_Be.json",
-      "cards_count": 4
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Japanese::Phonetics::General",
       "path": "decks/03_Languages/Japanese/Phonetics/General.json",
-      "cards_count": 22
+      "cards_count": 28
     },
     {
       "deck": "03_Languages::Korean::A1_Beginner::Greetings_and_Farewells",
       "path": "decks/03_Languages/Korean/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 7
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Korean::A1_Beginner::Personal_Pronouns_and_To_Be",
       "path": "decks/03_Languages/Korean/A1_Beginner/Personal_Pronouns_and_To_Be.json",
-      "cards_count": 4
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Korean::Phonetics::General",
@@ -355,47 +355,47 @@
     {
       "deck": "03_Languages::Portuguese::A1_Beginner::Greetings_and_Farewells",
       "path": "decks/03_Languages/Portuguese/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 7
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be",
       "path": "decks/03_Languages/Portuguese/A1_Beginner/Personal_Pronouns_and_To_Be.json",
-      "cards_count": 5
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Portuguese::Phonetics::General",
       "path": "decks/03_Languages/Portuguese/Phonetics/General.json",
-      "cards_count": 19
+      "cards_count": 23
     },
     {
       "deck": "03_Languages::Russian::A1_Beginner::Greetings_and_Farewells",
       "path": "decks/03_Languages/Russian/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 7
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Russian::A1_Beginner::Personal_Pronouns_and_To_Be",
       "path": "decks/03_Languages/Russian/A1_Beginner/Personal_Pronouns_and_To_Be.json",
-      "cards_count": 6
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Russian::Phonetics::General",
       "path": "decks/03_Languages/Russian/Phonetics/General.json",
-      "cards_count": 19
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Spanish::A1_Beginner::Greetings_and_Farewells",
       "path": "decks/03_Languages/Spanish/A1_Beginner/Greetings_and_Farewells.json",
-      "cards_count": 7
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Spanish::A1_Beginner::Personal_Pronouns_and_To_Be",
       "path": "decks/03_Languages/Spanish/A1_Beginner/Personal_Pronouns_and_To_Be.json",
-      "cards_count": 5
+      "cards_count": 20
     },
     {
       "deck": "03_Languages::Spanish::Phonetics::General",
       "path": "decks/03_Languages/Spanish/Phonetics/General.json",
-      "cards_count": 20
+      "cards_count": 24
     },
     {
       "deck": "04_Social_and_Humanities::Books::Philosophy::05_Philosophy_Meaning",
@@ -423,6 +423,11 @@
       "cards_count": 10
     },
     {
+      "deck": "04_Social_and_Humanities::Psychology::Cognitive_Psychology::01_Cognitive_Psychology",
+      "path": "decks/04_Social_and_Humanities/Psychology/Cognitive_Psychology/01_Cognitive_Psychology.json",
+      "cards_count": 5
+    },
+    {
       "deck": "04_Social_and_Humanities::Psychology::Conversational::07_Conversational_Psychology",
       "path": "decks/04_Social_and_Humanities/Psychology/Conversational/07_Conversational_Psychology.json",
       "cards_count": 5
@@ -430,7 +435,7 @@
     {
       "deck": "05_Soft_Skills_and_Leadership::Books::Communication::02_Communication_Influence",
       "path": "decks/05_Soft_Skills_and_Leadership/Books/Communication/02_Communication_Influence.json",
-      "cards_count": 1
+      "cards_count": 23
     },
     {
       "deck": "05_Soft_Skills_and_Leadership::Social_Skills::04_Customer_Support_Excellence::Crisis_Management",
@@ -478,9 +483,104 @@
       "cards_count": 80
     },
     {
-      "deck": "06_Business_and_Productivity::Books_Path::Productivity::03_Learning_Productivity",
-      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/03_Learning_Productivity.json",
-      "cards_count": 6
+      "deck": "06_Business_and_Productivity::Books_Path::Memory::15 How to Develop a Brilliant Memory",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/15_How_to_Develop_a_Brilliant_Memory.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Memory::16 Memory Craft",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/16_Memory_Craft.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Memory::17 Moonwalking with Einstein",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/17_Moonwalking_with_Einstein.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Memory::18 The Art Of Memory",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/18_The_Art_Of_Memory.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Memory::19 The Memory Book",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/19_The_Memory_Book.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Memory::20 Unlimited Memory",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Memory/20_Unlimited_Memory.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::01 A Mind For Numbers",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/01_A_Mind_For_Numbers.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::02 Become a SuperLearner",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/02_Become_a_SuperLearner.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/03_Make_It_Stick.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::04 Building a Second Brain",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/04_Building_a_Second_Brain.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::05 Essentialism",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/05_Essentialism.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::06 Four Thousand Weeks",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/06_Four_Thousand_Weeks.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::07 How to Take Smart Notes",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/07_How_to_Take_Smart_Notes.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::08 Tiny Habits",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/08_Tiny_Habits.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Productivity::09 Ultralearning",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Productivity/09_Ultralearning.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Sales::10 Fanatical Prospecting",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/10_Fanatical_Prospecting.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Sales::11 Gap Selling",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/11_Gap_Selling.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Sales::12 Objections",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/12_Objections.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Sales::13 SPIN Selling",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/13_SPIN_Selling.json",
+      "cards_count": 20
+    },
+    {
+      "deck": "06_Business_and_Productivity::Books_Path::Sales::14 The Challenger Sale",
+      "path": "decks/06_Business_and_Productivity/Books_Path/Sales/14_The_Challenger_Sale.json",
+      "cards_count": 20
     },
     {
       "deck": "06_Business_and_Productivity::Books_Path::Strategy::01_Business_Strategy",

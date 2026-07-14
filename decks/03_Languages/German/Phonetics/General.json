@@ -235,5 +235,67 @@
       "phonetics",
       "tips"
     ]
+  },
+  {
+    "deck": "03_Languages::German::Phonetics::General",
+    "scenario": "German Phonetics: Vowel ö 🗣️",
+    "text": "In German phonetics, the vowel {{c1::ö / oe}} is pronounced as a front rounded vowel, which can be long and tense (e.g., /øː/ as in *schön*) or short and lax (e.g., /œ/ as in *können*).",
+    "explanation": "Formed by rounding the lips as if saying 'o' while pronouncing the front vowel 'e'.",
+    "usage": "Rule: <code>ö pronunciation</code><br>Examples: <code>schön (/ʃøːn/)</code>, <code>können (/ˈkœnən/)</code>.",
+    "spanish": "En la fonética del alemán, la vocal 'ö / oe' se pronuncia redondeando los labios para decir 'o' mientras se pronuncia la vocal 'e'.",
+    "tags": [
+      "languages_path",
+      "german",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::Phonetics::General",
+    "scenario": "German Phonetics: Cluster sp/st 🗣️",
+    "text": "In German phonetics, the consonant clusters 'sp' and 'st' at the beginning of a syllable or word are pronounced as {{c1::/ʃp/ (shp)}} and {{c1::/ʃt/ (sht)}} respectively (e.g., *sprechen* -> [ˈʃpʁɛçn̩], *stehen* -> [ˈʃteːən]).",
+    "explanation": "German converts the 's' into a 'sch' sound when followed by 'p' or 't' at the start of a word/root.",
+    "usage": "Rule: <code>sp/st pronunciation</code><br>Examples: <code>Sport (sport)</code>, <code>Stadt (city)</code>.",
+    "spanish": "En la fonética del alemán, los grupos consonánticos 'sp' y 'st' al principio de una palabra se pronuncian como '/ ʃp /' (shp) y '/ ʃt /' (sht).",
+    "tags": [
+      "languages_path",
+      "german",
+      "phonetics"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::Phonetics::General",
+    "scenario": "Pronunciation Drill: Auslautverhärtung 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Der Hund war den ganzen Tag aktiv.</b>\"<br>Connected speech pronunciation: {{c1::Der Hunt war den ganzen Taak aktif.}}",
+    "explanation": "Applied Rule: <b>Auslautverhärtung</b><br>Voiced consonants /d/ in 'Hund', /g/ in 'Tag', and /v/ in 'aktiv' are devoiced to [t], [k], and [f] at syllable endings.",
+    "usage": "Formal: <code>Der Hund war den ganzen Tag aktiv.</code> &rarr; Connected: <code>Der Hunt war den ganzen Taak aktif.</code>",
+    "spanish": "Spanish: El perro estuvo activo todo el día.",
+    "tags": [
+      "pronunciation_drill",
+      "auslautverhärtung"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::Phonetics::General",
+    "scenario": "Pronunciation Drill: Knacklaut (Glottal Stop) 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Ich esse einen Apfel.</b>\"<br>Connected speech pronunciation: {{c1::Ich [ʔ]esse [ʔ]einen [ʔ]Apfel.}}",
+    "explanation": "Applied Rule: <b>Knacklaut (Glottal Stop)</b><br>A glottal stop [ʔ] is inserted before each word-initial vowel, separating the words sharply.",
+    "usage": "Formal: <code>Ich esse einen Apfel.</code> &rarr; Connected: <code>Ich [ʔ]esse [ʔ]einen [ʔ]Apfel.</code>",
+    "spanish": "Spanish: Como una manzana.",
+    "tags": [
+      "pronunciation_drill",
+      "knacklaut_(glottal_stop)"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::Phonetics::General",
+    "scenario": "Pronunciation Drill: Reduction of final -en 🗣️",
+    "text": "Practice saying this phrase fast: \"<b>Wir kommen morgen.</b>\"<br>Connected speech pronunciation: {{c1::Wir komm'n morg'n.}}",
+    "explanation": "Applied Rule: <b>Reduction of final -en</b><br>The final unstressed '-en' syllables lose their vowels, leaving a syllabic nasal [n̩].",
+    "usage": "Formal: <code>Wir kommen morgen.</code> &rarr; Connected: <code>Wir komm'n morg'n.</code>",
+    "spanish": "Spanish: Venimos mañana.",
+    "tags": [
+      "pronunciation_drill",
+      "reduction_of_final_-en"
+    ]
   }
 ]

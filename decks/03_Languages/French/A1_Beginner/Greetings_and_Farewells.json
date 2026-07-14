@@ -96,5 +96,184 @@
       "a1",
       "greetings_and_farewells"
     ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings 🇫🇷",
+    "text": "When entering a French bakery at 7:00 PM, you should greet the staff with '{{c1::Bonsoir}}' instead of 'Bonjour'.",
+    "explanation": "<strong>Bonjour</strong> is used during the day (Hello/Good morning). <strong>Bonsoir</strong> is used after 6 PM (Good evening). Saying 'Bonjour' late in the evening sounds unnatural in France.",
+    "usage": "Time guidelines:<ul><li><code>Bonjour</code> (used from morning until approximately 6 PM)</li><li><code>Bonsoir</code> (used after 6 PM)</li></ul>",
+    "spanish": "Al entrar a una panadería francesa a las 7:00 PM, debes saludar al personal con 'Bonsoir' en lugar de 'Bonjour'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "greetings"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings 🇫🇷",
+    "text": "To ask a stranger or colleague 'How are you?' formally in French, you say: '{{c1::Comment allez-vous ?}}'",
+    "explanation": "<strong>vous</strong> is the formal pronoun of respect. For friends or children, you use the informal 'Ça va ?' or 'Comment tu vas ?'.",
+    "usage": "Pronunciation tip: Pronounce the 't' in 'Comment' linked with 'allez' as a 't' sound: <code>Comment allez-vous ?</code> (/kɔ.mɑ̃.t‿a.le.vu/).<ul><li>Formal: <code>Bonjour Madame, comment allez-vous ?</code></li><li>Informal: <code>Salut Marc, ça va ?</code></li></ul>",
+    "spanish": "Para preguntar formalmente a un extraño o colega '¿Cómo está usted?' en francés, dices: 'Comment allez-vous ?'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "greetings"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings 🇫🇷",
+    "text": "In French, the informal word '{{c1::Salut}}' can be used to say both 'Hi' and 'Bye'.",
+    "explanation": "<strong>Salut</strong> is a highly versatile informal greeting. It should only be used with friends, family, or people you know well.",
+    "usage": "Usage scenarios:<ul><li>Arriving: <code>Salut, ça va ?</code> (Hi, how's it going?)</li><li>Leaving: <code>Allez, salut !</code> (Okay, bye!)</li></ul>",
+    "spanish": "En francés, la palabra informal 'Salut' se puede usar tanto para decir 'Hola' como 'Adiós'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "greetings"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, how do you say 'Welcome'? {{c1::Bienvenue}}",
+    "explanation": "Used to welcome someone to a place. If saying 'welcome' to do something, it is followed by 'de' or 'à'.",
+    "usage": "Term: <code>Bienvenue</code> | Example: <code>Bienvenue en France !</code> (Welcome to France!)",
+    "spanish": "¿Cómo se dice 'Welcome' en francés? Bienvenue",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, how do you say 'See you tomorrow'? {{c1::À demain}}",
+    "explanation": "Literally 'until tomorrow'. It is a common parting phrase among colleagues and friends.",
+    "usage": "Term: <code>À demain</code> | Example: <code>Bonne soirée, à demain !</code> (Good evening, see you tomorrow!)",
+    "spanish": "¿Cómo se dice 'See you tomorrow' en francés? À demain",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, how do you say 'Good night' (when going to bed)? {{c1::Bonne nuit}}",
+    "explanation": "Unlike 'Bonsoir' (good evening), 'Bonne nuit' is specifically used right before sleeping or when someone is going to bed.",
+    "usage": "Term: <code>Bonne nuit</code> | Example: <code>Bonne nuit, fais de beaux rêves.</code> (Good night, sweet dreams.)",
+    "spanish": "¿Cómo se dice 'Good night' en francés? Bonne nuit",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, the formal/polite way to say 'Please' is '{{c1::S'il vous plaît}}', and the informal way is '{{c2::S'il te plaît}}'.",
+    "explanation": "Literally translates to 'if it pleases you'. Match 'vous' or 'tu' depending on the relationship.",
+    "usage": "Formal: <code>Un café, s'il vous plaît.</code> | Informal: <code>Passe-moi le sel, s'il te plaît.</code>",
+    "spanish": "En francés, la forma formal de decir 'Por favor' es 'S'il vous plaît' y la informal es 'S'il te plaît'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, how do you say 'Thank you very much'? {{c1::Merci beaucoup}}",
+    "explanation": "The most common way to show high gratitude. Be careful with pronunciation: 'beaucoup' ends with a silent 'p'.",
+    "usage": "Term: <code>Merci beaucoup</code> | Example: <code>Merci beaucoup pour votre aide.</code> (Thank you very much for your help.)",
+    "spanish": "¿Cómo se dice 'Thank you very much' en francés? Merci beaucoup",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, a standard informal way to say 'You're welcome' is '{{c1::De rien}}'.",
+    "explanation": "Literally means 'of nothing'. More formal versions include 'Je vous en prie' or 'Je t'en prie'.",
+    "usage": "Term: <code>De rien</code> | Dialogue: <code>- Merci ! - De rien.</code>",
+    "spanish": "En francés, una forma estándar e informal de decir 'De nada' es 'De rien'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, the informal question to ask someone their name is '{{c1::Comment t'appelles-tu ?}}' or 'Comment tu t'appelles ?'.",
+    "explanation": "Literally 'How do you call yourself?'. The formal equivalent is 'Comment vous appelez-vous ?'.",
+    "usage": "Informal: <code>Salut ! Comment tu t'appelles ?</code> | Formal: <code>Bonjour, comment vous appelez-vous ?</code>",
+    "spanish": "En francés, la pregunta informal para preguntar el nombre a alguien es 'Comment t'appelles-tu ?'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, how do you say 'My name is [Name]'? {{c1::Je m'appelle}} [Name]",
+    "explanation": "Using the pronominal verb 's'appeler' (to be called). Literally 'I call myself'.",
+    "usage": "Term: <code>Je m'appelle</code> | Example: <code>Je m'appelle Jesus.</code>",
+    "spanish": "¿Cómo se dice 'Me llamo...' en francés? Je m'appelle",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, how do you say 'Have a nice day'? {{c1::Bonne journée}}",
+    "explanation": "Used when leaving or saying goodbye during the day to wish someone a good day ahead.",
+    "usage": "Term: <code>Bonne journée</code> | Example: <code>Au revoir, bonne journée !</code> (Goodbye, have a nice day!)",
+    "spanish": "¿Cómo se dice 'Have a nice day' en francés? Bonne journée",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Greetings_and_Farewells",
+    "scenario": "French A1: Greetings and Farewells 🗣️",
+    "text": "In French, how do you say 'Have a nice evening'? {{c1::Bonne soirée}}",
+    "explanation": "Used when departing in the evening to wish someone a pleasant rest of the evening.",
+    "usage": "Term: <code>Bonne soirée</code> | Example: <code>Bonsoir, bonne soirée à tous.</code> (Good evening, have a nice evening everyone.)",
+    "spanish": "¿Cómo se dice 'Have a nice evening' en francés? Bonne soirée",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "greetings_and_farewells"
+    ]
   }
 ]

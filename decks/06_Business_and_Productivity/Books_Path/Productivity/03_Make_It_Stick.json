@@ -1,0 +1,262 @@
+[
+  {
+    "scenario": "Make It Stick: Retrieval Practice 📚",
+    "text": "The cornerstone of effective learning is {{c1::retrieval practice}}—the act of recalling facts, concepts, or events from memory rather than re-reading them.",
+    "explanation": "Retrieval forces the brain to search its memory network, which consolidates neural pathways and makes the information more accessible in the future.",
+    "usage": "Use flashcards or write down everything you remember from a lecture on a blank sheet of paper.",
+    "spanish": "La piedra angular del aprendizaje efectivo es la práctica de recuperación: el acto de recordar hechos, conceptos o eventos de la memoria.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Spaced Retrieval 📚",
+    "text": "Retrieval practice is most effective when it is {{c1::spaced out}} over time, allowing some forgetting to occur between sessions.",
+    "explanation": "When retrieval is slightly difficult because of forgetting, the cognitive effort required to recall the information strengthens the memory trace much more.",
+    "usage": "Wait a few days before reviewing your notes, rather than studying them repeatedly on the same day.",
+    "spanish": "La práctica de recuperación es más efectiva cuando se espacia a lo largo del tiempo, permitiendo que ocurra cierto olvido.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Interleaved Practice 📚",
+    "text": "Instead of block practice, you should use {{c1::interleaved practice}}—alternating between different topics or skills during a single study session.",
+    "explanation": "Interleaving helps your brain learn to identify the differences between problems and select the correct strategy.",
+    "usage": "If practicing coding algorithms, mix array traversal, string formatting, and sorting problems in the same session.",
+    "spanish": "En lugar de practicar en bloque, debes usar la práctica intercalada: alternar entre diferentes temas o habilidades.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Varied Practice 📚",
+    "text": "Practicing a skill in {{c1::different contexts}} or varying the parameters of practice improves your ability to transfer the skill to new situations.",
+    "explanation": "Varied practice builds a broader, more flexible schema in the brain, rather than a rigid, single-use habit.",
+    "usage": "Write code in different IDEs, on different operating systems, or solve database design tasks for different industries.",
+    "spanish": "Practicar una habilidad en diferentes contextos o variar los parámetros de la práctica mejora tu capacidad para transferir la habilidad.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Generation 📚",
+    "text": "The process of trying to solve a problem before being shown the solution or explanation is called {{c1::generation}}.",
+    "explanation": "Even if you fail or make mistakes, the cognitive struggle of trying to generate a solution primes your brain to learn and retain the correct explanation.",
+    "usage": "Try to write a function or solve a puzzle yourself before looking at the tutorial or documentation.",
+    "spanish": "El proceso de intentar resolver un problema antes de que se te muestre la solución o explicación se llama generación.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Elaboration 📚",
+    "text": "Connecting new information to what you already know by putting it in your own words or finding real-world applications is called {{c1::elaboration}}.",
+    "explanation": "Elaboration builds links between the new concepts and your existing mental framework, making the new memory trace much stronger.",
+    "usage": "Explain a complex coding pattern to a non-technical friend or write a metaphor for it.",
+    "spanish": "Conectar nueva información con lo que ya sabes poniéndola en tus propias palabras se llama elaboración.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Calibration 📚",
+    "text": "To align your subjective sense of what you know with objective reality, you must use {{c1::calibration}}—using objective tests and feedback to identify blind spots.",
+    "explanation": "Without objective feedback, you are highly vulnerable to the illusion of competence and overconfidence.",
+    "usage": "Use quizzes, practice tests, or peer reviews to verify your actual skill level.",
+    "spanish": "Para alinear tu sentido subjetivo de lo que sabes con la realidad objetiva, debes usar la calibración: usar pruebas objetivas.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Growth Mindset 📚",
+    "text": "Embracing challenges and viewing mistakes as opportunities to grow neural connections is the hallmark of a {{c1::growth mindset}}.",
+    "explanation": "Intelligence is not fixed. The brain is plastic and grows stronger when pushing through difficult cognitive challenges.",
+    "usage": "When stuck on a bug, tell yourself: 'This struggle is helping my brain grow and learn new patterns.'",
+    "spanish": "Adoptar desafíos y ver los errores como oportunidades para desarrollar conexiones neuronales es la marca de una mentalidad de crecimiento.",
+    "tags": [
+      "books_path",
+      "psychology",
+      "growth_mindset"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Desirable Difficulties 📚",
+    "text": "Short-term struggles that make learning feel slower and more difficult but lead to much stronger long-term retention are called {{c1::desirable difficulties}}.",
+    "explanation": "Easy learning is often quickly forgotten. Cognitive effort during encoding and retrieval leads to deep learning.",
+    "usage": "Examples of desirable difficulties: active recall, spaced repetition, generation, and interleaving.",
+    "spanish": "Las dificultades a corto plazo que hacen que el aprendizaje parezca más lento pero conducen a una mayor retención se llaman dificultades deseables.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Reflection 📚",
+    "text": "Taking a few minutes to review what you did, asking what worked, and identifying areas for improvement is the practice of {{c1::reflection}}.",
+    "explanation": "Reflection combines retrieval practice and elaboration, helping you consolidate lessons and plan future strategies.",
+    "usage": "At the end of a sprint or coding project, review the code and write down 3 things you learned or would do differently.",
+    "spanish": "Tomarse unos minutos para revisar lo que hiciste, preguntar qué funcionó e identificar áreas de mejora es la práctica de la reflexión.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Illusions of Knowing 📚",
+    "text": "The cognitive bias where you mistake familiarity with a text for mastery of the underlying concepts is called the {{c1::illusion of knowing}}.",
+    "explanation": "Familiarity is passive. True mastery is the ability to retrieve and apply the concepts dynamically.",
+    "usage": "Avoid simply highlighting and rereading. Instead, quiz yourself or apply the concepts.",
+    "spanish": "El sesgo cognitivo en el que confundes la familiaridad con un texto con el dominio de los conceptos subyacentes se llama ilusión de conocimiento.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Mental Models 📚",
+    "text": "A {{c1::mental model}} is a structured representation of external reality that your brain builds to understand how things work and make predictions.",
+    "explanation": "As you practice, your brain groups chunks of related rules into overarching mental models, allowing you to solve complex, novel problems quickly.",
+    "usage": "Build mental models of software design (e.g. MVC, Microservices) to guide your engineering decisions.",
+    "spanish": "Un modelo mental es una representación estructurada de la realidad externa que tu cerebro construye para entender cómo funcionan las cosas.",
+    "tags": [
+      "books_path",
+      "learning",
+      "mental_models"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Consolidating Memory 📚",
+    "text": "The physical process in the brain where temporary memory traces are reorganized and stabilized into long-term storage is called {{c1::consolidation}}.",
+    "explanation": "Consolidation takes hours or days. It requires neural processing during sleep and rest, which is why spacing study sessions is essential.",
+    "spanish": "El proceso físico en el cerebro donde los rastros de memoria temporales se reorganizan y estabilizan se llama consolidación.",
+    "tags": [
+      "books_path",
+      "learning",
+      "neuroscience"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick",
+    "usage": ""
+  },
+  {
+    "scenario": "Make It Stick: Reconsolidation 📚",
+    "text": "When you retrieve a memory, it becomes unstable and open to change. The process of modifying and restoring it back into long-term storage is {{c1::reconsolidation}}.",
+    "explanation": "Reconsolidation allows you to update existing memories with new context, elaboration, or corrections.",
+    "usage": "Every time you review a card and add new connections, you reconsolidate that memory.",
+    "spanish": "Cuando recuperas un recuerdo, se vuelve inestable. El proceso de modificarlo y volver a almacenarlo se llama reconsolidación.",
+    "tags": [
+      "books_path",
+      "learning",
+      "neuroscience"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Massed Practice 📚",
+    "text": "Cramming or repeating the same skill over and over in a single session is called {{c1::massed practice}}, which leads to quick short-term performance but rapid long-term forgetting.",
+    "explanation": "Massed practice feels productive because you see rapid improvement, but it doesn't build durable memory traces.",
+    "usage": "Avoid 8-hour cram sessions before exams. Use daily 1-hour sessions instead.",
+    "spanish": "Estudiar intensamente o repetir la misma habilidad una y otra vez en una sola sesión se llama práctica masiva.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  },
+  {
+    "scenario": "Make It Stick: Cognitive Map 📚",
+    "text": "To navigate complex tasks, the brain constructs a {{c1::cognitive map}}—a mental layout of the task's rules, structures, and goals.",
+    "explanation": "Elaborative study methods help build high-fidelity cognitive maps, allowing you to find alternative paths when obstacles arise.",
+    "spanish": "Para navegar por tareas complejas, el cerebro construye un mapa cognitivo: un diseño mental de las reglas y estructuras.",
+    "tags": [
+      "books_path",
+      "learning",
+      "psychology"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick",
+    "usage": ""
+  },
+  {
+    "scenario": "Make It Stick: Structured Learning 📚",
+    "text": "Effective learners practice {{c1::structure building}}—extracting the core rules and structure from new material and discarding irrelevant details.",
+    "explanation": "Structure builders can quickly place new facts into their proper context. Low structure builders get overwhelmed by details.",
+    "spanish": "Los estudiantes efectivos practican la construcción de estructuras: extraer las reglas y la estructura central del material.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick",
+    "usage": ""
+  },
+  {
+    "scenario": "Make It Stick: Explanatory Power 📚",
+    "text": "A key method of elaboration is trying to explain the {{c1::underlying principles}} of a concept rather than just memorizing definitions.",
+    "explanation": "Understanding 'why' a system behaves a certain way gives you the power to troubleshoot and adapt.",
+    "spanish": "Un método clave de elaboración es intentar explicar los principios subyacentes de un concepto en lugar de memorizar definiciones.",
+    "tags": [
+      "books_path",
+      "learning",
+      "elaboration"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick",
+    "usage": ""
+  },
+  {
+    "scenario": "Make It Stick: Calibration Blind Spot 📚",
+    "text": "The tendency to overestimate your own competence is called the {{c1::Dunning-Kruger effect}}, which is corrected by calibrating against objective benchmarks.",
+    "explanation": "Incompetent people lack the metacognitive skills to evaluate their own lack of competence. Feedback is the only cure.",
+    "spanish": "La tendencia a sobreestimar tu propia competencia se llama efecto Dunning-Kruger.",
+    "tags": [
+      "books_path",
+      "psychology",
+      "calibration"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick",
+    "usage": ""
+  },
+  {
+    "scenario": "Make It Stick: Rule Learning 📚",
+    "text": "In learning, distinguishing between **example learning** and **rule learning** is crucial: {{c1::rule learning}} allows you to apply the concept to completely new scenarios.",
+    "explanation": "Example learning is shallow. Rule learning extracts the underlying pattern.",
+    "usage": "Don't just copy code templates. Master the design rules so you can write them from scratch.",
+    "spanish": "En el aprendizaje, distinguir entre el aprendizaje de ejemplos y el aprendizaje de reglas es crucial: el de reglas permite aplicar el concepto a nuevos escenarios.",
+    "tags": [
+      "books_path",
+      "learning",
+      "make_it_stick"
+    ],
+    "deck": "06_Business_and_Productivity::Books_Path::Productivity::03 Make It Stick"
+  }
+]

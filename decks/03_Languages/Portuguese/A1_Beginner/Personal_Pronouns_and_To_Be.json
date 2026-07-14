@@ -68,5 +68,215 @@
       "a1",
       "personal_pronouns_and_to_be"
     ]
+  },
+  {
+    "scenario": "Portuguese A1: Pronouns 🇵🇹",
+    "text": "In Portuguese, the subject pronoun for 'I' is '{{c1::eu}}' and for 'you (singular informal)' is '{{c2::tu}}'.",
+    "explanation": "European Portuguese regularly uses 'tu' for close friends/peers. Brazil mostly replaces 'tu' with 'você'.",
+    "usage": "Examples: <code>Eu sou espanhol.</code> (I am Spanish.) | <code>Tu és estudante?</code> (Are you a student?)",
+    "spanish": "En portugués, los pronombres para 'yo' y 'tú' son 'eu' y 'tu'.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Pronouns 🇵🇹",
+    "text": "In Portuguese, the third-person singular pronouns for 'he' and 'she' are {{c1::ele}} and {{c2::ela}}.",
+    "explanation": "They correspond directly to 'él' and 'ella' in Spanish.",
+    "usage": "Examples: <code>Ele é médico.</code> (He is a doctor.) | <code>Ela é enfermeira.</code> (She is a nurse.)",
+    "spanish": "En portugués, los pronombres para 'él' y 'ella' son 'ele' y 'ela'.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Pronouns 🇵🇹",
+    "text": "In Portuguese, the subject pronoun for 'we' is {{c1::nós}}.",
+    "explanation": "Conversational Portuguese (especially in Brazil) often replaces 'nós' with 'a gente' (conjugated in third-person singular, e.g., 'a gente é').",
+    "usage": "Example: <code>Nós somos amigos.</code> (We are friends.) | Colloquial: <code>A gente é amigo.</code>",
+    "spanish": "En portugués, 'nosotros' se dice 'nós'. Coloquialmente se usa 'a gente'.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Pronouns 🇵🇹",
+    "text": "In Portuguese, the plural pronouns for 'they' (masc/mixed) is {{c1::eles}} and 'they' (fem) is {{c2::elas}}.",
+    "explanation": "They follow direct gender agreement rules.",
+    "usage": "Examples: <code>Eles são engenheiros.</code> (They are engineers.) | <code>Elas são professoras.</code> (They are teachers - fem.)",
+    "spanish": "En portugués, 'ellos' se dice 'eles' y 'ellas' se dice 'elas'.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Verb Ser 🇵🇹",
+    "text": "In Portuguese, the verb for permanent identity 'to be' is '{{c1::ser}}'. Conjugate 'ser' for 'eu' and 'tu': eu {{c2::sou}}, tu {{c3::és}}.",
+    "explanation": "Ser is used for characteristics like nationality, profession, permanent traits, and origin.",
+    "usage": "Examples: <code>Eu sou do Porto.</code> (I am from Porto.) | <code>Tu és simpático.</code> (You are nice.)",
+    "spanish": "El verbo 'ser' en portugués se conjuga para yo y tú como: eu sou, tu és.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Verb Ser 🇵🇹",
+    "text": "Conjugate the verb 'ser' (to be) in the present tense for 'ele/ela' (he/she) and 'nós' (we): ele/ela {{c1::é}}, nós {{c2::somos}}.",
+    "explanation": "Note the acute accent on 'é' (is). Without it, 'e' means 'and'.",
+    "usage": "Examples: <code>Ele é arquiteto.</code> (He is an architect.) | <code>Nós somos felizes.</code> (We are happy.)",
+    "spanish": "Conjuga 'ser' en presente para 'él/ella' y 'nosotros': ele/ela é, nós somos.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Verb Ser 🇵🇹",
+    "text": "Conjugate the verb 'ser' (to be) in the present tense for 'eles/elas' (they): eles/elas {{c1::são}}.",
+    "explanation": "Notice the nasal ending '-ão'.",
+    "usage": "Example: <code>Elas são estudantes.</code> (They are students.)",
+    "spanish": "Conjuga 'ser' en presente para 'ellos/ellas': eles/elas são.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Verb Estar 🇵🇹",
+    "text": "In Portuguese, the verb for temporary states 'to be' is '{{c1::estar}}'. Conjugate 'estar' for 'eu' and 'tu': eu {{c2::estou}}, tu {{c3::estás}}.",
+    "explanation": "Estar is used for location, health, temporary moods, or current weather.",
+    "usage": "Examples: <code>Eu estou cansado.</code> (I am tired.) | <code>Tu estás em Lisboa?</code> (Are you in Lisbon?)",
+    "spanish": "El verbo 'estar' en portugués se conjuga para yo y tú como: eu estou, tu estás.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Verb Estar 🇵🇹",
+    "text": "Conjugate the verb 'estar' (to be) in the present tense for 'ele/ela' (he/she) and 'nós' (we): ele/ela {{c1::está}}, nós {{c2::estamos}}.",
+    "explanation": "Estar conjugations carry accents on terminal vowels.",
+    "usage": "Examples: <code>Como está ele?</code> (How is he?) | <code>Nós estamos no hotel.</code> (We are at the hotel.)",
+    "spanish": "Conjuga 'estar' en presente para 'él/ella' y 'nosotros': ele/ela está, nós estamos.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Verb Estar 🇵🇹",
+    "text": "Conjugate the verb 'estar' (to be) in the present tense for 'eles/elas' (they): eles/elas {{c1::estão}}.",
+    "explanation": "Carries the nasal diphthong '-ão'.",
+    "usage": "Example: <code>Eles estão com pressa.</code> (They are in a hurry.)",
+    "spanish": "Conjuga 'estar' en presente para 'ellos/ellas': eles/elas estão.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Pronouns 🇵🇹",
+    "text": "In Portuguese, the pronoun '{{c1::você}}' is formal in Portugal but informal in Brazil, and it conjugates with the {{c2::third-person singular}} form of the verb.",
+    "explanation": "In Portugal, 'você' is polite but some find it slightly cold; name + verb in 3rd person is preferred for polite address. In Brazil, 'você' is the default 'you'.",
+    "usage": "Example: <code>Você é de onde?</code> (Where are you from?)",
+    "spanish": "En portugués, 'você' equivale a 'tú' (Brasil) o 'usted' (Portugal). Se conjuga en tercera persona singular (e.g. você é).",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "pronouns"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Negation 🇵🇹",
+    "text": "To negate a sentence in Portuguese, you place the word '{{c1::não}}' before the verb. Example: I am not tired = {{c2::Não estou cansado}}.",
+    "explanation": "Direct and simple negation identical to Spanish 'no'.",
+    "usage": "Example: <code>Ela não é daqui.</code> (She is not from here.)",
+    "spanish": "Para negar una oración en portugués, se pone 'não' antes del verbo. 'Não estou cansado' = No estoy cansado.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Contractions 🇵🇹",
+    "text": "In Portuguese, prepositions regularly contract with personal pronouns. For example, 'de + ele' becomes '{{c1::dele}}' (his/of him) and 'de + ela' becomes '{{c2::dela}}' (her/of her).",
+    "explanation": "Required in Portuguese grammar, unlike Spanish where 'de él' remains separated.",
+    "usage": "Example: <code>O livro é dele.</code> (The book is his.) | <code>A casa é dela.</code> (The house is hers.)",
+    "spanish": "En portugués, 'de + ele/ela' se contrae obligatoriamente como 'dele' (de él) y 'dela' (de ella).",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Contractions 🇵🇹",
+    "text": "In Portuguese, 'em + ele' contracts to '{{c1::nele}}' (in him/it) and 'em + ela' contracts to '{{c2::nela}}' (in her/it).",
+    "explanation": "Combines preposition 'em' (in/on/at) with the pronoun.",
+    "usage": "Example: <code>Eu acredito nele.</code> (I believe in him.)",
+    "spanish": "La preposición 'em' se contrae con 'ele/ela' como 'nele' y 'nela'.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
+  },
+  {
+    "scenario": "Portuguese A1: Questions 🇵🇹",
+    "text": "Just like Spanish, yes/no questions in Portuguese are formed purely through {{c1::intonation}} without changing the word order.",
+    "explanation": "A statement becomes a question simply by raising the pitch of your voice at the end.",
+    "usage": "Statement: <code>Tu és o Jesus.</code> | Question: <code>Tu és o Jesus?</code>",
+    "spanish": "Al igual que el español, en portugués las preguntas de sí/no se indican únicamente mediante la entonación.",
+    "tags": [
+      "languages_path",
+      "portuguese",
+      "a1",
+      "grammar"
+    ],
+    "deck": "03_Languages::Portuguese::A1_Beginner::Personal_Pronouns_and_To_Be"
   }
 ]

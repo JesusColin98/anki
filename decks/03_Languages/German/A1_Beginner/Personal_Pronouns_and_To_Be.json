@@ -82,5 +82,201 @@
       "a1",
       "personal_pronouns_and_to_be"
     ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, what is the infinitive form of the verb 'to be'? {{c1::sein}}",
+    "explanation": "German verb conjugation of 'sein' is highly irregular and one of the most basic elements of A1 grammar.",
+    "usage": "Term: <code>sein</code> | Example: <code>glücklich sein</code> (to be happy)",
+    "spanish": "¿Cuál es el infinitivo del verbo 'ser/estar' en alemán? sein",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "To negate the verb 'sein' in German, you place the negation particle {{c1::nicht}} after the verb. Example: I am not ready = {{c2::Ich bin nicht bereit}}.",
+    "explanation": "'nicht' is used to negate adjectives, adverbs, pronouns, and verbs in German.",
+    "usage": "Example: <code>Er ist nicht hier.</code> (He is not here.)",
+    "spanish": "Para negar el verbo 'sein' en alemán, se coloca 'nicht' después del verbo conjugado. 'Ich bin nicht' = Yo no soy/estoy.",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, after accusative prepositions like 'für' (for), the pronoun 'ich' becomes {{c1::mich}} (me) and 'du' becomes {{c2::dich}} (you).",
+    "explanation": "'für' is a preposition that always demands the accusative case.",
+    "usage": "Examples: <code>Das ist für mich.</code> (This is for me.) | <code>Ich habe etwas für dich.</code> (I have something for you.)",
+    "spanish": "En alemán, después de preposiciones acusativas como 'für', 'ich' se convierte en 'mich' y 'du' en 'dich'.",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, after dative prepositions like 'mit' (with), 'er' (he) becomes {{c1::ihm}} (him) and 'sie' (she) becomes {{c2::ihr}} (her).",
+    "explanation": "'mit' is a preposition that always demands the dative case.",
+    "usage": "Examples: <code>Ich gehe mit ihm.</code> (I am going with him.) | <code>Wir sprechen mit ihr.</code> (We are speaking with her.)",
+    "spanish": "En alemán, después de preposiciones dativas como 'mit', 'er' se convierte en 'ihm' y 'sie' en 'ihr'.",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, after dative prepositions like 'mit' (with), 'wir' (we) becomes {{c1::uns}} (us) and 'ihr' (you all) becomes {{c2::euch}} (you all).",
+    "explanation": "Dative forms for first and second-person plural pronouns.",
+    "usage": "Examples: <code>Komm mit uns!</code> (Come with us!) | <code>Ich fahre mit euch.</code> (I am driving with you all.)",
+    "spanish": "En alemán, después de 'mit', 'wir' se convierte en 'uns' y 'ihr' en 'euch'.",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, after dative prepositions like 'mit' (with), 'sie' (they) becomes {{c1::ihnen}} (them) and formal 'Sie' (you) becomes {{c2::Ihnen}} (you formal).",
+    "explanation": "Note that 'Ihnen' (formal you) is always capitalized, whereas 'ihnen' (them) is lowercase.",
+    "usage": "Examples: <code>Wie geht es Ihnen?</code> (How are you? - formal) | <code>Ich arbeite mit ihnen.</code> (I work with them.)",
+    "spanish": "En alemán, después de 'mit', el pronombre 'sie' (ellos/ellas) se convierte en 'ihnen' y 'Sie' (formal) se convierte en 'Ihnen'.",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "To form a question in German using the verb 'sein', you swap the subject and verb: 'Are you ready?' is '{{c1::Bist du bereit?}}' and 'Are you sure (formal)?' is '{{c2::Sind Sie sicher?}}'.",
+    "explanation": "German questions are formed by placing the inflected verb at the first position (verb-initial).",
+    "usage": "Examples: <code>Bist du bereit?</code> (Are you ready?) | <code>Sind Sie sicher?</code> (Are you sure? - formal)",
+    "spanish": "Para formar preguntas en alemán con 'sein', se invierte el sujeto y el verbo. 'Bist du bereit?' = ¿Estás listo?",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, neuter nouns (like 'das Kind' or 'das Buch') are replaced by the personal pronoun {{c1::es}}. Example: Das Buch ist alt. {{c2::Es}} ist gut. (The book is old. It is good.)",
+    "explanation": "Neuter nouns are referred to by 'es', masculine by 'er', and feminine by 'sie'.",
+    "usage": "Example: <code>Das Buch ist alt. Es ist gut.</code> (The book is old. It is good.)",
+    "spanish": "En alemán, los sustantivos neutros se reemplazan por el pronombre 'es'. Por ejemplo, 'das Buch' -> 'es'.",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, what is the gender-neutral demonstrative phrase used to say 'this is / that is / these are / those are'? {{c1::Das ist}} or {{c1::Das sind}}.",
+    "explanation": "'Das ist' is used for singular subjects, and 'Das sind' is used for plural subjects, regardless of gender.",
+    "usage": "Examples: <code>Das ist mein Freund.</code> (This is my friend.) | <code>Das sind meine Bücher.</code> (These are my books.)",
+    "spanish": "¿Cómo se dice 'Esto es / Estos son' en alemán de manera invariable? Das ist (singular) / Das sind (plural).",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, how do you say 'Who is that?'? {{c1::Wer ist das?}}",
+    "explanation": "Wer is the question word for 'Who' in German.",
+    "usage": "Dialogue: <code>- Wer ist das? - Das ist meine Schwester.</code> (- Who is that? - That is my sister.)",
+    "spanish": "¿Cómo se dice '¿Quién es ese/a?' en alemán? Wer ist das?",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, how do you say 'What is that?'? {{c1::Was ist das?}}",
+    "explanation": "Was is the question word for 'What' in German.",
+    "usage": "Example: <code>Was ist das dort auf dem Tisch?</code> (What is that there on the table?)",
+    "spanish": "¿Cómo se dice '¿Qué es eso?' en alemán? Was ist das?",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, what is the singular masculine subject pronoun? {{c1::er}}",
+    "explanation": "Used for male persons and any masculine grammatical noun (e.g. 'der Tisch' -> 'er ist').",
+    "usage": "Example: <code>Wo ist der Stuhl? Er ist hier.</code> (Where is the chair? It is here.)",
+    "spanish": "¿Cuál es el pronombre de sujeto singular masculino en alemán? er",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, what is the singular feminine subject pronoun? {{c1::sie}}",
+    "explanation": "Used for female persons and any feminine grammatical noun (e.g. 'die Tasche' -> 'sie ist').",
+    "usage": "Example: <code>Wo ist die Tasche? Sie ist weg.</code> (Where is the bag? It is gone.)",
+    "spanish": "¿Cuál es el pronombre de sujeto singular femenino en alemán? sie",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::German::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "German A1: Personal Pronouns and To Be 🗣️",
+    "text": "In German, the formal 'you' is '{{c1::Sie}}' and the informal plural 'you all' is '{{c2::ihr}}'.",
+    "explanation": "The formal 'Sie' is always capitalized and conjugates like the plural 'they' (sie). The informal 'ihr' is lowercase and has its own conjugation.",
+    "usage": "Formal: <code>Sind Sie müde?</code> | Informal plural: <code>Seid ihr müde?</code>",
+    "spanish": "En alemán, el 'usted' formal es 'Sie' (siempre en mayúsculas) y el 'vosotros/ustedes' informal es 'ihr'.",
+    "tags": [
+      "languages_path",
+      "german",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
   }
 ]

@@ -1,0 +1,181 @@
+import json
+import os
+
+def save_deck(category, name, cards):
+    deck_name = f"06_Business_and_Productivity::Books_Path::{category}::{name.replace('_', ' ')}"
+    for card in cards:
+        card['deck'] = deck_name
+    
+    dir_path = f"decks/06_Business_and_Productivity/Books_Path/{category}"
+    os.makedirs(dir_path, exist_ok=True)
+    file_path = f"{dir_path}/{name}.json"
+    
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(cards, f, indent=2, ensure_ascii=False)
+    print(f"Saved {len(cards)} cards to {file_path}")
+
+# ==================== 01_A_Mind_For_Numbers (20 cards) ====================
+a_mind_for_numbers = [
+    {
+        "scenario": "A Mind For Numbers: Focused vs Diffuse 🧠",
+        "text": "Learning requires toggling between the {{c1::focused mode}} (concentrated attention on details) and the {{c2::diffuse mode}} (relaxed, wandering state that allows for creative connections).",
+        "explanation": "When you get stuck on a difficult technical problem, continuing to focus intensely can cause the 'Einstellung effect' (blocking a better solution). Relaxing the mind allows the diffuse mode to find new neural pathways.",
+        "usage": "How to toggle:<ul><li>Focused: Intensive studying, coding, or calculating.</li><li>Diffuse: Taking a walk, sleeping, or exercising right after intensive work.</li></ul>",
+        "spanish": "El aprendizaje requiere alternar entre el modo enfocado (atención concentrada en detalles) y el modo difuso (estado relajado y errante que permite conexiones creativas).",
+        "tags": ["books_path", "learning", "productivity"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Einstellung Effect 🧠",
+        "text": "The {{c1::Einstellung Effect}} is a mental roadblock where a pre-existing, incorrect idea or solution path prevents you from seeing a better or correct solution.",
+        "explanation": "Once your brain has paved a neural path for solving a problem, it becomes hard to look at the problem differently unless you step away and switch to the diffuse mode of thinking.",
+        "usage": "This commonly happens during exams when you get stuck on a wrong approach and cannot see the obvious solution. Stepping away resets your focus.",
+        "spanish": "El Efecto Einstellung es un obstáculo mental en el que una idea preexistente e incorrecta te impide ver una mejor solución.",
+        "tags": ["books_path", "learning", "einstellung"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Chunking 🧠",
+        "text": "A {{c1::chunk}} is a compact package of information bound together by meaning that your brain can easily access during thinking.",
+        "explanation": "To build a chunk, you must focus your undivided attention, understand the basic idea, and gain context so you know when to use it.",
+        "usage": "Understand the logic behind a mathematical equation first, then practice using it in different contexts.",
+        "spanish": "Un chunk (fragmento) es un paquete compacto de información unido por el significado que tu cerebro puede acceder fácilmente durante el pensamiento.",
+        "tags": ["books_path", "learning", "chunking"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Illusion of Competence 🧠",
+        "text": "Re-reading notes or highlighting text often creates an {{c1::illusion of competence}}, making you feel like you know the material when you actually do not.",
+        "explanation": "The brain easily recognizes information, which tricks you into believing you have retrieved and consolidated it in long-term memory.",
+        "usage": "Instead of re-reading, test yourself using active recall or explain the concept in your own words.",
+        "spanish": "Volver a leer las notas o resaltar el texto a menudo crea una ilusión de competencia, haciéndote sentir que conoces el material cuando en realidad no es así.",
+        "tags": ["books_path", "learning", "memory"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Recall 🧠",
+        "text": "The simple practice of {{c1::active recall}}—looking away from the page and testing yourself on the key concepts—is far more effective than passive review.",
+        "explanation": "Retrieval practice strengthens neural connections and makes the memory more durable and accessible.",
+        "usage": "After reading a section, close the book and mentally summarize what you just read.",
+        "spanish": "La simple práctica del recuerdo activo (mirar hacia otro lado y evaluar los conceptos clave) es mucho más efectiva que la revisión pasiva.",
+        "tags": ["books_path", "learning", "recall"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Interleaving 🧠",
+        "text": "To develop flexibility in problem-solving, you should practice {{c1::interleaving}}—mixing up different types of problems or topics instead of block practicing.",
+        "explanation": "Block practicing (doing 20 of the same problem) only teaches you 'how' to use a technique, but interleaving teaches you 'when' to use a particular technique.",
+        "usage": "Instead of studying only one topic per session, mix different subjects or different types of math problems.",
+        "spanish": "Para desarrollar flexibilidad en la resolución de problemas, debes practicar la intercalación (mezclar diferentes tipos de problemas o temas en lugar de practicar en bloque).",
+        "tags": ["books_path", "learning", "interleaving"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Spaced Repetition 🧠",
+        "text": "To move information from working memory to long-term memory, you must practice {{c1::spaced repetition}} over several days rather than cramming in a single session.",
+        "explanation": "The brain needs time to physically grow and strengthen the synaptic connections between neurons, which happens during rest and sleep.",
+        "usage": "Review flashcards daily with expanding intervals (1 day, 3 days, 7 days, 14 days).",
+        "spanish": "Para mover la información de la memoria de trabajo a la memoria a largo plazo, debes practicar la repetición espaciada durante varios días en lugar de estudiar intensamente en una sola sesión.",
+        "tags": ["books_path", "learning", "spaced_repetition"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Working Memory Capacity 🧠",
+        "text": "Working memory is the part of memory that deals with what you are immediately processing, and it typically holds only about {{c1::four}} chunks of information.",
+        "explanation": "Working memory is like a blackboard with limited space; if you overload it, you lose information.",
+        "usage": "Keep notes or use external diagrams to free up working memory slots while solving complex tasks.",
+        "spanish": "La memoria de trabajo es la parte de la memoria que se ocupa de lo que estás procesando inmediatamente, y normalmente contiene solo unos cuatro fragmentos de información.",
+        "tags": ["books_path", "learning", "memory"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Procrastination & Habits 🧠",
+        "text": "Procrastination is triggered by an uncomfortable feeling when thinking about a task, which activates the {{c1::pain centers}} of the brain, leading you to seek temporary relief in other activities.",
+        "explanation": "The brain seeks to avoid the immediate discomfort. However, studies show that once you start the task, the discomfort disappears after a few minutes.",
+        "usage": "Use the Pomodoro technique to focus on the 'process' (25 minutes of work) rather than the 'product' (finishing the task).",
+        "spanish": "La procrastinación es desencadenada por una sensación incómoda al pensar en una tarea, lo que activa los centros de dolor del cerebro, llevándote a buscar alivio temporal en otras actividades.",
+        "tags": ["books_path", "habits", "procrastination"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Pomodoro Technique 🧠",
+        "text": "The Pomodoro technique helps overcome procrastination by shifting focus from the product to the {{c1::process}} (working for a set period of 25 minutes without distraction).",
+        "explanation": "Focusing on the 'process' reduces the anxiety of completion, making it easier to start the task.",
+        "usage": "Set a timer for 25 minutes, eliminate all distractions, work with focus, then reward yourself with a 5-minute break.",
+        "spanish": "La técnica Pomodoro ayuda a superar la procrastinación al cambiar el enfoque del producto al proceso (trabajar durante un período establecido de 25 minutos sin distracciones).",
+        "tags": ["books_path", "habits", "pomodoro"]
+    },
+    {
+        "scenario": "A Mind For Numbers: The Law of Serendipity 🧠",
+        "text": "The Law of Serendipity in learning states that {{c1::lady luck favors the one who tries}}—meaning that starting a task opens up new paths and resources that were previously invisible.",
+        "explanation": "Action breeds momentum. Even small progress helps clarify the problem and build confidence.",
+        "usage": "If a project seems overwhelming, commit to writing just one paragraph or coding one function today.",
+        "spanish": "La Ley de la Serendipia en el aprendizaje establece que la suerte favorece al que lo intenta, lo que significa que comenzar una tarea abre nuevos caminos y recursos.",
+        "tags": ["books_path", "learning", "serendipity"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Sleep & Memory 🧠",
+        "text": "During sleep, your brain {{c1::clears away toxins}} that accumulate during waking hours and consolidates the neural connections formed during study.",
+        "explanation": "Sleep is not passive downtime; it is an active phase of pruning weak connections and strengthening important ones.",
+        "usage": "Get at least 7-8 hours of sleep, especially before an exam or a major coding deadline.",
+        "spanish": "Durante el sueño, tu cerebro limpia las toxinas que se acumulan durante las horas de vigilia y consolida las conexiones neuronales formadas durante el estudio.",
+        "tags": ["books_path", "learning", "sleep"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Overlearning 🧠",
+        "text": "Continuing to practice a skill or concept after you have already mastered it is called {{c1::overlearning}}, which can lead to automaticity but does not improve long-term understanding.",
+        "explanation": "Overlearning can waste valuable study time. It is better to move on to harder material or practice interleaving.",
+        "usage": "Once you can solve a type of calculus problem easily, stop doing identical ones and move to a different type.",
+        "spanish": "Continuar practicando una habilidad o concepto después de haberlo dominado se llama sobreaprendizaje, lo que puede llevar a la automaticidad pero no mejora la comprensión a largo plazo.",
+        "tags": ["books_path", "learning", "overlearning"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Deliberate Practice 🧠",
+        "text": "To achieve mastery, you must engage in {{c1::deliberate practice}}—focusing your attention on the concepts or problems you find most difficult rather than what is easy.",
+        "explanation": "Mastery requires pushing past your comfort zone. Practicing what you already know yields diminishing returns.",
+        "usage": "In coding, spend time debugging and learning paradigms you struggle with (e.g. async loops), instead of rewriting easy templates.",
+        "spanish": "Para lograr el dominio, debes participar en la práctica deliberada: enfocar tu atención en los conceptos o problemas que encuentras más difíciles.",
+        "tags": ["books_path", "learning", "deliberate_practice"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Metaphors & Analogies 🧠",
+        "text": "Using {{c1::metaphors}} and analogies is a powerful way to link new abstract concepts to existing concrete knowledge.",
+        "explanation": "A metaphor helps build a quick mental bridge. It connects the new unfamiliar neural pattern to a familiar one.",
+        "usage": "Example: Explain computer memory (RAM) as a desktop space, and the hard drive as a file cabinet.",
+        "spanish": "El uso de metáforas y analogías es una forma poderosa de vincular nuevos conceptos abstractos con conocimientos concretos existentes.",
+        "tags": ["books_path", "learning", "metaphor"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Spacing Effect 🧠",
+        "text": "The {{c1::spacing effect}} shows that learning is more durable when study sessions are spaced out over time, rather than massed together.",
+        "explanation": "Spacing forces the brain to retrieve information just as it is beginning to be forgotten, which rebuilds and strengthens the memory trace.",
+        "usage": "Study for 1 hour a day for 5 days instead of 5 hours in a single day.",
+        "spanish": "El efecto de espaciado muestra que el aprendizaje es más duradero cuando las sesiones de estudio se espacian a lo largo del tiempo.",
+        "tags": ["books_path", "learning", "spacing_effect"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Test Effect 🧠",
+        "text": "The {{c1::testing effect}} is the finding that taking a test or quiz actually improves memory retention more than spending the same amount of time studying.",
+        "explanation": "Testing is a retrieval event. It tells the brain that the tested information is highly important for survival, prompting consolidation.",
+        "usage": "Use practice exams and self-quizzing as primary learning methods, not just as grading tools.",
+        "spanish": "El efecto de evaluación es el hallazgo de que realizar un examen o cuestionario en realidad mejora la retención de la memoria más que estudiar durante el mismo tiempo.",
+        "tags": ["books_path", "learning", "testing"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Changing Contexts 🧠",
+        "text": "Studying in {{c1::different locations}} prevents you from associating information with the environmental cues of a single room, improving recall in exam halls.",
+        "explanation": "If you only study in your quiet bedroom, you might struggle to recall the information in a noisy or different environment.",
+        "usage": "Rotate your study spots: study at a desk, a library, a coffee shop, or outdoors.",
+        "spanish": "Estudiar en diferentes lugares evita que asocies la información con las señales ambientales de una sola habitación, mejorando el recuerdo.",
+        "tags": ["books_path", "learning", "context"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Einstellung Solution 🧠",
+        "text": "To break the Einstellung effect when stuck, you must deliberately switch your mind to the {{c1::diffuse mode}} by stepping away from the problem.",
+        "explanation": "Focused mode keeps your brain in a specific neural loop. Stepping away lets the brain scan a wider cognitive network.",
+        "usage": "If your code has a bug you've spent 2 hours on, go for a run or do the dishes. The solution often pops up automatically.",
+        "spanish": "Para romper el efecto Einstellung cuando estás atascado, debes cambiar deliberadamente tu mente al modo difuso alejándote del problema.",
+        "tags": ["books_path", "learning", "einstellung"]
+    },
+    {
+        "scenario": "A Mind For Numbers: Process vs Product 🧠",
+        "text": "To avoid the pain that triggers procrastination, you should focus on the {{c1::process}} (the flow of time and action) rather than the {{c2::product}} (the finished outcome).",
+        "explanation": "The product is what triggers the negative emotional response ('I have to finish this giant project!'). The process is neutral ('I will write code for 20 minutes').",
+        "usage": "Instead of saying 'I will write the entire API today', say 'I will work on the API for two Pomodoro sessions'.",
+        "spanish": "Para evitar el dolor que desencadena la procrastinación, debes concentrarte en el proceso (el flujo de tiempo y acción) en lugar del producto (el resultado final).",
+        "tags": ["books_path", "habits", "procrastination"]
+    }
+]
+
+save_deck("Productivity", "01_A_Mind_For_Numbers", a_mind_for_numbers)

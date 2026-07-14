@@ -82,5 +82,201 @@
       "a1",
       "personal_pronouns_and_to_be"
     ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, what is the third-person singular pronoun often used in spoken language to mean 'we' (informal)? {{c1::On}}",
+    "explanation": "Though grammatically singular and conjugated like 'il/elle' (e.g., 'on est'), 'on' is the standard way to say 'we' in conversational French.",
+    "usage": "Term: <code>On</code> | Example: <code>On est fatigués.</code> (We are tired.)",
+    "spanish": "¿Cuál es el pronombre en francés de tercera persona singular usado coloquialmente para decir 'nosotros'? On",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, what is the infinitive form of the verb 'to be'? {{c1::Être}}",
+    "explanation": "One of the two most important auxiliary verbs in French (the other is 'avoir').",
+    "usage": "Term: <code>Être</code> | Example: <code>Aimer être libre.</code> (To love to be free.)",
+    "spanish": "¿Cuál es el infinitivo del verbo 'ser/estar' en francés? Être",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "To negate the verb 'être' in French, you wrap the verb with {{c1::ne ... pas}} (or {{c1::n' ... pas}} before a vowel). Example: I am not = {{c2::Je ne suis pas}}.",
+    "explanation": "Standard negation in French uses two particles around the conjugated verb.",
+    "usage": "Example: <code>Il n'est pas français.</code> (He is not French.)",
+    "spanish": "Para negar un verbo en francés, se coloca el verbo entre 'ne' y 'pas'. 'Je ne suis pas' = Yo no soy/estoy.",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, the stressed (disjunctive) pronoun for 'me' (used after prepositions or for emphasis) is {{c1::moi}}, and for 'you' (informal) is {{c2::toi}}.",
+    "explanation": "Stressed pronouns are used after prepositions like 'avec' (with) or 'pour' (for), and in phrases like 'Et toi ?' (And you?).",
+    "usage": "Examples: <code>C'est pour moi ?</code> (Is it for me?) | <code>Je viens avec toi.</code> (I am coming with you.)",
+    "spanish": "En francés, el pronombre tónico para 'mí' es 'moi' y para 'ti' es 'toi'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, the stressed pronoun for 'him' is {{c1::lui}} and for 'her' is {{c2::elle}}.",
+    "explanation": "Stressed pronouns are used in compound subjects, after prepositions, or for comparison.",
+    "usage": "Examples: <code>Chez lui</code> (At his house) | <code>Avec elle</code> (With her)",
+    "spanish": "En francés, el pronombre tónico para 'él' es 'lui' y para 'ella' es 'elle'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, the stressed pronoun for 'us' is {{c1::nous}} and for 'you' (plural/formal) is {{c2::vous}}.",
+    "explanation": "These are identical to the subject pronouns in form but serve as stressed pronouns in different contexts.",
+    "usage": "Examples: <code>Venez chez nous !</code> (Come to our place!) | <code>C'est à vous.</code> (It's yours / up to you.)",
+    "spanish": "En francés, el pronombre tónico para 'nosotros' es 'nous' y para 'ustedes/vosotros' es 'vous'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, the stressed pronoun for 'them' (masculine/mixed) is {{c1::eux}} and for 'them' (feminine) is {{c2::elles}}.",
+    "explanation": "Make sure to use 'eux' for masculine plural instead of 'ils' after prepositions.",
+    "usage": "Examples: <code>Sans eux</code> (Without them - masc) | <code>Pour elles</code> (For them - fem)",
+    "spanish": "En francés, el pronombre tónico para 'ellos' es 'eux' y para 'ellas' es 'elles'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, adjectives following the verb 'être' must agree in gender. For example, if 'He is happy' is 'Il est heureux', 'She is happy' is '{{c1::Elle est heureuse}}'.",
+    "explanation": "Most adjectives add an '-e' for feminine, but '-eux' changes to '-euse'.",
+    "usage": "Rule: Adjective gender agreement. Example: <code>Elle est heureuse.</code>",
+    "spanish": "En francés, los adjetivos que siguen a 'être' deben concordar en género. 'Il est heureux' (Él está feliz) -> 'Elle est heureuse' (Ella está feliz).",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, adjectives following the verb 'être' must agree in number. For example, if 'He is tall' is 'Il est grand', 'They (masc) are tall' is '{{c1::Ils sont grands}}'.",
+    "explanation": "Plural adjectives usually add a silent '-s' at the end.",
+    "usage": "Rule: Adjective plural agreement. Example: <code>Elles sont grandes.</code> (They are tall - fem)",
+    "spanish": "En francés, los adjetivos que siguen a 'être' deben concordar en número. 'Il est grand' -> 'Ils sont grands' (se añade una 's' muda).",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "To ask a question using 'être' in French formally, you invert the subject and verb with a hyphen: 'Are you sure (formal)?' is '{{c1::Êtes-vous sûr ?}}'.",
+    "explanation": "Subject-verb inversion is the most formal way to construct questions in French.",
+    "usage": "Formal question: <code>Est-il là ?</code> (Is he here?) | <code>Es-tu prêt ?</code> (Are you ready? - informal)",
+    "spanish": "Para hacer una pregunta formal con 'être' en francés, se invierte el sujeto y el verbo con un guion. 'Êtes-vous sûr ?' = ¿Está seguro?",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, how do you ask 'Is it ...?' or 'Are they ...?' (often used before nouns)? {{c1::Est-ce que}} or {{c1::C'est}}.",
+    "explanation": "'C'est' means 'It is'. 'Est-ce que' is a question formula meaning literally 'Is it that...?'",
+    "usage": "Example: <code>C'est un livre.</code> (It's a book.) | <code>Est-ce que tu es fatigué ?</code> (Are you tired?)",
+    "spanish": "¿Cómo se pregunta '¿Es...?' o '¿Es que...?' en francés? 'Est-ce que' (para preguntas en general) o 'C'est' (esto es).",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, how do you say 'These are / They are' (plural of 'C'est')? {{c1::Ce sont}}",
+    "explanation": "'Ce sont' is used to identify plural people or things.",
+    "usage": "Term: <code>Ce sont</code> | Example: <code>Ce sont mes amis.</code> (These are my friends.)",
+    "spanish": "¿Cómo se dice 'Estos son / Ellos son' en francés? Ce sont",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, what is the demonstrative pronoun used to say 'this/that' or 'it' in a neutral way? {{c1::Ça}} or {{c1::Cela}}.",
+    "explanation": "'Ça' is highly conversational and informal; 'cela' is its formal equivalent.",
+    "usage": "Term: <code>Ça</code> | Example: <code>Ça va ?</code> (How's it going? / Is that okay?) | <code>C'est ça.</code> (That's it.)",
+    "spanish": "¿Cuál es el pronombre demostrativo neutro en francés para decir 'eso / esto'? Ça (coloquial) o Cela (formal).",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
+  },
+  {
+    "deck": "03_Languages::French::A1_Beginner::Personal_Pronouns_and_To_Be",
+    "scenario": "French A1: Personal Pronouns and To Be 🗣️",
+    "text": "In French, how do you say 'Who is it?' or 'Who is that?'? {{c1::Qui est-ce ?}} or {{c1::Qui c'est ?}}.",
+    "explanation": "'Qui est-ce ?' is formal; 'Qui c'est ?' or 'C'est qui ?' is very common in spoken informal French.",
+    "usage": "Dialogue: <code>- Toc toc ! - Qui est-ce ?</code> (- Knock knock! - Who is it?)",
+    "spanish": "¿Cómo se dice '¿Quién es?' en francés? 'Qui est-ce ?' o 'Qui c'est ?'.",
+    "tags": [
+      "languages_path",
+      "french",
+      "a1",
+      "personal_pronouns_and_to_be"
+    ]
   }
 ]

@@ -67,6 +67,17 @@ TEMPLATES = {
             "rationale",
         ],
     },
+    "T7_Pronunciation": {
+        "description": "Pronunciation drills with connected speech rules",
+        "required_fields": [
+            "deck",
+            "rule_name",
+            "formal_phrase",
+            "fast_pronunciation",
+            "explanation",
+            "spanish",
+        ],
+    },
 }
 
 
@@ -170,6 +181,18 @@ def render_t6_quiz(data: Dict[str, Any]) -> Dict[str, Any]:
   }
 
 
+def render_t7_pronunciation(data: Dict[str, Any]) -> Dict[str, Any]:
+    return {
+        "deck": data["deck"],
+        "scenario": f"Pronunciation Drill: {data['rule_name']} 🗣️",
+        "text": f"Practice saying this phrase fast: \"<b>{data['formal_phrase']}</b>\"<br>Connected speech pronunciation: {{{{c1::{data['fast_pronunciation']}}}}}",
+        "explanation": f"Applied Rule: <b>{data['rule_name']}</b><br>{data['explanation']}",
+        "usage": f"Formal: <code>{data['formal_phrase']}</code> &rarr; Connected: <code>{data['fast_pronunciation']}</code>",
+        "spanish": f"Spanish: {data['spanish']}",
+        "tags": data.get("tags", ["pronunciation_drill", data['rule_name'].lower().replace(" ", "_")]),
+    }
+
+
 from card_validator import sanitize_and_validate_card
 
 def build_card(template_type: str, data: Dict[str, Any]) -> Dict[str, Any]:
@@ -195,6 +218,8 @@ def build_card(template_type: str, data: Dict[str, Any]) -> Dict[str, Any]:
         raw_card = render_t5_mathjax(data)
     elif template_type == "T6_Quiz":
         raw_card = render_t6_quiz(data)
+    elif template_type == "T7_Pronunciation":
+        raw_card = render_t7_pronunciation(data)
         
     # Run deterministic validation & auto-repair pipeline
     is_valid, cleaned_card, validation_errors = sanitize_and_validate_card(raw_card)
