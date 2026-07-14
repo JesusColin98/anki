@@ -1,0 +1,56 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Training Systems: Data Parallelism 🧠",
+    "text": "Data parallelism trains replicas of a model on different mini-batches and synchronizes gradients across workers.",
+    "explanation": "It is the standard way to scale training across multiple GPUs or machines.",
+    "usage": "Key in large-scale deep learning and distributed training pipelines.",
+    "spanish": "El paralelismo de datos entrena réplicas del modelo en mini-batches diferentes y sincroniza gradientes entre workers.",
+    "tags": ["ai", "training", "distributed"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Training Systems: Model Parallelism 🧩",
+    "text": "Model parallelism splits layers or parameters across devices when a single model is too large for one GPU.",
+    "explanation": "It is essential for very large transformer and diffusion models.",
+    "usage": "Used for trillion-parameter or frontier-scale training runs.",
+    "spanish": "El paralelismo de modelo divide capas o parámetros entre dispositivos cuando un modelo es demasiado grande para una GPU.",
+    "tags": ["ai", "training", "parallelism"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Training Systems: Gradient Accumulation 📦",
+    "text": "Gradient accumulation simulates a larger batch by accumulating gradients across several smaller steps.",
+    "explanation": "It reduces memory pressure while preserving the effective batch size.",
+    "usage": "Common in large language model fine-tuning and low-memory settings.",
+    "spanish": "La acumulación de gradientes simula un batch mayor acumulando gradientes a través de varios pasos pequeños.",
+    "tags": ["ai", "training", "optimization"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Training Systems: Mixed Precision 🎯",
+    "text": "Mixed precision training uses lower-precision arithmetic to improve throughput and reduce memory cost.",
+    "explanation": "It is now standard in modern GPU training stacks.",
+    "usage": "Widely used in transformer pretraining and large-scale inference preparation.",
+    "spanish": "El entrenamiento con precisión mixta usa aritmética de menor precisión para mejorar throughput y reducir costo de memoria.",
+    "tags": ["ai", "training", "precision"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Training Systems: Gradient Checkpointing 🧾",
+    "text": "Gradient checkpointing trades extra computation for reduced memory during backpropagation.",
+    "explanation": "It helps fit larger models when memory is the binding constraint.",
+    "usage": "Important for deep networks and long-context LLM training.",
+    "spanish": "El checkpointing de gradientes intercambia cómputo extra por menos memoria durante backpropagation.",
+    "tags": ["ai", "training", "memory"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Training Systems: Learning Rate Scheduling 📈",
+    "text": "Learning rate schedules adapt the step size over time to improve convergence and stability.",
+    "explanation": "Proper scheduling can be as important as the optimizer itself.",
+    "usage": "Fundamental in optimization for deep learning and RL.",
+    "spanish": "Los schedules de learning rate adaptan el tamaño del paso con el tiempo para mejorar convergencia y estabilidad.",
+    "tags": ["ai", "training", "optimization"]
+  }
+]

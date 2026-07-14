@@ -1,0 +1,56 @@
+[
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::12_Recommendation_and_Graph_Learning::12_Recommendation_and_Graph_Learning",
+    "scenario": "RecSys: Collaborative Filtering 🤝",
+    "text": "Collaborative filtering recommends items based on the behavior of similar users or items.",
+    "explanation": "It is one of the classic foundations of recommendation systems.",
+    "usage": "Used in e-commerce, media, and personalized ranking systems.",
+    "spanish": "El filtrado colaborativo recomienda ítems a partir del comportamiento de usuarios o ítems similares.",
+    "tags": ["ai", "recsys", "collaborative_filtering"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::12_Recommendation_and_Graph_Learning::12_Recommendation_and_Graph_Learning",
+    "scenario": "RecSys: Matrix Factorization 📉",
+    "text": "Matrix factorization learns latent factors that explain user-item interactions.",
+    "explanation": "It is still a strong baseline for many ranking problems.",
+    "usage": "Common in recommender systems and low-latency ranking tasks.",
+    "spanish": "La factorización de matrices aprende factores latentes que explican interacciones usuario-ítem.",
+    "tags": ["ai", "recsys", "matrix_factorization"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::12_Recommendation_and_Graph_Learning::12_Recommendation_and_Graph_Learning",
+    "scenario": "RecSys: Negative Sampling 👎",
+    "text": "Negative sampling trains ranking models by contrasting positive items with a sample of negatives.",
+    "explanation": "It makes training efficient when the set of possible items is huge.",
+    "usage": "Used in search, ads, and recommendation ranking.",
+    "spanish": "El negative sampling entrena modelos de ranking contrastando ítems positivos con una muestra de negativos.",
+    "tags": ["ai", "recsys", "ranking"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::12_Recommendation_and_Graph_Learning::12_Recommendation_and_Graph_Learning",
+    "scenario": "Graph Learning: Message Passing 🕸️",
+    "text": "Graph neural networks propagate information along edges using message passing.",
+    "explanation": "This makes them effective for relational and networked data.",
+    "usage": "Used in social graphs, molecular graphs, and knowledge graphs.",
+    "spanish": "Las redes neuronales de grafos propagan información a través de aristas usando message passing.",
+    "tags": ["ai", "graphs", "gnn"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::12_Recommendation_and_Graph_Learning::12_Recommendation_and_Graph_Learning",
+    "scenario": "Graph Learning: Node and Graph Embeddings 🌐",
+    "text": "Graph embeddings represent nodes or entire graphs in a vector space for downstream learning.",
+    "explanation": "They enable graph similarity, link prediction, and classification.",
+    "usage": "Useful in chemistry, fraud detection, and network analysis.",
+    "spanish": "Los embeddings de grafos representan nodos o grafos completos en un espacio vectorial para aprendizaje downstream.",
+    "tags": ["ai", "graphs", "embeddings"]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::12_Recommendation_and_Graph_Learning::12_Recommendation_and_Graph_Learning",
+    "scenario": "RecSys: Cold Start ❄️",
+    "text": "Cold start happens when the system has little or no information about a new user or item.",
+    "explanation": "It is one of the hardest problems in production recommendation systems.",
+    "usage": "Critical in new-user onboarding and newly launched products.",
+    "spanish": "El cold start ocurre cuando el sistema tiene poca o ninguna información sobre un usuario o ítem nuevo.",
+    "tags": ["ai", "recsys", "cold_start"]
+  }
+]
