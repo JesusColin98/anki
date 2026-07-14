@@ -2,55 +2,79 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::11_Deep_Learning_Architectures::11_Deep_Learning_Architectures",
     "scenario": "Architectures: CNNs 🧠",
-    "text": "Convolutional neural networks exploit local spatial structure through shared filters and pooling.",
+    "text": "Convolutional neural networks exploit local spatial structure through shared filters and {{c1::pooling}}.",
     "explanation": "They remain highly effective for images, video, and structured spatial data.",
     "usage": "Classic in computer vision, medical imaging, and industrial inspection.",
     "spanish": "Las CNN explotan estructura espacial local mediante filtros compartidos y pooling.",
-    "tags": ["ai", "deep_learning", "cnn"]
+    "tags": [
+      "ai",
+      "deep_learning",
+      "cnn"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::11_Deep_Learning_Architectures::11_Deep_Learning_Architectures",
     "scenario": "Architectures: RNNs and LSTMs 🔁",
-    "text": "RNNs and LSTMs process sequential data by maintaining hidden state over time.",
+    "text": "{{c1::RNNs and LSTMs}} process sequential data by maintaining hidden state over time.",
     "explanation": "They were foundational for language modeling and time-series forecasting before Transformers.",
     "usage": "Still relevant in small-scale sequence tasks and legacy systems.",
     "spanish": "Las RNN y LSTM procesan datos secuenciales manteniendo estado oculto a lo largo del tiempo.",
-    "tags": ["ai", "deep_learning", "sequence"]
+    "tags": [
+      "ai",
+      "deep_learning",
+      "sequence"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::11_Deep_Learning_Architectures::11_Deep_Learning_Architectures",
     "scenario": "Architectures: Transformers 🧱",
-    "text": "Transformers use attention to model long-range dependencies without recurrent state.",
+    "text": "{{c1::Transformers}} use attention to model long-range dependencies without recurrent state.",
     "explanation": "They dominate modern NLP and are increasingly important in vision and multimodal systems.",
     "usage": "Core in LLMs, vision transformers, and speech models.",
     "spanish": "Los transformers usan atención para modelar dependencias a largo plazo sin estado recurrente.",
-    "tags": ["ai", "deep_learning", "transformers"]
+    "tags": [
+      "ai",
+      "deep_learning",
+      "transformers"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::11_Deep_Learning_Architectures::11_Deep_Learning_Architectures",
     "scenario": "Architectures: Variational Autoencoders 🌀",
-    "text": "VAEs learn a latent probabilistic representation that can be sampled to generate new data.",
+    "text": "{{c1::VAEs}} learn a latent probabilistic representation that can be sampled to generate new data.",
     "explanation": "They are useful for representation learning and generative modeling.",
     "usage": "Used in image generation, anomaly detection, and latent modeling.",
     "spanish": "Los VAE aprenden una representación latente probabilística que puede muestrearse para generar nuevos datos.",
-    "tags": ["ai", "deep_learning", "vae"]
+    "tags": [
+      "ai",
+      "deep_learning",
+      "vae"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::11_Deep_Learning_Architectures::11_Deep_Learning_Architectures",
     "scenario": "Architectures: GANs 🎨",
-    "text": "Generative adversarial networks train a generator against a discriminator to produce realistic samples.",
+    "text": "{{c1::Generative}} adversarial networks train a generator against a discriminator to produce realistic samples.",
     "explanation": "GANs were a major breakthrough in image and media synthesis.",
     "usage": "Used in image synthesis and style transfer.",
     "spanish": "Las GAN entrenan un generador contra un discriminador para producir muestras realistas.",
-    "tags": ["ai", "deep_learning", "gan"]
+    "tags": [
+      "ai",
+      "deep_learning",
+      "gan"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::11_Deep_Learning_Architectures::11_Deep_Learning_Architectures",
     "scenario": "Architectures: Diffusion Models 🌊",
-    "text": "Diffusion models learn to reverse a noise process to generate high-quality samples.",
+    "text": "{{c1::Diffusion models}} learn to reverse a noise process to generate high-quality samples.",
     "explanation": "They now dominate many image and audio generation systems.",
     "usage": "Core in image generation, editing, and synthetic media.",
     "spanish": "Los modelos de difusión aprenden a invertir un proceso de ruido para generar muestras de alta calidad.",
-    "tags": ["ai", "deep_learning", "diffusion"]
+    "tags": [
+      "ai",
+      "deep_learning",
+      "diffusion"
+    ]
   }
 ]

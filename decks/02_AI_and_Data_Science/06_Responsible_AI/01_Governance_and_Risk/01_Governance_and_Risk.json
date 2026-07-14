@@ -2,7 +2,7 @@
   {
     "deck": "02_AI_and_Data_Science::06_Responsible_AI::01_Governance_and_Risk::01_Governance_and_Risk",
     "scenario": "Responsible AI: Fairness ⚖️",
-    "text": "A model is considered fair when its predictions do not systematically disadvantage a protected group without a justifiable business reason.",
+    "text": "A {{c1::model}} is considered fair when its predictions do not systematically disadvantage a protected group without a justifiable business reason.",
     "explanation": "Fairness is a socio-technical question, not only a statistical one. It is about impact, representation, and accountability.",
     "usage": "Used in governance checks for hiring, lending, healthcare, and public services.",
     "spanish": "Un modelo se considera justo cuando sus predicciones no perjudican de forma sistemática a un grupo protegido sin una razón justificable.",
@@ -15,7 +15,7 @@
   {
     "deck": "02_AI_and_Data_Science::06_Responsible_AI::01_Governance_and_Risk::01_Governance_and_Risk",
     "scenario": "Responsible AI: Privacy 🔐",
-    "text": "Privacy-preserving AI systems reduce the chance of exposing personal data by using minimization, access controls, and anonymization techniques.",
+    "text": "{{c1::Privacy}}-preserving AI systems reduce the chance of exposing personal data by using minimization, access controls, and anonymization techniques.",
     "explanation": "Even if a model performs well, it may still create unacceptable risk if it handles sensitive data poorly.",
     "usage": "Critical in healthcare, finance, education, and customer support deployments.",
     "spanish": "Los sistemas de IA que preservan la privacidad reducen el riesgo de exposición de datos personales mediante minimización, controles de acceso y técnicas de anonimización.",
@@ -28,7 +28,7 @@
   {
     "deck": "02_AI_and_Data_Science::06_Responsible_AI::01_Governance_and_Risk::01_Governance_and_Risk",
     "scenario": "Responsible AI: Explainability 🧩",
-    "text": "Explainability refers to the degree to which a human can understand why an AI system produced a given output.",
+    "text": "{{c1::Explainability}} refers to the degree to which a human can understand why an AI system produced a given output.",
     "explanation": "Explainability is essential for trust, debugging, compliance, and safe human oversight.",
     "usage": " widely required in regulated industries and high-stakes decisions.",
     "spanish": "La explicabilidad se refiere al grado en que una persona puede entender por qué un sistema de IA produjo una salida determinada.",
@@ -41,7 +41,7 @@
   {
     "deck": "02_AI_and_Data_Science::06_Responsible_AI::01_Governance_and_Risk::01_Governance_and_Risk",
     "scenario": "Responsible AI: Auditability 📋",
-    "text": "An auditable AI system records the data lineage, model version, and decision process needed for independent review.",
+    "text": "An {{c1::auditable}} AI system records the data lineage, model version, and decision process needed for independent review.",
     "explanation": "Auditability gives organizations evidence that systems were built and operated according to policy.",
     "usage": "Important for governance committees and compliance teams.",
     "spanish": "Un sistema de IA auditable registra la procedencia de los datos, la versión del modelo y el proceso de decisión requerido para una revisión independiente.",

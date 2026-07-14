@@ -28,7 +28,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
     "scenario": "LLM Foundations: Pretraining 🧬",
-    "text": "Pretraining teaches the model language structure by predicting missing or next tokens over massive corpora.",
+    "text": "Pretraining teaches the model language structure by predicting missing or next {{c1::tokens}} over massive corpora.",
     "explanation": "This is where the model learns general linguistic and factual patterns before task-specific tuning.",
     "usage": "Foundational for foundation models and domain adaptation.",
     "spanish": "El preentrenamiento enseña al modelo la estructura del lenguaje al predecir tokens faltantes o siguientes sobre corpus masivos.",
@@ -41,7 +41,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
     "scenario": "LLM Foundations: Instruction Tuning 🛠️",
-    "text": "Instruction tuning improves a model’s ability to follow user requests by training on examples of instruction-response pairs.",
+    "text": "{{c1::Instruction tuning}} improves a model’s ability to follow user requests by training on examples of instruction-response pairs.",
     "explanation": "It is a key step between raw language modeling and usable chat assistants.",
     "usage": "Widely used in chatbots, copilots, and enterprise assistants.",
     "spanish": "El ajuste por instrucciones mejora la capacidad del modelo para seguir solicitudes entrenando con pares instrucción-respuesta.",
@@ -54,7 +54,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
     "scenario": "LLM Foundations: RLHF 🤝",
-    "text": "Reinforcement Learning from Human Feedback aligns models with human preferences using reward models and policy optimization.",
+    "text": "Reinforcement Learning from Human {{c1::Feedback}} aligns models with human preferences using reward models and policy optimization.",
     "explanation": "RLHF makes outputs safer, more helpful, and more aligned with user expectations.",
     "usage": "Common in general-purpose assistants and preference-based chat systems.",
     "spanish": "El aprendizaje por refuerzo con feedback humano alinea los modelos con preferencias humanas usando modelos de recompensa y optimización de política.",
@@ -67,7 +67,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
     "scenario": "LLM Foundations: Scaling Laws 📈",
-    "text": "Scaling laws suggest that larger models, more data, and more compute often improve performance in predictable ways.",
+    "text": "{{c1::Scaling laws}} suggest that larger models, more data, and more compute often improve performance in predictable ways.",
     "explanation": "They help teams reason about performance ceilings and infrastructure tradeoffs.",
     "usage": "Useful for model selection and budget planning in LLM projects.",
     "spanish": "Las leyes de escalado sugieren que modelos más grandes, más datos y más cómputo suelen mejorar el rendimiento de forma predecible.",
@@ -80,7 +80,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
     "scenario": "LLM Foundations: Hallucination 🌀",
-    "text": "A hallucination is a confident but unsupported answer produced by the model.",
+    "text": "A {{c1::hallucination}} is a confident but unsupported answer produced by the model.",
     "explanation": "Hallucinations are one of the biggest risks in production LLM systems and require grounding and evaluation.",
     "usage": "Critical in legal, medical, and enterprise knowledge assistants.",
     "spanish": "Una alucinación es una respuesta segura pero no sustentada producida por el modelo.",
@@ -93,7 +93,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
     "scenario": "LLM Foundations: Memorization vs Generalization 🧩",
-    "text": "A model can memorize training examples, but strong generalization requires learning reusable abstractions.",
+    "text": "A {{c1::model}} can memorize training examples, but strong generalization requires learning reusable abstractions.",
     "explanation": "This distinction is crucial when evaluating whether a system truly understands a task or is just pattern matching.",
     "usage": "Important for benchmarks, privacy, and strong deployment practices.",
     "spanish": "Un modelo puede memorizar ejemplos de entrenamiento, pero una fuerte generalización requiere aprender abstracciones reutilizables.",

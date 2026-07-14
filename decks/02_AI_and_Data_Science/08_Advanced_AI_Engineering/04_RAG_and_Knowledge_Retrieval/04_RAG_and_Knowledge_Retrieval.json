@@ -2,7 +2,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::04_RAG_and_Knowledge_Retrieval::04_RAG_and_Knowledge_Retrieval",
     "scenario": "RAG: Chunking 🧩",
-    "text": "Chunking splits documents into passages that balance semantic coherence and retrieval granularity.",
+    "text": "{{c1::Chunking}} splits documents into passages that balance semantic coherence and retrieval granularity.",
     "explanation": "The chunk size directly affects retrieval recall and context quality.",
     "usage": "Essential for enterprise document search and legal/medical assistants.",
     "spanish": "El chunking divide documentos en pasajes que equilibran coherencia semántica y granularidad de recuperación.",
@@ -15,7 +15,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::04_RAG_and_Knowledge_Retrieval::04_RAG_and_Knowledge_Retrieval",
     "scenario": "RAG: Embedding Retrieval 🔍",
-    "text": "Embedding-based retrieval converts queries and chunks into vectors and uses similarity search to find relevant passages.",
+    "text": "Embedding-based retrieval converts queries and {{c1::chunks}} into vectors and uses similarity search to find relevant passages.",
     "explanation": "This is the core retrieval mechanism behind many modern semantic search systems.",
     "usage": "Used in internal knowledge bases, support bots, and search copilots.",
     "spanish": "La recuperación basada en embeddings convierte consultas y chunks en vectores y usa búsqueda por similitud para encontrar pasajes relevantes.",
@@ -28,7 +28,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::04_RAG_and_Knowledge_Retrieval::04_RAG_and_Knowledge_Retrieval",
     "scenario": "RAG: Hybrid Retrieval 🔀",
-    "text": "Hybrid retrieval combines lexical search with semantic search to improve recall and precision.",
+    "text": "Hybrid retrieval combines lexical search with semantic search to improve {{c1::recall}} and precision.",
     "explanation": "This is often better than a single retrieval strategy in production systems.",
     "usage": "Useful in long-form documentation, product search, and technical support.",
     "spanish": "La recuperación híbrida combina búsqueda léxica con semántica para mejorar recall y precisión.",
@@ -41,7 +41,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::04_RAG_and_Knowledge_Retrieval::04_RAG_and_Knowledge_Retrieval",
     "scenario": "RAG: Reranking 🏅",
-    "text": "Reranking reorders retrieved passages using a second, more expensive model to improve relevance.",
+    "text": "{{c1::Reranking}} reorders retrieved passages using a second, more expensive model to improve relevance.",
     "explanation": "It often boosts quality significantly with a manageable increase in latency.",
     "usage": "Used in ranked search, document QA, and high-precision assistants.",
     "spanish": "El reranking reordena los pasajes recuperados usando un segundo modelo más costoso para mejorar la relevancia.",
@@ -54,7 +54,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::04_RAG_and_Knowledge_Retrieval::04_RAG_and_Knowledge_Retrieval",
     "scenario": "RAG: Citation Grounding 📎",
-    "text": "Citation grounding requires the system to point to source passages whenever it answers a factual question.",
+    "text": "Citation grounding requires the system to point to source passages whenever it answers a {{c1::factual}} question.",
     "explanation": "This improves trust, auditability, and the ability to verify output.",
     "usage": "Key for enterprise assistants, compliance, and regulated domains.",
     "spanish": "La base con citas requiere que el sistema señale pasajes fuente cuando responde una pregunta factual.",
@@ -67,7 +67,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::04_RAG_and_Knowledge_Retrieval::04_RAG_and_Knowledge_Retrieval",
     "scenario": "RAG: Knowledge Graphs 🕸️",
-    "text": "A knowledge graph encodes entities and relationships that can support structured retrieval and reasoning.",
+    "text": "A {{c1::knowledge}} graph encodes entities and relationships that can support structured retrieval and reasoning.",
     "explanation": "It is powerful when relationships matter more than raw text similarity.",
     "usage": "Useful in biomedical, product, and organizational knowledge systems.",
     "spanish": "Un grafo de conocimiento codifica entidades y relaciones que pueden apoyar recuperación y razonamiento estructurados.",
@@ -80,7 +80,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::04_RAG_and_Knowledge_Retrieval::04_RAG_and_Knowledge_Retrieval",
     "scenario": "RAG: Memory and Long-Term Context 🧠",
-    "text": "Long-term memory lets an agent persist important facts across conversations instead of relying only on the current prompt.",
+    "text": "Long-term memory lets an agent persist important facts across conversations instead of relying only on the current {{c1::prompt}}.",
     "explanation": "This is crucial for personalized assistants and multi-session workflows.",
     "usage": "Common in copilots, support agents, and domain-specific assistants.",
     "spanish": "La memoria a largo plazo permite que un agente persista hechos importantes a través de conversaciones en lugar de depender solo del prompt actual.",
@@ -93,7 +93,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::04_RAG_and_Knowledge_Retrieval::04_RAG_and_Knowledge_Retrieval",
     "scenario": "RAG: Evaluation of Retrieval Quality 🧪",
-    "text": "A strong RAG system is evaluated not just on answer quality, but also on retrieval precision, recall, and grounding.",
+    "text": "A strong RAG system is evaluated not just on answer quality, but also on retrieval precision, recall, and {{c1::grounding}}.",
     "explanation": "If retrieval is weak, even a strong LLM will produce poor results.",
     "usage": "Essential for building reliable enterprise search and QA systems.",
     "spanish": "Un sistema RAG fuerte se evalúa no solo por la calidad de la respuesta, sino también por precisión, recall y grounding de la recuperación.",

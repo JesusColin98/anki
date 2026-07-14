@@ -2,55 +2,79 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::13_Generative_Models_and_Diffusion::13_Generative_Models_and_Diffusion",
     "scenario": "Generative Models: Autoregressive Sampling 📝",
-    "text": "Autoregressive models generate one token at a time conditioned on prior tokens.",
+    "text": "Autoregressive models generate one token at a time conditioned on prior {{c1::tokens}}.",
     "explanation": "This is the foundation of many text generation systems and language models.",
     "usage": "Used in chat, code generation, and long-form text creation.",
     "spanish": "Los modelos autoregresivos generan un token a la vez condicionado por los tokens previos.",
-    "tags": ["ai", "generative", "autoregressive"]
+    "tags": [
+      "ai",
+      "generative",
+      "autoregressive"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::13_Generative_Models_and_Diffusion::13_Generative_Models_and_Diffusion",
     "scenario": "Generative Models: Latent Diffusion 🌌",
-    "text": "Latent diffusion learns to denoise a compressed latent representation rather than operating on pixels directly.",
+    "text": "{{c1::Latent diffusion}} learns to denoise a compressed latent representation rather than operating on pixels directly.",
     "explanation": "It greatly improves efficiency and scalability for image generation.",
     "usage": "Central in modern image synthesis and editing tools.",
     "spanish": "La difusión latente aprende a denoiser una representación latente comprimida en lugar de operar directamente sobre píxeles.",
-    "tags": ["ai", "generative", "diffusion"]
+    "tags": [
+      "ai",
+      "generative",
+      "diffusion"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::13_Generative_Models_and_Diffusion::13_Generative_Models_and_Diffusion",
     "scenario": "Generative Models: Classifier-Free Guidance 🎯",
-    "text": "Classifier-free guidance steers generation toward a condition without requiring a separate classifier model.",
+    "text": "Classifier-{{c1::free guidance}} steers generation toward a condition without requiring a separate classifier model.",
     "explanation": "It is a key technique for controllable text-to-image generation.",
     "usage": "Used in image generation and controllable synthesis systems.",
     "spanish": "La guía sin clasificador orienta la generación hacia una condición sin requerir un modelo clasificador separado.",
-    "tags": ["ai", "generative", "guidance"]
+    "tags": [
+      "ai",
+      "generative",
+      "guidance"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::13_Generative_Models_and_Diffusion::13_Generative_Models_and_Diffusion",
     "scenario": "Generative Models: Sampling Temperature 🌡️",
-    "text": "Temperature controls how random or deterministic the next-token sampling process is.",
+    "text": "Temperature controls how random or deterministic the next-{{c1::token}} sampling process is.",
     "explanation": "It is one of the easiest ways to trade creativity for reliability.",
     "usage": "Used in conversation, summarization, and creative generation.",
     "spanish": "La temperatura controla qué tan aleatorio o determinista es el proceso de muestreo del siguiente token.",
-    "tags": ["ai", "generative", "sampling"]
+    "tags": [
+      "ai",
+      "generative",
+      "sampling"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::13_Generative_Models_and_Diffusion::13_Generative_Models_and_Diffusion",
     "scenario": "Generative Models: Top-k and Top-p Sampling 🎲",
-    "text": "Top-k and top-p sampling limit the candidate tokens considered during generation.",
+    "text": "Top-k and top-p sampling limit the candidate {{c1::tokens}} considered during generation.",
     "explanation": "They help avoid low-quality or incoherent outputs while preserving flexibility.",
     "usage": "Important in text generation and dialogue systems.",
     "spanish": "Top-k y top-p limitan los tokens candidatos considerados durante la generación.",
-    "tags": ["ai", "generative", "sampling"]
+    "tags": [
+      "ai",
+      "generative",
+      "sampling"
+    ]
   },
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::13_Generative_Models_and_Diffusion::13_Generative_Models_and_Diffusion",
     "scenario": "Generative Models: Training Objective Mismatch ⚖️",
-    "text": "Generative models can be trained with objectives that do not match the downstream task, causing distributional mismatch.",
+    "text": "Generative models can be trained with objectives that do not match the {{c1::downstream}} task, causing distributional mismatch.",
     "explanation": "This mismatch is a common source of poor sample quality or weak controllability.",
     "usage": "Relevant in synthetic data generation and creative systems.",
     "spanish": "Los modelos generativos pueden entrenarse con objetivos que no coinciden con la tarea downstream, causando mismatch distributivo.",
-    "tags": ["ai", "generative", "evaluation"]
+    "tags": [
+      "ai",
+      "generative",
+      "evaluation"
+    ]
   }
 ]

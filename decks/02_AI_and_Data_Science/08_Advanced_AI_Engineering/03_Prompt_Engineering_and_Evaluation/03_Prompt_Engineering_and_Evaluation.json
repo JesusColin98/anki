@@ -2,7 +2,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::03_Prompt_Engineering_and_Evaluation::03_Prompt_Engineering_and_Evaluation",
     "scenario": "Prompt Engineering: Zero-Shot vs Few-Shot 🎯",
-    "text": "Zero-shot prompting asks the model to perform a task without examples, while few-shot prompting provides a small set of exemplars.",
+    "text": "Zero-shot {{c1::prompting}} asks the model to perform a task without examples, while few-shot prompting provides a small set of exemplars.",
     "explanation": "The choice of prompting style strongly affects accuracy, consistency, and cost.",
     "usage": "Common in classification, extraction, and transformation tasks.",
     "spanish": "El prompting zero-shot pide al modelo que haga una tarea sin ejemplos, mientras que few-shot proporciona un pequeño conjunto de ejemplares.",
@@ -15,7 +15,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::03_Prompt_Engineering_and_Evaluation::03_Prompt_Engineering_and_Evaluation",
     "scenario": "Prompt Engineering: Chain-of-Thought 🧠",
-    "text": "Chain-of-thought prompting encourages the model to break a problem into intermediate reasoning steps.",
+    "text": "Chain-of-thought {{c1::prompting}} encourages the model to break a problem into intermediate reasoning steps.",
     "explanation": "This can improve performance on arithmetic and symbolic tasks, though it can also increase cost and verbosity.",
     "usage": "Useful in reasoning-heavy workflows and complex planning tasks.",
     "spanish": "El prompting de chain-of-thought anima al modelo a descomponer un problema en pasos intermedios de razonamiento.",
@@ -28,7 +28,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::03_Prompt_Engineering_and_Evaluation::03_Prompt_Engineering_and_Evaluation",
     "scenario": "Prompt Engineering: Self-Consistency 🔁",
-    "text": "Self-consistency samples multiple reasoning paths and chooses the most frequent answer.",
+    "text": "Self-{{c1::consistency}} samples multiple reasoning paths and chooses the most frequent answer.",
     "explanation": "It is a robust technique for improving reliability on multi-step tasks.",
     "usage": "Effective for math, logic, and constrained planning problems.",
     "spanish": "La auto-consistencia toma múltiples caminos de razonamiento y elige la respuesta más frecuente.",
@@ -41,7 +41,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::03_Prompt_Engineering_and_Evaluation::03_Prompt_Engineering_and_Evaluation",
     "scenario": "Evaluation: Exact Match ✅",
-    "text": "Exact Match measures whether the predicted answer matches the reference exactly.",
+    "text": "{{c1::Exact Match}} measures whether the predicted answer matches the reference exactly.",
     "explanation": "It is strict and useful for structured outputs, but it can underestimate semantically correct answers.",
     "usage": "Common in QA benchmarks and extraction tasks.",
     "spanish": "Exact Match mide si la respuesta predicha coincide exactamente con la referencia.",
@@ -54,7 +54,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::03_Prompt_Engineering_and_Evaluation::03_Prompt_Engineering_and_Evaluation",
     "scenario": "Evaluation: BLEU and ROUGE 📚",
-    "text": "BLEU and ROUGE are classic text-generation metrics that compare overlap with reference outputs.",
+    "text": "BLEU and {{c1::ROUGE}} are classic text-generation metrics that compare overlap with reference outputs.",
     "explanation": "They are useful but imperfect for measuring fluency, faithfulness, and usefulness.",
     "usage": "Applied in summarization, translation, and retrieval evaluation.",
     "spanish": "BLEU y ROUGE son métricas clásicas de generación de texto que comparan solapamiento con salidas de referencia.",
@@ -67,7 +67,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::03_Prompt_Engineering_and_Evaluation::03_Prompt_Engineering_and_Evaluation",
     "scenario": "Evaluation: nDCG 📊",
-    "text": "nDCG evaluates ranking quality by rewarding relevant documents higher in the result list.",
+    "text": "nDCG evaluates {{c1::ranking}} quality by rewarding relevant documents higher in the result list.",
     "explanation": "It is especially useful for search, recommendation, and retrieval systems.",
     "usage": "Common in search engines and semantic retrieval evaluation.",
     "spanish": "nDCG evalúa la calidad del ranking premiando documentos relevantes más arriba en la lista de resultados.",
@@ -80,7 +80,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::03_Prompt_Engineering_and_Evaluation::03_Prompt_Engineering_and_Evaluation",
     "scenario": "Evaluation: Hallucination Detection 🧭",
-    "text": "Hallucination detection checks whether an answer is supported by the available evidence or context.",
+    "text": "{{c1::Hallucination detection}} checks whether an answer is supported by the available evidence or context.",
     "explanation": "A strong evaluation pipeline must assess factual grounding, not only style.",
     "usage": "Essential for knowledge assistants, copilots, and semantic search systems.",
     "spanish": "La detección de alucinaciones revisa si una respuesta está sustentada por la evidencia o contexto disponible.",
@@ -93,7 +93,7 @@
   {
     "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::03_Prompt_Engineering_and_Evaluation::03_Prompt_Engineering_and_Evaluation",
     "scenario": "Prompt Engineering: Structured Output 🧱",
-    "text": "Structured outputs use schemas like JSON or XML to ensure predictable, machine-readable responses.",
+    "text": "Structured {{c1::outputs}} use schemas like JSON or XML to ensure predictable, machine-readable responses.",
     "explanation": "This is now standard in tool calling, agents, and pipeline integrations.",
     "usage": "Critical for automation, extraction, and RAG-backed applications.",
     "spanish": "Los outputs estructurados usan esquemas como JSON o XML para asegurar respuestas predecibles y legibles por máquina.",

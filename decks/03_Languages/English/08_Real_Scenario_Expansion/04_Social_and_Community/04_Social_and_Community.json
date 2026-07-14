@@ -2,7 +2,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "How do you feel about the plans?",
+    "text": "How do you feel about {{c1::the plans}}?",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "¿Qué opinas sobre the plans?",
@@ -15,7 +15,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "Have you heard about the weekend?",
+    "text": "Have you heard about {{c1::the weekend}}?",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "¿Has oído hablar de the weekend?",
@@ -28,7 +28,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "I’ve been meaning to ask about the weather.",
+    "text": "I’ve been meaning to ask about {{c1::the weather}}.",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "Tenía ganas de preguntarte sobre the weather.",
@@ -41,7 +41,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "What do you think of the food?",
+    "text": "What do you think of {{c1::the food}}?",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "¿Qué te parece the food?",
@@ -54,7 +54,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "That reminds me of the music.",
+    "text": "That reminds me of {{c1::the music}}.",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "Eso me recuerda a the music.",
@@ -67,7 +67,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "I’d love to hear more about the trip.",
+    "text": "I’d love to hear more about {{c1::the trip}}.",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "Me encantaría saber más sobre the trip.",
@@ -80,7 +80,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "Do you want to talk about the news?",
+    "text": "Do you want to talk about {{c1::the news}}?",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "¿Quieres hablar sobre the news?",
@@ -93,7 +93,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "I was just thinking about the project.",
+    "text": "I was just thinking about {{c1::the project}}.",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "Estaba pensando justo en the project.",
@@ -106,7 +106,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "It’s been a while since we talked about the movie.",
+    "text": "It’s been a while since we talked about {{c1::the movie}}.",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "Hace tiempo que no hablamos de the movie.",
@@ -119,7 +119,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood event",
-    "text": "That sounds like a great idea about the book.",
+    "text": "That sounds like a great idea about {{c1::the book}}.",
     "explanation": "This is a practical phrase used in at a neighborhood event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood event.",
     "spanish": "Eso suena como una gran idea sobre the book.",
@@ -132,7 +132,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "How do you feel about the weekend?",
+    "text": "How do you feel about {{c1::the weekend}}?",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "¿Qué opinas sobre the weekend?",
@@ -145,7 +145,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "Have you heard about the weather?",
+    "text": "Have you heard about {{c1::the weather}}?",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "¿Has oído hablar de the weather?",
@@ -158,7 +158,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "I’ve been meaning to ask about the food.",
+    "text": "I’ve been meaning to ask about {{c1::the food}}.",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "Tenía ganas de preguntarte sobre the food.",
@@ -171,7 +171,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "What do you think of the music?",
+    "text": "What do you think of {{c1::the music}}?",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "¿Qué te parece the music?",
@@ -184,7 +184,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "That reminds me of the trip.",
+    "text": "That reminds me of {{c1::the trip}}.",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "Eso me recuerda a the trip.",
@@ -197,7 +197,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "I’d love to hear more about the news.",
+    "text": "I’d love to hear more about {{c1::the news}}.",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "Me encantaría saber más sobre the news.",
@@ -210,7 +210,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "Do you want to talk about the project?",
+    "text": "Do you want to talk about {{c1::the project}}?",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "¿Quieres hablar sobre the project?",
@@ -223,7 +223,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "I was just thinking about the movie.",
+    "text": "I was just thinking about {{c1::the movie}}.",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "Estaba pensando justo en the movie.",
@@ -236,7 +236,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "It’s been a while since we talked about the book.",
+    "text": "It’s been a while since we talked about {{c1::the book}}.",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "Hace tiempo que no hablamos de the book.",
@@ -249,7 +249,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a birthday party",
-    "text": "That sounds like a great idea about the game.",
+    "text": "That sounds like a great idea about {{c1::the game}}.",
     "explanation": "This is a practical phrase used in at a birthday party to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a birthday party.",
     "spanish": "Eso suena como una gran idea sobre the game.",
@@ -262,7 +262,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "How do you feel about the weather?",
+    "text": "How do you feel about {{c1::the weather}}?",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "¿Qué opinas sobre the weather?",
@@ -275,7 +275,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "Have you heard about the food?",
+    "text": "Have you heard about {{c1::the food}}?",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "¿Has oído hablar de the food?",
@@ -288,7 +288,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "I’ve been meaning to ask about the music.",
+    "text": "I’ve been meaning to ask about {{c1::the music}}.",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "Tenía ganas de preguntarte sobre the music.",
@@ -301,7 +301,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "What do you think of the trip?",
+    "text": "What do you think of {{c1::the trip}}?",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "¿Qué te parece the trip?",
@@ -314,7 +314,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "That reminds me of the news.",
+    "text": "That reminds me of {{c1::the news}}.",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "Eso me recuerda a the news.",
@@ -327,7 +327,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "I’d love to hear more about the project.",
+    "text": "I’d love to hear more about {{c1::the project}}.",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "Me encantaría saber más sobre the project.",
@@ -340,7 +340,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "Do you want to talk about the movie?",
+    "text": "Do you want to talk about {{c1::the movie}}?",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "¿Quieres hablar sobre the movie?",
@@ -353,7 +353,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "I was just thinking about the book.",
+    "text": "I was just thinking about {{c1::the book}}.",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "Estaba pensando justo en the book.",
@@ -366,7 +366,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "It’s been a while since we talked about the game.",
+    "text": "It’s been a while since we talked about {{c1::the game}}.",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "Hace tiempo que no hablamos de the game.",
@@ -379,7 +379,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a dinner with friends",
-    "text": "That sounds like a great idea about the hobby.",
+    "text": "That sounds like a great idea about {{c1::the hobby}}.",
     "explanation": "This is a practical phrase used in at a dinner with friends to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a dinner with friends.",
     "spanish": "Eso suena como una gran idea sobre the hobby.",
@@ -392,7 +392,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "How do you feel about the food?",
+    "text": "How do you feel about {{c1::the food}}?",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "¿Qué opinas sobre the food?",
@@ -405,7 +405,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "Have you heard about the music?",
+    "text": "Have you heard about {{c1::the music}}?",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "¿Has oído hablar de the music?",
@@ -418,7 +418,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "I’ve been meaning to ask about the trip.",
+    "text": "I’ve been meaning to ask about {{c1::the trip}}.",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "Tenía ganas de preguntarte sobre the trip.",
@@ -431,7 +431,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "What do you think of the news?",
+    "text": "What do you think of {{c1::the news}}?",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "¿Qué te parece the news?",
@@ -444,7 +444,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "That reminds me of the project.",
+    "text": "That reminds me of {{c1::the project}}.",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "Eso me recuerda a the project.",
@@ -457,7 +457,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "I’d love to hear more about the movie.",
+    "text": "I’d love to hear more about {{c1::the movie}}.",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "Me encantaría saber más sobre the movie.",
@@ -470,7 +470,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "Do you want to talk about the book?",
+    "text": "Do you want to talk about {{c1::the book}}?",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "¿Quieres hablar sobre the book?",
@@ -483,7 +483,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "I was just thinking about the game.",
+    "text": "I was just thinking about {{c1::the game}}.",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "Estaba pensando justo en the game.",
@@ -496,7 +496,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "It’s been a while since we talked about the hobby.",
+    "text": "It’s been a while since we talked about {{c1::the hobby}}.",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "Hace tiempo que no hablamos de the hobby.",
@@ -509,7 +509,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school reunion",
-    "text": "That sounds like a great idea about the town.",
+    "text": "That sounds like a great idea about {{c1::the town}}.",
     "explanation": "This is a practical phrase used in at a school reunion to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school reunion.",
     "spanish": "Eso suena como una gran idea sobre the town.",
@@ -522,7 +522,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "How do you feel about the music?",
+    "text": "How do you feel about {{c1::the music}}?",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "¿Qué opinas sobre the music?",
@@ -535,7 +535,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "Have you heard about the trip?",
+    "text": "Have you heard about {{c1::the trip}}?",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "¿Has oído hablar de the trip?",
@@ -548,7 +548,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "I’ve been meaning to ask about the news.",
+    "text": "I’ve been meaning to ask about {{c1::the news}}.",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "Tenía ganas de preguntarte sobre the news.",
@@ -561,7 +561,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "What do you think of the project?",
+    "text": "What do you think of {{c1::the project}}?",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "¿Qué te parece the project?",
@@ -574,7 +574,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "That reminds me of the movie.",
+    "text": "That reminds me of {{c1::the movie}}.",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "Eso me recuerda a the movie.",
@@ -587,7 +587,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "I’d love to hear more about the book.",
+    "text": "I’d love to hear more about {{c1::the book}}.",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "Me encantaría saber más sobre the book.",
@@ -600,7 +600,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "Do you want to talk about the game?",
+    "text": "Do you want to talk about {{c1::the game}}?",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "¿Quieres hablar sobre the game?",
@@ -613,7 +613,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "I was just thinking about the hobby.",
+    "text": "I was just thinking about {{c1::the hobby}}.",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "Estaba pensando justo en the hobby.",
@@ -626,7 +626,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "It’s been a while since we talked about the town.",
+    "text": "It’s been a while since we talked about {{c1::the town}}.",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "Hace tiempo que no hablamos de the town.",
@@ -639,7 +639,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a community meeting",
-    "text": "That sounds like a great idea about the neighborhood.",
+    "text": "That sounds like a great idea about {{c1::the neighborhood}}.",
     "explanation": "This is a practical phrase used in at a community meeting to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a community meeting.",
     "spanish": "Eso suena como una gran idea sobre the neighborhood.",
@@ -652,7 +652,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "How do you feel about the trip?",
+    "text": "How do you feel about {{c1::the trip}}?",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "¿Qué opinas sobre the trip?",
@@ -665,7 +665,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "Have you heard about the news?",
+    "text": "Have you heard about {{c1::the news}}?",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "¿Has oído hablar de the news?",
@@ -678,7 +678,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "I’ve been meaning to ask about the project.",
+    "text": "I’ve been meaning to ask about {{c1::the project}}.",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "Tenía ganas de preguntarte sobre the project.",
@@ -691,7 +691,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "What do you think of the movie?",
+    "text": "What do you think of {{c1::the movie}}?",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "¿Qué te parece the movie?",
@@ -704,7 +704,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "That reminds me of the book.",
+    "text": "That reminds me of {{c1::the book}}.",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "Eso me recuerda a the book.",
@@ -717,7 +717,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "I’d love to hear more about the game.",
+    "text": "I’d love to hear more about {{c1::the game}}.",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "Me encantaría saber más sobre the game.",
@@ -730,7 +730,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "Do you want to talk about the hobby?",
+    "text": "Do you want to talk about {{c1::the hobby}}?",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "¿Quieres hablar sobre the hobby?",
@@ -743,7 +743,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "I was just thinking about the town.",
+    "text": "I was just thinking about {{c1::the town}}.",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "Estaba pensando justo en the town.",
@@ -756,7 +756,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "It’s been a while since we talked about the neighborhood.",
+    "text": "It’s been a while since we talked about {{c1::the neighborhood}}.",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "Hace tiempo que no hablamos de the neighborhood.",
@@ -769,7 +769,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: In a casual conversation",
-    "text": "That sounds like a great idea about the family.",
+    "text": "That sounds like a great idea about {{c1::the family}}.",
     "explanation": "This is a practical phrase used in in a casual conversation to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in in a casual conversation.",
     "spanish": "Eso suena como una gran idea sobre the family.",
@@ -782,7 +782,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "How do you feel about the news?",
+    "text": "How do you feel about {{c1::the news}}?",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "¿Qué opinas sobre the news?",
@@ -795,7 +795,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "Have you heard about the project?",
+    "text": "Have you heard about {{c1::the project}}?",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "¿Has oído hablar de the project?",
@@ -808,7 +808,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "I’ve been meaning to ask about the movie.",
+    "text": "I’ve been meaning to ask about {{c1::the movie}}.",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "Tenía ganas de preguntarte sobre the movie.",
@@ -821,7 +821,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "What do you think of the book?",
+    "text": "What do you think of {{c1::the book}}?",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "¿Qué te parece the book?",
@@ -834,7 +834,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "That reminds me of the game.",
+    "text": "That reminds me of {{c1::the game}}.",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "Eso me recuerda a the game.",
@@ -847,7 +847,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "I’d love to hear more about the hobby.",
+    "text": "I’d love to hear more about {{c1::the hobby}}.",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "Me encantaría saber más sobre the hobby.",
@@ -860,7 +860,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "Do you want to talk about the town?",
+    "text": "Do you want to talk about {{c1::the town}}?",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "¿Quieres hablar sobre the town?",
@@ -873,7 +873,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "I was just thinking about the neighborhood.",
+    "text": "I was just thinking about {{c1::the neighborhood}}.",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "Estaba pensando justo en the neighborhood.",
@@ -886,7 +886,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "It’s been a while since we talked about the family.",
+    "text": "It’s been a while since we talked about {{c1::the family}}.",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "Hace tiempo que no hablamos de the family.",
@@ -899,7 +899,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a weekend barbecue",
-    "text": "That sounds like a great idea about the team.",
+    "text": "That sounds like a great idea about {{c1::the team}}.",
     "explanation": "This is a practical phrase used in at a weekend barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a weekend barbecue.",
     "spanish": "Eso suena como una gran idea sobre the team.",
@@ -912,7 +912,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "How do you feel about the project?",
+    "text": "How do you feel about {{c1::the project}}?",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "¿Qué opinas sobre the project?",
@@ -925,7 +925,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "Have you heard about the movie?",
+    "text": "Have you heard about {{c1::the movie}}?",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "¿Has oído hablar de the movie?",
@@ -938,7 +938,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "I’ve been meaning to ask about the book.",
+    "text": "I’ve been meaning to ask about {{c1::the book}}.",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "Tenía ganas de preguntarte sobre the book.",
@@ -951,7 +951,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "What do you think of the game?",
+    "text": "What do you think of {{c1::the game}}?",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "¿Qué te parece the game?",
@@ -964,7 +964,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "That reminds me of the hobby.",
+    "text": "That reminds me of {{c1::the hobby}}.",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "Eso me recuerda a the hobby.",
@@ -977,7 +977,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "I’d love to hear more about the town.",
+    "text": "I’d love to hear more about {{c1::the town}}.",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "Me encantaría saber más sobre the town.",
@@ -990,7 +990,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "Do you want to talk about the neighborhood?",
+    "text": "Do you want to talk about {{c1::the neighborhood}}?",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "¿Quieres hablar sobre the neighborhood?",
@@ -1003,7 +1003,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "I was just thinking about the family.",
+    "text": "I was just thinking about {{c1::the family}}.",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "Estaba pensando justo en the family.",
@@ -1016,7 +1016,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "It’s been a while since we talked about the team.",
+    "text": "It’s been a while since we talked about {{c1::the team}}.",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "Hace tiempo que no hablamos de the team.",
@@ -1029,7 +1029,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a sports meetup",
-    "text": "That sounds like a great idea about the event.",
+    "text": "That sounds like a great idea about {{c1::the event}}.",
     "explanation": "This is a practical phrase used in at a sports meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a sports meetup.",
     "spanish": "Eso suena como una gran idea sobre the event.",
@@ -1042,7 +1042,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "How do you feel about the movie?",
+    "text": "How do you feel about {{c1::the movie}}?",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "¿Qué opinas sobre the movie?",
@@ -1055,7 +1055,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "Have you heard about the book?",
+    "text": "Have you heard about {{c1::the book}}?",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "¿Has oído hablar de the book?",
@@ -1068,7 +1068,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "I’ve been meaning to ask about the game.",
+    "text": "I’ve been meaning to ask about {{c1::the game}}.",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "Tenía ganas de preguntarte sobre the game.",
@@ -1081,7 +1081,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "What do you think of the hobby?",
+    "text": "What do you think of {{c1::the hobby}}?",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "¿Qué te parece the hobby?",
@@ -1094,7 +1094,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "That reminds me of the town.",
+    "text": "That reminds me of {{c1::the town}}.",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "Eso me recuerda a the town.",
@@ -1107,7 +1107,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "I’d love to hear more about the neighborhood.",
+    "text": "I’d love to hear more about {{c1::the neighborhood}}.",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "Me encantaría saber más sobre the neighborhood.",
@@ -1120,7 +1120,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "Do you want to talk about the family?",
+    "text": "Do you want to talk about {{c1::the family}}?",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "¿Quieres hablar sobre the family?",
@@ -1133,7 +1133,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "I was just thinking about the team.",
+    "text": "I was just thinking about {{c1::the team}}.",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "Estaba pensando justo en the team.",
@@ -1146,7 +1146,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "It’s been a while since we talked about the event.",
+    "text": "It’s been a while since we talked about {{c1::the event}}.",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "Hace tiempo que no hablamos de the event.",
@@ -1159,7 +1159,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a book club",
-    "text": "That sounds like a great idea about the schedule.",
+    "text": "That sounds like a great idea about {{c1::the schedule}}.",
     "explanation": "This is a practical phrase used in at a book club to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a book club.",
     "spanish": "Eso suena como una gran idea sobre the schedule.",
@@ -1172,7 +1172,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "How do you feel about the book?",
+    "text": "How do you feel about {{c1::the book}}?",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "¿Qué opinas sobre the book?",
@@ -1185,7 +1185,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "Have you heard about the game?",
+    "text": "Have you heard about {{c1::the game}}?",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "¿Has oído hablar de the game?",
@@ -1198,7 +1198,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "I’ve been meaning to ask about the hobby.",
+    "text": "I’ve been meaning to ask about {{c1::the hobby}}.",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "Tenía ganas de preguntarte sobre the hobby.",
@@ -1211,7 +1211,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "What do you think of the town?",
+    "text": "What do you think of {{c1::the town}}?",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "¿Qué te parece the town?",
@@ -1224,7 +1224,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "That reminds me of the neighborhood.",
+    "text": "That reminds me of {{c1::the neighborhood}}.",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "Eso me recuerda a the neighborhood.",
@@ -1237,7 +1237,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "I’d love to hear more about the family.",
+    "text": "I’d love to hear more about {{c1::the family}}.",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "Me encantaría saber más sobre the family.",
@@ -1250,7 +1250,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "Do you want to talk about the team?",
+    "text": "Do you want to talk about {{c1::the team}}?",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "¿Quieres hablar sobre the team?",
@@ -1263,7 +1263,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "I was just thinking about the event.",
+    "text": "I was just thinking about {{c1::the event}}.",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "Estaba pensando justo en the event.",
@@ -1276,7 +1276,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "It’s been a while since we talked about the schedule.",
+    "text": "It’s been a while since we talked about {{c1::the schedule}}.",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "Hace tiempo que no hablamos de the schedule.",
@@ -1289,7 +1289,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a volunteering event",
-    "text": "That sounds like a great idea about the idea.",
+    "text": "That sounds like a great idea about {{c1::the idea}}.",
     "explanation": "This is a practical phrase used in at a volunteering event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a volunteering event.",
     "spanish": "Eso suena como una gran idea sobre the idea.",
@@ -1302,7 +1302,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "How do you feel about the game?",
+    "text": "How do you feel about {{c1::the game}}?",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "¿Qué opinas sobre the game?",
@@ -1315,7 +1315,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "Have you heard about the hobby?",
+    "text": "Have you heard about {{c1::the hobby}}?",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "¿Has oído hablar de the hobby?",
@@ -1328,7 +1328,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "I’ve been meaning to ask about the town.",
+    "text": "I’ve been meaning to ask about {{c1::the town}}.",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "Tenía ganas de preguntarte sobre the town.",
@@ -1341,7 +1341,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "What do you think of the neighborhood?",
+    "text": "What do you think of {{c1::the neighborhood}}?",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "¿Qué te parece the neighborhood?",
@@ -1354,7 +1354,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "That reminds me of the family.",
+    "text": "That reminds me of {{c1::the family}}.",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "Eso me recuerda a the family.",
@@ -1367,7 +1367,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "I’d love to hear more about the team.",
+    "text": "I’d love to hear more about {{c1::the team}}.",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "Me encantaría saber más sobre the team.",
@@ -1380,7 +1380,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "Do you want to talk about the event?",
+    "text": "Do you want to talk about {{c1::the event}}?",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "¿Quieres hablar sobre the event?",
@@ -1393,7 +1393,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "I was just thinking about the schedule.",
+    "text": "I was just thinking about {{c1::the schedule}}.",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "Estaba pensando justo en the schedule.",
@@ -1406,7 +1406,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "It’s been a while since we talked about the idea.",
+    "text": "It’s been a while since we talked about {{c1::the idea}}.",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "Hace tiempo que no hablamos de the idea.",
@@ -1419,7 +1419,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a wedding reception",
-    "text": "That sounds like a great idea about the story.",
+    "text": "That sounds like a great idea about {{c1::the story}}.",
     "explanation": "This is a practical phrase used in at a wedding reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a wedding reception.",
     "spanish": "Eso suena como una gran idea sobre the story.",
@@ -1432,7 +1432,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "How do you feel about the hobby?",
+    "text": "How do you feel about {{c1::the hobby}}?",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "¿Qué opinas sobre the hobby?",
@@ -1445,7 +1445,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "Have you heard about the town?",
+    "text": "Have you heard about {{c1::the town}}?",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "¿Has oído hablar de the town?",
@@ -1458,7 +1458,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "I’ve been meaning to ask about the neighborhood.",
+    "text": "I’ve been meaning to ask about {{c1::the neighborhood}}.",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "Tenía ganas de preguntarte sobre the neighborhood.",
@@ -1471,7 +1471,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "What do you think of the family?",
+    "text": "What do you think of {{c1::the family}}?",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "¿Qué te parece the family?",
@@ -1484,7 +1484,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "That reminds me of the team.",
+    "text": "That reminds me of {{c1::the team}}.",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "Eso me recuerda a the team.",
@@ -1497,7 +1497,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "I’d love to hear more about the event.",
+    "text": "I’d love to hear more about {{c1::the event}}.",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "Me encantaría saber más sobre the event.",
@@ -1510,7 +1510,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "Do you want to talk about the schedule?",
+    "text": "Do you want to talk about {{c1::the schedule}}?",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "¿Quieres hablar sobre the schedule?",
@@ -1523,7 +1523,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "I was just thinking about the idea.",
+    "text": "I was just thinking about {{c1::the idea}}.",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "Estaba pensando justo en the idea.",
@@ -1536,7 +1536,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "It’s been a while since we talked about the story.",
+    "text": "It’s been a while since we talked about {{c1::the story}}.",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "Hace tiempo que no hablamos de the story.",
@@ -1549,7 +1549,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coffee catch-up",
-    "text": "That sounds like a great idea about the concert.",
+    "text": "That sounds like a great idea about {{c1::the concert}}.",
     "explanation": "This is a practical phrase used in at a coffee catch-up to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coffee catch-up.",
     "spanish": "Eso suena como una gran idea sobre the concert.",
@@ -1562,7 +1562,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "How do you feel about the town?",
+    "text": "How do you feel about {{c1::the town}}?",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "¿Qué opinas sobre the town?",
@@ -1575,7 +1575,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "Have you heard about the neighborhood?",
+    "text": "Have you heard about {{c1::the neighborhood}}?",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "¿Has oído hablar de the neighborhood?",
@@ -1588,7 +1588,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "I’ve been meaning to ask about the family.",
+    "text": "I’ve been meaning to ask about {{c1::the family}}.",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "Tenía ganas de preguntarte sobre the family.",
@@ -1601,7 +1601,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "What do you think of the team?",
+    "text": "What do you think of {{c1::the team}}?",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "¿Qué te parece the team?",
@@ -1614,7 +1614,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "That reminds me of the event.",
+    "text": "That reminds me of {{c1::the event}}.",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "Eso me recuerda a the event.",
@@ -1627,7 +1627,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "I’d love to hear more about the schedule.",
+    "text": "I’d love to hear more about {{c1::the schedule}}.",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "Me encantaría saber más sobre the schedule.",
@@ -1640,7 +1640,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "Do you want to talk about the idea?",
+    "text": "Do you want to talk about {{c1::the idea}}?",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "¿Quieres hablar sobre the idea?",
@@ -1653,7 +1653,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "I was just thinking about the story.",
+    "text": "I was just thinking about {{c1::the story}}.",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "Estaba pensando justo en the story.",
@@ -1666,7 +1666,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "It’s been a while since we talked about the concert.",
+    "text": "It’s been a while since we talked about {{c1::the concert}}.",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "Hace tiempo que no hablamos de the concert.",
@@ -1679,7 +1679,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a family gathering",
-    "text": "That sounds like a great idea about the restaurant.",
+    "text": "That sounds like a great idea about {{c1::the restaurant}}.",
     "explanation": "This is a practical phrase used in at a family gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a family gathering.",
     "spanish": "Eso suena como una gran idea sobre the restaurant.",
@@ -1692,7 +1692,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "How do you feel about the neighborhood?",
+    "text": "How do you feel about {{c1::the neighborhood}}?",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "¿Qué opinas sobre the neighborhood?",
@@ -1705,7 +1705,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "Have you heard about the family?",
+    "text": "Have you heard about {{c1::the family}}?",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "¿Has oído hablar de the family?",
@@ -1718,7 +1718,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "I’ve been meaning to ask about the team.",
+    "text": "I’ve been meaning to ask about {{c1::the team}}.",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "Tenía ganas de preguntarte sobre the team.",
@@ -1731,7 +1731,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "What do you think of the event?",
+    "text": "What do you think of {{c1::the event}}?",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "¿Qué te parece the event?",
@@ -1744,7 +1744,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "That reminds me of the schedule.",
+    "text": "That reminds me of {{c1::the schedule}}.",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "Eso me recuerda a the schedule.",
@@ -1757,7 +1757,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "I’d love to hear more about the idea.",
+    "text": "I’d love to hear more about {{c1::the idea}}.",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "Me encantaría saber más sobre the idea.",
@@ -1770,7 +1770,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "Do you want to talk about the story?",
+    "text": "Do you want to talk about {{c1::the story}}?",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "¿Quieres hablar sobre the story?",
@@ -1783,7 +1783,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "I was just thinking about the concert.",
+    "text": "I was just thinking about {{c1::the concert}}.",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "Estaba pensando justo en the concert.",
@@ -1796,7 +1796,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "It’s been a while since we talked about the restaurant.",
+    "text": "It’s been a while since we talked about {{c1::the restaurant}}.",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "Hace tiempo que no hablamos de the restaurant.",
@@ -1809,7 +1809,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a local festival",
-    "text": "That sounds like a great idea about the coffee.",
+    "text": "That sounds like a great idea about {{c1::the coffee}}.",
     "explanation": "This is a practical phrase used in at a local festival to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a local festival.",
     "spanish": "Eso suena como una gran idea sobre the coffee.",
@@ -1822,7 +1822,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "How do you feel about the family?",
+    "text": "How do you feel about {{c1::the family}}?",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "¿Qué opinas sobre the family?",
@@ -1835,7 +1835,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "Have you heard about the team?",
+    "text": "Have you heard about {{c1::the team}}?",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "¿Has oído hablar de the team?",
@@ -1848,7 +1848,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "I’ve been meaning to ask about the event.",
+    "text": "I’ve been meaning to ask about {{c1::the event}}.",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "Tenía ganas de preguntarte sobre the event.",
@@ -1861,7 +1861,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "What do you think of the schedule?",
+    "text": "What do you think of {{c1::the schedule}}?",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "¿Qué te parece the schedule?",
@@ -1874,7 +1874,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "That reminds me of the idea.",
+    "text": "That reminds me of {{c1::the idea}}.",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "Eso me recuerda a the idea.",
@@ -1887,7 +1887,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "I’d love to hear more about the story.",
+    "text": "I’d love to hear more about {{c1::the story}}.",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "Me encantaría saber más sobre the story.",
@@ -1900,7 +1900,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "Do you want to talk about the concert?",
+    "text": "Do you want to talk about {{c1::the concert}}?",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "¿Quieres hablar sobre the concert?",
@@ -1913,7 +1913,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "I was just thinking about the restaurant.",
+    "text": "I was just thinking about {{c1::the restaurant}}.",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "Estaba pensando justo en the restaurant.",
@@ -1926,7 +1926,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "It’s been a while since we talked about the coffee.",
+    "text": "It’s been a while since we talked about {{c1::the coffee}}.",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "Hace tiempo que no hablamos de the coffee.",
@@ -1939,7 +1939,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a networking event",
-    "text": "That sounds like a great idea about the road trip.",
+    "text": "That sounds like a great idea about {{c1::the road trip}}.",
     "explanation": "This is a practical phrase used in at a networking event to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a networking event.",
     "spanish": "Eso suena como una gran idea sobre the road trip.",
@@ -1952,7 +1952,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "How do you feel about the team?",
+    "text": "How do you feel about {{c1::the team}}?",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "¿Qué opinas sobre the team?",
@@ -1965,7 +1965,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "Have you heard about the event?",
+    "text": "Have you heard about {{c1::the event}}?",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "¿Has oído hablar de the event?",
@@ -1978,7 +1978,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "I’ve been meaning to ask about the schedule.",
+    "text": "I’ve been meaning to ask about {{c1::the schedule}}.",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "Tenía ganas de preguntarte sobre the schedule.",
@@ -1991,7 +1991,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "What do you think of the idea?",
+    "text": "What do you think of {{c1::the idea}}?",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "¿Qué te parece the idea?",
@@ -2004,7 +2004,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "That reminds me of the story.",
+    "text": "That reminds me of {{c1::the story}}.",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "Eso me recuerda a the story.",
@@ -2017,7 +2017,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "I’d love to hear more about the concert.",
+    "text": "I’d love to hear more about {{c1::the concert}}.",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "Me encantaría saber más sobre the concert.",
@@ -2030,7 +2030,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "Do you want to talk about the restaurant?",
+    "text": "Do you want to talk about {{c1::the restaurant}}?",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "¿Quieres hablar sobre the restaurant?",
@@ -2043,7 +2043,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "I was just thinking about the coffee.",
+    "text": "I was just thinking about {{c1::the coffee}}.",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "Estaba pensando justo en the coffee.",
@@ -2056,7 +2056,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "It’s been a while since we talked about the road trip.",
+    "text": "It’s been a while since we talked about {{c1::the road trip}}.",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "Hace tiempo que no hablamos de the road trip.",
@@ -2069,7 +2069,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a hobby meetup",
-    "text": "That sounds like a great idea about the party.",
+    "text": "That sounds like a great idea about {{c1::the party}}.",
     "explanation": "This is a practical phrase used in at a hobby meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a hobby meetup.",
     "spanish": "Eso suena como una gran idea sobre the party.",
@@ -2082,7 +2082,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "How do you feel about the event?",
+    "text": "How do you feel about {{c1::the event}}?",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "¿Qué opinas sobre the event?",
@@ -2095,7 +2095,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "Have you heard about the schedule?",
+    "text": "Have you heard about {{c1::the schedule}}?",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "¿Has oído hablar de the schedule?",
@@ -2108,7 +2108,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "I’ve been meaning to ask about the idea.",
+    "text": "I’ve been meaning to ask about {{c1::the idea}}.",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "Tenía ganas de preguntarte sobre the idea.",
@@ -2121,7 +2121,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "What do you think of the story?",
+    "text": "What do you think of {{c1::the story}}?",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "¿Qué te parece the story?",
@@ -2134,7 +2134,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "That reminds me of the concert.",
+    "text": "That reminds me of {{c1::the concert}}.",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "Eso me recuerda a the concert.",
@@ -2147,7 +2147,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "I’d love to hear more about the restaurant.",
+    "text": "I’d love to hear more about {{c1::the restaurant}}.",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "Me encantaría saber más sobre the restaurant.",
@@ -2160,7 +2160,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "Do you want to talk about the coffee?",
+    "text": "Do you want to talk about {{c1::the coffee}}?",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "¿Quieres hablar sobre the coffee?",
@@ -2173,7 +2173,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "I was just thinking about the road trip.",
+    "text": "I was just thinking about {{c1::the road trip}}.",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "Estaba pensando justo en the road trip.",
@@ -2186,7 +2186,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "It’s been a while since we talked about the party.",
+    "text": "It’s been a while since we talked about {{c1::the party}}.",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "Hace tiempo que no hablamos de the party.",
@@ -2199,7 +2199,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a neighborhood barbecue",
-    "text": "That sounds like a great idea about the class.",
+    "text": "That sounds like a great idea about {{c1::the class}}.",
     "explanation": "This is a practical phrase used in at a neighborhood barbecue to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a neighborhood barbecue.",
     "spanish": "Eso suena como una gran idea sobre the class.",
@@ -2212,7 +2212,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "How do you feel about the schedule?",
+    "text": "How do you feel about {{c1::the schedule}}?",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "¿Qué opinas sobre the schedule?",
@@ -2225,7 +2225,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "Have you heard about the idea?",
+    "text": "Have you heard about {{c1::the idea}}?",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "¿Has oído hablar de the idea?",
@@ -2238,7 +2238,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "I’ve been meaning to ask about the story.",
+    "text": "I’ve been meaning to ask about {{c1::the story}}.",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "Tenía ganas de preguntarte sobre the story.",
@@ -2251,7 +2251,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "What do you think of the concert?",
+    "text": "What do you think of {{c1::the concert}}?",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "¿Qué te parece the concert?",
@@ -2264,7 +2264,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "That reminds me of the restaurant.",
+    "text": "That reminds me of {{c1::the restaurant}}.",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "Eso me recuerda a the restaurant.",
@@ -2277,7 +2277,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "I’d love to hear more about the coffee.",
+    "text": "I’d love to hear more about {{c1::the coffee}}.",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "Me encantaría saber más sobre the coffee.",
@@ -2290,7 +2290,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "Do you want to talk about the road trip?",
+    "text": "Do you want to talk about {{c1::the road trip}}?",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "¿Quieres hablar sobre the road trip?",
@@ -2303,7 +2303,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "I was just thinking about the party.",
+    "text": "I was just thinking about {{c1::the party}}.",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "Estaba pensando justo en the party.",
@@ -2316,7 +2316,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "It’s been a while since we talked about the class.",
+    "text": "It’s been a while since we talked about {{c1::the class}}.",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "Hace tiempo que no hablamos de the class.",
@@ -2329,7 +2329,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a church gathering",
-    "text": "That sounds like a great idea about the experience.",
+    "text": "That sounds like a great idea about {{c1::the experience}}.",
     "explanation": "This is a practical phrase used in at a church gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a church gathering.",
     "spanish": "Eso suena como una gran idea sobre the experience.",
@@ -2342,7 +2342,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "How do you feel about the idea?",
+    "text": "How do you feel about {{c1::the idea}}?",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "¿Qué opinas sobre the idea?",
@@ -2355,7 +2355,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "Have you heard about the story?",
+    "text": "Have you heard about {{c1::the story}}?",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "¿Has oído hablar de the story?",
@@ -2368,7 +2368,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "I’ve been meaning to ask about the concert.",
+    "text": "I’ve been meaning to ask about {{c1::the concert}}.",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "Tenía ganas de preguntarte sobre the concert.",
@@ -2381,7 +2381,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "What do you think of the restaurant?",
+    "text": "What do you think of {{c1::the restaurant}}?",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "¿Qué te parece the restaurant?",
@@ -2394,7 +2394,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "That reminds me of the coffee.",
+    "text": "That reminds me of {{c1::the coffee}}.",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "Eso me recuerda a the coffee.",
@@ -2407,7 +2407,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "I’d love to hear more about the road trip.",
+    "text": "I’d love to hear more about {{c1::the road trip}}.",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "Me encantaría saber más sobre the road trip.",
@@ -2420,7 +2420,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "Do you want to talk about the party?",
+    "text": "Do you want to talk about {{c1::the party}}?",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "¿Quieres hablar sobre the party?",
@@ -2433,7 +2433,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "I was just thinking about the class.",
+    "text": "I was just thinking about {{c1::the class}}.",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "Estaba pensando justo en the class.",
@@ -2446,7 +2446,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "It’s been a while since we talked about the experience.",
+    "text": "It’s been a while since we talked about {{c1::the experience}}.",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "Hace tiempo que no hablamos de the experience.",
@@ -2459,7 +2459,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a school fundraiser",
-    "text": "That sounds like a great idea about the podcast.",
+    "text": "That sounds like a great idea about {{c1::the podcast}}.",
     "explanation": "This is a practical phrase used in at a school fundraiser to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a school fundraiser.",
     "spanish": "Eso suena como una gran idea sobre the podcast.",
@@ -2472,7 +2472,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "How do you feel about the story?",
+    "text": "How do you feel about {{c1::the story}}?",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "¿Qué opinas sobre the story?",
@@ -2485,7 +2485,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "Have you heard about the concert?",
+    "text": "Have you heard about {{c1::the concert}}?",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "¿Has oído hablar de the concert?",
@@ -2498,7 +2498,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "I’ve been meaning to ask about the restaurant.",
+    "text": "I’ve been meaning to ask about {{c1::the restaurant}}.",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "Tenía ganas de preguntarte sobre the restaurant.",
@@ -2511,7 +2511,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "What do you think of the coffee?",
+    "text": "What do you think of {{c1::the coffee}}?",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "¿Qué te parece the coffee?",
@@ -2524,7 +2524,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "That reminds me of the road trip.",
+    "text": "That reminds me of {{c1::the road trip}}.",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "Eso me recuerda a the road trip.",
@@ -2537,7 +2537,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "I’d love to hear more about the party.",
+    "text": "I’d love to hear more about {{c1::the party}}.",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "Me encantaría saber más sobre the party.",
@@ -2550,7 +2550,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "Do you want to talk about the class?",
+    "text": "Do you want to talk about {{c1::the class}}?",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "¿Quieres hablar sobre the class?",
@@ -2563,7 +2563,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "I was just thinking about the experience.",
+    "text": "I was just thinking about {{c1::the experience}}.",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "Estaba pensando justo en the experience.",
@@ -2576,7 +2576,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "It’s been a while since we talked about the podcast.",
+    "text": "It’s been a while since we talked about {{c1::the podcast}}.",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "Hace tiempo que no hablamos de the podcast.",
@@ -2589,7 +2589,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a coworking meetup",
-    "text": "That sounds like a great idea about the culture.",
+    "text": "That sounds like a great idea about {{c1::the culture}}.",
     "explanation": "This is a practical phrase used in at a coworking meetup to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a coworking meetup.",
     "spanish": "Eso suena como una gran idea sobre the culture.",
@@ -2602,7 +2602,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "How do you feel about the concert?",
+    "text": "How do you feel about {{c1::the concert}}?",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "¿Qué opinas sobre the concert?",
@@ -2615,7 +2615,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "Have you heard about the restaurant?",
+    "text": "Have you heard about {{c1::the restaurant}}?",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "¿Has oído hablar de the restaurant?",
@@ -2628,7 +2628,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "I’ve been meaning to ask about the coffee.",
+    "text": "I’ve been meaning to ask about {{c1::the coffee}}.",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "Tenía ganas de preguntarte sobre the coffee.",
@@ -2641,7 +2641,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "What do you think of the road trip?",
+    "text": "What do you think of {{c1::the road trip}}?",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "¿Qué te parece the road trip?",
@@ -2654,7 +2654,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "That reminds me of the party.",
+    "text": "That reminds me of {{c1::the party}}.",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "Eso me recuerda a the party.",
@@ -2667,7 +2667,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "I’d love to hear more about the class.",
+    "text": "I’d love to hear more about {{c1::the class}}.",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "Me encantaría saber más sobre the class.",
@@ -2680,7 +2680,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "Do you want to talk about the experience?",
+    "text": "Do you want to talk about {{c1::the experience}}?",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "¿Quieres hablar sobre the experience?",
@@ -2693,7 +2693,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "I was just thinking about the podcast.",
+    "text": "I was just thinking about {{c1::the podcast}}.",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "Estaba pensando justo en the podcast.",
@@ -2706,7 +2706,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "It’s been a while since we talked about the culture.",
+    "text": "It’s been a while since we talked about {{c1::the culture}}.",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "Hace tiempo que no hablamos de the culture.",
@@ -2719,7 +2719,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a language exchange",
-    "text": "That sounds like a great idea about the tradition.",
+    "text": "That sounds like a great idea about {{c1::the tradition}}.",
     "explanation": "This is a practical phrase used in at a language exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a language exchange.",
     "spanish": "Eso suena como una gran idea sobre the tradition.",
@@ -2732,7 +2732,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "How do you feel about the restaurant?",
+    "text": "How do you feel about {{c1::the restaurant}}?",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "¿Qué opinas sobre the restaurant?",
@@ -2745,7 +2745,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "Have you heard about the coffee?",
+    "text": "Have you heard about {{c1::the coffee}}?",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "¿Has oído hablar de the coffee?",
@@ -2758,7 +2758,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "I’ve been meaning to ask about the road trip.",
+    "text": "I’ve been meaning to ask about {{c1::the road trip}}.",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "Tenía ganas de preguntarte sobre the road trip.",
@@ -2771,7 +2771,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "What do you think of the party?",
+    "text": "What do you think of {{c1::the party}}?",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "¿Qué te parece the party?",
@@ -2784,7 +2784,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "That reminds me of the class.",
+    "text": "That reminds me of {{c1::the class}}.",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "Eso me recuerda a the class.",
@@ -2797,7 +2797,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "I’d love to hear more about the experience.",
+    "text": "I’d love to hear more about {{c1::the experience}}.",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "Me encantaría saber más sobre the experience.",
@@ -2810,7 +2810,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "Do you want to talk about the podcast?",
+    "text": "Do you want to talk about {{c1::the podcast}}?",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "¿Quieres hablar sobre the podcast?",
@@ -2823,7 +2823,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "I was just thinking about the culture.",
+    "text": "I was just thinking about {{c1::the culture}}.",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "Estaba pensando justo en the culture.",
@@ -2836,7 +2836,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "It’s been a while since we talked about the tradition.",
+    "text": "It’s been a while since we talked about {{c1::the tradition}}.",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "Hace tiempo que no hablamos de the tradition.",
@@ -2849,7 +2849,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a museum visit",
-    "text": "That sounds like a great idea about the plans.",
+    "text": "That sounds like a great idea about {{c1::the plans}}.",
     "explanation": "This is a practical phrase used in at a museum visit to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a museum visit.",
     "spanish": "Eso suena como una gran idea sobre the plans.",
@@ -2862,7 +2862,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "How do you feel about the coffee?",
+    "text": "How do you feel about {{c1::the coffee}}?",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "¿Qué opinas sobre the coffee?",
@@ -2875,7 +2875,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "Have you heard about the road trip?",
+    "text": "Have you heard about {{c1::the road trip}}?",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "¿Has oído hablar de the road trip?",
@@ -2888,7 +2888,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "I’ve been meaning to ask about the party.",
+    "text": "I’ve been meaning to ask about {{c1::the party}}.",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "Tenía ganas de preguntarte sobre the party.",
@@ -2901,7 +2901,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "What do you think of the class?",
+    "text": "What do you think of {{c1::the class}}?",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "¿Qué te parece the class?",
@@ -2914,7 +2914,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "That reminds me of the experience.",
+    "text": "That reminds me of {{c1::the experience}}.",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "Eso me recuerda a the experience.",
@@ -2927,7 +2927,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "I’d love to hear more about the podcast.",
+    "text": "I’d love to hear more about {{c1::the podcast}}.",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "Me encantaría saber más sobre the podcast.",
@@ -2940,7 +2940,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "Do you want to talk about the culture?",
+    "text": "Do you want to talk about {{c1::the culture}}?",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "¿Quieres hablar sobre the culture?",
@@ -2953,7 +2953,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "I was just thinking about the tradition.",
+    "text": "I was just thinking about {{c1::the tradition}}.",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "Estaba pensando justo en the tradition.",
@@ -2966,7 +2966,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "It’s been a while since we talked about the plans.",
+    "text": "It’s been a while since we talked about {{c1::the plans}}.",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "Hace tiempo que no hablamos de the plans.",
@@ -2979,7 +2979,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a park picnic",
-    "text": "That sounds like a great idea about the weekend.",
+    "text": "That sounds like a great idea about {{c1::the weekend}}.",
     "explanation": "This is a practical phrase used in at a park picnic to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a park picnic.",
     "spanish": "Eso suena como una gran idea sobre the weekend.",
@@ -2992,7 +2992,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "How do you feel about the road trip?",
+    "text": "How do you feel about {{c1::the road trip}}?",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "¿Qué opinas sobre the road trip?",
@@ -3005,7 +3005,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "Have you heard about the party?",
+    "text": "Have you heard about {{c1::the party}}?",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "¿Has oído hablar de the party?",
@@ -3018,7 +3018,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "I’ve been meaning to ask about the class.",
+    "text": "I’ve been meaning to ask about {{c1::the class}}.",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "Tenía ganas de preguntarte sobre the class.",
@@ -3031,7 +3031,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "What do you think of the experience?",
+    "text": "What do you think of {{c1::the experience}}?",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "¿Qué te parece the experience?",
@@ -3044,7 +3044,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "That reminds me of the podcast.",
+    "text": "That reminds me of {{c1::the podcast}}.",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "Eso me recuerda a the podcast.",
@@ -3057,7 +3057,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "I’d love to hear more about the culture.",
+    "text": "I’d love to hear more about {{c1::the culture}}.",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "Me encantaría saber más sobre the culture.",
@@ -3070,7 +3070,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "Do you want to talk about the tradition?",
+    "text": "Do you want to talk about {{c1::the tradition}}?",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "¿Quieres hablar sobre the tradition?",
@@ -3083,7 +3083,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "I was just thinking about the plans.",
+    "text": "I was just thinking about {{c1::the plans}}.",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "Estaba pensando justo en the plans.",
@@ -3096,7 +3096,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "It’s been a while since we talked about the weekend.",
+    "text": "It’s been a while since we talked about {{c1::the weekend}}.",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "Hace tiempo que no hablamos de the weekend.",
@@ -3109,7 +3109,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a casual brunch",
-    "text": "That sounds like a great idea about the weather.",
+    "text": "That sounds like a great idea about {{c1::the weather}}.",
     "explanation": "This is a practical phrase used in at a casual brunch to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a casual brunch.",
     "spanish": "Eso suena como una gran idea sobre the weather.",
@@ -3122,7 +3122,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "How do you feel about the party?",
+    "text": "How do you feel about {{c1::the party}}?",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "¿Qué opinas sobre the party?",
@@ -3135,7 +3135,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "Have you heard about the class?",
+    "text": "Have you heard about {{c1::the class}}?",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "¿Has oído hablar de the class?",
@@ -3148,7 +3148,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "I’ve been meaning to ask about the experience.",
+    "text": "I’ve been meaning to ask about {{c1::the experience}}.",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "Tenía ganas de preguntarte sobre the experience.",
@@ -3161,7 +3161,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "What do you think of the podcast?",
+    "text": "What do you think of {{c1::the podcast}}?",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "¿Qué te parece the podcast?",
@@ -3174,7 +3174,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "That reminds me of the culture.",
+    "text": "That reminds me of {{c1::the culture}}.",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "Eso me recuerda a the culture.",
@@ -3187,7 +3187,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "I’d love to hear more about the tradition.",
+    "text": "I’d love to hear more about {{c1::the tradition}}.",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "Me encantaría saber más sobre the tradition.",
@@ -3200,7 +3200,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "Do you want to talk about the plans?",
+    "text": "Do you want to talk about {{c1::the plans}}?",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "¿Quieres hablar sobre the plans?",
@@ -3213,7 +3213,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "I was just thinking about the weekend.",
+    "text": "I was just thinking about {{c1::the weekend}}.",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "Estaba pensando justo en the weekend.",
@@ -3226,7 +3226,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "It’s been a while since we talked about the weather.",
+    "text": "It’s been a while since we talked about {{c1::the weather}}.",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "Hace tiempo que no hablamos de the weather.",
@@ -3239,7 +3239,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::04_Social_and_Community",
     "scenario": "04_Social_and_Community: At a holiday gathering",
-    "text": "That sounds like a great idea about the food.",
+    "text": "That sounds like a great idea about {{c1::the food}}.",
     "explanation": "This is a practical phrase used in at a holiday gathering to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a holiday gathering.",
     "spanish": "Eso suena como una gran idea sobre the food.",

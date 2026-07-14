@@ -2,7 +2,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "Could you tell me where the gate is?",
+    "text": "Could you tell me where {{c1::the gate}} is?",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "¿Podrías decirme dónde está the gate?",
@@ -15,7 +15,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "I need help with my reservation.",
+    "text": "I need help with {{c1::my reservation}}.",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "Necesito ayuda con my reservation.",
@@ -28,7 +28,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "Is the luggage included in the price?",
+    "text": "Is {{c1::the luggage}} included in the price?",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "¿Está the luggage incluido en el precio?",
@@ -41,7 +41,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "Can you confirm the ticket?",
+    "text": "Can you confirm {{c1::the ticket}}?",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "¿Puedes confirmar the ticket?",
@@ -54,7 +54,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "Where do I go for the passport?",
+    "text": "Where do I go for {{c1::the passport}}?",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "¿Adónde voy para the passport?",
@@ -67,7 +67,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "How long does the address take?",
+    "text": "How long does {{c1::the address}} take?",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "¿Cuánto tarda the address?",
@@ -80,7 +80,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "I’m trying to find the receipt.",
+    "text": "I’m trying to find {{c1::the receipt}}.",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "Estoy intentando encontrar the receipt.",
@@ -93,7 +93,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "Do you know if the room key is available?",
+    "text": "Do you know if {{c1::the room key}} is available?",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "¿Sabes si the room key está disponible?",
@@ -106,7 +106,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "Could you explain the terminal to me?",
+    "text": "Could you explain {{c1::the terminal}} to me?",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "¿Podrías explicarme the terminal?",
@@ -119,7 +119,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport",
-    "text": "I’m not sure about the platform.",
+    "text": "I’m not sure about {{c1::the platform}}.",
     "explanation": "This is a practical phrase used in at the airport to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport.",
     "spanish": "No estoy seguro/a de the platform.",
@@ -132,7 +132,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "Could you tell me where my reservation is?",
+    "text": "Could you tell me where {{c1::my reservation}} is?",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "¿Podrías decirme dónde está my reservation?",
@@ -145,7 +145,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "I need help with the luggage.",
+    "text": "I need help with {{c1::the luggage}}.",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "Necesito ayuda con the luggage.",
@@ -158,7 +158,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "Is the ticket included in the price?",
+    "text": "Is {{c1::the ticket}} included in the price?",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "¿Está the ticket incluido en el precio?",
@@ -171,7 +171,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "Can you confirm the passport?",
+    "text": "Can you confirm {{c1::the passport}}?",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "¿Puedes confirmar the passport?",
@@ -184,7 +184,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "Where do I go for the address?",
+    "text": "Where do I go for {{c1::the address}}?",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "¿Adónde voy para the address?",
@@ -197,7 +197,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "How long does the receipt take?",
+    "text": "How long does {{c1::the receipt}} take?",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "¿Cuánto tarda the receipt?",
@@ -210,7 +210,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "I’m trying to find the room key.",
+    "text": "I’m trying to find {{c1::the room key}}.",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "Estoy intentando encontrar the room key.",
@@ -223,7 +223,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "Do you know if the terminal is available?",
+    "text": "Do you know if {{c1::the terminal}} is available?",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "¿Sabes si the terminal está disponible?",
@@ -236,7 +236,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "Could you explain the platform to me?",
+    "text": "Could you explain {{c1::the platform}} to me?",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "¿Podrías explicarme the platform?",
@@ -249,7 +249,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hotel reception",
-    "text": "I’m not sure about the transfer.",
+    "text": "I’m not sure about {{c1::the transfer}}.",
     "explanation": "This is a practical phrase used in at the hotel reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hotel reception.",
     "spanish": "No estoy seguro/a de the transfer.",
@@ -262,7 +262,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "Could you tell me where the luggage is?",
+    "text": "Could you tell me where {{c1::the luggage}} is?",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "¿Podrías decirme dónde está the luggage?",
@@ -275,7 +275,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "I need help with the ticket.",
+    "text": "I need help with {{c1::the ticket}}.",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "Necesito ayuda con the ticket.",
@@ -288,7 +288,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "Is the passport included in the price?",
+    "text": "Is {{c1::the passport}} included in the price?",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "¿Está the passport incluido en el precio?",
@@ -301,7 +301,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "Can you confirm the address?",
+    "text": "Can you confirm {{c1::the address}}?",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "¿Puedes confirmar the address?",
@@ -314,7 +314,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "Where do I go for the receipt?",
+    "text": "Where do I go for {{c1::the receipt}}?",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "¿Adónde voy para the receipt?",
@@ -327,7 +327,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "How long does the room key take?",
+    "text": "How long does {{c1::the room key}} take?",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "¿Cuánto tarda the room key?",
@@ -340,7 +340,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "I’m trying to find the terminal.",
+    "text": "I’m trying to find {{c1::the terminal}}.",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "Estoy intentando encontrar the terminal.",
@@ -353,7 +353,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "Do you know if the platform is available?",
+    "text": "Do you know if {{c1::the platform}} is available?",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "¿Sabes si the platform está disponible?",
@@ -366,7 +366,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "Could you explain the transfer to me?",
+    "text": "Could you explain {{c1::the transfer}} to me?",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "¿Podrías explicarme the transfer?",
@@ -379,7 +379,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the taxi stand",
-    "text": "I’m not sure about the taxi.",
+    "text": "I’m not sure about {{c1::the taxi}}.",
     "explanation": "This is a practical phrase used in at the taxi stand to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the taxi stand.",
     "spanish": "No estoy seguro/a de the taxi.",
@@ -392,7 +392,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "Could you tell me where the ticket is?",
+    "text": "Could you tell me where {{c1::the ticket}} is?",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "¿Podrías decirme dónde está the ticket?",
@@ -405,7 +405,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "I need help with the passport.",
+    "text": "I need help with {{c1::the passport}}.",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "Necesito ayuda con the passport.",
@@ -418,7 +418,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "Is the address included in the price?",
+    "text": "Is {{c1::the address}} included in the price?",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "¿Está the address incluido en el precio?",
@@ -431,7 +431,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "Can you confirm the receipt?",
+    "text": "Can you confirm {{c1::the receipt}}?",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "¿Puedes confirmar the receipt?",
@@ -444,7 +444,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "Where do I go for the room key?",
+    "text": "Where do I go for {{c1::the room key}}?",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "¿Adónde voy para the room key?",
@@ -457,7 +457,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "How long does the terminal take?",
+    "text": "How long does {{c1::the terminal}} take?",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "¿Cuánto tarda the terminal?",
@@ -470,7 +470,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "I’m trying to find the platform.",
+    "text": "I’m trying to find {{c1::the platform}}.",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "Estoy intentando encontrar the platform.",
@@ -483,7 +483,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "Do you know if the transfer is available?",
+    "text": "Do you know if {{c1::the transfer}} is available?",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "¿Sabes si the transfer está disponible?",
@@ -496,7 +496,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "Could you explain the taxi to me?",
+    "text": "Could you explain {{c1::the taxi}} to me?",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "¿Podrías explicarme the taxi?",
@@ -509,7 +509,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the train platform",
-    "text": "I’m not sure about the luggage storage.",
+    "text": "I’m not sure about {{c1::the luggage storage}}.",
     "explanation": "This is a practical phrase used in at the train platform to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the train platform.",
     "spanish": "No estoy seguro/a de the luggage storage.",
@@ -522,7 +522,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "Could you tell me where the passport is?",
+    "text": "Could you tell me where {{c1::the passport}} is?",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "¿Podrías decirme dónde está the passport?",
@@ -535,7 +535,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "I need help with the address.",
+    "text": "I need help with {{c1::the address}}.",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "Necesito ayuda con the address.",
@@ -548,7 +548,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "Is the receipt included in the price?",
+    "text": "Is {{c1::the receipt}} included in the price?",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "¿Está the receipt incluido en el precio?",
@@ -561,7 +561,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "Can you confirm the room key?",
+    "text": "Can you confirm {{c1::the room key}}?",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "¿Puedes confirmar the room key?",
@@ -574,7 +574,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "Where do I go for the terminal?",
+    "text": "Where do I go for {{c1::the terminal}}?",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "¿Adónde voy para the terminal?",
@@ -587,7 +587,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "How long does the platform take?",
+    "text": "How long does {{c1::the platform}} take?",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "¿Cuánto tarda the platform?",
@@ -600,7 +600,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "I’m trying to find the transfer.",
+    "text": "I’m trying to find {{c1::the transfer}}.",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "Estoy intentando encontrar the transfer.",
@@ -613,7 +613,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "Do you know if the taxi is available?",
+    "text": "Do you know if {{c1::the taxi}} is available?",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "¿Sabes si the taxi está disponible?",
@@ -626,7 +626,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "Could you explain the luggage storage to me?",
+    "text": "Could you explain {{c1::the luggage storage}} to me?",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "¿Podrías explicarme the luggage storage?",
@@ -639,7 +639,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bus terminal",
-    "text": "I’m not sure about the refund.",
+    "text": "I’m not sure about {{c1::the refund}}.",
     "explanation": "This is a practical phrase used in at the bus terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bus terminal.",
     "spanish": "No estoy seguro/a de the refund.",
@@ -652,7 +652,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "Could you tell me where the address is?",
+    "text": "Could you tell me where {{c1::the address}} is?",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "¿Podrías decirme dónde está the address?",
@@ -665,7 +665,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "I need help with the receipt.",
+    "text": "I need help with {{c1::the receipt}}.",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "Necesito ayuda con the receipt.",
@@ -678,7 +678,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "Is the room key included in the price?",
+    "text": "Is {{c1::the room key}} included in the price?",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "¿Está the room key incluido en el precio?",
@@ -691,7 +691,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "Can you confirm the terminal?",
+    "text": "Can you confirm {{c1::the terminal}}?",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "¿Puedes confirmar the terminal?",
@@ -704,7 +704,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "Where do I go for the platform?",
+    "text": "Where do I go for {{c1::the platform}}?",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "¿Adónde voy para the platform?",
@@ -717,7 +717,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "How long does the transfer take?",
+    "text": "How long does {{c1::the transfer}} take?",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "¿Cuánto tarda the transfer?",
@@ -730,7 +730,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "I’m trying to find the taxi.",
+    "text": "I’m trying to find {{c1::the taxi}}.",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "Estoy intentando encontrar the taxi.",
@@ -743,7 +743,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "Do you know if the luggage storage is available?",
+    "text": "Do you know if {{c1::the luggage storage}} is available?",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "¿Sabes si the luggage storage está disponible?",
@@ -756,7 +756,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "Could you explain the refund to me?",
+    "text": "Could you explain {{c1::the refund}} to me?",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "¿Podrías explicarme the refund?",
@@ -769,7 +769,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At immigration",
-    "text": "I’m not sure about the itinerary.",
+    "text": "I’m not sure about {{c1::the itinerary}}.",
     "explanation": "This is a practical phrase used in at immigration to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at immigration.",
     "spanish": "No estoy seguro/a de the itinerary.",
@@ -782,7 +782,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "Could you tell me where the receipt is?",
+    "text": "Could you tell me where {{c1::the receipt}} is?",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "¿Podrías decirme dónde está the receipt?",
@@ -795,7 +795,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "I need help with the room key.",
+    "text": "I need help with {{c1::the room key}}.",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "Necesito ayuda con the room key.",
@@ -808,7 +808,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "Is the terminal included in the price?",
+    "text": "Is {{c1::the terminal}} included in the price?",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "¿Está the terminal incluido en el precio?",
@@ -821,7 +821,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "Can you confirm the platform?",
+    "text": "Can you confirm {{c1::the platform}}?",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "¿Puedes confirmar the platform?",
@@ -834,7 +834,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "Where do I go for the transfer?",
+    "text": "Where do I go for {{c1::the transfer}}?",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "¿Adónde voy para the transfer?",
@@ -847,7 +847,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "How long does the taxi take?",
+    "text": "How long does {{c1::the taxi}} take?",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "¿Cuánto tarda the taxi?",
@@ -860,7 +860,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "I’m trying to find the luggage storage.",
+    "text": "I’m trying to find {{c1::the luggage storage}}.",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "Estoy intentando encontrar the luggage storage.",
@@ -873,7 +873,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "Do you know if the refund is available?",
+    "text": "Do you know if {{c1::the refund}} is available?",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "¿Sabes si the refund está disponible?",
@@ -886,7 +886,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "Could you explain the itinerary to me?",
+    "text": "Could you explain {{c1::the itinerary}} to me?",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "¿Podrías explicarme the itinerary?",
@@ -899,7 +899,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the rental car desk",
-    "text": "I’m not sure about the visa.",
+    "text": "I’m not sure about {{c1::the visa}}.",
     "explanation": "This is a practical phrase used in at the rental car desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the rental car desk.",
     "spanish": "No estoy seguro/a de the visa.",
@@ -912,7 +912,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "Could you tell me where the room key is?",
+    "text": "Could you tell me where {{c1::the room key}} is?",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "¿Podrías decirme dónde está the room key?",
@@ -925,7 +925,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "I need help with the terminal.",
+    "text": "I need help with {{c1::the terminal}}.",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "Necesito ayuda con the terminal.",
@@ -938,7 +938,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "Is the platform included in the price?",
+    "text": "Is {{c1::the platform}} included in the price?",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "¿Está the platform incluido en el precio?",
@@ -951,7 +951,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "Can you confirm the transfer?",
+    "text": "Can you confirm {{c1::the transfer}}?",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "¿Puedes confirmar the transfer?",
@@ -964,7 +964,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "Where do I go for the taxi?",
+    "text": "Where do I go for {{c1::the taxi}}?",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "¿Adónde voy para the taxi?",
@@ -977,7 +977,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "How long does the luggage storage take?",
+    "text": "How long does {{c1::the luggage storage}} take?",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "¿Cuánto tarda the luggage storage?",
@@ -990,7 +990,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "I’m trying to find the refund.",
+    "text": "I’m trying to find {{c1::the refund}}.",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "Estoy intentando encontrar the refund.",
@@ -1003,7 +1003,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "Do you know if the itinerary is available?",
+    "text": "Do you know if {{c1::the itinerary}} is available?",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "¿Sabes si the itinerary está disponible?",
@@ -1016,7 +1016,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "Could you explain the visa to me?",
+    "text": "Could you explain {{c1::the visa}} to me?",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "¿Podrías explicarme the visa?",
@@ -1029,7 +1029,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the check-in desk",
-    "text": "I’m not sure about the pickup.",
+    "text": "I’m not sure about {{c1::the pickup}}.",
     "explanation": "This is a practical phrase used in at the check-in desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the check-in desk.",
     "spanish": "No estoy seguro/a de the pickup.",
@@ -1042,7 +1042,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "Could you tell me where the terminal is?",
+    "text": "Could you tell me where {{c1::the terminal}} is?",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "¿Podrías decirme dónde está the terminal?",
@@ -1055,7 +1055,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "I need help with the platform.",
+    "text": "I need help with {{c1::the platform}}.",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "Necesito ayuda con the platform.",
@@ -1068,7 +1068,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "Is the transfer included in the price?",
+    "text": "Is {{c1::the transfer}} included in the price?",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "¿Está the transfer incluido en el precio?",
@@ -1081,7 +1081,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "Can you confirm the taxi?",
+    "text": "Can you confirm {{c1::the taxi}}?",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "¿Puedes confirmar the taxi?",
@@ -1094,7 +1094,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "Where do I go for the luggage storage?",
+    "text": "Where do I go for {{c1::the luggage storage}}?",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "¿Adónde voy para the luggage storage?",
@@ -1107,7 +1107,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "How long does the refund take?",
+    "text": "How long does {{c1::the refund}} take?",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "¿Cuánto tarda the refund?",
@@ -1120,7 +1120,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "I’m trying to find the itinerary.",
+    "text": "I’m trying to find {{c1::the itinerary}}.",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "Estoy intentando encontrar the itinerary.",
@@ -1133,7 +1133,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "Do you know if the visa is available?",
+    "text": "Do you know if {{c1::the visa}} is available?",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "¿Sabes si the visa está disponible?",
@@ -1146,7 +1146,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "Could you explain the pickup to me?",
+    "text": "Could you explain {{c1::the pickup}} to me?",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "¿Podrías explicarme the pickup?",
@@ -1159,7 +1159,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the baggage claim",
-    "text": "I’m not sure about the schedule.",
+    "text": "I’m not sure about {{c1::the schedule}}.",
     "explanation": "This is a practical phrase used in at the baggage claim to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the baggage claim.",
     "spanish": "No estoy seguro/a de the schedule.",
@@ -1172,7 +1172,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "Could you tell me where the platform is?",
+    "text": "Could you tell me where {{c1::the platform}} is?",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "¿Podrías decirme dónde está the platform?",
@@ -1185,7 +1185,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "I need help with the transfer.",
+    "text": "I need help with {{c1::the transfer}}.",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "Necesito ayuda con the transfer.",
@@ -1198,7 +1198,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "Is the taxi included in the price?",
+    "text": "Is {{c1::the taxi}} included in the price?",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "¿Está the taxi incluido en el precio?",
@@ -1211,7 +1211,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "Can you confirm the luggage storage?",
+    "text": "Can you confirm {{c1::the luggage storage}}?",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "¿Puedes confirmar the luggage storage?",
@@ -1224,7 +1224,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "Where do I go for the refund?",
+    "text": "Where do I go for {{c1::the refund}}?",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "¿Adónde voy para the refund?",
@@ -1237,7 +1237,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "How long does the itinerary take?",
+    "text": "How long does {{c1::the itinerary}} take?",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "¿Cuánto tarda the itinerary?",
@@ -1250,7 +1250,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "I’m trying to find the visa.",
+    "text": "I’m trying to find {{c1::the visa}}.",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "Estoy intentando encontrar the visa.",
@@ -1263,7 +1263,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "Do you know if the pickup is available?",
+    "text": "Do you know if {{c1::the pickup}} is available?",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "¿Sabes si the pickup está disponible?",
@@ -1276,7 +1276,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "Could you explain the schedule to me?",
+    "text": "Could you explain {{c1::the schedule}} to me?",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "¿Podrías explicarme the schedule?",
@@ -1289,7 +1289,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the tourist information desk",
-    "text": "I’m not sure about the delay.",
+    "text": "I’m not sure about {{c1::the delay}}.",
     "explanation": "This is a practical phrase used in at the tourist information desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the tourist information desk.",
     "spanish": "No estoy seguro/a de the delay.",
@@ -1302,7 +1302,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "Could you tell me where the transfer is?",
+    "text": "Could you tell me where {{c1::the transfer}} is?",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "¿Podrías decirme dónde está the transfer?",
@@ -1315,7 +1315,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "I need help with the taxi.",
+    "text": "I need help with {{c1::the taxi}}.",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "Necesito ayuda con the taxi.",
@@ -1328,7 +1328,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "Is the luggage storage included in the price?",
+    "text": "Is {{c1::the luggage storage}} included in the price?",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "¿Está the luggage storage incluido en el precio?",
@@ -1341,7 +1341,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "Can you confirm the refund?",
+    "text": "Can you confirm {{c1::the refund}}?",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "¿Puedes confirmar the refund?",
@@ -1354,7 +1354,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "Where do I go for the itinerary?",
+    "text": "Where do I go for {{c1::the itinerary}}?",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "¿Adónde voy para the itinerary?",
@@ -1367,7 +1367,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "How long does the visa take?",
+    "text": "How long does {{c1::the visa}} take?",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "¿Cuánto tarda the visa?",
@@ -1380,7 +1380,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "I’m trying to find the pickup.",
+    "text": "I’m trying to find {{c1::the pickup}}.",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "Estoy intentando encontrar the pickup.",
@@ -1393,7 +1393,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "Do you know if the schedule is available?",
+    "text": "Do you know if {{c1::the schedule}} is available?",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "¿Sabes si the schedule está disponible?",
@@ -1406,7 +1406,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "Could you explain the delay to me?",
+    "text": "Could you explain {{c1::the delay}} to me?",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "¿Podrías explicarme the delay?",
@@ -1419,7 +1419,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the metro station",
-    "text": "I’m not sure about the connection.",
+    "text": "I’m not sure about {{c1::the connection}}.",
     "explanation": "This is a practical phrase used in at the metro station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the metro station.",
     "spanish": "No estoy seguro/a de the connection.",
@@ -1432,7 +1432,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "Could you tell me where the taxi is?",
+    "text": "Could you tell me where {{c1::the taxi}} is?",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "¿Podrías decirme dónde está the taxi?",
@@ -1445,7 +1445,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "I need help with the luggage storage.",
+    "text": "I need help with {{c1::the luggage storage}}.",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "Necesito ayuda con the luggage storage.",
@@ -1458,7 +1458,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "Is the refund included in the price?",
+    "text": "Is {{c1::the refund}} included in the price?",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "¿Está the refund incluido en el precio?",
@@ -1471,7 +1471,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "Can you confirm the itinerary?",
+    "text": "Can you confirm {{c1::the itinerary}}?",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "¿Puedes confirmar the itinerary?",
@@ -1484,7 +1484,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "Where do I go for the visa?",
+    "text": "Where do I go for {{c1::the visa}}?",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "¿Adónde voy para the visa?",
@@ -1497,7 +1497,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "How long does the pickup take?",
+    "text": "How long does {{c1::the pickup}} take?",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "¿Cuánto tarda the pickup?",
@@ -1510,7 +1510,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "I’m trying to find the schedule.",
+    "text": "I’m trying to find {{c1::the schedule}}.",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "Estoy intentando encontrar the schedule.",
@@ -1523,7 +1523,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "Do you know if the delay is available?",
+    "text": "Do you know if {{c1::the delay}} is available?",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "¿Sabes si the delay está disponible?",
@@ -1536,7 +1536,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "Could you explain the connection to me?",
+    "text": "Could you explain {{c1::the connection}} to me?",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "¿Podrías explicarme the connection?",
@@ -1549,7 +1549,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the ferry terminal",
-    "text": "I’m not sure about the invoice.",
+    "text": "I’m not sure about {{c1::the invoice}}.",
     "explanation": "This is a practical phrase used in at the ferry terminal to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the ferry terminal.",
     "spanish": "No estoy seguro/a de the invoice.",
@@ -1562,7 +1562,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "Could you tell me where the luggage storage is?",
+    "text": "Could you tell me where {{c1::the luggage storage}} is?",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "¿Podrías decirme dónde está the luggage storage?",
@@ -1575,7 +1575,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "I need help with the refund.",
+    "text": "I need help with {{c1::the refund}}.",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "Necesito ayuda con the refund.",
@@ -1588,7 +1588,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "Is the itinerary included in the price?",
+    "text": "Is {{c1::the itinerary}} included in the price?",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "¿Está the itinerary incluido en el precio?",
@@ -1601,7 +1601,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "Can you confirm the visa?",
+    "text": "Can you confirm {{c1::the visa}}?",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "¿Puedes confirmar the visa?",
@@ -1614,7 +1614,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "Where do I go for the pickup?",
+    "text": "Where do I go for {{c1::the pickup}}?",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "¿Adónde voy para the pickup?",
@@ -1627,7 +1627,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "How long does the schedule take?",
+    "text": "How long does {{c1::the schedule}} take?",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "¿Cuánto tarda the schedule?",
@@ -1640,7 +1640,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "I’m trying to find the delay.",
+    "text": "I’m trying to find {{c1::the delay}}.",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "Estoy intentando encontrar the delay.",
@@ -1653,7 +1653,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "Do you know if the connection is available?",
+    "text": "Do you know if {{c1::the connection}} is available?",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "¿Sabes si the connection está disponible?",
@@ -1666,7 +1666,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "Could you explain the invoice to me?",
+    "text": "Could you explain {{c1::the invoice}} to me?",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "¿Podrías explicarme the invoice?",
@@ -1679,7 +1679,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the embassy",
-    "text": "I’m not sure about the insurance.",
+    "text": "I’m not sure about {{c1::the insurance}}.",
     "explanation": "This is a practical phrase used in at the embassy to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the embassy.",
     "spanish": "No estoy seguro/a de the insurance.",
@@ -1692,7 +1692,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "Could you tell me where the refund is?",
+    "text": "Could you tell me where {{c1::the refund}} is?",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "¿Podrías decirme dónde está the refund?",
@@ -1705,7 +1705,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "I need help with the itinerary.",
+    "text": "I need help with {{c1::the itinerary}}.",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "Necesito ayuda con the itinerary.",
@@ -1718,7 +1718,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "Is the visa included in the price?",
+    "text": "Is {{c1::the visa}} included in the price?",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "¿Está the visa incluido en el precio?",
@@ -1731,7 +1731,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "Can you confirm the pickup?",
+    "text": "Can you confirm {{c1::the pickup}}?",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "¿Puedes confirmar the pickup?",
@@ -1744,7 +1744,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "Where do I go for the schedule?",
+    "text": "Where do I go for {{c1::the schedule}}?",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "¿Adónde voy para the schedule?",
@@ -1757,7 +1757,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "How long does the delay take?",
+    "text": "How long does {{c1::the delay}} take?",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "¿Cuánto tarda the delay?",
@@ -1770,7 +1770,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "I’m trying to find the connection.",
+    "text": "I’m trying to find {{c1::the connection}}.",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "Estoy intentando encontrar the connection.",
@@ -1783,7 +1783,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "Do you know if the invoice is available?",
+    "text": "Do you know if {{c1::the invoice}} is available?",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "¿Sabes si the invoice está disponible?",
@@ -1796,7 +1796,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "Could you explain the insurance to me?",
+    "text": "Could you explain {{c1::the insurance}} to me?",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "¿Podrías explicarme the insurance?",
@@ -1809,7 +1809,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the hospital reception",
-    "text": "I’m not sure about the map.",
+    "text": "I’m not sure about {{c1::the map}}.",
     "explanation": "This is a practical phrase used in at the hospital reception to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the hospital reception.",
     "spanish": "No estoy seguro/a de the map.",
@@ -1822,7 +1822,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "Could you tell me where the itinerary is?",
+    "text": "Could you tell me where {{c1::the itinerary}} is?",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "¿Podrías decirme dónde está the itinerary?",
@@ -1835,7 +1835,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "I need help with the visa.",
+    "text": "I need help with {{c1::the visa}}.",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "Necesito ayuda con the visa.",
@@ -1848,7 +1848,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "Is the pickup included in the price?",
+    "text": "Is {{c1::the pickup}} included in the price?",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "¿Está the pickup incluido en el precio?",
@@ -1861,7 +1861,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "Can you confirm the schedule?",
+    "text": "Can you confirm {{c1::the schedule}}?",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "¿Puedes confirmar the schedule?",
@@ -1874,7 +1874,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "Where do I go for the delay?",
+    "text": "Where do I go for {{c1::the delay}}?",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "¿Adónde voy para the delay?",
@@ -1887,7 +1887,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "How long does the connection take?",
+    "text": "How long does {{c1::the connection}} take?",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "¿Cuánto tarda the connection?",
@@ -1900,7 +1900,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "I’m trying to find the invoice.",
+    "text": "I’m trying to find {{c1::the invoice}}.",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "Estoy intentando encontrar the invoice.",
@@ -1913,7 +1913,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "Do you know if the insurance is available?",
+    "text": "Do you know if {{c1::the insurance}} is available?",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "¿Sabes si the insurance está disponible?",
@@ -1926,7 +1926,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "Could you explain the map to me?",
+    "text": "Could you explain {{c1::the map}} to me?",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "¿Podrías explicarme the map?",
@@ -1939,7 +1939,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the pharmacy abroad",
-    "text": "I’m not sure about the parking spot.",
+    "text": "I’m not sure about {{c1::the parking spot}}.",
     "explanation": "This is a practical phrase used in at the pharmacy abroad to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the pharmacy abroad.",
     "spanish": "No estoy seguro/a de the parking spot.",
@@ -1952,7 +1952,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "Could you tell me where the visa is?",
+    "text": "Could you tell me where {{c1::the visa}} is?",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "¿Podrías decirme dónde está the visa?",
@@ -1965,7 +1965,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "I need help with the pickup.",
+    "text": "I need help with {{c1::the pickup}}.",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "Necesito ayuda con the pickup.",
@@ -1978,7 +1978,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "Is the schedule included in the price?",
+    "text": "Is {{c1::the schedule}} included in the price?",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "¿Está the schedule incluido en el precio?",
@@ -1991,7 +1991,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "Can you confirm the delay?",
+    "text": "Can you confirm {{c1::the delay}}?",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "¿Puedes confirmar the delay?",
@@ -2004,7 +2004,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "Where do I go for the connection?",
+    "text": "Where do I go for {{c1::the connection}}?",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "¿Adónde voy para the connection?",
@@ -2017,7 +2017,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "How long does the invoice take?",
+    "text": "How long does {{c1::the invoice}} take?",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "¿Cuánto tarda the invoice?",
@@ -2030,7 +2030,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "I’m trying to find the insurance.",
+    "text": "I’m trying to find {{c1::the insurance}}.",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "Estoy intentando encontrar the insurance.",
@@ -2043,7 +2043,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "Do you know if the map is available?",
+    "text": "Do you know if {{c1::the map}} is available?",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "¿Sabes si the map está disponible?",
@@ -2056,7 +2056,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "Could you explain the parking spot to me?",
+    "text": "Could you explain {{c1::the parking spot}} to me?",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "¿Podrías explicarme the parking spot?",
@@ -2069,7 +2069,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the customer service desk",
-    "text": "I’m not sure about the shuttle.",
+    "text": "I’m not sure about {{c1::the shuttle}}.",
     "explanation": "This is a practical phrase used in at the customer service desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the customer service desk.",
     "spanish": "No estoy seguro/a de the shuttle.",
@@ -2082,7 +2082,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "Could you tell me where the pickup is?",
+    "text": "Could you tell me where {{c1::the pickup}} is?",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "¿Podrías decirme dónde está the pickup?",
@@ -2095,7 +2095,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "I need help with the schedule.",
+    "text": "I need help with {{c1::the schedule}}.",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "Necesito ayuda con the schedule.",
@@ -2108,7 +2108,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "Is the delay included in the price?",
+    "text": "Is {{c1::the delay}} included in the price?",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "¿Está the delay incluido en el precio?",
@@ -2121,7 +2121,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "Can you confirm the connection?",
+    "text": "Can you confirm {{c1::the connection}}?",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "¿Puedes confirmar the connection?",
@@ -2134,7 +2134,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "Where do I go for the invoice?",
+    "text": "Where do I go for {{c1::the invoice}}?",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "¿Adónde voy para the invoice?",
@@ -2147,7 +2147,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "How long does the insurance take?",
+    "text": "How long does {{c1::the insurance}} take?",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "¿Cuánto tarda the insurance?",
@@ -2160,7 +2160,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "I’m trying to find the map.",
+    "text": "I’m trying to find {{c1::the map}}.",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "Estoy intentando encontrar the map.",
@@ -2173,7 +2173,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "Do you know if the parking spot is available?",
+    "text": "Do you know if {{c1::the parking spot}} is available?",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "¿Sabes si the parking spot está disponible?",
@@ -2186,7 +2186,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "Could you explain the shuttle to me?",
+    "text": "Could you explain {{c1::the shuttle}} to me?",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "¿Podrías explicarme the shuttle?",
@@ -2199,7 +2199,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the local police station",
-    "text": "I’m not sure about the check-in.",
+    "text": "I’m not sure about {{c1::the check}}-in.",
     "explanation": "This is a practical phrase used in at the local police station to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the local police station.",
     "spanish": "No estoy seguro/a de the check-in.",
@@ -2212,7 +2212,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "Could you tell me where the schedule is?",
+    "text": "Could you tell me where {{c1::the schedule}} is?",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "¿Podrías decirme dónde está the schedule?",
@@ -2225,7 +2225,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "I need help with the delay.",
+    "text": "I need help with {{c1::the delay}}.",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "Necesito ayuda con the delay.",
@@ -2238,7 +2238,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "Is the connection included in the price?",
+    "text": "Is {{c1::the connection}} included in the price?",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "¿Está the connection incluido en el precio?",
@@ -2251,7 +2251,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "Can you confirm the invoice?",
+    "text": "Can you confirm {{c1::the invoice}}?",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "¿Puedes confirmar the invoice?",
@@ -2264,7 +2264,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "Where do I go for the insurance?",
+    "text": "Where do I go for {{c1::the insurance}}?",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "¿Adónde voy para the insurance?",
@@ -2277,7 +2277,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "How long does the map take?",
+    "text": "How long does {{c1::the map}} take?",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "¿Cuánto tarda the map?",
@@ -2290,7 +2290,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "I’m trying to find the parking spot.",
+    "text": "I’m trying to find {{c1::the parking spot}}.",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "Estoy intentando encontrar the parking spot.",
@@ -2303,7 +2303,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "Do you know if the shuttle is available?",
+    "text": "Do you know if {{c1::the shuttle}} is available?",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "¿Sabes si the shuttle está disponible?",
@@ -2316,7 +2316,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "Could you explain the check-in to me?",
+    "text": "Could you explain {{c1::the check}}-in to me?",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "¿Podrías explicarme the check-in?",
@@ -2329,7 +2329,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At a roadside assistance desk",
-    "text": "I’m not sure about the baggage.",
+    "text": "I’m not sure about {{c1::the baggage}}.",
     "explanation": "This is a practical phrase used in at a roadside assistance desk to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at a roadside assistance desk.",
     "spanish": "No estoy seguro/a de the baggage.",
@@ -2342,7 +2342,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "Could you tell me where the delay is?",
+    "text": "Could you tell me where {{c1::the delay}} is?",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "¿Podrías decirme dónde está the delay?",
@@ -2355,7 +2355,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "I need help with the connection.",
+    "text": "I need help with {{c1::the connection}}.",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "Necesito ayuda con the connection.",
@@ -2368,7 +2368,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "Is the invoice included in the price?",
+    "text": "Is {{c1::the invoice}} included in the price?",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "¿Está the invoice incluido en el precio?",
@@ -2381,7 +2381,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "Can you confirm the insurance?",
+    "text": "Can you confirm {{c1::the insurance}}?",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "¿Puedes confirmar the insurance?",
@@ -2394,7 +2394,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "Where do I go for the map?",
+    "text": "Where do I go for {{c1::the map}}?",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "¿Adónde voy para the map?",
@@ -2407,7 +2407,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "How long does the parking spot take?",
+    "text": "How long does {{c1::the parking spot}} take?",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "¿Cuánto tarda the parking spot?",
@@ -2420,7 +2420,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "I’m trying to find the shuttle.",
+    "text": "I’m trying to find {{c1::the shuttle}}.",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "Estoy intentando encontrar the shuttle.",
@@ -2433,7 +2433,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "Do you know if the check-in is available?",
+    "text": "Do you know if {{c1::the check}}-in is available?",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "¿Sabes si the check-in está disponible?",
@@ -2446,7 +2446,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "Could you explain the baggage to me?",
+    "text": "Could you explain {{c1::the baggage}} to me?",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "¿Podrías explicarme the baggage?",
@@ -2459,7 +2459,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the border crossing",
-    "text": "I’m not sure about the appointment.",
+    "text": "I’m not sure about {{c1::the appointment}}.",
     "explanation": "This is a practical phrase used in at the border crossing to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the border crossing.",
     "spanish": "No estoy seguro/a de the appointment.",
@@ -2472,7 +2472,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "Could you tell me where the connection is?",
+    "text": "Could you tell me where {{c1::the connection}} is?",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "¿Podrías decirme dónde está the connection?",
@@ -2485,7 +2485,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "I need help with the invoice.",
+    "text": "I need help with {{c1::the invoice}}.",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "Necesito ayuda con the invoice.",
@@ -2498,7 +2498,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "Is the insurance included in the price?",
+    "text": "Is {{c1::the insurance}} included in the price?",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "¿Está the insurance incluido en el precio?",
@@ -2511,7 +2511,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "Can you confirm the map?",
+    "text": "Can you confirm {{c1::the map}}?",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "¿Puedes confirmar the map?",
@@ -2524,7 +2524,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "Where do I go for the parking spot?",
+    "text": "Where do I go for {{c1::the parking spot}}?",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "¿Adónde voy para the parking spot?",
@@ -2537,7 +2537,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "How long does the shuttle take?",
+    "text": "How long does {{c1::the shuttle}} take?",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "¿Cuánto tarda the shuttle?",
@@ -2550,7 +2550,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "I’m trying to find the check-in.",
+    "text": "I’m trying to find {{c1::the check}}-in.",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "Estoy intentando encontrar the check-in.",
@@ -2563,7 +2563,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "Do you know if the baggage is available?",
+    "text": "Do you know if {{c1::the baggage}} is available?",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "¿Sabes si the baggage está disponible?",
@@ -2576,7 +2576,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "Could you explain the appointment to me?",
+    "text": "Could you explain {{c1::the appointment}} to me?",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "¿Podrías explicarme the appointment?",
@@ -2589,7 +2589,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the travel agency",
-    "text": "I’m not sure about the route.",
+    "text": "I’m not sure about {{c1::the route}}.",
     "explanation": "This is a practical phrase used in at the travel agency to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the travel agency.",
     "spanish": "No estoy seguro/a de the route.",
@@ -2602,7 +2602,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "Could you tell me where the invoice is?",
+    "text": "Could you tell me where {{c1::the invoice}} is?",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "¿Podrías decirme dónde está the invoice?",
@@ -2615,7 +2615,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "I need help with the insurance.",
+    "text": "I need help with {{c1::the insurance}}.",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "Necesito ayuda con the insurance.",
@@ -2628,7 +2628,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "Is the map included in the price?",
+    "text": "Is {{c1::the map}} included in the price?",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "¿Está the map incluido en el precio?",
@@ -2641,7 +2641,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "Can you confirm the parking spot?",
+    "text": "Can you confirm {{c1::the parking spot}}?",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "¿Puedes confirmar the parking spot?",
@@ -2654,7 +2654,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "Where do I go for the shuttle?",
+    "text": "Where do I go for {{c1::the shuttle}}?",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "¿Adónde voy para the shuttle?",
@@ -2667,7 +2667,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "How long does the check-in take?",
+    "text": "How long does {{c1::the check}}-in take?",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "¿Cuánto tarda the check-in?",
@@ -2680,7 +2680,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "I’m trying to find the baggage.",
+    "text": "I’m trying to find {{c1::the baggage}}.",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "Estoy intentando encontrar the baggage.",
@@ -2693,7 +2693,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "Do you know if the appointment is available?",
+    "text": "Do you know if {{c1::the appointment}} is available?",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "¿Sabes si the appointment está disponible?",
@@ -2706,7 +2706,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "Could you explain the route to me?",
+    "text": "Could you explain {{c1::the route}} to me?",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "¿Podrías explicarme the route?",
@@ -2719,7 +2719,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the currency exchange",
-    "text": "I’m not sure about the fare.",
+    "text": "I’m not sure about {{c1::the fare}}.",
     "explanation": "This is a practical phrase used in at the currency exchange to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the currency exchange.",
     "spanish": "No estoy seguro/a de the fare.",
@@ -2732,7 +2732,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "Could you tell me where the insurance is?",
+    "text": "Could you tell me where {{c1::the insurance}} is?",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "¿Podrías decirme dónde está the insurance?",
@@ -2745,7 +2745,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "I need help with the map.",
+    "text": "I need help with {{c1::the map}}.",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "Necesito ayuda con the map.",
@@ -2758,7 +2758,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "Is the parking spot included in the price?",
+    "text": "Is {{c1::the parking spot}} included in the price?",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "¿Está the parking spot incluido en el precio?",
@@ -2771,7 +2771,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "Can you confirm the shuttle?",
+    "text": "Can you confirm {{c1::the shuttle}}?",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "¿Puedes confirmar the shuttle?",
@@ -2784,7 +2784,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "Where do I go for the check-in?",
+    "text": "Where do I go for {{c1::the check}}-in?",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "¿Adónde voy para the check-in?",
@@ -2797,7 +2797,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "How long does the baggage take?",
+    "text": "How long does {{c1::the baggage}} take?",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "¿Cuánto tarda the baggage?",
@@ -2810,7 +2810,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "I’m trying to find the appointment.",
+    "text": "I’m trying to find {{c1::the appointment}}.",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "Estoy intentando encontrar the appointment.",
@@ -2823,7 +2823,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "Do you know if the route is available?",
+    "text": "Do you know if {{c1::the route}} is available?",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "¿Sabes si the route está disponible?",
@@ -2836,7 +2836,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "Could you explain the fare to me?",
+    "text": "Could you explain {{c1::the fare}} to me?",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "¿Podrías explicarme the fare?",
@@ -2849,7 +2849,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the bike rental",
-    "text": "I’m not sure about the gate.",
+    "text": "I’m not sure about {{c1::the gate}}.",
     "explanation": "This is a practical phrase used in at the bike rental to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the bike rental.",
     "spanish": "No estoy seguro/a de the gate.",
@@ -2862,7 +2862,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "Could you tell me where the map is?",
+    "text": "Could you tell me where {{c1::the map}} is?",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "¿Podrías decirme dónde está the map?",
@@ -2875,7 +2875,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "I need help with the parking spot.",
+    "text": "I need help with {{c1::the parking spot}}.",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "Necesito ayuda con the parking spot.",
@@ -2888,7 +2888,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "Is the shuttle included in the price?",
+    "text": "Is {{c1::the shuttle}} included in the price?",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "¿Está the shuttle incluido en el precio?",
@@ -2901,7 +2901,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "Can you confirm the check-in?",
+    "text": "Can you confirm {{c1::the check}}-in?",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "¿Puedes confirmar the check-in?",
@@ -2914,7 +2914,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "Where do I go for the baggage?",
+    "text": "Where do I go for {{c1::the baggage}}?",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "¿Adónde voy para the baggage?",
@@ -2927,7 +2927,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "How long does the appointment take?",
+    "text": "How long does {{c1::the appointment}} take?",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "¿Cuánto tarda the appointment?",
@@ -2940,7 +2940,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "I’m trying to find the route.",
+    "text": "I’m trying to find {{c1::the route}}.",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "Estoy intentando encontrar the route.",
@@ -2953,7 +2953,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "Do you know if the fare is available?",
+    "text": "Do you know if {{c1::the fare}} is available?",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "¿Sabes si the fare está disponible?",
@@ -2966,7 +2966,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "Could you explain the gate to me?",
+    "text": "Could you explain {{c1::the gate}} to me?",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "¿Podrías explicarme the gate?",
@@ -2979,7 +2979,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the station ticket office",
-    "text": "I’m not sure about my reservation.",
+    "text": "I’m not sure about {{c1::my reservation}}.",
     "explanation": "This is a practical phrase used in at the station ticket office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the station ticket office.",
     "spanish": "No estoy seguro/a de my reservation.",
@@ -2992,7 +2992,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "Could you tell me where the parking spot is?",
+    "text": "Could you tell me where {{c1::the parking spot}} is?",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "¿Podrías decirme dónde está the parking spot?",
@@ -3005,7 +3005,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "I need help with the shuttle.",
+    "text": "I need help with {{c1::the shuttle}}.",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "Necesito ayuda con the shuttle.",
@@ -3018,7 +3018,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "Is the check-in included in the price?",
+    "text": "Is {{c1::the check}}-in included in the price?",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "¿Está the check-in incluido en el precio?",
@@ -3031,7 +3031,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "Can you confirm the baggage?",
+    "text": "Can you confirm {{c1::the baggage}}?",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "¿Puedes confirmar the baggage?",
@@ -3044,7 +3044,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "Where do I go for the appointment?",
+    "text": "Where do I go for {{c1::the appointment}}?",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "¿Adónde voy para the appointment?",
@@ -3057,7 +3057,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "How long does the route take?",
+    "text": "How long does {{c1::the route}} take?",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "¿Cuánto tarda the route?",
@@ -3070,7 +3070,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "I’m trying to find the fare.",
+    "text": "I’m trying to find {{c1::the fare}}.",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "Estoy intentando encontrar the fare.",
@@ -3083,7 +3083,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "Do you know if the gate is available?",
+    "text": "Do you know if {{c1::the gate}} is available?",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "¿Sabes si the gate está disponible?",
@@ -3096,7 +3096,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "Could you explain my reservation to me?",
+    "text": "Could you explain {{c1::my reservation}} to me?",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "¿Podrías explicarme my reservation?",
@@ -3109,7 +3109,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the parking office",
-    "text": "I’m not sure about the luggage.",
+    "text": "I’m not sure about {{c1::the luggage}}.",
     "explanation": "This is a practical phrase used in at the parking office to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the parking office.",
     "spanish": "No estoy seguro/a de the luggage.",
@@ -3122,7 +3122,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "Could you tell me where the shuttle is?",
+    "text": "Could you tell me where {{c1::the shuttle}} is?",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "¿Podrías decirme dónde está the shuttle?",
@@ -3135,7 +3135,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "I need help with the check-in.",
+    "text": "I need help with {{c1::the check}}-in.",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "Necesito ayuda con the check-in.",
@@ -3148,7 +3148,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "Is the baggage included in the price?",
+    "text": "Is {{c1::the baggage}} included in the price?",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "¿Está the baggage incluido en el precio?",
@@ -3161,7 +3161,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "Can you confirm the appointment?",
+    "text": "Can you confirm {{c1::the appointment}}?",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "¿Puedes confirmar the appointment?",
@@ -3174,7 +3174,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "Where do I go for the route?",
+    "text": "Where do I go for {{c1::the route}}?",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "¿Adónde voy para the route?",
@@ -3187,7 +3187,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "How long does the fare take?",
+    "text": "How long does {{c1::the fare}} take?",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "¿Cuánto tarda the fare?",
@@ -3200,7 +3200,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "I’m trying to find the gate.",
+    "text": "I’m trying to find {{c1::the gate}}.",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "Estoy intentando encontrar the gate.",
@@ -3213,7 +3213,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "Do you know if my reservation is available?",
+    "text": "Do you know if {{c1::my reservation}} is available?",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "¿Sabes si my reservation está disponible?",
@@ -3226,7 +3226,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "Could you explain the luggage to me?",
+    "text": "Could you explain {{c1::the luggage}} to me?",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "¿Podrías explicarme the luggage?",
@@ -3239,7 +3239,7 @@
   {
     "deck": "03_Languages::English::08_Real_Scenario_Expansion::03_Travel_and_Public_Services",
     "scenario": "03_Travel_and_Public_Services: At the airport lounge",
-    "text": "I’m not sure about the ticket.",
+    "text": "I’m not sure about {{c1::the ticket}}.",
     "explanation": "This is a practical phrase used in at the airport lounge to sound natural and useful in real conversations.",
     "usage": "Useful for practicing realistic English in at the airport lounge.",
     "spanish": "No estoy seguro/a de the ticket.",

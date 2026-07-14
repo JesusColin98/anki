@@ -2,91 +2,131 @@
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Shadowing: Short Chunk Practice 🎧",
-    "text": "I’m gonna take a quick look at it before we decide.",
+    "text": "I’m {{c1::gonna}} take a quick look at it before we decide.",
     "explanation": "This line helps practice natural reductions such as gonna and weak forms in a realistic sentence.",
     "usage": "Great for shadowing, rhythm, and connected speech practice.",
     "spanish": "Voy a echarle un vistazo rápido antes de decidir.",
-    "tags": ["english", "shadowing", "listening"]
+    "tags": [
+      "english",
+      "shadowing",
+      "listening"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Shadowing: Everyday Conversation 🗣️",
-    "text": "What are you up to this weekend?",
+    "text": "{{c1::What}} are you up to this weekend?",
     "explanation": "A common conversational sentence that trains intonation and natural speed.",
     "usage": "Perfect for casual speaking and listening repetition.",
     "spanish": "¿Qué harás este fin de semana?",
-    "tags": ["english", "shadowing", "conversation"]
+    "tags": [
+      "english",
+      "shadowing",
+      "conversation"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Dictation: Fast Spoken English 👂",
-    "text": "I was wondering if you could help me with this.",
+    "text": "I was {{c1::wondering}} if you could help me with this.",
     "explanation": "This sentence helps learners catch reduced forms and linking in connected speech.",
     "usage": "Useful for dictation and ear training.",
     "spanish": "Me preguntaba si podrías ayudarme con esto.",
-    "tags": ["english", "dictation", "listening"]
+    "tags": [
+      "english",
+      "dictation",
+      "listening"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Dictation: Workplace English 💼",
-    "text": "Could you send me an update by three o’clock?",
+    "text": "{{c1::Could}} you send me an update by three o’clock?",
     "explanation": "Useful for practicing stress, timing, and practical professional pronunciation.",
     "usage": "Great for work-related listening and speaking.",
     "spanish": "¿Podrías enviarme una actualización a las tres?",
-    "tags": ["english", "dictation", "workplace"]
+    "tags": [
+      "english",
+      "dictation",
+      "workplace"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Real Conversation: Asking for Clarification ❓",
-    "text": "Could you say that again more slowly, please?",
+    "text": "{{c1::Could}} you say that again more slowly, please?",
     "explanation": "A highly practical phrase for understanding real conversations and improving listening confidence.",
     "usage": "Useful in classrooms, meetings, and daily life.",
     "spanish": "¿Podrías repetir eso más despacio, por favor?",
-    "tags": ["english", "conversation", "listening"]
+    "tags": [
+      "english",
+      "conversation",
+      "listening"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Real Conversation: Small Talk ☕",
-    "text": "How’s your day been so far?",
+    "text": "How’s your day {{c1::been}} so far?",
     "explanation": "This phrase is common in everyday conversation and teaches natural rhythm.",
     "usage": "Excellent for social speaking and listening practice.",
     "spanish": "¿Cómo ha ido tu día hasta ahora?",
-    "tags": ["english", "conversation", "social"]
+    "tags": [
+      "english",
+      "conversation",
+      "social"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Shadowing: News Style 📰",
-    "text": "The company says the change will take effect next month.",
+    "text": "The {{c1::company}} says the change will take effect next month.",
     "explanation": "This sentence helps with sentence stress and natural pacing in more formal speech.",
     "usage": "Useful for news listening and public speaking practice.",
     "spanish": "La empresa dice que el cambio entrará en vigor el próximo mes.",
-    "tags": ["english", "shadowing", "news"]
+    "tags": [
+      "english",
+      "shadowing",
+      "news"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Dictation: Emotional Expression 😊",
-    "text": "I really appreciate your help with this.",
+    "text": "I {{c1::really}} appreciate your help with this.",
     "explanation": "Good for capturing stress and emotional tone in spoken English.",
     "usage": "Useful for polite conversation and relationship-based communication.",
     "spanish": "Realmente agradezco tu ayuda con esto.",
-    "tags": ["english", "dictation", "emotion"]
+    "tags": [
+      "english",
+      "dictation",
+      "emotion"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Real Conversation: Travel Situation ✈️",
-    "text": "I’m not sure which gate we need to go to.",
+    "text": "I’m not {{c1::sure}} which gate we need to go to.",
     "explanation": "A practical phrase for travel listening and understanding fast airport English.",
     "usage": "Useful for travel and real-world spoken situations.",
     "spanish": "No estoy seguro de a qué puerta tenemos que ir.",
-    "tags": ["english", "conversation", "travel"]
+    "tags": [
+      "english",
+      "conversation",
+      "travel"
+    ]
   },
   {
     "deck": "03_Languages::English::Phonetics::Shadowing_Dictation_and_Real_Conversation",
     "scenario": "Shadowing: Informal Agreement 👍",
-    "text": "Yeah, that sounds good to me.",
+    "text": "{{c1::Yeah}}, that sounds good to me.",
     "explanation": "Great for practicing relaxed speech, reduced vowels, and natural agreement patterns.",
     "usage": "Very useful for everyday conversation and casual listening.",
     "spanish": "Sí, eso me parece bien.",
-    "tags": ["english", "shadowing", "informal"]
+    "tags": [
+      "english",
+      "shadowing",
+      "informal"
+    ]
   }
 ]

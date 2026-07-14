@@ -2,7 +2,7 @@
   {
     "deck": "02_AI_and_Data_Science::07_AI_Product_and_Strategy::01_AI_Product_Adoption::01_AI_Product_Adoption",
     "scenario": "AI Product: Use Case Selection 🎯",
-    "text": "The best AI product starts with a use case that has clear value, clear constraints, and enough data to support iteration.",
+    "text": "The {{c1::best}} AI product starts with a use case that has clear value, clear constraints, and enough data to support iteration.",
     "explanation": "Good AI products are not defined by the model alone, but by the business problem they solve.",
     "usage": "Useful for product managers, founders, and AI strategy teams.",
     "spanish": "El mejor producto de IA comienza con un caso de uso que tenga claro valor, límites definidos y datos suficientes para iterar.",
@@ -15,7 +15,7 @@
   {
     "deck": "02_AI_and_Data_Science::07_AI_Product_and_Strategy::01_AI_Product_Adoption::01_AI_Product_Adoption",
     "scenario": "AI Product: ROI Framing 💰",
-    "text": "A strong ROI argument for AI combines cost savings, time savings, quality gains, and risk reduction in a realistic estimate.",
+    "text": "A strong {{c1::ROI}} argument for AI combines cost savings, time savings, quality gains, and risk reduction in a realistic estimate.",
     "explanation": "Executive stakeholders often need a simple, credible business case rather than a purely technical pitch.",
     "usage": "Very relevant for leaders discussing AI investment and adoption.",
     "spanish": "Un argumento sólido de ROI para IA combina ahorros de costo, tiempo, mejora de calidad y reducción de riesgo en una estimación realista.",
@@ -28,7 +28,7 @@
   {
     "deck": "02_AI_and_Data_Science::07_AI_Product_and_Strategy::01_AI_Product_Adoption::01_AI_Product_Adoption",
     "scenario": "AI Product: Change Management 🔄",
-    "text": "Adoption fails when users are not trained, supported, and given a clear reason to change their habits.",
+    "text": "{{c1::Adoption}} fails when users are not trained, supported, and given a clear reason to change their habits.",
     "explanation": "Technical excellence is not enough if the human side of change is ignored.",
     "usage": "Central for internal copilots, automation tools, and AI-assisted workflows.",
     "spanish": "La adopción fracasa cuando los usuarios no reciben capacitación, soporte y una razón clara para cambiar sus hábitos.",
@@ -41,7 +41,7 @@
   {
     "deck": "02_AI_and_Data_Science::07_AI_Product_and_Strategy::01_AI_Product_Adoption::01_AI_Product_Adoption",
     "scenario": "AI Product: Stakeholder Communication 🗣️",
-    "text": "The best AI leaders explain trade-offs in plain language and connect the technology to business outcomes.",
+    "text": "The {{c1::best}} AI leaders explain trade-offs in plain language and connect the technology to business outcomes.",
     "explanation": "Communication is part of product strategy because AI systems often create uncertainty for non-technical stakeholders.",
     "usage": "Essential for product leads and managers working across functions.",
     "spanish": "Los mejores líderes de IA explican los compromisos en un lenguaje sencillo y conectan la tecnología con resultados de negocio.",
