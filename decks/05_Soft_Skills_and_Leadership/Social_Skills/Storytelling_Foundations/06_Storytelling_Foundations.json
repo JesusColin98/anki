@@ -63,5 +63,65 @@
       "open_loops",
       "retention"
     ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Storytelling_Foundations::06_Storytelling_Foundations",
+    "scenario": "Storytelling: Pixar's Story Spine 🎬",
+    "text": "Pixar's Story Spine structures narratives using a sequential template: 'Once upon a time... Every day... {{c1::Until one day... Because of that... Until finally...}}'.",
+    "explanation": "This structure establishes a status quo, introduces an inciting incident ('Until one day'), traces the causal chain of consequences ('Because of that'), and resolves with a new status quo ('Until finally'). It ensures stories have momentum.",
+    "usage": "<ul><li><b>Example</b>: Writing a case study: 'Every day we ran manual backups. Until one day the server caught fire. Because of that we lost data. Until finally we adopted this automated cloud backup.'</li></ul>",
+    "spanish": "El Story Spine de Pixar estructura las narrativas utilizando una plantilla secuencial: 'Érase una vez... Todos los días... Hasta que un día... Debido a eso... Hasta que finalmente...'.",
+    "tags": [
+      "storytelling",
+      "structure"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Storytelling_Foundations::06_Storytelling_Foundations",
+    "scenario": "Storytelling: Crossing the Threshold 🚪",
+    "text": "In corporate storytelling, crossing the threshold represents the moment the team leaves the comfort zone and commits to {{c1::an irreversible path of change/action}}.",
+    "explanation": "Adapted from Joseph Campbell's Hero's Journey (Monomyth), this stage creates dramatic tension. It marks the transition from planning (safety) to execution (risk), preparing the team mentally for upcoming challenges.",
+    "usage": "<ul><li><b>Example</b>: Framing a system migration: 'Shutting down the legacy server is our crossing of the threshold; there is no rollback, we must push forward.'</li></ul>",
+    "spanish": "En la narrativa corporativa, cruzar el umbral representa el momento en que el equipo sale de su zona de confort y se compromete con un camino irreversible de cambio o acción.",
+    "tags": [
+      "storytelling",
+      "change_management"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Storytelling_Foundations::06_Storytelling_Foundations",
+    "scenario": "Storytelling: Visceral Memory Anchors 👁️",
+    "text": "To make a story memorable and evoke empathy, the speaker uses sensory detail integration, including specific {{c1::sights, sounds, smells, or physical feelings}} instead of dry data.",
+    "explanation": "Sensory details bypass critical resistance and activate the sensory cortex of the listener's brain. Hearing about a 'freezing server room with a high-pitched fan whine' makes the story feel real, compared to 'a server room'.",
+    "usage": "<ul><li><b>Example</b>: Describing a critical incident: 'I remember the smell of stale coffee and the silent room as we watched the error logs fill the screen in bright red text.'</li></ul>",
+    "spanish": "Para hacer que una historia sea memorable y evocar empatía, el orador utiliza la integración de detalles sensoriales, incluyendo vistas, sonidos, olores o sensaciones físicas específicas en lugar de datos secos.",
+    "tags": [
+      "storytelling",
+      "rapport"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Storytelling_Foundations::06_Storytelling_Foundations",
+    "scenario": "Storytelling: Causal Flow 🔄",
+    "text": "To prevent boring lists of events, the 'But / Therefore' rule states that narrative beats must be connected by words of {{c1::causality or conflict}}, rather than 'and then'.",
+    "explanation": "Popularized by the creators of South Park, this rule forces momentum. 'A and then B and then C' is boring. 'A, therefore B, but C, therefore D' creates continuous tension and cause-and-effect logical progress.",
+    "usage": "<ul><li><b>Example</b>: 'We wanted to launch on Monday, but our API failed security tests, therefore we postponed, but this gave us time to refine our caching.'</li></ul>",
+    "spanish": "Para evitar aburridas listas de acontecimientos, la regla 'Pero / Por lo tanto' establece que los ritmos narrativos deben estar conectados por palabras de causalidad o conflicto, en lugar de 'y luego'.",
+    "tags": [
+      "storytelling",
+      "structure"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Storytelling_Foundations::06_Storytelling_Foundations",
+    "scenario": "Storytelling: Climax Management 📈",
+    "text": "In professional storytelling, the Climax is the point of {{c1::highest tension and vulnerability}}, positioned directly before the solution is revealed.",
+    "explanation": "A story without a climax feels flat. The climax is the moment of greatest risk (e.g., 'We were 5 minutes from losing our database forever'). Raising the stakes increases listener dopamine, making the final solution feel much more satisfying.",
+    "usage": "<ul><li><b>Example</b>: In a case study presentation, spending 1 minute detailing the exact moments of the system crash before revealing the automated failover tool.</li></ul>",
+    "spanish": "En la narrativa profesional, el Clímax es el punto de mayor tensión y vulnerabilidad, posicionado directamente antes de que se revele la solución.",
+    "tags": [
+      "storytelling",
+      "structure"
+    ]
   }
 ]

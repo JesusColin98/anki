@@ -102,5 +102,69 @@
       "ml",
       "deployment"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "Dual-Coding Diagram 📊 (Word2Vec CBOW vs. Skip-gram (Mikolov et al., 2013))",
+    "text": "¿Cómo funciona la estructura de {{c1::Word2Vec CBOW vs. Skip-gram (Mikolov et al., 2013)}} en el sistema?",
+    "explanation": "CBOW predicts the current target word from surrounding context words, making it faster to train on frequent words. Skip-gram predicts the surrounding context words given the current target word, performing better with small datasets and representing rare words well.<br><br><div class=\"mermaid\">\ngraph TD\n    subgraph CBOW [\"Continuous Bag of Words (CBOW)\"]\n        Context[\"Context words: x(t-2), x(t-1), x(t+1), x(t+2)\"] --> Projection[\"Sum / Average projection layer\"]\n        Projection --> Target[\"Target word: y(t)\"]\n    end\n    subgraph Skipgram [\"Skip-gram\"]\n        Input[\"Input word: x(t)\"] --> Projection_SG[\"Projection layer\"]\n        Projection_SG --> Output1[\"Target Context: y(t-2)\"]\n        Projection_SG --> Output2[\"Target Context: y(t-1)\"]\n        Projection_SG --> Output3[\"Target Context: y(t+1)\"]\n        Projection_SG --> Output4[\"Target Context: y(t+2)\"]\n    end\n</div>",
+    "usage": "Visual model for <code>Word2Vec CBOW vs. Skip-gram (Mikolov et al., 2013)</code>.<br>Graph: <div class=\"mermaid\">\ngraph TD\n    subgraph CBOW [\"Continuous Bag of Words (CBOW)\"]\n        Context[\"Context words: x(t-2), x(t-1), x(t+1), x(t+2)\"] --> Projection[\"Sum / Average projection layer\"]\n        Projection --> Target[\"Target word: y(t)\"]\n    end\n    subgraph Skipgram [\"Skip-gram\"]\n        Input[\"Input word: x(t)\"] --> Projection_SG[\"Projection layer\"]\n        Projection_SG --> Output1[\"Target Context: y(t-2)\"]\n        Projection_SG --> Output2[\"Target Context: y(t-1)\"]\n        Projection_SG --> Output3[\"Target Context: y(t+1)\"]\n        Projection_SG --> Output4[\"Target Context: y(t+2)\"]\n    end\n</div>",
+    "spanish": "CBOW predice la palabra objetivo actual basándose en las palabras de contexto vecinas, mientras que Skip-gram predice el contexto vecino dada la palabra objetivo actual.",
+    "tags": [
+      "ai",
+      "ml",
+      "nlp",
+      "word2vec",
+      "cbow",
+      "skip_gram"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "Math & Physics 📐 (Word2Vec Negative Sampling Loss)",
+    "text": "Ecuación para {{c1::Word2Vec Negative Sampling Loss}}: \\[\\mathcal{L}_{\\text{NEG}}(v_{w_I}, v'_{w_O}, \\mathcal{W}_{\\text{neg}}) = -\\log \\sigma(v'_{w_O}{}^\\top v_{w_I}) - \\sum_{w_i \\in \\mathcal{W}_{\\text{neg}}} \\log \\sigma(-v'_{w_i}{}^\\top v_{w_I})\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(v_{w_I}\\): Input vector representation of the current word.</li><li>\\(v'_{w_O}\\): Output vector representation of the true context word.</li><li>\\(\\mathcal{W}_{\\text{neg}}\\): Set of \\(k\\) randomly sampled negative noise words.</li><li>\\(\\sigma\\): Sigmoid activation function.</li></ul>",
+    "usage": "Formula: \\[\\mathcal{L}_{\\text{NEG}}(v_{w_I}, v'_{w_O}, \\mathcal{W}_{\\text{neg}}) = -\\log \\sigma(v'_{w_O}{}^\\top v_{w_I}) - \\sum_{w_i \\in \\mathcal{W}_{\\text{neg}}} \\log \\sigma(-v'_{w_i}{}^\\top v_{w_I})\\]",
+    "spanish": "Fórmula de Word2Vec Negative Sampling Loss",
+    "tags": [
+      "ai",
+      "ml",
+      "nlp",
+      "word2vec",
+      "math",
+      "negative_sampling"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "Math & Physics 📐 (Hierarchical Softmax Approximation)",
+    "text": "Ecuación para {{c1::Hierarchical Softmax Approximation}}: \\[P(w|w_I) = \\prod_{j=1}^{L(w)-1} \\sigma\\left([[\\text{ch}(n(w, j)) == n(w, j+1)]] \\cdot v'_{n(w, j)}{}^\\top v_{w_I}\\right)\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(L(w)\\): Depth of word \\(w\\) in the binary Huffman tree.</li><li>\\(n(w, j)\\): The \\(j\\)-th node along the path from root to word \\(w\\).</li><li>\\(\\text{ch}(n)\\): Left child of node \\(n\\).</li><li>\\([[\\cdot]]\\): Evaluates to \\(1\\) if true, \\(-1\\) if false.</li><li>\\(v'_{n(w, j)}\\): Vector representation of internal node \\(n(w, j)\\).</li></ul>",
+    "usage": "Formula: \\[P(w|w_I) = \\prod_{j=1}^{L(w)-1} \\sigma\\left([[\\text{ch}(n(w, j)) == n(w, j+1)]] \\cdot v'_{n(w, j)}{}^\\top v_{w_I}\\right)\\]",
+    "spanish": "Fórmula de Hierarchical Softmax Approximation",
+    "tags": [
+      "ai",
+      "ml",
+      "nlp",
+      "word2vec",
+      "math",
+      "hierarchical_softmax"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "Math & Physics 📐 (GloVe Optimization Objective (Pennington et al., 2014))",
+    "text": "Ecuación para {{c1::GloVe Optimization Objective (Pennington et al., 2014)}}: \\[J = \\sum_{i,j=1}^V f(X_{i,j}) \\left( w_i^\\top \\tilde{w}_j + b_i + \\tilde{b}_j - \\log X_{i,j} \\right)^2\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(V\\): Vocabulary size.</li><li>\\(X_{i,j}\\): Co-occurrence count between word \\(i\\) and word \\(j\\).</li><li>\\(w_i, \\tilde{w}_j\\): Word vectors for target word \\(i\\) and context word \\(j\\).</li><li>\\(b_i, \\tilde{b}_j\\): Biases for word \\(i\\) and context word \\(j\\).</li><li>\\(f(X_{i,j})\\): Weighting function to cap very high co-occurrences.</li></ul>",
+    "usage": "Formula: \\[J = \\sum_{i,j=1}^V f(X_{i,j}) \\left( w_i^\\top \\tilde{w}_j + b_i + \\tilde{b}_j - \\log X_{i,j} \\right)^2\\]",
+    "spanish": "Fórmula de GloVe Optimization Objective (Pennington et al., 2014)",
+    "tags": [
+      "ai",
+      "ml",
+      "nlp",
+      "glove",
+      "math",
+      "optimization"
+    ]
   }
 ]

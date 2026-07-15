@@ -80,42 +80,30 @@ INSTRUCCIÓN:
 
 ## 3. Matriz de Mapeo de Casos de Uso y Plantillas Existentes
 
-| Plantilla | Caso de Uso Principal | Ejemplo de Contenido |
+| Plantilla | Caso de Uso Principal | Ejemplo de Contenido / Estructura |
 | :--- | :--- | :--- |
 | **T1_Cloze** | Vocabulario, terminología técnica, leyes y definiciones directas. | `The {{c1::Gradient Descent}} parameter update...` |
-| **T2_DualCoding** | Algoritmos, flujos de trabajo y arquitecturas con diagramas Mermaid. | Diagrama de flujo de decisión en el reverso. |
-| **T3_CodeSnippet** | Patrones de código, comandos CLI, funciones y regex. | Bloques de código formateados con explicación sintáctica. |
-| **T4_Scenario** | Habilidades blandas, oratoria, negociación y soporte al cliente. | Frases de contención empática y resolución de conflictos. |
-| **T5_MathJax** | Fórmulas matemáticas, estadísticas, físicas y modelos de costo. | \(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\) |
-| **T6_Quiz** | Preguntas de opción múltiple con justificación detallada. | Preguntas de certificación con análisis de distractores. |
+| **T2_DualCoding** | Algoritmos, flujos de trabajo y arquitecturas con diagramas Mermaid. | Diagrama de flujo de decisión en el reverso (`mermaid_code`). |
+| **T3_CodeSnippet** | Patrones de código, comandos CLI, funciones y regex. | Bloques de código formateados con explicación sintáctica (`code_block`). |
+| **T4_Scenario** | Habilidades blandas, oratoria, negociación y soporte al cliente. | Frases de contención empática y resolución de conflictos (`target_phrase`). |
+| **T5_MathJax** | Fórmulas matemáticas, estadísticas, físicas y modelos de costo. | \(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\) (`formula_latex`). |
+| **T6_Quiz** | Preguntas de opción múltiple con justificación detallada. | Preguntas de certificación con análisis de distractores (`options`). |
+| **T7_Pronunciation** | Ejercicios de pronunciación con reglas de habla conectada. | `fast_pronunciation` (e.g. `{{c1::wanna}}`) + `audio_links` opcionales. |
+| **T8_MinimalPair** | Discriminación de fonemas (Desmagnetización Perceptual de Kuhl). | Comparación de pares mínimos (`phoneme_a` vs `phoneme_b`, `word_pairs`). |
+| **T9_ListeningChunk** | Dictados cortos de habla conectada (Método Arguelles). | `gap_text` (con cloze) + `full_transcript` + `audio_links`. |
+| **T10_ReadingPatternDrill** | Ejercicios de lectura de grafema a fonema por idioma. | `grapheme_pattern` (e.g. `'ea'`) → `phoneme_target` (`/iː/`). |
+| **T11_ExecutivePitch** | Sombreado de comunicación de liderazgo y entonación. | `shadowing_script` + análisis de pausas (`pause_map`) y tono. |
+| **T12_SpeakingPractice** | Práctica interactiva de habla con audio de referencia. | `prompt` + `model_audio_url` + `practice_url`. |
 
 ---
 
-## 4. Reflexión y Propuesta de Nuevas Plantillas Avanzadas
+## 4. Estructura de Progresión y Niveles en Decks Técnicos
 
-Para aprovechar Anki al máximo en entornos de ingeniería de software, arquitectura de nube e inteligencia artificial, se propone incorporar las siguientes **3 Nuevas Plantillas Avanzadas**:
+Para decks como **Linux, Networking, y Cybersecurity**, los niveles de las notas deben subir progresivamente en dificultad, organizándose por subcategorías o secuencias lógicas dentro del deck:
 
-### 4.1 Plantilla T7: `T7_SystemTopology` (Topología y Arquitecturas de Nube)
-- **Caso de Uso**: Mapeo visual de servicios en la nube, flujos de datos distribuidos y comunicación RPC entre microservicios.
-- **Estructura del Reverso**:
-  - Renderizado automático de diagrama Graphviz DOT / Mermaid (`graph TB`).
-  - Tabla comparativa de Latencia, Throughput y Puntos de Fallo (SPOF).
-  - Comandos CLI de inspección (`gcloud`, `kubectl`, `stubby`).
-
-### 4.2 Plantilla T8: `T8_DiagnosticRCA` (Matriz de Diagnóstico y Root Cause Analysis)
-- **Caso de Uso**: Debugging de producción, resolución de códigos de error HTTP (e.g., 429, 502, 504), bucles de enrutamiento ULS y kernel panics.
-- **Estructura Frontal**: Síntoma / Log de error de producción.
-- **Estructura del Reverso**:
-  - **Causa Raíz (RCA)**: Por qué ocurrió la falla.
-  - **Comando de Verificación**: Script o consulta de logs para confirmar la hipótesis.
-  - **Remediación**: Acción quirúrgica paso a paso.
-
-### 4.3 Plantilla T9: `T9_ContrastivePhonetics` (Phonetics & Bi-Lingual Nuances)
-- **Caso de Uso**: Aprendizaje avanzado de fonética, pares mínimos en inglés/idiomas (e.g., Connected Speech, Vowel Shift).
-- **Estructura del Reverso**:
-  - Transcripción Fonética IPA (`/ˈwɑːtər/`).
-  - Comparativa de pronunciación vs. errores comunes de hablantes hispanos.
-  - Enlace o tag para reproductor de audio sintético (`Audio` tag).
+1. **Básico (Fundamentos/Sintaxis)**: Definiciones directas, comandos elementales sin modificadores complejos y modelos conceptuales básicos (ej. comandos de navegación de Linux, puertos básicos, diferencias activo/pasivo). Usar principalmente **T1_Cloze**.
+2. **Intermedio (Operación/Configuración)**: Uso combinado de flags de CLI, diagramas simples de flujos, y diagnósticos comunes (ej. pipes complejos en Bash, análisis de estados de puertos en Nmap, subredes e Internet Gateways). Usar **T3_CodeSnippet** y **T2_DualCoding**.
+3. **Avanzado (Análisis/Ingeniería/Seguridad)**: Depuración de fallas complejas, evasión de defensas, explotación de vulnerabilidades con código, flujos de protocolos multi-etapa y simulaciones de incidentes. Usar **T2_DualCoding**, **T3_CodeSnippet** con scripts completos y **T6_Quiz** para simulación de escenarios de certificación.
 
 ---
 
@@ -179,3 +167,70 @@ El flujo más robusto para nuevos decks es:
 4. Solo entonces sincronizar con Anki Desktop.
 
 Este patrón reduce bastante el riesgo de introducir errores de estructura o de calidad que luego son costosos de reparar manualmente.
+
+---
+
+## 7. Estrategias Avanzadas para Subir de Nivel la Calidad del Sistema
+
+Para escalar este sistema sin perder consistencia, conviene pasar de una lógica de generación aislada a una arquitectura de contenido más robusta.
+
+### 7.1 Fuente Única + Variantes Determinísticas
+- No duplicar el mismo contenido en múltiples carpetas ni crear tarjetas equivalentes desde cero.
+- Mantener una fuente canónica por escenario o cluster de habilidad y generar variantes desde ahí.
+- Usar plantillas para producir múltiples formatos (hablar, escuchar, escribir, diálogo) sin perder la misma semántica base.
+- Esto reduce mantenimiento, mejora la consistencia y evita que el sistema se vuelva redundante.
+
+### 7.2 Estandar de Metadatos Recomendado
+Cada tarjeta debería incluir metadatos mínimos que permitan filtrar, revisar y evolucionar el contenido.
+
+```json
+{
+  "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+  "scenario": "Workplace: Client Escalation 📞",
+  "template": "T4_Scenario",
+  "difficulty": "intermediate",
+  "source": "internal_notes",
+  "tags": ["english", "customer_service", "soft_skills"],
+  "language": "en",
+  "review_priority": "high"
+}
+```
+
+Metadatos útiles:
+- `template`: identifica la plantilla usada.
+- `difficulty`: permite construir rutas de progresión.
+- `source`: ayuda a rastrear la procedencia del contenido.
+- `review_priority`: permite priorizar correcciones y refuerzos.
+- `tags`: facilita búsquedas y agrupaciones semánticas.
+
+### 7.3 Rubrica Mínima de Calidad para Cada Tarjeta
+Antes de publicar una tarjeta, conviene comprobar estas dimensiones:
+1. **Atomicidad**: una idea por tarjeta.
+2. **Contexto**: el escenario o situación es claro y memorable.
+3. **Explicación**: no solo repite la respuesta, sino que enseña el porqué.
+4. **Usabilidad**: el contenido es práctico y listo para usar en estudio.
+5. **Variedad**: no todas las tarjetas deben repetir el mismo patrón de forma.
+
+Una tarjeta que cumpla estas 5 condiciones suele tener mayor retención y mejor rendimiento en SRS.
+
+### 7.4 Revisión y Mantenimiento Continuo
+El sistema no debe verse como una carga de contenido estática. Debe incluir un ciclo de mejora:
+- revisar tarjetas con baja retención o repetidos patrones
+- reescribir explicaciones poco claras
+- eliminar tarjetas demasiado vagas o demasiado largas
+- convertir notas planas en tarjetas con contexto y ejemplos reales
+
+Un flujo de mejora útil es:
+1. identificar tarjetas débiles
+2. corregir su estructura
+3. revalidar sintaxis y jerarquía
+4. volver a indexar y sincronizar
+
+### 7.5 Regla de Oro para Agentes Generadores
+Cuando un agente genere tarjetas, debe priorizar:
+- precisión sobre cantidad
+- contexto real sobre frases abstractas
+- claridad sobre ornamentación
+- patrones reutilizables sobre contenido improvisado
+
+Si la tarjeta no aporta una idea nueva, útil o memorable, probablemente no merece entrar al deck.

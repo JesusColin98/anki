@@ -165,8 +165,8 @@ def render_t2_dualcoding(data: Dict[str, Any]) -> Dict[str, Any]:
       "deck": data["deck"],
       "scenario": f"Dual-Coding Diagram 📊 ({data['concept']})",
       "text": (
-          f"¿Cómo funciona la estructura de {{c1::{data['concept']}}} en el"
-          " sistema?"
+          f"¿Cómo funciona la estructura de {{{{c1::{data['concept']}}}}}"
+          " en el sistema?"
       ),
       "explanation": f"{data['explanation']}<br><br>{mermaid_html}",
       "usage": (
@@ -188,7 +188,7 @@ def render_t3_codesnippet(data: Dict[str, Any]) -> Dict[str, Any]:
       "scenario": f"Code Pattern 💻 ({data['title']})",
       "text": (
           f"Patrón de código en <b>{lang}</b> para"
-          f" {{c1::{data['title']}}}:<br>{code_formatted}"
+          f" {{{{c1::{data['title']}}}}}:<br>{code_formatted}"
       ),
       "explanation": data["explanation"],
       "usage": (
@@ -221,7 +221,7 @@ def render_t5_mathjax(data: Dict[str, Any]) -> Dict[str, Any]:
   return {
       "deck": data["deck"],
       "scenario": f"Math & Physics 📐 ({data['concept']})",
-      "text": f"Ecuación para {{c1::{data['concept']}}}: \\[{formula}\\]",
+      "text": f"Ecuación para {{{{c1::{data['concept']}}}}}: \\[{formula}\\]",
       "explanation": (
           f"Desglose de variables: <ul>{data['variable_breakdown']}</ul>"
       ),
@@ -238,7 +238,7 @@ def render_t6_quiz(data: Dict[str, Any]) -> Dict[str, Any]:
       "scenario": "Active Recall Quiz 🎯",
       "text": (
           f"<b>Pregunta:</b> {data['question']}<br>Opciones:<ul>{options_html}</ul><br>Respuesta"
-          f" correcta: {{c1::{data['correct_option']}}}"
+          f" correcta: {{{{c1::{data['correct_option']}}}}}"
       ),
       "explanation": f"Justificación: {data['rationale']}",
       "usage": f"Quiz assertion: {data['correct_option']}",

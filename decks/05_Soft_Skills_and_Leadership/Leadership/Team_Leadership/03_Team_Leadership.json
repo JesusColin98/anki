@@ -1,0 +1,182 @@
+[
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Decision Making ⚖️",
+    "text": "While Autocratic leadership prioritizes decisional speed and command, {{c1::Democratic}} leadership trades speed for team buy-in and collaborative problem-solving.",
+    "explanation": "Neither style is universally correct. Autocratic is vital in crises (e.g. site outages), but democratic leadership builds engagement and ownership during complex design phases.",
+    "usage": "<ul><li><b>Example</b>: Moving to Autocratic command during an active security incident response, and Democratic review when proposing next quarter's roadmap.</li></ul>",
+    "spanish": "Mientras que el liderazgo autocrático prioriza la velocidad de decisión y el mando, el liderazgo democrático sacrifica la velocidad a cambio del consenso del equipo y la resolución colaborativa de problemas.",
+    "tags": [
+      "leadership",
+      "management"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Support & Growth 🌱",
+    "text": "The core tenet of {{c1::Servant Leadership}} is that the leader's primary role is to serve the team by removing obstacles and fostering their personal and professional growth.",
+    "explanation": "Popularized by Robert Greenleaf, this model shifts the hierarchy. Instead of the team working to serve the manager, the manager works to clear paths and enable the developers, boosting long-term motivation.",
+    "usage": "<ul><li><b>Example</b>: Running weekly unblocking sessions and securing education budget for team members instead of just reviewing KPI spreadsheets.</li></ul>",
+    "spanish": "El principio fundamental del Liderazgo de Servicio es que el papel principal del líder es servir al equipo eliminando obstáculos y fomentando su crecimiento personal y profesional.",
+    "tags": [
+      "leadership",
+      "styles"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Adaptive Guidance 🗺️",
+    "text": "Hersey-Blanchard's Situational Leadership theory requires managers to adapt their style between Directing, Coaching, Supporting, and Delegating based on the follower's {{c1::competence and commitment}}.",
+    "explanation": "A new hire with low competence but high commitment needs Directing (what to do, step-by-step). An experienced engineer with high competence and high commitment needs Delegating. Misapplying styles leads to micromanagement or team confusion.",
+    "usage": "<ul><li><b>Example</b>: Providing step-by-step checklists to an intern, but delegating the system design architecture entirely to a Principal Engineer.</li></ul>",
+    "spanish": "La teoría del Liderazgo Situacional de Hersey-Blanchard requiere que los directivos adapten su estilo entre Dirigir, Entrenar, Apoyar y Delegar según la competencia y el compromiso del colaborador.",
+    "tags": [
+      "leadership",
+      "situational"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Autonomous Execution 🍃",
+    "text": "The {{c1::Laissez-Faire}} leadership style grants complete autonomy to team members, which succeeds with highly expert teams but leads to drift if clear goals are missing.",
+    "explanation": "Laissez-faire means 'let do'. In R&D teams of PhD scientists, it fosters creativity. However, if the team lacks maturity or clean boundaries, it causes loss of focus, conflict, and missed deliverables.",
+    "usage": "<ul><li><b>Example</b>: Allowing senior researchers free reign to explore new machine learning models for 3 weeks, but setting clear target metrics.</li></ul>",
+    "spanish": "El estilo de liderazgo Laissez-Faire otorga total autonomía a los miembros del equipo, lo cual tiene éxito con equipos altamente expertos, pero genera deriva si faltan objetivos claros.",
+    "tags": [
+      "leadership",
+      "styles"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Motivational Models ⚡",
+    "text": "While Transactional leadership motivates team members through rewards and compliance, {{c1::Transformational}} leadership inspires them through a shared vision and purpose.",
+    "explanation": "Transactional leadership works for routine, structured operations (e.g. SLA enforcement). Transformational leadership changes behaviors by connecting the team's work to a larger mission, critical during change.",
+    "usage": "<ul><li><b>Example</b>: Connecting the database refactoring task to the company's core mission of saving customer time, rather than just treating it as a ticket to close.</li></ul>",
+    "spanish": "Mientras que el liderazgo transaccional motiva a los miembros del equipo a través de recompensas y el cumplimiento, el liderazgo transformacional los inspira mediante una visión y un propósito compartidos.",
+    "tags": [
+      "leadership",
+      "motivation"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Safety Culture 🛡️",
+    "text": "Amy Edmondson defines {{c1::Psychological Safety}} as a shared belief that the team is safe for interpersonal risk-taking, admitting mistakes, and speaking up.",
+    "explanation": "When safety is low, team members hide errors and withhold warnings to protect themselves from punishment. High safety drives immediate bug reporting, innovative suggestions, and high-velocity learning.",
+    "usage": "<ul><li><b>Actionable Advice</b>: Model vulnerability as a leader by admitting your own mistakes (e.g., 'I made a mistake in yesterday's deployment plan, let's fix it').</li></ul>",
+    "spanish": "Amy Edmondson define la Seguridad Psicológica como la creencia compartida de que el equipo es un entorno seguro para asumir riesgos interpersonales, admitir errores y opinar libremente.",
+    "tags": [
+      "leadership",
+      "culture"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Actionable Feedback 💬",
+    "text": "To keep feedback objective and reduce defensiveness, the manager uses the SBI model, detailing the {{c1::Situation}}, the observed {{c2::Behavior}}, and its direct {{c3::Impact}}.",
+    "explanation": "General feedback like 'You have a bad attitude' triggers defensiveness. SBI makes it objective: 'In yesterday's code review (Situation), you called John's approach stupid (Behavior), which caused him to shut down and stopped team alignment (Impact).'",
+    "usage": "<ul><li><b>Example</b>: 'During the planning meeting (S), you interrupted Sarah twice (B), which prevented us from hearing her database security concern (I).'</li></ul>",
+    "spanish": "Para mantener la retroalimentación objetiva y reducir la defensividad, el directivo utiliza el modelo SBI, detallando la Situación, el Comportamiento observado y su Impacto directo.",
+    "tags": [
+      "leadership",
+      "feedback"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Team Lifecycle 📈",
+    "text": "Tuckman's model states that teams progress through five developmental stages: {{c1::Forming, Storming, Norming, Performing, and Adjourning}}.",
+    "explanation": "Conflict is normal during 'Storming' as roles are sorted out. Managers often panic here. Acknowledging this stage helps leaders steer the team toward 'Norming' (setting agreements) and 'Performing' (fluid execution).",
+    "usage": "<ul><li><b>Example</b>: Recognizing that team arguments about project ownership are standard storming behaviors, and facilitating a meeting to establish clear ownership guidelines.</li></ul>",
+    "spanish": "El modelo de Tuckman establece que los equipos progresan a través de cinco etapas de desarrollo: Formación, Tormenta, Normalización, Desempeño y Disolución.",
+    "tags": [
+      "leadership",
+      "team_dynamics"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Career Alignment 🤝",
+    "text": "To keep engineers aligned and unblocked, a manager structures 1-on-1s as a {{c1::forward-looking space owned by the employee}}, rather than a simple status update meeting.",
+    "explanation": "Status updates belong in Jira or standups. 1-on-1 meetings should address long-term career growth, structural roadblocks, team morale, and two-way feedback to build strong trust.",
+    "usage": "<ul><li><b>Actionable Advice</b>: Ask open-ended questions like: 'What did you focus on this week that was outside your core tasks?' or 'What is blocking your best work?'</li></ul>",
+    "spanish": "Para mantener a los ingenieros alineados y sin bloqueos, un gerente estructura las reuniones 1 a 1 como un espacio orientado al futuro propiedad del empleado, en lugar de una simple reunión de actualización de estado.",
+    "tags": [
+      "leadership",
+      "management"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Intent-Based Command 🎯",
+    "text": "Effective delegation requires the leader to define the {{c1::What and Why (desired outcome)}} and leave the {{c2::How (execution details)}} to the team member.",
+    "explanation": "Dictating every step (micromanagement) destroys autonomy, learning, and scalability. Specifying the target metrics and safety boundaries empowers the team member to take ownership and solve problems creatively.",
+    "usage": "<ul><li><b>Example</b>: 'We need to reduce API response latency by 20% by Friday (Outcome). How you rewrite the SQL queries is up to you.'</li></ul>",
+    "spanish": "La delegación eficaz requiere que el líder defina el Qué y el Porqué (resultado deseado) y deje el Cómo (detalles de la ejecución) en manos del miembro del equipo.",
+    "tags": [
+      "leadership",
+      "delegation"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Change Management 🔄",
+    "text": "Kotter's change model states that the first critical step in leading organizational transformation is {{c1::establishing a sense of urgency}}.",
+    "explanation": "Without urgency, inertia wins. People resist leaving their comfort zone. Highlighting market threats or system vulnerabilities (e.g. security audits) creates the motivational push needed to embark on change.",
+    "usage": "<ul><li><b>Example</b>: Showing that current manual testing is causing 15% customer churn to drive the shift to automated testing pipelines.</li></ul>",
+    "spanish": "El modelo de cambio de Kotter establece que el primer paso crítico para liderar la transformación organizacional es establecer un sentido de urgencia.",
+    "tags": [
+      "leadership",
+      "change"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Eliminating Silos 🤝",
+    "text": "To resolve conflict between competing departments (e.g., Dev vs. Ops), leadership introduces {{c1::Superordinate Goals}}, which are shared goals that neither team can achieve alone.",
+    "explanation": "Silos cause teams to optimize for local metrics at the expense of others. Framing a shared goal (e.g., '99.9% customer uptime') forces cooperation and overrides tribal department friction.",
+    "usage": "<ul><li><b>Example</b>: Aligning both engineering and product metrics around user adoption rates rather than code output or feature lists.</li></ul>",
+    "spanish": "Para resolver los conflictos entre departamentos competidores, el liderazgo introduce Metas Superordinadas, que son objetivos compartidos que ningún equipo puede lograr por sí solo.",
+    "tags": [
+      "leadership",
+      "conflict"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Candid Communication 💬",
+    "text": "Kim Scott's Radical Candor framework requires leaders to communicate by balancing {{c1::Caring Personally}} with {{c2::Challenging Directly}}.",
+    "explanation": "Challenging without caring is Obnoxious Aggression. Caring without challenging is Ruinous Empathy (leaving poor behavior uncorrected to avoid discomfort). Radical candor delivers hard truths because you care about their growth.",
+    "usage": "<ul><li><b>Example</b>: 'I'm telling you this because I want you to succeed. Your presentation style is disorganized and dilutes the quality of your code, which will block your promotion.'</li></ul>",
+    "spanish": "El marco de Sinceridad Radical de Kim Scott exige que los líderes se comuniquen equilibrando el Cuidado Personal con el Desafío Directo.",
+    "tags": [
+      "leadership",
+      "feedback"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: Crisis Management 🚨",
+    "text": "During a high-stakes operational crisis, the leader pivots from collaborative coaching to a style that is {{c1::decisive and directive}}, establishing clear command lines.",
+    "explanation": "In a crisis, consensus-seeking wastes critical recovery time. The leader must establish a command structure, assign explicit tasks (e.g., triage, PR, debugging), and communicate updates in a structured cadence.",
+    "usage": "<ul><li><b>Example</b>: Appointing a single incident commander to direct debugging work during a production database outage.</li></ul>",
+    "spanish": "Durante una crisis operativa de alto nivel, el líder pasa del entrenamiento colaborativo a un estilo decisivo y directivo, estableciendo líneas de mando claras.",
+    "tags": [
+      "leadership",
+      "crisis"
+    ]
+  },
+  {
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Team_Leadership::03_Team_Leadership",
+    "scenario": "Leadership: High Expectations 📈",
+    "text": "The {{c1::Pygmalion Effect}} is the psychological phenomenon where a leader's high expectations of a team member lead to a corresponding increase in that member's performance.",
+    "explanation": "Our expectations shape how we treat people (e.g., giving them challenging work, trust, and constructive feedback). This treatment shapes their self-identity and confidence, prompting higher effort and success.",
+    "usage": "<ul><li><b>Actionable Advice</b>: Explicitly tell team members that you believe they are capable of handling high-impact tasks and back it up with support.</li></ul>",
+    "spanish": "El efecto Pygmalión es el fenómeno psicológico por el cual las altas expectativas de un líder sobre un miembro del equipo conducen a un aumento correspondiente en el desempeño de ese miembro.",
+    "tags": [
+      "leadership",
+      "psychology"
+    ]
+  }
+]

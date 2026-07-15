@@ -59,8 +59,7 @@ def anki_invoke(action: str, **params) -> Any:
         print("[-] Error: Connecting to AnkiConnect failed. Is Anki Desktop running?", file=sys.stderr)
         sys.exit(1)
     except Exception as e:
-        print(f"[-] AnkiConnect Error: {e}", file=sys.stderr)
-        sys.exit(1)
+        raise e
 
 # -----------------
 # COMMAND: VALIDATE

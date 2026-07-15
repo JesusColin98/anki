@@ -76,5 +76,68 @@
       "training",
       "optimization"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Math & Physics 📐 (Direct Preference Optimization (DPO) Loss (Rafailov et al., 2023))",
+    "text": "Ecuación para {{c1::Direct Preference Optimization (DPO) Loss (Rafailov et al., 2023)}}: \\[\\mathcal{L}_{\\text{DPO}}(\\pi_\\theta; \\pi_{\\text{ref}}) = -\\mathbb{E}_{(x, y_w, y_l)}\\left[\\log \\sigma\\left(\\beta \\log \\frac{\\pi_\\theta(y_w|x)}{\\pi_{\\text{ref}}(y_w|x)} - \\beta \\log \\frac{\\pi_\\theta(y_l|x)}{\\pi_{\\text{ref}}(y_l|x)}\\right)\\right]\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(\\pi_\\theta\\): Policy model parameter weights optimized.</li><li>\\(\\pi_{\\text{ref}}\\): Frozen reference model weights (typically SFT model).</li><li>\\(y_w, y_l\\): Preferred (winner) and dispreferred (loser) outputs for prompt \\(x\\).</li><li>\\(\\beta\\): Divergence regularization parameter.</li><li>\\(\\sigma\\): Sigmoid activation function.</li></ul>",
+    "usage": "Formula: \\[\\mathcal{L}_{\\text{DPO}}(\\pi_\\theta; \\pi_{\\text{ref}}) = -\\mathbb{E}_{(x, y_w, y_l)}\\left[\\log \\sigma\\left(\\beta \\log \\frac{\\pi_\\theta(y_w|x)}{\\pi_{\\text{ref}}(y_w|x)} - \\beta \\log \\frac{\\pi_\\theta(y_l|x)}{\\pi_{\\text{ref}}(y_l|x)}\\right)\\right]\\]",
+    "spanish": "Fórmula de Direct Preference Optimization (DPO) Loss (Rafailov et al., 2023)",
+    "tags": [
+      "ai",
+      "llm",
+      "dpo",
+      "rlhf",
+      "alignment",
+      "math"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Dual-Coding Diagram 📊 (RLHF vs. DPO Pipelines)",
+    "text": "¿Cómo funciona la estructura de {{c1::RLHF vs. DPO Pipelines}} en el sistema?",
+    "explanation": "DPO shows mathematically that the reward function can be expressed in terms of the optimal policy. It bypasses training a separate reward model and utilizing complex reinforcement learning (PPO), updating the policy directly via relative log-likelihoods on prompt preference pairs.<br><br><div class=\"mermaid\">\ngraph TD\n    subgraph RLHF [\"Traditional RLHF Pipeline\"]\n        SFT1[\"SFT Model\"] --> RM[\"Train Reward Model (RM)\"]\n        RM --> PPO[\"Train Policy with PPO (Actor-Critic loops)\"]\n    end\n    subgraph DPO [\"Direct Preference Optimization\"]\n        SFT2[\"SFT Model\"] --> DPOLoss[\"Direct Policy Updates (DPO loss over preference pairs)\"]\n    end\n</div>",
+    "usage": "Visual model for <code>RLHF vs. DPO Pipelines</code>.<br>Graph: <div class=\"mermaid\">\ngraph TD\n    subgraph RLHF [\"Traditional RLHF Pipeline\"]\n        SFT1[\"SFT Model\"] --> RM[\"Train Reward Model (RM)\"]\n        RM --> PPO[\"Train Policy with PPO (Actor-Critic loops)\"]\n    end\n    subgraph DPO [\"Direct Preference Optimization\"]\n        SFT2[\"SFT Model\"] --> DPOLoss[\"Direct Policy Updates (DPO loss over preference pairs)\"]\n    end\n</div>",
+    "spanish": "DPO demuestra matemáticamente que la función de recompensa se puede expresar a partir de la política óptima. Esto permite saltarse el entrenamiento de un modelo de recompensa separado y el uso de PPO.",
+    "tags": [
+      "ai",
+      "llm",
+      "dpo",
+      "rlhf",
+      "ppo",
+      "pipelines"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Active Recall Quiz 🎯",
+    "text": "<b>Pregunta:</b> How does the XLA (Accelerated Linear Algebra) compiler improve TPU execution speeds compared to eager execution?<br>Opciones:<ul><li>A) By JIT compiling high-level operators into fused kernels, reducing memory bandwidth overhead</li><li>B) By running calculations in INT4 quantization format natively on Tensor Cores</li><li>C) By dynamically caching GPU activation weights during backward passes</li><li>D) By allocating memory pages directly to CPU host threads via unified drivers</li></ul><br>Respuesta correcta: {{c1::A) By JIT compiling high-level operators into fused kernels, reducing memory bandwidth overhead}}",
+    "explanation": "Justificación: XLA fuses multiple operations together into single hardware kernels. Instead of executing addition, multiplication, and reductions sequentially (requiring writing intermediate tensors back to slow memory), XLA compiles them into a single kernel that performs all operations in registers, saving memory bandwidth.",
+    "usage": "Quiz assertion: A) By JIT compiling high-level operators into fused kernels, reducing memory bandwidth overhead",
+    "spanish": "Quiz: How does the XLA (Accelerated Linear Algebra) compiler improve TPU execution speeds compared to eager execution?",
+    "tags": [
+      "ai",
+      "tpu",
+      "xla",
+      "compilation",
+      "systems"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::10_Training_Systems_and_Optimization::10_Training_Systems_and_Optimization",
+    "scenario": "Code Pattern 💻 (JAX SPMD Parallel Partitioning (pmap))",
+    "text": "Patrón de código en <b>python</b> para {{c1::JAX SPMD Parallel Partitioning (pmap)}}:<br><pre><code class=\"language-python\">import jax\nimport jax.numpy as jnp\n\n# Define a simple function\ndef add_constant(x):\n    return x + 10.0\n\n# Compile for parallel execution across all TPU/GPU devices\nparallel_add = jax.pmap(add_constant)\n\n# Prepare input array (size must equal local device count)\ndevices = jax.local_device_count()\nx = jnp.arange(devices) * 1.5\ny = parallel_add(x)\nprint(f\"Devices: {devices}, Input: {x}, Output: {y}\")</code></pre>",
+    "explanation": "Demonstrates JAX's Single Program Multiple Data (SPMD) paradigm where `jax.pmap` compiles a function and replicates execution across multiple TPU cores in parallel.",
+    "usage": "Snippet: <pre><code class=\"language-python\">import jax\nimport jax.numpy as jnp\n\n# Define a simple function\ndef add_constant(x):\n    return x + 10.0\n\n# Compile for parallel execution across all TPU/GPU devices\nparallel_add = jax.pmap(add_constant)\n\n# Prepare input array (size must equal local device count)\ndevices = jax.local_device_count()\nx = jnp.arange(devices) * 1.5\ny = parallel_add(x)\nprint(f\"Devices: {devices}, Input: {x}, Output: {y}\")</code></pre><br>Output expected: <code>Success</code>",
+    "spanish": "Patrón de código: JAX SPMD Parallel Partitioning (pmap)",
+    "tags": [
+      "ai",
+      "jax",
+      "spmd",
+      "tpu",
+      "parallel",
+      "code"
+    ]
   }
 ]

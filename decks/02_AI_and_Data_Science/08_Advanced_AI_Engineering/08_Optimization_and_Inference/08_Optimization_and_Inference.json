@@ -102,5 +102,37 @@
       "inference",
       "serving"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Dual-Coding Diagram 📊 (FlashAttention IO-Aware Memory Tiling (Dao et al., 2022))",
+    "text": "¿Cómo funciona la estructura de {{c1::FlashAttention IO-Aware Memory Tiling (Dao et al., 2022)}} en el sistema?",
+    "explanation": "FlashAttention improves speed by avoiding writing the massive intermediate \\(S \\times S\\) attention matrix back to slow GPU High Bandwidth Memory (HBM). It tiles input matrices into blocks, loads them to fast local SRAM, and computes softmax block-by-block using online updates.<br><br><div class=\"mermaid\">\ngraph LR\n    HBM[\"High Bandwidth Memory (HBM)<br>(Slow, Large)\"] -- \"Load Blocks Q, K, V\" --> SRAM[\"GPU SRAM Cache<br>(Fast, Small)\"]\n    SRAM -- \"Compute Softmax Block-by-Block\" --> SRAM\n    SRAM -- \"Write back Output O\" --> HBM\n</div>",
+    "usage": "Visual model for <code>FlashAttention IO-Aware Memory Tiling (Dao et al., 2022)</code>.<br>Graph: <div class=\"mermaid\">\ngraph LR\n    HBM[\"High Bandwidth Memory (HBM)<br>(Slow, Large)\"] -- \"Load Blocks Q, K, V\" --> SRAM[\"GPU SRAM Cache<br>(Fast, Small)\"]\n    SRAM -- \"Compute Softmax Block-by-Block\" --> SRAM\n    SRAM -- \"Write back Output O\" --> HBM\n</div>",
+    "spanish": "FlashAttention acelera el cálculo al evitar escribir la enorme matriz de atención intermedia en la memoria lenta HBM de la GPU. Divide en bloques las matrices, las carga en la SRAM local rápida y calcula softmax bloque por bloque.",
+    "tags": [
+      "ai",
+      "llm",
+      "flash_attention",
+      "inference",
+      "gpu",
+      "architecture"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::08_Optimization_and_Inference::08_Optimization_and_Inference",
+    "scenario": "Math & Physics 📐 (KV Cache Memory Footprint)",
+    "text": "Ecuación para {{c1::KV Cache Memory Footprint}}: \\[\\text{Size}_{\\text{KVCache}} = 2 \\times 2 \\times B \\times L \\times H \\times d_{\\text{head}} \\times N_{\\text{layers}} \\text{ bytes}\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(2\\): Factor representing both Key and Value vectors.</li><li>\\(2\\): Factor representing 16-bit half-precision float format (2 bytes/weight).</li><li>\\(B\\): Inference batch size.</li><li>\\(L\\): Maximum sequence length (tokens).</li><li>\\(H\\): Key-Value heads count (1 in MQA, \\(H_{\\text{query}}/G\\) in GQA, or equal to query heads in MHA).</li><li>\\(d_{\\text{head}}\\): Head dimension size.</li><li>\\(N_{\\text{layers}}\\): Total Transformer layer count.</li></ul>",
+    "usage": "Formula: \\[\\text{Size}_{\\text{KVCache}} = 2 \\times 2 \\times B \\times L \\times H \\times d_{\\text{head}} \\times N_{\\text{layers}} \\text{ bytes}\\]",
+    "spanish": "Fórmula de KV Cache Memory Footprint",
+    "tags": [
+      "ai",
+      "llm",
+      "kv_cache",
+      "inference",
+      "memory",
+      "math"
+    ]
   }
 ]

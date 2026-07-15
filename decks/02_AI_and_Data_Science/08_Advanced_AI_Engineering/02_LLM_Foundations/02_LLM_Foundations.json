@@ -102,5 +102,68 @@
       "llm",
       "generalization"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
+    "scenario": "Math & Physics 📐 (Scaled Dot-Product Attention (Vaswani et al., 2017))",
+    "text": "Ecuación para {{c1::Scaled Dot-Product Attention (Vaswani et al., 2017)}}: \\[\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(Q\\): Query matrix of shape \\((B, H, S, d_k)\\) representing current tokens.</li><li>\\(K\\): Key matrix of shape \\((B, H, S, d_k)\\) representing context tokens.</li><li>\\(V\\): Value matrix of shape \\((B, H, S, d_v)\\) representing token representation vectors.</li><li>\\(d_k\\): Dimensionality of query/key vectors, scaling factor to prevent vanishing gradients in softmax.</li></ul>",
+    "usage": "Formula: \\[\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\]",
+    "spanish": "Fórmula de Scaled Dot-Product Attention (Vaswani et al., 2017)",
+    "tags": [
+      "ai",
+      "llm",
+      "transformers",
+      "math",
+      "attention"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
+    "scenario": "Code Pattern 💻 (Scaled Dot-Product Attention in PyTorch)",
+    "text": "Patrón de código en <b>python</b> para {{c1::Scaled Dot-Product Attention in PyTorch}}:<br><pre><code class=\"language-python\">import torch\nimport torch.nn.functional as F\nimport math\n\ndef scaled_dot_product_attention(q, k, v, mask=None):\n    d_k = q.size(-1)\n    scores = torch.matmul(q, k.transpose(-2, -1)) / math.sqrt(d_k)\n    if mask is not None:\n        scores = scores.masked_fill(mask == 0, -1e9)\n    attn_weights = F.softmax(scores, dim=-1)\n    return torch.matmul(attn_weights, v), attn_weights</code></pre>",
+    "explanation": "Computes attention scores by dotting query and key matrices, dividing by scale factor \\(\\sqrt{d_k}\\), applying softmax, and multiplying values.",
+    "usage": "Snippet: <pre><code class=\"language-python\">import torch\nimport torch.nn.functional as F\nimport math\n\ndef scaled_dot_product_attention(q, k, v, mask=None):\n    d_k = q.size(-1)\n    scores = torch.matmul(q, k.transpose(-2, -1)) / math.sqrt(d_k)\n    if mask is not None:\n        scores = scores.masked_fill(mask == 0, -1e9)\n    attn_weights = F.softmax(scores, dim=-1)\n    return torch.matmul(attn_weights, v), attn_weights</code></pre><br>Output expected: <code>Success</code>",
+    "spanish": "Patrón de código: Scaled Dot-Product Attention in PyTorch",
+    "tags": [
+      "ai",
+      "llm",
+      "transformers",
+      "pytorch",
+      "code",
+      "attention"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
+    "scenario": "Dual-Coding Diagram 📊 (Grouped-Query Attention (GQA))",
+    "text": "¿Cómo funciona la estructura de {{c1::Grouped-Query Attention (GQA)}} en el sistema?",
+    "explanation": "GQA groups query heads into G groups, where query heads share a single Key-Value (KV) head. This balances the high throughput of Multi-Query Attention (MQA) with the high capacity of Multi-Head Attention (MHA), optimizing KV cache storage during inference (Ainslie et al., 2023).<br><br><div class=\"mermaid\">\ngraph TD\n    subgraph Queries [\"Query Heads (Q1 - Q8)\"]\n        Q1 --> K1_V1[\"KV Head 1\"]\n        Q2 --> K1_V1\n        Q3 --> K1_V1\n        Q4 --> K1_V1\n        Q5 --> K2_V2[\"KV Head 2\"]\n        Q6 --> K2_V2\n        Q7 --> K2_V2\n        Q8 --> K2_V2\n    end\n    subgraph Keys_Values [\"Key/Value Heads (KV1 - KV2)\"]\n        K1_V1\n        K2_V2\n    end\n</div>",
+    "usage": "Visual model for <code>Grouped-Query Attention (GQA)</code>.<br>Graph: <div class=\"mermaid\">\ngraph TD\n    subgraph Queries [\"Query Heads (Q1 - Q8)\"]\n        Q1 --> K1_V1[\"KV Head 1\"]\n        Q2 --> K1_V1\n        Q3 --> K1_V1\n        Q4 --> K1_V1\n        Q5 --> K2_V2[\"KV Head 2\"]\n        Q6 --> K2_V2\n        Q7 --> K2_V2\n        Q8 --> K2_V2\n    end\n    subgraph Keys_Values [\"Key/Value Heads (KV1 - KV2)\"]\n        K1_V1\n        K2_V2\n    end\n</div>",
+    "spanish": "GQA agrupa las cabezas de consulta en G grupos, donde las cabezas dentro de un grupo comparten una única cabeza de Clave/Valor (KV), optimizando el almacenamiento del caché KV durante la inferencia.",
+    "tags": [
+      "ai",
+      "llm",
+      "transformers",
+      "gqa",
+      "kv_cache",
+      "architecture"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
+    "scenario": "Math & Physics 📐 (Chinchilla Scaling Laws (Hoffmann et al., 2022))",
+    "text": "Ecuación para {{c1::Chinchilla Scaling Laws (Hoffmann et al., 2022)}}: \\[N \\approx 20 \\times D\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(N\\): Total parameter count of the model (excluding embeddings).</li><li>\\(D\\): Total token count used during pretraining.</li><li>\\(20\\): The compute-optimal ratio of tokens per parameter established under a fixed compute budget.</li></ul>",
+    "usage": "Formula: \\[N \\approx 20 \\times D\\]",
+    "spanish": "Fórmula de Chinchilla Scaling Laws (Hoffmann et al., 2022)",
+    "tags": [
+      "ai",
+      "llm",
+      "scaling",
+      "chinchilla",
+      "compute",
+      "math"
+    ]
   }
 ]
