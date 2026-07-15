@@ -1,6 +1,6 @@
 {
-  "total_cards": 6776,
-  "total_decks": 227,
+  "total_cards": 6802,
+  "total_decks": 228,
   "decks": [
     {
       "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Defense_Evasion::03_Defense_Evasion",
@@ -38,6 +38,11 @@
       "cards_count": 20
     },
     {
+      "deck": "01_Cloud_and_Infrastructure::Networking::GCP_Networking_and_Compute::10_GCP_Cloud_Computing",
+      "path": "decks/01_Cloud_and_Infrastructure/Networking/GCP_Networking_and_Compute/10_GCP_Cloud_Computing.json",
+      "cards_count": 12
+    },
+    {
       "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::09_Network_Protocols_and_Security",
       "path": "decks/01_Cloud_and_Infrastructure/Networking/Protocols_and_Security/09_Network_Protocols_and_Security.json",
       "cards_count": 15
@@ -70,12 +75,12 @@
     {
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
       "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/01_Statistical_ML_Foundations/01_Statistical_ML_Foundations.json",
-      "cards_count": 12
+      "cards_count": 13
     },
     {
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
       "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/02_LLM_Foundations/02_LLM_Foundations.json",
-      "cards_count": 12
+      "cards_count": 17
     },
     {
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::03_Prompt_Engineering_and_Evaluation::03_Prompt_Engineering_and_Evaluation",
@@ -140,7 +145,7 @@
     {
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
       "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/15_Experimentation_Data_Pipelines_and_Feature_Stores/15_Experimentation_Data_Pipelines_and_Feature_Stores.json",
-      "cards_count": 6
+      "cards_count": 8
     },
     {
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::16_LLM_Systems_Design_and_Inference::16_LLM_Systems_Design_and_Inference",
@@ -150,12 +155,12 @@
     {
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::17_Agent_Evals_and_Observability::17_Agent_Evals_and_Observability",
       "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/17_Agent_Evals_and_Observability/17_Agent_Evals_and_Observability.json",
-      "cards_count": 6
+      "cards_count": 9
     },
     {
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::18_ML_System_Design_and_Platforms::18_ML_System_Design_and_Platforms",
       "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/18_ML_System_Design_and_Platforms/18_ML_System_Design_and_Platforms.json",
-      "cards_count": 6
+      "cards_count": 9
     },
     {
       "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::19_Game_AI_and_Reinforcement_Learning::19_Game_AI_and_Reinforcement_Learning",

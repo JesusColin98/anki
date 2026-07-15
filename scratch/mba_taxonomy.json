@@ -1,0 +1,477 @@
+[
+  {
+    "deck": "06_Business_and_Productivity::Business::MBA_Strategy::02_Corporate_Strategy_and_Scale",
+    "modules": [
+      {
+        "name": "Competitive Advantage & 7 Powers",
+        "subtopics": [
+          {"name": "Scale Economies & Barriers", "focus": "How scale economies act as barriers to entry, benefit-barrier matrix, and cost advantages."},
+          {"name": "Network Economies & Feedback Loops", "focus": "Direct and indirect network effects, platform value curves, and switching costs."},
+          {"name": "Counter-Positioning & Business Model Innovation", "focus": "Netflix vs Blockbuster case, incumbent dilemma, and business model disruption."},
+          {"name": "Cornered Resources & Process Power", "focus": "Securing key talent/assets, organizational capability as a moat, and branding power."}
+        ]
+      },
+      {
+        "name": "Industry Analysis & Five Forces",
+        "subtopics": [
+          {"name": "Threat of New Entrants & Entry Barriers", "focus": "Capital requirements, regulatory hurdles, switching costs, and distribution access."},
+          {"name": "Bargaining Power of Buyers & Suppliers", "focus": "Concentration ratios, switching costs, backward integration, and substitute availability."},
+          {"name": "Threat of Substitutes & Rivalry Intensity", "focus": "Price-performance tradeoffs, industry growth rate, exit barriers, and fixed cost structure."},
+          {"name": "Strategic Groups & Value Chain Positioning", "focus": "Mapping competitors, identifying niches, and value chain integration/disintegration."}
+        ]
+      },
+      {
+        "name": "Disruptive Innovation (Christensen)",
+        "subtopics": [
+          {"name": "Sustaining vs Disruptive Innovation", "focus": "Performance trajectory, mainstream customer needs, and technological progress."},
+          {"name": "Low-end vs New-market Disruption", "focus": "Targeting overserved customers vs creating new consumption contexts."},
+          {"name": "Resource Allocation & Profit Margin Constraints", "focus": "Why successful firms ignore low-margin markets due to structural constraints."},
+          {"name": "Incumbent Defense & Spin-offs", "focus": "Creating autonomous business units, managing dual strategies, and target customers."}
+        ]
+      },
+      {
+        "name": "Platform Dynamics & Two-Sided Markets",
+        "subtopics": [
+          {"name": "Two-Sided Markets & Cross-Side Effects", "focus": "Cross-side network effects, subsidizing one side, and price sensitivity."},
+          {"name": "Critical Mass & Chicken-and-Egg Solutions", "focus": "Strategies to seed initial supply/demand, marquee users, and bootstrapping."},
+          {"name": "Platform Leaks & Multi-Homing Costs", "focus": "Preventing transactions outside the platform, reducing multi-homing incentives."},
+          {"name": "Ecosystem Governance & API Controls", "focus": "Balancing open innovation with control, developer policies, and tax rates."}
+        ]
+      },
+      {
+        "name": "Strategic Positioning & Blue Ocean",
+        "subtopics": [
+          {"name": "Value Innovation & Cost-Value Tradeoff", "focus": "Breaking the cost-value tradeoff, creating uncontested market space."},
+          {"name": "The Four Actions Framework (ERRC)", "focus": "Eliminate, Reduce, Raise, and Create grid and value innovation."},
+          {"name": "Strategy Canvas & Value Curves", "focus": "Drawing and analyzing strategy curves, divergence, and compelling taglines."},
+          {"name": "Red Ocean vs Blue Ocean Strategy", "focus": "Structuralist vs reconstructionist view, market boundary definitions."}
+        ]
+      },
+      {
+        "name": "McKinsey Horizon Model & Growth",
+        "subtopics": [
+          {"name": "Horizon 1: Core Business Operations", "focus": "Defending and extending the core business, operational efficiency, and metrics."},
+          {"name": "Horizon 2: Emerging Businesses", "focus": "Scaling up new product lines, business models, and securing growth capital."},
+          {"name": "Horizon 3: Future Options & R&D", "focus": "Exploring disruptive technologies, seed investments, and long-term bets."},
+          {"name": "Resource Allocation and Horizon Balance", "focus": "Balancing people, capital, and focus across H1, H2, and H3 projects."}
+        ]
+      },
+      {
+        "name": "Scale Economies & Margin Drivers",
+        "subtopics": [
+          {"name": "Fixed-Cost Leverage & Breakeven", "focus": "Operating leverage, fixed vs variable cost structure, and volume-driven margins."},
+          {"name": "Experience Curves & Learning Rates", "focus": "Unit cost reduction with cumulative volume, process optimization, and learning curve formulas."},
+          {"name": "Purchasing Power & Monopsony", "focus": "Volume discounts, supply chain dominance, and buyer concentration advantages."},
+          {"name": "Minimum Efficient Scale (MES)", "focus": "Locating optimal production scale to avoid diseconomies of scale."}
+        ]
+      },
+      {
+        "name": "Corporate Development & M&A",
+        "subtopics": [
+          {"name": "Buy vs Build Framework", "focus": "Core competencies, speed-to-market, integration risk, and transaction costs."},
+          {"name": "Revenue vs Cost Synergies", "focus": "Cross-selling, market power vs headcount reduction, facilities consolidation."},
+          {"name": "Post-Merger Integration (PMI) Risks", "focus": "Cultural clashes, system incompatibilities, customer churn, and retaining key talent."},
+          {"name": "Due Diligence & Valuation in Acquisitions", "focus": "Assessing assets, liabilities, synergies, and determining purchase price premium."}
+        ]
+      },
+      {
+        "name": "Alliances & Co-opetition",
+        "subtopics": [
+          {"name": "Strategic Alliances & Joint Ventures", "focus": "Resource sharing, risk mitigation, legal structure, and alignment of incentives."},
+          {"name": "Co-opetition: Competing and Cooperating", "focus": "Creating the pie vs dividing the pie, collaborating on standards, competing on products."},
+          {"name": "Ecosystem Alliances & Android Case", "focus": "Open-source strategy to capture platform volume and defeat closed competitors."},
+          {"name": "Value Capture in Value Networks", "focus": "Bottlenecks, bargaining power in multi-partner ecosystems, and strategic positioning."}
+        ]
+      },
+      {
+        "name": "Crossing the Chasm (Moore)",
+        "subtopics": [
+          {"name": "Technology Adoption Life Cycle (TALC)", "focus": "Innovators, early adopters, early majority, late majority, and laggards."},
+          {"name": "The Chasm: Early Adopters to Early Majority", "focus": "The gap between visionaries and pragmatists, and why tech startups fail here."},
+          {"name": "Bowling Alley & Beachhead Segment Strategy", "focus": "Targeting a specific niche, solving total product needs, and adjacent markets."},
+          {"name": "Tornado & Main Street Scaling", "focus": "Handling hyper-growth, expanding capacity, and driving product simplification."}
+        ]
+      }
+    ]
+  },
+  {
+    "deck": "06_Business_and_Productivity::Business::MBA_Metrics::03_Tech_Metrics_and_Unit_Economics",
+    "modules": [
+      {
+        "name": "LTV & CAC Foundations",
+        "subtopics": [
+          {"name": "Customer Lifetime Value (LTV) Formula", "focus": "LTV = (ARPU * Gross Margin) / Churn Rate, and time-discounted cash flows."},
+          {"name": "Customer Acquisition Cost (CAC) Calculation", "focus": "CAC = Total Sales & Marketing Spend / Customers Acquired, and attribution challenges."},
+          {"name": "LTV:CAC Ratio Benchmarks", "focus": "3:1 standard, meaning of < 3:1 (inefficient growth) vs > 5:1 (underinvesting in growth)."},
+          {"name": "CAC Payback Period & Cash Flow", "focus": "Payback Period = CAC / (ARPU * Gross Margin), impact on working capital runway."}
+        ]
+      },
+      {
+        "name": "Churn & Retention Dynamics",
+        "subtopics": [
+          {"name": "Customer Churn vs Revenue Churn", "focus": "Logo churn (number of customers) vs Gross Revenue Churn (lost ARR/MRR)."},
+          {"name": "Net Revenue Retention (NRR) Formula", "focus": "NRR = (Starting ARR + Expansion + Upgrades - Churn - Contraction) / Starting ARR."},
+          {"name": "Gross Revenue Retention (GRR)", "focus": "GRR = (Starting ARR - Churn - Contraction) / Starting ARR, capped at 100%."},
+          {"name": "Net Negative Churn Mechanics", "focus": "When expansion revenue from existing customers exceeds lost revenue from churned customers."}
+        ]
+      },
+      {
+        "name": "North Star & Product Metrics",
+        "subtopics": [
+          {"name": "North Star Metric (NSM) Definition", "focus": "The single metric that best captures the core value product delivers to customers."},
+          {"name": "Input vs Output Metrics", "focus": "Output metrics (revenue, churn) are lagging; input metrics (active users, actions) are leading."},
+          {"name": "Proxy Metrics for Engagement", "focus": "DAU/MAU ratio, session duration, and feature adoption rates as leading indicators."},
+          {"name": "Aligning Metrics with Strategy", "focus": "How a company aligns product telemetry with company-wide strategic OKRs."}
+        ]
+      },
+      {
+        "name": "Cohort Analysis",
+        "subtopics": [
+          {"name": "Cohort Analysis Methodology", "focus": "Grouping users by acquisition date (vintage) and tracking behavior over time."},
+          {"name": "Retention Curves & Asymptotes", "focus": "Visualizing retention decay, locating the retention plateau to confirm PMF."},
+          {"name": "Smile Curves & Re-engagement", "focus": "U-shaped retention curves indicating successful reactivation and network effects."},
+          {"name": "Cohort-based Revenue Projection", "focus": "Predicting future cash flow based on vintage retention characteristics."}
+        ]
+      },
+      {
+        "name": "SaaS Growth & Efficiency",
+        "subtopics": [
+          {"name": "The Rule of 40 (Growth + Profit)", "focus": "YoY Growth Rate + EBITDA Margin >= 40% for healthy, efficient scale-ups."},
+          {"name": "Burn Multiple & Capital Efficiency", "focus": "Burn Multiple = Net Burn / Net New ARR, assessing capital efficiency."},
+          {"name": "LTV:CAC Payback Optimization", "focus": "Strategies to reduce CAC (SEO, virality) or increase LTV (pricing power, expansion)."},
+          {"name": "SaaS Magic Number (Sales Efficiency)", "focus": "Magic Number = (Quarterly Net New ARR * 4) / Previous Quarter S&M Expense."}
+        ]
+      },
+      {
+        "name": "ARPU & Expansion Revenue",
+        "subtopics": [
+          {"name": "Average Revenue Per User (ARPU)", "focus": "ARPU = Total Revenue / Total Active Users, ARPU variations by segment."},
+          {"name": "Expansion Revenue: Upselling & Cross-selling", "focus": "Driving additional revenue from existing customers via premium features or seats."},
+          {"name": "Seat-based vs Usage-based Expansion", "focus": "Comparing flat subscription seats vs pay-as-you-go consumption scaling."},
+          {"name": "Tiered Pricing Strategies", "focus": "Designing Good/Better/Best tiers, aligning value metrics with customer segments."}
+        ]
+      },
+      {
+        "name": "SaaS Margin Economics",
+        "subtopics": [
+          {"name": "Gross Margin & COGS in Software", "focus": "Hosting costs, customer support, third-party APIs, and standard SaaS benchmarks (80%+)."},
+          {"name": "Contribution Margin vs Gross Margin", "focus": "Revenue minus variable costs, mapping product-line profitability."},
+          {"name": "Operating Margin & EBITDA", "focus": "Operating profit after R&D, S&M, G&A; path to profitability."},
+          {"name": "Scale and Gross Margin Improvements", "focus": "Infrastructure optimization, self-service support, and economies of scale."}
+        ]
+      },
+      {
+        "name": "Financial Forecasting Metrics",
+        "subtopics": [
+          {"name": "ARR and MRR Calculations", "focus": "Annualized Recurring Revenue, Monthly Recurring Revenue, excluding one-time fees."},
+          {"name": "Billings vs Bookings vs Revenue", "focus": "Bookings (contract value), Billings (cash invoiced), Revenue (recognized over time)."},
+          {"name": "Deferred Revenue & GAAP Accounting", "focus": "Liability on balance sheet representing cash received for services not yet delivered."},
+          {"name": "Churn and ARR Bridge Analysis", "focus": "Visualizing ARR growth components: New, Expansion, Churn, Contraction."}
+        ]
+      },
+      {
+        "name": "Customer Satisfaction Metrics",
+        "subtopics": [
+          {"name": "Net Promoter Score (NPS) Mechanics", "focus": "NPS = % Promoters (9-10) - % Detractors (0-6), and strategic usage."},
+          {"name": "Customer Effort Score (CES)", "focus": "Ease of service interaction, correlation with customer loyalty and churn."},
+          {"name": "Customer Health Score Modeling", "focus": "Combining usage logs, support tickets, and NPS to predict churn risk."},
+          {"name": "Customer Satisfaction (CSAT) vs Retention", "focus": "Transactional satisfaction survey vs long-term contractual retention."}
+        ]
+      },
+      {
+        "name": "Funnel & Traffic Metrics",
+        "subtopics": [
+          {"name": "Conversion Rate Optimization (CRO)", "focus": "Funnel drops, A/B testing checkout pages, and friction reduction."},
+          {"name": "Bounce Rate & CTR Optimization", "focus": "Ad click-through rate, landing page relevance, and user intent match."},
+          {"name": "CAC by Channel (Paid vs Organic)", "focus": "Comparing SEO/content GTM efficiency vs PPC/ads search engine marketing."},
+          {"name": "Viral Coefficient (K-factor)", "focus": "K = Number of invites sent * conversion rate, virality growth loop threshold (K > 1)."}
+        ]
+      }
+    ]
+  },
+  {
+    "deck": "06_Business_and_Productivity::Business::MBA_Operations::04_Product_Management_and_OKRs",
+    "modules": [
+      {
+        "name": "OKR Framework",
+        "subtopics": [
+          {"name": "OKR History (Grove & Doerr)", "focus": "MBO evolution, Intel's execution style, John Doerr bringing OKRs to Google."},
+          {"name": "Objectives vs Key Results", "focus": "Qualitative, inspiring Objectives vs quantitative, measurable Key Results."},
+          {"name": "OKR Grading & Execution Cycles", "focus": "0.0 to 1.0 scoring, quarterly check-in rhythms, and grading transparency."},
+          {"name": "Committed vs Aspirational OKRs", "focus": "Predictable 100% goals vs high-risk, high-impact 70% stretch goals."}
+        ]
+      },
+      {
+        "name": "Agile & Scrum",
+        "subtopics": [
+          {"name": "Scrum Roles (PO, SM, Dev)", "focus": "Product Owner priorities, Scrum Master facilitation, Dev Team self-organization."},
+          {"name": "Sprint Ceremonies & Rhythm", "focus": "Planning, Standups, Review (Demo), and Retrospective feedback loop."},
+          {"name": "Product Backlog Grooming & Story Points", "focus": "User stories, estimating effort using Fibonacci sequences, prioritizing backlogs."},
+          {"name": "Agile Velocity & Burn-down Charts", "focus": "Tracking team velocity, projecting release dates, and sprint health visualization."}
+        ]
+      },
+      {
+        "name": "Product-Market Fit (PMF)",
+        "subtopics": [
+          {"name": "Sean Ellis Test (40% Rule)", "focus": "Surveying users: 'How disappointed would you be if product disappeared?' Target >= 40% very disappointed."},
+          {"name": "PMF Surveying & Qualitative Feedback", "focus": "Combining user survey data with usage logs to identify product value hook."},
+          {"name": "PMF Indicators: Retention Plateau", "focus": "Flat cohort retention curve over time as the absolute signal of product-market fit."},
+          {"name": "MVP Iterations & Pivots", "focus": "Validating hypotheses, lean startup cycles, and changing strategy without changing vision."}
+        ]
+      },
+      {
+        "name": "Product Prioritization",
+        "subtopics": [
+          {"name": "RICE Prioritization Framework", "focus": "RICE Score = (Reach * Impact * Confidence) / Effort, removing personal bias."},
+          {"name": "MoSCoW Prioritization Technique", "focus": "Must have, Should have, Could have, Won't have (for this release cycle)."},
+          {"name": "Kano Model: Delighters vs Basics", "focus": "Classifying features into Basic, Performance, and Excitement/Delighters attributes."},
+          {"name": "User Story Mapping & Roadmaps", "focus": "Mapping user journey tasks, dividing into release slices, and roadmap communication."}
+        ]
+      },
+      {
+        "name": "Growth Hacking & AARRR",
+        "subtopics": [
+          {"name": "Acquisition & Activation Tactics", "focus": "First-user experience (Aha! moment), signup friction reduction, and channel fit."},
+          {"name": "Retention: Habit Formation Loops", "focus": "Hook model: Trigger, Action, Variable Reward, Investment, driving LTV."},
+          {"name": "Referral: Viral Loops & Incentives", "focus": "Double-sided referrals (e.g. Dropbox free space), organic share loops."},
+          {"name": "Revenue Optimization: Pricing & Upgrades", "focus": "Paywall positioning, purchase path optimization, and payment friction removal."}
+        ]
+      },
+      {
+        "name": "Operational Scale & Leverage",
+        "subtopics": [
+          {"name": "Fixed vs Variable Cost Leverage", "focus": "Building operational leverage by keeping variable costs low relative to sales growth."},
+          {"name": "Scaling Processes via Automation", "focus": "Automating workflows, reducing manual operations, and process optimization."},
+          {"name": "Outsourcing vs In-sourcing Framework", "focus": "Core vs non-core activities, cost analysis, and strategic risk management."},
+          {"name": "Headcount Scaling vs Output Scaling", "focus": "S-curves in headcount growth, maintaining efficiency and avoiding bloated payrolls."}
+        ]
+      },
+      {
+        "name": "DevOps & Delivery Operations",
+        "subtopics": [
+          {"name": "Continuous Integration/Deployment (CI/CD)", "focus": "Automating software build, test, and release pipeline, trunk-based development."},
+          {"name": "DORA Metrics", "focus": "Deployment Frequency, Lead Time for Changes, Mean Time to Recovery, Change Failure Rate."},
+          {"name": "Infrastructure as Code & Systems", "focus": "Version controlling infrastructure, automated server configuration, and immutability."},
+          {"name": "SRE Principles & Error Budgets", "focus": "Site Reliability Engineering, error budgets, balancing velocity with platform stability."}
+        ]
+      },
+      {
+        "name": "Change Management & Conway's Law",
+        "subtopics": [
+          {"name": "Conway's Law", "focus": "Software architecture mirrors the communication structure of the organization."},
+          {"name": "Psychological Safety & High-Performing Teams", "focus": "Google's Project Aristotle findings, vulnerability, and team collaboration."},
+          {"name": "Matrix Organizations vs Cross-functional", "focus": "Functional reporting vs product squads, advantages and coordination costs."},
+          {"name": "Kotter's 8-Step Change Model", "focus": "Urgency, coalition, vision, communication, empowering action, short-term wins, sustaining growth."}
+        ]
+      },
+      {
+        "name": "Design Thinking",
+        "subtopics": [
+          {"name": "Empathy Mapping & User Journeys", "focus": "Say/Think/Do/Feel grid, documenting user touchpoints, and friction mapping."},
+          {"name": "Double Diamond Process", "focus": "Discover and Define (divergence/convergence) -> Develop and Deliver (divergence/convergence)."},
+          {"name": "Usability Testing Methods", "focus": "Think-aloud protocols, task completion rates, and cognitive walkthroughs."},
+          {"name": "Prototype-led Ideation", "focus": "Low-fidelity wireframes vs high-fidelity mockups, rapid prototyping cycles."}
+        ]
+      },
+      {
+        "name": "Incident Management",
+        "subtopics": [
+          {"name": "Blameless Postmortems & Retrospectives", "focus": "Focusing on systemic fixes rather than human error, learning from failures."},
+          {"name": "Five Whys Root Cause Analysis", "focus": "Iterative interrogation to find the systemic flaw, corrective action plans."},
+          {"name": "SLAs, SLOs, and Error Budgets", "focus": "Service Level Agreement (legal contract) vs Service Level Objective (internal target)."},
+          {"name": "Escalation Paths & On-Call Rotation", "focus": "PagerDuty rotations, runbooks, and incident commander roles."}
+        ]
+      }
+    ]
+  },
+  {
+    "deck": "06_Business_and_Productivity::Business::MBA_Finance::05_Corporate_Finance_and_Valuation",
+    "modules": [
+      {
+        "name": "Financial Statements Interlinking",
+        "subtopics": [
+          {"name": "Income Statement: Revenue to Net Income", "focus": "COGS, Gross Profit, Operating Expenses (OpEx), Operating Income (EBIT), Taxes, Net Income."},
+          {"name": "Balance Sheet: Assets, Liabilities, Equity", "focus": "Current vs non-current assets/liabilities, working capital, shareholder equity, Accounting Equation (A = L + SE)."},
+          {"name": "Cash Flow Statement: Operating, Investing, Financing", "focus": "Indirect method: Net Income to Cash from Operations, CapEx in investing, debt/equity in financing."},
+          {"name": "Dynamic Links Across Three Statements", "focus": "Net Income feeds retained earnings; CapEx feeds PP&E and cash flow; debt issuance feeds cash and liabilities."}
+        ]
+      },
+      {
+        "name": "Cash Flow Mechanics",
+        "subtopics": [
+          {"name": "Free Cash Flow to Firm (FCFF)", "focus": "FCFF = EBIT * (1 - Tax Rate) + D&A - CapEx - Change in Working Capital, firm valuation base."},
+          {"name": "Free Cash Flow to Equity (FCFE)", "focus": "FCFE = Cash from Operations - CapEx + Net Borrowing, equity valuation base."},
+          {"name": "Operating Cash Flow vs EBITDA", "focus": "EBITDA ignores cash tax, cash interest, and changes in working capital; cash flow includes them."},
+          {"name": "Capital Expenditures (CapEx) & Depreciation", "focus": "Maintenance vs growth CapEx, tax depreciation vs book depreciation."}
+        ]
+      },
+      {
+        "name": "Valuation Methodologies",
+        "subtopics": [
+          {"name": "Discounted Cash Flow (DCF)", "focus": "Projecting cash flows, discounting using WACC, calculating terminal value."},
+          {"name": "Comparable Companies Analysis (Comps)", "focus": "Selecting peer group, calculating EV/EBITDA, EV/Sales, P/E multiples, applying discount/premium."},
+          {"name": "Precedent Transactions Analysis", "focus": "Analyzing historical M&A deals, tracking control premiums, transaction multiples."},
+          {"name": "Terminal Value Calculations", "focus": "Gordon Growth Method vs Exit Multiple Method, sensitivity tables."}
+        ]
+      },
+      {
+        "name": "EBITDA & Operating Metrics",
+        "subtopics": [
+          {"name": "EBITDA Definition & Rationale", "focus": "Proxy for operating profitability, eliminating capital structure, tax, and non-cash accounting differences."},
+          {"name": "EBITDA Margin Analysis", "focus": "EBITDA / Revenue, comparative analysis of operating efficiency across competitors."},
+          {"name": "EBITDA-to-FCF Reconciliation", "focus": "Converting accounting accrual proxy EBITDA into actual cash flow."},
+          {"name": "Adjusted EBITDA & Non-GAAP Metrics", "focus": "Stripping out stock-based compensation, restructuring charges, and one-off costs."}
+        ]
+      },
+      {
+        "name": "Capital Budgeting",
+        "subtopics": [
+          {"name": "Net Present Value (NPV) Decision Rule", "focus": "Discounting cash inflows and outflows, NPV > 0 rule, NPV profile."},
+          {"name": "Internal Rate of Return (IRR) Calculations", "focus": "The discount rate where NPV = 0, multiple IRR problem, comparing IRR to Hurdle Rate."},
+          {"name": "Payback Period & Discounted Payback", "focus": "Time to recover initial investment, drawbacks of ignoring cash flows after payback."},
+          {"name": "Hurdle Rate & Capital Allocation", "focus": "Determining minimum acceptable return, capital rationing, and portfolio prioritization."}
+        ]
+      },
+      {
+        "name": "Capital Structure",
+        "subtopics": [
+          {"name": "Cost of Debt & After-Tax Cost", "focus": "Yield to maturity on debt, tax shield benefits, after-tax cost formula: Rd * (1 - T)."},
+          {"name": "CAPM for Cost of Equity", "focus": "CAPM: Re = Rf + Beta * (Rm - Rf), risk-free rate, beta coefficient, market risk premium."},
+          {"name": "Weighted Average Cost of Capital (WACC)", "focus": "WACC = (E/V * Re) + (D/V * Rd * (1 - T)), calculating optimal cost of capital."},
+          {"name": "Debt vs Equity Financing Tradeoffs", "focus": "Bankruptcy costs, agency costs, financial leverage benefits, dilution tradeoffs."}
+        ]
+      },
+      {
+        "name": "Working Capital Management",
+        "subtopics": [
+          {"name": "Days Sales Outstanding (DSO)", "focus": "DSO = (Accounts Receivable / Credit Sales) * 365, managing collections efficiency."},
+          {"name": "Days Payable Outstanding (DPO)", "focus": "DPO = (Accounts Payable / Cost of Goods Sold) * 365, stretching payables without damaging vendor relations."},
+          {"name": "Days Inventory Outstanding (DIO)", "focus": "DIO = (Average Inventory / COGS) * 365, inventory turnover, warehouse costs."},
+          {"name": "Cash Conversion Cycle (CCC)", "focus": "CCC = DIO + DSO - DPO, calculating net cash cycle efficiency."}
+        ]
+      },
+      {
+        "name": "VC Term Sheets",
+        "subtopics": [
+          {"name": "Pre-money vs Post-money Valuation", "focus": "Post-money = Pre-money + Investment, share price = Pre-money / Pre-money shares."},
+          {"name": "Dilution & Option Pool Shuffle", "focus": "New shares issued, dilution formula, employee option pool creation impact."},
+          {"name": "Liquidation Preferences", "focus": "Participating (double dip) vs non-participating, liquidation multiples, exit waterfalls."},
+          {"name": "Vesting Schedules & Acceleration Clauses", "focus": "4-year vesting, 1-year cliff, single-trigger vs double-trigger acceleration upon acquisition."}
+        ]
+      },
+      {
+        "name": "Auditing & Controls",
+        "subtopics": [
+          {"name": "Sarbanes-Oxley (SOX) Compliance", "focus": "Section 404 audit, executive accountability, internal controls validation, penalties."},
+          {"name": "Internal Controls & Segregation of Duties", "focus": "Authorization, recording, custody separation, preventing fraud, audit trails."},
+          {"name": "Revenue Recognition (ASC 606)", "focus": "Five-step model: identify contract, performance obligations, transaction price, allocation, recognized timing."},
+          {"name": "Audit Committee Role", "focus": "Independent board members, oversight of external auditors, internal audit reporting."}
+        ]
+      },
+      {
+        "name": "Public Markets & IPOs",
+        "subtopics": [
+          {"name": "S-1 Registration Statement", "focus": "Prospectus, business description, risk factors, financial disclosures, registration with SEC."},
+          {"name": "Underwriting Process & Roadshow", "focus": "Bookbuilding, underwriter spread, pricing meetings, institutional investor pitch."},
+          {"name": "Direct Listings vs SPACs vs IPOs", "focus": "Comparing traditional IPO, direct listing (no new capital, no lockup), and SPAC mergers."},
+          {"name": "Quiet Period & Lock-up Period", "focus": "SEC quiet period regulations, lock-up agreements (usually 180 days) for insiders."}
+        ]
+      }
+    ]
+  },
+  {
+    "deck": "06_Business_and_Productivity::Business::MBA_Sales::06_B2B_Sales_and_Go_To_Market",
+    "modules": [
+      {
+        "name": "GTM Strategy & Distribution",
+        "subtopics": [
+          {"name": "Direct vs Indirect Sales Channels", "focus": "In-house sales representatives vs distributors, value-added resellers (VARs), and brokers."},
+          {"name": "Channel Partnerships & Distribution", "focus": "Co-selling, referral fees, channel conflict management, distributor margin allocation."},
+          {"name": "Product-Led Growth (PLG) Strategy", "focus": "Self-service signups, product usage as user acquisition driver, freemium conversion loops."},
+          {"name": "Sales-Led Growth (SLG) Strategy", "focus": "Enterprise outbound sales, account executives, high contract values (ACV), multi-level buyer mapping."}
+        ]
+      },
+      {
+        "name": "Sales Funnel Mechanics",
+        "subtopics": [
+          {"name": "Lead Generation & MQL Criteria", "focus": "Marketing Qualified Lead, demographic scoring, intent data, and lead handoff to sales."},
+          {"name": "Sales Qualified Lead (SQL) & BANT", "focus": "SQL qualification criteria, BANT (Budget, Authority, Need, Timeline) framework."},
+          {"name": "Pipeline Coverage Ratio", "focus": "Pipeline Value / Quota Target, win-rate multiplier, standard 3x-4x ratio."},
+          {"name": "Sales Velocity Equation", "focus": "Velocity = (Opportunities * Win Rate * Deal Size) / Cycle Time, leverage points."}
+        ]
+      },
+      {
+        "name": "MEDDPICC Qualification Framework",
+        "subtopics": [
+          {"name": "Metrics & Economic Buyer", "focus": "Identifying ROI numbers needed, mapping and access to the ultimate decision-maker."},
+          {"name": "Decision Criteria & Decision Process", "focus": "Technical/commercial criteria, steps to reach contract approval, purchasing committees."},
+          {"name": "Paper Process & Identify Pain", "focus": "Legal review, security forms, master services agreement (MSA), quantifying cost of inaction (COI)."},
+          {"name": "Champion & Competition Analysis", "focus": "Cultivating internal advocates, identifying rival solutions, mapping strengths/weaknesses."}
+        ]
+      },
+      {
+        "name": "SPIN Selling Framework",
+        "subtopics": [
+          {"name": "Situation & Problem Questions", "focus": "Gathering background facts, identifying prospect's difficulties, challenges, or dissatisfactions."},
+          {"name": "Implication Questions (Building Pain)", "focus": "Linking problems to their financial/operational consequences, raising urgency."},
+          {"name": "Need-payoff Questions (Value Confirmation)", "focus": "Getting customer to describe the value of a solution, active recall of benefits."},
+          {"name": "SPIN in Enterprise Sales", "focus": "Avoiding premature solutions, managing large contracts, building trust with senior buyers."}
+        ]
+      },
+      {
+        "name": "Value Selling & ROI",
+        "subtopics": [
+          {"name": "Return on Investment (ROI) Modeling", "focus": "Calculating cost savings, efficiency gains, and payback time, build ROI calculator."},
+          {"name": "Total Cost of Ownership (TCO) Comparison", "focus": "Acquisition cost + implementation + support + training vs competitor solutions."},
+          {"name": "Selling Value vs Selling Features", "focus": "Translating product features into business benefits (revenue increase, risk mitigation, cost reduction)."},
+          {"name": "Business Case Creation for Executives", "focus": "Writing executive summaries, aligning solution with strategic executive goals."}
+        ]
+      },
+      {
+        "name": "Sales Compensation",
+        "subtopics": [
+          {"name": "Quota Setting & Attainment", "focus": "Top-down vs bottom-up quotas, territory planning, average attainment rates (50-60% target)."},
+          {"name": "On-Target Earnings (OTE) & Base-to-Variable", "focus": "Fixed salary vs commission variable split (e.g. 50/50 OTE), market rate comparisons."},
+          {"name": "Accelerators, Decelerators, & Caps", "focus": "Commission multipliers for exceeding 100% quota, penalty rates, and commission caps."},
+          {"name": "Clawbacks & Deal Governance", "focus": "Reclaiming commission if customer churns early, deal review boards, contract compliance."}
+        ]
+      },
+      {
+        "name": "Enterprise Negotiation",
+        "subtopics": [
+          {"name": "BATNA (Best Alternative to a Negotiated Agreement)", "focus": "Determining walkaway point, evaluating alternatives, improving leverage."},
+          {"name": "ZOPA (Zone of Possible Agreement)", "focus": "Seller's reservation price vs buyer's ceiling, bargaining range optimization."},
+          {"name": "Concession Management", "focus": "Trading concessions (value-for-value), documenting agreements, avoiding unreciprocated discounts."},
+          {"name": "Procurement and Legal Hurdles", "focus": "Redlines in agreements, liability limits, indemnification, payment terms negotiation."}
+        ]
+      },
+      {
+        "name": "Sales Enablement",
+        "subtopics": [
+          {"name": "Sales Playbooks & Collateral Strategy", "focus": "Standardizing objection handling, product pitching scripts, buyer persona guides."},
+          {"name": "Training & Onboarding Acceleration", "focus": "Time-to-first-deal reduction, product certification for sales hires, roleplay loops."},
+          {"name": "Sales Tech Stack Optimization", "focus": "CRM (Salesforce/HubSpot), outbound sequences, intelligence tools, data enrichment."},
+          {"name": "Competitive Intelligence Briefs", "focus": "Battlecards, feature comparisons, pricing updates, competitor weaknesses mapping."}
+        ]
+      },
+      {
+        "name": "Customer Success & Account Management",
+        "subtopics": [
+          {"name": "Account Management & Expansion", "focus": "Identifying cross-sell opportunities, renewal timelines, account planning."},
+          {"name": "Quarterly Business Reviews (QBRs)", "focus": "Confirming ROI delivered, sharing product roadmaps, aligning future goals with client executives."},
+          {"name": "Customer Health Score & Renewal Risk", "focus": "Red/Yellow/Green health status tracking, proactively managing risk accounts."},
+          {"name": "Time to Value (TTV) Optimization", "focus": "Speeding onboarding, training cycles, reducing client time to first value hook."}
+        ]
+      },
+      {
+        "name": "Pricing Strategies",
+        "subtopics": [
+          {"name": "Value-based Pricing vs Cost-plus Pricing", "focus": "Pricing based on customer willingness to pay / value created vs production cost markup."},
+          {"name": "Price Elasticity of Demand", "focus": "Calculating % change in volume / % change in price, revenue impact of price adjustments."},
+          {"name": "Tiered Packaging & Feature Gating", "focus": "Fencing off advanced features (SSO, audit logs) for enterprise tier, basic tier limits."},
+          {"name": "Discounting Policies & Approval Thresholds", "focus": "AE discount limits (10%), VP approvals (>20%), preserving gross margin."}
+        ]
+      }
+    ]
+  }
+]

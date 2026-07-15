@@ -165,5 +165,84 @@
       "compute",
       "math"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
+    "scenario": "Math & Physics 📐 (Rotary Position Embeddings (RoPE))",
+    "text": "Ecuación para {{c1::Rotary Position Embeddings (RoPE)}}: \\[R_{\\Theta, m}^d = \\text{diag}\\left( R_{\\theta_1, m}, R_{\\theta_2, m}, \\dots, R_{\\theta_{d/2}, m} \\right) \\quad \\text{where} \\quad R_{\\theta_i, m} = \\begin{pmatrix} \\cos m\\theta_i & -\\sin m\\theta_i \\\\ \\sin m\\theta_i & \\cos m\\theta_i \\end{pmatrix}\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(m\\): Token position index in the sequence.</li><li>\\(\\theta_i = 10000^{-2(i-1)/d}\\): Rotary base frequency for dimension component \\(i\\).</li><li>\\(d\\): Total vector dimension.</li><li>\\(R_{\\theta_i, m}\\): 2D orthogonal rotation matrix applied to components of query and key vectors.</li></ul>",
+    "usage": "Formula: \\[R_{\\Theta, m}^d = \\text{diag}\\left( R_{\\theta_1, m}, R_{\\theta_2, m}, \\dots, R_{\\theta_{d/2}, m} \\right) \\quad \\text{where} \\quad R_{\\theta_i, m} = \\begin{pmatrix} \\cos m\\theta_i & -\\sin m\\theta_i \\\\ \\sin m\\theta_i & \\cos m\\theta_i \\end{pmatrix}\\]",
+    "spanish": "Fórmula de Rotary Position Embeddings (RoPE)",
+    "tags": [
+      "ai",
+      "llm",
+      "transformers",
+      "rope",
+      "embeddings",
+      "math"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
+    "scenario": "Math & Physics 📐 (Root Mean Square Normalization (RMSNorm))",
+    "text": "Ecuación para {{c1::Root Mean Square Normalization (RMSNorm)}}: \\[\\text{RMSNorm}(x) = \\frac{x}{\\sqrt{\\frac{1}{d} \\sum_{i=1}^d x_i^2 + \\epsilon}} \\odot \\gamma\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(x\\): Input activation vector.</li><li>\\(d\\): Dimension of the activation vector.</li><li>\\(\\epsilon\\): Numerical stability offset.</li><li>\\(\\gamma\\): Learnable scale parameter vector (initialized to 1).</li><li>\\(\\odot\\): Hadamard (element-wise) product.</li></ul>",
+    "usage": "Formula: \\[\\text{RMSNorm}(x) = \\frac{x}{\\sqrt{\\frac{1}{d} \\sum_{i=1}^d x_i^2 + \\epsilon}} \\odot \\gamma\\]",
+    "spanish": "Fórmula de Root Mean Square Normalization (RMSNorm)",
+    "tags": [
+      "ai",
+      "llm",
+      "transformers",
+      "rmsnorm",
+      "normalization",
+      "math"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
+    "scenario": "Active Recall Quiz 🎯",
+    "text": "<b>Pregunta:</b> Why does Pre-Layer Normalization (Pre-LN) stabilize training of extremely deep Transformers compared to Post-Layer Normalization (Post-LN)?<br>Opciones:<ul><li>A) Pre-LN normalizes inputs to residual branches, preventing gradient bounds from exploding as depth increases, allowing training without warm-up</li><li>B) Pre-LN scales down learning rates automatically using Adam optimizer momentum updates</li><li>C) Post-LN forces activations to zero, causing vanishing gradients in initial layers</li><li>D) Pre-LN dynamically shifts weights from float32 to float16 during backward passes</li></ul><br>Respuesta correcta: {{c1::A) Pre-LN normalizes inputs to residual branches, preventing gradient bounds from exploding as depth increases, allowing training without warm-up}}",
+    "explanation": "Justificación: In Post-LN, layer normalization is placed after the residual addition ($x_{l+1} = \\text{LN}(x_l + F(x_l))$), causing gradient magnitudes to grow exponentially with depth. In Pre-LN ($x_{l+1} = x_l + F(\\text{LN}(x_l))$), gradients flow directly through identity residual connections, stabilizing training for deep models.",
+    "usage": "Quiz assertion: A) Pre-LN normalizes inputs to residual branches, preventing gradient bounds from exploding as depth increases, allowing training without warm-up",
+    "spanish": "Quiz: Why does Pre-Layer Normalization (Pre-LN) stabilize training of extremely deep Transformers compared to Post-Layer Normalization (Post-LN)?",
+    "tags": [
+      "ai",
+      "llm",
+      "transformers",
+      "normalization",
+      "training"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
+    "scenario": "Math & Physics 📐 (DeepSeek-V3 MLA Low-Rank Key-Value Compression)",
+    "text": "Ecuación para {{c1::DeepSeek-V3 MLA Low-Rank Key-Value Compression}}: \\[d_c \\ll d \\quad \\text{and} \\quad c_t = W^{DKV} h_t\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(h_t\\): Hidden state vector at step \\(t\\).</li><li>\\(c_t\\): Low-rank compressed latent key-value representation vector of size \\(d_c\\).</li><li>\\(W^{DKV}\\): Down-projection matrix mapping \\(d\\)-dim hidden state to \\(d_c\\)-dim.</li><li>\\(d_c\\): Latent compression dimension (MLA uses \\(d_c = 512\\), significantly compressing key-value cache size).</li></ul>",
+    "usage": "Formula: \\[d_c \\ll d \\quad \\text{and} \\quad c_t = W^{DKV} h_t\\]",
+    "spanish": "Fórmula de DeepSeek-V3 MLA Low-Rank Key-Value Compression",
+    "tags": [
+      "ai",
+      "llm",
+      "transformers",
+      "deepseek",
+      "mla",
+      "kv_cache",
+      "math"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::02_LLM_Foundations::02_LLM_Foundations",
+    "scenario": "Dual-Coding Diagram 📊 (Ring Attention Context Distribution)",
+    "text": "¿Cómo funciona la estructura de {{c1::Ring Attention Context Distribution}} en el sistema?",
+    "explanation": "Ring Attention divides sequence lengths into blocks across GPU workers. While query blocks are held locally, key/value blocks are shifted in a circular ring path across GPUs to compute multi-head attention without memory aggregation bottlenecks.<br><br><div class=\"mermaid\">\ngraph LR\n    GPU0[\"GPU 0<br>(Blocks Q0, K0, V0)\"] -- \"Send Keys/Values\" --> GPU1[\"GPU 1<br>(Blocks Q1, K1, V1)\"]\n    GPU1 -- \"Send Keys/Values\" --> GPU2[\"GPU 2<br>(Blocks Q2, K2, V2)\"]\n    GPU2 -- \"Send Keys/Values\" --> GPU0\n</div>",
+    "usage": "Visual model for <code>Ring Attention Context Distribution</code>.<br>Graph: <div class=\"mermaid\">\ngraph LR\n    GPU0[\"GPU 0<br>(Blocks Q0, K0, V0)\"] -- \"Send Keys/Values\" --> GPU1[\"GPU 1<br>(Blocks Q1, K1, V1)\"]\n    GPU1 -- \"Send Keys/Values\" --> GPU2[\"GPU 2<br>(Blocks Q2, K2, V2)\"]\n    GPU2 -- \"Send Keys/Values\" --> GPU0\n</div>",
+    "spanish": "Ring Attention divide la longitud de secuencia en bloques entre GPUs. Las consultas se guardan localmente, mientras que las claves/valores rotan en anillo circular entre GPUs para calcular atención sin cuellos de botella de memoria.",
+    "tags": [
+      "ai",
+      "llm",
+      "ring_attention",
+      "distributed_training",
+      "architecture"
+    ]
   }
 ]

@@ -166,5 +166,21 @@
       "math",
       "optimization"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::01_Statistical_ML_Foundations::01_Statistical_ML_Foundations",
+    "scenario": "Math & Physics 📐 (VC Dimension Sample Complexity Bound)",
+    "text": "Ecuación para {{c1::VC Dimension Sample Complexity Bound}}: \\[m \\ge C \\left( \\frac{d + \\log(1/\\delta)}{\\epsilon^2} \\right)\\]",
+    "explanation": "Desglose de variables: <ul><li>\\(m\\): The sample size required to guarantee PAC (Probably Approximately Correct) learning.</li><li>\\(d\\): The Vapnik-Chervonenkis (VC) dimension of the hypothesis class, representing its capacity.</li><li>\\(\\delta\\): The confidence parameter (generalization failure probability is at most \\(\\delta\\)).</li><li>\\(\\epsilon\\): The generalization error tolerance.</li><li>\\(C\\): A universal constant.</li></ul>",
+    "usage": "Formula: \\[m \\ge C \\left( \\frac{d + \\log(1/\\delta)}{\\epsilon^2} \\right)\\]",
+    "spanish": "Fórmula de VC Dimension Sample Complexity Bound",
+    "tags": [
+      "ai",
+      "ml",
+      "statistics",
+      "pac_learning",
+      "math",
+      "complexity"
+    ]
   }
 ]

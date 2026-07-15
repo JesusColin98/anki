@@ -76,5 +76,35 @@
       "mlops",
       "deployment"
     ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
+    "scenario": "Active Recall Quiz 🎯",
+    "text": "<b>Pregunta:</b> Which storage engine does Vertex AI Feature Store use to achieve sub-millisecond p99 latencies for online feature serving?<br>Opciones:<ul><li>A) Bigtable (for low latency online feature serving)</li><li>B) BigQuery (for historical analytical lookups)</li><li>C) Cloud Storage (for batch pipeline reads)</li><li>D) Cloud SQL (for relational feature constraints)</li></ul><br>Respuesta correcta: {{c1::A) Bigtable (for low latency online feature serving)}}",
+    "explanation": "Justificación: Vertex AI Feature Store leverages Cloud Bigtable as the backend engine for serving online features in real-time, caching feature views to support massive request-per-second (RPS) throughput with extremely low latency.",
+    "usage": "Quiz assertion: A) Bigtable (for low latency online feature serving)",
+    "spanish": "Quiz: Which storage engine does Vertex AI Feature Store use to achieve sub-millisecond p99 latencies for online feature serving?",
+    "tags": [
+      "ai",
+      "mlops",
+      "vertex_ai",
+      "feature_store",
+      "bigtable"
+    ]
+  },
+  {
+    "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_Experimentation_Data_Pipelines_and_Feature_Stores::15_Experimentation_Data_Pipelines_and_Feature_Stores",
+    "scenario": "Data Engineering: LSH Deduplication 🧹",
+    "text": "To deduplicate raw text at web scale for LLM pretraining, pipelines use MinHash to estimate Jaccard similarity and {{c1::Locality Sensitive Hashing (LSH)}} to group candidate pairs into buckets.",
+    "explanation": "MinHash estimates Jaccard similarity of n-grams between documents. Locality Sensitive Hashing (LSH) hashes these signatures into buckets, ensuring highly similar documents hash to the same bucket with high probability, reducing candidate comparison complexity.",
+    "usage": "Used in web-scale pre-processing pipelines (e.g., LLaMA, Pile) to filter billions of documents.",
+    "spanish": "Para eliminar duplicados de texto a escala web para preentrenamiento de LLM, los pipelines usan MinHash para estimar similitud de Jaccard y Locality Sensitive Hashing (LSH) para agrupar pares candidatos en buckets.",
+    "tags": [
+      "ai",
+      "llm",
+      "pretraining",
+      "deduplication",
+      "data_engineering"
+    ]
   }
 ]
