@@ -2,7 +2,7 @@
   {
     "id": "d90f203922a4b3dd",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/last%20night/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/last/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I went to sleep late {{c1::last night}}.",
-      "explanation": "<b>Written:</b> last night<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">las night</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'last night' pronounced as 'las night'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/last%20night/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/last/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I went to sleep late {{c1::last night}}.",
+      "explanation": "<b>Full transcript:</b> last night<br><br><b>Connected form:</b> <i>las night</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "anoche",
-      "usage": "Written: <code>last night</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">las night</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/last%20night/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/last/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>las night</code><br>Formal: <code>last night</code><br><a href=\"https://youglish.com/pronounce/last%20night/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/last/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d90f203922a4b3dd",
+      "full_transcript": "last night",
+      "connected_form": "las night",
+      "gap_text": "I went to sleep late {{c1::last night}}.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/last%20night/english/us",
         "forvo_word": "https://forvo.com/word/last/#en"
@@ -42,7 +50,7 @@
   {
     "id": "a50fdaffe7b79a86",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/next%20door/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/next/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He lives {{c1::next door}} to me.",
-      "explanation": "<b>Written:</b> next door<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">nex door</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'next door' pronounced as 'nex door'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/next%20door/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/next/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He lives {{c1::next door}} to me.",
+      "explanation": "<b>Full transcript:</b> next door<br><br><b>Connected form:</b> <i>nex door</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "al lado",
-      "usage": "Written: <code>next door</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">nex door</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/next%20door/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/next/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>nex door</code><br>Formal: <code>next door</code><br><a href=\"https://youglish.com/pronounce/next%20door/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/next/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a50fdaffe7b79a86",
+      "full_transcript": "next door",
+      "connected_form": "nex door",
+      "gap_text": "He lives {{c1::next door}} to me.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/next%20door/english/us",
         "forvo_word": "https://forvo.com/word/next/#en"
@@ -82,7 +98,7 @@
   {
     "id": "076cb8f6a7b6a36a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/must%20be/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/must/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That {{c1::must be}} the answer.",
-      "explanation": "<b>Written:</b> must be<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mus be</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'must be' pronounced as 'mus be'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/must%20be/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/must/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That {{c1::must be}} the answer.",
+      "explanation": "<b>Full transcript:</b> must be<br><br><b>Connected form:</b> <i>mus be</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "debe ser",
-      "usage": "Written: <code>must be</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mus be</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/must%20be/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/must/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mus be</code><br>Formal: <code>must be</code><br><a href=\"https://youglish.com/pronounce/must%20be/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/must/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "076cb8f6a7b6a36a",
+      "full_transcript": "must be",
+      "connected_form": "mus be",
+      "gap_text": "That {{c1::must be}} the answer.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/must%20be/english/us",
         "forvo_word": "https://forvo.com/word/must/#en"
@@ -122,7 +146,7 @@
   {
     "id": "3fac53c94bed1347",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/just%20one/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/just/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I only want {{c1::just one}} piece.",
-      "explanation": "<b>Written:</b> just one<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">jus one</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'just one' pronounced as 'jus one'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/just%20one/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/just/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I only want {{c1::just one}} piece.",
+      "explanation": "<b>Full transcript:</b> just one<br><br><b>Connected form:</b> <i>jus one</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "solo uno",
-      "usage": "Written: <code>just one</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">jus one</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/just%20one/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/just/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>jus one</code><br>Formal: <code>just one</code><br><a href=\"https://youglish.com/pronounce/just%20one/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/just/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "3fac53c94bed1347",
+      "full_transcript": "just one",
+      "connected_form": "jus one",
+      "gap_text": "I only want {{c1::just one}} piece.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/just%20one/english/us",
         "forvo_word": "https://forvo.com/word/just/#en"
@@ -162,7 +194,7 @@
   {
     "id": "efed593373183a60",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/best%20friend/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/best/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She is my {{c1::best friend}}.",
-      "explanation": "<b>Written:</b> best friend<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bes friend</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'best friend' pronounced as 'bes friend'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/best%20friend/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/best/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She is my {{c1::best friend}}.",
+      "explanation": "<b>Full transcript:</b> best friend<br><br><b>Connected form:</b> <i>bes friend</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "mejor amigo",
-      "usage": "Written: <code>best friend</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bes friend</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/best%20friend/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/best/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bes friend</code><br>Formal: <code>best friend</code><br><a href=\"https://youglish.com/pronounce/best%20friend/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/best/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "efed593373183a60",
+      "full_transcript": "best friend",
+      "connected_form": "bes friend",
+      "gap_text": "She is my {{c1::best friend}}.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/best%20friend/english/us",
         "forvo_word": "https://forvo.com/word/best/#en"
@@ -202,7 +242,7 @@
   {
     "id": "1572600beceaec93",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cold%20drink/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Would you like a {{c1::cold drink}}?",
-      "explanation": "<b>Written:</b> cold drink<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">col drink</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cold drink' pronounced as 'col drink'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cold%20drink/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Would you like a {{c1::cold drink}}?",
+      "explanation": "<b>Full transcript:</b> cold drink<br><br><b>Connected form:</b> <i>col drink</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "bebida fría",
-      "usage": "Written: <code>cold drink</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">col drink</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cold%20drink/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>col drink</code><br>Formal: <code>cold drink</code><br><a href=\"https://youglish.com/pronounce/cold%20drink/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1572600beceaec93",
+      "full_transcript": "cold drink",
+      "connected_form": "col drink",
+      "gap_text": "Would you like a {{c1::cold drink}}?",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cold%20drink/english/us",
         "forvo_word": "https://forvo.com/word/cold/#en"
@@ -242,7 +290,7 @@
   {
     "id": "a067422a441cc291",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/old%20man/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/old/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::old man}} walked slowly.",
-      "explanation": "<b>Written:</b> old man<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ol man</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'old man' pronounced as 'ol man'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/old%20man/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/old/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::old man}} walked slowly.",
+      "explanation": "<b>Full transcript:</b> old man<br><br><b>Connected form:</b> <i>ol man</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "hombre viejo",
-      "usage": "Written: <code>old man</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ol man</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/old%20man/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/old/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ol man</code><br>Formal: <code>old man</code><br><a href=\"https://youglish.com/pronounce/old%20man/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/old/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a067422a441cc291",
+      "full_transcript": "old man",
+      "connected_form": "ol man",
+      "gap_text": "The {{c1::old man}} walked slowly.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/old%20man/english/us",
         "forvo_word": "https://forvo.com/word/old/#en"
@@ -282,7 +338,7 @@
   {
     "id": "2ff27ee78a637691",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/first%20time/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/first/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is the {{c1::first time}} I've been here.",
-      "explanation": "<b>Written:</b> first time<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">firs time</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'first time' pronounced as 'firs time'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/first%20time/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/first/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is the {{c1::first time}} I've been here.",
+      "explanation": "<b>Full transcript:</b> first time<br><br><b>Connected form:</b> <i>firs time</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "primera vez",
-      "usage": "Written: <code>first time</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">firs time</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/first%20time/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/first/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>firs time</code><br>Formal: <code>first time</code><br><a href=\"https://youglish.com/pronounce/first%20time/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/first/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2ff27ee78a637691",
+      "full_transcript": "first time",
+      "connected_form": "firs time",
+      "gap_text": "This is the {{c1::first time}} I've been here.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/first%20time/english/us",
         "forvo_word": "https://forvo.com/word/first/#en"
@@ -322,7 +386,7 @@
   {
     "id": "ef65370e6d309b4e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/last%20time/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/last/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That was the {{c1::last time}} I saw him.",
-      "explanation": "<b>Written:</b> last time<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">las time</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'last time' pronounced as 'las time'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/last%20time/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/last/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That was the {{c1::last time}} I saw him.",
+      "explanation": "<b>Full transcript:</b> last time<br><br><b>Connected form:</b> <i>las time</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "última vez",
-      "usage": "Written: <code>last time</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">las time</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/last%20time/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/last/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>las time</code><br>Formal: <code>last time</code><br><a href=\"https://youglish.com/pronounce/last%20time/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/last/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ef65370e6d309b4e",
+      "full_transcript": "last time",
+      "connected_form": "las time",
+      "gap_text": "That was the {{c1::last time}} I saw him.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/last%20time/english/us",
         "forvo_word": "https://forvo.com/word/last/#en"
@@ -362,7 +434,7 @@
   {
     "id": "52794261d72ecc44",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/next%20time/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/next/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We'll do better {{c1::next time}}.",
-      "explanation": "<b>Written:</b> next time<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">nex time</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'next time' pronounced as 'nex time'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/next%20time/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/next/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We'll do better {{c1::next time}}.",
+      "explanation": "<b>Full transcript:</b> next time<br><br><b>Connected form:</b> <i>nex time</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "próxima vez",
-      "usage": "Written: <code>next time</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">nex time</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/next%20time/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/next/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>nex time</code><br>Formal: <code>next time</code><br><a href=\"https://youglish.com/pronounce/next%20time/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/next/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "52794261d72ecc44",
+      "full_transcript": "next time",
+      "connected_form": "nex time",
+      "gap_text": "We'll do better {{c1::next time}}.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/next%20time/english/us",
         "forvo_word": "https://forvo.com/word/next/#en"
@@ -402,7 +482,7 @@
   {
     "id": "37634df5749b60cb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/left%20side/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/left/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Turn on the {{c1::left side}} of the street.",
-      "explanation": "<b>Written:</b> left side<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">lef side</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'left side' pronounced as 'lef side'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/left%20side/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/left/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Turn on the {{c1::left side}} of the street.",
+      "explanation": "<b>Full transcript:</b> left side<br><br><b>Connected form:</b> <i>lef side</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "lado izquierdo",
-      "usage": "Written: <code>left side</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">lef side</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/left%20side/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/left/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>lef side</code><br>Formal: <code>left side</code><br><a href=\"https://youglish.com/pronounce/left%20side/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/left/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "37634df5749b60cb",
+      "full_transcript": "left side",
+      "connected_form": "lef side",
+      "gap_text": "Turn on the {{c1::left side}} of the street.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/left%20side/english/us",
         "forvo_word": "https://forvo.com/word/left/#en"
@@ -442,7 +530,7 @@
   {
     "id": "8a0e12ac2b4de436",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/right%20now/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/right/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I need you to do it {{c1::right now}}.",
-      "explanation": "<b>Written:</b> right now<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">righ now</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'right now' pronounced as 'righ now'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/right%20now/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/right/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I need you to do it {{c1::right now}}.",
+      "explanation": "<b>Full transcript:</b> right now<br><br><b>Connected form:</b> <i>righ now</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "ahora mismo",
-      "usage": "Written: <code>right now</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">righ now</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/right%20now/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/right/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>righ now</code><br>Formal: <code>right now</code><br><a href=\"https://youglish.com/pronounce/right%20now/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/right/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8a0e12ac2b4de436",
+      "full_transcript": "right now",
+      "connected_form": "righ now",
+      "gap_text": "I need you to do it {{c1::right now}}.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/right%20now/english/us",
         "forvo_word": "https://forvo.com/word/right/#en"
@@ -482,7 +578,7 @@
   {
     "id": "26376f9de4bb35cd",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/just%20now/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/just/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He left the office {{c1::just now}}.",
-      "explanation": "<b>Written:</b> just now<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">jus now</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'just now' pronounced as 'jus now'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/just%20now/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/just/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He left the office {{c1::just now}}.",
+      "explanation": "<b>Full transcript:</b> just now<br><br><b>Connected form:</b> <i>jus now</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "hace un momento",
-      "usage": "Written: <code>just now</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">jus now</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/just%20now/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/just/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>jus now</code><br>Formal: <code>just now</code><br><a href=\"https://youglish.com/pronounce/just%20now/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/just/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "26376f9de4bb35cd",
+      "full_transcript": "just now",
+      "connected_form": "jus now",
+      "gap_text": "He left the office {{c1::just now}}.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/just%20now/english/us",
         "forvo_word": "https://forvo.com/word/just/#en"
@@ -522,7 +626,7 @@
   {
     "id": "83943b876ab19a93",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/soft%20drink/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/soft/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Do you want a {{c1::soft drink}} or water?",
-      "explanation": "<b>Written:</b> soft drink<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sof drink</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'soft drink' pronounced as 'sof drink'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/soft%20drink/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/soft/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Do you want a {{c1::soft drink}} or water?",
+      "explanation": "<b>Full transcript:</b> soft drink<br><br><b>Connected form:</b> <i>sof drink</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "refresco",
-      "usage": "Written: <code>soft drink</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sof drink</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/soft%20drink/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/soft/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sof drink</code><br>Formal: <code>soft drink</code><br><a href=\"https://youglish.com/pronounce/soft%20drink/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/soft/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "83943b876ab19a93",
+      "full_transcript": "soft drink",
+      "connected_form": "sof drink",
+      "gap_text": "Do you want a {{c1::soft drink}} or water?",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/soft%20drink/english/us",
         "forvo_word": "https://forvo.com/word/soft/#en"
@@ -562,7 +674,7 @@
   {
     "id": "817b821f036599b9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hand%20bag/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hand/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She carried a small {{c1::hand bag}}.",
-      "explanation": "<b>Written:</b> hand bag<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">han bag</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hand bag' pronounced as 'han bag'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hand%20bag/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hand/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She carried a small {{c1::hand bag}}.",
+      "explanation": "<b>Full transcript:</b> hand bag<br><br><b>Connected form:</b> <i>han bag</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "bolso de mano",
-      "usage": "Written: <code>hand bag</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">han bag</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hand%20bag/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hand/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>han bag</code><br>Formal: <code>hand bag</code><br><a href=\"https://youglish.com/pronounce/hand%20bag/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hand/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "817b821f036599b9",
+      "full_transcript": "hand bag",
+      "connected_form": "han bag",
+      "gap_text": "She carried a small {{c1::hand bag}}.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hand%20bag/english/us",
         "forvo_word": "https://forvo.com/word/hand/#en"
@@ -602,7 +722,7 @@
   {
     "id": "c69eb0564ce7fffe",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sand%20castle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sand/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They built a {{c1::sand castle}} on the beach.",
-      "explanation": "<b>Written:</b> sand castle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">san castle</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sand castle' pronounced as 'san castle'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sand%20castle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sand/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They built a {{c1::sand castle}} on the beach.",
+      "explanation": "<b>Full transcript:</b> sand castle<br><br><b>Connected form:</b> <i>san castle</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "castillo de arena",
-      "usage": "Written: <code>sand castle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">san castle</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sand%20castle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sand/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>san castle</code><br>Formal: <code>sand castle</code><br><a href=\"https://youglish.com/pronounce/sand%20castle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sand/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c69eb0564ce7fffe",
+      "full_transcript": "sand castle",
+      "connected_form": "san castle",
+      "gap_text": "They built a {{c1::sand castle}} on the beach.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sand%20castle/english/us",
         "forvo_word": "https://forvo.com/word/sand/#en"
@@ -642,7 +770,7 @@
   {
     "id": "28f50dc1ec59db4f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/blind%20man/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/blind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::blind man}} had a guide dog.",
-      "explanation": "<b>Written:</b> blind man<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">blin man</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'blind man' pronounced as 'blin man'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/blind%20man/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/blind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::blind man}} had a guide dog.",
+      "explanation": "<b>Full transcript:</b> blind man<br><br><b>Connected form:</b> <i>blin man</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "hombre ciego",
-      "usage": "Written: <code>blind man</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">blin man</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/blind%20man/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/blind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>blin man</code><br>Formal: <code>blind man</code><br><a href=\"https://youglish.com/pronounce/blind%20man/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/blind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "28f50dc1ec59db4f",
+      "full_transcript": "blind man",
+      "connected_form": "blin man",
+      "gap_text": "The {{c1::blind man}} had a guide dog.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/blind%20man/english/us",
         "forvo_word": "https://forvo.com/word/blind/#en"
@@ -682,7 +818,7 @@
   {
     "id": "9eb658ca48e34137",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wind%20storm/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>There was a heavy {{c1::wind storm}} last night.",
-      "explanation": "<b>Written:</b> wind storm<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">win storm</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'wind storm' pronounced as 'win storm'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/wind%20storm/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>There was a heavy {{c1::wind storm}} last night.",
+      "explanation": "<b>Full transcript:</b> wind storm<br><br><b>Connected form:</b> <i>win storm</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "tormenta de viento",
-      "usage": "Written: <code>wind storm</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">win storm</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wind%20storm/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>win storm</code><br>Formal: <code>wind storm</code><br><a href=\"https://youglish.com/pronounce/wind%20storm/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9eb658ca48e34137",
+      "full_transcript": "wind storm",
+      "connected_form": "win storm",
+      "gap_text": "There was a heavy {{c1::wind storm}} last night.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/wind%20storm/english/us",
         "forvo_word": "https://forvo.com/word/wind/#en"
@@ -722,7 +866,7 @@
   {
     "id": "5e01b8e5a1de57a3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kind%20word/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>A {{c1::kind word}} makes a big difference.",
-      "explanation": "<b>Written:</b> kind word<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">kin word</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'kind word' pronounced as 'kin word'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/kind%20word/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>A {{c1::kind word}} makes a big difference.",
+      "explanation": "<b>Full transcript:</b> kind word<br><br><b>Connected form:</b> <i>kin word</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "palabra amable",
-      "usage": "Written: <code>kind word</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">kin word</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kind%20word/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>kin word</code><br>Formal: <code>kind word</code><br><a href=\"https://youglish.com/pronounce/kind%20word/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5e01b8e5a1de57a3",
+      "full_transcript": "kind word",
+      "connected_form": "kin word",
+      "gap_text": "A {{c1::kind word}} makes a big difference.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/kind%20word/english/us",
         "forvo_word": "https://forvo.com/word/kind/#en"
@@ -762,7 +914,7 @@
   {
     "id": "b9db326a56607b0f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/grand%20standing/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/grand/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Stop {{c1::grand standing}} in front of everyone.",
-      "explanation": "<b>Written:</b> grand standing<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gran standing</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'grand standing' pronounced as 'gran standing'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/grand%20standing/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/grand/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Stop {{c1::grand standing}} in front of everyone.",
+      "explanation": "<b>Full transcript:</b> grand standing<br><br><b>Connected form:</b> <i>gran standing</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "presumir",
-      "usage": "Written: <code>grand standing</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gran standing</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/grand%20standing/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/grand/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gran standing</code><br>Formal: <code>grand standing</code><br><a href=\"https://youglish.com/pronounce/grand%20standing/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/grand/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b9db326a56607b0f",
+      "full_transcript": "grand standing",
+      "connected_form": "gran standing",
+      "gap_text": "Stop {{c1::grand standing}} in front of everyone.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/grand%20standing/english/us",
         "forvo_word": "https://forvo.com/word/grand/#en"
@@ -802,7 +962,7 @@
   {
     "id": "8d44189d46ce331b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wild%20card/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wild/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They entered as a {{c1::wild card}} team.",
-      "explanation": "<b>Written:</b> wild card<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wil card</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'wild card' pronounced as 'wil card'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/wild%20card/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wild/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They entered as a {{c1::wild card}} team.",
+      "explanation": "<b>Full transcript:</b> wild card<br><br><b>Connected form:</b> <i>wil card</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "comodín",
-      "usage": "Written: <code>wild card</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wil card</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wild%20card/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wild/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wil card</code><br>Formal: <code>wild card</code><br><a href=\"https://youglish.com/pronounce/wild%20card/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wild/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8d44189d46ce331b",
+      "full_transcript": "wild card",
+      "connected_form": "wil card",
+      "gap_text": "They entered as a {{c1::wild card}} team.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/wild%20card/english/us",
         "forvo_word": "https://forvo.com/word/wild/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "73bcdeb148b3e9cb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bold%20move/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That was a {{c1::bold move}} by the CEO.",
-      "explanation": "<b>Written:</b> bold move<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bol move</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bold move' pronounced as 'bol move'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bold%20move/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That was a {{c1::bold move}} by the CEO.",
+      "explanation": "<b>Full transcript:</b> bold move<br><br><b>Connected form:</b> <i>bol move</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "movimiento audaz",
-      "usage": "Written: <code>bold move</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bol move</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bold%20move/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bol move</code><br>Formal: <code>bold move</code><br><a href=\"https://youglish.com/pronounce/bold%20move/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "73bcdeb148b3e9cb",
+      "full_transcript": "bold move",
+      "connected_form": "bol move",
+      "gap_text": "That was a {{c1::bold move}} by the CEO.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bold%20move/english/us",
         "forvo_word": "https://forvo.com/word/bold/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "4de03cd7e2fb8d82",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/gold%20mine/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/gold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This business is a real {{c1::gold mine}}.",
-      "explanation": "<b>Written:</b> gold mine<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gol mine</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'gold mine' pronounced as 'gol mine'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/gold%20mine/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/gold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This business is a real {{c1::gold mine}}.",
+      "explanation": "<b>Full transcript:</b> gold mine<br><br><b>Connected form:</b> <i>gol mine</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "mina de oro",
-      "usage": "Written: <code>gold mine</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gol mine</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/gold%20mine/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/gold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gol mine</code><br>Formal: <code>gold mine</code><br><a href=\"https://youglish.com/pronounce/gold%20mine/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/gold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4de03cd7e2fb8d82",
+      "full_transcript": "gold mine",
+      "connected_form": "gol mine",
+      "gap_text": "This business is a real {{c1::gold mine}}.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/gold%20mine/english/us",
         "forvo_word": "https://forvo.com/word/gold/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "3159e343b36e641c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cold%20cuts/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We had {{c1::cold cuts}} for lunch.",
-      "explanation": "<b>Written:</b> cold cuts<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">col cuts</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cold cuts' pronounced as 'col cuts'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cold%20cuts/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We had {{c1::cold cuts}} for lunch.",
+      "explanation": "<b>Full transcript:</b> cold cuts<br><br><b>Connected form:</b> <i>col cuts</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "embutidos",
-      "usage": "Written: <code>cold cuts</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">col cuts</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cold%20cuts/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>col cuts</code><br>Formal: <code>cold cuts</code><br><a href=\"https://youglish.com/pronounce/cold%20cuts/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "3159e343b36e641c",
+      "full_transcript": "cold cuts",
+      "connected_form": "col cuts",
+      "gap_text": "We had {{c1::cold cuts}} for lunch.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cold%20cuts/english/us",
         "forvo_word": "https://forvo.com/word/cold/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "2cf320779a9e9517",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fast%20food/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fast/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I try not to eat too much {{c1::fast food}}.",
-      "explanation": "<b>Written:</b> fast food<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fas food</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'fast food' pronounced as 'fas food'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/fast%20food/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fast/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I try not to eat too much {{c1::fast food}}.",
+      "explanation": "<b>Full transcript:</b> fast food<br><br><b>Connected form:</b> <i>fas food</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "comida rápida",
-      "usage": "Written: <code>fast food</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fas food</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fast%20food/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fast/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fas food</code><br>Formal: <code>fast food</code><br><a href=\"https://youglish.com/pronounce/fast%20food/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fast/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2cf320779a9e9517",
+      "full_transcript": "fast food",
+      "connected_form": "fas food",
+      "gap_text": "I try not to eat too much {{c1::fast food}}.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/fast%20food/english/us",
         "forvo_word": "https://forvo.com/word/fast/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "a8918f8827a087bb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/most%20people/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/most/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Most people}} agree with this decision.",
-      "explanation": "<b>Written:</b> most people<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mos people</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'most people' pronounced as 'mos people'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/most%20people/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/most/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Most people}} agree with this decision.",
+      "explanation": "<b>Full transcript:</b> most people<br><br><b>Connected form:</b> <i>mos people</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "la mayoría de la gente",
-      "usage": "Written: <code>most people</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mos people</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/most%20people/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/most/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mos people</code><br>Formal: <code>most people</code><br><a href=\"https://youglish.com/pronounce/most%20people/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/most/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a8918f8827a087bb",
+      "full_transcript": "most people",
+      "connected_form": "mos people",
+      "gap_text": "{{c1::Most people}} agree with this decision.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/most%20people/english/us",
         "forvo_word": "https://forvo.com/word/most/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "dc24b4f62fff28af",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/post%20office/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/post/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Where is the nearest {{c1::post office}}?",
-      "explanation": "<b>Written:</b> post office<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">pos office</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'post office' pronounced as 'pos office'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/post%20office/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/post/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Where is the nearest {{c1::post office}}?",
+      "explanation": "<b>Full transcript:</b> post office<br><br><b>Connected form:</b> <i>pos office</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "oficina de correos",
-      "usage": "Written: <code>post office</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">pos office</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/post%20office/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/post/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>pos office</code><br>Formal: <code>post office</code><br><a href=\"https://youglish.com/pronounce/post%20office/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/post/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "dc24b4f62fff28af",
+      "full_transcript": "post office",
+      "connected_form": "pos office",
+      "gap_text": "Where is the nearest {{c1::post office}}?",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/post%20office/english/us",
         "forvo_word": "https://forvo.com/word/post/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "86c86007b4de01f0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/west%20coast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/west/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They moved to the {{c1::west coast}} last year.",
-      "explanation": "<b>Written:</b> west coast<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wes coast</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'west coast' pronounced as 'wes coast'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/west%20coast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/west/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They moved to the {{c1::west coast}} last year.",
+      "explanation": "<b>Full transcript:</b> west coast<br><br><b>Connected form:</b> <i>wes coast</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "costa oeste",
-      "usage": "Written: <code>west coast</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wes coast</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/west%20coast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/west/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wes coast</code><br>Formal: <code>west coast</code><br><a href=\"https://youglish.com/pronounce/west%20coast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/west/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "86c86007b4de01f0",
+      "full_transcript": "west coast",
+      "connected_form": "wes coast",
+      "gap_text": "They moved to the {{c1::west coast}} last year.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/west%20coast/english/us",
         "forvo_word": "https://forvo.com/word/west/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "46f426fb5cdf938f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/east%20coast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/east/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I prefer the weather on the {{c1::east coast}}.",
-      "explanation": "<b>Written:</b> east coast<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">eas coast</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'east coast' pronounced as 'eas coast'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/east%20coast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/east/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I prefer the weather on the {{c1::east coast}}.",
+      "explanation": "<b>Full transcript:</b> east coast<br><br><b>Connected form:</b> <i>eas coast</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "costa este",
-      "usage": "Written: <code>east coast</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">eas coast</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/east%20coast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/east/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>eas coast</code><br>Formal: <code>east coast</code><br><a href=\"https://youglish.com/pronounce/east%20coast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/east/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "46f426fb5cdf938f",
+      "full_transcript": "east coast",
+      "connected_form": "eas coast",
+      "gap_text": "I prefer the weather on the {{c1::east coast}}.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/east%20coast/english/us",
         "forvo_word": "https://forvo.com/word/east/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "c66e41c52173509a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Cluster_Elision 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/worst%20case/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/worst/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>In the {{c1::worst case}} scenario, we rollback.",
-      "explanation": "<b>Written:</b> worst case<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wors case</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Cluster Elision</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'worst case' pronounced as 'wors case'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/worst%20case/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/worst/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>In the {{c1::worst case}} scenario, we rollback.",
+      "explanation": "<b>Full transcript:</b> worst case<br><br><b>Connected form:</b> <i>wors case</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Cluster Elision</code></li></ul>",
       "spanish": "peor de los casos",
-      "usage": "Written: <code>worst case</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wors case</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/worst%20case/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/worst/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wors case</code><br>Formal: <code>worst case</code><br><a href=\"https://youglish.com/pronounce/worst%20case/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/worst/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c66e41c52173509a",
+      "full_transcript": "worst case",
+      "connected_form": "wors case",
+      "gap_text": "In the {{c1::worst case}} scenario, we rollback.",
+      "rules_applied": [
+        "Cluster Elision"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/worst%20case/english/us",
         "forvo_word": "https://forvo.com/word/worst/#en"

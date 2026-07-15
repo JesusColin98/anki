@@ -1,236 +1,288 @@
-# Guía de Calidad de Tarjetas, Patrones de Prompts y Plantillas de Anki
+# Anki Card Quality Standards, Template Catalog, and Topic Creation Guide
 
-Esta guía documenta los criterios deterministas para detectar tarjetas de baja calidad ("thin/poor cards"), las estrategias y patrones de prompts para invocar a los agentes generadores, la taxonomía de casos de uso y las propuestas de nuevas plantillas avanzadas para maximizar el uso de Anki.
-
----
-
-## 1. Detección y Diagnóstico de Tarjetas de Baja Calidad ("Thin / Low-Quality Cards")
-
-Una tarjeta de baja calidad degrada la retención en memoria espacial (SRS) y viola las **20 Reglas de Formulación de Conocimiento de Wozniak**.
-
-### 1.1 Señales de Tarjeta Deficiente:
-1. **Falta de Contexto o Escenario Vacío**: Tarjetas que solo tienen traducción literal o definición plana sin campo `Scenario` claro.
-2. **Cloze Deletions Ambiguas o Múltiples Excesivas**:
-   - Clozes donde la respuesta se infiere sin entender el concepto.
-   - Clozes sin el indicador `{{c1::...}}` bien balanceado.
-3. **Falta de Explicación Intuitiva**: El campo `Explanation` es una copia exacta de la oración frontal sin desglosar el "Por qué" o la intuición subyacente.
-4. **Ejemplos de Uso Inexistentes o Pobres**: El campo `Usage_Examples` está vacío o carece de formato estructurado (`<ul><li>...</li></ul>`).
-5. **Diagramas o Código Malformados**:
-   - Flechas de Mermaid con sintaxis inválida (e.g., `->|label|` en lugar de `-->|label|`).
-   - Bloques de MathJax desbalanceados (e.g., `\[` sin `\]`).
-
-### 1.2 Algoritmo de Diagnóstico y Auto-Reparación (`card_validator.py`):
-```python
-def validate_and_enrich(card: dict) -> tuple[bool, list[str]]:
-    issues = []
-    if len(card.get("explanation", "").strip()) < 20:
-        issues.append("EXPLANATION_TOO_SHORT")
-    if not card.get("scenario") or card.get("scenario") == "General":
-        issues.append("MISSING_SCENARIO")
-    if "{{c1::" not in card.get("text", "") and "cloze" in card.get("template", "").lower():
-        issues.append("INVALID_CLOZE_TAGS")
-    return (len(issues) == 0, issues)
-```
+This document is the authoritative guide for creating, validating, updating, and synchronizing flashcards in the `anki-tools` ecosystem. It outlines the system architecture, explains where to locate existing topics, describes the 16 pedagogical templates (T1 to T16), and provides a copy-paste prompt for external LLM generation in AI Studio.
 
 ---
 
-## 2. Invocación de Agentes y Patrones de Prompts Específicos
+## 1. System Architecture & Reusability
 
-Para expandir, reparar o generar tarjetas ricas desde cualquier fuente de texto o código, se deben usar los siguientes patrones de prompt basados en el marco de **5 Arquetipos**:
+The Anki ADK system operates on a separation of concerns between raw content files, schema validation, dynamic template compiling, and synchronization.
 
-### 2.1 Prompt Pattern 1: Enriquecimiento e Imputación de Tarjetas "Thin"
-**Objetivo**: Convertir notas planas en tarjetas Cloze & Scenario enriquecidas con contexto y traducción.
-
-```text
-ROL: [Analyst & Producer Mode] - Anki Pedagogical Engine
-INPUT: Tarjeta plana o concepto sin contexto.
-TAREA: Transforma la siguiente nota plana en una tarjeta atómica de alta calidad según la plantilla T1_Cloze / T4_Scenario.
-
-REGLAS DE SALIDA (JSON Estricto):
-{
-  "deck": "<Pillars::Category::Subcategory::DeckName>",
-  "scenario": "<Categoría Corta>: <Contexto o Situación con Emoji>",
-  "text": "Oración principal con exactamente un {{c1::<Concepto Clave>}} enfocado.",
-  "explanation": "Desglose conceptual intuitivo de 2 a 3 oraciones respondiendo por qué funciona.",
-  "usage": "<ul><li><b>Punto clave 1</b>: ...</li><li><b>Punto clave 2</b>: ...</li></ul>",
-  "spanish": "Traducción completa y natural al español.",
-  "tags": ["tag1", "tag2"]
-}
+```mermaid
+graph TD
+    A["Raw JSON (decks/*.json)"] -->|Loads / Flattens| B["anki_db_importer.py"]
+    B -->|Calls build_card| C["template_engine.py"]
+    C -->|Validates Pydantic V2| D["card_validator.py"]
+    D -->|Deterministic Auto-Repair| C
+    C -->|Generates HTML + JS + CSS| B
+    B -->|Flattens Decks to 3 Levels| E["AnkiConnect API"]
+    E -->|Case-Insensitive In-Place Sync| F["Anki Desktop Database"]
 ```
 
-### 2.2 Prompt Pattern 2: Descomposición Map-Reduce para Libros / Documentación (`adk_orchestrator.py`)
-**Objetivo**: Procesar documentos extensos o capítulos en ventanas deslizantes de 4,000 caracteres.
+### 1.1 Folder Tree vs. Anki Decks
+- **Filesystem (4 levels of depth)**: Cards are organized on disk using folders matching the **6 Pillars**:
+  - `01_Cloud_and_Infrastructure`
+  - `02_AI_and_Data_Science`
+  - `03_Languages`
+  - `04_Social_and_Humanities`
+  - `05_Soft_Skills_and_Leadership`
+  - `06_Business_and_Productivity`
+  - *Example Filepath*: `decks/03_Languages/English/Phonetics/connected_speech.json`
+- **Anki Desktop (3 levels of depth)**: To prevent truncation on mobile devices, `anki_db_importer.py` strips the Pillar prefix during sync, flattening the deck hierarchy to 3 levels:
+  - *Example Anki Deck*: `English::Phonetics::connected_speech`
 
-```text
-ROL: [Scholar & Architect Mode] - ADK Document Processor
-VENTANA DE ENTRADA: Chunks de 4,000 caracteres.
-INSTRUCCIÓN:
-1. Extrae únicamente hechos independientes de alto valor (1 hecho = 1 tarjeta).
-2. Asigna cada hecho al pilar de la jerarquía de 6 niveles correspondiente:
-   - 01_Cloud_and_Infrastructure
-   - 02_AI_and_Data_Science
-   - 03_Languages
-   - 04_Social_and_Humanities
-   - 05_Soft_Skills_and_Leadership
-   - 06_Business_and_Productivity
-3. Aplica el motor de plantillas T1 a T6 según la naturaleza del hecho.
-```
+### 1.2 Note Identity & Sync Matching
+- **Primary Key**: Synchronization uses a case-insensitive matching key based on the normalized `text` (or `prompt` for Speaking) string.
+- **Review History Preservation**: If a card is relocated to a different deck or its fields are updated, the importer updates the note in-place without recreating it. This preserves ease factors, intervals, card status, and review histories.
+
+### 1.3 State Persistence Scripting
+- Active tabs and click-to-reveal states are preserved between the card Front and Back reviews using `sessionStorage` in the browser DOM.
+- Tab names are saved under `active_tab_{card_id}`, and Mermaid click reveals use node DOM indexes under `revealed_nodes_{card_id}`.
 
 ---
 
-## 3. Matriz de Mapeo de Casos de Uso y Plantillas Existentes
+## 2. Topic Creation & Avoiding Duplicates
 
-| Plantilla | Caso de Uso Principal | Ejemplo de Contenido / Estructura |
+### 2.1 Locating Existing Decks
+Before creating a new topic, always check the global index:
+- **Index File**: [decks/index.json](file:///c:/Users/jesus/anki/decks/index.json)
+  This file tracks `total_cards`, `total_decks`, and lists the logical path and card count for every JSON database file.
+- **Monolith Database**: `anki_cards_database.json`
+  This contains the merged array of all cards currently indexed in the workspace.
+
+### 2.2 Duplication Audit & Verification
+- Check if a concept already has cards by searching in `anki_cards_database.json`.
+- The synchronization engine automatically drops duplicate cards that share the same deck and normalized text/prompt value, warning you in the console:
+  `[-] Warning: Ignored duplicate card in JSON database...`
+
+### 2.3 Proactive Corrections
+> [!IMPORTANT]
+> If an LLM or developer identifies incorrect details, typos, outdated practices, or formatting errors in existing cards during research, they **must proactively update the source JSON file** under `decks/` instead of ignoring it. The sync engine will automatically propagate these changes to Anki Desktop on the next run.
+
+---
+
+## 3. Template Catalog & Use Cases (T1 to T16)
+
+Every card in the database must use one of the following 16 templates. They enforce atomic learning and visual association:
+
+| Template ID | Primary Use Case | Required Fields |
 | :--- | :--- | :--- |
-| **T1_Cloze** | Vocabulario, terminología técnica, leyes y definiciones directas. | `The {{c1::Gradient Descent}} parameter update...` |
-| **T2_DualCoding** | Algoritmos, flujos de trabajo y arquitecturas con diagramas Mermaid. | Diagrama de flujo de decisión en el reverso (`mermaid_code`). |
-| **T3_CodeSnippet** | Patrones de código, comandos CLI, funciones y regex. | Bloques de código formateados con explicación sintáctica (`code_block`). |
-| **T4_Scenario** | Habilidades blandas, oratoria, negociación y soporte al cliente. | Frases de contención empática y resolución de conflictos (`target_phrase`). |
-| **T5_MathJax** | Fórmulas matemáticas, estadísticas, físicas y modelos de costo. | \(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\) (`formula_latex`). |
-| **T6_Quiz** | Preguntas de opción múltiple con justificación detallada. | Preguntas de certificación con análisis de distractores (`options`). |
-| **T7_Pronunciation** | Ejercicios de pronunciación con reglas de habla conectada. | `fast_pronunciation` (e.g. `{{c1::wanna}}`) + `audio_links` opcionales. |
-| **T8_MinimalPair** | Discriminación de fonemas (Desmagnetización Perceptual de Kuhl). | Comparación de pares mínimos (`phoneme_a` vs `phoneme_b`, `word_pairs`). |
-| **T9_ListeningChunk** | Dictados cortos de habla conectada (Método Arguelles). | `gap_text` (con cloze) + `full_transcript` + `audio_links`. |
-| **T10_ReadingPatternDrill** | Ejercicios de lectura de grafema a fonema por idioma. | `grapheme_pattern` (e.g. `'ea'`) → `phoneme_target` (`/iː/`). |
-| **T11_ExecutivePitch** | Sombreado de comunicación de liderazgo y entonación. | `shadowing_script` + análisis de pausas (`pause_map`) y tono. |
-| **T12_SpeakingPractice** | Práctica interactiva de habla con audio de referencia. | `prompt` + `model_audio_url` + `practice_url`. |
+| **T1_Cloze** | Core vocabulary, technical terms, and simple definitions. | `text`, `explanation`, `spanish` |
+| **T2_DualCoding** | Systems, flows, and architectures using click-to-reveal Mermaid SVGs. | `concept`, `mermaid_code`, `explanation`, `spanish` |
+| **T3_CodeSnippet** | CLI commands, syntax structures, algorithms, and code blocks. | `title`, `code_block`, `language`, `explanation` |
+| **T4_Scenario** | Soft skills, negotiations, and customer support phrases. | `scenario`, `target_phrase`, `usage`, `spanish` |
+| **T5_MathJax** | Latex math/physics equations and variables. | `concept`, `formula_latex`, `variable_breakdown` |
+| **T6_Quiz** | Multiple choice questions for certification prep. | `question`, `options`, `correct_option`, `rationale` |
+| **T7_Pronunciation** | Connected speech rules and phonological drills. | `rule_name`, `formal_phrase`, `fast_pronunciation`, `explanation`, `spanish` |
+| **T8_MinimalPair** | Phoneme discrimination table grids. | `phoneme_a`, `phoneme_b`, `ipa_a`, `ipa_b`, `word_pairs`, `muscle_tip`, `language` |
+| **T9_ListeningChunk** | Connected speech dictation gaps. | `full_transcript`, `connected_form`, `gap_text`, `rules_applied`, `language` |
+| **T10_ReadingPatternDrill** | Grapheme-to-phoneme drills. | `language`, `script_note`, `grapheme_pattern`, `word_examples`, `phoneme_target` |
+| **T11_ExecutivePitch** | Leadership shadowing and pause/tone mappings. | `speaker`, `source_context`, `transcript_excerpt`, `pitch_analysis`, `pause_map`, `shadowing_script`, `leadership_technique` |
+| **T12_SpeakingPractice** | Interactive speaking drills with model audios. | `prompt`, `explanation`, `usage`, `spanish`, `model_audio_url`, `practice_url` |
+| **T13_MnemonicPalace** | Visual-spatial memory anchors in Loci. | `concept`, `explanation`, `spanish`, `palace_name`, `locus_stop`, `mnemonic_scene` |
+| **T14_PegNumber** | Number association using the Major phonetic system. | `concept`, `number`, `phonetic_code`, `peg_word`, `visual_scene` |
+| **T15A_FeynmanAnalogy** | Simplifying complex technical concepts with metaphors. | `concept`, `layperson_explanation`, `metaphor_analogy`, `explanation` |
+| **T15B_FeynmanScenario** | Applied generation challenges to prove understanding. | `concept`, `generation_challenge`, `explanation` |
+| **T16_NameFace** | Facial feature association and profile cards. | `person_name`, `distinguishing_feature`, `substitute_word_or_image`, `association_scene`, `contribution` |
 
 ---
 
-## 4. Estructura de Progresión y Niveles en Decks Técnicos
+## 4. Advanced Template Schemas (T13 - T16)
 
-Para decks como **Linux, Networking, y Cybersecurity**, los niveles de las notas deben subir progresivamente en dificultad, organizándose por subcategorías o secuencias lógicas dentro del deck:
+These templates support mnemonic systems, analogies, and name-face recognition. They utilize tabbed panel wrapping (`build_tabs`) and match game assets.
 
-1. **Básico (Fundamentos/Sintaxis)**: Definiciones directas, comandos elementales sin modificadores complejos y modelos conceptuales básicos (ej. comandos de navegación de Linux, puertos básicos, diferencias activo/pasivo). Usar principalmente **T1_Cloze**.
-2. **Intermedio (Operación/Configuración)**: Uso combinado de flags de CLI, diagramas simples de flujos, y diagnósticos comunes (ej. pipes complejos en Bash, análisis de estados de puertos en Nmap, subredes e Internet Gateways). Usar **T3_CodeSnippet** y **T2_DualCoding**.
-3. **Avanzado (Análisis/Ingeniería/Seguridad)**: Depuración de fallas complejas, evasión de defensas, explotación de vulnerabilidades con código, flujos de protocolos multi-etapa y simulaciones de incidentes. Usar **T2_DualCoding**, **T3_CodeSnippet** con scripts completos y **T6_Quiz** para simulación de escenarios de certificación.
-
----
-
-## 5. Instrucciones para los Agentes en el Workspace
-
-1. **Jerarquía Evolutiva**: Los agentes deben verificar siempre que cada nueva tarjeta pertenezca a uno de los **6 Pilares** y mantenga exactamente **profundidad de 4 niveles**.
-2. **Auto-Validación Obligatoria**: Antes de guardar cualquier tarjeta JSON en `decks/`, ejecutar `card_validator.validate_card(data)` para garantizar que no existan campos vacíos o sintaxis malformada.
-3. **Indexación Automática**: Tras cualquier inserción, ejecutar `migrate_to_4level_hierarchy.py` o regenerar `decks/index.json`.
-
----
-
-## 6. Workflow Operativo para Añadir un Nuevo Deck JSON
-
-Esta parte del proceso es crítica porque el sistema no solo valida el contenido de cada tarjeta, sino también la estructura del deck y su integración con el índice global.
-
-### 6.1 Ubicación y Naming
-- Todos los archivos de deck deben vivir bajo el árbol de `decks/` y respetar la jerarquía de 4 niveles: `Pilar::Categoría::Subcategoría::DeckName`.
-- El nombre del `deck` dentro de cada tarjeta debe coincidir con la ruta lógica del deck y no solo con el nombre del archivo JSON.
-- Evitar archivos sueltos fuera de `decks/` o nombres que no reflejen la categoría semántica del contenido.
-
-### 6.2 Estructura del Archivo JSON
-- Cada archivo debe contener una lista de tarjetas JSON (array de objetos), no un único objeto.
-- Cada tarjeta debe incluir los campos obligatorios del template elegido y no dejar cadenas vacías para campos esenciales.
-- Si el contenido es una tarjeta de tipo `T4_Scenario`, incluir `scenario`, `target_phrase`, `usage` y `spanish`; si es `T2_DualCoding`, asegurar `concept` y `mermaid_code` válidos.
-- No introducir campos incompletos solo para "hacerlo pasar"; la validación determinista es estricta.
-
-### 6.3 Checklist de Preflight Antes de Importar
-Antes de ejecutar cualquier sincronización, revisar lo siguiente:
-1. **Deck path correcto**: el archivo está en la ruta esperada dentro de `decks/`.
-2. **Nombre de deck consistente**: `"deck"` coincide con la jerarquía de 4 niveles.
-3. **Campos obligatorios completos**: sin `""`, `null` ni valores incompletos para fields críticos.
-4. **Cloze balanceado**: si hay un `{{c1::...}}`, debe cerrarse correctamente.
-5. **Mermaid y MathJax válidos**: sin delimitadores rotos ni etiquetas ambiguas.
-6. **Escenario claro**: toda tarjeta debe aportar contexto suficiente para ser recordable.
-7. **Uso de HTML limpio**: en `usage`, priorizar `<ul><li>...</li></ul>` y evitar markdown crudo cuando la plantilla lo espera.
-
-### 6.4 Comandos de Rebuild y Validación
-El flujo recomendado para un deck nuevo es:
-
-```powershell
-python scratch/rebuild_index.py
-python validate_deck_hierarchy.py
-python anki_adk_hub.py sync
-```
-
-Estos comandos regeneran el índice global, verifican la jerarquía y el contenido, y luego sincronizan hacia la base de Anki.
-
-### 6.5 Errores Comunes que Valen la Pena Evitar
-- Crear un deck nuevo pero omitir su entrada en `decks/index.json` o dejar el índice desactualizado.
-- Colocar un JSON de tarjetas en una carpeta que no corresponde al pilar correcto.
-- Usar un `deck` con solo 2 o 3 niveles, lo que rompe la profundidad de 4 niveles.
-- Añadir tarjetas con `scenario: "General"` o vacío, lo que reduce mucho la retención.
-- Dejar `explanation` demasiado corto o repetitivo; la explicación debe explicar por qué la respuesta es correcta.
-- Generar cartas con múltiples conceptos en una sola tarjeta cuando el principio de atomicidad lo prohíbe.
-
-### 6.6 Recomendación de Producción
-El flujo más robusto para nuevos decks es:
-1. Crear el archivo JSON en una ruta temporal o en el árbol de `decks/` con un nombre claro.
-2. Revisar los campos obligatorios y la semántica del contenido.
-3. Rebuild del índice y validación.
-4. Solo entonces sincronizar con Anki Desktop.
-
-Este patrón reduce bastante el riesgo de introducir errores de estructura o de calidad que luego son costosos de reparar manualmente.
-
----
-
-## 7. Estrategias Avanzadas para Subir de Nivel la Calidad del Sistema
-
-Para escalar este sistema sin perder consistencia, conviene pasar de una lógica de generación aislada a una arquitectura de contenido más robusta.
-
-### 7.1 Fuente Única + Variantes Determinísticas
-- No duplicar el mismo contenido en múltiples carpetas ni crear tarjetas equivalentes desde cero.
-- Mantener una fuente canónica por escenario o cluster de habilidad y generar variantes desde ahí.
-- Usar plantillas para producir múltiples formatos (hablar, escuchar, escribir, diálogo) sin perder la misma semántica base.
-- Esto reduce mantenimiento, mejora la consistencia y evita que el sistema se vuelva redundante.
-
-### 7.2 Estandar de Metadatos Recomendado
-Cada tarjeta debería incluir metadatos mínimos que permitan filtrar, revisar y evolucionar el contenido.
+### T13: Mnemonic Palace
+Used to anchor technical concepts (ports, architecture layers, design patterns) to a physical locus in a visual memory palace.
 
 ```json
 {
-  "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
-  "scenario": "Workplace: Client Escalation 📞",
-  "template": "T4_Scenario",
-  "difficulty": "intermediate",
-  "source": "internal_notes",
-  "tags": ["english", "customer_service", "soft_skills"],
-  "language": "en",
-  "review_priority": "high"
+  "deck": "Productivity_and_Habits::Methodology::Productivity_And_Habits",
+  "template": "T13_MnemonicPalace",
+  "metadata": {
+    "difficulty": "intermediate",
+    "tags": ["mnemonic_palace", "memory_techniques"]
+  },
+  "content": {
+    "concept": "Loci Method",
+    "explanation": "Visual maps in physical locations.",
+    "spanish": "Método de Loci"
+  },
+  "mnemonics": {
+    "palace_name": "Living Room",
+    "locus_stop": "01_TV",
+    "mnemonic_scene": "A huge glowing TV displaying a brain.",
+    "peg_word": "",
+    "phonetic_code": ""
+  },
+  "interactivity": {
+    "analogy": "It is like marking coordinates on a map."
+  }
 }
 ```
 
-Metadatos útiles:
-- `template`: identifica la plantilla usada.
-- `difficulty`: permite construir rutas de progresión.
-- `source`: ayuda a rastrear la procedencia del contenido.
-- `review_priority`: permite priorizar correcciones y refuerzos.
-- `tags`: facilita búsquedas y agrupaciones semánticas.
+### T14: Peg Number
+Used for remembering numeric technical variables (e.g. ports, status codes, algorithms) by mapping digits to phonetic sounds (Major System).
 
-### 7.3 Rubrica Mínima de Calidad para Cada Tarjeta
-Antes de publicar una tarjeta, conviene comprobar estas dimensiones:
-1. **Atomicidad**: una idea por tarjeta.
-2. **Contexto**: el escenario o situación es claro y memorable.
-3. **Explicación**: no solo repite la respuesta, sino que enseña el porqué.
-4. **Usabilidad**: el contenido es práctico y listo para usar en estudio.
-5. **Variedad**: no todas las tarjetas deben repetir el mismo patrón de forma.
+```json
+{
+  "deck": "Productivity_and_Habits::Methodology::Productivity_And_Habits",
+  "template": "T14_PegNumber",
+  "metadata": {
+    "difficulty": "intermediate",
+    "tags": ["peg_system", "memory_techniques"]
+  },
+  "content": {
+    "concept": "Port 80 (HTTP)",
+    "number": "80",
+    "explanation": "Standard port for unencrypted web traffic.",
+    "spanish": "Puerto 80 (HTTP)"
+  },
+  "mnemonics": {
+    "palace_name": "",
+    "locus_stop": "",
+    "mnemonic_scene": "",
+    "peg_word": "Fez",
+    "phonetic_code": "8 = F, 0 = S/Z"
+  },
+  "interactivity": {
+    "visual_scene": "A server wearing a red Fez hat."
+  }
+}
+```
 
-Una tarjeta que cumpla estas 5 condiciones suele tener mayor retención y mejor rendimiento en SRS.
+### T15A: Feynman Analogy
+Uses a tabbed component splitting the concept description into a simple layperson explanation, a metaphor, and technical details.
 
-### 7.4 Revisión y Mantenimiento Continuo
-El sistema no debe verse como una carga de contenido estática. Debe incluir un ciclo de mejora:
-- revisar tarjetas con baja retención o repetidos patrones
-- reescribir explicaciones poco claras
-- eliminar tarjetas demasiado vagas o demasiado largas
-- convertir notas planas en tarjetas con contexto y ejemplos reales
+```json
+{
+  "deck": "Productivity_and_Habits::Methodology::Productivity_And_Habits",
+  "template": "T15A_FeynmanAnalogy",
+  "metadata": {
+    "difficulty": "intermediate",
+    "tags": ["feynman_method", "analogy"]
+  },
+  "content": {
+    "concept": "API (Application Programming Interface)",
+    "layperson_explanation": "A way for two programs to talk to each other.",
+    "metaphor_analogy": "A waiter taking your order to the kitchen.",
+    "explanation": "A set of protocols and definitions that allows software integration."
+  }
+}
+```
 
-Un flujo de mejora útil es:
-1. identificar tarjetas débiles
-2. corregir su estructura
-3. revalidar sintaxis y jerarquía
-4. volver a indexar y sincronizar
+### T15B: Feynman Scenario
+Challenges the student to explain or resolve an applied problem using the concept.
 
-### 7.5 Regla de Oro para Agentes Generadores
-Cuando un agente genere tarjetas, debe priorizar:
-- precisión sobre cantidad
-- contexto real sobre frases abstractas
-- claridad sobre ornamentación
-- patrones reutilizables sobre contenido improvisado
+```json
+{
+  "deck": "Productivity_and_Habits::Methodology::Productivity_And_Habits",
+  "template": "T15B_FeynmanScenario",
+  "metadata": {
+    "difficulty": "intermediate",
+    "tags": ["feynman_method", "challenge"]
+  },
+  "content": {
+    "concept": "Pub/Sub Messaging",
+    "generation_challenge": "Design an update pipeline for a mobile app where 10,000 users need real-time flight notifications.",
+    "explanation": "Configure a central message broker where the service publishes updates to a topic, and subscribers pull asynchronously."
+  }
+}
+```
 
-Si la tarjeta no aporta una idea nueva, útil o memorable, probablemente no merece entrar al deck.
+### T16: Name-Face
+Associates a face, portrait image, or distinguishing trait with a person's name and contributions.
+
+```json
+{
+  "deck": "Productivity_and_Habits::Methodology::Productivity_And_Habits",
+  "template": "T16_NameFace",
+  "metadata": {
+    "difficulty": "intermediate",
+    "tags": ["name_face", "memory_techniques"]
+  },
+  "content": {
+    "person_name": "Piotr Wozniak",
+    "distinguishing_feature": "Long gray hair and circular glasses.",
+    "substitute_word_or_image": "Wozniak (sounds like Wizard)",
+    "association_scene": "A wizard sitting on a giant letter 'S' (SuperMemo) creating memory spells.",
+    "contribution": "Developed the SM-2 algorithm for spaced repetition."
+  }
+}
+```
+
+---
+
+## 5. Google AI Studio Copy-Paste Generator Prompt
+
+Copy the block below and paste it into Google AI Studio or any external LLM to generate valid Anki card arrays.
+
+```text
+You are an expert card creator for the Anki ADK system.
+Generate an array of JSON objects containing flashcards according to the nested schema.
+
+RULES:
+1. Atomicity: Each card must test exactly ONE fact.
+2. Structure: Output must be a valid JSON array of objects. Do not wrap in markdown unless requested.
+3. Templates: Choose from:
+   - T1_Cloze: text (with exactly one {{c1::cloze}}), explanation, spanish.
+   - T2_DualCoding: concept, mermaid_code (valid syntax, arrows must be -->), explanation, spanish.
+   - T3_CodeSnippet: title, code_block, language, explanation.
+   - T4_Scenario: scenario, target_phrase, usage (HTML format), spanish.
+   - T5_MathJax: concept, formula_latex (use \\( for inline, \\[ for block), variable_breakdown.
+   - T6_Quiz: question, options (array of 3-4 items), correct_option, rationale.
+   - T13_MnemonicPalace: concept, explanation, spanish, palace_name, locus_stop, mnemonic_scene.
+   - T14_PegNumber: concept, number, explanation, spanish, peg_word, phonetic_code, visual_scene (in interactivity).
+   - T15A_FeynmanAnalogy: concept, layperson_explanation, metaphor_analogy, explanation.
+   - T15B_FeynmanScenario: concept, generation_challenge, explanation.
+   - T16_NameFace: person_name, distinguishing_feature, substitute_word_or_image, association_scene, contribution.
+
+Hierarchical Deck Paths:
+Must use the 4-level deep hierarchy: Pillar::Category::Subcategory::DeckName
+Choose from the 6 Pillars:
+- 01_Cloud_and_Infrastructure
+- 02_AI_and_Data_Science
+- 03_Languages
+- 04_Social_and_Humanities
+- 05_Soft_Skills_and_Leadership
+- 06_Business_and_Productivity
+
+JSON SCHEMA STRUCTURE FOR EACH ITEM:
+{
+  "deck": "Pillar::Category::Subcategory::DeckName",
+  "template": "T1_Cloze" | "T2_DualCoding" | "T3_CodeSnippet" | "T4_Scenario" | "T5_MathJax" | "T6_Quiz" | "T13_MnemonicPalace" | "T14_PegNumber" | "T15A_FeynmanAnalogy" | "T15B_FeynmanScenario" | "T16_NameFace",
+  "metadata": {
+    "difficulty": "beginner" | "intermediate" | "advanced",
+    "tags": ["tag1", "tag2"]
+  },
+  "content": {
+    // Template specific fields go here
+    // e.g. T1: {"text": "...", "explanation": "...", "spanish": "..."}
+  },
+  "mnemonics": { // Required for T13 and T14
+    "palace_name": "",
+    "locus_stop": "",
+    "mnemonic_scene": "",
+    "peg_word": "",
+    "phonetic_code": ""
+  },
+  "interactivity": { // Required for T14, T15, T16
+    "analogy": "",
+    "interactive_mermaid": "",
+    "match_game_data": null
+  }
+}
+
+TASK:
+[Describe your topic, material, or text to extract cards from here]
+```
+
+### How to Apply Generated JSON
+1. Paste the generated JSON array into the target file inside `decks/` (e.g. `decks/06_Business_and_Productivity/Productivity/Habits/habits.json`).
+2. Run the deterministic validator:
+   ```powershell
+   python anki_adk_hub.py validate
+   ```
+3. Sync the cards directly to Anki Desktop:
+   ```powershell
+   python anki_adk_hub.py sync
+   ```

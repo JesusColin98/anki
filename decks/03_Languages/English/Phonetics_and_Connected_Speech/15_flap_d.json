@@ -2,7 +2,7 @@
   {
     "id": "644f6adface2b8b8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ladder/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ladder/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He climbed the wooden {{c1::ladder}}.",
-      "explanation": "<b>Written:</b> ladder<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">la-der</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'ladder' pronounced as 'la-der'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/ladder/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ladder/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He climbed the wooden {{c1::ladder}}.",
+      "explanation": "<b>Full transcript:</b> ladder<br><br><b>Connected form:</b> <i>la-der</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "escalera",
-      "usage": "Written: <code>ladder</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">la-der</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ladder/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ladder/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>la-der</code><br>Formal: <code>ladder</code><br><a href=\"https://youglish.com/pronounce/ladder/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ladder/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "644f6adface2b8b8",
+      "full_transcript": "ladder",
+      "connected_form": "la-der",
+      "gap_text": "He climbed the wooden {{c1::ladder}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/ladder/english/us",
         "forvo_word": "https://forvo.com/word/ladder/#en"
@@ -42,7 +50,7 @@
   {
     "id": "a63f997499bd0bee",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/riding/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/riding/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She was {{c1::riding}} a horse.",
-      "explanation": "<b>Written:</b> riding<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ri-ding</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'riding' pronounced as 'ri-ding'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/riding/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/riding/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She was {{c1::riding}} a horse.",
+      "explanation": "<b>Full transcript:</b> riding<br><br><b>Connected form:</b> <i>ri-ding</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "montando",
-      "usage": "Written: <code>riding</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ri-ding</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/riding/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/riding/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ri-ding</code><br>Formal: <code>riding</code><br><a href=\"https://youglish.com/pronounce/riding/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/riding/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a63f997499bd0bee",
+      "full_transcript": "riding",
+      "connected_form": "ri-ding",
+      "gap_text": "She was {{c1::riding}} a horse.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/riding/english/us",
         "forvo_word": "https://forvo.com/word/riding/#en"
@@ -82,7 +98,7 @@
   {
     "id": "413f3bb2db7e69d9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/body/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/body/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Keep your {{c1::body}} active.",
-      "explanation": "<b>Written:</b> body<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bo-dy</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'body' pronounced as 'bo-dy'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/body/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/body/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Keep your {{c1::body}} active.",
+      "explanation": "<b>Full transcript:</b> body<br><br><b>Connected form:</b> <i>bo-dy</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "cuerpo",
-      "usage": "Written: <code>body</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bo-dy</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/body/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/body/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bo-dy</code><br>Formal: <code>body</code><br><a href=\"https://youglish.com/pronounce/body/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/body/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "413f3bb2db7e69d9",
+      "full_transcript": "body",
+      "connected_form": "bo-dy",
+      "gap_text": "Keep your {{c1::body}} active.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/body/english/us",
         "forvo_word": "https://forvo.com/word/body/#en"
@@ -122,7 +146,7 @@
   {
     "id": "f109bdff66c67b43",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/medal/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/medal/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He won a gold {{c1::medal}}.",
-      "explanation": "<b>Written:</b> medal<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">me-dal</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'medal' pronounced as 'me-dal'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/medal/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/medal/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He won a gold {{c1::medal}}.",
+      "explanation": "<b>Full transcript:</b> medal<br><br><b>Connected form:</b> <i>me-dal</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "medalla",
-      "usage": "Written: <code>medal</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">me-dal</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/medal/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/medal/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>me-dal</code><br>Formal: <code>medal</code><br><a href=\"https://youglish.com/pronounce/medal/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/medal/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f109bdff66c67b43",
+      "full_transcript": "medal",
+      "connected_form": "me-dal",
+      "gap_text": "He won a gold {{c1::medal}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/medal/english/us",
         "forvo_word": "https://forvo.com/word/medal/#en"
@@ -162,7 +194,7 @@
   {
     "id": "8bb4ce287f55845a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/muddy/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/muddy/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>His boots were {{c1::muddy}}.",
-      "explanation": "<b>Written:</b> muddy<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mu-dy</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'muddy' pronounced as 'mu-dy'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/muddy/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/muddy/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>His boots were {{c1::muddy}}.",
+      "explanation": "<b>Full transcript:</b> muddy<br><br><b>Connected form:</b> <i>mu-dy</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "embarrado",
-      "usage": "Written: <code>muddy</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mu-dy</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/muddy/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/muddy/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mu-dy</code><br>Formal: <code>muddy</code><br><a href=\"https://youglish.com/pronounce/muddy/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/muddy/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8bb4ce287f55845a",
+      "full_transcript": "muddy",
+      "connected_form": "mu-dy",
+      "gap_text": "His boots were {{c1::muddy}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/muddy/english/us",
         "forvo_word": "https://forvo.com/word/muddy/#en"
@@ -202,7 +242,7 @@
   {
     "id": "c42841f1704e8b9f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/padding/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/padding/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The jacket has extra {{c1::padding}}.",
-      "explanation": "<b>Written:</b> padding<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">pa-ding</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'padding' pronounced as 'pa-ding'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/padding/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/padding/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The jacket has extra {{c1::padding}}.",
+      "explanation": "<b>Full transcript:</b> padding<br><br><b>Connected form:</b> <i>pa-ding</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "relleno",
-      "usage": "Written: <code>padding</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">pa-ding</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/padding/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/padding/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>pa-ding</code><br>Formal: <code>padding</code><br><a href=\"https://youglish.com/pronounce/padding/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/padding/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c42841f1704e8b9f",
+      "full_transcript": "padding",
+      "connected_form": "pa-ding",
+      "gap_text": "The jacket has extra {{c1::padding}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/padding/english/us",
         "forvo_word": "https://forvo.com/word/padding/#en"
@@ -242,7 +290,7 @@
   {
     "id": "5d6c2d0888447977",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/heading/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/heading/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Where are you {{c1::heading}}?",
-      "explanation": "<b>Written:</b> heading<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hea-ding</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'heading' pronounced as 'hea-ding'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/heading/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/heading/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Where are you {{c1::heading}}?",
+      "explanation": "<b>Full transcript:</b> heading<br><br><b>Connected form:</b> <i>hea-ding</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "dirigiéndose",
-      "usage": "Written: <code>heading</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hea-ding</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/heading/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/heading/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hea-ding</code><br>Formal: <code>heading</code><br><a href=\"https://youglish.com/pronounce/heading/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/heading/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5d6c2d0888447977",
+      "full_transcript": "heading",
+      "connected_form": "hea-ding",
+      "gap_text": "Where are you {{c1::heading}}?",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/heading/english/us",
         "forvo_word": "https://forvo.com/word/heading/#en"
@@ -282,7 +338,7 @@
   {
     "id": "b424165fd9b62ada",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/loading/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/loading/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The page is still {{c1::loading}}.",
-      "explanation": "<b>Written:</b> loading<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">loa-ding</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'loading' pronounced as 'loa-ding'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/loading/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/loading/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The page is still {{c1::loading}}.",
+      "explanation": "<b>Full transcript:</b> loading<br><br><b>Connected form:</b> <i>loa-ding</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "cargando",
-      "usage": "Written: <code>loading</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">loa-ding</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/loading/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/loading/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>loa-ding</code><br>Formal: <code>loading</code><br><a href=\"https://youglish.com/pronounce/loading/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/loading/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b424165fd9b62ada",
+      "full_transcript": "loading",
+      "connected_form": "loa-ding",
+      "gap_text": "The page is still {{c1::loading}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/loading/english/us",
         "forvo_word": "https://forvo.com/word/loading/#en"
@@ -322,7 +386,7 @@
   {
     "id": "8d255797dc133baa",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/made%20an%20offer/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/made/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They {{c1::made an offer}} on the house.",
-      "explanation": "<b>Written:</b> made an offer<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ma-dan-offer</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'made an offer' pronounced as 'ma-dan-offer'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/made%20an%20offer/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/made/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They {{c1::made an offer}} on the house.",
+      "explanation": "<b>Full transcript:</b> made an offer<br><br><b>Connected form:</b> <i>ma-dan-offer</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "hicieron una oferta",
-      "usage": "Written: <code>made an offer</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ma-dan-offer</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/made%20an%20offer/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/made/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ma-dan-offer</code><br>Formal: <code>made an offer</code><br><a href=\"https://youglish.com/pronounce/made%20an%20offer/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/made/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8d255797dc133baa",
+      "full_transcript": "made an offer",
+      "connected_form": "ma-dan-offer",
+      "gap_text": "They {{c1::made an offer}} on the house.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/made%20an%20offer/english/us",
         "forvo_word": "https://forvo.com/word/made/#en"
@@ -362,7 +434,7 @@
   {
     "id": "45871e3d5407fc43",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hide%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hide/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Where did you {{c1::hide it}}?",
-      "explanation": "<b>Written:</b> hide it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hi-dit</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hide it' pronounced as 'hi-dit'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hide%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hide/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Where did you {{c1::hide it}}?",
+      "explanation": "<b>Full transcript:</b> hide it<br><br><b>Connected form:</b> <i>hi-dit</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "esconderlo",
-      "usage": "Written: <code>hide it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hi-dit</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hide%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hide/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hi-dit</code><br>Formal: <code>hide it</code><br><a href=\"https://youglish.com/pronounce/hide%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hide/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "45871e3d5407fc43",
+      "full_transcript": "hide it",
+      "connected_form": "hi-dit",
+      "gap_text": "Where did you {{c1::hide it}}?",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hide%20it/english/us",
         "forvo_word": "https://forvo.com/word/hide/#en"
@@ -402,7 +482,7 @@
   {
     "id": "0ff31fbca6ef425d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/she%27d%20ask/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/she%27d/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I knew {{c1::she'd ask}} that.",
-      "explanation": "<b>Written:</b> she'd ask<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">shee-dask</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'she'd ask' pronounced as 'shee-dask'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/she%27d%20ask/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/she%27d/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I knew {{c1::she'd ask}} that.",
+      "explanation": "<b>Full transcript:</b> she'd ask<br><br><b>Connected form:</b> <i>shee-dask</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "ella preguntaría",
-      "usage": "Written: <code>she'd ask</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">shee-dask</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/she%27d%20ask/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/she%27d/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>shee-dask</code><br>Formal: <code>she'd ask</code><br><a href=\"https://youglish.com/pronounce/she%27d%20ask/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/she%27d/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0ff31fbca6ef425d",
+      "full_transcript": "she'd ask",
+      "connected_form": "shee-dask",
+      "gap_text": "I knew {{c1::she'd ask}} that.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/she%27d%20ask/english/us",
         "forvo_word": "https://forvo.com/word/she%27d/#en"
@@ -442,7 +530,7 @@
   {
     "id": "b4c1ec894bad2996",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/middle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's in the {{c1::middle}}.",
-      "explanation": "<b>Written:</b> middle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mi-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'middle' pronounced as 'mi-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/middle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's in the {{c1::middle}}.",
+      "explanation": "<b>Full transcript:</b> middle<br><br><b>Connected form:</b> <i>mi-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "medio",
-      "usage": "Written: <code>middle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mi-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/middle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mi-doul</code><br>Formal: <code>middle</code><br><a href=\"https://youglish.com/pronounce/middle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b4c1ec894bad2996",
+      "full_transcript": "middle",
+      "connected_form": "mi-doul",
+      "gap_text": "It's in the {{c1::middle}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/middle/english/us",
         "forvo_word": "https://forvo.com/word/middle/#en"
@@ -482,7 +578,7 @@
   {
     "id": "fc95ce124786f865",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cradle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cradle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The baby slept in the {{c1::cradle}}.",
-      "explanation": "<b>Written:</b> cradle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cra-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cradle' pronounced as 'cra-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cradle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cradle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The baby slept in the {{c1::cradle}}.",
+      "explanation": "<b>Full transcript:</b> cradle<br><br><b>Connected form:</b> <i>cra-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "cuna",
-      "usage": "Written: <code>cradle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cra-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cradle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cradle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cra-doul</code><br>Formal: <code>cradle</code><br><a href=\"https://youglish.com/pronounce/cradle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cradle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fc95ce124786f865",
+      "full_transcript": "cradle",
+      "connected_form": "cra-doul",
+      "gap_text": "The baby slept in the {{c1::cradle}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cradle/english/us",
         "forvo_word": "https://forvo.com/word/cradle/#en"
@@ -522,7 +626,7 @@
   {
     "id": "6f9cff6913cd364a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/saddle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/saddle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Put the {{c1::saddle}} on the horse.",
-      "explanation": "<b>Written:</b> saddle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sa-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'saddle' pronounced as 'sa-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/saddle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/saddle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Put the {{c1::saddle}} on the horse.",
+      "explanation": "<b>Full transcript:</b> saddle<br><br><b>Connected form:</b> <i>sa-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "silla de montar",
-      "usage": "Written: <code>saddle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sa-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/saddle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/saddle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sa-doul</code><br>Formal: <code>saddle</code><br><a href=\"https://youglish.com/pronounce/saddle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/saddle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6f9cff6913cd364a",
+      "full_transcript": "saddle",
+      "connected_form": "sa-doul",
+      "gap_text": "Put the {{c1::saddle}} on the horse.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/saddle/english/us",
         "forvo_word": "https://forvo.com/word/saddle/#en"
@@ -562,7 +674,7 @@
   {
     "id": "d0ca0f04f63e982d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/puddle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/puddle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He stepped in a water {{c1::puddle}}.",
-      "explanation": "<b>Written:</b> puddle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">pu-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'puddle' pronounced as 'pu-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/puddle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/puddle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He stepped in a water {{c1::puddle}}.",
+      "explanation": "<b>Full transcript:</b> puddle<br><br><b>Connected form:</b> <i>pu-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "charco",
-      "usage": "Written: <code>puddle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">pu-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/puddle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/puddle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>pu-doul</code><br>Formal: <code>puddle</code><br><a href=\"https://youglish.com/pronounce/puddle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/puddle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d0ca0f04f63e982d",
+      "full_transcript": "puddle",
+      "connected_form": "pu-doul",
+      "gap_text": "He stepped in a water {{c1::puddle}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/puddle/english/us",
         "forvo_word": "https://forvo.com/word/puddle/#en"
@@ -602,7 +722,7 @@
   {
     "id": "966d6cb422217a52",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/riddle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/riddle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can you solve this {{c1::riddle}}?",
-      "explanation": "<b>Written:</b> riddle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ri-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'riddle' pronounced as 'ri-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/riddle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/riddle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can you solve this {{c1::riddle}}?",
+      "explanation": "<b>Full transcript:</b> riddle<br><br><b>Connected form:</b> <i>ri-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "acertijo",
-      "usage": "Written: <code>riddle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ri-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/riddle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/riddle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ri-doul</code><br>Formal: <code>riddle</code><br><a href=\"https://youglish.com/pronounce/riddle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/riddle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "966d6cb422217a52",
+      "full_transcript": "riddle",
+      "connected_form": "ri-doul",
+      "gap_text": "Can you solve this {{c1::riddle}}?",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/riddle/english/us",
         "forvo_word": "https://forvo.com/word/riddle/#en"
@@ -642,7 +770,7 @@
   {
     "id": "088ca2b8bd659e0e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/needle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/needle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I need a thread and {{c1::needle}}.",
-      "explanation": "<b>Written:</b> needle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">nee-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'needle' pronounced as 'nee-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/needle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/needle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I need a thread and {{c1::needle}}.",
+      "explanation": "<b>Full transcript:</b> needle<br><br><b>Connected form:</b> <i>nee-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "aguja",
-      "usage": "Written: <code>needle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">nee-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/needle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/needle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>nee-doul</code><br>Formal: <code>needle</code><br><a href=\"https://youglish.com/pronounce/needle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/needle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "088ca2b8bd659e0e",
+      "full_transcript": "needle",
+      "connected_form": "nee-doul",
+      "gap_text": "I need a thread and {{c1::needle}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/needle/english/us",
         "forvo_word": "https://forvo.com/word/needle/#en"
@@ -682,7 +818,7 @@
   {
     "id": "23712503c91af6c9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/noodle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/noodle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She ate a hot {{c1::noodle}} soup.",
-      "explanation": "<b>Written:</b> noodle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">noo-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'noodle' pronounced as 'noo-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/noodle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/noodle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She ate a hot {{c1::noodle}} soup.",
+      "explanation": "<b>Full transcript:</b> noodle<br><br><b>Connected form:</b> <i>noo-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "fideo",
-      "usage": "Written: <code>noodle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">noo-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/noodle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/noodle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>noo-doul</code><br>Formal: <code>noodle</code><br><a href=\"https://youglish.com/pronounce/noodle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/noodle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "23712503c91af6c9",
+      "full_transcript": "noodle",
+      "connected_form": "noo-doul",
+      "gap_text": "She ate a hot {{c1::noodle}} soup.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/noodle/english/us",
         "forvo_word": "https://forvo.com/word/noodle/#en"
@@ -722,7 +866,7 @@
   {
     "id": "46ee77763dfbbe1a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/candle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/candle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Light the {{c1::candle}}.",
-      "explanation": "<b>Written:</b> candle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">can-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'candle' pronounced as 'can-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/candle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/candle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Light the {{c1::candle}}.",
+      "explanation": "<b>Full transcript:</b> candle<br><br><b>Connected form:</b> <i>can-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "vela",
-      "usage": "Written: <code>candle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">can-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/candle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/candle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>can-doul</code><br>Formal: <code>candle</code><br><a href=\"https://youglish.com/pronounce/candle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/candle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "46ee77763dfbbe1a",
+      "full_transcript": "candle",
+      "connected_form": "can-doul",
+      "gap_text": "Light the {{c1::candle}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/candle/english/us",
         "forvo_word": "https://forvo.com/word/candle/#en"
@@ -762,7 +914,7 @@
   {
     "id": "af6562efcfb5661c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/handle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/handle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Turn the door {{c1::handle}}.",
-      "explanation": "<b>Written:</b> handle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">han-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'handle' pronounced as 'han-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/handle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/handle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Turn the door {{c1::handle}}.",
+      "explanation": "<b>Full transcript:</b> handle<br><br><b>Connected form:</b> <i>han-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "manija / asa",
-      "usage": "Written: <code>handle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">han-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/handle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/handle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>han-doul</code><br>Formal: <code>handle</code><br><a href=\"https://youglish.com/pronounce/handle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/handle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "af6562efcfb5661c",
+      "full_transcript": "handle",
+      "connected_form": "han-doul",
+      "gap_text": "Turn the door {{c1::handle}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/handle/english/us",
         "forvo_word": "https://forvo.com/word/handle/#en"
@@ -802,7 +962,7 @@
   {
     "id": "1681ee8e49d52edc",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bundle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bundle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We tied it in a {{c1::bundle}}.",
-      "explanation": "<b>Written:</b> bundle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bun-doul</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bundle' pronounced as 'bun-doul'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bundle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bundle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We tied it in a {{c1::bundle}}.",
+      "explanation": "<b>Full transcript:</b> bundle<br><br><b>Connected form:</b> <i>bun-doul</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "paquete / manojo",
-      "usage": "Written: <code>bundle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bun-doul</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bundle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bundle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bun-doul</code><br>Formal: <code>bundle</code><br><a href=\"https://youglish.com/pronounce/bundle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bundle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1681ee8e49d52edc",
+      "full_transcript": "bundle",
+      "connected_form": "bun-doul",
+      "gap_text": "We tied it in a {{c1::bundle}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bundle/english/us",
         "forvo_word": "https://forvo.com/word/bundle/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "8d2e29d68a5db397",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sidewalk/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sidewalk/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Walk on the {{c1::sidewalk}}.",
-      "explanation": "<b>Written:</b> sidewalk<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">si-dewalk</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sidewalk' pronounced as 'si-dewalk'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sidewalk/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sidewalk/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Walk on the {{c1::sidewalk}}.",
+      "explanation": "<b>Full transcript:</b> sidewalk<br><br><b>Connected form:</b> <i>si-dewalk</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "acera",
-      "usage": "Written: <code>sidewalk</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">si-dewalk</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sidewalk/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sidewalk/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>si-dewalk</code><br>Formal: <code>sidewalk</code><br><a href=\"https://youglish.com/pronounce/sidewalk/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sidewalk/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8d2e29d68a5db397",
+      "full_transcript": "sidewalk",
+      "connected_form": "si-dewalk",
+      "gap_text": "Walk on the {{c1::sidewalk}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sidewalk/english/us",
         "forvo_word": "https://forvo.com/word/sidewalk/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "23d9083a6149133d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wedding/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wedding/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Are you going to the {{c1::wedding}}?",
-      "explanation": "<b>Written:</b> wedding<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">we-ding</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'wedding' pronounced as 'we-ding'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/wedding/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wedding/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Are you going to the {{c1::wedding}}?",
+      "explanation": "<b>Full transcript:</b> wedding<br><br><b>Connected form:</b> <i>we-ding</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "boda",
-      "usage": "Written: <code>wedding</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">we-ding</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wedding/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wedding/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>we-ding</code><br>Formal: <code>wedding</code><br><a href=\"https://youglish.com/pronounce/wedding/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wedding/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "23d9083a6149133d",
+      "full_transcript": "wedding",
+      "connected_form": "we-ding",
+      "gap_text": "Are you going to the {{c1::wedding}}?",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/wedding/english/us",
         "forvo_word": "https://forvo.com/word/wedding/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "84ebdd8f7d8febd9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bidding/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bidding/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::bidding}} war started.",
-      "explanation": "<b>Written:</b> bidding<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bi-ding</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bidding' pronounced as 'bi-ding'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bidding/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bidding/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::bidding}} war started.",
+      "explanation": "<b>Full transcript:</b> bidding<br><br><b>Connected form:</b> <i>bi-ding</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "licitación / subasta",
-      "usage": "Written: <code>bidding</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bi-ding</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bidding/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bidding/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bi-ding</code><br>Formal: <code>bidding</code><br><a href=\"https://youglish.com/pronounce/bidding/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bidding/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "84ebdd8f7d8febd9",
+      "full_transcript": "bidding",
+      "connected_form": "bi-ding",
+      "gap_text": "The {{c1::bidding}} war started.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bidding/english/us",
         "forvo_word": "https://forvo.com/word/bidding/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "b98711841e3a5ff8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/spider/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/spider/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I saw a big {{c1::spider}}.",
-      "explanation": "<b>Written:</b> spider<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">spi-der</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'spider' pronounced as 'spi-der'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/spider/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/spider/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I saw a big {{c1::spider}}.",
+      "explanation": "<b>Full transcript:</b> spider<br><br><b>Connected form:</b> <i>spi-der</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "araña",
-      "usage": "Written: <code>spider</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">spi-der</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/spider/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/spider/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>spi-der</code><br>Formal: <code>spider</code><br><a href=\"https://youglish.com/pronounce/spider/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/spider/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b98711841e3a5ff8",
+      "full_transcript": "spider",
+      "connected_form": "spi-der",
+      "gap_text": "I saw a big {{c1::spider}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/spider/english/us",
         "forvo_word": "https://forvo.com/word/spider/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "2fd06257b8e62934",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rider/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rider/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is a skilled {{c1::rider}}.",
-      "explanation": "<b>Written:</b> rider<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ri-der</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'rider' pronounced as 'ri-der'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/rider/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rider/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is a skilled {{c1::rider}}.",
+      "explanation": "<b>Full transcript:</b> rider<br><br><b>Connected form:</b> <i>ri-der</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "jinete / conductor",
-      "usage": "Written: <code>rider</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ri-der</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rider/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rider/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ri-der</code><br>Formal: <code>rider</code><br><a href=\"https://youglish.com/pronounce/rider/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rider/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2fd06257b8e62934",
+      "full_transcript": "rider",
+      "connected_form": "ri-der",
+      "gap_text": "He is a skilled {{c1::rider}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/rider/english/us",
         "forvo_word": "https://forvo.com/word/rider/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "5c184bb7fa270b17",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/slider/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/slider/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Order a mini {{c1::slider}}.",
-      "explanation": "<b>Written:</b> slider<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sli-der</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'slider' pronounced as 'sli-der'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/slider/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/slider/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Order a mini {{c1::slider}}.",
+      "explanation": "<b>Full transcript:</b> slider<br><br><b>Connected form:</b> <i>sli-der</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "mini hamburguesa",
-      "usage": "Written: <code>slider</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sli-der</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/slider/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/slider/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sli-der</code><br>Formal: <code>slider</code><br><a href=\"https://youglish.com/pronounce/slider/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/slider/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5c184bb7fa270b17",
+      "full_transcript": "slider",
+      "connected_form": "sli-der",
+      "gap_text": "Order a mini {{c1::slider}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/slider/english/us",
         "forvo_word": "https://forvo.com/word/slider/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "33b04fb9a17f55ad",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/glider/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/glider/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::glider}} flew smoothly.",
-      "explanation": "<b>Written:</b> glider<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gli-der</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'glider' pronounced as 'gli-der'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/glider/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/glider/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::glider}} flew smoothly.",
+      "explanation": "<b>Full transcript:</b> glider<br><br><b>Connected form:</b> <i>gli-der</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "planeador",
-      "usage": "Written: <code>glider</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gli-der</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/glider/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/glider/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gli-der</code><br>Formal: <code>glider</code><br><a href=\"https://youglish.com/pronounce/glider/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/glider/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "33b04fb9a17f55ad",
+      "full_transcript": "glider",
+      "connected_form": "gli-der",
+      "gap_text": "The {{c1::glider}} flew smoothly.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/glider/english/us",
         "forvo_word": "https://forvo.com/word/glider/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "311e83ce7f231f1e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/folder/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/folder/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Put the files in the {{c1::folder}}.",
-      "explanation": "<b>Written:</b> folder<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fol-der</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'folder' pronounced as 'fol-der'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/folder/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/folder/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Put the files in the {{c1::folder}}.",
+      "explanation": "<b>Full transcript:</b> folder<br><br><b>Connected form:</b> <i>fol-der</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "carpeta",
-      "usage": "Written: <code>folder</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fol-der</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/folder/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/folder/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fol-der</code><br>Formal: <code>folder</code><br><a href=\"https://youglish.com/pronounce/folder/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/folder/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "311e83ce7f231f1e",
+      "full_transcript": "folder",
+      "connected_form": "fol-der",
+      "gap_text": "Put the files in the {{c1::folder}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/folder/english/us",
         "forvo_word": "https://forvo.com/word/folder/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "84ff43fef3a38409",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Flap_D 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/builder/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/builder/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is a home {{c1::builder}}.",
-      "explanation": "<b>Written:</b> builder<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">buil-der</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Flap D</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'builder' pronounced as 'buil-der'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/builder/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/builder/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is a home {{c1::builder}}.",
+      "explanation": "<b>Full transcript:</b> builder<br><br><b>Connected form:</b> <i>buil-der</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Flap D</code></li></ul>",
       "spanish": "constructor",
-      "usage": "Written: <code>builder</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">buil-der</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/builder/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/builder/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>buil-der</code><br>Formal: <code>builder</code><br><a href=\"https://youglish.com/pronounce/builder/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/builder/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "84ff43fef3a38409",
+      "full_transcript": "builder",
+      "connected_form": "buil-der",
+      "gap_text": "He is a home {{c1::builder}}.",
+      "rules_applied": [
+        "Flap D"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/builder/english/us",
         "forvo_word": "https://forvo.com/word/builder/#en"

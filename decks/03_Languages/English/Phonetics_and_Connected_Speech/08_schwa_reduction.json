@@ -2,7 +2,7 @@
   {
     "id": "aa7cff6d3ddacb32",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fish%20and%20chips/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fish/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I ordered {{c1::fish and chips}}.",
-      "explanation": "<b>Written:</b> fish and chips<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fish 'n chips</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'fish and chips' pronounced as 'fish 'n chips'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/fish%20and%20chips/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fish/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I ordered {{c1::fish and chips}}.",
+      "explanation": "<b>Full transcript:</b> fish and chips<br><br><b>Connected form:</b> <i>fish 'n chips</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "pescado con patatas",
-      "usage": "Written: <code>fish and chips</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fish 'n chips</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fish%20and%20chips/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fish/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fish 'n chips</code><br>Formal: <code>fish and chips</code><br><a href=\"https://youglish.com/pronounce/fish%20and%20chips/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fish/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "aa7cff6d3ddacb32",
+      "full_transcript": "fish and chips",
+      "connected_form": "fish 'n chips",
+      "gap_text": "I ordered {{c1::fish and chips}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/fish%20and%20chips/english/us",
         "forvo_word": "https://forvo.com/word/fish/#en"
@@ -42,7 +50,7 @@
   {
     "id": "2a1045533af0896c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/go%20to%20the%20store/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/go/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I need to {{c1::go to the store}}.",
-      "explanation": "<b>Written:</b> go to the store<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">go tuh thuh store</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'go to the store' pronounced as 'go tuh thuh store'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/go%20to%20the%20store/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/go/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I need to {{c1::go to the store}}.",
+      "explanation": "<b>Full transcript:</b> go to the store<br><br><b>Connected form:</b> <i>go tuh thuh store</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "ir a la tienda",
-      "usage": "Written: <code>go to the store</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">go tuh thuh store</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/go%20to%20the%20store/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/go/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>go tuh thuh store</code><br>Formal: <code>go to the store</code><br><a href=\"https://youglish.com/pronounce/go%20to%20the%20store/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/go/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2a1045533af0896c",
+      "full_transcript": "go to the store",
+      "connected_form": "go tuh thuh store",
+      "gap_text": "I need to {{c1::go to the store}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/go%20to%20the%20store/english/us",
         "forvo_word": "https://forvo.com/word/go/#en"
@@ -82,7 +98,7 @@
   {
     "id": "e0b8ce52f13ae043",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/can%20go/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/can/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::can go}} tomorrow.",
-      "explanation": "<b>Written:</b> can go<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">kn go</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'can go' pronounced as 'kn go'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/can%20go/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/can/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::can go}} tomorrow.",
+      "explanation": "<b>Full transcript:</b> can go<br><br><b>Connected form:</b> <i>kn go</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "puedo ir",
-      "usage": "Written: <code>can go</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">kn go</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/can%20go/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/can/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>kn go</code><br>Formal: <code>can go</code><br><a href=\"https://youglish.com/pronounce/can%20go/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/can/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "e0b8ce52f13ae043",
+      "full_transcript": "can go",
+      "connected_form": "kn go",
+      "gap_text": "I {{c1::can go}} tomorrow.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/can%20go/english/us",
         "forvo_word": "https://forvo.com/word/can/#en"
@@ -122,7 +146,7 @@
   {
     "id": "a6895b9605e95150",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/piece%20of%20cake/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/piece/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It was a {{c1::piece of cake}}.",
-      "explanation": "<b>Written:</b> piece of cake<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">piece av cake</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'piece of cake' pronounced as 'piece av cake'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/piece%20of%20cake/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/piece/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It was a {{c1::piece of cake}}.",
+      "explanation": "<b>Full transcript:</b> piece of cake<br><br><b>Connected form:</b> <i>piece av cake</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "pan comido",
-      "usage": "Written: <code>piece of cake</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">piece av cake</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/piece%20of%20cake/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/piece/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>piece av cake</code><br>Formal: <code>piece of cake</code><br><a href=\"https://youglish.com/pronounce/piece%20of%20cake/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/piece/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a6895b9605e95150",
+      "full_transcript": "piece of cake",
+      "connected_form": "piece av cake",
+      "gap_text": "It was a {{c1::piece of cake}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/piece%20of%20cake/english/us",
         "forvo_word": "https://forvo.com/word/piece/#en"
@@ -162,7 +194,7 @@
   {
     "id": "f4cd8443ebecf31d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/for%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/for/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is {{c1::for you}}.",
-      "explanation": "<b>Written:</b> for you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fer yuh</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'for you' pronounced as 'fer yuh'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/for%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/for/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is {{c1::for you}}.",
+      "explanation": "<b>Full transcript:</b> for you<br><br><b>Connected form:</b> <i>fer yuh</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "para ti",
-      "usage": "Written: <code>for you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fer yuh</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/for%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/for/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fer yuh</code><br>Formal: <code>for you</code><br><a href=\"https://youglish.com/pronounce/for%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/for/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f4cd8443ebecf31d",
+      "full_transcript": "for you",
+      "connected_form": "fer yuh",
+      "gap_text": "This is {{c1::for you}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/for%20you/english/us",
         "forvo_word": "https://forvo.com/word/for/#en"
@@ -202,7 +242,7 @@
   {
     "id": "8e6cfb69b840232d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/more%20than%20that/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/more/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I want {{c1::more than that}}.",
-      "explanation": "<b>Written:</b> more than that<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">more thn that</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'more than that' pronounced as 'more thn that'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/more%20than%20that/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/more/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I want {{c1::more than that}}.",
+      "explanation": "<b>Full transcript:</b> more than that<br><br><b>Connected form:</b> <i>more thn that</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "más que eso",
-      "usage": "Written: <code>more than that</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">more thn that</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/more%20than%20that/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/more/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>more thn that</code><br>Formal: <code>more than that</code><br><a href=\"https://youglish.com/pronounce/more%20than%20that/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/more/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8e6cfb69b840232d",
+      "full_transcript": "more than that",
+      "connected_form": "more thn that",
+      "gap_text": "I want {{c1::more than that}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/more%20than%20that/english/us",
         "forvo_word": "https://forvo.com/word/more/#en"
@@ -242,7 +290,7 @@
   {
     "id": "34d75b4d4858f5fd",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/as%20fast%20as/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/as/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Run {{c1::as fast as}} you can.",
-      "explanation": "<b>Written:</b> as fast as<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">az fast az</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'as fast as' pronounced as 'az fast az'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/as%20fast%20as/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/as/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Run {{c1::as fast as}} you can.",
+      "explanation": "<b>Full transcript:</b> as fast as<br><br><b>Connected form:</b> <i>az fast az</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "tan rápido como",
-      "usage": "Written: <code>as fast as</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">az fast az</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/as%20fast%20as/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/as/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>az fast az</code><br>Formal: <code>as fast as</code><br><a href=\"https://youglish.com/pronounce/as%20fast%20as/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/as/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "34d75b4d4858f5fd",
+      "full_transcript": "as fast as",
+      "connected_form": "az fast az",
+      "gap_text": "Run {{c1::as fast as}} you can.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/as%20fast%20as/english/us",
         "forvo_word": "https://forvo.com/word/as/#en"
@@ -282,7 +338,7 @@
   {
     "id": "50af806c23cfe059",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/some%20of%20them/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/some/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I want {{c1::some of them}}.",
-      "explanation": "<b>Written:</b> some of them<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">some av thm</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'some of them' pronounced as 'some av thm'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/some%20of%20them/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/some/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I want {{c1::some of them}}.",
+      "explanation": "<b>Full transcript:</b> some of them<br><br><b>Connected form:</b> <i>some av thm</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "algunos de ellos",
-      "usage": "Written: <code>some of them</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">some av thm</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/some%20of%20them/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/some/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>some av thm</code><br>Formal: <code>some of them</code><br><a href=\"https://youglish.com/pronounce/some%20of%20them/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/some/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "50af806c23cfe059",
+      "full_transcript": "some of them",
+      "connected_form": "some av thm",
+      "gap_text": "I want {{c1::some of them}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/some%20of%20them/english/us",
         "forvo_word": "https://forvo.com/word/some/#en"
@@ -322,7 +386,7 @@
   {
     "id": "971af8af3d652544",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/was%20good/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/was/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The movie {{c1::was good}}.",
-      "explanation": "<b>Written:</b> was good<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wz good</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'was good' pronounced as 'wz good'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/was%20good/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/was/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The movie {{c1::was good}}.",
+      "explanation": "<b>Full transcript:</b> was good<br><br><b>Connected form:</b> <i>wz good</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "estuvo buena",
-      "usage": "Written: <code>was good</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wz good</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/was%20good/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/was/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wz good</code><br>Formal: <code>was good</code><br><a href=\"https://youglish.com/pronounce/was%20good/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/was/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "971af8af3d652544",
+      "full_transcript": "was good",
+      "connected_form": "wz good",
+      "gap_text": "The movie {{c1::was good}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/was%20good/english/us",
         "forvo_word": "https://forvo.com/word/was/#en"
@@ -362,7 +434,7 @@
   {
     "id": "eb3b0491a30d314d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/but%20I/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/but/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I tried {{c1::but I}} failed.",
-      "explanation": "<b>Written:</b> but I<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bt I</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'but I' pronounced as 'bt I'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/but%20I/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/but/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I tried {{c1::but I}} failed.",
+      "explanation": "<b>Full transcript:</b> but I<br><br><b>Connected form:</b> <i>bt I</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "pero yo",
-      "usage": "Written: <code>but I</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bt I</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/but%20I/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/but/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bt I</code><br>Formal: <code>but I</code><br><a href=\"https://youglish.com/pronounce/but%20I/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/but/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "eb3b0491a30d314d",
+      "full_transcript": "but I",
+      "connected_form": "bt I",
+      "gap_text": "I tried {{c1::but I}} failed.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/but%20I/english/us",
         "forvo_word": "https://forvo.com/word/but/#en"
@@ -402,7 +482,7 @@
   {
     "id": "217ce6cbf2880224",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/from%20here/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/from/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's far {{c1::from here}}.",
-      "explanation": "<b>Written:</b> from here<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">frm here</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'from here' pronounced as 'frm here'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/from%20here/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/from/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's far {{c1::from here}}.",
+      "explanation": "<b>Full transcript:</b> from here<br><br><b>Connected form:</b> <i>frm here</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "desde aquí",
-      "usage": "Written: <code>from here</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">frm here</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/from%20here/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/from/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>frm here</code><br>Formal: <code>from here</code><br><a href=\"https://youglish.com/pronounce/from%20here/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/from/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "217ce6cbf2880224",
+      "full_transcript": "from here",
+      "connected_form": "frm here",
+      "gap_text": "It's far {{c1::from here}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/from%20here/english/us",
         "forvo_word": "https://forvo.com/word/from/#en"
@@ -442,7 +530,7 @@
   {
     "id": "e75bc67f98aaa8dc",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/have%20done/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/have/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::have done}} it.",
-      "explanation": "<b>Written:</b> have done<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hv done</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'have done' pronounced as 'hv done'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/have%20done/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/have/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::have done}} it.",
+      "explanation": "<b>Full transcript:</b> have done<br><br><b>Connected form:</b> <i>hv done</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "he hecho",
-      "usage": "Written: <code>have done</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hv done</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/have%20done/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/have/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hv done</code><br>Formal: <code>have done</code><br><a href=\"https://youglish.com/pronounce/have%20done/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/have/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "e75bc67f98aaa8dc",
+      "full_transcript": "have done",
+      "connected_form": "hv done",
+      "gap_text": "I {{c1::have done}} it.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/have%20done/english/us",
         "forvo_word": "https://forvo.com/word/have/#en"
@@ -482,7 +578,7 @@
   {
     "id": "b1696a2c7ebd67ac",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/does%20he/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/does/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Where {{c1::does he}} live?",
-      "explanation": "<b>Written:</b> does he<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">dz he</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'does he' pronounced as 'dz he'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/does%20he/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/does/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Where {{c1::does he}} live?",
+      "explanation": "<b>Full transcript:</b> does he<br><br><b>Connected form:</b> <i>dz he</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "vive él",
-      "usage": "Written: <code>does he</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">dz he</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/does%20he/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/does/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>dz he</code><br>Formal: <code>does he</code><br><a href=\"https://youglish.com/pronounce/does%20he/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/does/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b1696a2c7ebd67ac",
+      "full_transcript": "does he",
+      "connected_form": "dz he",
+      "gap_text": "Where {{c1::does he}} live?",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/does%20he/english/us",
         "forvo_word": "https://forvo.com/word/does/#en"
@@ -522,7 +626,7 @@
   {
     "id": "18c863e5442892e5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/at%20school/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/at/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is {{c1::at school}}.",
-      "explanation": "<b>Written:</b> at school<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">t school</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'at school' pronounced as 't school'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/at%20school/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/at/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is {{c1::at school}}.",
+      "explanation": "<b>Full transcript:</b> at school<br><br><b>Connected form:</b> <i>t school</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "en la escuela",
-      "usage": "Written: <code>at school</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">t school</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/at%20school/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/at/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>t school</code><br>Formal: <code>at school</code><br><a href=\"https://youglish.com/pronounce/at%20school/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/at/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "18c863e5442892e5",
+      "full_transcript": "at school",
+      "connected_form": "t school",
+      "gap_text": "He is {{c1::at school}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/at%20school/english/us",
         "forvo_word": "https://forvo.com/word/at/#en"
@@ -562,7 +674,7 @@
   {
     "id": "487ebd2a90e991c3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/to%20eat/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/to/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Something {{c1::to eat}}.",
-      "explanation": "<b>Written:</b> to eat<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">t'eat</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'to eat' pronounced as 't'eat'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/to%20eat/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/to/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Something {{c1::to eat}}.",
+      "explanation": "<b>Full transcript:</b> to eat<br><br><b>Connected form:</b> <i>t'eat</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "para comer",
-      "usage": "Written: <code>to eat</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">t'eat</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/to%20eat/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/to/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>t'eat</code><br>Formal: <code>to eat</code><br><a href=\"https://youglish.com/pronounce/to%20eat/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/to/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "487ebd2a90e991c3",
+      "full_transcript": "to eat",
+      "connected_form": "t'eat",
+      "gap_text": "Something {{c1::to eat}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/to%20eat/english/us",
         "forvo_word": "https://forvo.com/word/to/#en"
@@ -602,7 +722,7 @@
   {
     "id": "894a1808740278e1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/you%20and%20me/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/you/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Just {{c1::you and me}}.",
-      "explanation": "<b>Written:</b> you and me<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">you 'n me</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'you and me' pronounced as 'you 'n me'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/you%20and%20me/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/you/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Just {{c1::you and me}}.",
+      "explanation": "<b>Full transcript:</b> you and me<br><br><b>Connected form:</b> <i>you 'n me</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "tú y yo",
-      "usage": "Written: <code>you and me</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">you 'n me</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/you%20and%20me/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/you/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>you 'n me</code><br>Formal: <code>you and me</code><br><a href=\"https://youglish.com/pronounce/you%20and%20me/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/you/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "894a1808740278e1",
+      "full_transcript": "you and me",
+      "connected_form": "you 'n me",
+      "gap_text": "Just {{c1::you and me}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/you%20and%20me/english/us",
         "forvo_word": "https://forvo.com/word/you/#en"
@@ -642,7 +770,7 @@
   {
     "id": "54cffcebfa5a77bd",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bread%20and%20butter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bread/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is my {{c1::bread and butter}}.",
-      "explanation": "<b>Written:</b> bread and butter<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bread 'n butter</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bread and butter' pronounced as 'bread 'n butter'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bread%20and%20butter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bread/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is my {{c1::bread and butter}}.",
+      "explanation": "<b>Full transcript:</b> bread and butter<br><br><b>Connected form:</b> <i>bread 'n butter</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "sustento / pan con mantequilla",
-      "usage": "Written: <code>bread and butter</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bread 'n butter</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bread%20and%20butter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bread/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bread 'n butter</code><br>Formal: <code>bread and butter</code><br><a href=\"https://youglish.com/pronounce/bread%20and%20butter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bread/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "54cffcebfa5a77bd",
+      "full_transcript": "bread and butter",
+      "connected_form": "bread 'n butter",
+      "gap_text": "This is my {{c1::bread and butter}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bread%20and%20butter/english/us",
         "forvo_word": "https://forvo.com/word/bread/#en"
@@ -682,7 +818,7 @@
   {
     "id": "db008a271d5309e9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rock%20and%20roll/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rock/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I love {{c1::rock and roll}}.",
-      "explanation": "<b>Written:</b> rock and roll<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">rock 'n roll</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'rock and roll' pronounced as 'rock 'n roll'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/rock%20and%20roll/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rock/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I love {{c1::rock and roll}}.",
+      "explanation": "<b>Full transcript:</b> rock and roll<br><br><b>Connected form:</b> <i>rock 'n roll</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "rock and roll",
-      "usage": "Written: <code>rock and roll</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">rock 'n roll</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rock%20and%20roll/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rock/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>rock 'n roll</code><br>Formal: <code>rock and roll</code><br><a href=\"https://youglish.com/pronounce/rock%20and%20roll/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rock/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "db008a271d5309e9",
+      "full_transcript": "rock and roll",
+      "connected_form": "rock 'n roll",
+      "gap_text": "I love {{c1::rock and roll}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/rock%20and%20roll/english/us",
         "forvo_word": "https://forvo.com/word/rock/#en"
@@ -722,7 +866,7 @@
   {
     "id": "280622bf49bc5d4f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/day%20and%20night/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/day/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We worked {{c1::day and night}}.",
-      "explanation": "<b>Written:</b> day and night<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">day 'n night</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'day and night' pronounced as 'day 'n night'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/day%20and%20night/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/day/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We worked {{c1::day and night}}.",
+      "explanation": "<b>Full transcript:</b> day and night<br><br><b>Connected form:</b> <i>day 'n night</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "día y noche",
-      "usage": "Written: <code>day and night</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">day 'n night</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/day%20and%20night/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/day/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>day 'n night</code><br>Formal: <code>day and night</code><br><a href=\"https://youglish.com/pronounce/day%20and%20night/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/day/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "280622bf49bc5d4f",
+      "full_transcript": "day and night",
+      "connected_form": "day 'n night",
+      "gap_text": "We worked {{c1::day and night}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/day%20and%20night/english/us",
         "forvo_word": "https://forvo.com/word/day/#en"
@@ -762,7 +914,7 @@
   {
     "id": "39d103f2c4e8a990",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/black%20and%20white/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/black/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's a {{c1::black and white}} photo.",
-      "explanation": "<b>Written:</b> black and white<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">black 'n white</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'black and white' pronounced as 'black 'n white'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/black%20and%20white/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/black/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's a {{c1::black and white}} photo.",
+      "explanation": "<b>Full transcript:</b> black and white<br><br><b>Connected form:</b> <i>black 'n white</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "blanco y negro",
-      "usage": "Written: <code>black and white</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">black 'n white</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/black%20and%20white/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/black/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>black 'n white</code><br>Formal: <code>black and white</code><br><a href=\"https://youglish.com/pronounce/black%20and%20white/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/black/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "39d103f2c4e8a990",
+      "full_transcript": "black and white",
+      "connected_form": "black 'n white",
+      "gap_text": "It's a {{c1::black and white}} photo.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/black%20and%20white/english/us",
         "forvo_word": "https://forvo.com/word/black/#en"
@@ -802,7 +962,7 @@
   {
     "id": "fa99f3162fd9e132",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/time%20after%20time/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/time/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It happens {{c1::time after time}}.",
-      "explanation": "<b>Written:</b> time after time<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">timeaftertime</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'time after time' pronounced as 'timeaftertime'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/time%20after%20time/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/time/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It happens {{c1::time after time}}.",
+      "explanation": "<b>Full transcript:</b> time after time<br><br><b>Connected form:</b> <i>timeaftertime</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "una y otra vez",
-      "usage": "Written: <code>time after time</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">timeaftertime</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/time%20after%20time/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/time/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>timeaftertime</code><br>Formal: <code>time after time</code><br><a href=\"https://youglish.com/pronounce/time%20after%20time/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/time/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fa99f3162fd9e132",
+      "full_transcript": "time after time",
+      "connected_form": "timeaftertime",
+      "gap_text": "It happens {{c1::time after time}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/time%20after%20time/english/us",
         "forvo_word": "https://forvo.com/word/time/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "792294472e101057",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/out%20of%20order/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/out/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The machine is {{c1::out of order}}.",
-      "explanation": "<b>Written:</b> out of order<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">out av order</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'out of order' pronounced as 'out av order'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/out%20of%20order/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/out/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The machine is {{c1::out of order}}.",
+      "explanation": "<b>Full transcript:</b> out of order<br><br><b>Connected form:</b> <i>out av order</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "fuera de servicio",
-      "usage": "Written: <code>out of order</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">out av order</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/out%20of%20order/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/out/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>out av order</code><br>Formal: <code>out of order</code><br><a href=\"https://youglish.com/pronounce/out%20of%20order/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/out/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "792294472e101057",
+      "full_transcript": "out of order",
+      "connected_form": "out av order",
+      "gap_text": "The machine is {{c1::out of order}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/out%20of%20order/english/us",
         "forvo_word": "https://forvo.com/word/out/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "0c8d9c84446ae712",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cup%20of%20tea/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cup/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Would you like a {{c1::cup of tea}}?",
-      "explanation": "<b>Written:</b> cup of tea<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cup av tea</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cup of tea' pronounced as 'cup av tea'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cup%20of%20tea/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cup/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Would you like a {{c1::cup of tea}}?",
+      "explanation": "<b>Full transcript:</b> cup of tea<br><br><b>Connected form:</b> <i>cup av tea</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "taza de té",
-      "usage": "Written: <code>cup of tea</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cup av tea</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cup%20of%20tea/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cup/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cup av tea</code><br>Formal: <code>cup of tea</code><br><a href=\"https://youglish.com/pronounce/cup%20of%20tea/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cup/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0c8d9c84446ae712",
+      "full_transcript": "cup of tea",
+      "connected_form": "cup av tea",
+      "gap_text": "Would you like a {{c1::cup of tea}}?",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cup%20of%20tea/english/us",
         "forvo_word": "https://forvo.com/word/cup/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "d37eb83d93fce8ca",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/glass%20of%20water/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/glass/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can I get a {{c1::glass of water}}?",
-      "explanation": "<b>Written:</b> glass of water<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">glass av water</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'glass of water' pronounced as 'glass av water'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/glass%20of%20water/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/glass/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can I get a {{c1::glass of water}}?",
+      "explanation": "<b>Full transcript:</b> glass of water<br><br><b>Connected form:</b> <i>glass av water</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "vaso de agua",
-      "usage": "Written: <code>glass of water</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">glass av water</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/glass%20of%20water/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/glass/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>glass av water</code><br>Formal: <code>glass of water</code><br><a href=\"https://youglish.com/pronounce/glass%20of%20water/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/glass/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d37eb83d93fce8ca",
+      "full_transcript": "glass of water",
+      "connected_form": "glass av water",
+      "gap_text": "Can I get a {{c1::glass of water}}?",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/glass%20of%20water/english/us",
         "forvo_word": "https://forvo.com/word/glass/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "0b2bff8d35858fa6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bottle%20of%20wine/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We bought a {{c1::bottle of wine}}.",
-      "explanation": "<b>Written:</b> bottle of wine<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bottle av wine</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bottle of wine' pronounced as 'bottle av wine'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bottle%20of%20wine/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We bought a {{c1::bottle of wine}}.",
+      "explanation": "<b>Full transcript:</b> bottle of wine<br><br><b>Connected form:</b> <i>bottle av wine</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "botella de vino",
-      "usage": "Written: <code>bottle of wine</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bottle av wine</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bottle%20of%20wine/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bottle av wine</code><br>Formal: <code>bottle of wine</code><br><a href=\"https://youglish.com/pronounce/bottle%20of%20wine/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0b2bff8d35858fa6",
+      "full_transcript": "bottle of wine",
+      "connected_form": "bottle av wine",
+      "gap_text": "We bought a {{c1::bottle of wine}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bottle%20of%20wine/english/us",
         "forvo_word": "https://forvo.com/word/bottle/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "030755ea4052daba",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/slice%20of%20pizza/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/slice/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I want a {{c1::slice of pizza}}.",
-      "explanation": "<b>Written:</b> slice of pizza<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">slice av pizza</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'slice of pizza' pronounced as 'slice av pizza'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/slice%20of%20pizza/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/slice/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I want a {{c1::slice of pizza}}.",
+      "explanation": "<b>Full transcript:</b> slice of pizza<br><br><b>Connected form:</b> <i>slice av pizza</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "porción de pizza",
-      "usage": "Written: <code>slice of pizza</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">slice av pizza</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/slice%20of%20pizza/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/slice/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>slice av pizza</code><br>Formal: <code>slice of pizza</code><br><a href=\"https://youglish.com/pronounce/slice%20of%20pizza/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/slice/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "030755ea4052daba",
+      "full_transcript": "slice of pizza",
+      "connected_form": "slice av pizza",
+      "gap_text": "I want a {{c1::slice of pizza}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/slice%20of%20pizza/english/us",
         "forvo_word": "https://forvo.com/word/slice/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "9bcea8e2c1697516",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/lot%20of%20money/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/lot/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That costs a {{c1::lot of money}}.",
-      "explanation": "<b>Written:</b> lot of money<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">lot av money</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'lot of money' pronounced as 'lot av money'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/lot%20of%20money/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/lot/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That costs a {{c1::lot of money}}.",
+      "explanation": "<b>Full transcript:</b> lot of money<br><br><b>Connected form:</b> <i>lot av money</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "mucho dinero",
-      "usage": "Written: <code>lot of money</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">lot av money</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/lot%20of%20money/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/lot/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>lot av money</code><br>Formal: <code>lot of money</code><br><a href=\"https://youglish.com/pronounce/lot%20of%20money/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/lot/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9bcea8e2c1697516",
+      "full_transcript": "lot of money",
+      "connected_form": "lot av money",
+      "gap_text": "That costs a {{c1::lot of money}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/lot%20of%20money/english/us",
         "forvo_word": "https://forvo.com/word/lot/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "39b0ccae3e9529d4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/end%20of%20the%20road/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/end/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We reached the {{c1::end of the road}}.",
-      "explanation": "<b>Written:</b> end of the road<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">end av thuh road</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'end of the road' pronounced as 'end av thuh road'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/end%20of%20the%20road/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/end/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We reached the {{c1::end of the road}}.",
+      "explanation": "<b>Full transcript:</b> end of the road<br><br><b>Connected form:</b> <i>end av thuh road</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "final del camino",
-      "usage": "Written: <code>end of the road</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">end av thuh road</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/end%20of%20the%20road/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/end/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>end av thuh road</code><br>Formal: <code>end of the road</code><br><a href=\"https://youglish.com/pronounce/end%20of%20the%20road/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/end/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "39b0ccae3e9529d4",
+      "full_transcript": "end of the road",
+      "connected_form": "end av thuh road",
+      "gap_text": "We reached the {{c1::end of the road}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/end%20of%20the%20road/english/us",
         "forvo_word": "https://forvo.com/word/end/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "a263297425b3e765",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/middle%20of%20the%20night/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He woke up in the {{c1::middle of the night}}.",
-      "explanation": "<b>Written:</b> middle of the night<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">middle av thuh night</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'middle of the night' pronounced as 'middle av thuh night'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/middle%20of%20the%20night/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He woke up in the {{c1::middle of the night}}.",
+      "explanation": "<b>Full transcript:</b> middle of the night<br><br><b>Connected form:</b> <i>middle av thuh night</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "mitad de la noche",
-      "usage": "Written: <code>middle of the night</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">middle av thuh night</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/middle%20of%20the%20night/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>middle av thuh night</code><br>Formal: <code>middle of the night</code><br><a href=\"https://youglish.com/pronounce/middle%20of%20the%20night/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a263297425b3e765",
+      "full_transcript": "middle of the night",
+      "connected_form": "middle av thuh night",
+      "gap_text": "He woke up in the {{c1::middle of the night}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/middle%20of%20the%20night/english/us",
         "forvo_word": "https://forvo.com/word/middle/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "0647d9289ae90caa",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Schwa_Reduction 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/top%20of%20the%20world/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/top/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I feel on {{c1::top of the world}}.",
-      "explanation": "<b>Written:</b> top of the world<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">top av thuh world</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'top of the world' pronounced as 'top av thuh world'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/top%20of%20the%20world/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/top/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I feel on {{c1::top of the world}}.",
+      "explanation": "<b>Full transcript:</b> top of the world<br><br><b>Connected form:</b> <i>top av thuh world</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Schwa Reduction</code></li></ul>",
       "spanish": "cima del mundo",
-      "usage": "Written: <code>top of the world</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">top av thuh world</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/top%20of%20the%20world/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/top/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>top av thuh world</code><br>Formal: <code>top of the world</code><br><a href=\"https://youglish.com/pronounce/top%20of%20the%20world/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/top/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0647d9289ae90caa",
+      "full_transcript": "top of the world",
+      "connected_form": "top av thuh world",
+      "gap_text": "I feel on {{c1::top of the world}}.",
+      "rules_applied": [
+        "Schwa Reduction"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/top%20of%20the%20world/english/us",
         "forvo_word": "https://forvo.com/word/top/#en"

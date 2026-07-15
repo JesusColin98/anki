@@ -2,7 +2,7 @@
   {
     "id": "260f373752379342",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tell%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tell/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Did you {{c1::tell him}}?",
-      "explanation": "<b>Written:</b> tell him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tell-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'tell him' pronounced as 'tell-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/tell%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tell/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Did you {{c1::tell him}}?",
+      "explanation": "<b>Full transcript:</b> tell him<br><br><b>Connected form:</b> <i>tell-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "decirle a él",
-      "usage": "Written: <code>tell him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tell-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tell%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tell/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tell-im</code><br>Formal: <code>tell him</code><br><a href=\"https://youglish.com/pronounce/tell%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tell/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "260f373752379342",
+      "full_transcript": "tell him",
+      "connected_form": "tell-im",
+      "gap_text": "Did you {{c1::tell him}}?",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/tell%20him/english/us",
         "forvo_word": "https://forvo.com/word/tell/#en"
@@ -42,7 +50,7 @@
   {
     "id": "ca73878a1d480dce",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ask%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ask/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Go and {{c1::ask her}}.",
-      "explanation": "<b>Written:</b> ask her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">as-ker</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'ask her' pronounced as 'as-ker'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/ask%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ask/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Go and {{c1::ask her}}.",
+      "explanation": "<b>Full transcript:</b> ask her<br><br><b>Connected form:</b> <i>as-ker</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "pregúntale a ella",
-      "usage": "Written: <code>ask her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">as-ker</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ask%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ask/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>as-ker</code><br>Formal: <code>ask her</code><br><a href=\"https://youglish.com/pronounce/ask%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ask/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ca73878a1d480dce",
+      "full_transcript": "ask her",
+      "connected_form": "as-ker",
+      "gap_text": "Go and {{c1::ask her}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/ask%20her/english/us",
         "forvo_word": "https://forvo.com/word/ask/#en"
@@ -82,7 +98,7 @@
   {
     "id": "ba3b6e30ddb07482",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/what%20did%20he%20say/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/what/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::What did he say}}?",
-      "explanation": "<b>Written:</b> what did he say<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wha-di-dee say</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'what did he say' pronounced as 'wha-di-dee say'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/what%20did%20he%20say/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/what/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::What did he say}}?",
+      "explanation": "<b>Full transcript:</b> what did he say<br><br><b>Connected form:</b> <i>wha-di-dee say</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "qué dijo él",
-      "usage": "Written: <code>what did he say</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wha-di-dee say</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/what%20did%20he%20say/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/what/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wha-di-dee say</code><br>Formal: <code>what did he say</code><br><a href=\"https://youglish.com/pronounce/what%20did%20he%20say/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/what/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ba3b6e30ddb07482",
+      "full_transcript": "what did he say",
+      "connected_form": "wha-di-dee say",
+      "gap_text": "{{c1::What did he say}}?",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/what%20did%20he%20say/english/us",
         "forvo_word": "https://forvo.com/word/what/#en"
@@ -122,7 +146,7 @@
   {
     "id": "36861c5889edbe40",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/should%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/should/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::should have}} known.",
-      "explanation": "<b>Written:</b> should have<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">should-av</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'should have' pronounced as 'should-av'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/should%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/should/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::should have}} known.",
+      "explanation": "<b>Full transcript:</b> should have<br><br><b>Connected form:</b> <i>should-av</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "debería haber",
-      "usage": "Written: <code>should have</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">should-av</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/should%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/should/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>should-av</code><br>Formal: <code>should have</code><br><a href=\"https://youglish.com/pronounce/should%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/should/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "36861c5889edbe40",
+      "full_transcript": "should have",
+      "connected_form": "should-av",
+      "gap_text": "I {{c1::should have}} known.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/should%20have/english/us",
         "forvo_word": "https://forvo.com/word/should/#en"
@@ -162,7 +194,7 @@
   {
     "id": "bcbe3b0fba915214",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/would%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/would/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It {{c1::would have}} been nice.",
-      "explanation": "<b>Written:</b> would have<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">would-av</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'would have' pronounced as 'would-av'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/would%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/would/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It {{c1::would have}} been nice.",
+      "explanation": "<b>Full transcript:</b> would have<br><br><b>Connected form:</b> <i>would-av</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "habría sido",
-      "usage": "Written: <code>would have</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">would-av</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/would%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/would/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>would-av</code><br>Formal: <code>would have</code><br><a href=\"https://youglish.com/pronounce/would%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/would/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "bcbe3b0fba915214",
+      "full_transcript": "would have",
+      "connected_form": "would-av",
+      "gap_text": "It {{c1::would have}} been nice.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/would%20have/english/us",
         "forvo_word": "https://forvo.com/word/would/#en"
@@ -202,7 +242,7 @@
   {
     "id": "de6691290c0e8b46",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/could%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/could/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We {{c1::could have}} won.",
-      "explanation": "<b>Written:</b> could have<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">could-av</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'could have' pronounced as 'could-av'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/could%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/could/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We {{c1::could have}} won.",
+      "explanation": "<b>Full transcript:</b> could have<br><br><b>Connected form:</b> <i>could-av</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "podríamos haber",
-      "usage": "Written: <code>could have</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">could-av</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/could%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/could/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>could-av</code><br>Formal: <code>could have</code><br><a href=\"https://youglish.com/pronounce/could%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/could/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "de6691290c0e8b46",
+      "full_transcript": "could have",
+      "connected_form": "could-av",
+      "gap_text": "We {{c1::could have}} won.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/could%20have/english/us",
         "forvo_word": "https://forvo.com/word/could/#en"
@@ -242,7 +290,7 @@
   {
     "id": "89ba44eb8031e0da",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/give%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/give/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::give him}} a call.",
-      "explanation": "<b>Written:</b> give him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">give-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'give him' pronounced as 'give-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/give%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/give/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::give him}} a call.",
+      "explanation": "<b>Full transcript:</b> give him<br><br><b>Connected form:</b> <i>give-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "dale",
-      "usage": "Written: <code>give him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">give-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/give%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/give/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>give-im</code><br>Formal: <code>give him</code><br><a href=\"https://youglish.com/pronounce/give%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/give/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "89ba44eb8031e0da",
+      "full_transcript": "give him",
+      "connected_form": "give-im",
+      "gap_text": "Please {{c1::give him}} a call.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/give%20him/english/us",
         "forvo_word": "https://forvo.com/word/give/#en"
@@ -282,7 +338,7 @@
   {
     "id": "eb438f74ec5b7d99",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/saw%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/saw/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::saw her}} yesterday.",
-      "explanation": "<b>Written:</b> saw her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">saw-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'saw her' pronounced as 'saw-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/saw%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/saw/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::saw her}} yesterday.",
+      "explanation": "<b>Full transcript:</b> saw her<br><br><b>Connected form:</b> <i>saw-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "la vi",
-      "usage": "Written: <code>saw her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">saw-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/saw%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/saw/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>saw-er</code><br>Formal: <code>saw her</code><br><a href=\"https://youglish.com/pronounce/saw%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/saw/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "eb438f74ec5b7d99",
+      "full_transcript": "saw her",
+      "connected_form": "saw-er",
+      "gap_text": "I {{c1::saw her}} yesterday.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/saw%20her/english/us",
         "forvo_word": "https://forvo.com/word/saw/#en"
@@ -322,7 +386,7 @@
   {
     "id": "b200c781cecf13ff",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tell%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tell/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::tell her}}.",
-      "explanation": "<b>Written:</b> tell her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tell-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'tell her' pronounced as 'tell-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/tell%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tell/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::tell her}}.",
+      "explanation": "<b>Full transcript:</b> tell her<br><br><b>Connected form:</b> <i>tell-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "dile a ella",
-      "usage": "Written: <code>tell her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tell-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tell%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tell/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tell-er</code><br>Formal: <code>tell her</code><br><a href=\"https://youglish.com/pronounce/tell%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tell/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b200c781cecf13ff",
+      "full_transcript": "tell her",
+      "connected_form": "tell-er",
+      "gap_text": "Don't {{c1::tell her}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/tell%20her/english/us",
         "forvo_word": "https://forvo.com/word/tell/#en"
@@ -362,7 +434,7 @@
   {
     "id": "a02e44363cdf28da",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ask%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ask/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Did you {{c1::ask him}} yet?",
-      "explanation": "<b>Written:</b> ask him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">as-kim</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'ask him' pronounced as 'as-kim'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/ask%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ask/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Did you {{c1::ask him}} yet?",
+      "explanation": "<b>Full transcript:</b> ask him<br><br><b>Connected form:</b> <i>as-kim</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "pregúntale a él",
-      "usage": "Written: <code>ask him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">as-kim</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ask%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ask/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>as-kim</code><br>Formal: <code>ask him</code><br><a href=\"https://youglish.com/pronounce/ask%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ask/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a02e44363cdf28da",
+      "full_transcript": "ask him",
+      "connected_form": "as-kim",
+      "gap_text": "Did you {{c1::ask him}} yet?",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/ask%20him/english/us",
         "forvo_word": "https://forvo.com/word/ask/#en"
@@ -402,7 +482,7 @@
   {
     "id": "1f786e0075ee5924",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/call%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/call/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can you {{c1::call her}}?",
-      "explanation": "<b>Written:</b> call her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">call-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'call her' pronounced as 'call-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/call%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/call/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can you {{c1::call her}}?",
+      "explanation": "<b>Full transcript:</b> call her<br><br><b>Connected form:</b> <i>call-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "llamarla",
-      "usage": "Written: <code>call her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">call-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/call%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/call/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>call-er</code><br>Formal: <code>call her</code><br><a href=\"https://youglish.com/pronounce/call%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/call/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1f786e0075ee5924",
+      "full_transcript": "call her",
+      "connected_form": "call-er",
+      "gap_text": "Can you {{c1::call her}}?",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/call%20her/english/us",
         "forvo_word": "https://forvo.com/word/call/#en"
@@ -442,7 +530,7 @@
   {
     "id": "290af0f4fc64922c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/call%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/call/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I'll {{c1::call him}} later.",
-      "explanation": "<b>Written:</b> call him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">call-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'call him' pronounced as 'call-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/call%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/call/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I'll {{c1::call him}} later.",
+      "explanation": "<b>Full transcript:</b> call him<br><br><b>Connected form:</b> <i>call-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "lo llamaré",
-      "usage": "Written: <code>call him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">call-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/call%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/call/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>call-im</code><br>Formal: <code>call him</code><br><a href=\"https://youglish.com/pronounce/call%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/call/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "290af0f4fc64922c",
+      "full_transcript": "call him",
+      "connected_form": "call-im",
+      "gap_text": "I'll {{c1::call him}} later.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/call%20him/english/us",
         "forvo_word": "https://forvo.com/word/call/#en"
@@ -482,7 +578,7 @@
   {
     "id": "5a0f072dd36c8fa5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/find%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/find/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We need to {{c1::find her}}.",
-      "explanation": "<b>Written:</b> find her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">find-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'find her' pronounced as 'find-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/find%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/find/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We need to {{c1::find her}}.",
+      "explanation": "<b>Full transcript:</b> find her<br><br><b>Connected form:</b> <i>find-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "encontrarla",
-      "usage": "Written: <code>find her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">find-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/find%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/find/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>find-er</code><br>Formal: <code>find her</code><br><a href=\"https://youglish.com/pronounce/find%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/find/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5a0f072dd36c8fa5",
+      "full_transcript": "find her",
+      "connected_form": "find-er",
+      "gap_text": "We need to {{c1::find her}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/find%20her/english/us",
         "forvo_word": "https://forvo.com/word/find/#en"
@@ -522,7 +626,7 @@
   {
     "id": "f2c607494d8b443b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/find%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/find/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Did you {{c1::find him}}?",
-      "explanation": "<b>Written:</b> find him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">find-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'find him' pronounced as 'find-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/find%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/find/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Did you {{c1::find him}}?",
+      "explanation": "<b>Full transcript:</b> find him<br><br><b>Connected form:</b> <i>find-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "lo encontraste",
-      "usage": "Written: <code>find him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">find-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/find%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/find/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>find-im</code><br>Formal: <code>find him</code><br><a href=\"https://youglish.com/pronounce/find%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/find/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f2c607494d8b443b",
+      "full_transcript": "find him",
+      "connected_form": "find-im",
+      "gap_text": "Did you {{c1::find him}}?",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/find%20him/english/us",
         "forvo_word": "https://forvo.com/word/find/#en"
@@ -562,7 +674,7 @@
   {
     "id": "7d31ade58a97df81",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/help%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/help/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Go {{c1::help her}}.",
-      "explanation": "<b>Written:</b> help her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">help-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'help her' pronounced as 'help-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/help%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/help/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Go {{c1::help her}}.",
+      "explanation": "<b>Full transcript:</b> help her<br><br><b>Connected form:</b> <i>help-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "ayúdala",
-      "usage": "Written: <code>help her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">help-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/help%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/help/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>help-er</code><br>Formal: <code>help her</code><br><a href=\"https://youglish.com/pronounce/help%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/help/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7d31ade58a97df81",
+      "full_transcript": "help her",
+      "connected_form": "help-er",
+      "gap_text": "Go {{c1::help her}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/help%20her/english/us",
         "forvo_word": "https://forvo.com/word/help/#en"
@@ -602,7 +722,7 @@
   {
     "id": "623cb4f27ab0b02e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/help%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/help/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We must {{c1::help him}}.",
-      "explanation": "<b>Written:</b> help him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">help-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'help him' pronounced as 'help-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/help%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/help/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We must {{c1::help him}}.",
+      "explanation": "<b>Full transcript:</b> help him<br><br><b>Connected form:</b> <i>help-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "ayudarlo",
-      "usage": "Written: <code>help him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">help-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/help%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/help/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>help-im</code><br>Formal: <code>help him</code><br><a href=\"https://youglish.com/pronounce/help%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/help/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "623cb4f27ab0b02e",
+      "full_transcript": "help him",
+      "connected_form": "help-im",
+      "gap_text": "We must {{c1::help him}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/help%20him/english/us",
         "forvo_word": "https://forvo.com/word/help/#en"
@@ -642,7 +770,7 @@
   {
     "id": "c6d7776d91096239",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/love%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/love/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::love her}}.",
-      "explanation": "<b>Written:</b> love her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">love-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'love her' pronounced as 'love-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/love%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/love/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::love her}}.",
+      "explanation": "<b>Full transcript:</b> love her<br><br><b>Connected form:</b> <i>love-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "la amo",
-      "usage": "Written: <code>love her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">love-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/love%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/love/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>love-er</code><br>Formal: <code>love her</code><br><a href=\"https://youglish.com/pronounce/love%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/love/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c6d7776d91096239",
+      "full_transcript": "love her",
+      "connected_form": "love-er",
+      "gap_text": "I {{c1::love her}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/love%20her/english/us",
         "forvo_word": "https://forvo.com/word/love/#en"
@@ -682,7 +818,7 @@
   {
     "id": "fc7e3753c5151f0d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/love%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/love/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They {{c1::love him}}.",
-      "explanation": "<b>Written:</b> love him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">love-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'love him' pronounced as 'love-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/love%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/love/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They {{c1::love him}}.",
+      "explanation": "<b>Full transcript:</b> love him<br><br><b>Connected form:</b> <i>love-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "lo aman",
-      "usage": "Written: <code>love him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">love-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/love%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/love/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>love-im</code><br>Formal: <code>love him</code><br><a href=\"https://youglish.com/pronounce/love%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/love/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fc7e3753c5151f0d",
+      "full_transcript": "love him",
+      "connected_form": "love-im",
+      "gap_text": "They {{c1::love him}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/love%20him/english/us",
         "forvo_word": "https://forvo.com/word/love/#en"
@@ -722,7 +866,7 @@
   {
     "id": "000d734949c85928",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/trust%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::trust her}}.",
-      "explanation": "<b>Written:</b> trust her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">trust-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'trust her' pronounced as 'trust-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/trust%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::trust her}}.",
+      "explanation": "<b>Full transcript:</b> trust her<br><br><b>Connected form:</b> <i>trust-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "confío en ella",
-      "usage": "Written: <code>trust her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">trust-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/trust%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>trust-er</code><br>Formal: <code>trust her</code><br><a href=\"https://youglish.com/pronounce/trust%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "000d734949c85928",
+      "full_transcript": "trust her",
+      "connected_form": "trust-er",
+      "gap_text": "I {{c1::trust her}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/trust%20her/english/us",
         "forvo_word": "https://forvo.com/word/trust/#en"
@@ -762,7 +914,7 @@
   {
     "id": "7631b56ff5cd0428",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/trust%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Do you {{c1::trust him}}?",
-      "explanation": "<b>Written:</b> trust him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">trust-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'trust him' pronounced as 'trust-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/trust%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Do you {{c1::trust him}}?",
+      "explanation": "<b>Full transcript:</b> trust him<br><br><b>Connected form:</b> <i>trust-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "confías en él",
-      "usage": "Written: <code>trust him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">trust-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/trust%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>trust-im</code><br>Formal: <code>trust him</code><br><a href=\"https://youglish.com/pronounce/trust%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7631b56ff5cd0428",
+      "full_transcript": "trust him",
+      "connected_form": "trust-im",
+      "gap_text": "Do you {{c1::trust him}}?",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/trust%20him/english/us",
         "forvo_word": "https://forvo.com/word/trust/#en"
@@ -802,7 +962,7 @@
   {
     "id": "ab9be791b8395e50",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/leave%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/leave/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::leave her}} behind.",
-      "explanation": "<b>Written:</b> leave her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">leave-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'leave her' pronounced as 'leave-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/leave%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/leave/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::leave her}} behind.",
+      "explanation": "<b>Full transcript:</b> leave her<br><br><b>Connected form:</b> <i>leave-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "la dejes",
-      "usage": "Written: <code>leave her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">leave-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/leave%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/leave/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>leave-er</code><br>Formal: <code>leave her</code><br><a href=\"https://youglish.com/pronounce/leave%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/leave/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ab9be791b8395e50",
+      "full_transcript": "leave her",
+      "connected_form": "leave-er",
+      "gap_text": "Don't {{c1::leave her}} behind.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/leave%20her/english/us",
         "forvo_word": "https://forvo.com/word/leave/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "6eed9c2f39e79a7a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/leave%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/leave/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We should {{c1::leave him}} alone.",
-      "explanation": "<b>Written:</b> leave him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">leave-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'leave him' pronounced as 'leave-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/leave%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/leave/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We should {{c1::leave him}} alone.",
+      "explanation": "<b>Full transcript:</b> leave him<br><br><b>Connected form:</b> <i>leave-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "dejarlo",
-      "usage": "Written: <code>leave him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">leave-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/leave%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/leave/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>leave-im</code><br>Formal: <code>leave him</code><br><a href=\"https://youglish.com/pronounce/leave%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/leave/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6eed9c2f39e79a7a",
+      "full_transcript": "leave him",
+      "connected_form": "leave-im",
+      "gap_text": "We should {{c1::leave him}} alone.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/leave%20him/english/us",
         "forvo_word": "https://forvo.com/word/leave/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "f911ad059c101907",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/know%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/know/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I don't {{c1::know her}}.",
-      "explanation": "<b>Written:</b> know her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">know-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'know her' pronounced as 'know-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/know%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/know/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I don't {{c1::know her}}.",
+      "explanation": "<b>Full transcript:</b> know her<br><br><b>Connected form:</b> <i>know-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "la conozco",
-      "usage": "Written: <code>know her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">know-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/know%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/know/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>know-er</code><br>Formal: <code>know her</code><br><a href=\"https://youglish.com/pronounce/know%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/know/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f911ad059c101907",
+      "full_transcript": "know her",
+      "connected_form": "know-er",
+      "gap_text": "I don't {{c1::know her}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/know%20her/english/us",
         "forvo_word": "https://forvo.com/word/know/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "bf8c52f1db56d68f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/know%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/know/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Do you {{c1::know him}}?",
-      "explanation": "<b>Written:</b> know him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">know-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'know him' pronounced as 'know-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/know%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/know/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Do you {{c1::know him}}?",
+      "explanation": "<b>Full transcript:</b> know him<br><br><b>Connected form:</b> <i>know-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "lo conoces",
-      "usage": "Written: <code>know him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">know-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/know%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/know/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>know-im</code><br>Formal: <code>know him</code><br><a href=\"https://youglish.com/pronounce/know%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/know/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "bf8c52f1db56d68f",
+      "full_transcript": "know him",
+      "connected_form": "know-im",
+      "gap_text": "Do you {{c1::know him}}?",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/know%20him/english/us",
         "forvo_word": "https://forvo.com/word/know/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "cacfd7ad67b91bae",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/for%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/for/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This gift is {{c1::for her}}.",
-      "explanation": "<b>Written:</b> for her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">for-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'for her' pronounced as 'for-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/for%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/for/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This gift is {{c1::for her}}.",
+      "explanation": "<b>Full transcript:</b> for her<br><br><b>Connected form:</b> <i>for-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "para ella",
-      "usage": "Written: <code>for her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">for-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/for%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/for/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>for-er</code><br>Formal: <code>for her</code><br><a href=\"https://youglish.com/pronounce/for%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/for/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cacfd7ad67b91bae",
+      "full_transcript": "for her",
+      "connected_form": "for-er",
+      "gap_text": "This gift is {{c1::for her}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/for%20her/english/us",
         "forvo_word": "https://forvo.com/word/for/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "9d07a2ce3d8c72a5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/for%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/for/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I bought this {{c1::for him}}.",
-      "explanation": "<b>Written:</b> for him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">for-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'for him' pronounced as 'for-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/for%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/for/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I bought this {{c1::for him}}.",
+      "explanation": "<b>Full transcript:</b> for him<br><br><b>Connected form:</b> <i>for-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "para él",
-      "usage": "Written: <code>for him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">for-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/for%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/for/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>for-im</code><br>Formal: <code>for him</code><br><a href=\"https://youglish.com/pronounce/for%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/for/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9d07a2ce3d8c72a5",
+      "full_transcript": "for him",
+      "connected_form": "for-im",
+      "gap_text": "I bought this {{c1::for him}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/for%20him/english/us",
         "forvo_word": "https://forvo.com/word/for/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "42a1e1fdc2c311f3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/behind%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He was {{c1::behind her}}.",
-      "explanation": "<b>Written:</b> behind her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">behind-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'behind her' pronounced as 'behind-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/behind%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He was {{c1::behind her}}.",
+      "explanation": "<b>Full transcript:</b> behind her<br><br><b>Connected form:</b> <i>behind-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "detrás de ella",
-      "usage": "Written: <code>behind her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">behind-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/behind%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>behind-er</code><br>Formal: <code>behind her</code><br><a href=\"https://youglish.com/pronounce/behind%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "42a1e1fdc2c311f3",
+      "full_transcript": "behind her",
+      "connected_form": "behind-er",
+      "gap_text": "He was {{c1::behind her}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/behind%20her/english/us",
         "forvo_word": "https://forvo.com/word/behind/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "c2a305996d88aed3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/behind%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She stood {{c1::behind him}}.",
-      "explanation": "<b>Written:</b> behind him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">behind-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'behind him' pronounced as 'behind-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/behind%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She stood {{c1::behind him}}.",
+      "explanation": "<b>Full transcript:</b> behind him<br><br><b>Connected form:</b> <i>behind-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "detrás de él",
-      "usage": "Written: <code>behind him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">behind-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/behind%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>behind-im</code><br>Formal: <code>behind him</code><br><a href=\"https://youglish.com/pronounce/behind%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c2a305996d88aed3",
+      "full_transcript": "behind him",
+      "connected_form": "behind-im",
+      "gap_text": "She stood {{c1::behind him}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/behind%20him/english/us",
         "forvo_word": "https://forvo.com/word/behind/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "0d757fb1ea3d2211",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/with%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/with/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Are you going {{c1::with her}}?",
-      "explanation": "<b>Written:</b> with her<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">with-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'with her' pronounced as 'with-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/with%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/with/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Are you going {{c1::with her}}?",
+      "explanation": "<b>Full transcript:</b> with her<br><br><b>Connected form:</b> <i>with-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "con ella",
-      "usage": "Written: <code>with her</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">with-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/with%20her/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/with/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>with-er</code><br>Formal: <code>with her</code><br><a href=\"https://youglish.com/pronounce/with%20her/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/with/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0d757fb1ea3d2211",
+      "full_transcript": "with her",
+      "connected_form": "with-er",
+      "gap_text": "Are you going {{c1::with her}}?",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/with%20her/english/us",
         "forvo_word": "https://forvo.com/word/with/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "6bbe24173002e8eb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: H_Dropping 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/with%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/with/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I went {{c1::with him}}.",
-      "explanation": "<b>Written:</b> with him<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">with-im</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>H Dropping</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'with him' pronounced as 'with-im'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/with%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/with/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I went {{c1::with him}}.",
+      "explanation": "<b>Full transcript:</b> with him<br><br><b>Connected form:</b> <i>with-im</i><br><br><b>Phonetic rules applied:</b><ul><li><code>H Dropping</code></li></ul>",
       "spanish": "con él",
-      "usage": "Written: <code>with him</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">with-im</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/with%20him/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/with/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>with-im</code><br>Formal: <code>with him</code><br><a href=\"https://youglish.com/pronounce/with%20him/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/with/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6bbe24173002e8eb",
+      "full_transcript": "with him",
+      "connected_form": "with-im",
+      "gap_text": "I went {{c1::with him}}.",
+      "rules_applied": [
+        "H Dropping"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/with%20him/english/us",
         "forvo_word": "https://forvo.com/word/with/#en"

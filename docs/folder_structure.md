@@ -14,14 +14,13 @@ anki-tools/
 │   ├── 02_AI_and_Data_Science/     # Classical ML, LLMs, agents, RAG, MLOps, & data science
 │   ├── 03_Languages/               # English, Spanish, Asian/European languages & news
 │   │   └── English/
-│   │       ├── Learning_Paths/     # Consolidated 4-level English learning paths
-│   │       │   ├── 01_Daily_and_Social/
-│   │       │   ├── 02_Workplace_and_Service/
-│   │       │   ├── 03_Interview_and_Career/
-│   │       │   └── 04_Academic_and_Health/
-│   │       ├── Phonetics/          # Accent, pronunciation, and connected speech decks
-│   │       ├── 08_Real_Scenario_Expansion/ # Raw scenario expansion files
-│   │       └── Variant_Pipeline/   # Holds pipeline configuration manifest.json
+│   │       ├── Phonetics_and_Connected_Speech/ # Pronunciation, accent training, and connected speech files
+│   │       ├── Real_World_Scenarios/           # Real-world situational speaking & career pathways
+│   │       │   ├── daily_and_social_interactions.json
+│   │       │   ├── workplace_and_customer_service.json
+│   │       │   ├── interview_and_career_pitching.json
+│   │       │   └── academic_and_medical_contexts.json
+│   │       └── Variant_Pipeline/               # Contains variant configurations and manifest.json
 │   ├── 04_Social_and_Humanities/   # Philosophy, history, sociology, & psychology
 │   ├── 05_Soft_Skills_and_Leadership/ # Persuasion, active listening, etiquette, & leadership
 │   └── 06_Business_and_Productivity/ # Business strategy, productivity, & learning methods

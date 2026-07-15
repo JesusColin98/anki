@@ -101,7 +101,7 @@
   {
     "id": "e585d8bd24d77f00",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -112,11 +112,20 @@
       ]
     },
     "content": {
-      "scenario": "Phonetics: Gonna / Wanna in Real Speech 🎧",
-      "text": "When speakers say {{c1::wanna}} or {{c2::gonna}}, the consonants and vowels blend together to create a smoother rhythm.",
-      "explanation": "This is one of the clearest examples of connected speech. The result is a shorter, more fluid sentence.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>When speakers say {{c1::wanna}} or {{c2::gonna}}, the consonants and vowels blend together to create a smoother rhythm.",
+      "explanation": "<b>Full transcript:</b> wanna<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Cuando los hablantes dicen 'wanna' o 'gonna', las consonantes y vocales se mezclan para crear un ritmo más fluido.",
-      "usage": "Pattern: <code>gonna / wanna</code><ul><li><code>I wanna leave.</code></li><li><code>She’s gonna call later.</code></li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>wanna</code><br>",
+      "id": "e585d8bd24d77f00",
+      "full_transcript": "wanna",
+      "connected_form": "unknown",
+      "gap_text": "When speakers say {{c1::wanna}} or {{c2::gonna}}, the consonants and vowels blend together to create a smoother rhythm.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -167,7 +176,7 @@
   {
     "id": "12639fad5a5f1e12",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -178,11 +187,20 @@
       ]
     },
     "content": {
-      "scenario": "Phonetics: Linking Sounds 🔗",
-      "text": "When one word ends in a consonant and the next begins with a vowel, the sound often {{c1::links}} smoothly.",
-      "explanation": "Linking helps create the fluid rhythm of spoken English. It is especially useful in casual everyday phrases.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>When one word ends in a consonant and the next begins with a vowel, the sound often {{c1::links}} smoothly.",
+      "explanation": "<b>Full transcript:</b> links<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Cuando una palabra termina en consonante y la siguiente empieza con vocal, el sonido suele enlazarse suavemente.",
-      "usage": "Pattern: <code>linking / resyllabification</code><ul><li><code>go out</code></li><li><code>an apple</code></li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>links</code><br>",
+      "id": "12639fad5a5f1e12",
+      "full_transcript": "links",
+      "connected_form": "unknown",
+      "gap_text": "When one word ends in a consonant and the next begins with a vowel, the sound often {{c1::links}} smoothly.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -233,7 +251,7 @@
   {
     "id": "cc90f3462d9d1bf3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -244,11 +262,20 @@
       ]
     },
     "content": {
-      "scenario": "Phonetics: Rhythm and Chunking 🥁",
-      "text": "Natural English often comes in {{c1::chunks}} rather than isolated words, especially in everyday speech.",
-      "explanation": "Chunking helps learners process phrases like 'gonna grab a coffee' as one smooth unit instead of several separate words.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Natural English often comes in {{c1::chunks}} rather than isolated words, especially in everyday speech.",
+      "explanation": "<b>Full transcript:</b> chunks<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "El inglés natural suele venir en bloques de expresión en lugar de palabras aisladas, especialmente en el habla cotidiana.",
-      "usage": "Pattern: <code>chunking / phrase stress</code><ul><li><code>gonna grab a coffee</code></li><li><code>let me think</code></li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>chunks</code><br>",
+      "id": "cc90f3462d9d1bf3",
+      "full_transcript": "chunks",
+      "connected_form": "unknown",
+      "gap_text": "Natural English often comes in {{c1::chunks}} rather than isolated words, especially in everyday speech.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -301,7 +328,7 @@
   {
     "id": "c222a6f1291d91b6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -314,11 +341,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: T + Y Coalescence 🤝",
-      "text": "When a word ending in /t/ meets a word beginning with /y/, they merge into a {{c1::/tʃ/ (\"ch\" as in chair)}} sound. E.g., \"meet you\" is pronounced \"meetchu\".",
-      "explanation": "This is a type of assimilation called coalescence (or palatalization). The mouth prepares for the palatal /y/ while pronouncing the alveolar /t/, resulting in the postalveolar affricate /tʃ/.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>When a word ending in /t/ meets a word beginning with /y/, they merge into a {{c1::/tʃ/ (\"ch\" as in chair)}} sound. E.g., \"meet you\" is pronounced \"meetchu\".",
+      "explanation": "<b>Full transcript:</b> /tʃ/ (\"ch\" as in chair)<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Cuando una palabra que termina en /t/ se une con una que empieza con /y/, se fusionan en el sonido /tʃ/ ('ch'). Ejemplo: \"meet you\" &rarr; \"meetchu\".",
-      "usage": "Practice Drills:<ul><li><code>don't you</code> &rarr; \"donchoo\"</li><li><code>what you need</code> &rarr; \"whachoo need\"</li><li><code>can't you</code> &rarr; \"canchoo\"</li></ul><br>Reference: Look up \"Assimilation in English\" on <a href=\"https://www.youtube.com/@EnglishwithGreg\">English with Greg</a>."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>/tʃ/ (\"ch\" as in chair)</code><br>",
+      "id": "c222a6f1291d91b6",
+      "full_transcript": "/tʃ/ (\"ch\" as in chair)",
+      "connected_form": "unknown",
+      "gap_text": "When a word ending in /t/ meets a word beginning with /y/, they merge into a {{c1::/tʃ/ (\"ch\" as in chair)}} sound. E.g., \"meet you\" is pronounced \"meetchu\".",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -336,7 +372,7 @@
   {
     "id": "23cd8be3845e0de4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -349,11 +385,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: D + Y Coalescence 🤝",
-      "text": "When a word ending in /d/ meets a word beginning with /y/, they merge into a {{c1::/dʒ/ (\"j\" as in judge)}} sound. E.g., \"would you\" is pronounced \"woodja\".",
-      "explanation": "Similar to T+Y coalescence, the voiced alveolar stop /d/ and palatal glide /y/ combine to form the voiced postalveolar affricate /dʒ/.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>When a word ending in /d/ meets a word beginning with /y/, they merge into a {{c1::/dʒ/ (\"j\" as in judge)}} sound. E.g., \"would you\" is pronounced \"woodja\".",
+      "explanation": "<b>Full transcript:</b> /dʒ/ (\"j\" as in judge)<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Cuando una palabra que termina en /d/ se une con una que empieza con /y/, se fusionan en el sonido /dʒ/ ('y' o 'j' fuerte). Ejemplo: \"would you\" &rarr; \"woodja\".",
-      "usage": "Practice Drills:<ul><li><code>could you</code> &rarr; \"couldja\"</li><li><code>did you</code> &rarr; \"didja\"</li><li><code>find you</code> &rarr; \"findja\"</li></ul><br>Reference: Practice shadowing with \"Hadar Shemesh connected speech\" on YouTube."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>/dʒ/ (\"j\" as in judge)</code><br>",
+      "id": "23cd8be3845e0de4",
+      "full_transcript": "/dʒ/ (\"j\" as in judge)",
+      "connected_form": "unknown",
+      "gap_text": "When a word ending in /d/ meets a word beginning with /y/, they merge into a {{c1::/dʒ/ (\"j\" as in judge)}} sound. E.g., \"would you\" is pronounced \"woodja\".",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -371,7 +416,7 @@
   {
     "id": "17d66267cfc945b4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -384,11 +429,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal Stop 🤐",
-      "text": "Before a consonant sound, a final /t/ is often not released, but stopped in the throat as a {{c1::Glottal Stop [ʔ]}}. E.g., \"not yet\" becomes \"no' yet\".",
-      "explanation": "A glottal stop is produced by blocking the airflow in the vocal tract (specifically the glottis) rather than using the tongue to release air. This is a hallmark of native speakers trying to conserve energy.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Before a consonant sound, a final /t/ is often not released, but stopped in the throat as a {{c1::Glottal Stop [ʔ]}}. E.g., \"not yet\" becomes \"no' yet\".",
+      "explanation": "<b>Full transcript:</b> Glottal Stop [ʔ]<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Antes de una consonante, la /t/ final a menudo se detiene en la garganta (parada glotal [ʔ]) en lugar de liberarse. Ejemplo: \"not yet\" &rarr; \"no' yet\".",
-      "usage": "Practice Drills:<ul><li><code>flat tire</code> &rarr; \"fla' tire\"</li><li><code>button</code> &rarr; \"bu'n\"</li><li><code>football</code> &rarr; \"foo'ball\"</li></ul><br>Watch: \"Glottal Stop vs. Stop T\" on <a href=\"https://www.youtube.com/@RachelsEnglish\">Rachel's English</a>."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Glottal Stop [ʔ]</code><br>",
+      "id": "17d66267cfc945b4",
+      "full_transcript": "Glottal Stop [ʔ]",
+      "connected_form": "unknown",
+      "gap_text": "Before a consonant sound, a final /t/ is often not released, but stopped in the throat as a {{c1::Glottal Stop [ʔ]}}. E.g., \"not yet\" becomes \"no' yet\".",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -581,7 +635,7 @@
   {
     "id": "ae942b4838b7ed61",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -594,11 +648,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Consonant Elision 💨",
-      "text": "When /t/ or /d/ is sandwiched between two other consonants, it is often {{c1::dropped entirely}} to ease pronunciation. E.g., \"last night\" becomes \"las-night\".",
-      "explanation": "Three consonants in a row (like /st/ and /n/ in \"last night\") require complex tongue movement. Dropping the middle alveolar stop (/t/ or /d/) allows a smoother transition.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>When /t/ or /d/ is sandwiched between two other consonants, it is often {{c1::dropped entirely}} to ease pronunciation. E.g., \"last night\" becomes \"las-night\".",
+      "explanation": "<b>Full transcript:</b> dropped entirely<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Cuando /t/ o /d/ están entre otras dos consonantes, a menudo se omiten por completo. Ejemplo: \"last night\" &rarr; \"las-night\".",
-      "usage": "Practice Drills:<ul><li><code>next door</code> &rarr; \"nex-door\"</li><li><code>hold tight</code> &rarr; \"hole-tight\"</li><li><code>you and me</code> &rarr; \"you n me\"</li><li><code>we went to</code> &rarr; \"we wen-to\"</li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>dropped entirely</code><br>",
+      "id": "ae942b4838b7ed61",
+      "full_transcript": "dropped entirely",
+      "connected_form": "unknown",
+      "gap_text": "When /t/ or /d/ is sandwiched between two other consonants, it is often {{c1::dropped entirely}} to ease pronunciation. E.g., \"last night\" becomes \"las-night\".",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -824,7 +887,7 @@
   {
     "id": "52c46d8b4b6adafe",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -836,11 +899,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark L Vocalization 🌑",
-      "text": "At the end of words or before consonants, the \"Dark L\" [ɫ] is often vocalized, sounding like a {{c1::vowel-like /oʊ/ or /ʊ/ (\"uh\")}} rather than a consonant. E.g., \"feel\" &rarr; \"fee-uh\".",
-      "explanation": "In many dialects of English, the tongue tip does not touch the roof of the mouth for a word-final L. Instead, only the back of the tongue is raised, turning the L into a back vowel sound.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>At the end of words or before consonants, the \"Dark L\" [ɫ] is often vocalized, sounding like a {{c1::vowel-like /oʊ/ or /ʊ/ (\"uh\")}} rather than a consonant. E.g., \"feel\" &rarr; \"fee-uh\".",
+      "explanation": "<b>Full transcript:</b> vowel-like /oʊ/ or /ʊ/ (\"uh\")<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "La 'L' al final de las palabras (Dark L) a menudo se vocaliza en la parte trasera de la boca, sonando similar a una 'u' o 'o'. Ejemplo: \"feel\" suena como \"fee-uh\".",
-      "usage": "Practice Drills:<ul><li><code>milk</code> &rarr; \"mi-uk\"</li><li><code>tall</code> &rarr; \"taw-uh\"</li><li><code>real</code> &rarr; \"ree-uh\"</li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>vowel-like /oʊ/ or /ʊ/ (\"uh\")</code><br>",
+      "id": "52c46d8b4b6adafe",
+      "full_transcript": "vowel-like /oʊ/ or /ʊ/ (\"uh\")",
+      "connected_form": "unknown",
+      "gap_text": "At the end of words or before consonants, the \"Dark L\" [ɫ] is often vocalized, sounding like a {{c1::vowel-like /oʊ/ or /ʊ/ (\"uh\")}} rather than a consonant. E.g., \"feel\" &rarr; \"fee-uh\".",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -963,7 +1035,7 @@
   {
     "id": "c3a1a9aaaba94773",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -975,11 +1047,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal T-Deletion 👃",
-      "text": "In American English, a /t/ following a /n/ in an unstressed syllable is often {{c1::omitted (dropped)}}, making \"twenty\" sound like \"tweny\" and \"internet\" sound like \"innernet\".",
-      "explanation": "Because /n/ and /t/ are both pronounced at the alveolar ridge, and /n/ is nasalized, the nasal airflow dominates when the syllable is unstressed, leading the speaker to skip the stop /t/ completely.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>In American English, a /t/ following a /n/ in an unstressed syllable is often {{c1::omitted (dropped)}}, making \"twenty\" sound like \"tweny\" and \"internet\" sound like \"innernet\".",
+      "explanation": "<b>Full transcript:</b> omitted (dropped)<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "En inglés americano, la /t/ después de una /n/ en una sílaba átona a menudo se omite. Ejemplo: \"twenty\" suena como \"tweny\" e \"internet\" como \"innernet\".",
-      "usage": "Practice Drills:<ul><li><code>twenty</code> &rarr; \"tweny\"</li><li><code>internet</code> &rarr; \"innernet\"</li><li><code>center</code> &rarr; \"cener\"</li><li><code>international</code> &rarr; \"innernational\"</li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>omitted (dropped)</code><br>",
+      "id": "c3a1a9aaaba94773",
+      "full_transcript": "omitted (dropped)",
+      "connected_form": "unknown",
+      "gap_text": "In American English, a /t/ following a /n/ in an unstressed syllable is often {{c1::omitted (dropped)}}, making \"twenty\" sound like \"tweny\" and \"internet\" sound like \"innernet\".",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -997,7 +1078,7 @@
   {
     "id": "11a7bb2b5ee3aa5e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1010,11 +1091,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking & Intrusive R 🔗",
-      "text": "In non-rhotic accents (e.g., British RP), speakers insert a {{c1::Linking or Intrusive R}} between two words when the first ends in a vowel and the second starts with a vowel, as in \"law and order\" sounding like \"law-r-and-order\".",
-      "explanation": "Non-rhotic speakers do not pronounce 'r' at the end of words (e.g., 'car' is /kɑː/). However, if the next word starts with a vowel, they activate it as a 'Linking R' (e.g., 'car is' &rarr; /kɑːr ɪz/). If there is no 'r' in the spelling but the vowels clash, they insert an 'Intrusive R' (e.g., 'idea of' &rarr; /aɪˈdɪə.rəv/).",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>In non-rhotic accents (e.g., British RP), speakers insert a {{c1::Linking or Intrusive R}} between two words when the first ends in a vowel and the second starts with a vowel, as in \"law and order\" sounding like \"law-r-and-order\".",
+      "explanation": "<b>Full transcript:</b> Linking or Intrusive R<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "En acentos no róticos (como el británico RP), los hablantes insertan una R de enlace ('Linking/Intrusive R') entre palabras cuando una termina en vocal y la otra empieza en vocal. Ejemplo: \"law and order\" &rarr; \"law-r-and-order\".",
-      "usage": "Practice Drills:<ul><li><code>law and order</code> &rarr; \"law-r-an-order\"</li><li><code>idea of it</code> &rarr; \"idea-r-of-it\"</li><li><code>media event</code> &rarr; \"media-r-event\"</li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Linking or Intrusive R</code><br>",
+      "id": "11a7bb2b5ee3aa5e",
+      "full_transcript": "Linking or Intrusive R",
+      "connected_form": "unknown",
+      "gap_text": "In non-rhotic accents (e.g., British RP), speakers insert a {{c1::Linking or Intrusive R}} between two words when the first ends in a vowel and the second starts with a vowel, as in \"law and order\" sounding like \"law-r-and-order\".",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1032,7 +1122,7 @@
   {
     "id": "b640704570502ac1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1045,11 +1135,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical Compressions (Chunking) 🗣️",
-      "text": "Highly frequent word combinations are compressed into single colloquial units: \"going to\" becomes {{c1::gonna}}, \"want to\" becomes {{c2::wanna}}, and \"don't know\" becomes {{c3::dunno}}.",
-      "explanation": "Lexical chunking occurs because these high-frequency phrases are retrieved as a single cognitive unit, allowing the articulatory organs to take extreme shortcuts.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Highly frequent word combinations are compressed into single colloquial units: \"going to\" becomes {{c1::gonna}}, \"want to\" becomes {{c2::wanna}}, and \"don't know\" becomes {{c3::dunno}}.",
+      "explanation": "<b>Full transcript:</b> gonna<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Combinaciones de palabras muy frecuentes se comprimen en unidades coloquiales: \"going to\" se convierte en \"gonna\", \"want to\" en \"wanna\", y \"don't know\" en \"dunno\".",
-      "usage": "Practice Drills:<ul><li><code>going to go</code> &rarr; \"gonna go\"</li><li><code>want to eat</code> &rarr; \"wanna eat\"</li><li><code>I don't know</code> &rarr; \"I dunno\"</li><li><code>got to leave</code> &rarr; \"gotta leave\"</li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>gonna</code><br>",
+      "id": "b640704570502ac1",
+      "full_transcript": "gonna",
+      "connected_form": "unknown",
+      "gap_text": "Highly frequent word combinations are compressed into single colloquial units: \"going to\" becomes {{c1::gonna}}, \"want to\" becomes {{c2::wanna}}, and \"don't know\" becomes {{c3::dunno}}.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1067,7 +1166,7 @@
   {
     "id": "c1e4a9ecef4d2fae",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1080,11 +1179,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased Stops 🤐",
-      "text": "When a stop consonant (/p, t, k, b, d, g/) occurs at the end of a word or before another consonant, native speakers often use an {{c1::unreleased stop [̚]}}, meaning they block the air without letting it explode out.",
-      "explanation": "Instead of releasing the air pressure with a small burst of air (as in citation form), the airflow is stopped by the tongue or lips and held, resulting in an abrupt cut-off of the preceding vowel.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>When a stop consonant (/p, t, k, b, d, g/) occurs at the end of a word or before another consonant, native speakers often use an {{c1::unreleased stop [̚]}}, meaning they block the air without letting it explode out.",
+      "explanation": "<b>Full transcript:</b> unreleased stop [̚]<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Cuando una consonante oclusiva (/p, t, k, b, d, g/) está al final de una palabra o antes de otra consonante, se suele retener la liberación de aire (oclusión retenida), cortando el sonido de golpe.",
-      "usage": "Practice Drills:<ul><li><code>stop it</code> &rarr; \"stop-it\" (held lip closure)</li><li><code>hot dog</code> &rarr; \"hot-dog\" (tongue stays on alveolar ridge)</li><li><code>cat food</code> &rarr; \"cat-food\" (abrupt stop before 'f')</li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>unreleased stop [̚]</code><br>",
+      "id": "c1e4a9ecef4d2fae",
+      "full_transcript": "unreleased stop [̚]",
+      "connected_form": "unknown",
+      "gap_text": "When a stop consonant (/p, t, k, b, d, g/) occurs at the end of a word or before another consonant, native speakers often use an {{c1::unreleased stop [̚]}}, meaning they block the air without letting it explode out.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1137,7 +1245,7 @@
   {
     "id": "1423dfbb9b46ecc7",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1150,11 +1258,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre-Glottalization 🤐",
-      "text": "Before voiceless stops (/p, t, k/) at the end of syllables, speakers often reinforce the consonant with a simultaneous closing of the vocal cords, a process called {{c1::Pre-Glottalization or Glottal Reinforcement}}.",
-      "explanation": "The glottis closes briefly just before or during the oral closure for the stop consonant. This makes the onset of the consonant sound sharper and prevents voicing.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Before voiceless stops (/p, t, k/) at the end of syllables, speakers often reinforce the consonant with a simultaneous closing of the vocal cords, a process called {{c1::Pre-Glottalization or Glottal Reinforcement}}.",
+      "explanation": "<b>Full transcript:</b> Pre-Glottalization or Glottal Reinforcement<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Antes de las consonantes sordas /p, t, k/ al final de una sílaba, los hablantes a menudo cierran las cuerdas vocales simultáneamente, reforzando el sonido (pre-glotalización).",
-      "usage": "Practice Drills:<ul><li><code>napkin</code> &rarr; \"na[ʔ]pkin\"</li><li><code>actor</code> &rarr; \"a[ʔ]ctor\"</li><li><code>backward</code> &rarr; \"ba[ʔ]kward\"</li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Pre-Glottalization or Glottal Reinforcement</code><br>",
+      "id": "1423dfbb9b46ecc7",
+      "full_transcript": "Pre-Glottalization or Glottal Reinforcement",
+      "connected_form": "unknown",
+      "gap_text": "Before voiceless stops (/p, t, k/) at the end of syllables, speakers often reinforce the consonant with a simultaneous closing of the vocal cords, a process called {{c1::Pre-Glottalization or Glottal Reinforcement}}.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1172,7 +1289,7 @@
   {
     "id": "9d4df364871f5897",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1185,11 +1302,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Advanced Auxiliary Chunks 🗣️",
-      "text": "Complex auxiliary verb structures are heavily contracted in native conversation: \"What did you do?\" becomes {{c1::\"whadja do?\"}} and \"would have been\" becomes {{c2::\"woulda bin\"}}.",
-      "explanation": "Auxiliary and modal verbs carry low semantic weight compared to main verbs and nouns. In rapid speech, they undergo extreme vowel reduction and coalescence to speed up delivery.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Complex auxiliary verb structures are heavily contracted in native conversation: \"What did you do?\" becomes {{c1::\"whadja do?\"}} and \"would have been\" becomes {{c2::\"woulda bin\"}}.",
+      "explanation": "<b>Full transcript:</b> \"whadja do?\"<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Las estructuras de verbos auxiliares complejos se contraen de forma extrema: \"What did you do?\" se convierte en \"whadja do?\" y \"would have been\" en \"woulda bin\".",
-      "usage": "Practice Drills:<ul><li><code>What did you do?</code> &rarr; \"whadja do?\"</li><li><code>Did you ever...?</code> &rarr; \"jever...?\"</li><li><code>would have been</code> &rarr; \"woulda bin\"</li><li><code>What do you mean?</code> &rarr; \"whadaya mean?\"</li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>\"whadja do?\"</code><br>",
+      "id": "9d4df364871f5897",
+      "full_transcript": "\"whadja do?\"",
+      "connected_form": "unknown",
+      "gap_text": "Complex auxiliary verb structures are heavily contracted in native conversation: \"What did you do?\" becomes {{c1::\"whadja do?\"}} and \"would have been\" becomes {{c2::\"woulda bin\"}}.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1207,7 +1333,7 @@
   {
     "id": "dd9ab33d36924f61",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1219,11 +1345,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic Consonants 🗣️",
-      "text": "When an unstressed vowel is followed by /l/, /n/, or /m/, the vowel is often dropped completely, and the consonant itself becomes the nucleus of the syllable, known as a {{c1::Syllabic Consonant [n̩, l̩, m̩]}} (e.g., \"button\" &rarr; /ˈbʌ.tn̩/).",
-      "explanation": "Instead of pronouncing the schwa /ə/ and then the consonant, the tongue transitions directly from the preceding consonant to the nasal/lateral position, eliminating the vowel sound entirely.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>When an unstressed vowel is followed by /l/, /n/, or /m/, the vowel is often dropped completely, and the consonant itself becomes the nucleus of the syllable, known as a {{c1::Syllabic Consonant [n̩, l̩, m̩]}} (e.g., \"button\" &rarr; /ˈbʌ.tn̩/).",
+      "explanation": "<b>Full transcript:</b> Syllabic Consonant [n̩, l̩, m̩]<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Cuando una vocal átona es seguida por /l/, /n/ o /m/, la vocal se elimina y la consonante actúa como núcleo de la sílaba (consonante silábica). Ejemplo: \"button\" suena como \"butt-n\".",
-      "usage": "Practice Drills:<ul><li><code>button</code> &rarr; \"butt-n\" (/ˈbʌ.tn̩/)</li><li><code>little</code> &rarr; \"litt-l\" (/ˈlɪ.tl̩/)</li><li><code>rhythm</code> &rarr; \"rhyth-m\" (/ˈrɪð.m̩/)</li><li><code>sudden</code> &rarr; \"sudd-n\" (/ˈsʌd.n̩/)</li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Syllabic Consonant [n̩, l̩, m̩]</code><br>",
+      "id": "dd9ab33d36924f61",
+      "full_transcript": "Syllabic Consonant [n̩, l̩, m̩]",
+      "connected_form": "unknown",
+      "gap_text": "When an unstressed vowel is followed by /l/, /n/, or /m/, the vowel is often dropped completely, and the consonant itself becomes the nucleus of the syllable, known as a {{c1::Syllabic Consonant [n̩, l̩, m̩]}} (e.g., \"button\" &rarr; /ˈbʌ.tn̩/).",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1273,7 +1408,7 @@
   {
     "id": "bba390d55b77f6c8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1283,11 +1418,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Nasal T-Deletion 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>The international center has twenty computers.</b>\"<br>Connected speech pronunciation: {{c1::The innernational cener has tweny computers.}}",
-      "explanation": "Applied Rule: <b>Nasal T-Deletion</b><br>Unstressed /t/ directly following /n/ is omitted because the nasal articulation dominates at the alveolar ridge, letting speakers skip the stop sound.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>The international center has twenty computers.</b>\"<br>Connected speech pronunciation: {{c1::The innernational cener has tweny computers.}}",
+      "explanation": "<b>Full transcript:</b> The innernational cener has tweny computers.<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: El centro internacional tiene veinte computadoras.",
-      "usage": "Formal: <code>The international center has twenty computers.</code> &rarr; Connected: <code>The innernational cener has tweny computers.</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>The innernational cener has tweny computers.</code><br>",
+      "id": "bba390d55b77f6c8",
+      "full_transcript": "The innernational cener has tweny computers.",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>The international center has twenty computers.</b>\"<br>Connected speech pronunciation: {{c1::The innernational cener has tweny computers.}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1305,7 +1449,7 @@
   {
     "id": "8af4ea8777cc69d8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1315,11 +1459,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Linking and Intrusive R 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>I have no idea of the law and order.</b>\"<br>Connected speech pronunciation: {{c1::I have no idea-r-of the law-r-and order.}}",
-      "explanation": "Applied Rule: <b>Linking and Intrusive R</b><br>In non-rhotic accents, an 'r' sound is inserted to bridge contiguous vowel sounds, preventing a glottal break (hiatus).",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>I have no idea of the law and order.</b>\"<br>Connected speech pronunciation: {{c1::I have no idea-r-of the law-r-and order.}}",
+      "explanation": "<b>Full transcript:</b> I have no idea-r-of the law-r-and order.<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: No tengo idea de la ley y el orden.",
-      "usage": "Formal: <code>I have no idea of the law and order.</code> &rarr; Connected: <code>I have no idea-r-of the law-r-and order.</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>I have no idea-r-of the law-r-and order.</code><br>",
+      "id": "8af4ea8777cc69d8",
+      "full_transcript": "I have no idea-r-of the law-r-and order.",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>I have no idea of the law and order.</b>\"<br>Connected speech pronunciation: {{c1::I have no idea-r-of the law-r-and order.}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1337,7 +1490,7 @@
   {
     "id": "4c76dd69ea24e5a3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1347,11 +1500,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Glottal Stop 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>I can't go to the football match.</b>\"<br>Connected speech pronunciation: {{c1::I can' ɡo to the foo'ball match.}}",
-      "explanation": "Applied Rule: <b>Glottal Stop</b><br>Before another consonant, final /t/ is not released with air; instead, the airflow is cut off briefly in the glottis (throat).",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>I can't go to the football match.</b>\"<br>Connected speech pronunciation: {{c1::I can' ɡo to the foo'ball match.}}",
+      "explanation": "<b>Full transcript:</b> I can' ɡo to the foo'ball match.<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: No puedo ir al partido de fútbol.",
-      "usage": "Formal: <code>I can't go to the football match.</code> &rarr; Connected: <code>I can' ɡo to the foo'ball match.</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>I can' ɡo to the foo'ball match.</code><br>",
+      "id": "4c76dd69ea24e5a3",
+      "full_transcript": "I can' ɡo to the foo'ball match.",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>I can't go to the football match.</b>\"<br>Connected speech pronunciation: {{c1::I can' ɡo to the foo'ball match.}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1369,7 +1531,7 @@
   {
     "id": "d9e39f137113a295",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1379,11 +1541,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Unreleased Stops 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>Drop it in the hot dog bag.</b>\"<br>Connected speech pronunciation: {{c1::Drop-it in the hah-dog bag.}}",
-      "explanation": "Applied Rule: <b>Unreleased Stops</b><br>The final stop consonants /p/, /t/, and /g/ are unreleased (held), cutting off the vowels abruptly without a puff of air.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>Drop it in the hot dog bag.</b>\"<br>Connected speech pronunciation: {{c1::Drop-it in the hah-dog bag.}}",
+      "explanation": "<b>Full transcript:</b> Drop-it in the hah-dog bag.<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: Déjalo en la bolsa de los perros calientes.",
-      "usage": "Formal: <code>Drop it in the hot dog bag.</code> &rarr; Connected: <code>Drop-it in the hah-dog bag.</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Drop-it in the hah-dog bag.</code><br>",
+      "id": "d9e39f137113a295",
+      "full_transcript": "Drop-it in the hah-dog bag.",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>Drop it in the hot dog bag.</b>\"<br>Connected speech pronunciation: {{c1::Drop-it in the hah-dog bag.}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1401,7 +1572,7 @@
   {
     "id": "eebc6e93e9b1883e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1411,11 +1582,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Advanced Auxiliary Chunks 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>What did you do? Did you ever think it would have been easy?</b>\"<br>Connected speech pronunciation: {{c1::Whadja do? Jever think it woulda bin easy?}}",
-      "explanation": "Applied Rule: <b>Advanced Auxiliary Chunks</b><br>The auxiliary sequences compress heavily via coalescence (what did you &rarr; whadja; did you &rarr; jever) and reduction (would have &rarr; woulda).",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>What did you do? Did you ever think it would have been easy?</b>\"<br>Connected speech pronunciation: {{c1::Whadja do? Jever think it woulda bin easy?}}",
+      "explanation": "<b>Full transcript:</b> Whadja do? Jever think it woulda bin easy?<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: ¿Qué hiciste? ¿Alguna vez pensaste que habría sido fácil?",
-      "usage": "Formal: <code>What did you do? Did you ever think it would have been easy?</code> &rarr; Connected: <code>Whadja do? Jever think it woulda bin easy?</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Whadja do? Jever think it woulda bin easy?</code><br>",
+      "id": "eebc6e93e9b1883e",
+      "full_transcript": "Whadja do? Jever think it woulda bin easy?",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>What did you do? Did you ever think it would have been easy?</b>\"<br>Connected speech pronunciation: {{c1::Whadja do? Jever think it woulda bin easy?}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1433,7 +1613,7 @@
   {
     "id": "6c47505bd633d58a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1442,11 +1622,20 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Rhythm & Isocronía ⏳",
-      "text": "Unlike syllable-timed languages like Spanish, English is a {{c1::stress-timed language (isocronía)}}, meaning the duration between stressed syllables remains constant, while unstressed syllables are compressed.",
-      "explanation": "This means that 'CATS CHASE MICE' and 'The CATS have been CHASING the MICE' take roughly the same amount of time to say. Unstressed words like 'have been' or 'the' are squeezed into tiny fractions of a second, forcing reductions like the schwa.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Unlike syllable-timed languages like Spanish, English is a {{c1::stress-timed language (isocronía)}}, meaning the duration between stressed syllables remains constant, while unstressed syllables are compressed.",
+      "explanation": "<b>Full transcript:</b> stress-timed language (isocronía)<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "A diferencia de los idiomas con ritmo silábico (como el español), el inglés es un idioma con ritmo acentual (isocronía), lo que significa que el tiempo entre sílabas acentuadas es constante y las sílabas átonas se comprimen.",
-      "usage": "Contrast: <code>CATS CHASE MICE</code> (~1.5s) vs. <code>The CATS have been CHASING the MICE</code> (~1.5s)."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>stress-timed language (isocronía)</code><br>",
+      "id": "6c47505bd633d58a",
+      "full_transcript": "stress-timed language (isocronía)",
+      "connected_form": "unknown",
+      "gap_text": "Unlike syllable-timed languages like Spanish, English is a {{c1::stress-timed language (isocronía)}}, meaning the duration between stressed syllables remains constant, while unstressed syllables are compressed.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1619,7 +1808,7 @@
   {
     "id": "304375032810445d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1629,11 +1818,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Shadowing: Cluster Elision 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>I must go to the last station. (Challenge: The next-door neighbor said it must be last night.)</b>\"<br>Connected speech pronunciation: {{c1::I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)}}",
-      "explanation": "Applied Rule: <b>Shadowing: Cluster Elision</b><br>Cluster Elision (Rule of 3 Consonants): When 3 consonants meet, the middle /t/ or /d/ is dropped.<br>🎥 Search: 'English with Martin Blacutt regla de 3 consonantes elision' on YouTube.<br>🔗 YouGlish search terms: <code>last night</code> / <code>next door</code>",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>I must go to the last station. (Challenge: The next-door neighbor said it must be last night.)</b>\"<br>Connected speech pronunciation: {{c1::I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)}}",
+      "explanation": "<b>Full transcript:</b> I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: Lento: I must go to the last station. Conectado: I mus-go to the las-station. Reto: El vecino de al lado dijo que debió ser anoche.",
-      "usage": "Formal: <code>I must go to the last station. (Challenge: The next-door neighbor said it must be last night.)</code> &rarr; Connected: <code>I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)</code><br>",
+      "id": "304375032810445d",
+      "full_transcript": "I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>I must go to the last station. (Challenge: The next-door neighbor said it must be last night.)</b>\"<br>Connected speech pronunciation: {{c1::I mus-go to the las-station. (Challenge: The nex-door neighbor said it mus-be las-night.)}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1683,7 +1881,7 @@
   {
     "id": "3f3a5756b9e28ae1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1693,11 +1891,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Shadowing: Yod Coalescence 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>Don't you know what would you do if I asked you? (Challenge: Did you see what caught you off guard?)</b>\"<br>Connected speech pronunciation: {{c1::Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)}}",
-      "explanation": "Applied Rule: <b>Shadowing: Yod Coalescence</b><br>Yod Coalescence: Merging /t, d, s, z/ with palatal /j/ creates CH, DJ, SH, ZH.<br>🎥 Search: 'BBC Learning English - Tim's Pronunciation Workshop: Assimilation' on YouTube.<br>🔗 YouGlish search terms: <code>don't you</code> / <code>would you</code>",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>Don't you know what would you do if I asked you? (Challenge: Did you see what caught you off guard?)</b>\"<br>Connected speech pronunciation: {{c1::Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)}}",
+      "explanation": "<b>Full transcript:</b> Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: Lento: ¿No sabes qué harías si te lo pidiera? Reto: ¿Viste qué te tomó por sorpresa?",
-      "usage": "Formal: <code>Don't you know what would you do if I asked you? (Challenge: Did you see what caught you off guard?)</code> &rarr; Connected: <code>Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)</code><br>",
+      "id": "3f3a5756b9e28ae1",
+      "full_transcript": "Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>Don't you know what would you do if I asked you? (Challenge: Did you see what caught you off guard?)</b>\"<br>Connected speech pronunciation: {{c1::Don-choo know what wood-joo do if I ask-shoo? (Challenge: Did-joo see what caught-choo off guard?)}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1715,7 +1922,7 @@
   {
     "id": "67c99fa911d78324",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1725,11 +1932,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Shadowing: Dark L Vocalization 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>I feel that the milk in the bottle is cold.</b>\"<br>Connected speech pronunciation: {{c1::I feew that the miwk in the boddle is cowd.}}",
-      "explanation": "Applied Rule: <b>Shadowing: Dark L Vocalization</b><br>Dark L Vocalization: The back-of-the-mouth L [ɫ] vocalizes to [w] or [ʊ] before consonants or final pauses.<br>🎥 Search: 'Rachel's English Dark L sound' on YouTube.<br>🔗 YouGlish search terms: <code>feel cold</code> / <code>milk bottle</code>",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>I feel that the milk in the bottle is cold.</b>\"<br>Connected speech pronunciation: {{c1::I feew that the miwk in the boddle is cowd.}}",
+      "explanation": "<b>Full transcript:</b> I feew that the miwk in the boddle is cowd.<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: Lento: Siento que la leche en la botella está fría. Conectado: I feew that the miwk in the boddle is cowd.",
-      "usage": "Formal: <code>I feel that the milk in the bottle is cold.</code> &rarr; Connected: <code>I feew that the miwk in the boddle is cowd.</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>I feew that the miwk in the boddle is cowd.</code><br>",
+      "id": "67c99fa911d78324",
+      "full_transcript": "I feew that the miwk in the boddle is cowd.",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>I feel that the milk in the bottle is cold.</b>\"<br>Connected speech pronunciation: {{c1::I feew that the miwk in the boddle is cowd.}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1747,7 +1963,7 @@
   {
     "id": "c9f47d29df6bda5c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1757,11 +1973,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Shadowing: Intrusive Glides 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>Go out and do it because I am ready.</b>\"<br>Connected speech pronunciation: {{c1::Go-w-out and do-w-it because I-y-am ready.}}",
-      "explanation": "Applied Rule: <b>Shadowing: Intrusive Glides</b><br>Intrusive Glides: Inserting linking /w/ or /j/ ('y') to smooth out adjacent vowel clashes.<br>🎥 Search: 'Linking vowels with W and Y sound English' on YouTube.<br>🔗 YouGlish search terms: <code>go out</code> / <code>do it</code>",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>Go out and do it because I am ready.</b>\"<br>Connected speech pronunciation: {{c1::Go-w-out and do-w-it because I-y-am ready.}}",
+      "explanation": "<b>Full transcript:</b> Go-w-out and do-w-it because I-y-am ready.<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: Lento: Sal y hazlo porque estoy listo. Conectado: Go-w-out and do-w-it because I-y-am ready.",
-      "usage": "Formal: <code>Go out and do it because I am ready.</code> &rarr; Connected: <code>Go-w-out and do-w-it because I-y-am ready.</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Go-w-out and do-w-it because I-y-am ready.</code><br>",
+      "id": "c9f47d29df6bda5c",
+      "full_transcript": "Go-w-out and do-w-it because I-y-am ready.",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>Go out and do it because I am ready.</b>\"<br>Connected speech pronunciation: {{c1::Go-w-out and do-w-it because I-y-am ready.}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1779,7 +2004,7 @@
   {
     "id": "45e5fce620ae8ff0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1789,11 +2014,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Shadowing: Auxiliary Chunks 🗣️",
-      "text": "Practice saying this phrase fast: \"<b>What did you do? Did you ever think it would have been easy? (Challenge: What do you mean how's it going?)</b>\"<br>Connected speech pronunciation: {{c1::Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)}}",
-      "explanation": "Applied Rule: <b>Shadowing: Auxiliary Chunks</b><br>Complex Auxiliary Contractions: Compression of auxiliary groups and questions.<br>🎥 Search: 'English reductions whadja jever whadaya' on YouTube.<br>🔗 YouGlish search terms: <code>what did you do</code> / <code>would have been</code>",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Practice saying this phrase fast: \"<b>What did you do? Did you ever think it would have been easy? (Challenge: What do you mean how's it going?)</b>\"<br>Connected speech pronunciation: {{c1::Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)}}",
+      "explanation": "<b>Full transcript:</b> Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Spanish: Lento: ¿Qué hiciste? ¿Pensaste que habría sido fácil? Reto: ¿A qué te refieres con cómo te va?",
-      "usage": "Formal: <code>What did you do? Did you ever think it would have been easy? (Challenge: What do you mean how's it going?)</code> &rarr; Connected: <code>Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)</code>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)</code><br>",
+      "id": "45e5fce620ae8ff0",
+      "full_transcript": "Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)",
+      "connected_form": "unknown",
+      "gap_text": "Practice saying this phrase fast: \"<b>What did you do? Did you ever think it would have been easy? (Challenge: What do you mean how's it going?)</b>\"<br>Connected speech pronunciation: {{c1::Whadja do? Jever think it woulda bin easy? (Challenge: Whadaya mean howzit goin'?)}}",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1811,7 +2045,7 @@
   {
     "id": "e0f5656fa5358411",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1822,11 +2056,20 @@
       ]
     },
     "content": {
-      "scenario": "Phonetics: Cluster Reduction 🗣️",
-      "text": "In connected speech, a sequence like {{c1::next door}} often becomes a softer, faster cluster that sounds like {{c2::nex door}}.",
-      "explanation": "When three consonants appear close together, native speakers often reduce the middle consonant, especially in casual speech.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>In connected speech, a sequence like {{c1::next door}} often becomes a softer, faster cluster that sounds like {{c2::nex door}}.",
+      "explanation": "<b>Full transcript:</b> next door<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "En el habla conectada, una secuencia como 'next door' suele sonar como una agrupación más suave y rápida, casi como 'nex door'.",
-      "usage": "Pattern: <code>cluster reduction / consonant elision</code><ul><li><code>Last night sounds like las-night.</code></li><li><code>Next door sounds like nex-door.</code></li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>next door</code><br>",
+      "id": "e0f5656fa5358411",
+      "full_transcript": "next door",
+      "connected_form": "unknown",
+      "gap_text": "In connected speech, a sequence like {{c1::next door}} often becomes a softer, faster cluster that sounds like {{c2::nex door}}.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1877,7 +2120,7 @@
   {
     "id": "7e46bd5ab6685c41",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1888,11 +2131,20 @@
       ]
     },
     "content": {
-      "scenario": "Phonetics: Glottal Stop 🎤",
-      "text": "In some varieties of English, a {{c1::t}} before a nasal or at the end of a syllable can become a {{c2::glottal stop}}.",
-      "explanation": "This creates a small catch in the throat and is very common in everyday speech.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>In some varieties of English, a {{c1::t}} before a nasal or at the end of a syllable can become a {{c2::glottal stop}}.",
+      "explanation": "<b>Full transcript:</b> t<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "En algunas variedades de inglés, una 't' antes de una nasal o al final de una sílaba puede convertirse en una parada glotal.",
-      "usage": "Pattern: <code>glottal stop / t-glottalization</code><ul><li><code>button → bu'n</code></li><li><code>can't go → ca'n go</code></li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>t</code><br>",
+      "id": "7e46bd5ab6685c41",
+      "full_transcript": "t",
+      "connected_form": "unknown",
+      "gap_text": "In some varieties of English, a {{c1::t}} before a nasal or at the end of a syllable can become a {{c2::glottal stop}}.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1910,7 +2162,7 @@
   {
     "id": "2107b0b9bfc1592b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1921,11 +2173,20 @@
       ]
     },
     "content": {
-      "scenario": "Phonetics: Schwa Reduction 🌫️",
-      "text": "Function words often reduce to a weak vowel called {{c1::schwa}} in fast speech.",
-      "explanation": "Words like to, of, and, or can become very short and unstressed, making the sentence sound smoother.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Function words often reduce to a weak vowel called {{c1::schwa}} in fast speech.",
+      "explanation": "<b>Full transcript:</b> schwa<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Las palabras funcionales a menudo se reducen a una vocal débil llamada schwa en el habla rápida.",
-      "usage": "Pattern: <code>schwa / reduced vowel</code><ul><li><code>I can go → I kən go</code></li><li><code>fish and chips → fish n chips</code></li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>schwa</code><br>",
+      "id": "2107b0b9bfc1592b",
+      "full_transcript": "schwa",
+      "connected_form": "unknown",
+      "gap_text": "Function words often reduce to a weak vowel called {{c1::schwa}} in fast speech.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -1943,7 +2204,7 @@
   {
     "id": "d25646667af36d9e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1954,11 +2215,20 @@
       ]
     },
     "content": {
-      "scenario": "Phonetics: Linking R 📡",
-      "text": "In non-rhotic accents, speakers may add an {{c1::intrusive r}} between vowels to make the phrase smoother.",
-      "explanation": "This is common in phrases like law and order or idea of it, where a subtle r bridges two vowel sounds.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>In non-rhotic accents, speakers may add an {{c1::intrusive r}} between vowels to make the phrase smoother.",
+      "explanation": "<b>Full transcript:</b> intrusive r<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "En acentos no róticos, los hablantes pueden agregar una r intrusiva entre vocales para que la frase suene más fluida.",
-      "usage": "Pattern: <code>linking r / intrusive r</code><ul><li><code>law and order → law-r-and-order</code></li><li><code>idea of it → idea-r-of-it</code></li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>intrusive r</code><br>",
+      "id": "d25646667af36d9e",
+      "full_transcript": "intrusive r",
+      "connected_form": "unknown",
+      "gap_text": "In non-rhotic accents, speakers may add an {{c1::intrusive r}} between vowels to make the phrase smoother.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -2903,7 +3173,7 @@
   {
     "id": "80db325ab97832f3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -2914,11 +3184,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation: Linking R 🎧",
-      "text": "In connected speech, the {{c1::r}} in words like far and car is often linked to the next vowel sound.",
-      "explanation": "Linking helps speakers sound smoother and more native-like.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>In connected speech, the {{c1::r}} in words like far and car is often linked to the next vowel sound.",
+      "explanation": "<b>Full transcript:</b> r<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "En el habla conectada, la r en palabras como far y car a menudo se enlaza con el siguiente sonido vocálico.",
-      "usage": "Useful for rhythm, listening, and shadowing practice."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>r</code><br>",
+      "id": "80db325ab97832f3",
+      "full_transcript": "r",
+      "connected_form": "unknown",
+      "gap_text": "In connected speech, the {{c1::r}} in words like far and car is often linked to the next vowel sound.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -3002,7 +3281,7 @@
   {
     "id": "11eefd980801335e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -3013,11 +3292,20 @@
       ]
     },
     "content": {
-      "scenario": "Listening: Reduced Speech 👂",
-      "text": "{{c1::When}} natives speak quickly, function words often become reduced and harder to hear clearly.",
-      "explanation": "Training your ear to recognize reduced forms improves real-world comprehension.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>{{c1::When}} natives speak quickly, function words often become reduced and harder to hear clearly.",
+      "explanation": "<b>Full transcript:</b> When<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Cuando los nativos hablan rápido, las palabras funcionales a menudo se reducen y son más difíciles de escuchar claramente.",
-      "usage": "Ideal for podcasts, interviews, and fast conversation practice."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>When</code><br>",
+      "id": "11eefd980801335e",
+      "full_transcript": "When",
+      "connected_form": "unknown",
+      "gap_text": "{{c1::When}} natives speak quickly, function words often become reduced and harder to hear clearly.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -3035,7 +3323,7 @@
   {
     "id": "305f4a524a7871de",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -3046,11 +3334,20 @@
       ]
     },
     "content": {
-      "scenario": "Listening: Sentence Stress 🧠",
-      "text": "English {{c1::sentence stress}} highlights key words, while unstressed words are pronounced more weakly.",
-      "explanation": "Recognizing stress helps you understand the main message even when the speech is fast.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>English {{c1::sentence stress}} highlights key words, while unstressed words are pronounced more weakly.",
+      "explanation": "<b>Full transcript:</b> sentence stress<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "El estrés de la oración en inglés resalta palabras clave, mientras que las palabras sin énfasis se pronuncian más débilmente.",
-      "usage": "Useful for listening to announcements, meetings, and spontaneous speech."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>sentence stress</code><br>",
+      "id": "305f4a524a7871de",
+      "full_transcript": "sentence stress",
+      "connected_form": "unknown",
+      "gap_text": "English {{c1::sentence stress}} highlights key words, while unstressed words are pronounced more weakly.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -3068,7 +3365,7 @@
   {
     "id": "e0cc101f101c7122",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -3079,11 +3376,20 @@
       ]
     },
     "content": {
-      "scenario": "Listening: Chunking 🧩",
-      "text": "Native speakers often group words into {{c1::chunks}}, which makes fluent speech easier to process.",
-      "explanation": "Chunking is a major listening skill for understanding connected speech.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Native speakers often group words into {{c1::chunks}}, which makes fluent speech easier to process.",
+      "explanation": "<b>Full transcript:</b> chunks<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Los hablantes nativos suelen agrupar palabras en chunks, lo que hace más fácil procesar el habla fluida.",
-      "usage": "Great for shadowing and audio comprehension drills."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>chunks</code><br>",
+      "id": "e0cc101f101c7122",
+      "full_transcript": "chunks",
+      "connected_form": "unknown",
+      "gap_text": "Native speakers often group words into {{c1::chunks}}, which makes fluent speech easier to process.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -3101,7 +3407,7 @@
   {
     "id": "539d9fcd529715cf",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -3112,11 +3418,20 @@
       ]
     },
     "content": {
-      "scenario": "Listening: Intonation Patterns 🎵",
-      "text": "{{c1::Rising}} and falling intonation can change the meaning of a sentence or show attitude.",
-      "explanation": "Intonation is essential for understanding emotion, questions, and emphasis.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>{{c1::Rising}} and falling intonation can change the meaning of a sentence or show attitude.",
+      "explanation": "<b>Full transcript:</b> Rising<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "La entonación ascendente y descendente puede cambiar el significado de una oración o mostrar actitud.",
-      "usage": "Very useful for natural conversation and expressive speaking."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Rising</code><br>",
+      "id": "539d9fcd529715cf",
+      "full_transcript": "Rising",
+      "connected_form": "unknown",
+      "gap_text": "{{c1::Rising}} and falling intonation can change the meaning of a sentence or show attitude.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -3134,7 +3449,7 @@
   {
     "id": "68cc64c92b792a51",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -3145,11 +3460,20 @@
       ]
     },
     "content": {
-      "scenario": "Listening: Fast Speech vs Careful Speech ⚡",
-      "text": "{{c1::Careful}} speech is easier to hear, but fast speech often contains reductions and elisions.",
-      "explanation": "Comparing both helps learners bridge the gap between classroom English and real speech.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>{{c1::Careful}} speech is easier to hear, but fast speech often contains reductions and elisions.",
+      "explanation": "<b>Full transcript:</b> Careful<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "El habla cuidadosa es más fácil de escuchar, pero el habla rápida a menudo contiene reducciones y elisiones.",
-      "usage": "Ideal for podcasts, YouTube, and everyday conversations."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>Careful</code><br>",
+      "id": "68cc64c92b792a51",
+      "full_transcript": "Careful",
+      "connected_form": "unknown",
+      "gap_text": "{{c1::Careful}} speech is easier to hear, but fast speech often contains reductions and elisions.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -3167,7 +3491,7 @@
   {
     "id": "c33202708edc1042",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -3178,11 +3502,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation: Elision ✂️",
-      "text": "Elision removes sounds in fast speech, as in {{c1::next day}} becoming {{c2::next day}} in rapid pronunciation.",
-      "explanation": "Elision is common in everyday speech and is important for advanced comprehension.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Elision removes sounds in fast speech, as in {{c1::next day}} becoming {{c2::next day}} in rapid pronunciation.",
+      "explanation": "<b>Full transcript:</b> next day<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "La elisión elimina sonidos en el habla rápida, como en next day que se convierte en next day en pronunciación rápida.",
-      "usage": "Excellent for advanced listening and pronunciation training."
+      "usage": "Native: <code>unknown</code><br>Formal: <code>next day</code><br>",
+      "id": "c33202708edc1042",
+      "full_transcript": "next day",
+      "connected_form": "unknown",
+      "gap_text": "Elision removes sounds in fast speech, as in {{c1::next day}} becoming {{c2::next day}} in rapid pronunciation.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -3370,7 +3703,7 @@
   {
     "id": "9f5d0ac38d6994fd",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -3382,11 +3715,20 @@
       ]
     },
     "content": {
-      "scenario": "Pronunciation Drill: Connected Speech Reductions 🗣️",
-      "text": "To fit multi-word phrases into fast rhythmic slots, you must apply connected speech, compressing a phrase like 'must be' into {{c1::mus-be}} and 'what did you do' into {{c2::whadja do}}.",
-      "explanation": "Connected speech (from Phonetics Mastery) is the secret to fast, effortless rapping. If you pronounce every word with dictionary clarity ('Garden Stage'), you will run out of breath and fall behind the beat. You must transition to the 'Jungle' by squishing unstressed consonants and vowels.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>To fit multi-word phrases into fast rhythmic slots, you must apply connected speech, compressing a phrase like 'must be' into {{c1::mus-be}} and 'what did you do' into {{c2::whadja do}}.",
+      "explanation": "<b>Full transcript:</b> mus-be<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "Para ajustar frases de varias palabras en espacios rítmicos rápidos, debes aplicar el habla conectada, comprimiendo frases como 'must be' en 'mus-be' y 'what did you do' en 'whadja do'.",
-      "usage": "Phonetic Compression Drills:<ul><li><b>Cluster Elision</b>: <i>'last night'</i> &rarr; <code>/læs naɪt/ (las-night)</code></li><li><b>Flap T</b>: <i>'get a job'</i> &rarr; <code>/ɡɛ.ɾə dʒɑːb/ (ge-da job)</code></li><li><b>Auxiliary Chunking</b>: <i>'would have been'</i> &rarr; <code>/wʊ.də bɪn/ (woulda bin)</code></li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>mus-be</code><br>",
+      "id": "9f5d0ac38d6994fd",
+      "full_transcript": "mus-be",
+      "connected_form": "unknown",
+      "gap_text": "To fit multi-word phrases into fast rhythmic slots, you must apply connected speech, compressing a phrase like 'must be' into {{c1::mus-be}} and 'what did you do' into {{c2::whadja do}}.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",
@@ -3438,7 +3780,7 @@
   {
     "id": "e2ef3ccf525b7e7d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -3450,11 +3792,20 @@
       ]
     },
     "content": {
-      "scenario": "Lyric Structure ✍️: Multi-Syllabic Rhymes",
-      "text": "Instead of only rhyming the final vowel, advanced rappers use multi-syllabic rhyming, matching the entire sequence of {{c1::vowel sounds}} across multiple words, such as rhyming 'crazy lady' with {{c2::baby safety}}.",
-      "explanation": "Multi-syllabic rhyming (pioneered by artists like Rakim and Eminem) is what separates amateur writing from professional flow. By matching vowel counts (e.g., 'crazy lady' is /eɪ-i - eɪ-i/, and 'baby safety' is also /eɪ-i - eɪ-i/), you create a dense, highly sonic texture that naturally glides over the beat.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<br><br><b>Fill the gap:</b><br>Instead of only rhyming the final vowel, advanced rappers use multi-syllabic rhyming, matching the entire sequence of {{c1::vowel sounds}} across multiple words, such as rhyming 'crazy lady' with {{c2::baby safety}}.",
+      "explanation": "<b>Full transcript:</b> vowel sounds<br><br><b>Connected form:</b> <i>unknown</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Colloquial Rhythm And Flow</code></li></ul>",
       "spanish": "En las rimas avanzadas, los raperos usan rimas polisilábicas, haciendo coincidir toda la secuencia de sonidos vocálicos a través de múltiples palabras, en lugar de rimar solo la vocal final.",
-      "usage": "Vowel Matching Drill (/ɪ-æ-ɪ-ə/):<ul><li>Line 1: I'm the <b><u>i</u>nst<u>a</u>nt w<u>i</u>nn<u>e</u>r</b></li><li>Line 2: Eating <b><u>i</u>nst<u>a</u>nt d<u>i</u>nn<u>e</u>r</b></li><li>Line 3: Spitting <b><u>i</u>nf<u>i</u>n<u>i</u>t<u>e</u></b> lyrics, a true <b><u>i</u>nn<u>e</u>r s<u>i</u>nn<u>e</u>r</b></li></ul>"
+      "usage": "Native: <code>unknown</code><br>Formal: <code>vowel sounds</code><br>",
+      "id": "e2ef3ccf525b7e7d",
+      "full_transcript": "vowel sounds",
+      "connected_form": "unknown",
+      "gap_text": "Instead of only rhyming the final vowel, advanced rappers use multi-syllabic rhyming, matching the entire sequence of {{c1::vowel sounds}} across multiple words, such as rhyming 'crazy lady' with {{c2::baby safety}}.",
+      "rules_applied": [
+        "Colloquial Rhythm And Flow"
+      ],
+      "language": "en",
+      "audio_links": {}
     },
     "mnemonics": {
       "palace_name": "",

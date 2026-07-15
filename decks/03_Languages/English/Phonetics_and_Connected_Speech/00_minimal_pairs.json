@@ -2,7 +2,7 @@
   {
     "id": "f75a695f93e1e5f9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::00_Minimal_Pairs",
-    "template": "T1_Cloze",
+    "template": "T8_MinimalPair",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,10 +16,67 @@
     },
     "content": {
       "scenario": "Minimal Pair 🎯: /ɪ/ vs /iː/ (EN)",
-      "text": "<div style='margin-bottom:10px'><a href='https://forvo.com/word/ship/#en' target='_blank' style='background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;'>🔊 /ɪ/</a>&nbsp;<a href='https://forvo.com/word/sheep/#en' target='_blank' style='background:#4CAF50;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;'>🔊 /iː/</a>&nbsp;<a href='http://www.ipachart.com/' target='_blank' style='background:#6A1B9A;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;'>📖 IPAchart</a></div><b>Phoneme A</b> <code>/ɪ/</code><br><b>IPA description:</b> {{c1::short, relaxed, mid-high front vowel}}",
-      "explanation": "<b>/ɪ/</b> — short, relaxed, mid-high front vowel<br><b>/iː/</b> — long, tense, high front vowel<br><br><b>🧠 Articulatory Tip (ES):</b> Para /ɪ/, relaja la boca y la lengua completamente. Es corta. Para /iː/, sonríe exageradamente y tensa los lados de la lengua. Es más larga.<br><br><table border='1' cellpadding='5' style='border-collapse:collapse;width:100%'><thead style='background:#E3F2FD'><tr><th>Word A (/ɪ/)</th><th>IPA A</th><th>Word B (/iː/)</th><th>IPA B</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>ship</b></td><td><code>/ʃɪp/</code></td><td><b>sheep</b></td><td><code>/ʃiːp/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>bit</b></td><td><code>/bɪt/</code></td><td><b>beat</b></td><td><code>/biːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>sit</b></td><td><code>/sɪt/</code></td><td><b>seat</b></td><td><code>/siːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>fit</b></td><td><code>/fɪt/</code></td><td><b>feet</b></td><td><code>/fiːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>fill</b></td><td><code>/fɪl/</code></td><td><b>feel</b></td><td><code>/fiːl/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>grin</b></td><td><code>/ɡrɪn/</code></td><td><b>green</b></td><td><code>/ɡriːn/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>slip</b></td><td><code>/slɪp/</code></td><td><b>sleep</b></td><td><code>/sliːp/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>hit</b></td><td><code>/hɪt/</code></td><td><b>heat</b></td><td><code>/hiːt/</code></td></tr></tbody></table>",
+      "text": "<b>Identify the phoneme:</b><br><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊 /ɪ/</a> vs <a href='https://forvo.com/word/sheep/#en' target='_blank'>🔊 /iː/</a><br><br>First phoneme IPA: {{c1::short, relaxed, mid-high front vowel}}",
+      "explanation": "<b>Phoneme A:</b> /ɪ/ — IPA: <code>short, relaxed, mid-high front vowel</code><br><b>Phoneme B:</b> /iː/ — IPA: <code>long, tense, high front vowel</code><br><br><b>Articulatory Tip (ES):</b> Para /ɪ/, relaja la boca y la lengua completamente. Es corta. Para /iː/, sonríe exageradamente y tensa los lados de la lengua. Es más larga.<br><br><table border='1' cellpadding='4'><thead><tr><th>Word (/ɪ/)</th><th>IPA</th><th>Word (/iː/)</th><th>IPA</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>ship</b></td><td><code>/ʃɪp/</code></td><td><b>sheep</b></td><td><code>/ʃiːp/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>bit</b></td><td><code>/bɪt/</code></td><td><b>beat</b></td><td><code>/biːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>sit</b></td><td><code>/sɪt/</code></td><td><b>seat</b></td><td><code>/siːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>fit</b></td><td><code>/fɪt/</code></td><td><b>feet</b></td><td><code>/fiːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>fill</b></td><td><code>/fɪl/</code></td><td><b>feel</b></td><td><code>/fiːl/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>grin</b></td><td><code>/ɡrɪn/</code></td><td><b>green</b></td><td><code>/ɡriːn/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>slip</b></td><td><code>/slɪp/</code></td><td><b>sleep</b></td><td><code>/sliːp/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>hit</b></td><td><code>/hɪt/</code></td><td><b>heat</b></td><td><code>/hiːt/</code></td></tr></tbody></table>",
       "spanish": "Para /ɪ/, relaja la boca y la lengua completamente. Es corta. Para /iː/, sonríe exageradamente y tensa los lados de la lengua. Es más larga.",
-      "usage": "<table border='1' cellpadding='5' style='border-collapse:collapse;width:100%'><thead style='background:#E3F2FD'><tr><th>Word A (/ɪ/)</th><th>IPA A</th><th>Word B (/iː/)</th><th>IPA B</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>ship</b></td><td><code>/ʃɪp/</code></td><td><b>sheep</b></td><td><code>/ʃiːp/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>bit</b></td><td><code>/bɪt/</code></td><td><b>beat</b></td><td><code>/biːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>sit</b></td><td><code>/sɪt/</code></td><td><b>seat</b></td><td><code>/siːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>fit</b></td><td><code>/fɪt/</code></td><td><b>feet</b></td><td><code>/fiːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>fill</b></td><td><code>/fɪl/</code></td><td><b>feel</b></td><td><code>/fiːl/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>grin</b></td><td><code>/ɡrɪn/</code></td><td><b>green</b></td><td><code>/ɡriːn/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>slip</b></td><td><code>/slɪp/</code></td><td><b>sleep</b></td><td><code>/sliːp/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>hit</b></td><td><code>/hɪt/</code></td><td><b>heat</b></td><td><code>/hiːt/</code></td></tr></tbody></table>",
+      "usage": "<table border='1' cellpadding='4'><thead><tr><th>Word (/ɪ/)</th><th>IPA</th><th>Word (/iː/)</th><th>IPA</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>ship</b></td><td><code>/ʃɪp/</code></td><td><b>sheep</b></td><td><code>/ʃiːp/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>bit</b></td><td><code>/bɪt/</code></td><td><b>beat</b></td><td><code>/biːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>sit</b></td><td><code>/sɪt/</code></td><td><b>seat</b></td><td><code>/siːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>fit</b></td><td><code>/fɪt/</code></td><td><b>feet</b></td><td><code>/fiːt/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>fill</b></td><td><code>/fɪl/</code></td><td><b>feel</b></td><td><code>/fiːl/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>grin</b></td><td><code>/ɡrɪn/</code></td><td><b>green</b></td><td><code>/ɡriːn/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>slip</b></td><td><code>/slɪp/</code></td><td><b>sleep</b></td><td><code>/sliːp/</code></td></tr><tr><td><a href='https://forvo.com/word/ship/#en' target='_blank'>🔊</a> <b>hit</b></td><td><code>/hɪt/</code></td><td><b>heat</b></td><td><code>/hiːt/</code></td></tr></tbody></table>",
+      "id": "f75a695f93e1e5f9",
+      "phoneme_a": "/ɪ/",
+      "phoneme_b": "/iː/",
+      "ipa_a": "short, relaxed, mid-high front vowel",
+      "ipa_b": "long, tense, high front vowel",
+      "word_pairs": [
+        [
+          "ship",
+          "sheep",
+          "/ʃɪp/",
+          "/ʃiːp/"
+        ],
+        [
+          "bit",
+          "beat",
+          "/bɪt/",
+          "/biːt/"
+        ],
+        [
+          "sit",
+          "seat",
+          "/sɪt/",
+          "/siːt/"
+        ],
+        [
+          "fit",
+          "feet",
+          "/fɪt/",
+          "/fiːt/"
+        ],
+        [
+          "fill",
+          "feel",
+          "/fɪl/",
+          "/fiːl/"
+        ],
+        [
+          "grin",
+          "green",
+          "/ɡrɪn/",
+          "/ɡriːn/"
+        ],
+        [
+          "slip",
+          "sleep",
+          "/slɪp/",
+          "/sliːp/"
+        ],
+        [
+          "hit",
+          "heat",
+          "/hɪt/",
+          "/hiːt/"
+        ]
+      ],
+      "muscle_tip": "Para /ɪ/, relaja la boca y la lengua completamente. Es corta. Para /iː/, sonríe exageradamente y tensa los lados de la lengua. Es más larga.",
+      "language": "en",
       "audio_links": {
         "phoneme_a": "https://forvo.com/word/ship/#en",
         "phoneme_b": "https://forvo.com/word/sheep/#en",
@@ -42,7 +99,7 @@
   {
     "id": "d1c529844b5e6d38",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::00_Minimal_Pairs",
-    "template": "T1_Cloze",
+    "template": "T8_MinimalPair",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,10 +113,67 @@
     },
     "content": {
       "scenario": "Minimal Pair 🎯: /ʌ/ vs /ɑː/ (EN)",
-      "text": "<div style='margin-bottom:10px'><a href='https://forvo.com/word/cup/#en' target='_blank' style='background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;'>🔊 /ʌ/</a>&nbsp;<a href='https://forvo.com/word/cop/#en' target='_blank' style='background:#4CAF50;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;'>🔊 /ɑː/</a>&nbsp;<a href='http://www.ipachart.com/' target='_blank' style='background:#6A1B9A;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;'>📖 IPAchart</a></div><b>Phoneme A</b> <code>/ʌ/</code><br><b>IPA description:</b> {{c1::short, open-mid back unrounded vowel}}",
-      "explanation": "<b>/ʌ/</b> — short, open-mid back unrounded vowel<br><b>/ɑː/</b> — long, open back unrounded vowel<br><br><b>🧠 Articulatory Tip (ES):</b> Para /ʌ/, haz un sonido neutro y corto como si te hubieran golpeado levemente en el estómago. Para /ɑː/, abre la boca completamente hacia abajo como cuando el doctor te examina la garganta.<br><br><table border='1' cellpadding='5' style='border-collapse:collapse;width:100%'><thead style='background:#E3F2FD'><tr><th>Word A (/ʌ/)</th><th>IPA A</th><th>Word B (/ɑː/)</th><th>IPA B</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>cup</b></td><td><code>/kʌp/</code></td><td><b>cop</b></td><td><code>/kɑːp/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>cut</b></td><td><code>/kʌt/</code></td><td><b>cot</b></td><td><code>/kɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>hut</b></td><td><code>/hʌt/</code></td><td><b>hot</b></td><td><code>/hɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>duck</b></td><td><code>/dʌk/</code></td><td><b>dock</b></td><td><code>/dɑːk/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>run</b></td><td><code>/rʌn/</code></td><td><b>Ron</b></td><td><code>/rɑːn/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>nut</b></td><td><code>/nʌt/</code></td><td><b>not</b></td><td><code>/nɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>but</b></td><td><code>/bʌt/</code></td><td><b>bought</b></td><td><code>/bɔːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>suck</b></td><td><code>/sʌk/</code></td><td><b>sock</b></td><td><code>/sɑːk/</code></td></tr></tbody></table>",
+      "text": "<b>Identify the phoneme:</b><br><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊 /ʌ/</a> vs <a href='https://forvo.com/word/cop/#en' target='_blank'>🔊 /ɑː/</a><br><br>First phoneme IPA: {{c1::short, open-mid back unrounded vowel}}",
+      "explanation": "<b>Phoneme A:</b> /ʌ/ — IPA: <code>short, open-mid back unrounded vowel</code><br><b>Phoneme B:</b> /ɑː/ — IPA: <code>long, open back unrounded vowel</code><br><br><b>Articulatory Tip (ES):</b> Para /ʌ/, haz un sonido neutro y corto como si te hubieran golpeado levemente en el estómago. Para /ɑː/, abre la boca completamente hacia abajo como cuando el doctor te examina la garganta.<br><br><table border='1' cellpadding='4'><thead><tr><th>Word (/ʌ/)</th><th>IPA</th><th>Word (/ɑː/)</th><th>IPA</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>cup</b></td><td><code>/kʌp/</code></td><td><b>cop</b></td><td><code>/kɑːp/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>cut</b></td><td><code>/kʌt/</code></td><td><b>cot</b></td><td><code>/kɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>hut</b></td><td><code>/hʌt/</code></td><td><b>hot</b></td><td><code>/hɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>duck</b></td><td><code>/dʌk/</code></td><td><b>dock</b></td><td><code>/dɑːk/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>run</b></td><td><code>/rʌn/</code></td><td><b>Ron</b></td><td><code>/rɑːn/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>nut</b></td><td><code>/nʌt/</code></td><td><b>not</b></td><td><code>/nɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>but</b></td><td><code>/bʌt/</code></td><td><b>bought</b></td><td><code>/bɔːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>suck</b></td><td><code>/sʌk/</code></td><td><b>sock</b></td><td><code>/sɑːk/</code></td></tr></tbody></table>",
       "spanish": "Para /ʌ/, haz un sonido neutro y corto como si te hubieran golpeado levemente en el estómago. Para /ɑː/, abre la boca completamente hacia abajo como cuando el doctor te examina la garganta.",
-      "usage": "<table border='1' cellpadding='5' style='border-collapse:collapse;width:100%'><thead style='background:#E3F2FD'><tr><th>Word A (/ʌ/)</th><th>IPA A</th><th>Word B (/ɑː/)</th><th>IPA B</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>cup</b></td><td><code>/kʌp/</code></td><td><b>cop</b></td><td><code>/kɑːp/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>cut</b></td><td><code>/kʌt/</code></td><td><b>cot</b></td><td><code>/kɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>hut</b></td><td><code>/hʌt/</code></td><td><b>hot</b></td><td><code>/hɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>duck</b></td><td><code>/dʌk/</code></td><td><b>dock</b></td><td><code>/dɑːk/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>run</b></td><td><code>/rʌn/</code></td><td><b>Ron</b></td><td><code>/rɑːn/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>nut</b></td><td><code>/nʌt/</code></td><td><b>not</b></td><td><code>/nɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>but</b></td><td><code>/bʌt/</code></td><td><b>bought</b></td><td><code>/bɔːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>suck</b></td><td><code>/sʌk/</code></td><td><b>sock</b></td><td><code>/sɑːk/</code></td></tr></tbody></table>",
+      "usage": "<table border='1' cellpadding='4'><thead><tr><th>Word (/ʌ/)</th><th>IPA</th><th>Word (/ɑː/)</th><th>IPA</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>cup</b></td><td><code>/kʌp/</code></td><td><b>cop</b></td><td><code>/kɑːp/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>cut</b></td><td><code>/kʌt/</code></td><td><b>cot</b></td><td><code>/kɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>hut</b></td><td><code>/hʌt/</code></td><td><b>hot</b></td><td><code>/hɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>duck</b></td><td><code>/dʌk/</code></td><td><b>dock</b></td><td><code>/dɑːk/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>run</b></td><td><code>/rʌn/</code></td><td><b>Ron</b></td><td><code>/rɑːn/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>nut</b></td><td><code>/nʌt/</code></td><td><b>not</b></td><td><code>/nɑːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>but</b></td><td><code>/bʌt/</code></td><td><b>bought</b></td><td><code>/bɔːt/</code></td></tr><tr><td><a href='https://forvo.com/word/cup/#en' target='_blank'>🔊</a> <b>suck</b></td><td><code>/sʌk/</code></td><td><b>sock</b></td><td><code>/sɑːk/</code></td></tr></tbody></table>",
+      "id": "d1c529844b5e6d38",
+      "phoneme_a": "/ʌ/",
+      "phoneme_b": "/ɑː/",
+      "ipa_a": "short, open-mid back unrounded vowel",
+      "ipa_b": "long, open back unrounded vowel",
+      "word_pairs": [
+        [
+          "cup",
+          "cop",
+          "/kʌp/",
+          "/kɑːp/"
+        ],
+        [
+          "cut",
+          "cot",
+          "/kʌt/",
+          "/kɑːt/"
+        ],
+        [
+          "hut",
+          "hot",
+          "/hʌt/",
+          "/hɑːt/"
+        ],
+        [
+          "duck",
+          "dock",
+          "/dʌk/",
+          "/dɑːk/"
+        ],
+        [
+          "run",
+          "Ron",
+          "/rʌn/",
+          "/rɑːn/"
+        ],
+        [
+          "nut",
+          "not",
+          "/nʌt/",
+          "/nɑːt/"
+        ],
+        [
+          "but",
+          "bought",
+          "/bʌt/",
+          "/bɔːt/"
+        ],
+        [
+          "suck",
+          "sock",
+          "/sʌk/",
+          "/sɑːk/"
+        ]
+      ],
+      "muscle_tip": "Para /ʌ/, haz un sonido neutro y corto como si te hubieran golpeado levemente en el estómago. Para /ɑː/, abre la boca completamente hacia abajo como cuando el doctor te examina la garganta.",
+      "language": "en",
       "audio_links": {
         "phoneme_a": "https://forvo.com/word/cup/#en",
         "phoneme_b": "https://forvo.com/word/cop/#en",
@@ -82,7 +196,7 @@
   {
     "id": "e8ab3ddd3de0e716",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::00_Minimal_Pairs",
-    "template": "T1_Cloze",
+    "template": "T8_MinimalPair",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,10 +210,67 @@
     },
     "content": {
       "scenario": "Minimal Pair 🎯: /æ/ vs /ɛ/ (EN)",
-      "text": "<div style='margin-bottom:10px'><a href='https://forvo.com/word/bad/#en' target='_blank' style='background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;'>🔊 /æ/</a>&nbsp;<a href='https://forvo.com/word/bed/#en' target='_blank' style='background:#4CAF50;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;'>🔊 /ɛ/</a>&nbsp;<a href='http://www.ipachart.com/' target='_blank' style='background:#6A1B9A;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;'>📖 IPAchart</a></div><b>Phoneme A</b> <code>/æ/</code><br><b>IPA description:</b> {{c1::short, near-open front unrounded vowel}}",
-      "explanation": "<b>/æ/</b> — short, near-open front unrounded vowel<br><b>/ɛ/</b> — short, open-mid front unrounded vowel<br><br><b>🧠 Articulatory Tip (ES):</b> Para /æ/, abre la boca de manera lateral (sonrisa exagerada) y empuja la lengua hacia adelante y abajo. Para /ɛ/, abre la boca de manera neutra (parecido a la 'e' de cama).<br><br><table border='1' cellpadding='5' style='border-collapse:collapse;width:100%'><thead style='background:#E3F2FD'><tr><th>Word A (/æ/)</th><th>IPA A</th><th>Word B (/ɛ/)</th><th>IPA B</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>bad</b></td><td><code>/bæd/</code></td><td><b>bed</b></td><td><code>/bɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>man</b></td><td><code>/mæn/</code></td><td><b>men</b></td><td><code>/mɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>sad</b></td><td><code>/sæd/</code></td><td><b>said</b></td><td><code>/sɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>pan</b></td><td><code>/pæn/</code></td><td><b>pen</b></td><td><code>/pɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>tan</b></td><td><code>/tæn/</code></td><td><b>ten</b></td><td><code>/tɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>bag</b></td><td><code>/bæg/</code></td><td><b>beg</b></td><td><code>/bɛg/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>dad</b></td><td><code>/dæd/</code></td><td><b>dead</b></td><td><code>/dɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>land</b></td><td><code>/lænd/</code></td><td><b>lend</b></td><td><code>/lɛnd/</code></td></tr></tbody></table>",
+      "text": "<b>Identify the phoneme:</b><br><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊 /æ/</a> vs <a href='https://forvo.com/word/bed/#en' target='_blank'>🔊 /ɛ/</a><br><br>First phoneme IPA: {{c1::short, near-open front unrounded vowel}}",
+      "explanation": "<b>Phoneme A:</b> /æ/ — IPA: <code>short, near-open front unrounded vowel</code><br><b>Phoneme B:</b> /ɛ/ — IPA: <code>short, open-mid front unrounded vowel</code><br><br><b>Articulatory Tip (ES):</b> Para /æ/, abre la boca de manera lateral (sonrisa exagerada) y empuja la lengua hacia adelante y abajo. Para /ɛ/, abre la boca de manera neutra (parecido a la 'e' de cama).<br><br><table border='1' cellpadding='4'><thead><tr><th>Word (/æ/)</th><th>IPA</th><th>Word (/ɛ/)</th><th>IPA</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>bad</b></td><td><code>/bæd/</code></td><td><b>bed</b></td><td><code>/bɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>man</b></td><td><code>/mæn/</code></td><td><b>men</b></td><td><code>/mɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>sad</b></td><td><code>/sæd/</code></td><td><b>said</b></td><td><code>/sɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>pan</b></td><td><code>/pæn/</code></td><td><b>pen</b></td><td><code>/pɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>tan</b></td><td><code>/tæn/</code></td><td><b>ten</b></td><td><code>/tɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>bag</b></td><td><code>/bæg/</code></td><td><b>beg</b></td><td><code>/bɛg/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>dad</b></td><td><code>/dæd/</code></td><td><b>dead</b></td><td><code>/dɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>land</b></td><td><code>/lænd/</code></td><td><b>lend</b></td><td><code>/lɛnd/</code></td></tr></tbody></table>",
       "spanish": "Para /æ/, abre la boca de manera lateral (sonrisa exagerada) y empuja la lengua hacia adelante y abajo. Para /ɛ/, abre la boca de manera neutra (parecido a la 'e' de cama).",
-      "usage": "<table border='1' cellpadding='5' style='border-collapse:collapse;width:100%'><thead style='background:#E3F2FD'><tr><th>Word A (/æ/)</th><th>IPA A</th><th>Word B (/ɛ/)</th><th>IPA B</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>bad</b></td><td><code>/bæd/</code></td><td><b>bed</b></td><td><code>/bɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>man</b></td><td><code>/mæn/</code></td><td><b>men</b></td><td><code>/mɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>sad</b></td><td><code>/sæd/</code></td><td><b>said</b></td><td><code>/sɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>pan</b></td><td><code>/pæn/</code></td><td><b>pen</b></td><td><code>/pɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>tan</b></td><td><code>/tæn/</code></td><td><b>ten</b></td><td><code>/tɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>bag</b></td><td><code>/bæg/</code></td><td><b>beg</b></td><td><code>/bɛg/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>dad</b></td><td><code>/dæd/</code></td><td><b>dead</b></td><td><code>/dɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>land</b></td><td><code>/lænd/</code></td><td><b>lend</b></td><td><code>/lɛnd/</code></td></tr></tbody></table>",
+      "usage": "<table border='1' cellpadding='4'><thead><tr><th>Word (/æ/)</th><th>IPA</th><th>Word (/ɛ/)</th><th>IPA</th></tr></thead><tbody><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>bad</b></td><td><code>/bæd/</code></td><td><b>bed</b></td><td><code>/bɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>man</b></td><td><code>/mæn/</code></td><td><b>men</b></td><td><code>/mɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>sad</b></td><td><code>/sæd/</code></td><td><b>said</b></td><td><code>/sɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>pan</b></td><td><code>/pæn/</code></td><td><b>pen</b></td><td><code>/pɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>tan</b></td><td><code>/tæn/</code></td><td><b>ten</b></td><td><code>/tɛn/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>bag</b></td><td><code>/bæg/</code></td><td><b>beg</b></td><td><code>/bɛg/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>dad</b></td><td><code>/dæd/</code></td><td><b>dead</b></td><td><code>/dɛd/</code></td></tr><tr><td><a href='https://forvo.com/word/bad/#en' target='_blank'>🔊</a> <b>land</b></td><td><code>/lænd/</code></td><td><b>lend</b></td><td><code>/lɛnd/</code></td></tr></tbody></table>",
+      "id": "e8ab3ddd3de0e716",
+      "phoneme_a": "/æ/",
+      "phoneme_b": "/ɛ/",
+      "ipa_a": "short, near-open front unrounded vowel",
+      "ipa_b": "short, open-mid front unrounded vowel",
+      "word_pairs": [
+        [
+          "bad",
+          "bed",
+          "/bæd/",
+          "/bɛd/"
+        ],
+        [
+          "man",
+          "men",
+          "/mæn/",
+          "/mɛn/"
+        ],
+        [
+          "sad",
+          "said",
+          "/sæd/",
+          "/sɛd/"
+        ],
+        [
+          "pan",
+          "pen",
+          "/pæn/",
+          "/pɛn/"
+        ],
+        [
+          "tan",
+          "ten",
+          "/tæn/",
+          "/tɛn/"
+        ],
+        [
+          "bag",
+          "beg",
+          "/bæg/",
+          "/bɛg/"
+        ],
+        [
+          "dad",
+          "dead",
+          "/dæd/",
+          "/dɛd/"
+        ],
+        [
+          "land",
+          "lend",
+          "/lænd/",
+          "/lɛnd/"
+        ]
+      ],
+      "muscle_tip": "Para /æ/, abre la boca de manera lateral (sonrisa exagerada) y empuja la lengua hacia adelante y abajo. Para /ɛ/, abre la boca de manera neutra (parecido a la 'e' de cama).",
+      "language": "en",
       "audio_links": {
         "phoneme_a": "https://forvo.com/word/bad/#en",
         "phoneme_b": "https://forvo.com/word/bed/#en",

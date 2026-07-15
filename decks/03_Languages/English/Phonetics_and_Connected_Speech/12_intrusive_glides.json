@@ -2,7 +2,7 @@
   {
     "id": "2b59af53824dca7a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/go%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/go/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Let's {{c1::go out}} tonight.",
-      "explanation": "<b>Written:</b> go out<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">go-w-out</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'go out' pronounced as 'go-w-out'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/go%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/go/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Let's {{c1::go out}} tonight.",
+      "explanation": "<b>Full transcript:</b> go out<br><br><b>Connected form:</b> <i>go-w-out</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "salir",
-      "usage": "Written: <code>go out</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">go-w-out</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/go%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/go/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>go-w-out</code><br>Formal: <code>go out</code><br><a href=\"https://youglish.com/pronounce/go%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/go/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2b59af53824dca7a",
+      "full_transcript": "go out",
+      "connected_form": "go-w-out",
+      "gap_text": "Let's {{c1::go out}} tonight.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/go%20out/english/us",
         "forvo_word": "https://forvo.com/word/go/#en"
@@ -42,7 +50,7 @@
   {
     "id": "450bc4894de3360c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/do%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/do/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Just {{c1::do it}} now.",
-      "explanation": "<b>Written:</b> do it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">do-w-it</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'do it' pronounced as 'do-w-it'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/do%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/do/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Just {{c1::do it}} now.",
+      "explanation": "<b>Full transcript:</b> do it<br><br><b>Connected form:</b> <i>do-w-it</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "hazlo",
-      "usage": "Written: <code>do it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">do-w-it</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/do%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/do/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>do-w-it</code><br>Formal: <code>do it</code><br><a href=\"https://youglish.com/pronounce/do%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/do/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "450bc4894de3360c",
+      "full_transcript": "do it",
+      "connected_form": "do-w-it",
+      "gap_text": "Just {{c1::do it}} now.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/do%20it/english/us",
         "forvo_word": "https://forvo.com/word/do/#en"
@@ -82,7 +98,7 @@
   {
     "id": "0be10083fb7c6f61",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/see%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/see/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I want to {{c1::see it}}.",
-      "explanation": "<b>Written:</b> see it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">see-y-it</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'see it' pronounced as 'see-y-it'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/see%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/see/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I want to {{c1::see it}}.",
+      "explanation": "<b>Full transcript:</b> see it<br><br><b>Connected form:</b> <i>see-y-it</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "verlo",
-      "usage": "Written: <code>see it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">see-y-it</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/see%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/see/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>see-y-it</code><br>Formal: <code>see it</code><br><a href=\"https://youglish.com/pronounce/see%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/see/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0be10083fb7c6f61",
+      "full_transcript": "see it",
+      "connected_form": "see-y-it",
+      "gap_text": "I want to {{c1::see it}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/see%20it/english/us",
         "forvo_word": "https://forvo.com/word/see/#en"
@@ -122,7 +146,7 @@
   {
     "id": "6349ee2f5efae313",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/I%20am/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/i/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::I am}} ready.",
-      "explanation": "<b>Written:</b> I am<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">I-y-am</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'I am' pronounced as 'I-y-am'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/I%20am/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/i/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::I am}} ready.",
+      "explanation": "<b>Full transcript:</b> I am<br><br><b>Connected form:</b> <i>I-y-am</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "yo soy / estoy",
-      "usage": "Written: <code>I am</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">I-y-am</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/I%20am/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/i/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>I-y-am</code><br>Formal: <code>I am</code><br><a href=\"https://youglish.com/pronounce/I%20am/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/i/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6349ee2f5efae313",
+      "full_transcript": "I am",
+      "connected_form": "I-y-am",
+      "gap_text": "{{c1::I am}} ready.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/I%20am/english/us",
         "forvo_word": "https://forvo.com/word/i/#en"
@@ -162,7 +194,7 @@
   {
     "id": "3c590378202c2aed",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/go%20in/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/go/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::go in}} first.",
-      "explanation": "<b>Written:</b> go in<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">go-w-in</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'go in' pronounced as 'go-w-in'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/go%20in/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/go/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::go in}} first.",
+      "explanation": "<b>Full transcript:</b> go in<br><br><b>Connected form:</b> <i>go-w-in</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "entrar",
-      "usage": "Written: <code>go in</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">go-w-in</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/go%20in/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/go/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>go-w-in</code><br>Formal: <code>go in</code><br><a href=\"https://youglish.com/pronounce/go%20in/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/go/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "3c590378202c2aed",
+      "full_transcript": "go in",
+      "connected_form": "go-w-in",
+      "gap_text": "Please {{c1::go in}} first.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/go%20in/english/us",
         "forvo_word": "https://forvo.com/word/go/#en"
@@ -202,7 +242,7 @@
   {
     "id": "b1d048272c47924b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/show%20off/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/show/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::show off}}.",
-      "explanation": "<b>Written:</b> show off<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">show-w-off</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'show off' pronounced as 'show-w-off'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/show%20off/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/show/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::show off}}.",
+      "explanation": "<b>Full transcript:</b> show off<br><br><b>Connected form:</b> <i>show-w-off</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "presumir",
-      "usage": "Written: <code>show off</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">show-w-off</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/show%20off/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/show/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>show-w-off</code><br>Formal: <code>show off</code><br><a href=\"https://youglish.com/pronounce/show%20off/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/show/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b1d048272c47924b",
+      "full_transcript": "show off",
+      "connected_form": "show-w-off",
+      "gap_text": "Don't {{c1::show off}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/show%20off/english/us",
         "forvo_word": "https://forvo.com/word/show/#en"
@@ -242,7 +290,7 @@
   {
     "id": "cec7ec907fcc7320",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/slow%20and/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/slow/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Go {{c1::slow and}} steady.",
-      "explanation": "<b>Written:</b> slow and<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">slow-w-and</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'slow and' pronounced as 'slow-w-and'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/slow%20and/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/slow/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Go {{c1::slow and}} steady.",
+      "explanation": "<b>Full transcript:</b> slow and<br><br><b>Connected form:</b> <i>slow-w-and</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "lento y",
-      "usage": "Written: <code>slow and</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">slow-w-and</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/slow%20and/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/slow/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>slow-w-and</code><br>Formal: <code>slow and</code><br><a href=\"https://youglish.com/pronounce/slow%20and/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/slow/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cec7ec907fcc7320",
+      "full_transcript": "slow and",
+      "connected_form": "slow-w-and",
+      "gap_text": "Go {{c1::slow and}} steady.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/slow%20and/english/us",
         "forvo_word": "https://forvo.com/word/slow/#en"
@@ -282,7 +338,7 @@
   {
     "id": "593a80dc6c80af57",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/know%20about/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/know/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>What do you {{c1::know about}} it?",
-      "explanation": "<b>Written:</b> know about<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">know-w-about</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'know about' pronounced as 'know-w-about'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/know%20about/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/know/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>What do you {{c1::know about}} it?",
+      "explanation": "<b>Full transcript:</b> know about<br><br><b>Connected form:</b> <i>know-w-about</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "saber sobre",
-      "usage": "Written: <code>know about</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">know-w-about</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/know%20about/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/know/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>know-w-about</code><br>Formal: <code>know about</code><br><a href=\"https://youglish.com/pronounce/know%20about/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/know/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "593a80dc6c80af57",
+      "full_transcript": "know about",
+      "connected_form": "know-w-about",
+      "gap_text": "What do you {{c1::know about}} it?",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/know%20about/english/us",
         "forvo_word": "https://forvo.com/word/know/#en"
@@ -322,7 +386,7 @@
   {
     "id": "251bbf0e5ca00844",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/how%20about/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/how/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::How about}} dinner?",
-      "explanation": "<b>Written:</b> how about<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">how-w-about</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'how about' pronounced as 'how-w-about'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/how%20about/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/how/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::How about}} dinner?",
+      "explanation": "<b>Full transcript:</b> how about<br><br><b>Connected form:</b> <i>how-w-about</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "qué tal",
-      "usage": "Written: <code>how about</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">how-w-about</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/how%20about/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/how/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>how-w-about</code><br>Formal: <code>how about</code><br><a href=\"https://youglish.com/pronounce/how%20about/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/how/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "251bbf0e5ca00844",
+      "full_transcript": "how about",
+      "connected_form": "how-w-about",
+      "gap_text": "{{c1::How about}} dinner?",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/how%20about/english/us",
         "forvo_word": "https://forvo.com/word/how/#en"
@@ -362,7 +434,7 @@
   {
     "id": "d2a9695efa735aee",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/now%20I/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/now/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Now I}} understand.",
-      "explanation": "<b>Written:</b> now I<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">now-w-I</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'now I' pronounced as 'now-w-I'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/now%20I/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/now/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Now I}} understand.",
+      "explanation": "<b>Full transcript:</b> now I<br><br><b>Connected form:</b> <i>now-w-I</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "ahora yo",
-      "usage": "Written: <code>now I</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">now-w-I</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/now%20I/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/now/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>now-w-I</code><br>Formal: <code>now I</code><br><a href=\"https://youglish.com/pronounce/now%20I/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/now/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d2a9695efa735aee",
+      "full_transcript": "now I",
+      "connected_form": "now-w-I",
+      "gap_text": "{{c1::Now I}} understand.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/now%20I/english/us",
         "forvo_word": "https://forvo.com/word/now/#en"
@@ -402,7 +482,7 @@
   {
     "id": "7080722a570ebd77",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/allow%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/allow/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I can't {{c1::allow it}}.",
-      "explanation": "<b>Written:</b> allow it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">allow-w-it</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'allow it' pronounced as 'allow-w-it'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/allow%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/allow/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I can't {{c1::allow it}}.",
+      "explanation": "<b>Full transcript:</b> allow it<br><br><b>Connected form:</b> <i>allow-w-it</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "permitirlo",
-      "usage": "Written: <code>allow it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">allow-w-it</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/allow%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/allow/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>allow-w-it</code><br>Formal: <code>allow it</code><br><a href=\"https://youglish.com/pronounce/allow%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/allow/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7080722a570ebd77",
+      "full_transcript": "allow it",
+      "connected_form": "allow-w-it",
+      "gap_text": "I can't {{c1::allow it}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/allow%20it/english/us",
         "forvo_word": "https://forvo.com/word/allow/#en"
@@ -442,7 +530,7 @@
   {
     "id": "9a5aeb47ad623bd6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/free%20agent/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/free/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is a {{c1::free agent}}.",
-      "explanation": "<b>Written:</b> free agent<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">free-y-agent</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'free agent' pronounced as 'free-y-agent'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/free%20agent/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/free/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is a {{c1::free agent}}.",
+      "explanation": "<b>Full transcript:</b> free agent<br><br><b>Connected form:</b> <i>free-y-agent</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "agente libre",
-      "usage": "Written: <code>free agent</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">free-y-agent</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/free%20agent/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/free/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>free-y-agent</code><br>Formal: <code>free agent</code><br><a href=\"https://youglish.com/pronounce/free%20agent/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/free/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9a5aeb47ad623bd6",
+      "full_transcript": "free agent",
+      "connected_form": "free-y-agent",
+      "gap_text": "He is a {{c1::free agent}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/free%20agent/english/us",
         "forvo_word": "https://forvo.com/word/free/#en"
@@ -482,7 +578,7 @@
   {
     "id": "b8bbf6ab32c50ffe",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/be%20aware/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/be/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::be aware}} of the risk.",
-      "explanation": "<b>Written:</b> be aware<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">be-y-aware</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'be aware' pronounced as 'be-y-aware'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/be%20aware/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/be/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::be aware}} of the risk.",
+      "explanation": "<b>Full transcript:</b> be aware<br><br><b>Connected form:</b> <i>be-y-aware</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "ser consciente",
-      "usage": "Written: <code>be aware</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">be-y-aware</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/be%20aware/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/be/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>be-y-aware</code><br>Formal: <code>be aware</code><br><a href=\"https://youglish.com/pronounce/be%20aware/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/be/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b8bbf6ab32c50ffe",
+      "full_transcript": "be aware",
+      "connected_form": "be-y-aware",
+      "gap_text": "Please {{c1::be aware}} of the risk.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/be%20aware/english/us",
         "forvo_word": "https://forvo.com/word/be/#en"
@@ -522,7 +626,7 @@
   {
     "id": "0b75ce1d4099e2d2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/three%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/three/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I need {{c1::three of}} them.",
-      "explanation": "<b>Written:</b> three of<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">three-y-of</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'three of' pronounced as 'three-y-of'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/three%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/three/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I need {{c1::three of}} them.",
+      "explanation": "<b>Full transcript:</b> three of<br><br><b>Connected form:</b> <i>three-y-of</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "tres de",
-      "usage": "Written: <code>three of</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">three-y-of</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/three%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/three/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>three-y-of</code><br>Formal: <code>three of</code><br><a href=\"https://youglish.com/pronounce/three%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/three/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0b75ce1d4099e2d2",
+      "full_transcript": "three of",
+      "connected_form": "three-y-of",
+      "gap_text": "I need {{c1::three of}} them.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/three%20of/english/us",
         "forvo_word": "https://forvo.com/word/three/#en"
@@ -562,7 +674,7 @@
   {
     "id": "a1ba4b7b29c72768",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/say%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/say/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::say it}}.",
-      "explanation": "<b>Written:</b> say it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">say-y-it</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'say it' pronounced as 'say-y-it'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/say%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/say/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::say it}}.",
+      "explanation": "<b>Full transcript:</b> say it<br><br><b>Connected form:</b> <i>say-y-it</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "decirlo",
-      "usage": "Written: <code>say it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">say-y-it</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/say%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/say/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>say-y-it</code><br>Formal: <code>say it</code><br><a href=\"https://youglish.com/pronounce/say%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/say/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a1ba4b7b29c72768",
+      "full_transcript": "say it",
+      "connected_form": "say-y-it",
+      "gap_text": "Don't {{c1::say it}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/say%20it/english/us",
         "forvo_word": "https://forvo.com/word/say/#en"
@@ -602,7 +722,7 @@
   {
     "id": "c4128c3dd29f536d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pay%20off/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pay/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It will {{c1::pay off}} eventually.",
-      "explanation": "<b>Written:</b> pay off<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">pay-y-off</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'pay off' pronounced as 'pay-y-off'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/pay%20off/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pay/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It will {{c1::pay off}} eventually.",
+      "explanation": "<b>Full transcript:</b> pay off<br><br><b>Connected form:</b> <i>pay-y-off</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "valer la pena / pagar todo",
-      "usage": "Written: <code>pay off</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">pay-y-off</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pay%20off/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pay/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>pay-y-off</code><br>Formal: <code>pay off</code><br><a href=\"https://youglish.com/pronounce/pay%20off/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pay/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c4128c3dd29f536d",
+      "full_transcript": "pay off",
+      "connected_form": "pay-y-off",
+      "gap_text": "It will {{c1::pay off}} eventually.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/pay%20off/english/us",
         "forvo_word": "https://forvo.com/word/pay/#en"
@@ -642,7 +770,7 @@
   {
     "id": "9fc418f2818a7a9d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/play%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/play/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Let's {{c1::play it}} again.",
-      "explanation": "<b>Written:</b> play it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">play-y-it</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'play it' pronounced as 'play-y-it'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/play%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/play/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Let's {{c1::play it}} again.",
+      "explanation": "<b>Full transcript:</b> play it<br><br><b>Connected form:</b> <i>play-y-it</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "tocarlo / jugarlo",
-      "usage": "Written: <code>play it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">play-y-it</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/play%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/play/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>play-y-it</code><br>Formal: <code>play it</code><br><a href=\"https://youglish.com/pronounce/play%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/play/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9fc418f2818a7a9d",
+      "full_transcript": "play it",
+      "connected_form": "play-y-it",
+      "gap_text": "Let's {{c1::play it}} again.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/play%20it/english/us",
         "forvo_word": "https://forvo.com/word/play/#en"
@@ -682,7 +818,7 @@
   {
     "id": "d6cd52cc7013aa78",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/way%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/way/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Where is the {{c1::way out}}?",
-      "explanation": "<b>Written:</b> way out<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">way-y-out</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'way out' pronounced as 'way-y-out'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/way%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/way/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Where is the {{c1::way out}}?",
+      "explanation": "<b>Full transcript:</b> way out<br><br><b>Connected form:</b> <i>way-y-out</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "salida",
-      "usage": "Written: <code>way out</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">way-y-out</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/way%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/way/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>way-y-out</code><br>Formal: <code>way out</code><br><a href=\"https://youglish.com/pronounce/way%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/way/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d6cd52cc7013aa78",
+      "full_transcript": "way out",
+      "connected_form": "way-y-out",
+      "gap_text": "Where is the {{c1::way out}}?",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/way%20out/english/us",
         "forvo_word": "https://forvo.com/word/way/#en"
@@ -722,7 +866,7 @@
   {
     "id": "0480c3f644b22fe8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/try%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/try/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Go ahead and {{c1::try it}}.",
-      "explanation": "<b>Written:</b> try it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">try-y-it</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'try it' pronounced as 'try-y-it'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/try%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/try/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Go ahead and {{c1::try it}}.",
+      "explanation": "<b>Full transcript:</b> try it<br><br><b>Connected form:</b> <i>try-y-it</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "pruébalo",
-      "usage": "Written: <code>try it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">try-y-it</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/try%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/try/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>try-y-it</code><br>Formal: <code>try it</code><br><a href=\"https://youglish.com/pronounce/try%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/try/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0480c3f644b22fe8",
+      "full_transcript": "try it",
+      "connected_form": "try-y-it",
+      "gap_text": "Go ahead and {{c1::try it}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/try%20it/english/us",
         "forvo_word": "https://forvo.com/word/try/#en"
@@ -762,7 +914,7 @@
   {
     "id": "cc6ad556eb8e3af5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/by%20all/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/by/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::By all}} means, go ahead.",
-      "explanation": "<b>Written:</b> by all<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">by-y-all</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'by all' pronounced as 'by-y-all'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/by%20all/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/by/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::By all}} means, go ahead.",
+      "explanation": "<b>Full transcript:</b> by all<br><br><b>Connected form:</b> <i>by-y-all</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "por todos",
-      "usage": "Written: <code>by all</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">by-y-all</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/by%20all/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/by/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>by-y-all</code><br>Formal: <code>by all</code><br><a href=\"https://youglish.com/pronounce/by%20all/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/by/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cc6ad556eb8e3af5",
+      "full_transcript": "by all",
+      "connected_form": "by-y-all",
+      "gap_text": "{{c1::By all}} means, go ahead.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/by%20all/english/us",
         "forvo_word": "https://forvo.com/word/by/#en"
@@ -802,7 +962,7 @@
   {
     "id": "fb25c46484fec75f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/my%20opinion/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/my/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>In {{c1::my opinion}}, it is good.",
-      "explanation": "<b>Written:</b> my opinion<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">my-y-opinion</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'my opinion' pronounced as 'my-y-opinion'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/my%20opinion/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/my/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>In {{c1::my opinion}}, it is good.",
+      "explanation": "<b>Full transcript:</b> my opinion<br><br><b>Connected form:</b> <i>my-y-opinion</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "mi opinión",
-      "usage": "Written: <code>my opinion</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">my-y-opinion</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/my%20opinion/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/my/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>my-y-opinion</code><br>Formal: <code>my opinion</code><br><a href=\"https://youglish.com/pronounce/my%20opinion/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/my/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fb25c46484fec75f",
+      "full_transcript": "my opinion",
+      "connected_form": "my-y-opinion",
+      "gap_text": "In {{c1::my opinion}}, it is good.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/my%20opinion/english/us",
         "forvo_word": "https://forvo.com/word/my/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "7e15f6cf36853688",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/blue%20ink/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/blue/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Use {{c1::blue ink}} only.",
-      "explanation": "<b>Written:</b> blue ink<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">blue-w-ink</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'blue ink' pronounced as 'blue-w-ink'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/blue%20ink/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/blue/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Use {{c1::blue ink}} only.",
+      "explanation": "<b>Full transcript:</b> blue ink<br><br><b>Connected form:</b> <i>blue-w-ink</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "tinta azul",
-      "usage": "Written: <code>blue ink</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">blue-w-ink</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/blue%20ink/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/blue/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>blue-w-ink</code><br>Formal: <code>blue ink</code><br><a href=\"https://youglish.com/pronounce/blue%20ink/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/blue/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7e15f6cf36853688",
+      "full_transcript": "blue ink",
+      "connected_form": "blue-w-ink",
+      "gap_text": "Use {{c1::blue ink}} only.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/blue%20ink/english/us",
         "forvo_word": "https://forvo.com/word/blue/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "6c415cbc71e82682",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/shoe%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/shoe/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Put your {{c1::shoe on}}.",
-      "explanation": "<b>Written:</b> shoe on<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">shoe-w-on</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'shoe on' pronounced as 'shoe-w-on'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/shoe%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/shoe/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Put your {{c1::shoe on}}.",
+      "explanation": "<b>Full transcript:</b> shoe on<br><br><b>Connected form:</b> <i>shoe-w-on</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "zapato",
-      "usage": "Written: <code>shoe on</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">shoe-w-on</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/shoe%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/shoe/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>shoe-w-on</code><br>Formal: <code>shoe on</code><br><a href=\"https://youglish.com/pronounce/shoe%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/shoe/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6c415cbc71e82682",
+      "full_transcript": "shoe on",
+      "connected_form": "shoe-w-on",
+      "gap_text": "Put your {{c1::shoe on}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/shoe%20on/english/us",
         "forvo_word": "https://forvo.com/word/shoe/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "9ec706e0a5f6fe6a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/too%20often/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/too/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't do it {{c1::too often}}.",
-      "explanation": "<b>Written:</b> too often<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">too-w-often</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'too often' pronounced as 'too-w-often'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/too%20often/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/too/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't do it {{c1::too often}}.",
+      "explanation": "<b>Full transcript:</b> too often<br><br><b>Connected form:</b> <i>too-w-often</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "demasiado a menudo",
-      "usage": "Written: <code>too often</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">too-w-often</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/too%20often/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/too/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>too-w-often</code><br>Formal: <code>too often</code><br><a href=\"https://youglish.com/pronounce/too%20often/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/too/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9ec706e0a5f6fe6a",
+      "full_transcript": "too often",
+      "connected_form": "too-w-often",
+      "gap_text": "Don't do it {{c1::too often}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/too%20often/english/us",
         "forvo_word": "https://forvo.com/word/too/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "34687d877952008a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/who%20is/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/who/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Who is}} there?",
-      "explanation": "<b>Written:</b> who is<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">who-w-is</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'who is' pronounced as 'who-w-is'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/who%20is/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/who/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Who is}} there?",
+      "explanation": "<b>Full transcript:</b> who is<br><br><b>Connected form:</b> <i>who-w-is</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "quién es",
-      "usage": "Written: <code>who is</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">who-w-is</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/who%20is/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/who/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>who-w-is</code><br>Formal: <code>who is</code><br><a href=\"https://youglish.com/pronounce/who%20is/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/who/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "34687d877952008a",
+      "full_transcript": "who is",
+      "connected_form": "who-w-is",
+      "gap_text": "{{c1::Who is}} there?",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/who%20is/english/us",
         "forvo_word": "https://forvo.com/word/who/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "52332f23fdce7a9a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/you%20are/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/you/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::You are}} late.",
-      "explanation": "<b>Written:</b> you are<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">you-w-are</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'you are' pronounced as 'you-w-are'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/you%20are/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/you/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::You are}} late.",
+      "explanation": "<b>Full transcript:</b> you are<br><br><b>Connected form:</b> <i>you-w-are</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "tú eres / estás",
-      "usage": "Written: <code>you are</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">you-w-are</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/you%20are/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/you/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>you-w-are</code><br>Formal: <code>you are</code><br><a href=\"https://youglish.com/pronounce/you%20are/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/you/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "52332f23fdce7a9a",
+      "full_transcript": "you are",
+      "connected_form": "you-w-are",
+      "gap_text": "{{c1::You are}} late.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/you%20are/english/us",
         "forvo_word": "https://forvo.com/word/you/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "23bf9c6b325e9ad2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/grey%20area/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/grey/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's a {{c1::grey area}}.",
-      "explanation": "<b>Written:</b> grey area<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">grey-y-area</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'grey area' pronounced as 'grey-y-area'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/grey%20area/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/grey/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's a {{c1::grey area}}.",
+      "explanation": "<b>Full transcript:</b> grey area<br><br><b>Connected form:</b> <i>grey-y-area</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "zona gris",
-      "usage": "Written: <code>grey area</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">grey-y-area</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/grey%20area/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/grey/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>grey-y-area</code><br>Formal: <code>grey area</code><br><a href=\"https://youglish.com/pronounce/grey%20area/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/grey/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "23bf9c6b325e9ad2",
+      "full_transcript": "grey area",
+      "connected_form": "grey-y-area",
+      "gap_text": "It's a {{c1::grey area}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/grey%20area/english/us",
         "forvo_word": "https://forvo.com/word/grey/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "1c43ed8d81a73151",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/say%20ok/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/say/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Just {{c1::say ok}}.",
-      "explanation": "<b>Written:</b> say ok<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">say-y-ok</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'say ok' pronounced as 'say-y-ok'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/say%20ok/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/say/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Just {{c1::say ok}}.",
+      "explanation": "<b>Full transcript:</b> say ok<br><br><b>Connected form:</b> <i>say-y-ok</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "di que sí",
-      "usage": "Written: <code>say ok</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">say-y-ok</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/say%20ok/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/say/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>say-y-ok</code><br>Formal: <code>say ok</code><br><a href=\"https://youglish.com/pronounce/say%20ok/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/say/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1c43ed8d81a73151",
+      "full_transcript": "say ok",
+      "connected_form": "say-y-ok",
+      "gap_text": "Just {{c1::say ok}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/say%20ok/english/us",
         "forvo_word": "https://forvo.com/word/say/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "83d5512b3ae74eb8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/annoy%20us/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/annoy/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't let them {{c1::annoy us}}.",
-      "explanation": "<b>Written:</b> annoy us<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">annoy-y-us</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'annoy us' pronounced as 'annoy-y-us'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/annoy%20us/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/annoy/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't let them {{c1::annoy us}}.",
+      "explanation": "<b>Full transcript:</b> annoy us<br><br><b>Connected form:</b> <i>annoy-y-us</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "molestarnos",
-      "usage": "Written: <code>annoy us</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">annoy-y-us</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/annoy%20us/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/annoy/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>annoy-y-us</code><br>Formal: <code>annoy us</code><br><a href=\"https://youglish.com/pronounce/annoy%20us/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/annoy/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "83d5512b3ae74eb8",
+      "full_transcript": "annoy us",
+      "connected_form": "annoy-y-us",
+      "gap_text": "Don't let them {{c1::annoy us}}.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/annoy%20us/english/us",
         "forvo_word": "https://forvo.com/word/annoy/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "d15a52ba4d377e69",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Intrusive_Glides 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/boy%20is/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/boy/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::boy is}} tall.",
-      "explanation": "<b>Written:</b> boy is<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">boy-y-is</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'boy is' pronounced as 'boy-y-is'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/boy%20is/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/boy/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::boy is}} tall.",
+      "explanation": "<b>Full transcript:</b> boy is<br><br><b>Connected form:</b> <i>boy-y-is</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Intrusive Glides</code></li></ul>",
       "spanish": "el chico es",
-      "usage": "Written: <code>boy is</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">boy-y-is</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/boy%20is/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/boy/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>boy-y-is</code><br>Formal: <code>boy is</code><br><a href=\"https://youglish.com/pronounce/boy%20is/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/boy/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d15a52ba4d377e69",
+      "full_transcript": "boy is",
+      "connected_form": "boy-y-is",
+      "gap_text": "The {{c1::boy is}} tall.",
+      "rules_applied": [
+        "Intrusive Glides"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/boy%20is/english/us",
         "forvo_word": "https://forvo.com/word/boy/#en"

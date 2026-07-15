@@ -2,7 +2,7 @@
   {
     "id": "acec57b5f734ffab",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/milk/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/milk/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Do you want some {{c1::milk}}?",
-      "explanation": "<b>Written:</b> milk<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">miwk</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'milk' pronounced as 'miwk'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/milk/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/milk/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Do you want some {{c1::milk}}?",
+      "explanation": "<b>Full transcript:</b> milk<br><br><b>Connected form:</b> <i>miwk</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "leche",
-      "usage": "Written: <code>milk</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">miwk</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/milk/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/milk/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>miwk</code><br>Formal: <code>milk</code><br><a href=\"https://youglish.com/pronounce/milk/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/milk/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "acec57b5f734ffab",
+      "full_transcript": "milk",
+      "connected_form": "miwk",
+      "gap_text": "Do you want some {{c1::milk}}?",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/milk/english/us",
         "forvo_word": "https://forvo.com/word/milk/#en"
@@ -42,7 +50,7 @@
   {
     "id": "916507db3ec8c8fc",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/feel/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/feel/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I don't {{c1::feel}} well.",
-      "explanation": "<b>Written:</b> feel<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">feew</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'feel' pronounced as 'feew'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/feel/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/feel/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I don't {{c1::feel}} well.",
+      "explanation": "<b>Full transcript:</b> feel<br><br><b>Connected form:</b> <i>feew</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "sentir",
-      "usage": "Written: <code>feel</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">feew</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/feel/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/feel/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>feew</code><br>Formal: <code>feel</code><br><a href=\"https://youglish.com/pronounce/feel/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/feel/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "916507db3ec8c8fc",
+      "full_transcript": "feel",
+      "connected_form": "feew",
+      "gap_text": "I don't {{c1::feel}} well.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/feel/english/us",
         "forvo_word": "https://forvo.com/word/feel/#en"
@@ -82,7 +98,7 @@
   {
     "id": "b078195be6959567",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bottle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Pass the water {{c1::bottle}}.",
-      "explanation": "<b>Written:</b> bottle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">baa-dou</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bottle' pronounced as 'baa-dou'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bottle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Pass the water {{c1::bottle}}.",
+      "explanation": "<b>Full transcript:</b> bottle<br><br><b>Connected form:</b> <i>baa-dou</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "botella",
-      "usage": "Written: <code>bottle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">baa-dou</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bottle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>baa-dou</code><br>Formal: <code>bottle</code><br><a href=\"https://youglish.com/pronounce/bottle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b078195be6959567",
+      "full_transcript": "bottle",
+      "connected_form": "baa-dou",
+      "gap_text": "Pass the water {{c1::bottle}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bottle/english/us",
         "forvo_word": "https://forvo.com/word/bottle/#en"
@@ -122,7 +146,7 @@
   {
     "id": "27d374c72897b75a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/help/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/help/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can you {{c1::help}} me?",
-      "explanation": "<b>Written:</b> help<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hewp</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'help' pronounced as 'hewp'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/help/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/help/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can you {{c1::help}} me?",
+      "explanation": "<b>Full transcript:</b> help<br><br><b>Connected form:</b> <i>hewp</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "ayuda",
-      "usage": "Written: <code>help</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hewp</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/help/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/help/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hewp</code><br>Formal: <code>help</code><br><a href=\"https://youglish.com/pronounce/help/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/help/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "27d374c72897b75a",
+      "full_transcript": "help",
+      "connected_form": "hewp",
+      "gap_text": "Can you {{c1::help}} me?",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/help/english/us",
         "forvo_word": "https://forvo.com/word/help/#en"
@@ -162,7 +194,7 @@
   {
     "id": "93e28dce8c94b959",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/well/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/well/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is doing {{c1::well}}.",
-      "explanation": "<b>Written:</b> well<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wew</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'well' pronounced as 'wew'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/well/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/well/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is doing {{c1::well}}.",
+      "explanation": "<b>Full transcript:</b> well<br><br><b>Connected form:</b> <i>wew</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "bien",
-      "usage": "Written: <code>well</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wew</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/well/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/well/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wew</code><br>Formal: <code>well</code><br><a href=\"https://youglish.com/pronounce/well/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/well/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "93e28dce8c94b959",
+      "full_transcript": "well",
+      "connected_form": "wew",
+      "gap_text": "He is doing {{c1::well}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/well/english/us",
         "forvo_word": "https://forvo.com/word/well/#en"
@@ -202,7 +242,7 @@
   {
     "id": "5ff79d78bb3ec987",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bell/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bell/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Ring the {{c1::bell}}.",
-      "explanation": "<b>Written:</b> bell<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bew</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bell' pronounced as 'bew'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bell/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bell/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Ring the {{c1::bell}}.",
+      "explanation": "<b>Full transcript:</b> bell<br><br><b>Connected form:</b> <i>bew</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "campana",
-      "usage": "Written: <code>bell</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bew</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bell/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bell/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bew</code><br>Formal: <code>bell</code><br><a href=\"https://youglish.com/pronounce/bell/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bell/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5ff79d78bb3ec987",
+      "full_transcript": "bell",
+      "connected_form": "bew",
+      "gap_text": "Ring the {{c1::bell}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bell/english/us",
         "forvo_word": "https://forvo.com/word/bell/#en"
@@ -242,7 +290,7 @@
   {
     "id": "8afea67af3b03cc4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hill/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hill/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We walked up the {{c1::hill}}.",
-      "explanation": "<b>Written:</b> hill<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hiw</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hill' pronounced as 'hiw'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hill/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hill/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We walked up the {{c1::hill}}.",
+      "explanation": "<b>Full transcript:</b> hill<br><br><b>Connected form:</b> <i>hiw</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "colina",
-      "usage": "Written: <code>hill</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hiw</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hill/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hill/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hiw</code><br>Formal: <code>hill</code><br><a href=\"https://youglish.com/pronounce/hill/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hill/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8afea67af3b03cc4",
+      "full_transcript": "hill",
+      "connected_form": "hiw",
+      "gap_text": "We walked up the {{c1::hill}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hill/english/us",
         "forvo_word": "https://forvo.com/word/hill/#en"
@@ -282,7 +338,7 @@
   {
     "id": "db5ba4b8bfcd399b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pill/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pill/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Take this {{c1::pill}}.",
-      "explanation": "<b>Written:</b> pill<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">piw</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'pill' pronounced as 'piw'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/pill/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pill/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Take this {{c1::pill}}.",
+      "explanation": "<b>Full transcript:</b> pill<br><br><b>Connected form:</b> <i>piw</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "pastilla",
-      "usage": "Written: <code>pill</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">piw</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pill/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pill/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>piw</code><br>Formal: <code>pill</code><br><a href=\"https://youglish.com/pronounce/pill/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pill/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "db5ba4b8bfcd399b",
+      "full_transcript": "pill",
+      "connected_form": "piw",
+      "gap_text": "Take this {{c1::pill}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/pill/english/us",
         "forvo_word": "https://forvo.com/word/pill/#en"
@@ -322,7 +386,7 @@
   {
     "id": "0054900067f82f90",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kill/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kill/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::kill}} the insect.",
-      "explanation": "<b>Written:</b> kill<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">kiw</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'kill' pronounced as 'kiw'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/kill/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kill/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::kill}} the insect.",
+      "explanation": "<b>Full transcript:</b> kill<br><br><b>Connected form:</b> <i>kiw</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "matar",
-      "usage": "Written: <code>kill</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">kiw</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kill/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kill/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>kiw</code><br>Formal: <code>kill</code><br><a href=\"https://youglish.com/pronounce/kill/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kill/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0054900067f82f90",
+      "full_transcript": "kill",
+      "connected_form": "kiw",
+      "gap_text": "Don't {{c1::kill}} the insect.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/kill/english/us",
         "forvo_word": "https://forvo.com/word/kill/#en"
@@ -362,7 +434,7 @@
   {
     "id": "20d9ecadfafc6c39",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cool/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cool/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That is a {{c1::cool}} car.",
-      "explanation": "<b>Written:</b> cool<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">coow</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cool' pronounced as 'coow'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cool/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cool/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That is a {{c1::cool}} car.",
+      "explanation": "<b>Full transcript:</b> cool<br><br><b>Connected form:</b> <i>coow</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "genial / fresco",
-      "usage": "Written: <code>cool</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">coow</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cool/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cool/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>coow</code><br>Formal: <code>cool</code><br><a href=\"https://youglish.com/pronounce/cool/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cool/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "20d9ecadfafc6c39",
+      "full_transcript": "cool",
+      "connected_form": "coow",
+      "gap_text": "That is a {{c1::cool}} car.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cool/english/us",
         "forvo_word": "https://forvo.com/word/cool/#en"
@@ -402,7 +482,7 @@
   {
     "id": "67002adb6f4d1d44",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fool/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fool/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't be a {{c1::fool}}.",
-      "explanation": "<b>Written:</b> fool<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">foow</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'fool' pronounced as 'foow'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/fool/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fool/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't be a {{c1::fool}}.",
+      "explanation": "<b>Full transcript:</b> fool<br><br><b>Connected form:</b> <i>foow</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "tonto",
-      "usage": "Written: <code>fool</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">foow</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fool/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fool/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>foow</code><br>Formal: <code>fool</code><br><a href=\"https://youglish.com/pronounce/fool/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fool/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "67002adb6f4d1d44",
+      "full_transcript": "fool",
+      "connected_form": "foow",
+      "gap_text": "Don't be a {{c1::fool}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/fool/english/us",
         "forvo_word": "https://forvo.com/word/fool/#en"
@@ -442,7 +530,7 @@
   {
     "id": "8b479d7ccbcaf241",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tool/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tool/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is a useful {{c1::tool}}.",
-      "explanation": "<b>Written:</b> tool<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">toow</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'tool' pronounced as 'toow'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/tool/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tool/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is a useful {{c1::tool}}.",
+      "explanation": "<b>Full transcript:</b> tool<br><br><b>Connected form:</b> <i>toow</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "herramienta",
-      "usage": "Written: <code>tool</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">toow</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tool/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tool/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>toow</code><br>Formal: <code>tool</code><br><a href=\"https://youglish.com/pronounce/tool/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tool/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8b479d7ccbcaf241",
+      "full_transcript": "tool",
+      "connected_form": "toow",
+      "gap_text": "This is a useful {{c1::tool}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/tool/english/us",
         "forvo_word": "https://forvo.com/word/tool/#en"
@@ -482,7 +578,7 @@
   {
     "id": "4d943bbd5a0e1aa7",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rule/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rule/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Follow the {{c1::rule}}.",
-      "explanation": "<b>Written:</b> rule<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ruew</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'rule' pronounced as 'ruew'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/rule/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rule/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Follow the {{c1::rule}}.",
+      "explanation": "<b>Full transcript:</b> rule<br><br><b>Connected form:</b> <i>ruew</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "regla",
-      "usage": "Written: <code>rule</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ruew</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rule/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rule/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ruew</code><br>Formal: <code>rule</code><br><a href=\"https://youglish.com/pronounce/rule/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rule/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4d943bbd5a0e1aa7",
+      "full_transcript": "rule",
+      "connected_form": "ruew",
+      "gap_text": "Follow the {{c1::rule}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/rule/english/us",
         "forvo_word": "https://forvo.com/word/rule/#en"
@@ -522,7 +626,7 @@
   {
     "id": "aac762174d9ba283",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/school/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/school/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is at {{c1::school}}.",
-      "explanation": "<b>Written:</b> school<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">schoow</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'school' pronounced as 'schoow'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/school/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/school/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is at {{c1::school}}.",
+      "explanation": "<b>Full transcript:</b> school<br><br><b>Connected form:</b> <i>schoow</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "escuela",
-      "usage": "Written: <code>school</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">schoow</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/school/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/school/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>schoow</code><br>Formal: <code>school</code><br><a href=\"https://youglish.com/pronounce/school/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/school/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "aac762174d9ba283",
+      "full_transcript": "school",
+      "connected_form": "schoow",
+      "gap_text": "He is at {{c1::school}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/school/english/us",
         "forvo_word": "https://forvo.com/word/school/#en"
@@ -562,7 +674,7 @@
   {
     "id": "9b5527360120cc3f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pool/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pool/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Let's swim in the {{c1::pool}}.",
-      "explanation": "<b>Written:</b> pool<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">poow</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'pool' pronounced as 'poow'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/pool/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pool/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Let's swim in the {{c1::pool}}.",
+      "explanation": "<b>Full transcript:</b> pool<br><br><b>Connected form:</b> <i>poow</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "piscina",
-      "usage": "Written: <code>pool</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">poow</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pool/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pool/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>poow</code><br>Formal: <code>pool</code><br><a href=\"https://youglish.com/pronounce/pool/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pool/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9b5527360120cc3f",
+      "full_transcript": "pool",
+      "connected_form": "poow",
+      "gap_text": "Let's swim in the {{c1::pool}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/pool/english/us",
         "forvo_word": "https://forvo.com/word/pool/#en"
@@ -602,7 +722,7 @@
   {
     "id": "40d593f858a7c5e2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/doll/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/doll/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She has a nice {{c1::doll}}.",
-      "explanation": "<b>Written:</b> doll<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">dow</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'doll' pronounced as 'dow'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/doll/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/doll/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She has a nice {{c1::doll}}.",
+      "explanation": "<b>Full transcript:</b> doll<br><br><b>Connected form:</b> <i>dow</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "muñeca",
-      "usage": "Written: <code>doll</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">dow</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/doll/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/doll/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>dow</code><br>Formal: <code>doll</code><br><a href=\"https://youglish.com/pronounce/doll/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/doll/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "40d593f858a7c5e2",
+      "full_transcript": "doll",
+      "connected_form": "dow",
+      "gap_text": "She has a nice {{c1::doll}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/doll/english/us",
         "forvo_word": "https://forvo.com/word/doll/#en"
@@ -642,7 +770,7 @@
   {
     "id": "7c9c31c533e201a0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ball/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ball/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Throw the {{c1::ball}}.",
-      "explanation": "<b>Written:</b> ball<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">baww</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'ball' pronounced as 'baww'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/ball/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ball/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Throw the {{c1::ball}}.",
+      "explanation": "<b>Full transcript:</b> ball<br><br><b>Connected form:</b> <i>baww</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "pelota",
-      "usage": "Written: <code>ball</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">baww</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ball/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ball/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>baww</code><br>Formal: <code>ball</code><br><a href=\"https://youglish.com/pronounce/ball/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ball/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7c9c31c533e201a0",
+      "full_transcript": "ball",
+      "connected_form": "baww",
+      "gap_text": "Throw the {{c1::ball}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/ball/english/us",
         "forvo_word": "https://forvo.com/word/ball/#en"
@@ -682,7 +818,7 @@
   {
     "id": "d954110d1728f5dd",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/call/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/call/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Give me a {{c1::call}}.",
-      "explanation": "<b>Written:</b> call<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">caww</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'call' pronounced as 'caww'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/call/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/call/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Give me a {{c1::call}}.",
+      "explanation": "<b>Full transcript:</b> call<br><br><b>Connected form:</b> <i>caww</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "llamada",
-      "usage": "Written: <code>call</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">caww</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/call/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/call/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>caww</code><br>Formal: <code>call</code><br><a href=\"https://youglish.com/pronounce/call/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/call/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d954110d1728f5dd",
+      "full_transcript": "call",
+      "connected_form": "caww",
+      "gap_text": "Give me a {{c1::call}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/call/english/us",
         "forvo_word": "https://forvo.com/word/call/#en"
@@ -722,7 +866,7 @@
   {
     "id": "5fd280a9f4197d6d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Be careful not to {{c1::fall}}.",
-      "explanation": "<b>Written:</b> fall<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">faww</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'fall' pronounced as 'faww'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/fall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Be careful not to {{c1::fall}}.",
+      "explanation": "<b>Full transcript:</b> fall<br><br><b>Connected form:</b> <i>faww</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "caer",
-      "usage": "Written: <code>fall</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">faww</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>faww</code><br>Formal: <code>fall</code><br><a href=\"https://youglish.com/pronounce/fall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5fd280a9f4197d6d",
+      "full_transcript": "fall",
+      "connected_form": "faww",
+      "gap_text": "Be careful not to {{c1::fall}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/fall/english/us",
         "forvo_word": "https://forvo.com/word/fall/#en"
@@ -762,7 +914,7 @@
   {
     "id": "40dd821dd2c44d9d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Hang it on the {{c1::wall}}.",
-      "explanation": "<b>Written:</b> wall<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">waww</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'wall' pronounced as 'waww'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/wall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Hang it on the {{c1::wall}}.",
+      "explanation": "<b>Full transcript:</b> wall<br><br><b>Connected form:</b> <i>waww</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "pared",
-      "usage": "Written: <code>wall</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">waww</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>waww</code><br>Formal: <code>wall</code><br><a href=\"https://youglish.com/pronounce/wall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "40dd821dd2c44d9d",
+      "full_transcript": "wall",
+      "connected_form": "waww",
+      "gap_text": "Hang it on the {{c1::wall}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/wall/english/us",
         "forvo_word": "https://forvo.com/word/wall/#en"
@@ -802,7 +962,7 @@
   {
     "id": "7e522c427926cae3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is very {{c1::tall}}.",
-      "explanation": "<b>Written:</b> tall<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">taww</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'tall' pronounced as 'taww'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/tall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is very {{c1::tall}}.",
+      "explanation": "<b>Full transcript:</b> tall<br><br><b>Connected form:</b> <i>taww</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "alto",
-      "usage": "Written: <code>tall</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">taww</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>taww</code><br>Formal: <code>tall</code><br><a href=\"https://youglish.com/pronounce/tall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7e522c427926cae3",
+      "full_transcript": "tall",
+      "connected_form": "taww",
+      "gap_text": "He is very {{c1::tall}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/tall/english/us",
         "forvo_word": "https://forvo.com/word/tall/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "0a4f3a62208de95a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Walk down the {{c1::hall}}.",
-      "explanation": "<b>Written:</b> hall<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">haww</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hall' pronounced as 'haww'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Walk down the {{c1::hall}}.",
+      "explanation": "<b>Full transcript:</b> hall<br><br><b>Connected form:</b> <i>haww</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "pasillo",
-      "usage": "Written: <code>hall</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">haww</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>haww</code><br>Formal: <code>hall</code><br><a href=\"https://youglish.com/pronounce/hall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0a4f3a62208de95a",
+      "full_transcript": "hall",
+      "connected_form": "haww",
+      "gap_text": "Walk down the {{c1::hall}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hall/english/us",
         "forvo_word": "https://forvo.com/word/hall/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "ba6325872f3b0959",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/small/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/small/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's a {{c1::small}} world.",
-      "explanation": "<b>Written:</b> small<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">smaww</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'small' pronounced as 'smaww'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/small/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/small/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's a {{c1::small}} world.",
+      "explanation": "<b>Full transcript:</b> small<br><br><b>Connected form:</b> <i>smaww</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "pequeño",
-      "usage": "Written: <code>small</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">smaww</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/small/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/small/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>smaww</code><br>Formal: <code>small</code><br><a href=\"https://youglish.com/pronounce/small/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/small/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ba6325872f3b0959",
+      "full_transcript": "small",
+      "connected_form": "smaww",
+      "gap_text": "It's a {{c1::small}} world.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/small/english/us",
         "forvo_word": "https://forvo.com/word/small/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "fae37f6f91ea13cc",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We went to the {{c1::mall}}.",
-      "explanation": "<b>Written:</b> mall<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">maww</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'mall' pronounced as 'maww'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/mall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We went to the {{c1::mall}}.",
+      "explanation": "<b>Full transcript:</b> mall<br><br><b>Connected form:</b> <i>maww</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "centro comercial",
-      "usage": "Written: <code>mall</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">maww</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mall/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mall/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>maww</code><br>Formal: <code>mall</code><br><a href=\"https://youglish.com/pronounce/mall/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mall/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fae37f6f91ea13cc",
+      "full_transcript": "mall",
+      "connected_form": "maww",
+      "gap_text": "We went to the {{c1::mall}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/mall/english/us",
         "forvo_word": "https://forvo.com/word/mall/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "040db5fd4e407011",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/gold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/gold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She wore a {{c1::gold}} ring.",
-      "explanation": "<b>Written:</b> gold<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gowd</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'gold' pronounced as 'gowd'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/gold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/gold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She wore a {{c1::gold}} ring.",
+      "explanation": "<b>Full transcript:</b> gold<br><br><b>Connected form:</b> <i>gowd</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "oro",
-      "usage": "Written: <code>gold</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gowd</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/gold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/gold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gowd</code><br>Formal: <code>gold</code><br><a href=\"https://youglish.com/pronounce/gold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/gold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "040db5fd4e407011",
+      "full_transcript": "gold",
+      "connected_form": "gowd",
+      "gap_text": "She wore a {{c1::gold}} ring.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/gold/english/us",
         "forvo_word": "https://forvo.com/word/gold/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "ad54184c8cf020c6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The water is {{c1::cold}}.",
-      "explanation": "<b>Written:</b> cold<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cowd</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cold' pronounced as 'cowd'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The water is {{c1::cold}}.",
+      "explanation": "<b>Full transcript:</b> cold<br><br><b>Connected form:</b> <i>cowd</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "frío",
-      "usage": "Written: <code>cold</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cowd</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cowd</code><br>Formal: <code>cold</code><br><a href=\"https://youglish.com/pronounce/cold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ad54184c8cf020c6",
+      "full_transcript": "cold",
+      "connected_form": "cowd",
+      "gap_text": "The water is {{c1::cold}}.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cold/english/us",
         "forvo_word": "https://forvo.com/word/cold/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "67abd3f40ef64192",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/old/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/old/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is an {{c1::old}} house.",
-      "explanation": "<b>Written:</b> old<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">owd</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'old' pronounced as 'owd'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/old/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/old/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is an {{c1::old}} house.",
+      "explanation": "<b>Full transcript:</b> old<br><br><b>Connected form:</b> <i>owd</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "viejo",
-      "usage": "Written: <code>old</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">owd</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/old/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/old/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>owd</code><br>Formal: <code>old</code><br><a href=\"https://youglish.com/pronounce/old/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/old/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "67abd3f40ef64192",
+      "full_transcript": "old",
+      "connected_form": "owd",
+      "gap_text": "This is an {{c1::old}} house.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/old/english/us",
         "forvo_word": "https://forvo.com/word/old/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "b9a890850f0eede9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Be {{c1::bold}} and brave.",
-      "explanation": "<b>Written:</b> bold<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bowd</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bold' pronounced as 'bowd'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Be {{c1::bold}} and brave.",
+      "explanation": "<b>Full transcript:</b> bold<br><br><b>Connected form:</b> <i>bowd</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "audaz",
-      "usage": "Written: <code>bold</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bowd</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bowd</code><br>Formal: <code>bold</code><br><a href=\"https://youglish.com/pronounce/bold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b9a890850f0eede9",
+      "full_transcript": "bold",
+      "connected_form": "bowd",
+      "gap_text": "Be {{c1::bold}} and brave.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bold/english/us",
         "forvo_word": "https://forvo.com/word/bold/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "a4a9e6a682d29644",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::fold}} the laundry.",
-      "explanation": "<b>Written:</b> fold<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fowd</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'fold' pronounced as 'fowd'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/fold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::fold}} the laundry.",
+      "explanation": "<b>Full transcript:</b> fold<br><br><b>Connected form:</b> <i>fowd</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "doblar",
-      "usage": "Written: <code>fold</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fowd</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fowd</code><br>Formal: <code>fold</code><br><a href=\"https://youglish.com/pronounce/fold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a4a9e6a682d29644",
+      "full_transcript": "fold",
+      "connected_form": "fowd",
+      "gap_text": "Please {{c1::fold}} the laundry.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/fold/english/us",
         "forvo_word": "https://forvo.com/word/fold/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "4242fd8a85dfeeb2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Dark_L 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We {{c1::sold}} our car.",
-      "explanation": "<b>Written:</b> sold<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sowd</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Dark L</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sold' pronounced as 'sowd'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We {{c1::sold}} our car.",
+      "explanation": "<b>Full transcript:</b> sold<br><br><b>Connected form:</b> <i>sowd</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Dark L</code></li></ul>",
       "spanish": "vendido",
-      "usage": "Written: <code>sold</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sowd</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sowd</code><br>Formal: <code>sold</code><br><a href=\"https://youglish.com/pronounce/sold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4242fd8a85dfeeb2",
+      "full_transcript": "sold",
+      "connected_form": "sowd",
+      "gap_text": "We {{c1::sold}} our car.",
+      "rules_applied": [
+        "Dark L"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sold/english/us",
         "forvo_word": "https://forvo.com/word/sold/#en"

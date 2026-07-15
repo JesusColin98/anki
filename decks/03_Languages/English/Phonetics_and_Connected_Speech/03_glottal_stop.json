@@ -2,7 +2,7 @@
   {
     "id": "27e3713b8659dc28",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/button/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/button/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Press the red {{c1::button}}.",
-      "explanation": "<b>Written:</b> button<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bu'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'button' pronounced as 'bu'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/button/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/button/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Press the red {{c1::button}}.",
+      "explanation": "<b>Full transcript:</b> button<br><br><b>Connected form:</b> <i>bu'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "botón",
-      "usage": "Written: <code>button</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bu'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/button/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/button/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bu'n</code><br>Formal: <code>button</code><br><a href=\"https://youglish.com/pronounce/button/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/button/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "27e3713b8659dc28",
+      "full_transcript": "button",
+      "connected_form": "bu'n",
+      "gap_text": "Press the red {{c1::button}}.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/button/english/us",
         "forvo_word": "https://forvo.com/word/button/#en"
@@ -42,7 +50,7 @@
   {
     "id": "c15dd3f6880098c5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/important/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/important/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is very {{c1::important}}.",
-      "explanation": "<b>Written:</b> important<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">impor'nt</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'important' pronounced as 'impor'nt'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/important/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/important/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is very {{c1::important}}.",
+      "explanation": "<b>Full transcript:</b> important<br><br><b>Connected form:</b> <i>impor'nt</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "importante",
-      "usage": "Written: <code>important</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">impor'nt</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/important/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/important/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>impor'nt</code><br>Formal: <code>important</code><br><a href=\"https://youglish.com/pronounce/important/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/important/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c15dd3f6880098c5",
+      "full_transcript": "important",
+      "connected_form": "impor'nt",
+      "gap_text": "This is very {{c1::important}}.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/important/english/us",
         "forvo_word": "https://forvo.com/word/important/#en"
@@ -82,7 +98,7 @@
   {
     "id": "63f797e253123598",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/certain/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/certain/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Are you {{c1::certain}} about this?",
-      "explanation": "<b>Written:</b> certain<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cer'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'certain' pronounced as 'cer'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/certain/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/certain/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Are you {{c1::certain}} about this?",
+      "explanation": "<b>Full transcript:</b> certain<br><br><b>Connected form:</b> <i>cer'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "seguro",
-      "usage": "Written: <code>certain</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cer'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/certain/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/certain/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cer'n</code><br>Formal: <code>certain</code><br><a href=\"https://youglish.com/pronounce/certain/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/certain/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "63f797e253123598",
+      "full_transcript": "certain",
+      "connected_form": "cer'n",
+      "gap_text": "Are you {{c1::certain}} about this?",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/certain/english/us",
         "forvo_word": "https://forvo.com/word/certain/#en"
@@ -122,7 +146,7 @@
   {
     "id": "aa5b2c44a43aabb6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mountain/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mountain/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We climbed the {{c1::mountain}}.",
-      "explanation": "<b>Written:</b> mountain<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">moun'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'mountain' pronounced as 'moun'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/mountain/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mountain/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We climbed the {{c1::mountain}}.",
+      "explanation": "<b>Full transcript:</b> mountain<br><br><b>Connected form:</b> <i>moun'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "montaña",
-      "usage": "Written: <code>mountain</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">moun'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mountain/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mountain/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>moun'n</code><br>Formal: <code>mountain</code><br><a href=\"https://youglish.com/pronounce/mountain/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mountain/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "aa5b2c44a43aabb6",
+      "full_transcript": "mountain",
+      "connected_form": "moun'n",
+      "gap_text": "We climbed the {{c1::mountain}}.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/mountain/english/us",
         "forvo_word": "https://forvo.com/word/mountain/#en"
@@ -162,7 +194,7 @@
   {
     "id": "5b01b5269e2aa2e8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/written/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/written/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It was {{c1::written}} in the contract.",
-      "explanation": "<b>Written:</b> written<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wri'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'written' pronounced as 'wri'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/written/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/written/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It was {{c1::written}} in the contract.",
+      "explanation": "<b>Full transcript:</b> written<br><br><b>Connected form:</b> <i>wri'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "escrito",
-      "usage": "Written: <code>written</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wri'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/written/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/written/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wri'n</code><br>Formal: <code>written</code><br><a href=\"https://youglish.com/pronounce/written/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/written/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5b01b5269e2aa2e8",
+      "full_transcript": "written",
+      "connected_form": "wri'n",
+      "gap_text": "It was {{c1::written}} in the contract.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/written/english/us",
         "forvo_word": "https://forvo.com/word/written/#en"
@@ -202,7 +242,7 @@
   {
     "id": "18c21e3a6b1c7fe2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bitten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bitten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He was {{c1::bitten}} by a dog.",
-      "explanation": "<b>Written:</b> bitten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bi'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bitten' pronounced as 'bi'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bitten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bitten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He was {{c1::bitten}} by a dog.",
+      "explanation": "<b>Full transcript:</b> bitten<br><br><b>Connected form:</b> <i>bi'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "mordido",
-      "usage": "Written: <code>bitten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bi'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bitten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bitten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bi'n</code><br>Formal: <code>bitten</code><br><a href=\"https://youglish.com/pronounce/bitten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bitten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "18c21e3a6b1c7fe2",
+      "full_transcript": "bitten",
+      "connected_form": "bi'n",
+      "gap_text": "He was {{c1::bitten}} by a dog.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bitten/english/us",
         "forvo_word": "https://forvo.com/word/bitten/#en"
@@ -242,7 +290,7 @@
   {
     "id": "4f10ee3a9fd1ea38",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/beaten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/beaten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They were {{c1::beaten}} in the game.",
-      "explanation": "<b>Written:</b> beaten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bea'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'beaten' pronounced as 'bea'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/beaten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/beaten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They were {{c1::beaten}} in the game.",
+      "explanation": "<b>Full transcript:</b> beaten<br><br><b>Connected form:</b> <i>bea'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "derrotado",
-      "usage": "Written: <code>beaten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bea'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/beaten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/beaten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bea'n</code><br>Formal: <code>beaten</code><br><a href=\"https://youglish.com/pronounce/beaten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/beaten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4f10ee3a9fd1ea38",
+      "full_transcript": "beaten",
+      "connected_form": "bea'n",
+      "gap_text": "They were {{c1::beaten}} in the game.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/beaten/english/us",
         "forvo_word": "https://forvo.com/word/beaten/#en"
@@ -282,7 +338,7 @@
   {
     "id": "54d1f9b79cef7edc",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/eaten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/eaten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Have you {{c1::eaten}} yet?",
-      "explanation": "<b>Written:</b> eaten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ea'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'eaten' pronounced as 'ea'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/eaten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/eaten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Have you {{c1::eaten}} yet?",
+      "explanation": "<b>Full transcript:</b> eaten<br><br><b>Connected form:</b> <i>ea'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "comido",
-      "usage": "Written: <code>eaten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ea'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/eaten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/eaten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ea'n</code><br>Formal: <code>eaten</code><br><a href=\"https://youglish.com/pronounce/eaten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/eaten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "54d1f9b79cef7edc",
+      "full_transcript": "eaten",
+      "connected_form": "ea'n",
+      "gap_text": "Have you {{c1::eaten}} yet?",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/eaten/english/us",
         "forvo_word": "https://forvo.com/word/eaten/#en"
@@ -322,7 +386,7 @@
   {
     "id": "7eb50781c75cc119",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kitten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kitten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::kitten}} was sleeping.",
-      "explanation": "<b>Written:</b> kitten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ki'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'kitten' pronounced as 'ki'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/kitten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kitten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::kitten}} was sleeping.",
+      "explanation": "<b>Full transcript:</b> kitten<br><br><b>Connected form:</b> <i>ki'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "gatito",
-      "usage": "Written: <code>kitten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ki'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kitten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kitten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ki'n</code><br>Formal: <code>kitten</code><br><a href=\"https://youglish.com/pronounce/kitten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kitten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7eb50781c75cc119",
+      "full_transcript": "kitten",
+      "connected_form": "ki'n",
+      "gap_text": "The {{c1::kitten}} was sleeping.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/kitten/english/us",
         "forvo_word": "https://forvo.com/word/kitten/#en"
@@ -362,7 +434,7 @@
   {
     "id": "5ee40f837f8d4a6b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mitten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mitten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I lost my left {{c1::mitten}}.",
-      "explanation": "<b>Written:</b> mitten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mi'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'mitten' pronounced as 'mi'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/mitten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mitten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I lost my left {{c1::mitten}}.",
+      "explanation": "<b>Full transcript:</b> mitten<br><br><b>Connected form:</b> <i>mi'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "mitón / guante",
-      "usage": "Written: <code>mitten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mi'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mitten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mitten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mi'n</code><br>Formal: <code>mitten</code><br><a href=\"https://youglish.com/pronounce/mitten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mitten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5ee40f837f8d4a6b",
+      "full_transcript": "mitten",
+      "connected_form": "mi'n",
+      "gap_text": "I lost my left {{c1::mitten}}.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/mitten/english/us",
         "forvo_word": "https://forvo.com/word/mitten/#en"
@@ -402,7 +482,7 @@
   {
     "id": "03087c7dff20db52",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cotton/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cotton/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This shirt is made of {{c1::cotton}}.",
-      "explanation": "<b>Written:</b> cotton<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">co'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cotton' pronounced as 'co'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cotton/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cotton/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This shirt is made of {{c1::cotton}}.",
+      "explanation": "<b>Full transcript:</b> cotton<br><br><b>Connected form:</b> <i>co'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "algodón",
-      "usage": "Written: <code>cotton</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">co'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cotton/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cotton/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>co'n</code><br>Formal: <code>cotton</code><br><a href=\"https://youglish.com/pronounce/cotton/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cotton/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "03087c7dff20db52",
+      "full_transcript": "cotton",
+      "connected_form": "co'n",
+      "gap_text": "This shirt is made of {{c1::cotton}}.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cotton/english/us",
         "forvo_word": "https://forvo.com/word/cotton/#en"
@@ -442,7 +530,7 @@
   {
     "id": "80576b8c40f7156e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/forgotten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/forgotten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I have completely {{c1::forgotten}}.",
-      "explanation": "<b>Written:</b> forgotten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">forgo'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'forgotten' pronounced as 'forgo'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/forgotten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/forgotten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I have completely {{c1::forgotten}}.",
+      "explanation": "<b>Full transcript:</b> forgotten<br><br><b>Connected form:</b> <i>forgo'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "olvidado",
-      "usage": "Written: <code>forgotten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">forgo'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/forgotten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/forgotten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>forgo'n</code><br>Formal: <code>forgotten</code><br><a href=\"https://youglish.com/pronounce/forgotten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/forgotten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "80576b8c40f7156e",
+      "full_transcript": "forgotten",
+      "connected_form": "forgo'n",
+      "gap_text": "I have completely {{c1::forgotten}}.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/forgotten/english/us",
         "forvo_word": "https://forvo.com/word/forgotten/#en"
@@ -482,7 +578,7 @@
   {
     "id": "acbc452268b1c420",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rotten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rotten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The apple was {{c1::rotten}}.",
-      "explanation": "<b>Written:</b> rotten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ro'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'rotten' pronounced as 'ro'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/rotten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rotten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The apple was {{c1::rotten}}.",
+      "explanation": "<b>Full transcript:</b> rotten<br><br><b>Connected form:</b> <i>ro'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "podrido",
-      "usage": "Written: <code>rotten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ro'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rotten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rotten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ro'n</code><br>Formal: <code>rotten</code><br><a href=\"https://youglish.com/pronounce/rotten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rotten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "acbc452268b1c420",
+      "full_transcript": "rotten",
+      "connected_form": "ro'n",
+      "gap_text": "The apple was {{c1::rotten}}.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/rotten/english/us",
         "forvo_word": "https://forvo.com/word/rotten/#en"
@@ -522,7 +626,7 @@
   {
     "id": "7c39b1bbb9b4c2e6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/curtain/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/curtain/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Close the {{c1::curtain}}, please.",
-      "explanation": "<b>Written:</b> curtain<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cur'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'curtain' pronounced as 'cur'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/curtain/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/curtain/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Close the {{c1::curtain}}, please.",
+      "explanation": "<b>Full transcript:</b> curtain<br><br><b>Connected form:</b> <i>cur'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "cortina",
-      "usage": "Written: <code>curtain</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cur'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/curtain/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/curtain/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cur'n</code><br>Formal: <code>curtain</code><br><a href=\"https://youglish.com/pronounce/curtain/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/curtain/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7c39b1bbb9b4c2e6",
+      "full_transcript": "curtain",
+      "connected_form": "cur'n",
+      "gap_text": "Close the {{c1::curtain}}, please.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/curtain/english/us",
         "forvo_word": "https://forvo.com/word/curtain/#en"
@@ -562,7 +674,7 @@
   {
     "id": "6b265eda426854b4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/Latin/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/latin/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They study {{c1::Latin}} at school.",
-      "explanation": "<b>Written:</b> Latin<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">La'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'Latin' pronounced as 'La'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/Latin/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/latin/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They study {{c1::Latin}} at school.",
+      "explanation": "<b>Full transcript:</b> Latin<br><br><b>Connected form:</b> <i>La'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "latín",
-      "usage": "Written: <code>Latin</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">La'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/Latin/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/latin/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>La'n</code><br>Formal: <code>Latin</code><br><a href=\"https://youglish.com/pronounce/Latin/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/latin/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6b265eda426854b4",
+      "full_transcript": "Latin",
+      "connected_form": "La'n",
+      "gap_text": "They study {{c1::Latin}} at school.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/Latin/english/us",
         "forvo_word": "https://forvo.com/word/latin/#en"
@@ -602,7 +722,7 @@
   {
     "id": "64344673130a3bc6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/satin/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/satin/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She wore a {{c1::satin}} dress.",
-      "explanation": "<b>Written:</b> satin<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sa'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'satin' pronounced as 'sa'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/satin/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/satin/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She wore a {{c1::satin}} dress.",
+      "explanation": "<b>Full transcript:</b> satin<br><br><b>Connected form:</b> <i>sa'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "raso / satén",
-      "usage": "Written: <code>satin</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sa'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/satin/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/satin/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sa'n</code><br>Formal: <code>satin</code><br><a href=\"https://youglish.com/pronounce/satin/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/satin/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "64344673130a3bc6",
+      "full_transcript": "satin",
+      "connected_form": "sa'n",
+      "gap_text": "She wore a {{c1::satin}} dress.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/satin/english/us",
         "forvo_word": "https://forvo.com/word/satin/#en"
@@ -642,7 +770,7 @@
   {
     "id": "cf466686f4837e35",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/frighten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/frighten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::frighten}} the birds.",
-      "explanation": "<b>Written:</b> frighten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">frigh'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'frighten' pronounced as 'frigh'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/frighten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/frighten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::frighten}} the birds.",
+      "explanation": "<b>Full transcript:</b> frighten<br><br><b>Connected form:</b> <i>frigh'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "asustar",
-      "usage": "Written: <code>frighten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">frigh'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/frighten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/frighten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>frigh'n</code><br>Formal: <code>frighten</code><br><a href=\"https://youglish.com/pronounce/frighten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/frighten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cf466686f4837e35",
+      "full_transcript": "frighten",
+      "connected_form": "frigh'n",
+      "gap_text": "Don't {{c1::frighten}} the birds.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/frighten/english/us",
         "forvo_word": "https://forvo.com/word/frighten/#en"
@@ -682,7 +818,7 @@
   {
     "id": "56971ae3a4e99e29",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tighten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tighten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>You need to {{c1::tighten}} the screw.",
-      "explanation": "<b>Written:</b> tighten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tigh'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'tighten' pronounced as 'tigh'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/tighten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tighten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>You need to {{c1::tighten}} the screw.",
+      "explanation": "<b>Full transcript:</b> tighten<br><br><b>Connected form:</b> <i>tigh'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "apretar",
-      "usage": "Written: <code>tighten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tigh'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tighten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tighten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tigh'n</code><br>Formal: <code>tighten</code><br><a href=\"https://youglish.com/pronounce/tighten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tighten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "56971ae3a4e99e29",
+      "full_transcript": "tighten",
+      "connected_form": "tigh'n",
+      "gap_text": "You need to {{c1::tighten}} the screw.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/tighten/english/us",
         "forvo_word": "https://forvo.com/word/tighten/#en"
@@ -722,7 +866,7 @@
   {
     "id": "4c47d7c4e8ac68eb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/flatten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/flatten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We need to {{c1::flatten}} the box.",
-      "explanation": "<b>Written:</b> flatten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fla'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'flatten' pronounced as 'fla'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/flatten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/flatten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We need to {{c1::flatten}} the box.",
+      "explanation": "<b>Full transcript:</b> flatten<br><br><b>Connected form:</b> <i>fla'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "aplanar",
-      "usage": "Written: <code>flatten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fla'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/flatten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/flatten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fla'n</code><br>Formal: <code>flatten</code><br><a href=\"https://youglish.com/pronounce/flatten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/flatten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4c47d7c4e8ac68eb",
+      "full_transcript": "flatten",
+      "connected_form": "fla'n",
+      "gap_text": "We need to {{c1::flatten}} the box.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/flatten/english/us",
         "forvo_word": "https://forvo.com/word/flatten/#en"
@@ -762,7 +914,7 @@
   {
     "id": "5204c6c1dc7cbce7",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sweeten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sweeten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Add sugar to {{c1::sweeten}} it.",
-      "explanation": "<b>Written:</b> sweeten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">swee'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sweeten' pronounced as 'swee'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sweeten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sweeten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Add sugar to {{c1::sweeten}} it.",
+      "explanation": "<b>Full transcript:</b> sweeten<br><br><b>Connected form:</b> <i>swee'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "endulzar",
-      "usage": "Written: <code>sweeten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">swee'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sweeten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sweeten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>swee'n</code><br>Formal: <code>sweeten</code><br><a href=\"https://youglish.com/pronounce/sweeten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sweeten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5204c6c1dc7cbce7",
+      "full_transcript": "sweeten",
+      "connected_form": "swee'n",
+      "gap_text": "Add sugar to {{c1::sweeten}} it.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sweeten/english/us",
         "forvo_word": "https://forvo.com/word/sweeten/#en"
@@ -802,7 +962,7 @@
   {
     "id": "755fe9f20109c12e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/threaten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/threaten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::threaten}} me.",
-      "explanation": "<b>Written:</b> threaten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">threa'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'threaten' pronounced as 'threa'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/threaten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/threaten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::threaten}} me.",
+      "explanation": "<b>Full transcript:</b> threaten<br><br><b>Connected form:</b> <i>threa'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "amenazar",
-      "usage": "Written: <code>threaten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">threa'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/threaten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/threaten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>threa'n</code><br>Formal: <code>threaten</code><br><a href=\"https://youglish.com/pronounce/threaten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/threaten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "755fe9f20109c12e",
+      "full_transcript": "threaten",
+      "connected_form": "threa'n",
+      "gap_text": "Don't {{c1::threaten}} me.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/threaten/english/us",
         "forvo_word": "https://forvo.com/word/threaten/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "b20b397c2ad6a9be",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/shorten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/shorten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can we {{c1::shorten}} the meeting?",
-      "explanation": "<b>Written:</b> shorten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">shor'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'shorten' pronounced as 'shor'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/shorten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/shorten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can we {{c1::shorten}} the meeting?",
+      "explanation": "<b>Full transcript:</b> shorten<br><br><b>Connected form:</b> <i>shor'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "acortar",
-      "usage": "Written: <code>shorten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">shor'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/shorten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/shorten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>shor'n</code><br>Formal: <code>shorten</code><br><a href=\"https://youglish.com/pronounce/shorten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/shorten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b20b397c2ad6a9be",
+      "full_transcript": "shorten",
+      "connected_form": "shor'n",
+      "gap_text": "Can we {{c1::shorten}} the meeting?",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/shorten/english/us",
         "forvo_word": "https://forvo.com/word/shorten/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "885536f0860b24ff",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/soften/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/soften/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Use lotion to {{c1::soften}} your skin.",
-      "explanation": "<b>Written:</b> soften<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sof'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'soften' pronounced as 'sof'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/soften/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/soften/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Use lotion to {{c1::soften}} your skin.",
+      "explanation": "<b>Full transcript:</b> soften<br><br><b>Connected form:</b> <i>sof'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "suavizar",
-      "usage": "Written: <code>soften</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sof'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/soften/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/soften/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sof'n</code><br>Formal: <code>soften</code><br><a href=\"https://youglish.com/pronounce/soften/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/soften/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "885536f0860b24ff",
+      "full_transcript": "soften",
+      "connected_form": "sof'n",
+      "gap_text": "Use lotion to {{c1::soften}} your skin.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/soften/english/us",
         "forvo_word": "https://forvo.com/word/soften/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "0ee25e85f26c5023",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/Manhattan/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/manhattan/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He lives in {{c1::Manhattan}}.",
-      "explanation": "<b>Written:</b> Manhattan<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">Manha'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'Manhattan' pronounced as 'Manha'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/Manhattan/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/manhattan/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He lives in {{c1::Manhattan}}.",
+      "explanation": "<b>Full transcript:</b> Manhattan<br><br><b>Connected form:</b> <i>Manha'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "Manhattan",
-      "usage": "Written: <code>Manhattan</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">Manha'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/Manhattan/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/manhattan/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>Manha'n</code><br>Formal: <code>Manhattan</code><br><a href=\"https://youglish.com/pronounce/Manhattan/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/manhattan/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0ee25e85f26c5023",
+      "full_transcript": "Manhattan",
+      "connected_form": "Manha'n",
+      "gap_text": "He lives in {{c1::Manhattan}}.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/Manhattan/english/us",
         "forvo_word": "https://forvo.com/word/manhattan/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "7fb6edad42d9decc",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/brighten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/brighten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Sunlight will {{c1::brighten}} the room.",
-      "explanation": "<b>Written:</b> brighten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">brigh'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'brighten' pronounced as 'brigh'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/brighten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/brighten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Sunlight will {{c1::brighten}} the room.",
+      "explanation": "<b>Full transcript:</b> brighten<br><br><b>Connected form:</b> <i>brigh'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "iluminar",
-      "usage": "Written: <code>brighten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">brigh'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/brighten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/brighten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>brigh'n</code><br>Formal: <code>brighten</code><br><a href=\"https://youglish.com/pronounce/brighten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/brighten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7fb6edad42d9decc",
+      "full_transcript": "brighten",
+      "connected_form": "brigh'n",
+      "gap_text": "Sunlight will {{c1::brighten}} the room.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/brighten/english/us",
         "forvo_word": "https://forvo.com/word/brighten/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "b9c961f89435bc33",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/broaden/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/broaden/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Travel will {{c1::broaden}} your mind.",
-      "explanation": "<b>Written:</b> broaden<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">broa'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'broaden' pronounced as 'broa'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/broaden/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/broaden/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Travel will {{c1::broaden}} your mind.",
+      "explanation": "<b>Full transcript:</b> broaden<br><br><b>Connected form:</b> <i>broa'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "ampliar",
-      "usage": "Written: <code>broaden</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">broa'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/broaden/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/broaden/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>broa'n</code><br>Formal: <code>broaden</code><br><a href=\"https://youglish.com/pronounce/broaden/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/broaden/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b9c961f89435bc33",
+      "full_transcript": "broaden",
+      "connected_form": "broa'n",
+      "gap_text": "Travel will {{c1::broaden}} your mind.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/broaden/english/us",
         "forvo_word": "https://forvo.com/word/broaden/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "bdfda1a8068e11f4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/dampen/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/dampen/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't let it {{c1::dampen}} your spirits.",
-      "explanation": "<b>Written:</b> dampen<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">dam'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'dampen' pronounced as 'dam'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/dampen/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/dampen/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't let it {{c1::dampen}} your spirits.",
+      "explanation": "<b>Full transcript:</b> dampen<br><br><b>Connected form:</b> <i>dam'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "desanimar",
-      "usage": "Written: <code>dampen</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">dam'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/dampen/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/dampen/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>dam'n</code><br>Formal: <code>dampen</code><br><a href=\"https://youglish.com/pronounce/dampen/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/dampen/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "bdfda1a8068e11f4",
+      "full_transcript": "dampen",
+      "connected_form": "dam'n",
+      "gap_text": "Don't let it {{c1::dampen}} your spirits.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/dampen/english/us",
         "forvo_word": "https://forvo.com/word/dampen/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "af7f509577863e28",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/gladden/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/gladden/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It will {{c1::gladden}} her heart.",
-      "explanation": "<b>Written:</b> gladden<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">glad'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'gladden' pronounced as 'glad'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/gladden/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/gladden/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It will {{c1::gladden}} her heart.",
+      "explanation": "<b>Full transcript:</b> gladden<br><br><b>Connected form:</b> <i>glad'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "alegrar",
-      "usage": "Written: <code>gladden</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">glad'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/gladden/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/gladden/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>glad'n</code><br>Formal: <code>gladden</code><br><a href=\"https://youglish.com/pronounce/gladden/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/gladden/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "af7f509577863e28",
+      "full_transcript": "gladden",
+      "connected_form": "glad'n",
+      "gap_text": "It will {{c1::gladden}} her heart.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/gladden/english/us",
         "forvo_word": "https://forvo.com/word/gladden/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "52f51c9739e69ed8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/heighten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/heighten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This will {{c1::heighten}} the tension.",
-      "explanation": "<b>Written:</b> heighten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">heigh'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'heighten' pronounced as 'heigh'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/heighten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/heighten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This will {{c1::heighten}} the tension.",
+      "explanation": "<b>Full transcript:</b> heighten<br><br><b>Connected form:</b> <i>heigh'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "aumentar",
-      "usage": "Written: <code>heighten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">heigh'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/heighten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/heighten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>heigh'n</code><br>Formal: <code>heighten</code><br><a href=\"https://youglish.com/pronounce/heighten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/heighten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "52f51c9739e69ed8",
+      "full_transcript": "heighten",
+      "connected_form": "heigh'n",
+      "gap_text": "This will {{c1::heighten}} the tension.",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/heighten/english/us",
         "forvo_word": "https://forvo.com/word/heighten/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "5c2a6be3465859d2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Glottal_Stop 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/loosen/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/loosen/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can you {{c1::loosen}} the knot?",
-      "explanation": "<b>Written:</b> loosen<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">loo's'n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Glottal Stop</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'loosen' pronounced as 'loo's'n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/loosen/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/loosen/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can you {{c1::loosen}} the knot?",
+      "explanation": "<b>Full transcript:</b> loosen<br><br><b>Connected form:</b> <i>loo's'n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Glottal Stop</code></li></ul>",
       "spanish": "aflojar",
-      "usage": "Written: <code>loosen</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">loo's'n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/loosen/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/loosen/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>loo's'n</code><br>Formal: <code>loosen</code><br><a href=\"https://youglish.com/pronounce/loosen/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/loosen/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5c2a6be3465859d2",
+      "full_transcript": "loosen",
+      "connected_form": "loo's'n",
+      "gap_text": "Can you {{c1::loosen}} the knot?",
+      "rules_applied": [
+        "Glottal Stop"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/loosen/english/us",
         "forvo_word": "https://forvo.com/word/loosen/#en"

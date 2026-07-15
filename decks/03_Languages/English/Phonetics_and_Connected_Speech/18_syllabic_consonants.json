@@ -2,7 +2,7 @@
   {
     "id": "5e9321c011e6febe",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sudden/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sudden/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>There was a {{c1::sudden}} change.",
-      "explanation": "<b>Written:</b> sudden<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sudd-n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sudden' pronounced as 'sudd-n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sudden/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sudden/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>There was a {{c1::sudden}} change.",
+      "explanation": "<b>Full transcript:</b> sudden<br><br><b>Connected form:</b> <i>sudd-n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "repentino",
-      "usage": "Written: <code>sudden</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sudd-n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sudden/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sudden/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sudd-n</code><br>Formal: <code>sudden</code><br><a href=\"https://youglish.com/pronounce/sudden/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sudden/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5e9321c011e6febe",
+      "full_transcript": "sudden",
+      "connected_form": "sudd-n",
+      "gap_text": "There was a {{c1::sudden}} change.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sudden/english/us",
         "forvo_word": "https://forvo.com/word/sudden/#en"
@@ -42,7 +50,7 @@
   {
     "id": "6504688565d072b0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rhythm/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rhythm/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I like the {{c1::rhythm}} of the music.",
-      "explanation": "<b>Written:</b> rhythm<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">rhyth-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'rhythm' pronounced as 'rhyth-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/rhythm/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rhythm/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I like the {{c1::rhythm}} of the music.",
+      "explanation": "<b>Full transcript:</b> rhythm<br><br><b>Connected form:</b> <i>rhyth-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "ritmo",
-      "usage": "Written: <code>rhythm</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">rhyth-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rhythm/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rhythm/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>rhyth-m</code><br>Formal: <code>rhythm</code><br><a href=\"https://youglish.com/pronounce/rhythm/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rhythm/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6504688565d072b0",
+      "full_transcript": "rhythm",
+      "connected_form": "rhyth-m",
+      "gap_text": "I like the {{c1::rhythm}} of the music.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/rhythm/english/us",
         "forvo_word": "https://forvo.com/word/rhythm/#en"
@@ -82,7 +98,7 @@
   {
     "id": "d8f0a2fa2969b82b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/little/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/little/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Just a {{c1::little}} bit, please.",
-      "explanation": "<b>Written:</b> little<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">litt-l</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'little' pronounced as 'litt-l'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/little/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/little/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Just a {{c1::little}} bit, please.",
+      "explanation": "<b>Full transcript:</b> little<br><br><b>Connected form:</b> <i>litt-l</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "pequeño / poco",
-      "usage": "Written: <code>little</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">litt-l</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/little/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/little/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>litt-l</code><br>Formal: <code>little</code><br><a href=\"https://youglish.com/pronounce/little/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/little/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d8f0a2fa2969b82b",
+      "full_transcript": "little",
+      "connected_form": "litt-l",
+      "gap_text": "Just a {{c1::little}} bit, please.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/little/english/us",
         "forvo_word": "https://forvo.com/word/little/#en"
@@ -122,7 +146,7 @@
   {
     "id": "b078195be6959567",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bottle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Pass the water {{c1::bottle}}.",
-      "explanation": "<b>Written:</b> bottle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bott-l</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bottle' pronounced as 'bott-l'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bottle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Pass the water {{c1::bottle}}.",
+      "explanation": "<b>Full transcript:</b> bottle<br><br><b>Connected form:</b> <i>bott-l</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "botella",
-      "usage": "Written: <code>bottle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bott-l</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bottle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bott-l</code><br>Formal: <code>bottle</code><br><a href=\"https://youglish.com/pronounce/bottle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bottle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b078195be6959567",
+      "full_transcript": "bottle",
+      "connected_form": "bott-l",
+      "gap_text": "Pass the water {{c1::bottle}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bottle/english/us",
         "forvo_word": "https://forvo.com/word/bottle/#en"
@@ -162,7 +194,7 @@
   {
     "id": "27e3713b8659dc28",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/button/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/button/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Press the red {{c1::button}}.",
-      "explanation": "<b>Written:</b> button<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">butt-n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'button' pronounced as 'butt-n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/button/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/button/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Press the red {{c1::button}}.",
+      "explanation": "<b>Full transcript:</b> button<br><br><b>Connected form:</b> <i>butt-n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "botón",
-      "usage": "Written: <code>button</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">butt-n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/button/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/button/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>butt-n</code><br>Formal: <code>button</code><br><a href=\"https://youglish.com/pronounce/button/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/button/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "27e3713b8659dc28",
+      "full_transcript": "button",
+      "connected_form": "butt-n",
+      "gap_text": "Press the red {{c1::button}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/button/english/us",
         "forvo_word": "https://forvo.com/word/button/#en"
@@ -202,7 +242,7 @@
   {
     "id": "a6b5e00bc908ee5a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/garden/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/garden/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We walked in the {{c1::garden}}.",
-      "explanation": "<b>Written:</b> garden<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gard-n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'garden' pronounced as 'gard-n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/garden/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/garden/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We walked in the {{c1::garden}}.",
+      "explanation": "<b>Full transcript:</b> garden<br><br><b>Connected form:</b> <i>gard-n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "jardín",
-      "usage": "Written: <code>garden</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gard-n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/garden/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/garden/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gard-n</code><br>Formal: <code>garden</code><br><a href=\"https://youglish.com/pronounce/garden/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/garden/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a6b5e00bc908ee5a",
+      "full_transcript": "garden",
+      "connected_form": "gard-n",
+      "gap_text": "We walked in the {{c1::garden}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/garden/english/us",
         "forvo_word": "https://forvo.com/word/garden/#en"
@@ -242,7 +290,7 @@
   {
     "id": "eabe052ecb3ca749",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/prison/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/prison/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He was sent to {{c1::prison}}.",
-      "explanation": "<b>Written:</b> prison<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">priz-n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'prison' pronounced as 'priz-n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/prison/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/prison/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He was sent to {{c1::prison}}.",
+      "explanation": "<b>Full transcript:</b> prison<br><br><b>Connected form:</b> <i>priz-n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "prisión",
-      "usage": "Written: <code>prison</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">priz-n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/prison/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/prison/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>priz-n</code><br>Formal: <code>prison</code><br><a href=\"https://youglish.com/pronounce/prison/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/prison/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "eabe052ecb3ca749",
+      "full_transcript": "prison",
+      "connected_form": "priz-n",
+      "gap_text": "He was sent to {{c1::prison}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/prison/english/us",
         "forvo_word": "https://forvo.com/word/prison/#en"
@@ -282,7 +338,7 @@
   {
     "id": "9f0f9f50e9e8d4c7",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/national/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/national/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Today is a {{c1::national}} holiday.",
-      "explanation": "<b>Written:</b> national<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">nash-nl</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'national' pronounced as 'nash-nl'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/national/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/national/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Today is a {{c1::national}} holiday.",
+      "explanation": "<b>Full transcript:</b> national<br><br><b>Connected form:</b> <i>nash-nl</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "nacional",
-      "usage": "Written: <code>national</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">nash-nl</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/national/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/national/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>nash-nl</code><br>Formal: <code>national</code><br><a href=\"https://youglish.com/pronounce/national/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/national/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9f0f9f50e9e8d4c7",
+      "full_transcript": "national",
+      "connected_form": "nash-nl",
+      "gap_text": "Today is a {{c1::national}} holiday.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/national/english/us",
         "forvo_word": "https://forvo.com/word/national/#en"
@@ -322,7 +386,7 @@
   {
     "id": "6ee757b4e0543208",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cotton/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cotton/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This shirt is 100% {{c1::cotton}}.",
-      "explanation": "<b>Written:</b> cotton<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cott-n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cotton' pronounced as 'cott-n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cotton/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cotton/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This shirt is 100% {{c1::cotton}}.",
+      "explanation": "<b>Full transcript:</b> cotton<br><br><b>Connected form:</b> <i>cott-n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "algodón",
-      "usage": "Written: <code>cotton</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cott-n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cotton/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cotton/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cott-n</code><br>Formal: <code>cotton</code><br><a href=\"https://youglish.com/pronounce/cotton/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cotton/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6ee757b4e0543208",
+      "full_transcript": "cotton",
+      "connected_form": "cott-n",
+      "gap_text": "This shirt is 100% {{c1::cotton}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cotton/english/us",
         "forvo_word": "https://forvo.com/word/cotton/#en"
@@ -362,7 +434,7 @@
   {
     "id": "7cee6c0dde473d30",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kitten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kitten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::kitten}} is sleeping.",
-      "explanation": "<b>Written:</b> kitten<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">kitt-n</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'kitten' pronounced as 'kitt-n'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/kitten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kitten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::kitten}} is sleeping.",
+      "explanation": "<b>Full transcript:</b> kitten<br><br><b>Connected form:</b> <i>kitt-n</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "gatito",
-      "usage": "Written: <code>kitten</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">kitt-n</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kitten/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kitten/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>kitt-n</code><br>Formal: <code>kitten</code><br><a href=\"https://youglish.com/pronounce/kitten/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kitten/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7cee6c0dde473d30",
+      "full_transcript": "kitten",
+      "connected_form": "kitt-n",
+      "gap_text": "The {{c1::kitten}} is sleeping.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/kitten/english/us",
         "forvo_word": "https://forvo.com/word/kitten/#en"
@@ -402,7 +482,7 @@
   {
     "id": "d0c892063f140a9f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/middle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is in the {{c1::middle}} of a meeting.",
-      "explanation": "<b>Written:</b> middle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">midd-l</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'middle' pronounced as 'midd-l'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/middle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is in the {{c1::middle}} of a meeting.",
+      "explanation": "<b>Full transcript:</b> middle<br><br><b>Connected form:</b> <i>midd-l</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "mitad",
-      "usage": "Written: <code>middle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">midd-l</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/middle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>midd-l</code><br>Formal: <code>middle</code><br><a href=\"https://youglish.com/pronounce/middle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/middle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d0c892063f140a9f",
+      "full_transcript": "middle",
+      "connected_form": "midd-l",
+      "gap_text": "He is in the {{c1::middle}} of a meeting.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/middle/english/us",
         "forvo_word": "https://forvo.com/word/middle/#en"
@@ -442,7 +530,7 @@
   {
     "id": "bb33783cb462f845",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/table/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/table/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Leave it on the {{c1::table}}.",
-      "explanation": "<b>Written:</b> table<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tayb-l</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'table' pronounced as 'tayb-l'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/table/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/table/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Leave it on the {{c1::table}}.",
+      "explanation": "<b>Full transcript:</b> table<br><br><b>Connected form:</b> <i>tayb-l</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "mesa",
-      "usage": "Written: <code>table</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tayb-l</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/table/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/table/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tayb-l</code><br>Formal: <code>table</code><br><a href=\"https://youglish.com/pronounce/table/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/table/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "bb33783cb462f845",
+      "full_transcript": "table",
+      "connected_form": "tayb-l",
+      "gap_text": "Leave it on the {{c1::table}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/table/english/us",
         "forvo_word": "https://forvo.com/word/table/#en"
@@ -482,7 +578,7 @@
   {
     "id": "b1b7652e0d4d2c6f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/apple/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/apple/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She ate a red {{c1::apple}}.",
-      "explanation": "<b>Written:</b> apple<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">app-l</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'apple' pronounced as 'app-l'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/apple/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/apple/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She ate a red {{c1::apple}}.",
+      "explanation": "<b>Full transcript:</b> apple<br><br><b>Connected form:</b> <i>app-l</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "manzana",
-      "usage": "Written: <code>apple</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">app-l</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/apple/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/apple/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>app-l</code><br>Formal: <code>apple</code><br><a href=\"https://youglish.com/pronounce/apple/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/apple/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b1b7652e0d4d2c6f",
+      "full_transcript": "apple",
+      "connected_form": "app-l",
+      "gap_text": "She ate a red {{c1::apple}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/apple/english/us",
         "forvo_word": "https://forvo.com/word/apple/#en"
@@ -522,7 +626,7 @@
   {
     "id": "9a50e8154e375ecb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/simple/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/simple/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's a very {{c1::simple}} solution.",
-      "explanation": "<b>Written:</b> simple<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">simpl</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'simple' pronounced as 'simpl'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/simple/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/simple/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's a very {{c1::simple}} solution.",
+      "explanation": "<b>Full transcript:</b> simple<br><br><b>Connected form:</b> <i>simpl</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "simple",
-      "usage": "Written: <code>simple</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">simpl</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/simple/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/simple/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>simpl</code><br>Formal: <code>simple</code><br><a href=\"https://youglish.com/pronounce/simple/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/simple/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9a50e8154e375ecb",
+      "full_transcript": "simple",
+      "connected_form": "simpl",
+      "gap_text": "It's a very {{c1::simple}} solution.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/simple/english/us",
         "forvo_word": "https://forvo.com/word/simple/#en"
@@ -562,7 +674,7 @@
   {
     "id": "fb113bb1e2a31f8c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/channel/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/channel/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Change the TV {{c1::channel}}.",
-      "explanation": "<b>Written:</b> channel<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">chann-l</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'channel' pronounced as 'chann-l'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/channel/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/channel/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Change the TV {{c1::channel}}.",
+      "explanation": "<b>Full transcript:</b> channel<br><br><b>Connected form:</b> <i>chann-l</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "canal",
-      "usage": "Written: <code>channel</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">chann-l</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/channel/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/channel/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>chann-l</code><br>Formal: <code>channel</code><br><a href=\"https://youglish.com/pronounce/channel/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/channel/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fb113bb1e2a31f8c",
+      "full_transcript": "channel",
+      "connected_form": "chann-l",
+      "gap_text": "Change the TV {{c1::channel}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/channel/english/us",
         "forvo_word": "https://forvo.com/word/channel/#en"
@@ -602,7 +722,7 @@
   {
     "id": "20f7b3a61df9f39c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tunnel/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tunnel/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The train went through a {{c1::tunnel}}.",
-      "explanation": "<b>Written:</b> tunnel<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tunn-l</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'tunnel' pronounced as 'tunn-l'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/tunnel/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tunnel/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The train went through a {{c1::tunnel}}.",
+      "explanation": "<b>Full transcript:</b> tunnel<br><br><b>Connected form:</b> <i>tunn-l</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "túnel",
-      "usage": "Written: <code>tunnel</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tunn-l</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tunnel/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tunnel/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tunn-l</code><br>Formal: <code>tunnel</code><br><a href=\"https://youglish.com/pronounce/tunnel/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tunnel/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "20f7b3a61df9f39c",
+      "full_transcript": "tunnel",
+      "connected_form": "tunn-l",
+      "gap_text": "The train went through a {{c1::tunnel}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/tunnel/english/us",
         "forvo_word": "https://forvo.com/word/tunnel/#en"
@@ -642,7 +770,7 @@
   {
     "id": "19420df17a44405a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/symbol/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/symbol/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>What does this {{c1::symbol}} mean?",
-      "explanation": "<b>Written:</b> symbol<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">symb-l</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'symbol' pronounced as 'symb-l'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/symbol/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/symbol/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>What does this {{c1::symbol}} mean?",
+      "explanation": "<b>Full transcript:</b> symbol<br><br><b>Connected form:</b> <i>symb-l</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "símbolo",
-      "usage": "Written: <code>symbol</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">symb-l</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/symbol/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/symbol/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>symb-l</code><br>Formal: <code>symbol</code><br><a href=\"https://youglish.com/pronounce/symbol/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/symbol/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "19420df17a44405a",
+      "full_transcript": "symbol",
+      "connected_form": "symb-l",
+      "gap_text": "What does this {{c1::symbol}} mean?",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/symbol/english/us",
         "forvo_word": "https://forvo.com/word/symbol/#en"
@@ -682,7 +818,7 @@
   {
     "id": "4d96c7c0f77f1205",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rhythm/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rhythm/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The heartbeat has a steady {{c1::rhythm}}.",
-      "explanation": "<b>Written:</b> rhythm<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">rhyth-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'rhythm' pronounced as 'rhyth-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/rhythm/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rhythm/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The heartbeat has a steady {{c1::rhythm}}.",
+      "explanation": "<b>Full transcript:</b> rhythm<br><br><b>Connected form:</b> <i>rhyth-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "ritmo",
-      "usage": "Written: <code>rhythm</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">rhyth-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rhythm/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rhythm/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>rhyth-m</code><br>Formal: <code>rhythm</code><br><a href=\"https://youglish.com/pronounce/rhythm/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rhythm/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4d96c7c0f77f1205",
+      "full_transcript": "rhythm",
+      "connected_form": "rhyth-m",
+      "gap_text": "The heartbeat has a steady {{c1::rhythm}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/rhythm/english/us",
         "forvo_word": "https://forvo.com/word/rhythm/#en"
@@ -722,7 +866,7 @@
   {
     "id": "2f9870654ec3b711",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/blossom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/blossom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The cherry trees are in {{c1::blossom}}.",
-      "explanation": "<b>Written:</b> blossom<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bloss-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'blossom' pronounced as 'bloss-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/blossom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/blossom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The cherry trees are in {{c1::blossom}}.",
+      "explanation": "<b>Full transcript:</b> blossom<br><br><b>Connected form:</b> <i>bloss-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "flor / florecer",
-      "usage": "Written: <code>blossom</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bloss-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/blossom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/blossom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bloss-m</code><br>Formal: <code>blossom</code><br><a href=\"https://youglish.com/pronounce/blossom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/blossom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2f9870654ec3b711",
+      "full_transcript": "blossom",
+      "connected_form": "bloss-m",
+      "gap_text": "The cherry trees are in {{c1::blossom}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/blossom/english/us",
         "forvo_word": "https://forvo.com/word/blossom/#en"
@@ -762,7 +914,7 @@
   {
     "id": "d4dbe01b590bc575",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bottom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bottom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It is at the {{c1::bottom}} of the page.",
-      "explanation": "<b>Written:</b> bottom<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bott-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bottom' pronounced as 'bott-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bottom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bottom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It is at the {{c1::bottom}} of the page.",
+      "explanation": "<b>Full transcript:</b> bottom<br><br><b>Connected form:</b> <i>bott-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "fondo / parte inferior",
-      "usage": "Written: <code>bottom</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bott-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bottom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bottom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bott-m</code><br>Formal: <code>bottom</code><br><a href=\"https://youglish.com/pronounce/bottom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bottom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d4dbe01b590bc575",
+      "full_transcript": "bottom",
+      "connected_form": "bott-m",
+      "gap_text": "It is at the {{c1::bottom}} of the page.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bottom/english/us",
         "forvo_word": "https://forvo.com/word/bottom/#en"
@@ -802,7 +962,7 @@
   {
     "id": "be0359ccb141a5f1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/custom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/custom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It is an old local {{c1::custom}}.",
-      "explanation": "<b>Written:</b> custom<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cust-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'custom' pronounced as 'cust-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/custom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/custom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It is an old local {{c1::custom}}.",
+      "explanation": "<b>Full transcript:</b> custom<br><br><b>Connected form:</b> <i>cust-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "costumbre",
-      "usage": "Written: <code>custom</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cust-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/custom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/custom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cust-m</code><br>Formal: <code>custom</code><br><a href=\"https://youglish.com/pronounce/custom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/custom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "be0359ccb141a5f1",
+      "full_transcript": "custom",
+      "connected_form": "cust-m",
+      "gap_text": "It is an old local {{c1::custom}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/custom/english/us",
         "forvo_word": "https://forvo.com/word/custom/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "67f49c3a9f0c85b6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/system/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/system/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The operating {{c1::system}} is upgrading.",
-      "explanation": "<b>Written:</b> system<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">syst-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'system' pronounced as 'syst-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/system/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/system/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The operating {{c1::system}} is upgrading.",
+      "explanation": "<b>Full transcript:</b> system<br><br><b>Connected form:</b> <i>syst-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "sistema",
-      "usage": "Written: <code>system</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">syst-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/system/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/system/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>syst-m</code><br>Formal: <code>system</code><br><a href=\"https://youglish.com/pronounce/system/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/system/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "67f49c3a9f0c85b6",
+      "full_transcript": "system",
+      "connected_form": "syst-m",
+      "gap_text": "The operating {{c1::system}} is upgrading.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/system/english/us",
         "forvo_word": "https://forvo.com/word/system/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "0e031b691bbf8bab",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/victim/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/victim/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He was a {{c1::victim}} of the scam.",
-      "explanation": "<b>Written:</b> victim<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">vict-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'victim' pronounced as 'vict-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/victim/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/victim/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He was a {{c1::victim}} of the scam.",
+      "explanation": "<b>Full transcript:</b> victim<br><br><b>Connected form:</b> <i>vict-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "víctima",
-      "usage": "Written: <code>victim</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">vict-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/victim/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/victim/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>vict-m</code><br>Formal: <code>victim</code><br><a href=\"https://youglish.com/pronounce/victim/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/victim/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0e031b691bbf8bab",
+      "full_transcript": "victim",
+      "connected_form": "vict-m",
+      "gap_text": "He was a {{c1::victim}} of the scam.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/victim/english/us",
         "forvo_word": "https://forvo.com/word/victim/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "223e9eef00445fc6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/seldom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/seldom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We {{c1::seldom}} see each other.",
-      "explanation": "<b>Written:</b> seldom<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">seld-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'seldom' pronounced as 'seld-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/seldom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/seldom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We {{c1::seldom}} see each other.",
+      "explanation": "<b>Full transcript:</b> seldom<br><br><b>Connected form:</b> <i>seld-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "rara vez",
-      "usage": "Written: <code>seldom</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">seld-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/seldom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/seldom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>seld-m</code><br>Formal: <code>seldom</code><br><a href=\"https://youglish.com/pronounce/seldom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/seldom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "223e9eef00445fc6",
+      "full_transcript": "seldom",
+      "connected_form": "seld-m",
+      "gap_text": "We {{c1::seldom}} see each other.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/seldom/english/us",
         "forvo_word": "https://forvo.com/word/seldom/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "e40b020dce12fc40",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wisdom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wisdom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He shared his words of {{c1::wisdom}}.",
-      "explanation": "<b>Written:</b> wisdom<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wisd-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'wisdom' pronounced as 'wisd-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/wisdom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wisdom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He shared his words of {{c1::wisdom}}.",
+      "explanation": "<b>Full transcript:</b> wisdom<br><br><b>Connected form:</b> <i>wisd-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "sabiduría",
-      "usage": "Written: <code>wisdom</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wisd-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wisdom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wisdom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wisd-m</code><br>Formal: <code>wisdom</code><br><a href=\"https://youglish.com/pronounce/wisdom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wisdom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "e40b020dce12fc40",
+      "full_transcript": "wisdom",
+      "connected_form": "wisd-m",
+      "gap_text": "He shared his words of {{c1::wisdom}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/wisdom/english/us",
         "forvo_word": "https://forvo.com/word/wisdom/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "d3bba1550bb6504d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/freedom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/freedom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We value our {{c1::freedom}}.",
-      "explanation": "<b>Written:</b> freedom<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">freed-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'freedom' pronounced as 'freed-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/freedom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/freedom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We value our {{c1::freedom}}.",
+      "explanation": "<b>Full transcript:</b> freedom<br><br><b>Connected form:</b> <i>freed-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "libertad",
-      "usage": "Written: <code>freedom</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">freed-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/freedom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/freedom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>freed-m</code><br>Formal: <code>freedom</code><br><a href=\"https://youglish.com/pronounce/freedom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/freedom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d3bba1550bb6504d",
+      "full_transcript": "freedom",
+      "connected_form": "freed-m",
+      "gap_text": "We value our {{c1::freedom}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/freedom/english/us",
         "forvo_word": "https://forvo.com/word/freedom/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "cf0d4936b110c5e5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kingdom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kingdom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Welcome to the United {{c1::Kingdom}}.",
-      "explanation": "<b>Written:</b> kingdom<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">kingd-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'kingdom' pronounced as 'kingd-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/kingdom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kingdom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Welcome to the United {{c1::Kingdom}}.",
+      "explanation": "<b>Full transcript:</b> kingdom<br><br><b>Connected form:</b> <i>kingd-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "reino",
-      "usage": "Written: <code>kingdom</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">kingd-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kingdom/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kingdom/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>kingd-m</code><br>Formal: <code>kingdom</code><br><a href=\"https://youglish.com/pronounce/kingdom/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kingdom/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cf0d4936b110c5e5",
+      "full_transcript": "kingdom",
+      "connected_form": "kingd-m",
+      "gap_text": "Welcome to the United {{c1::Kingdom}}.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/kingdom/english/us",
         "forvo_word": "https://forvo.com/word/kingdom/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "c6fa963f7cfbe9eb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/handsome/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/handsome/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is a {{c1::handsome}} young man.",
-      "explanation": "<b>Written:</b> handsome<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hands-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'handsome' pronounced as 'hands-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/handsome/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/handsome/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is a {{c1::handsome}} young man.",
+      "explanation": "<b>Full transcript:</b> handsome<br><br><b>Connected form:</b> <i>hands-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "guapo",
-      "usage": "Written: <code>handsome</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hands-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/handsome/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/handsome/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hands-m</code><br>Formal: <code>handsome</code><br><a href=\"https://youglish.com/pronounce/handsome/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/handsome/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c6fa963f7cfbe9eb",
+      "full_transcript": "handsome",
+      "connected_form": "hands-m",
+      "gap_text": "He is a {{c1::handsome}} young man.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/handsome/english/us",
         "forvo_word": "https://forvo.com/word/handsome/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "2e8c36d541f0f20c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/awesome/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/awesome/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That was an {{c1::awesome}} show.",
-      "explanation": "<b>Written:</b> awesome<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">awes-m</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'awesome' pronounced as 'awes-m'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/awesome/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/awesome/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That was an {{c1::awesome}} show.",
+      "explanation": "<b>Full transcript:</b> awesome<br><br><b>Connected form:</b> <i>awes-m</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "increíble",
-      "usage": "Written: <code>awesome</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">awes-m</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/awesome/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/awesome/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>awes-m</code><br>Formal: <code>awesome</code><br><a href=\"https://youglish.com/pronounce/awesome/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/awesome/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2e8c36d541f0f20c",
+      "full_transcript": "awesome",
+      "connected_form": "awes-m",
+      "gap_text": "That was an {{c1::awesome}} show.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/awesome/english/us",
         "forvo_word": "https://forvo.com/word/awesome/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "18ca296eb1ca2de3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Syllabic_Consonants 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bother/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bother/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::bother}} me.",
-      "explanation": "<b>Written:</b> bother<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">both-r</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bother' pronounced as 'both-r'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bother/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bother/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::bother}} me.",
+      "explanation": "<b>Full transcript:</b> bother<br><br><b>Connected form:</b> <i>both-r</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Syllabic Consonants</code></li></ul>",
       "spanish": "molestar",
-      "usage": "Written: <code>bother</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">both-r</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bother/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bother/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>both-r</code><br>Formal: <code>bother</code><br><a href=\"https://youglish.com/pronounce/bother/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bother/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "18ca296eb1ca2de3",
+      "full_transcript": "bother",
+      "connected_form": "both-r",
+      "gap_text": "Don't {{c1::bother}} me.",
+      "rules_applied": [
+        "Syllabic Consonants"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bother/english/us",
         "forvo_word": "https://forvo.com/word/bother/#en"

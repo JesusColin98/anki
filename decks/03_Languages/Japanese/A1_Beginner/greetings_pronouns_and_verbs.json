@@ -16,7 +16,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings and Farewells 🗣️",
       "text": "In Japanese, how do you say 'Good morning'? {{c1::おはようございます (Ohayō gozaimasu)}}",
-      "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+      "explanation": "This is the formal morning greeting. It is derived from the adjective <b>早い</b> (<i>hayai</i>, meaning 'early'). The prefix <b>お</b> (<i>o-</i>) and suffix <b>ございます</b> (<i>gozaimasu</i>) elevate the phrase to polite speech (Keigo). For friends and family, the shortened informal <b>おはよう</b> (<i>Ohayō</i>) is used.<br><br>🧠 <b>Mnemonic Scene:</b> Imagine waking up early to find a giant glowing <b>O-HAY</b> stack (Ohayō) sitting in a formal courtroom in front of a judge.",
       "spanish": "¿Cómo se dice 'Good morning' en Japanese? おはようございます (Ohayō gozaimasu)",
       "usage": "Term: <code>おはようございます (Ohayō gozaimasu)</code> | Meaning: Good morning"
     },
@@ -50,7 +50,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings and Farewells 🗣️",
       "text": "In Japanese, how do you say 'Hello / Good afternoon'? {{c1::こんにちは (Konnichiwa)}}",
-      "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+      "explanation": "Used as a general 'Hello' from late morning through afternoon. Historically, it was the start of a topic clause: <i>Kon-nichi wa...</i> (Today is...), where <b>wa</b> was followed by a wish. This is why the final sound is written with the hiragana particle <b>は</b> (<i>ha</i>) instead of <b>わ</b> (<i>wa</i>).<br><br>🧠 <b>Mnemonic Scene:</b> A huge clock pointing to <b>noon (nichi)</b> on a giant <b>cone (kon)</b>, greeting everyone who passes by.",
       "spanish": "¿Cómo se dice 'Hello / Good afternoon' en Japanese? こんにちは (Konnichiwa)",
       "usage": "Term: <code>こんにちは (Konnichiwa)</code> | Meaning: Hello / Good afternoon"
     },
@@ -84,7 +84,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings and Farewells 🗣️",
       "text": "In Japanese, how do you say 'Good evening'? {{c1::こんばんは (Konbanwa)}}",
-      "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+      "explanation": "Used as a greeting when meeting someone in the evening. Similar to <i>Konnichiwa</i>, it was originally a topic clause: <i>Kon-ban wa...</i> (This evening is...), which is why the topic marker particle <b>は</b> (<i>ha</i>) is used to write the final 'wa' sound.<br><br>🧠 <b>Mnemonic Scene:</b> A giant <b>cone (kon)</b> holding a <b>banjo (ban)</b> under the starry evening sky, playing night tunes.",
       "spanish": "¿Cómo se dice 'Good evening' en Japanese? こんばんは (Konbanwa)",
       "usage": "Term: <code>こんばんは (Konbanwa)</code> | Meaning: Good evening"
     },
@@ -118,7 +118,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings and Farewells 🗣️",
       "text": "In Japanese, how do you say 'Goodbye'? {{c1::さようなら (Sayōnara)}}",
-      "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+      "explanation": "A formal farewell that carries weight. It implies a long separation, similar to 'Farewell' or 'Adieu' in English, and is generally avoided in daily workplaces because it can sound like you won't see each other again. With classmates or coworkers, use informal parting phrases like <i>mata ne</i> or <i>jā ne</i>.<br><br>🧠 <b>Mnemonic Scene:</b> A traveler waving goodbye from a ship, throwing a giant <b>SA-YO-NARA</b> banner into the ocean.",
       "spanish": "¿Cómo se dice 'Goodbye' en Japanese? さようなら (Sayōnara)",
       "usage": "Term: <code>さようなら (Sayōnara)</code> | Meaning: Goodbye"
     },
@@ -152,7 +152,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings and Farewells 🗣️",
       "text": "In Japanese, how do you say 'Nice to meet you'? {{c1::はじめまして (Hajimemashite)}}",
-      "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+      "explanation": "Derived from the verb <b>始める</b> (<i>hajimeru</i>, meaning 'to begin' or 'to start'). It literally means 'it is beginning [for the first time]'. It is used strictly at the very beginning of a self-introduction when meeting someone for the first time.<br><br>🧠 <b>Mnemonic Scene:</b> Two runners at the <b>start line (hajime)</b> of a race, shaking hands and saying 'Nice to meet you' before the whistle blows.",
       "spanish": "¿Cómo se dice 'Nice to meet you' en Japanese? はじめまして (Hajimemashite)",
       "usage": "Term: <code>はじめまして (Hajimemashite)</code> | Meaning: Nice to meet you"
     },
@@ -186,7 +186,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings and Farewells 🗣️",
       "text": "In Japanese, how do you say 'Good night'? {{c1::おやすみなさい (Oyasumi nasai)}}",
-      "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+      "explanation": "Used when parting in the late evening or when going to bed. Derived from the verb <b>休む</b> (<i>yasumu</i>, meaning 'to rest' or 'to take a break'). The polite form adds the suffix <b>なさい</b> (<i>nasai</i>). For close friends and family, the casual <b>おやすみ</b> (<i>Oyasumi</i>) is standard.<br><br>🧠 <b>Mnemonic Scene:</b> A sleepy person resting in an <b>O-YASU (oasis)</b> at night, counting sheep that whisper 'nasai'.",
       "spanish": "¿Cómo se dice 'Good night' en Japanese? おやすみなさい (Oyasumi nasai)",
       "usage": "Term: <code>おやすみなさい (Oyasumi nasai)</code> | Meaning: Good night"
     },
@@ -220,7 +220,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings and Farewells 🗣️",
       "text": "In Japanese, how do you say 'See you / Bye - Informal'? {{c1::じゃあね (Jā ne)}}",
-      "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+      "explanation": "An extremely common, casual parting greeting used among close friends, family, and peers. <b>じゃあ</b> (<i>Jā</i>) is a contraction of <i>dewa</i> (well then), and <b>ね</b> (<i>ne</i>) is a friendly confirmation particle (like 'right?' or 'okay?').<br><br>🧠 <b>Mnemonic Scene:</b> Friends waving goodbye near a giant glass <b>JAR (jā)</b> filled with friendly smiley faces.",
       "spanish": "¿Cómo se dice 'See you / Bye - Informal' en Japanese? じゃあね (Jā ne)",
       "usage": "Term: <code>じゃあね (Jā ne)</code> | Meaning: See you / Bye - Informal"
     },
@@ -254,7 +254,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings 🇯🇵",
       "text": "In Japanese, the general greeting 'Hello' used in the afternoon is '{{c1::こんにちは}}' (Konnichiwa).",
-      "explanation": "Note that the final 'wa' sound is written with the hiragana 'ha' (は) because it historically starts a topic clause.",
+      "explanation": "This card emphasizes the spelling of the greeting. Although pronounced as 'wa', the final character is written using <b>は</b> (<i>ha</i>) because it acts as the grammatical topic marker particle. This stems from the phrase's historical origin as the beginning of a longer sentence: <i>Kon-nichi wa [gokigen ikaga desu ka]</i> (How are you doing today?).",
       "spanish": "En japonés, el saludo general 'Hola' en la tarde es 'こんにちは' (Konnichiwa).",
       "usage": "Term: <code>こんにちは (Konnichiwa)</code> | Use: Day greeting."
     },
@@ -288,7 +288,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings 🇯🇵",
       "text": "In Japanese, the polite way to say 'Good morning' is '{{c1::おはようございます}}' (Ohayou gozaimasu).",
-      "explanation": "Informally (with friends or family), you can simply say 'おはよう' (Ohayou).",
+      "explanation": "Represents the polite greeting used in the morning. In Japanese business culture, <i>Ohayou gozaimasu</i> is also used as the first greeting of the day when starting a shift, regardless of the actual time (even in the afternoon or night!).",
       "spanish": "¿Cómo se dice 'Buenos días' formalmente en japonés? おはようございます (Ohayou gozaimasu).",
       "usage": "Polite: <code>おはようございます</code> | Informal: <code>おはよう</code>"
     },
@@ -322,7 +322,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings 🇯🇵",
       "text": "In Japanese, how do you say 'Good evening'? {{c1::こんばんは}} (Konbanwa)",
-      "explanation": "Like Konnichiwa, the final 'wa' sound is written with the topic marker particle 'ha' (は).",
+      "explanation": "In this evening greeting, the final sound 'wa' is written as <b>は</b> (<i>ha</i>) because it was originally the topic particle in the clause: <i>Kon-ban wa [ikaga osugoshi desu ka]</i> (How is this evening treating you?). <b>今晩</b> (<i>konban</i>) means 'this evening' (今 = this, 晩 = evening).",
       "spanish": "¿Cómo se dice 'Buenas noches (al llegar)' en japonés? こんばんは (Konbanwa).",
       "usage": "Term: <code>こんばんは (Konbanwa)</code>"
     },
@@ -356,7 +356,7 @@
     "content": {
       "scenario": "Japanese A1: Greetings 🇯🇵",
       "text": "In Japanese, the polite way to say 'Good night' (when going to bed) is '{{c1::おやすみなさい}}' (Oyasuminasai).",
-      "explanation": "Informally, you can say 'おやすみ' (Oyasumi).",
+      "explanation": "Formed by the prefix <b>お</b> (honorific), <b>休み</b> (<i>yasumi</i>, rest/break), and <b>なさい</b> (polite command form). It literally translates to 'Please rest well'. Use <b>おやすみ</b> (<i>Oyasumi</i>) for children, peers, or family.",
       "spanish": "¿Cómo se dice 'Buenas noches (al despedirse o ir a dormir)' en japonés? おやすみなさい (Oyasuminasai).",
       "usage": "Polite: <code>おやすみなさい</code> | Informal: <code>おやすみ</code>"
     },
@@ -390,7 +390,7 @@
     "content": {
       "scenario": "Japanese A1: Goodbyes 🇯🇵",
       "text": "In Japanese, how do you say 'Goodbye' formally (implying a long separation)? {{c1::さようなら}} (Sayounara)",
-      "explanation": "Often avoided with coworkers or daily contacts because it implies a final or long farewell. Classrooms and friends use shorter, informal words.",
+      "explanation": "Historically derived from the phrase <b>左様ならば</b> (<i>sayō naraba</i>, meaning 'if that is the case' or 'well then'). Over time, it became a standardized farewell. In daily contexts, it is best to use <b>お疲れ様でした</b> (<i>Otsukaresama deshita</i>, thank you for your hard work) with coworkers.",
       "spanish": "¿Cómo se dice 'Adiós' formalmente en japonés? さようなら (Sayounara).",
       "usage": "Term: <code>さようなら</code> | Informal alternatives: <code>またね (See you)</code>, <code>じゃあね (Bye)</code>."
     },
@@ -424,7 +424,7 @@
     "content": {
       "scenario": "Japanese A1: Introductions 🇯🇵",
       "text": "In Japanese, when meeting someone for the first time, you start with the greeting '{{c1::はじめまして}}' (Hajimemashite), which means 'Nice to meet you'.",
-      "explanation": "Derived from the verb 'hajimeru' (to begin). Used strictly at the very beginning of a self-introduction.",
+      "explanation": "Derived from <b>始めまして</b> (from <i>hajimeru</i> - to begin). It signals that a new relationship is starting. Cultural note: It is always accompanied by a bow in Japan to show respect to the new acquaintance.",
       "spanish": "Al presentarse en japonés, se empieza con 'はじめまして' (Hajimemashite), que significa 'Encantado de conocerle'.",
       "usage": "Term: <code>はじめまして (Hajimemashite)</code>"
     },
@@ -458,7 +458,7 @@
     "content": {
       "scenario": "Japanese A1: Introductions 🇯🇵",
       "text": "In Japanese, at the end of a self-introduction, you say '{{c1::どうぞよろしくおねがいします}}' (Douzo yoroshiku onegaishimasu), which translates to 'Please be kind to me'.",
-      "explanation": "An essential cultural phrase showing respect and requesting a good relationship.",
+      "explanation": "A complex untranslatable phrase. <b>どうぞ</b> (<i>douzo</i>) means 'please/here you go', <b>よろしく</b> (<i>yoroshiku</i>) comes from <i>yoi</i> (good/favorable), and <b>お願いします</b> (<i>onegaishimasu</i>) means 'I make a request'. It literally means 'Please treat me favorably hereafter'.",
       "spanish": "Al final de una presentación en japonés, se dice 'どうぞよろしくおねがいします' (Douzo yoroshiku onegaishimasu), que equivale a 'Mucho gusto / Cuento con usted'.",
       "usage": "Term: <code>どうぞよろしくおねがいします</code> | Casual: <code>よろしく</code>"
     },
@@ -492,7 +492,7 @@
     "content": {
       "scenario": "Japanese A1: Politeness 🇯🇵",
       "text": "In Japanese, the polite way to say 'Please' (when asking for an action or object) is '{{c1::おねがいします}}' (Onegaishimasu) or '{{c2::ください}}' (Kudasai).",
-      "explanation": "Onegaishimasu is more formal and can be used on its own. Kudasai is appended to items or verbs in the -te form.",
+      "explanation": "Difference in requests: <b>お願いします</b> (<i>Onegaishimasu</i>) is 'I pray/beg you' (comes from <i>negau</i> - to pray/request). <b>ください</b> (<i>Kudasai</i>) is 'give me' (polite form of <i>kudaru</i> - to hand down). You can say <i>Onegaishimasu</i> to order something in a restaurant or ask for help, but <i>Kudasai</i> is more transactional (e.g. 'Coffee, please' -> <i>kōhī kudasai</i>).",
       "spanish": "En japonés, para decir 'Por favor', se usa 'おねがいします' (Onegaishimasu) o 'ください' (Kudasai).",
       "usage": "Examples: <code>お水をお願いします。</code> (Water, please.) | <code>これ、ください。</code> (This one, please.)"
     },

@@ -2,7 +2,7 @@
   {
     "id": "3aaa43e721a90d6c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/going%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/going/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I'm {{c1::going to}} leave.",
-      "explanation": "<b>Written:</b> going to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gonna</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'going to' pronounced as 'gonna'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/going%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/going/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I'm {{c1::going to}} leave.",
+      "explanation": "<b>Full transcript:</b> going to<br><br><b>Connected form:</b> <i>gonna</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "voy a",
-      "usage": "Written: <code>going to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gonna</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/going%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/going/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gonna</code><br>Formal: <code>going to</code><br><a href=\"https://youglish.com/pronounce/going%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/going/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "3aaa43e721a90d6c",
+      "full_transcript": "going to",
+      "connected_form": "gonna",
+      "gap_text": "I'm {{c1::going to}} leave.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/going%20to/english/us",
         "forvo_word": "https://forvo.com/word/going/#en"
@@ -42,7 +50,7 @@
   {
     "id": "1c13cda44a79e1c1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/want%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/want/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::want to}} go.",
-      "explanation": "<b>Written:</b> want to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wanna</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'want to' pronounced as 'wanna'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/want%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/want/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::want to}} go.",
+      "explanation": "<b>Full transcript:</b> want to<br><br><b>Connected form:</b> <i>wanna</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "quiero",
-      "usage": "Written: <code>want to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wanna</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/want%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/want/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wanna</code><br>Formal: <code>want to</code><br><a href=\"https://youglish.com/pronounce/want%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/want/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1c13cda44a79e1c1",
+      "full_transcript": "want to",
+      "connected_form": "wanna",
+      "gap_text": "I {{c1::want to}} go.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/want%20to/english/us",
         "forvo_word": "https://forvo.com/word/want/#en"
@@ -82,7 +98,7 @@
   {
     "id": "09625deb164dbbae",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/got%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/got/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I've {{c1::got to}} run.",
-      "explanation": "<b>Written:</b> got to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gotta</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'got to' pronounced as 'gotta'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/got%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/got/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I've {{c1::got to}} run.",
+      "explanation": "<b>Full transcript:</b> got to<br><br><b>Connected form:</b> <i>gotta</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "tengo que",
-      "usage": "Written: <code>got to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gotta</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/got%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/got/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gotta</code><br>Formal: <code>got to</code><br><a href=\"https://youglish.com/pronounce/got%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/got/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "09625deb164dbbae",
+      "full_transcript": "got to",
+      "connected_form": "gotta",
+      "gap_text": "I've {{c1::got to}} run.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/got%20to/english/us",
         "forvo_word": "https://forvo.com/word/got/#en"
@@ -122,7 +146,7 @@
   {
     "id": "8d1a10a7b404c25f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/have%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/have/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We {{c1::have to}} try.",
-      "explanation": "<b>Written:</b> have to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hafta</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'have to' pronounced as 'hafta'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/have%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/have/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We {{c1::have to}} try.",
+      "explanation": "<b>Full transcript:</b> have to<br><br><b>Connected form:</b> <i>hafta</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "tenemos que",
-      "usage": "Written: <code>have to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hafta</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/have%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/have/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hafta</code><br>Formal: <code>have to</code><br><a href=\"https://youglish.com/pronounce/have%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/have/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8d1a10a7b404c25f",
+      "full_transcript": "have to",
+      "connected_form": "hafta",
+      "gap_text": "We {{c1::have to}} try.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/have%20to/english/us",
         "forvo_word": "https://forvo.com/word/have/#en"
@@ -162,7 +194,7 @@
   {
     "id": "2e348b9f7786db07",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ought%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ought/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>You {{c1::ought to}} see it.",
-      "explanation": "<b>Written:</b> ought to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">oughta</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'ought to' pronounced as 'oughta'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/ought%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ought/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>You {{c1::ought to}} see it.",
+      "explanation": "<b>Full transcript:</b> ought to<br><br><b>Connected form:</b> <i>oughta</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "deberías",
-      "usage": "Written: <code>ought to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">oughta</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ought%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ought/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>oughta</code><br>Formal: <code>ought to</code><br><a href=\"https://youglish.com/pronounce/ought%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ought/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2e348b9f7786db07",
+      "full_transcript": "ought to",
+      "connected_form": "oughta",
+      "gap_text": "You {{c1::ought to}} see it.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/ought%20to/english/us",
         "forvo_word": "https://forvo.com/word/ought/#en"
@@ -202,7 +242,7 @@
   {
     "id": "8112f6089b3987e2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kind%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's {{c1::kind of}} cold.",
-      "explanation": "<b>Written:</b> kind of<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">kinda</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'kind of' pronounced as 'kinda'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/kind%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's {{c1::kind of}} cold.",
+      "explanation": "<b>Full transcript:</b> kind of<br><br><b>Connected form:</b> <i>kinda</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "más o menos / un poco",
-      "usage": "Written: <code>kind of</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">kinda</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kind%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>kinda</code><br>Formal: <code>kind of</code><br><a href=\"https://youglish.com/pronounce/kind%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8112f6089b3987e2",
+      "full_transcript": "kind of",
+      "connected_form": "kinda",
+      "gap_text": "It's {{c1::kind of}} cold.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/kind%20of/english/us",
         "forvo_word": "https://forvo.com/word/kind/#en"
@@ -242,7 +290,7 @@
   {
     "id": "44b1576611d475d0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sort%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sort/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::sort of}} like it.",
-      "explanation": "<b>Written:</b> sort of<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sorta</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sort of' pronounced as 'sorta'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sort%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sort/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::sort of}} like it.",
+      "explanation": "<b>Full transcript:</b> sort of<br><br><b>Connected form:</b> <i>sorta</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "en cierta manera / algo",
-      "usage": "Written: <code>sort of</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sorta</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sort%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sort/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sorta</code><br>Formal: <code>sort of</code><br><a href=\"https://youglish.com/pronounce/sort%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sort/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "44b1576611d475d0",
+      "full_transcript": "sort of",
+      "connected_form": "sorta",
+      "gap_text": "I {{c1::sort of}} like it.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sort%20of/english/us",
         "forvo_word": "https://forvo.com/word/sort/#en"
@@ -282,7 +338,7 @@
   {
     "id": "825400614fe6b9e6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/out%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/out/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Get {{c1::out of}} here.",
-      "explanation": "<b>Written:</b> out of<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">outta</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'out of' pronounced as 'outta'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/out%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/out/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Get {{c1::out of}} here.",
+      "explanation": "<b>Full transcript:</b> out of<br><br><b>Connected form:</b> <i>outta</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "fuera de",
-      "usage": "Written: <code>out of</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">outta</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/out%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/out/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>outta</code><br>Formal: <code>out of</code><br><a href=\"https://youglish.com/pronounce/out%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/out/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "825400614fe6b9e6",
+      "full_transcript": "out of",
+      "connected_form": "outta",
+      "gap_text": "Get {{c1::out of}} here.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/out%20of/english/us",
         "forvo_word": "https://forvo.com/word/out/#en"
@@ -322,7 +386,7 @@
   {
     "id": "a0a20d34bdc27e58",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/let%20me/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/let/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Let me}} see.",
-      "explanation": "<b>Written:</b> let me<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">lemme</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'let me' pronounced as 'lemme'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/let%20me/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/let/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Let me}} see.",
+      "explanation": "<b>Full transcript:</b> let me<br><br><b>Connected form:</b> <i>lemme</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "déjame",
-      "usage": "Written: <code>let me</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">lemme</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/let%20me/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/let/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>lemme</code><br>Formal: <code>let me</code><br><a href=\"https://youglish.com/pronounce/let%20me/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/let/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a0a20d34bdc27e58",
+      "full_transcript": "let me",
+      "connected_form": "lemme",
+      "gap_text": "{{c1::Let me}} see.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/let%20me/english/us",
         "forvo_word": "https://forvo.com/word/let/#en"
@@ -362,7 +434,7 @@
   {
     "id": "ebe7d7ebbdf931c1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/give%20me/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/give/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Give me}} a break.",
-      "explanation": "<b>Written:</b> give me<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gimme</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'give me' pronounced as 'gimme'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/give%20me/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/give/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Give me}} a break.",
+      "explanation": "<b>Full transcript:</b> give me<br><br><b>Connected form:</b> <i>gimme</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "dame",
-      "usage": "Written: <code>give me</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gimme</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/give%20me/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/give/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gimme</code><br>Formal: <code>give me</code><br><a href=\"https://youglish.com/pronounce/give%20me/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/give/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ebe7d7ebbdf931c1",
+      "full_transcript": "give me",
+      "connected_form": "gimme",
+      "gap_text": "{{c1::Give me}} a break.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/give%20me/english/us",
         "forvo_word": "https://forvo.com/word/give/#en"
@@ -402,7 +482,7 @@
   {
     "id": "91c9b21decc09003",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/come%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/come/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Come on}}, let's go.",
-      "explanation": "<b>Written:</b> come on<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">c'mon</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'come on' pronounced as 'c'mon'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/come%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/come/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Come on}}, let's go.",
+      "explanation": "<b>Full transcript:</b> come on<br><br><b>Connected form:</b> <i>c'mon</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "vamos",
-      "usage": "Written: <code>come on</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">c'mon</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/come%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/come/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>c'mon</code><br>Formal: <code>come on</code><br><a href=\"https://youglish.com/pronounce/come%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/come/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "91c9b21decc09003",
+      "full_transcript": "come on",
+      "connected_form": "c'mon",
+      "gap_text": "{{c1::Come on}}, let's go.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/come%20on/english/us",
         "forvo_word": "https://forvo.com/word/come/#en"
@@ -442,7 +530,7 @@
   {
     "id": "7987d4362b9c65cb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/should%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/should/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>You {{c1::should have}} called.",
-      "explanation": "<b>Written:</b> should have<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">shoulda</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'should have' pronounced as 'shoulda'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/should%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/should/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>You {{c1::should have}} called.",
+      "explanation": "<b>Full transcript:</b> should have<br><br><b>Connected form:</b> <i>shoulda</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "deberías haber",
-      "usage": "Written: <code>should have</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">shoulda</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/should%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/should/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>shoulda</code><br>Formal: <code>should have</code><br><a href=\"https://youglish.com/pronounce/should%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/should/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7987d4362b9c65cb",
+      "full_transcript": "should have",
+      "connected_form": "shoulda",
+      "gap_text": "You {{c1::should have}} called.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/should%20have/english/us",
         "forvo_word": "https://forvo.com/word/should/#en"
@@ -482,7 +578,7 @@
   {
     "id": "dfc47f7c35afca05",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/would%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/would/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::would have}} come.",
-      "explanation": "<b>Written:</b> would have<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">woulda</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'would have' pronounced as 'woulda'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/would%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/would/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::would have}} come.",
+      "explanation": "<b>Full transcript:</b> would have<br><br><b>Connected form:</b> <i>woulda</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "habría",
-      "usage": "Written: <code>would have</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">woulda</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/would%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/would/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>woulda</code><br>Formal: <code>would have</code><br><a href=\"https://youglish.com/pronounce/would%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/would/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "dfc47f7c35afca05",
+      "full_transcript": "would have",
+      "connected_form": "woulda",
+      "gap_text": "I {{c1::would have}} come.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/would%20have/english/us",
         "forvo_word": "https://forvo.com/word/would/#en"
@@ -522,7 +626,7 @@
   {
     "id": "49d7ad62c1eb738a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/could%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/could/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We {{c1::could have}} helped.",
-      "explanation": "<b>Written:</b> could have<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">coulda</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'could have' pronounced as 'coulda'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/could%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/could/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We {{c1::could have}} helped.",
+      "explanation": "<b>Full transcript:</b> could have<br><br><b>Connected form:</b> <i>coulda</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "podríamos haber",
-      "usage": "Written: <code>could have</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">coulda</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/could%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/could/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>coulda</code><br>Formal: <code>could have</code><br><a href=\"https://youglish.com/pronounce/could%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/could/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "49d7ad62c1eb738a",
+      "full_transcript": "could have",
+      "connected_form": "coulda",
+      "gap_text": "We {{c1::could have}} helped.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/could%20have/english/us",
         "forvo_word": "https://forvo.com/word/could/#en"
@@ -562,7 +674,7 @@
   {
     "id": "30f31d99d502bb7d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/must%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/must/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He {{c1::must have}} left.",
-      "explanation": "<b>Written:</b> must have<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">musta</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'must have' pronounced as 'musta'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/must%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/must/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He {{c1::must have}} left.",
+      "explanation": "<b>Full transcript:</b> must have<br><br><b>Connected form:</b> <i>musta</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "debe haber",
-      "usage": "Written: <code>must have</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">musta</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/must%20have/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/must/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>musta</code><br>Formal: <code>must have</code><br><a href=\"https://youglish.com/pronounce/must%20have/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/must/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "30f31d99d502bb7d",
+      "full_transcript": "must have",
+      "connected_form": "musta",
+      "gap_text": "He {{c1::must have}} left.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/must%20have/english/us",
         "forvo_word": "https://forvo.com/word/must/#en"
@@ -602,7 +722,7 @@
   {
     "id": "d95620c9c0a256db",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/don%27t%20know/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::don't know}}.",
-      "explanation": "<b>Written:</b> don't know<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">dunno</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'don't know' pronounced as 'dunno'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/don%27t%20know/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::don't know}}.",
+      "explanation": "<b>Full transcript:</b> don't know<br><br><b>Connected form:</b> <i>dunno</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "no sé",
-      "usage": "Written: <code>don't know</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">dunno</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/don%27t%20know/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>dunno</code><br>Formal: <code>don't know</code><br><a href=\"https://youglish.com/pronounce/don%27t%20know/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d95620c9c0a256db",
+      "full_transcript": "don't know",
+      "connected_form": "dunno",
+      "gap_text": "I {{c1::don't know}}.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/don%27t%20know/english/us",
         "forvo_word": "https://forvo.com/word/don%27t/#en"
@@ -642,7 +770,7 @@
   {
     "id": "00aaef4565803436",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/what%20are%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/what/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::What are you}} doing?",
-      "explanation": "<b>Written:</b> what are you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">whatcha</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'what are you' pronounced as 'whatcha'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/what%20are%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/what/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::What are you}} doing?",
+      "explanation": "<b>Full transcript:</b> what are you<br><br><b>Connected form:</b> <i>whatcha</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "qué estás",
-      "usage": "Written: <code>what are you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">whatcha</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/what%20are%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/what/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>whatcha</code><br>Formal: <code>what are you</code><br><a href=\"https://youglish.com/pronounce/what%20are%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/what/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "00aaef4565803436",
+      "full_transcript": "what are you",
+      "connected_form": "whatcha",
+      "gap_text": "{{c1::What are you}} doing?",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/what%20are%20you/english/us",
         "forvo_word": "https://forvo.com/word/what/#en"
@@ -682,7 +818,7 @@
   {
     "id": "cc7d6a46e690ab02",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/supposed%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/supposed/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We are {{c1::supposed to}} start.",
-      "explanation": "<b>Written:</b> supposed to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">s'posed to</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'supposed to' pronounced as 's'posed to'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/supposed%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/supposed/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We are {{c1::supposed to}} start.",
+      "explanation": "<b>Full transcript:</b> supposed to<br><br><b>Connected form:</b> <i>s'posed to</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "se supone que debemos",
-      "usage": "Written: <code>supposed to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">s'posed to</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/supposed%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/supposed/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>s'posed to</code><br>Formal: <code>supposed to</code><br><a href=\"https://youglish.com/pronounce/supposed%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/supposed/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cc7d6a46e690ab02",
+      "full_transcript": "supposed to",
+      "connected_form": "s'posed to",
+      "gap_text": "We are {{c1::supposed to}} start.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/supposed%20to/english/us",
         "forvo_word": "https://forvo.com/word/supposed/#en"
@@ -722,7 +866,7 @@
   {
     "id": "9be2c6fa413e29f9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/used%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/used/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::used to}} swim.",
-      "explanation": "<b>Written:</b> used to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">used to</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'used to' pronounced as 'used to'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/used%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/used/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::used to}} swim.",
+      "explanation": "<b>Full transcript:</b> used to<br><br><b>Connected form:</b> <i>used to</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "solía",
-      "usage": "Written: <code>used to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">used to</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/used%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/used/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>used to</code><br>Formal: <code>used to</code><br><a href=\"https://youglish.com/pronounce/used%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/used/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9be2c6fa413e29f9",
+      "full_transcript": "used to",
+      "connected_form": "used to",
+      "gap_text": "I {{c1::used to}} swim.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/used%20to/english/us",
         "forvo_word": "https://forvo.com/word/used/#en"
@@ -762,7 +914,7 @@
   {
     "id": "2e702844e52959aa",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/has%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/has/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She {{c1::has to}} work.",
-      "explanation": "<b>Written:</b> has to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hasta</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'has to' pronounced as 'hasta'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/has%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/has/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She {{c1::has to}} work.",
+      "explanation": "<b>Full transcript:</b> has to<br><br><b>Connected form:</b> <i>hasta</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "tiene que",
-      "usage": "Written: <code>has to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hasta</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/has%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/has/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hasta</code><br>Formal: <code>has to</code><br><a href=\"https://youglish.com/pronounce/has%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/has/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2e702844e52959aa",
+      "full_transcript": "has to",
+      "connected_form": "hasta",
+      "gap_text": "She {{c1::has to}} work.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/has%20to/english/us",
         "forvo_word": "https://forvo.com/word/has/#en"
@@ -802,7 +962,7 @@
   {
     "id": "5b7558f0aca58b38",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/got%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/got/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::got you}}.",
-      "explanation": "<b>Written:</b> got you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gotcha</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'got you' pronounced as 'gotcha'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/got%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/got/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::got you}}.",
+      "explanation": "<b>Full transcript:</b> got you<br><br><b>Connected form:</b> <i>gotcha</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "te entendí / te pillé",
-      "usage": "Written: <code>got you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gotcha</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/got%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/got/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gotcha</code><br>Formal: <code>got you</code><br><a href=\"https://youglish.com/pronounce/got%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/got/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5b7558f0aca58b38",
+      "full_transcript": "got you",
+      "connected_form": "gotcha",
+      "gap_text": "I {{c1::got you}}.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/got%20you/english/us",
         "forvo_word": "https://forvo.com/word/got/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "fbbae75fa2f8e4fa",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/am%20going%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/am/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::am going to}} do it.",
-      "explanation": "<b>Written:</b> am going to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">imma</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'am going to' pronounced as 'imma'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/am%20going%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/am/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::am going to}} do it.",
+      "explanation": "<b>Full transcript:</b> am going to<br><br><b>Connected form:</b> <i>imma</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "voy a (jerga muy informal)",
-      "usage": "Written: <code>am going to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">imma</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/am%20going%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/am/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>imma</code><br>Formal: <code>am going to</code><br><a href=\"https://youglish.com/pronounce/am%20going%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/am/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fbbae75fa2f8e4fa",
+      "full_transcript": "am going to",
+      "connected_form": "imma",
+      "gap_text": "I {{c1::am going to}} do it.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/am%20going%20to/english/us",
         "forvo_word": "https://forvo.com/word/am/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "dd06bcb12c45ff01",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/how%20did%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/how/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::How did you}} do that?",
-      "explanation": "<b>Written:</b> how did you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">howdy</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'how did you' pronounced as 'howdy'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/how%20did%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/how/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::How did you}} do that?",
+      "explanation": "<b>Full transcript:</b> how did you<br><br><b>Connected form:</b> <i>howdy</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "cómo lo hiciste",
-      "usage": "Written: <code>how did you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">howdy</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/how%20did%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/how/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>howdy</code><br>Formal: <code>how did you</code><br><a href=\"https://youglish.com/pronounce/how%20did%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/how/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "dd06bcb12c45ff01",
+      "full_transcript": "how did you",
+      "connected_form": "howdy",
+      "gap_text": "{{c1::How did you}} do that?",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/how%20did%20you/english/us",
         "forvo_word": "https://forvo.com/word/how/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "16bf91400a00139b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bet%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::bet you}} can't.",
-      "explanation": "<b>Written:</b> bet you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">betcha</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bet you' pronounced as 'betcha'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bet%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bet/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::bet you}} can't.",
+      "explanation": "<b>Full transcript:</b> bet you<br><br><b>Connected form:</b> <i>betcha</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "te apuesto que",
-      "usage": "Written: <code>bet you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">betcha</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bet%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>betcha</code><br>Formal: <code>bet you</code><br><a href=\"https://youglish.com/pronounce/bet%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bet/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "16bf91400a00139b",
+      "full_transcript": "bet you",
+      "connected_form": "betcha",
+      "gap_text": "I {{c1::bet you}} can't.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bet%20you/english/us",
         "forvo_word": "https://forvo.com/word/bet/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "53ccab0c9ea6f059",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/don%27t%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Don't you}} think?",
-      "explanation": "<b>Written:</b> don't you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">dontcha</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'don't you' pronounced as 'dontcha'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/don%27t%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Don't you}} think?",
+      "explanation": "<b>Full transcript:</b> don't you<br><br><b>Connected form:</b> <i>dontcha</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "no crees",
-      "usage": "Written: <code>don't you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">dontcha</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/don%27t%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>dontcha</code><br>Formal: <code>don't you</code><br><a href=\"https://youglish.com/pronounce/don%27t%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "53ccab0c9ea6f059",
+      "full_transcript": "don't you",
+      "connected_form": "dontcha",
+      "gap_text": "{{c1::Don't you}} think?",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/don%27t%20you/english/us",
         "forvo_word": "https://forvo.com/word/don%27t/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "645ba15f4be9ddd6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/did%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/did/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Did you}} go?",
-      "explanation": "<b>Written:</b> did you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">didja</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'did you' pronounced as 'didja'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/did%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/did/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Did you}} go?",
+      "explanation": "<b>Full transcript:</b> did you<br><br><b>Connected form:</b> <i>didja</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "fuiste",
-      "usage": "Written: <code>did you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">didja</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/did%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/did/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>didja</code><br>Formal: <code>did you</code><br><a href=\"https://youglish.com/pronounce/did%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/did/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "645ba15f4be9ddd6",
+      "full_transcript": "did you",
+      "connected_form": "didja",
+      "gap_text": "{{c1::Did you}} go?",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/did%20you/english/us",
         "forvo_word": "https://forvo.com/word/did/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "c017beade5aba898",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/what%20do%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/what/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::What do you}} mean?",
-      "explanation": "<b>Written:</b> what do you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">whaddya</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'what do you' pronounced as 'whaddya'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/what%20do%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/what/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::What do you}} mean?",
+      "explanation": "<b>Full transcript:</b> what do you<br><br><b>Connected form:</b> <i>whaddya</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "qué quieres decir / qué",
-      "usage": "Written: <code>what do you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">whaddya</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/what%20do%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/what/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>whaddya</code><br>Formal: <code>what do you</code><br><a href=\"https://youglish.com/pronounce/what%20do%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/what/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c017beade5aba898",
+      "full_transcript": "what do you",
+      "connected_form": "whaddya",
+      "gap_text": "{{c1::What do you}} mean?",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/what%20do%20you/english/us",
         "forvo_word": "https://forvo.com/word/what/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "869555cd54539100",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/out%20of%20town/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/out/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is {{c1::out of town}}.",
-      "explanation": "<b>Written:</b> out of town<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">outta town</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'out of town' pronounced as 'outta town'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/out%20of%20town/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/out/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is {{c1::out of town}}.",
+      "explanation": "<b>Full transcript:</b> out of town<br><br><b>Connected form:</b> <i>outta town</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "fuera de la ciudad",
-      "usage": "Written: <code>out of town</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">outta town</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/out%20of%20town/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/out/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>outta town</code><br>Formal: <code>out of town</code><br><a href=\"https://youglish.com/pronounce/out%20of%20town/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/out/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "869555cd54539100",
+      "full_transcript": "out of town",
+      "connected_form": "outta town",
+      "gap_text": "He is {{c1::out of town}}.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/out%20of%20town/english/us",
         "forvo_word": "https://forvo.com/word/out/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "befa47eb98afc53f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/a%20lot%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/a/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That is {{c1::a lot of}} work.",
-      "explanation": "<b>Written:</b> a lot of<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">alotta</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'a lot of' pronounced as 'alotta'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/a%20lot%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/a/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That is {{c1::a lot of}} work.",
+      "explanation": "<b>Full transcript:</b> a lot of<br><br><b>Connected form:</b> <i>alotta</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "mucho",
-      "usage": "Written: <code>a lot of</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">alotta</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/a%20lot%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/a/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>alotta</code><br>Formal: <code>a lot of</code><br><a href=\"https://youglish.com/pronounce/a%20lot%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/a/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "befa47eb98afc53f",
+      "full_transcript": "a lot of",
+      "connected_form": "alotta",
+      "gap_text": "That is {{c1::a lot of}} work.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/a%20lot%20of/english/us",
         "forvo_word": "https://forvo.com/word/a/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "1360ae2eeed0a56c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Lexical_Chunks 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/out%20of%20control/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/out/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It got {{c1::out of control}}.",
-      "explanation": "<b>Written:</b> out of control<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">outta control</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'out of control' pronounced as 'outta control'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/out%20of%20control/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/out/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It got {{c1::out of control}}.",
+      "explanation": "<b>Full transcript:</b> out of control<br><br><b>Connected form:</b> <i>outta control</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Lexical Chunks</code></li></ul>",
       "spanish": "fuera de control",
-      "usage": "Written: <code>out of control</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">outta control</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/out%20of%20control/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/out/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>outta control</code><br>Formal: <code>out of control</code><br><a href=\"https://youglish.com/pronounce/out%20of%20control/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/out/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1360ae2eeed0a56c",
+      "full_transcript": "out of control",
+      "connected_form": "outta control",
+      "gap_text": "It got {{c1::out of control}}.",
+      "rules_applied": [
+        "Lexical Chunks"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/out%20of%20control/english/us",
         "forvo_word": "https://forvo.com/word/out/#en"

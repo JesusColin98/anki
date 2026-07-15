@@ -58,21 +58,6 @@
       "cards_count": 5
     },
     {
-      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::14_security_privacy_and_adversarial_ai.json::14_Security_Privacy_And_Adversarial_Ai",
-      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/14_security_privacy_and_adversarial_ai.json",
-      "cards_count": 6
-    },
-    {
-      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::15_experimentation_data_pipelines_and_feature_stores.json::15_Experimentation_Data_Pipelines_And_Feature_Stores",
-      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/15_experimentation_data_pipelines_and_feature_stores.json",
-      "cards_count": 8
-    },
-    {
-      "deck": "02_AI_and_Data_Science::08_Advanced_AI_Engineering::18_ml_system_design_and_platforms.json::18_Ml_System_Design_And_Platforms",
-      "path": "decks/02_AI_and_Data_Science/08_Advanced_AI_Engineering/18_ml_system_design_and_platforms.json",
-      "cards_count": 9
-    },
-    {
       "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/Agentic_Systems/adk_framework_core.json",
       "cards_count": 31
@@ -86,6 +71,11 @@
       "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/Classical_and_Deep_Learning/statistical_ml_and_neural_nets.json",
       "cards_count": 115
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Engineering::Data_Pipelines::Experimentation_Data_Pipelines_And_Feature_Stores",
+      "path": "decks/02_AI_and_Data_Science/AI_Engineering/Data_Pipelines/experimentation_data_pipelines_and_feature_stores.json",
+      "cards_count": 8
     },
     {
       "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Fine_Tuning_And_Adaptation",
@@ -108,6 +98,16 @@
       "cards_count": 79
     },
     {
+      "deck": "02_AI_and_Data_Science::AI_Engineering::Security_And_Privacy::Security_Privacy_And_Adversarial_Ai",
+      "path": "decks/02_AI_and_Data_Science/AI_Engineering/Security_And_Privacy/security_privacy_and_adversarial_ai.json",
+      "cards_count": 6
+    },
+    {
+      "deck": "02_AI_and_Data_Science::AI_Engineering::System_Design::Ml_System_Design_And_Platforms",
+      "path": "decks/02_AI_and_Data_Science/AI_Engineering/System_Design/ml_system_design_and_platforms.json",
+      "cards_count": 9
+    },
+    {
       "deck": "02_AI_and_Data_Science::Governance_and_Strategy::Product_Strategy::Ai_Adoption_And_System_Design",
       "path": "decks/02_AI_and_Data_Science/Governance_and_Strategy/Product_Strategy/ai_adoption_and_system_design.json",
       "cards_count": 4
@@ -118,14 +118,14 @@
       "cards_count": 11
     },
     {
+      "deck": "02_AI_and_Data_Science::MLOps_and_LLMOps::Governance::Mlops_Guardrails",
+      "path": "decks/02_AI_and_Data_Science/MLOps_and_LLMOps/Governance/mlops_guardrails.json",
+      "cards_count": 10
+    },
+    {
       "deck": "02_AI_and_Data_Science::MLOps_and_LLMOps::Operations::Pipelines_And_Observability",
       "path": "decks/02_AI_and_Data_Science/MLOps_and_LLMOps/Operations/pipelines_and_observability.json",
       "cards_count": 13
-    },
-    {
-      "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
-      "path": "decks/02_AI_and_Data_Science/Tech_Map_2026/06_mlops_guardrails.json",
-      "cards_count": 10
     },
     {
       "deck": "03_Languages::Chinese::A1_Beginner::Greetings_Pronouns_And_Verbs",
@@ -348,14 +348,14 @@
       "cards_count": 24
     },
     {
-      "deck": "04_Social_and_Humanities::Books::05_philosophy_meaning.json::05_Philosophy_Meaning",
-      "path": "decks/04_Social_and_Humanities/Books/05_philosophy_meaning.json",
-      "cards_count": 3
-    },
-    {
       "deck": "04_Social_and_Humanities::Philosophy::Applied_Stoicism::Stoic_Principles_And_Daily_Practice",
       "path": "decks/04_Social_and_Humanities/Philosophy/Applied_Stoicism/stoic_principles_and_daily_practice.json",
       "cards_count": 10
+    },
+    {
+      "deck": "04_Social_and_Humanities::Philosophy::Book_Summaries::Philosophy_Of_Meaning",
+      "path": "decks/04_Social_and_Humanities/Philosophy/Book_Summaries/philosophy_of_meaning.json",
+      "cards_count": 3
     },
     {
       "deck": "04_Social_and_Humanities::Philosophy::Foundations_and_Schools::Classical_Greek_And_Eastern",

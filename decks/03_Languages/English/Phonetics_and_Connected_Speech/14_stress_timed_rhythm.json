@@ -2,7 +2,7 @@
   {
     "id": "66e331b822c4d3ec",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cats%20chase%20mice/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cats/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Cats chase mice}}.",
-      "explanation": "<b>Written:</b> cats chase mice<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">CATS CHASE MICE</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cats chase mice' pronounced as 'CATS CHASE MICE'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cats%20chase%20mice/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cats/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Cats chase mice}}.",
+      "explanation": "<b>Full transcript:</b> cats chase mice<br><br><b>Connected form:</b> <i>CATS CHASE MICE</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los gatos persiguen ratones",
-      "usage": "Written: <code>cats chase mice</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">CATS CHASE MICE</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cats%20chase%20mice/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cats/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>CATS CHASE MICE</code><br>Formal: <code>cats chase mice</code><br><a href=\"https://youglish.com/pronounce/cats%20chase%20mice/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cats/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "66e331b822c4d3ec",
+      "full_transcript": "cats chase mice",
+      "connected_form": "CATS CHASE MICE",
+      "gap_text": "{{c1::Cats chase mice}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cats%20chase%20mice/english/us",
         "forvo_word": "https://forvo.com/word/cats/#en"
@@ -42,7 +50,7 @@
   {
     "id": "62dd8c4136ddb6c0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/dogs%20bark%20loud/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/dogs/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Dogs bark loud}}.",
-      "explanation": "<b>Written:</b> dogs bark loud<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">DOGS BARK LOUD</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'dogs bark loud' pronounced as 'DOGS BARK LOUD'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/dogs%20bark%20loud/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/dogs/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Dogs bark loud}}.",
+      "explanation": "<b>Full transcript:</b> dogs bark loud<br><br><b>Connected form:</b> <i>DOGS BARK LOUD</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los perros ladran fuerte",
-      "usage": "Written: <code>dogs bark loud</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">DOGS BARK LOUD</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/dogs%20bark%20loud/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/dogs/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>DOGS BARK LOUD</code><br>Formal: <code>dogs bark loud</code><br><a href=\"https://youglish.com/pronounce/dogs%20bark%20loud/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/dogs/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "62dd8c4136ddb6c0",
+      "full_transcript": "dogs bark loud",
+      "connected_form": "DOGS BARK LOUD",
+      "gap_text": "{{c1::Dogs bark loud}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/dogs%20bark%20loud/english/us",
         "forvo_word": "https://forvo.com/word/dogs/#en"
@@ -82,7 +98,7 @@
   {
     "id": "a7491356b6f8db5e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/birds%20sing%20sweet/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/birds/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Birds sing sweet}}.",
-      "explanation": "<b>Written:</b> birds sing sweet<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">BIRDS SING SWEET</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'birds sing sweet' pronounced as 'BIRDS SING SWEET'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/birds%20sing%20sweet/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/birds/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Birds sing sweet}}.",
+      "explanation": "<b>Full transcript:</b> birds sing sweet<br><br><b>Connected form:</b> <i>BIRDS SING SWEET</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los pájaros cantan dulce",
-      "usage": "Written: <code>birds sing sweet</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">BIRDS SING SWEET</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/birds%20sing%20sweet/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/birds/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>BIRDS SING SWEET</code><br>Formal: <code>birds sing sweet</code><br><a href=\"https://youglish.com/pronounce/birds%20sing%20sweet/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/birds/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a7491356b6f8db5e",
+      "full_transcript": "birds sing sweet",
+      "connected_form": "BIRDS SING SWEET",
+      "gap_text": "{{c1::Birds sing sweet}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/birds%20sing%20sweet/english/us",
         "forvo_word": "https://forvo.com/word/birds/#en"
@@ -122,7 +146,7 @@
   {
     "id": "5eb0934dfec4081b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fish%20swim%20fast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fish/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Fish swim fast}}.",
-      "explanation": "<b>Written:</b> fish swim fast<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">FISH SWIM FAST</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'fish swim fast' pronounced as 'FISH SWIM FAST'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/fish%20swim%20fast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fish/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Fish swim fast}}.",
+      "explanation": "<b>Full transcript:</b> fish swim fast<br><br><b>Connected form:</b> <i>FISH SWIM FAST</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los peces nadan rápido",
-      "usage": "Written: <code>fish swim fast</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">FISH SWIM FAST</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fish%20swim%20fast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fish/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>FISH SWIM FAST</code><br>Formal: <code>fish swim fast</code><br><a href=\"https://youglish.com/pronounce/fish%20swim%20fast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fish/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "5eb0934dfec4081b",
+      "full_transcript": "fish swim fast",
+      "connected_form": "FISH SWIM FAST",
+      "gap_text": "{{c1::Fish swim fast}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/fish%20swim%20fast/english/us",
         "forvo_word": "https://forvo.com/word/fish/#en"
@@ -162,7 +194,7 @@
   {
     "id": "bcd49456f9ad46f2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kids%20play%20outside/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kids/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Kids play outside}}.",
-      "explanation": "<b>Written:</b> kids play outside<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">KIDS PLAY OUTSIDE</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'kids play outside' pronounced as 'KIDS PLAY OUTSIDE'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/kids%20play%20outside/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kids/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Kids play outside}}.",
+      "explanation": "<b>Full transcript:</b> kids play outside<br><br><b>Connected form:</b> <i>KIDS PLAY OUTSIDE</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los niños juegan afuera",
-      "usage": "Written: <code>kids play outside</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">KIDS PLAY OUTSIDE</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/kids%20play%20outside/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/kids/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>KIDS PLAY OUTSIDE</code><br>Formal: <code>kids play outside</code><br><a href=\"https://youglish.com/pronounce/kids%20play%20outside/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/kids/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "bcd49456f9ad46f2",
+      "full_transcript": "kids play outside",
+      "connected_form": "KIDS PLAY OUTSIDE",
+      "gap_text": "{{c1::Kids play outside}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/kids%20play%20outside/english/us",
         "forvo_word": "https://forvo.com/word/kids/#en"
@@ -202,7 +242,7 @@
   {
     "id": "c9a2c8dcbda9227b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cars%20drive%20quick/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cars/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Cars drive quick}}.",
-      "explanation": "<b>Written:</b> cars drive quick<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">CARS DRIVE QUICK</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cars drive quick' pronounced as 'CARS DRIVE QUICK'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cars%20drive%20quick/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cars/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Cars drive quick}}.",
+      "explanation": "<b>Full transcript:</b> cars drive quick<br><br><b>Connected form:</b> <i>CARS DRIVE QUICK</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los coches conducen rápido",
-      "usage": "Written: <code>cars drive quick</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">CARS DRIVE QUICK</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cars%20drive%20quick/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cars/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>CARS DRIVE QUICK</code><br>Formal: <code>cars drive quick</code><br><a href=\"https://youglish.com/pronounce/cars%20drive%20quick/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cars/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c9a2c8dcbda9227b",
+      "full_transcript": "cars drive quick",
+      "connected_form": "CARS DRIVE QUICK",
+      "gap_text": "{{c1::Cars drive quick}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cars%20drive%20quick/english/us",
         "forvo_word": "https://forvo.com/word/cars/#en"
@@ -242,7 +290,7 @@
   {
     "id": "54455c72e215bb1b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/planes%20fly%20high/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/planes/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Planes fly high}}.",
-      "explanation": "<b>Written:</b> planes fly high<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">PLANES FLY HIGH</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'planes fly high' pronounced as 'PLANES FLY HIGH'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/planes%20fly%20high/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/planes/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Planes fly high}}.",
+      "explanation": "<b>Full transcript:</b> planes fly high<br><br><b>Connected form:</b> <i>PLANES FLY HIGH</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los aviones vuelan alto",
-      "usage": "Written: <code>planes fly high</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">PLANES FLY HIGH</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/planes%20fly%20high/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/planes/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>PLANES FLY HIGH</code><br>Formal: <code>planes fly high</code><br><a href=\"https://youglish.com/pronounce/planes%20fly%20high/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/planes/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "54455c72e215bb1b",
+      "full_transcript": "planes fly high",
+      "connected_form": "PLANES FLY HIGH",
+      "gap_text": "{{c1::Planes fly high}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/planes%20fly%20high/english/us",
         "forvo_word": "https://forvo.com/word/planes/#en"
@@ -282,7 +338,7 @@
   {
     "id": "d62f31c273020fc4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/clocks%20tick%20slow/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/clocks/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Clocks tick slow}}.",
-      "explanation": "<b>Written:</b> clocks tick slow<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">CLOCKS TICK SLOW</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'clocks tick slow' pronounced as 'CLOCKS TICK SLOW'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/clocks%20tick%20slow/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/clocks/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Clocks tick slow}}.",
+      "explanation": "<b>Full transcript:</b> clocks tick slow<br><br><b>Connected form:</b> <i>CLOCKS TICK SLOW</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los relojes marcan lento",
-      "usage": "Written: <code>clocks tick slow</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">CLOCKS TICK SLOW</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/clocks%20tick%20slow/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/clocks/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>CLOCKS TICK SLOW</code><br>Formal: <code>clocks tick slow</code><br><a href=\"https://youglish.com/pronounce/clocks%20tick%20slow/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/clocks/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d62f31c273020fc4",
+      "full_transcript": "clocks tick slow",
+      "connected_form": "CLOCKS TICK SLOW",
+      "gap_text": "{{c1::Clocks tick slow}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/clocks%20tick%20slow/english/us",
         "forvo_word": "https://forvo.com/word/clocks/#en"
@@ -322,7 +386,7 @@
   {
     "id": "8a67c01d38975175",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/winds%20blow%20hard/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/winds/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Winds blow hard}}.",
-      "explanation": "<b>Written:</b> winds blow hard<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">WINDS BLOW HARD</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'winds blow hard' pronounced as 'WINDS BLOW HARD'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/winds%20blow%20hard/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/winds/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Winds blow hard}}.",
+      "explanation": "<b>Full transcript:</b> winds blow hard<br><br><b>Connected form:</b> <i>WINDS BLOW HARD</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los vientos soplan fuerte",
-      "usage": "Written: <code>winds blow hard</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">WINDS BLOW HARD</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/winds%20blow%20hard/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/winds/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>WINDS BLOW HARD</code><br>Formal: <code>winds blow hard</code><br><a href=\"https://youglish.com/pronounce/winds%20blow%20hard/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/winds/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8a67c01d38975175",
+      "full_transcript": "winds blow hard",
+      "connected_form": "WINDS BLOW HARD",
+      "gap_text": "{{c1::Winds blow hard}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/winds%20blow%20hard/english/us",
         "forvo_word": "https://forvo.com/word/winds/#en"
@@ -362,7 +434,7 @@
   {
     "id": "f52b4821bc8a4f31",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rains%20fall%20down/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rains/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Rains fall down}}.",
-      "explanation": "<b>Written:</b> rains fall down<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">RAINS FALL DOWN</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'rains fall down' pronounced as 'RAINS FALL DOWN'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/rains%20fall%20down/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rains/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Rains fall down}}.",
+      "explanation": "<b>Full transcript:</b> rains fall down<br><br><b>Connected form:</b> <i>RAINS FALL DOWN</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Las lluvias caen",
-      "usage": "Written: <code>rains fall down</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">RAINS FALL DOWN</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rains%20fall%20down/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rains/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>RAINS FALL DOWN</code><br>Formal: <code>rains fall down</code><br><a href=\"https://youglish.com/pronounce/rains%20fall%20down/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rains/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f52b4821bc8a4f31",
+      "full_transcript": "rains fall down",
+      "connected_form": "RAINS FALL DOWN",
+      "gap_text": "{{c1::Rains fall down}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/rains%20fall%20down/english/us",
         "forvo_word": "https://forvo.com/word/rains/#en"
@@ -402,7 +482,7 @@
   {
     "id": "7154a685775e7412",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/snows%20melt%20fast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/snows/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Snows melt fast}}.",
-      "explanation": "<b>Written:</b> snows melt fast<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">SNOWS MELT FAST</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'snows melt fast' pronounced as 'SNOWS MELT FAST'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/snows%20melt%20fast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/snows/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Snows melt fast}}.",
+      "explanation": "<b>Full transcript:</b> snows melt fast<br><br><b>Connected form:</b> <i>SNOWS MELT FAST</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Las nieves se derriten rápido",
-      "usage": "Written: <code>snows melt fast</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">SNOWS MELT FAST</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/snows%20melt%20fast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/snows/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>SNOWS MELT FAST</code><br>Formal: <code>snows melt fast</code><br><a href=\"https://youglish.com/pronounce/snows%20melt%20fast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/snows/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7154a685775e7412",
+      "full_transcript": "snows melt fast",
+      "connected_form": "SNOWS MELT FAST",
+      "gap_text": "{{c1::Snows melt fast}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/snows%20melt%20fast/english/us",
         "forvo_word": "https://forvo.com/word/snows/#en"
@@ -442,7 +530,7 @@
   {
     "id": "afff693dcd1922b3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/stars%20shine%20bright/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/stars/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Stars shine bright}}.",
-      "explanation": "<b>Written:</b> stars shine bright<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">STARS SHINE BRIGHT</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'stars shine bright' pronounced as 'STARS SHINE BRIGHT'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/stars%20shine%20bright/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/stars/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Stars shine bright}}.",
+      "explanation": "<b>Full transcript:</b> stars shine bright<br><br><b>Connected form:</b> <i>STARS SHINE BRIGHT</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Las estrellas brillan fuerte",
-      "usage": "Written: <code>stars shine bright</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">STARS SHINE BRIGHT</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/stars%20shine%20bright/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/stars/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>STARS SHINE BRIGHT</code><br>Formal: <code>stars shine bright</code><br><a href=\"https://youglish.com/pronounce/stars%20shine%20bright/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/stars/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "afff693dcd1922b3",
+      "full_transcript": "stars shine bright",
+      "connected_form": "STARS SHINE BRIGHT",
+      "gap_text": "{{c1::Stars shine bright}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/stars%20shine%20bright/english/us",
         "forvo_word": "https://forvo.com/word/stars/#en"
@@ -482,7 +578,7 @@
   {
     "id": "a0f7e2aa8c23b361",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fires%20burn%20hot/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fires/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Fires burn hot}}.",
-      "explanation": "<b>Written:</b> fires burn hot<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">FIRES BURN HOT</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'fires burn hot' pronounced as 'FIRES BURN HOT'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/fires%20burn%20hot/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fires/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Fires burn hot}}.",
+      "explanation": "<b>Full transcript:</b> fires burn hot<br><br><b>Connected form:</b> <i>FIRES BURN HOT</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los fuegos queman caliente",
-      "usage": "Written: <code>fires burn hot</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">FIRES BURN HOT</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fires%20burn%20hot/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fires/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>FIRES BURN HOT</code><br>Formal: <code>fires burn hot</code><br><a href=\"https://youglish.com/pronounce/fires%20burn%20hot/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fires/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a0f7e2aa8c23b361",
+      "full_transcript": "fires burn hot",
+      "connected_form": "FIRES BURN HOT",
+      "gap_text": "{{c1::Fires burn hot}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/fires%20burn%20hot/english/us",
         "forvo_word": "https://forvo.com/word/fires/#en"
@@ -522,7 +626,7 @@
   {
     "id": "0f48e75875c797b9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ice%20feels%20cold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ice/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Ice feels cold}}.",
-      "explanation": "<b>Written:</b> ice feels cold<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ICE FEELS COLD</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'ice feels cold' pronounced as 'ICE FEELS COLD'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/ice%20feels%20cold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ice/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Ice feels cold}}.",
+      "explanation": "<b>Full transcript:</b> ice feels cold<br><br><b>Connected form:</b> <i>ICE FEELS COLD</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "El hielo se siente frío",
-      "usage": "Written: <code>ice feels cold</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ICE FEELS COLD</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/ice%20feels%20cold/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/ice/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ICE FEELS COLD</code><br>Formal: <code>ice feels cold</code><br><a href=\"https://youglish.com/pronounce/ice%20feels%20cold/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/ice/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0f48e75875c797b9",
+      "full_transcript": "ice feels cold",
+      "connected_form": "ICE FEELS COLD",
+      "gap_text": "{{c1::Ice feels cold}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/ice%20feels%20cold/english/us",
         "forvo_word": "https://forvo.com/word/ice/#en"
@@ -562,7 +674,7 @@
   {
     "id": "b92c00134a56472c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/time%20flies%20past/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/time/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Time flies past}}.",
-      "explanation": "<b>Written:</b> time flies past<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">TIME FLIES PAST</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'time flies past' pronounced as 'TIME FLIES PAST'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/time%20flies%20past/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/time/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Time flies past}}.",
+      "explanation": "<b>Full transcript:</b> time flies past<br><br><b>Connected form:</b> <i>TIME FLIES PAST</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "El tiempo vuela rápido",
-      "usage": "Written: <code>time flies past</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">TIME FLIES PAST</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/time%20flies%20past/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/time/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>TIME FLIES PAST</code><br>Formal: <code>time flies past</code><br><a href=\"https://youglish.com/pronounce/time%20flies%20past/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/time/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b92c00134a56472c",
+      "full_transcript": "time flies past",
+      "connected_form": "TIME FLIES PAST",
+      "gap_text": "{{c1::Time flies past}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/time%20flies%20past/english/us",
         "forvo_word": "https://forvo.com/word/time/#en"
@@ -602,7 +722,7 @@
   {
     "id": "59e08513440bf43a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/work%20gets%20done/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/work/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Work gets done}}.",
-      "explanation": "<b>Written:</b> work gets done<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">WORK GETS DONE</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'work gets done' pronounced as 'WORK GETS DONE'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/work%20gets%20done/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/work/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Work gets done}}.",
+      "explanation": "<b>Full transcript:</b> work gets done<br><br><b>Connected form:</b> <i>WORK GETS DONE</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "El trabajo se hace",
-      "usage": "Written: <code>work gets done</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">WORK GETS DONE</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/work%20gets%20done/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/work/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>WORK GETS DONE</code><br>Formal: <code>work gets done</code><br><a href=\"https://youglish.com/pronounce/work%20gets%20done/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/work/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "59e08513440bf43a",
+      "full_transcript": "work gets done",
+      "connected_form": "WORK GETS DONE",
+      "gap_text": "{{c1::Work gets done}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/work%20gets%20done/english/us",
         "forvo_word": "https://forvo.com/word/work/#en"
@@ -642,7 +770,7 @@
   {
     "id": "df0fcd054085396b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/life%20goes%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/life/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Life goes on}}.",
-      "explanation": "<b>Written:</b> life goes on<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">LIFE GOES ON</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'life goes on' pronounced as 'LIFE GOES ON'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/life%20goes%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/life/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Life goes on}}.",
+      "explanation": "<b>Full transcript:</b> life goes on<br><br><b>Connected form:</b> <i>LIFE GOES ON</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "La vida continúa",
-      "usage": "Written: <code>life goes on</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">LIFE GOES ON</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/life%20goes%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/life/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>LIFE GOES ON</code><br>Formal: <code>life goes on</code><br><a href=\"https://youglish.com/pronounce/life%20goes%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/life/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "df0fcd054085396b",
+      "full_transcript": "life goes on",
+      "connected_form": "LIFE GOES ON",
+      "gap_text": "{{c1::Life goes on}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/life%20goes%20on/english/us",
         "forvo_word": "https://forvo.com/word/life/#en"
@@ -682,7 +818,7 @@
   {
     "id": "edcd93aa0556e934",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/love%20beats%20hate/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/love/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Love beats hate}}.",
-      "explanation": "<b>Written:</b> love beats hate<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">LOVE BEATS HATE</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'love beats hate' pronounced as 'LOVE BEATS HATE'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/love%20beats%20hate/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/love/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Love beats hate}}.",
+      "explanation": "<b>Full transcript:</b> love beats hate<br><br><b>Connected form:</b> <i>LOVE BEATS HATE</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "El amor vence al odio",
-      "usage": "Written: <code>love beats hate</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">LOVE BEATS HATE</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/love%20beats%20hate/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/love/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>LOVE BEATS HATE</code><br>Formal: <code>love beats hate</code><br><a href=\"https://youglish.com/pronounce/love%20beats%20hate/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/love/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "edcd93aa0556e934",
+      "full_transcript": "love beats hate",
+      "connected_form": "LOVE BEATS HATE",
+      "gap_text": "{{c1::Love beats hate}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/love%20beats%20hate/english/us",
         "forvo_word": "https://forvo.com/word/love/#en"
@@ -722,7 +866,7 @@
   {
     "id": "c286ead0a737d32c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/truth%20wins%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/truth/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Truth wins out}}.",
-      "explanation": "<b>Written:</b> truth wins out<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">TRUTH WINS OUT</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'truth wins out' pronounced as 'TRUTH WINS OUT'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/truth%20wins%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/truth/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Truth wins out}}.",
+      "explanation": "<b>Full transcript:</b> truth wins out<br><br><b>Connected form:</b> <i>TRUTH WINS OUT</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "La verdad triunfa",
-      "usage": "Written: <code>truth wins out</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">TRUTH WINS OUT</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/truth%20wins%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/truth/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>TRUTH WINS OUT</code><br>Formal: <code>truth wins out</code><br><a href=\"https://youglish.com/pronounce/truth%20wins%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/truth/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c286ead0a737d32c",
+      "full_transcript": "truth wins out",
+      "connected_form": "TRUTH WINS OUT",
+      "gap_text": "{{c1::Truth wins out}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/truth%20wins%20out/english/us",
         "forvo_word": "https://forvo.com/word/truth/#en"
@@ -762,7 +914,7 @@
   {
     "id": "8536ed4e3c277a04",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hope%20stays%20alive/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hope/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Hope stays alive}}.",
-      "explanation": "<b>Written:</b> hope stays alive<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">HOPE STAYS ALIVE</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hope stays alive' pronounced as 'HOPE STAYS ALIVE'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hope%20stays%20alive/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hope/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Hope stays alive}}.",
+      "explanation": "<b>Full transcript:</b> hope stays alive<br><br><b>Connected form:</b> <i>HOPE STAYS ALIVE</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "La esperanza sigue viva",
-      "usage": "Written: <code>hope stays alive</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">HOPE STAYS ALIVE</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hope%20stays%20alive/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hope/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>HOPE STAYS ALIVE</code><br>Formal: <code>hope stays alive</code><br><a href=\"https://youglish.com/pronounce/hope%20stays%20alive/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hope/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8536ed4e3c277a04",
+      "full_transcript": "hope stays alive",
+      "connected_form": "HOPE STAYS ALIVE",
+      "gap_text": "{{c1::Hope stays alive}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hope%20stays%20alive/english/us",
         "forvo_word": "https://forvo.com/word/hope/#en"
@@ -802,7 +962,7 @@
   {
     "id": "11a4f67c46558cd4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/dreams%20come%20true/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/dreams/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Dreams come true}}.",
-      "explanation": "<b>Written:</b> dreams come true<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">DREAMS COME TRUE</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'dreams come true' pronounced as 'DREAMS COME TRUE'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/dreams%20come%20true/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/dreams/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Dreams come true}}.",
+      "explanation": "<b>Full transcript:</b> dreams come true<br><br><b>Connected form:</b> <i>DREAMS COME TRUE</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los sueños se hacen realidad",
-      "usage": "Written: <code>dreams come true</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">DREAMS COME TRUE</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/dreams%20come%20true/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/dreams/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>DREAMS COME TRUE</code><br>Formal: <code>dreams come true</code><br><a href=\"https://youglish.com/pronounce/dreams%20come%20true/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/dreams/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "11a4f67c46558cd4",
+      "full_transcript": "dreams come true",
+      "connected_form": "DREAMS COME TRUE",
+      "gap_text": "{{c1::Dreams come true}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/dreams%20come%20true/english/us",
         "forvo_word": "https://forvo.com/word/dreams/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "e61ecfb4bac899f9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/words%20carry%20weight/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/words/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Words carry weight}}.",
-      "explanation": "<b>Written:</b> words carry weight<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">WORDS CARRY WEIGHT</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'words carry weight' pronounced as 'WORDS CARRY WEIGHT'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/words%20carry%20weight/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/words/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Words carry weight}}.",
+      "explanation": "<b>Full transcript:</b> words carry weight<br><br><b>Connected form:</b> <i>WORDS CARRY WEIGHT</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Las palabras tienen peso",
-      "usage": "Written: <code>words carry weight</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">WORDS CARRY WEIGHT</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/words%20carry%20weight/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/words/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>WORDS CARRY WEIGHT</code><br>Formal: <code>words carry weight</code><br><a href=\"https://youglish.com/pronounce/words%20carry%20weight/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/words/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "e61ecfb4bac899f9",
+      "full_transcript": "words carry weight",
+      "connected_form": "WORDS CARRY WEIGHT",
+      "gap_text": "{{c1::Words carry weight}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/words%20carry%20weight/english/us",
         "forvo_word": "https://forvo.com/word/words/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "f06a3963ccef5266",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/acts%20speak%20loud/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/acts/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Acts speak loud}}.",
-      "explanation": "<b>Written:</b> acts speak loud<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ACTS SPEAK LOUD</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'acts speak loud' pronounced as 'ACTS SPEAK LOUD'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/acts%20speak%20loud/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/acts/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Acts speak loud}}.",
+      "explanation": "<b>Full transcript:</b> acts speak loud<br><br><b>Connected form:</b> <i>ACTS SPEAK LOUD</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los actos hablan fuerte",
-      "usage": "Written: <code>acts speak loud</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ACTS SPEAK LOUD</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/acts%20speak%20loud/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/acts/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ACTS SPEAK LOUD</code><br>Formal: <code>acts speak loud</code><br><a href=\"https://youglish.com/pronounce/acts%20speak%20loud/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/acts/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f06a3963ccef5266",
+      "full_transcript": "acts speak loud",
+      "connected_form": "ACTS SPEAK LOUD",
+      "gap_text": "{{c1::Acts speak loud}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/acts%20speak%20loud/english/us",
         "forvo_word": "https://forvo.com/word/acts/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "690b65c969c5d438",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/art%20lives%20long/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/art/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Art lives long}}.",
-      "explanation": "<b>Written:</b> art lives long<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ART LIVES LONG</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'art lives long' pronounced as 'ART LIVES LONG'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/art%20lives%20long/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/art/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Art lives long}}.",
+      "explanation": "<b>Full transcript:</b> art lives long<br><br><b>Connected form:</b> <i>ART LIVES LONG</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "El art vive largo tiempo",
-      "usage": "Written: <code>art lives long</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ART LIVES LONG</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/art%20lives%20long/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/art/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ART LIVES LONG</code><br>Formal: <code>art lives long</code><br><a href=\"https://youglish.com/pronounce/art%20lives%20long/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/art/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "690b65c969c5d438",
+      "full_transcript": "art lives long",
+      "connected_form": "ART LIVES LONG",
+      "gap_text": "{{c1::Art lives long}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/art%20lives%20long/english/us",
         "forvo_word": "https://forvo.com/word/art/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "6f8ab00812e00218",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/books%20teach%20well/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/books/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Books teach well}}.",
-      "explanation": "<b>Written:</b> books teach well<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">BOOKS TEACH WELL</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'books teach well' pronounced as 'BOOKS TEACH WELL'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/books%20teach%20well/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/books/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Books teach well}}.",
+      "explanation": "<b>Full transcript:</b> books teach well<br><br><b>Connected form:</b> <i>BOOKS TEACH WELL</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los libros enseñan bien",
-      "usage": "Written: <code>books teach well</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">BOOKS TEACH WELL</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/books%20teach%20well/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/books/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>BOOKS TEACH WELL</code><br>Formal: <code>books teach well</code><br><a href=\"https://youglish.com/pronounce/books%20teach%20well/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/books/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6f8ab00812e00218",
+      "full_transcript": "books teach well",
+      "connected_form": "BOOKS TEACH WELL",
+      "gap_text": "{{c1::Books teach well}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/books%20teach%20well/english/us",
         "forvo_word": "https://forvo.com/word/books/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "508042d1b66b0b4a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/news%20spreads%20fast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/news/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::News spreads fast}}.",
-      "explanation": "<b>Written:</b> news spreads fast<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">NEWS SPREADS FAST</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'news spreads fast' pronounced as 'NEWS SPREADS FAST'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/news%20spreads%20fast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/news/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::News spreads fast}}.",
+      "explanation": "<b>Full transcript:</b> news spreads fast<br><br><b>Connected form:</b> <i>NEWS SPREADS FAST</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Las noticias corren rápido",
-      "usage": "Written: <code>news spreads fast</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">NEWS SPREADS FAST</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/news%20spreads%20fast/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/news/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>NEWS SPREADS FAST</code><br>Formal: <code>news spreads fast</code><br><a href=\"https://youglish.com/pronounce/news%20spreads%20fast/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/news/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "508042d1b66b0b4a",
+      "full_transcript": "news spreads fast",
+      "connected_form": "NEWS SPREADS FAST",
+      "gap_text": "{{c1::News spreads fast}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/news%20spreads%20fast/english/us",
         "forvo_word": "https://forvo.com/word/news/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "be2f6e4df5c65555",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/prices%20rise%20high/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/prices/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Prices rise high}}.",
-      "explanation": "<b>Written:</b> prices rise high<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">PRICES RISE HIGH</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'prices rise high' pronounced as 'PRICES RISE HIGH'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/prices%20rise%20high/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/prices/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Prices rise high}}.",
+      "explanation": "<b>Full transcript:</b> prices rise high<br><br><b>Connected form:</b> <i>PRICES RISE HIGH</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los precios suben alto",
-      "usage": "Written: <code>prices rise high</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">PRICES RISE HIGH</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/prices%20rise%20high/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/prices/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>PRICES RISE HIGH</code><br>Formal: <code>prices rise high</code><br><a href=\"https://youglish.com/pronounce/prices%20rise%20high/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/prices/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "be2f6e4df5c65555",
+      "full_transcript": "prices rise high",
+      "connected_form": "PRICES RISE HIGH",
+      "gap_text": "{{c1::Prices rise high}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/prices%20rise%20high/english/us",
         "forvo_word": "https://forvo.com/word/prices/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "c823234193974b2a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sales%20fall%20off/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sales/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Sales fall off}}.",
-      "explanation": "<b>Written:</b> sales fall off<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">SALES FALL OFF</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sales fall off' pronounced as 'SALES FALL OFF'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sales%20fall%20off/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sales/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Sales fall off}}.",
+      "explanation": "<b>Full transcript:</b> sales fall off<br><br><b>Connected form:</b> <i>SALES FALL OFF</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Las ventas caen",
-      "usage": "Written: <code>sales fall off</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">SALES FALL OFF</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sales%20fall%20off/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sales/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>SALES FALL OFF</code><br>Formal: <code>sales fall off</code><br><a href=\"https://youglish.com/pronounce/sales%20fall%20off/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sales/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c823234193974b2a",
+      "full_transcript": "sales fall off",
+      "connected_form": "SALES FALL OFF",
+      "gap_text": "{{c1::Sales fall off}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sales%20fall%20off/english/us",
         "forvo_word": "https://forvo.com/word/sales/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "d4cc2898854fa957",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/stocks%20go%20down/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/stocks/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Stocks go down}}.",
-      "explanation": "<b>Written:</b> stocks go down<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">STOCKS GO DOWN</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'stocks go down' pronounced as 'STOCKS GO DOWN'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/stocks%20go%20down/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/stocks/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Stocks go down}}.",
+      "explanation": "<b>Full transcript:</b> stocks go down<br><br><b>Connected form:</b> <i>STOCKS GO DOWN</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Las acciones bajan",
-      "usage": "Written: <code>stocks go down</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">STOCKS GO DOWN</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/stocks%20go%20down/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/stocks/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>STOCKS GO DOWN</code><br>Formal: <code>stocks go down</code><br><a href=\"https://youglish.com/pronounce/stocks%20go%20down/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/stocks/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d4cc2898854fa957",
+      "full_transcript": "stocks go down",
+      "connected_form": "STOCKS GO DOWN",
+      "gap_text": "{{c1::Stocks go down}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/stocks%20go%20down/english/us",
         "forvo_word": "https://forvo.com/word/stocks/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "206f6ff1e858b7e6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Stress_Timed_Rhythm 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/funds%20run%20dry/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/funds/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Funds run dry}}.",
-      "explanation": "<b>Written:</b> funds run dry<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">FUNDS RUN DRY</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'funds run dry' pronounced as 'FUNDS RUN DRY'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/funds%20run%20dry/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/funds/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Funds run dry}}.",
+      "explanation": "<b>Full transcript:</b> funds run dry<br><br><b>Connected form:</b> <i>FUNDS RUN DRY</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Stress Timed Rhythm</code></li></ul>",
       "spanish": "Los fondos se agotan",
-      "usage": "Written: <code>funds run dry</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">FUNDS RUN DRY</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/funds%20run%20dry/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/funds/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>FUNDS RUN DRY</code><br>Formal: <code>funds run dry</code><br><a href=\"https://youglish.com/pronounce/funds%20run%20dry/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/funds/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "206f6ff1e858b7e6",
+      "full_transcript": "funds run dry",
+      "connected_form": "FUNDS RUN DRY",
+      "gap_text": "{{c1::Funds run dry}}.",
+      "rules_applied": [
+        "Stress Timed Rhythm"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/funds%20run%20dry/english/us",
         "forvo_word": "https://forvo.com/word/funds/#en"

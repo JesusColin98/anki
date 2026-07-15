@@ -2,7 +2,7 @@
   {
     "id": "70611e77d7e2e0d3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/don%27t%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Don't you}} want to come?",
-      "explanation": "<b>Written:</b> don't you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">don-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'don't you' pronounced as 'don-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/don%27t%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Don't you}} want to come?",
+      "explanation": "<b>Full transcript:</b> don't you<br><br><b>Connected form:</b> <i>don-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "no quieres",
-      "usage": "Written: <code>don't you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">don-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/don%27t%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>don-choo</code><br>Formal: <code>don't you</code><br><a href=\"https://youglish.com/pronounce/don%27t%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/don%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "70611e77d7e2e0d3",
+      "full_transcript": "don't you",
+      "connected_form": "don-choo",
+      "gap_text": "{{c1::Don't you}} want to come?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/don%27t%20you/english/us",
         "forvo_word": "https://forvo.com/word/don%27t/#en"
@@ -42,7 +50,7 @@
   {
     "id": "10eb10f7b0145654",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/would%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/would/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Would you}} help me?",
-      "explanation": "<b>Written:</b> would you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wood-joo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'would you' pronounced as 'wood-joo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/would%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/would/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Would you}} help me?",
+      "explanation": "<b>Full transcript:</b> would you<br><br><b>Connected form:</b> <i>wood-joo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "podrías",
-      "usage": "Written: <code>would you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wood-joo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/would%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/would/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wood-joo</code><br>Formal: <code>would you</code><br><a href=\"https://youglish.com/pronounce/would%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/would/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "10eb10f7b0145654",
+      "full_transcript": "would you",
+      "connected_form": "wood-joo",
+      "gap_text": "{{c1::Would you}} help me?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/would%20you/english/us",
         "forvo_word": "https://forvo.com/word/would/#en"
@@ -82,7 +98,7 @@
   {
     "id": "07861376a99f314e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/miss%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/miss/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I really {{c1::miss you}}.",
-      "explanation": "<b>Written:</b> miss you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mi-shoo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'miss you' pronounced as 'mi-shoo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/miss%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/miss/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I really {{c1::miss you}}.",
+      "explanation": "<b>Full transcript:</b> miss you<br><br><b>Connected form:</b> <i>mi-shoo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "te extraño",
-      "usage": "Written: <code>miss you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mi-shoo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/miss%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/miss/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mi-shoo</code><br>Formal: <code>miss you</code><br><a href=\"https://youglish.com/pronounce/miss%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/miss/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "07861376a99f314e",
+      "full_transcript": "miss you",
+      "connected_form": "mi-shoo",
+      "gap_text": "I really {{c1::miss you}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/miss%20you/english/us",
         "forvo_word": "https://forvo.com/word/miss/#en"
@@ -122,7 +146,7 @@
   {
     "id": "89bd81b06529cf21",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/as%20you%20know/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/as/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::As you know}}, we are late.",
-      "explanation": "<b>Written:</b> as you know<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">a-zhoo know</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'as you know' pronounced as 'a-zhoo know'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/as%20you%20know/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/as/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::As you know}}, we are late.",
+      "explanation": "<b>Full transcript:</b> as you know<br><br><b>Connected form:</b> <i>a-zhoo know</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "como sabes",
-      "usage": "Written: <code>as you know</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">a-zhoo know</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/as%20you%20know/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/as/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>a-zhoo know</code><br>Formal: <code>as you know</code><br><a href=\"https://youglish.com/pronounce/as%20you%20know/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/as/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "89bd81b06529cf21",
+      "full_transcript": "as you know",
+      "connected_form": "a-zhoo know",
+      "gap_text": "{{c1::As you know}}, we are late.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/as%20you%20know/english/us",
         "forvo_word": "https://forvo.com/word/as/#en"
@@ -162,7 +194,7 @@
   {
     "id": "4de8011ac7741568",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/could%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/could/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Could you}} repeat that?",
-      "explanation": "<b>Written:</b> could you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cood-joo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'could you' pronounced as 'cood-joo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/could%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/could/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Could you}} repeat that?",
+      "explanation": "<b>Full transcript:</b> could you<br><br><b>Connected form:</b> <i>cood-joo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "podrías",
-      "usage": "Written: <code>could you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cood-joo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/could%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/could/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cood-joo</code><br>Formal: <code>could you</code><br><a href=\"https://youglish.com/pronounce/could%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/could/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4de8011ac7741568",
+      "full_transcript": "could you",
+      "connected_form": "cood-joo",
+      "gap_text": "{{c1::Could you}} repeat that?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/could%20you/english/us",
         "forvo_word": "https://forvo.com/word/could/#en"
@@ -202,7 +242,7 @@
   {
     "id": "15587a06ebe797f2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/did%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/did/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Did you}} see it?",
-      "explanation": "<b>Written:</b> did you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">did-joo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'did you' pronounced as 'did-joo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/did%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/did/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Did you}} see it?",
+      "explanation": "<b>Full transcript:</b> did you<br><br><b>Connected form:</b> <i>did-joo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "lo viste",
-      "usage": "Written: <code>did you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">did-joo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/did%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/did/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>did-joo</code><br>Formal: <code>did you</code><br><a href=\"https://youglish.com/pronounce/did%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/did/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "15587a06ebe797f2",
+      "full_transcript": "did you",
+      "connected_form": "did-joo",
+      "gap_text": "{{c1::Did you}} see it?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/did%20you/english/us",
         "forvo_word": "https://forvo.com/word/did/#en"
@@ -242,7 +290,7 @@
   {
     "id": "4fd91bb19e99450c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/won%27t%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/won%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Won't you}} sit down?",
-      "explanation": "<b>Written:</b> won't you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">won-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'won't you' pronounced as 'won-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/won%27t%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/won%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Won't you}} sit down?",
+      "explanation": "<b>Full transcript:</b> won't you<br><br><b>Connected form:</b> <i>won-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "no te sentarás",
-      "usage": "Written: <code>won't you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">won-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/won%27t%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/won%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>won-choo</code><br>Formal: <code>won't you</code><br><a href=\"https://youglish.com/pronounce/won%27t%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/won%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4fd91bb19e99450c",
+      "full_transcript": "won't you",
+      "connected_form": "won-choo",
+      "gap_text": "{{c1::Won't you}} sit down?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/won%27t%20you/english/us",
         "forvo_word": "https://forvo.com/word/won%27t/#en"
@@ -282,7 +338,7 @@
   {
     "id": "796b13d9504ad8bc",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/can%27t%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/can%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Can't you}} do it?",
-      "explanation": "<b>Written:</b> can't you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">can-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'can't you' pronounced as 'can-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/can%27t%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/can%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Can't you}} do it?",
+      "explanation": "<b>Full transcript:</b> can't you<br><br><b>Connected form:</b> <i>can-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "no puedes",
-      "usage": "Written: <code>can't you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">can-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/can%27t%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/can%27t/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>can-choo</code><br>Formal: <code>can't you</code><br><a href=\"https://youglish.com/pronounce/can%27t%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/can%27t/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "796b13d9504ad8bc",
+      "full_transcript": "can't you",
+      "connected_form": "can-choo",
+      "gap_text": "{{c1::Can't you}} do it?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/can%27t%20you/english/us",
         "forvo_word": "https://forvo.com/word/can%27t/#en"
@@ -322,7 +386,7 @@
   {
     "id": "fedf6b4d37f0f4e3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/meet%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/meet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Nice to {{c1::meet you}}.",
-      "explanation": "<b>Written:</b> meet you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mee-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'meet you' pronounced as 'mee-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/meet%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/meet/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Nice to {{c1::meet you}}.",
+      "explanation": "<b>Full transcript:</b> meet you<br><br><b>Connected form:</b> <i>mee-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "conocerte",
-      "usage": "Written: <code>meet you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mee-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/meet%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/meet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mee-choo</code><br>Formal: <code>meet you</code><br><a href=\"https://youglish.com/pronounce/meet%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/meet/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fedf6b4d37f0f4e3",
+      "full_transcript": "meet you",
+      "connected_form": "mee-choo",
+      "gap_text": "Nice to {{c1::meet you}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/meet%20you/english/us",
         "forvo_word": "https://forvo.com/word/meet/#en"
@@ -362,7 +434,7 @@
   {
     "id": "163ae43ccebb1802",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hit%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hit/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Did it {{c1::hit you}}?",
-      "explanation": "<b>Written:</b> hit you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hi-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hit you' pronounced as 'hi-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hit%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hit/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Did it {{c1::hit you}}?",
+      "explanation": "<b>Full transcript:</b> hit you<br><br><b>Connected form:</b> <i>hi-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "te golpeó",
-      "usage": "Written: <code>hit you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hi-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hit%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hit/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hi-choo</code><br>Formal: <code>hit you</code><br><a href=\"https://youglish.com/pronounce/hit%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hit/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "163ae43ccebb1802",
+      "full_transcript": "hit you",
+      "connected_form": "hi-choo",
+      "gap_text": "Did it {{c1::hit you}}?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hit%20you/english/us",
         "forvo_word": "https://forvo.com/word/hit/#en"
@@ -402,7 +482,7 @@
   {
     "id": "b435c1ac5a13e4ba",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/had%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/had/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>If {{c1::had you}} known, would you go?",
-      "explanation": "<b>Written:</b> had you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">had-joo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'had you' pronounced as 'had-joo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/had%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/had/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>If {{c1::had you}} known, would you go?",
+      "explanation": "<b>Full transcript:</b> had you<br><br><b>Connected form:</b> <i>had-joo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "si hubieras",
-      "usage": "Written: <code>had you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">had-joo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/had%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/had/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>had-joo</code><br>Formal: <code>had you</code><br><a href=\"https://youglish.com/pronounce/had%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/had/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b435c1ac5a13e4ba",
+      "full_transcript": "had you",
+      "connected_form": "had-joo",
+      "gap_text": "If {{c1::had you}} known, would you go?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/had%20you/english/us",
         "forvo_word": "https://forvo.com/word/had/#en"
@@ -442,7 +530,7 @@
   {
     "id": "c2c4fcc8d1ec63b5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/need%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/need/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::need you}} here.",
-      "explanation": "<b>Written:</b> need you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">nee-joo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'need you' pronounced as 'nee-joo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/need%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/need/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::need you}} here.",
+      "explanation": "<b>Full transcript:</b> need you<br><br><b>Connected form:</b> <i>nee-joo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "te necesito",
-      "usage": "Written: <code>need you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">nee-joo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/need%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/need/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>nee-joo</code><br>Formal: <code>need you</code><br><a href=\"https://youglish.com/pronounce/need%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/need/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c2c4fcc8d1ec63b5",
+      "full_transcript": "need you",
+      "connected_form": "nee-joo",
+      "gap_text": "I {{c1::need you}} here.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/need%20you/english/us",
         "forvo_word": "https://forvo.com/word/need/#en"
@@ -482,7 +578,7 @@
   {
     "id": "c9e972331ccf8929",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bless%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bless/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Bless you}}! Did you sneeze?",
-      "explanation": "<b>Written:</b> bless you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ble-shoo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bless you' pronounced as 'ble-shoo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bless%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bless/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Bless you}}! Did you sneeze?",
+      "explanation": "<b>Full transcript:</b> bless you<br><br><b>Connected form:</b> <i>ble-shoo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "salud / dios te bendiga",
-      "usage": "Written: <code>bless you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ble-shoo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bless%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bless/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ble-shoo</code><br>Formal: <code>bless you</code><br><a href=\"https://youglish.com/pronounce/bless%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bless/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c9e972331ccf8929",
+      "full_transcript": "bless you",
+      "connected_form": "ble-shoo",
+      "gap_text": "{{c1::Bless you}}! Did you sneeze?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bless%20you/english/us",
         "forvo_word": "https://forvo.com/word/bless/#en"
@@ -522,7 +626,7 @@
   {
     "id": "8975a6db6c941713",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/this%20year/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/this/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We are busy {{c1::this year}}.",
-      "explanation": "<b>Written:</b> this year<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">thi-sheer</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'this year' pronounced as 'thi-sheer'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/this%20year/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/this/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We are busy {{c1::this year}}.",
+      "explanation": "<b>Full transcript:</b> this year<br><br><b>Connected form:</b> <i>thi-sheer</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "este año",
-      "usage": "Written: <code>this year</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">thi-sheer</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/this%20year/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/this/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>thi-sheer</code><br>Formal: <code>this year</code><br><a href=\"https://youglish.com/pronounce/this%20year/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/this/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8975a6db6c941713",
+      "full_transcript": "this year",
+      "connected_form": "thi-sheer",
+      "gap_text": "We are busy {{c1::this year}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/this%20year/english/us",
         "forvo_word": "https://forvo.com/word/this/#en"
@@ -562,7 +674,7 @@
   {
     "id": "aa82de431bb146cb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/last%20year/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/last/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It happened {{c1::last year}}.",
-      "explanation": "<b>Written:</b> last year<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">las-cheer</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'last year' pronounced as 'las-cheer'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/last%20year/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/last/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It happened {{c1::last year}}.",
+      "explanation": "<b>Full transcript:</b> last year<br><br><b>Connected form:</b> <i>las-cheer</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "el año pasado",
-      "usage": "Written: <code>last year</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">las-cheer</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/last%20year/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/last/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>las-cheer</code><br>Formal: <code>last year</code><br><a href=\"https://youglish.com/pronounce/last%20year/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/last/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "aa82de431bb146cb",
+      "full_transcript": "last year",
+      "connected_form": "las-cheer",
+      "gap_text": "It happened {{c1::last year}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/last%20year/english/us",
         "forvo_word": "https://forvo.com/word/last/#en"
@@ -602,7 +722,7 @@
   {
     "id": "f872660d8f6b2ebb",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/not%20yet/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/not/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I'm {{c1::not yet}} ready.",
-      "explanation": "<b>Written:</b> not yet<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">no-chet</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'not yet' pronounced as 'no-chet'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/not%20yet/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/not/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I'm {{c1::not yet}} ready.",
+      "explanation": "<b>Full transcript:</b> not yet<br><br><b>Connected form:</b> <i>no-chet</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "aún no",
-      "usage": "Written: <code>not yet</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">no-chet</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/not%20yet/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/not/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>no-chet</code><br>Formal: <code>not yet</code><br><a href=\"https://youglish.com/pronounce/not%20yet/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/not/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f872660d8f6b2ebb",
+      "full_transcript": "not yet",
+      "connected_form": "no-chet",
+      "gap_text": "I'm {{c1::not yet}} ready.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/not%20yet/english/us",
         "forvo_word": "https://forvo.com/word/not/#en"
@@ -642,7 +770,7 @@
   {
     "id": "177f546499d0ef19",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/did%20you%20ever/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/did/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Did you ever}} try this?",
-      "explanation": "<b>Written:</b> did you ever<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">jev-er</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'did you ever' pronounced as 'jev-er'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/did%20you%20ever/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/did/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Did you ever}} try this?",
+      "explanation": "<b>Full transcript:</b> did you ever<br><br><b>Connected form:</b> <i>jev-er</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "alguna vez has",
-      "usage": "Written: <code>did you ever</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">jev-er</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/did%20you%20ever/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/did/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>jev-er</code><br>Formal: <code>did you ever</code><br><a href=\"https://youglish.com/pronounce/did%20you%20ever/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/did/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "177f546499d0ef19",
+      "full_transcript": "did you ever",
+      "connected_form": "jev-er",
+      "gap_text": "{{c1::Did you ever}} try this?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/did%20you%20ever/english/us",
         "forvo_word": "https://forvo.com/word/did/#en"
@@ -682,7 +818,7 @@
   {
     "id": "f465ef611cfe54a4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/what%20you%20need/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/what/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is {{c1::what you need}}.",
-      "explanation": "<b>Written:</b> what you need<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wha-choo need</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'what you need' pronounced as 'wha-choo need'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/what%20you%20need/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/what/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is {{c1::what you need}}.",
+      "explanation": "<b>Full transcript:</b> what you need<br><br><b>Connected form:</b> <i>wha-choo need</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "lo que necesitas",
-      "usage": "Written: <code>what you need</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wha-choo need</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/what%20you%20need/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/what/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wha-choo need</code><br>Formal: <code>what you need</code><br><a href=\"https://youglish.com/pronounce/what%20you%20need/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/what/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f465ef611cfe54a4",
+      "full_transcript": "what you need",
+      "connected_form": "wha-choo need",
+      "gap_text": "This is {{c1::what you need}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/what%20you%20need/english/us",
         "forvo_word": "https://forvo.com/word/what/#en"
@@ -722,7 +866,7 @@
   {
     "id": "4debc8a5f10a247e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/about%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/about/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>What {{c1::about you}}?",
-      "explanation": "<b>Written:</b> about you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">abou-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'about you' pronounced as 'abou-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/about%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/about/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>What {{c1::about you}}?",
+      "explanation": "<b>Full transcript:</b> about you<br><br><b>Connected form:</b> <i>abou-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "qué hay de ti",
-      "usage": "Written: <code>about you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">abou-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/about%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/about/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>abou-choo</code><br>Formal: <code>about you</code><br><a href=\"https://youglish.com/pronounce/about%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/about/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4debc8a5f10a247e",
+      "full_transcript": "about you",
+      "connected_form": "abou-choo",
+      "gap_text": "What {{c1::about you}}?",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/about%20you/english/us",
         "forvo_word": "https://forvo.com/word/about/#en"
@@ -762,7 +914,7 @@
   {
     "id": "11b5efbee934242c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/want%20you%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/want/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::want you to}} go.",
-      "explanation": "<b>Written:</b> want you to<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wan-choo-tuh</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'want you to' pronounced as 'wan-choo-tuh'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/want%20you%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/want/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::want you to}} go.",
+      "explanation": "<b>Full transcript:</b> want you to<br><br><b>Connected form:</b> <i>wan-choo-tuh</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "quiero que vayas",
-      "usage": "Written: <code>want you to</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wan-choo-tuh</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/want%20you%20to/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/want/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wan-choo-tuh</code><br>Formal: <code>want you to</code><br><a href=\"https://youglish.com/pronounce/want%20you%20to/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/want/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "11b5efbee934242c",
+      "full_transcript": "want you to",
+      "connected_form": "wan-choo-tuh",
+      "gap_text": "I {{c1::want you to}} go.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/want%20you%20to/english/us",
         "forvo_word": "https://forvo.com/word/want/#en"
@@ -802,7 +962,7 @@
   {
     "id": "79cef1c2dfb71eb1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/got%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/got/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::got you}} a gift.",
-      "explanation": "<b>Written:</b> got you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">got-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'got you' pronounced as 'got-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/got%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/got/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::got you}} a gift.",
+      "explanation": "<b>Full transcript:</b> got you<br><br><b>Connected form:</b> <i>got-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "te conseguí / te entendí",
-      "usage": "Written: <code>got you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">got-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/got%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/got/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>got-choo</code><br>Formal: <code>got you</code><br><a href=\"https://youglish.com/pronounce/got%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/got/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "79cef1c2dfb71eb1",
+      "full_transcript": "got you",
+      "connected_form": "got-choo",
+      "gap_text": "I {{c1::got you}} a gift.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/got%20you/english/us",
         "forvo_word": "https://forvo.com/word/got/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "cf628100cd40bcc3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/told%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/told/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::told you}} so.",
-      "explanation": "<b>Written:</b> told you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tol-joo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'told you' pronounced as 'tol-joo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/told%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/told/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::told you}} so.",
+      "explanation": "<b>Full transcript:</b> told you<br><br><b>Connected form:</b> <i>tol-joo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "te lo dije",
-      "usage": "Written: <code>told you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tol-joo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/told%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/told/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tol-joo</code><br>Formal: <code>told you</code><br><a href=\"https://youglish.com/pronounce/told%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/told/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cf628100cd40bcc3",
+      "full_transcript": "told you",
+      "connected_form": "tol-joo",
+      "gap_text": "I {{c1::told you}} so.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/told%20you/english/us",
         "forvo_word": "https://forvo.com/word/told/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "247b6ab38b02c9af",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/behind%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's right {{c1::behind you}}.",
-      "explanation": "<b>Written:</b> behind you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">behin-joo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'behind you' pronounced as 'behin-joo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/behind%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's right {{c1::behind you}}.",
+      "explanation": "<b>Full transcript:</b> behind you<br><br><b>Connected form:</b> <i>behin-joo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "detrás de ti",
-      "usage": "Written: <code>behind you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">behin-joo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/behind%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>behin-joo</code><br>Formal: <code>behind you</code><br><a href=\"https://youglish.com/pronounce/behind%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/behind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "247b6ab38b02c9af",
+      "full_transcript": "behind you",
+      "connected_form": "behin-joo",
+      "gap_text": "It's right {{c1::behind you}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/behind%20you/english/us",
         "forvo_word": "https://forvo.com/word/behind/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "9f9b3941fb5aafac",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/find%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/find/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I will {{c1::find you}}.",
-      "explanation": "<b>Written:</b> find you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fin-joo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'find you' pronounced as 'fin-joo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/find%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/find/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I will {{c1::find you}}.",
+      "explanation": "<b>Full transcript:</b> find you<br><br><b>Connected form:</b> <i>fin-joo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "te encontraré",
-      "usage": "Written: <code>find you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fin-joo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/find%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/find/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fin-joo</code><br>Formal: <code>find you</code><br><a href=\"https://youglish.com/pronounce/find%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/find/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9f9b3941fb5aafac",
+      "full_transcript": "find you",
+      "connected_form": "fin-joo",
+      "gap_text": "I will {{c1::find you}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/find%20you/english/us",
         "forvo_word": "https://forvo.com/word/find/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "2edf9498ea881db2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mind%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's hard, {{c1::mind you}}.",
-      "explanation": "<b>Written:</b> mind you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">min-joo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'mind you' pronounced as 'min-joo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/mind%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's hard, {{c1::mind you}}.",
+      "explanation": "<b>Full transcript:</b> mind you<br><br><b>Connected form:</b> <i>min-joo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "ten en cuenta",
-      "usage": "Written: <code>mind you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">min-joo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mind%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mind/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>min-joo</code><br>Formal: <code>mind you</code><br><a href=\"https://youglish.com/pronounce/mind%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mind/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2edf9498ea881db2",
+      "full_transcript": "mind you",
+      "connected_form": "min-joo",
+      "gap_text": "It's hard, {{c1::mind you}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/mind%20you/english/us",
         "forvo_word": "https://forvo.com/word/mind/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "61217bf25406acf0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/trust%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::trust you}}.",
-      "explanation": "<b>Written:</b> trust you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">trus-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'trust you' pronounced as 'trus-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/trust%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::trust you}}.",
+      "explanation": "<b>Full transcript:</b> trust you<br><br><b>Connected form:</b> <i>trus-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "confío en ti",
-      "usage": "Written: <code>trust you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">trus-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/trust%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>trus-choo</code><br>Formal: <code>trust you</code><br><a href=\"https://youglish.com/pronounce/trust%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/trust/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "61217bf25406acf0",
+      "full_transcript": "trust you",
+      "connected_form": "trus-choo",
+      "gap_text": "I {{c1::trust you}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/trust%20you/english/us",
         "forvo_word": "https://forvo.com/word/trust/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "c42b51d6f34cea1f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/suggest%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/suggest/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::suggest you}} wait.",
-      "explanation": "<b>Written:</b> suggest you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sugges-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'suggest you' pronounced as 'sugges-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/suggest%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/suggest/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::suggest you}} wait.",
+      "explanation": "<b>Full transcript:</b> suggest you<br><br><b>Connected form:</b> <i>sugges-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "te sugiero que",
-      "usage": "Written: <code>suggest you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sugges-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/suggest%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/suggest/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sugges-choo</code><br>Formal: <code>suggest you</code><br><a href=\"https://youglish.com/pronounce/suggest%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/suggest/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c42b51d6f34cea1f",
+      "full_transcript": "suggest you",
+      "connected_form": "sugges-choo",
+      "gap_text": "I {{c1::suggest you}} wait.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/suggest%20you/english/us",
         "forvo_word": "https://forvo.com/word/suggest/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "8657de0183e894f4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/lost%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/lost/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I think I {{c1::lost you}}.",
-      "explanation": "<b>Written:</b> lost you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">los-choo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'lost you' pronounced as 'los-choo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/lost%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/lost/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I think I {{c1::lost you}}.",
+      "explanation": "<b>Full transcript:</b> lost you<br><br><b>Connected form:</b> <i>los-choo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "te perdí",
-      "usage": "Written: <code>lost you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">los-choo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/lost%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/lost/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>los-choo</code><br>Formal: <code>lost you</code><br><a href=\"https://youglish.com/pronounce/lost%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/lost/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8657de0183e894f4",
+      "full_transcript": "lost you",
+      "connected_form": "los-choo",
+      "gap_text": "I think I {{c1::lost you}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/lost%20you/english/us",
         "forvo_word": "https://forvo.com/word/lost/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "7130b79a99b6b52a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/please%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/please/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's hard to {{c1::please you}}.",
-      "explanation": "<b>Written:</b> please you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">plea-zhoo</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'please you' pronounced as 'plea-zhoo'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/please%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/please/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's hard to {{c1::please you}}.",
+      "explanation": "<b>Full transcript:</b> please you<br><br><b>Connected form:</b> <i>plea-zhoo</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "complacerte",
-      "usage": "Written: <code>please you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">plea-zhoo</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/please%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/please/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>plea-zhoo</code><br>Formal: <code>please you</code><br><a href=\"https://youglish.com/pronounce/please%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/please/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7130b79a99b6b52a",
+      "full_transcript": "please you",
+      "connected_form": "plea-zhoo",
+      "gap_text": "It's hard to {{c1::please you}}.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/please%20you/english/us",
         "forvo_word": "https://forvo.com/word/please/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "97bd6bd5fb1d014d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Yod_Coalescence 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/phrase%20you%20used/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/phrase/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That {{c1::phrase you used}} was nice.",
-      "explanation": "<b>Written:</b> phrase you used<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">phra-zhoo used</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'phrase you used' pronounced as 'phra-zhoo used'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/phrase%20you%20used/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/phrase/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That {{c1::phrase you used}} was nice.",
+      "explanation": "<b>Full transcript:</b> phrase you used<br><br><b>Connected form:</b> <i>phra-zhoo used</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Yod Coalescence</code></li></ul>",
       "spanish": "frase que usaste",
-      "usage": "Written: <code>phrase you used</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">phra-zhoo used</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/phrase%20you%20used/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/phrase/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>phra-zhoo used</code><br>Formal: <code>phrase you used</code><br><a href=\"https://youglish.com/pronounce/phrase%20you%20used/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/phrase/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "97bd6bd5fb1d014d",
+      "full_transcript": "phrase you used",
+      "connected_form": "phra-zhoo used",
+      "gap_text": "That {{c1::phrase you used}} was nice.",
+      "rules_applied": [
+        "Yod Coalescence"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/phrase%20you%20used/english/us",
         "forvo_word": "https://forvo.com/word/phrase/#en"

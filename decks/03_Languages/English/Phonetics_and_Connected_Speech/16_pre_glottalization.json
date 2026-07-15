@@ -2,7 +2,7 @@
   {
     "id": "a1c41e72c83a5afa",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/napkin/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/napkin/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Use a {{c1::napkin}} to clean up.",
-      "explanation": "<b>Written:</b> napkin<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">na'p-kin</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'napkin' pronounced as 'na'p-kin'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/napkin/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/napkin/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Use a {{c1::napkin}} to clean up.",
+      "explanation": "<b>Full transcript:</b> napkin<br><br><b>Connected form:</b> <i>na'p-kin</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "servilleta",
-      "usage": "Written: <code>napkin</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">na'p-kin</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/napkin/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/napkin/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>na'p-kin</code><br>Formal: <code>napkin</code><br><a href=\"https://youglish.com/pronounce/napkin/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/napkin/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a1c41e72c83a5afa",
+      "full_transcript": "napkin",
+      "connected_form": "na'p-kin",
+      "gap_text": "Use a {{c1::napkin}} to clean up.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/napkin/english/us",
         "forvo_word": "https://forvo.com/word/napkin/#en"
@@ -42,7 +50,7 @@
   {
     "id": "23a984e3bb0968ce",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/actor/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/actor/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is a famous Hollywood {{c1::actor}}.",
-      "explanation": "<b>Written:</b> actor<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">a'k-tor</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'actor' pronounced as 'a'k-tor'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/actor/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/actor/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is a famous Hollywood {{c1::actor}}.",
+      "explanation": "<b>Full transcript:</b> actor<br><br><b>Connected form:</b> <i>a'k-tor</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "actor",
-      "usage": "Written: <code>actor</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">a'k-tor</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/actor/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/actor/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>a'k-tor</code><br>Formal: <code>actor</code><br><a href=\"https://youglish.com/pronounce/actor/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/actor/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "23a984e3bb0968ce",
+      "full_transcript": "actor",
+      "connected_form": "a'k-tor",
+      "gap_text": "He is a famous Hollywood {{c1::actor}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/actor/english/us",
         "forvo_word": "https://forvo.com/word/actor/#en"
@@ -82,7 +98,7 @@
   {
     "id": "fd50005e8c643889",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/backward/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/backward/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He took a step {{c1::backward}}.",
-      "explanation": "<b>Written:</b> backward<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ba'k-ward</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'backward' pronounced as 'ba'k-ward'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/backward/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/backward/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He took a step {{c1::backward}}.",
+      "explanation": "<b>Full transcript:</b> backward<br><br><b>Connected form:</b> <i>ba'k-ward</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "hacia atrás",
-      "usage": "Written: <code>backward</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ba'k-ward</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/backward/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/backward/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ba'k-ward</code><br>Formal: <code>backward</code><br><a href=\"https://youglish.com/pronounce/backward/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/backward/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fd50005e8c643889",
+      "full_transcript": "backward",
+      "connected_form": "ba'k-ward",
+      "gap_text": "He took a step {{c1::backward}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/backward/english/us",
         "forvo_word": "https://forvo.com/word/backward/#en"
@@ -122,7 +146,7 @@
   {
     "id": "4ee65cfffd71d2b5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/apt/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/apt/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That was an {{c1::apt}} description.",
-      "explanation": "<b>Written:</b> apt<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">a'pt</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'apt' pronounced as 'a'pt'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/apt/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/apt/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That was an {{c1::apt}} description.",
+      "explanation": "<b>Full transcript:</b> apt<br><br><b>Connected form:</b> <i>a'pt</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "apropiado",
-      "usage": "Written: <code>apt</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">a'pt</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/apt/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/apt/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>a'pt</code><br>Formal: <code>apt</code><br><a href=\"https://youglish.com/pronounce/apt/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/apt/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4ee65cfffd71d2b5",
+      "full_transcript": "apt",
+      "connected_form": "a'pt",
+      "gap_text": "That was an {{c1::apt}} description.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/apt/english/us",
         "forvo_word": "https://forvo.com/word/apt/#en"
@@ -162,7 +194,7 @@
   {
     "id": "a1dcb4d912d8ce04",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/captain/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/captain/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::captain}} steered the ship.",
-      "explanation": "<b>Written:</b> captain<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ca'p-tain</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'captain' pronounced as 'ca'p-tain'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/captain/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/captain/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::captain}} steered the ship.",
+      "explanation": "<b>Full transcript:</b> captain<br><br><b>Connected form:</b> <i>ca'p-tain</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "capitán",
-      "usage": "Written: <code>captain</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ca'p-tain</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/captain/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/captain/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ca'p-tain</code><br>Formal: <code>captain</code><br><a href=\"https://youglish.com/pronounce/captain/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/captain/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a1dcb4d912d8ce04",
+      "full_transcript": "captain",
+      "connected_form": "ca'p-tain",
+      "gap_text": "The {{c1::captain}} steered the ship.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/captain/english/us",
         "forvo_word": "https://forvo.com/word/captain/#en"
@@ -202,7 +242,7 @@
   {
     "id": "22b2ffb0b1f86587",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/doctor/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/doctor/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>You should see a {{c1::doctor}}.",
-      "explanation": "<b>Written:</b> doctor<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">do'k-tor</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'doctor' pronounced as 'do'k-tor'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/doctor/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/doctor/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>You should see a {{c1::doctor}}.",
+      "explanation": "<b>Full transcript:</b> doctor<br><br><b>Connected form:</b> <i>do'k-tor</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "doctor",
-      "usage": "Written: <code>doctor</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">do'k-tor</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/doctor/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/doctor/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>do'k-tor</code><br>Formal: <code>doctor</code><br><a href=\"https://youglish.com/pronounce/doctor/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/doctor/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "22b2ffb0b1f86587",
+      "full_transcript": "doctor",
+      "connected_form": "do'k-tor",
+      "gap_text": "You should see a {{c1::doctor}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/doctor/english/us",
         "forvo_word": "https://forvo.com/word/doctor/#en"
@@ -242,7 +290,7 @@
   {
     "id": "ce676d0031f63a9f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sector/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sector/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He works in the private {{c1::sector}}.",
-      "explanation": "<b>Written:</b> sector<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">se'k-tor</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sector' pronounced as 'se'k-tor'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sector/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sector/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He works in the private {{c1::sector}}.",
+      "explanation": "<b>Full transcript:</b> sector<br><br><b>Connected form:</b> <i>se'k-tor</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "sector",
-      "usage": "Written: <code>sector</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">se'k-tor</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sector/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sector/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>se'k-tor</code><br>Formal: <code>sector</code><br><a href=\"https://youglish.com/pronounce/sector/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sector/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ce676d0031f63a9f",
+      "full_transcript": "sector",
+      "connected_form": "se'k-tor",
+      "gap_text": "He works in the private {{c1::sector}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sector/english/us",
         "forvo_word": "https://forvo.com/word/sector/#en"
@@ -282,7 +338,7 @@
   {
     "id": "0c3a4cd78a1333a8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/aspect/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/aspect/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is an important {{c1::aspect}}.",
-      "explanation": "<b>Written:</b> aspect<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">as-pe'ct</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'aspect' pronounced as 'as-pe'ct'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/aspect/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/aspect/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is an important {{c1::aspect}}.",
+      "explanation": "<b>Full transcript:</b> aspect<br><br><b>Connected form:</b> <i>as-pe'ct</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "aspecto",
-      "usage": "Written: <code>aspect</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">as-pe'ct</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/aspect/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/aspect/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>as-pe'ct</code><br>Formal: <code>aspect</code><br><a href=\"https://youglish.com/pronounce/aspect/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/aspect/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0c3a4cd78a1333a8",
+      "full_transcript": "aspect",
+      "connected_form": "as-pe'ct",
+      "gap_text": "This is an important {{c1::aspect}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/aspect/english/us",
         "forvo_word": "https://forvo.com/word/aspect/#en"
@@ -322,7 +386,7 @@
   {
     "id": "2aed8d97bd835aba",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/football/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/football/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We played {{c1::football}} yesterday.",
-      "explanation": "<b>Written:</b> football<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">foo't-ball</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'football' pronounced as 'foo't-ball'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/football/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/football/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We played {{c1::football}} yesterday.",
+      "explanation": "<b>Full transcript:</b> football<br><br><b>Connected form:</b> <i>foo't-ball</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "fútbol",
-      "usage": "Written: <code>football</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">foo't-ball</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/football/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/football/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>foo't-ball</code><br>Formal: <code>football</code><br><a href=\"https://youglish.com/pronounce/football/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/football/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2aed8d97bd835aba",
+      "full_transcript": "football",
+      "connected_form": "foo't-ball",
+      "gap_text": "We played {{c1::football}} yesterday.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/football/english/us",
         "forvo_word": "https://forvo.com/word/football/#en"
@@ -362,7 +434,7 @@
   {
     "id": "cc18375cd0029131",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/catnap/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/catnap/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I need a quick {{c1::catnap}}.",
-      "explanation": "<b>Written:</b> catnap<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ca't-nap</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'catnap' pronounced as 'ca't-nap'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/catnap/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/catnap/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I need a quick {{c1::catnap}}.",
+      "explanation": "<b>Full transcript:</b> catnap<br><br><b>Connected form:</b> <i>ca't-nap</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "siesta corta",
-      "usage": "Written: <code>catnap</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ca't-nap</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/catnap/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/catnap/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ca't-nap</code><br>Formal: <code>catnap</code><br><a href=\"https://youglish.com/pronounce/catnap/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/catnap/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cc18375cd0029131",
+      "full_transcript": "catnap",
+      "connected_form": "ca't-nap",
+      "gap_text": "I need a quick {{c1::catnap}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/catnap/english/us",
         "forvo_word": "https://forvo.com/word/catnap/#en"
@@ -402,7 +482,7 @@
   {
     "id": "8a3a4aebbdf0c944",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/outpost/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/outpost/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They set up an {{c1::outpost}}.",
-      "explanation": "<b>Written:</b> outpost<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ou't-post</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'outpost' pronounced as 'ou't-post'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/outpost/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/outpost/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They set up an {{c1::outpost}}.",
+      "explanation": "<b>Full transcript:</b> outpost<br><br><b>Connected form:</b> <i>ou't-post</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "avanzada / puesto",
-      "usage": "Written: <code>outpost</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ou't-post</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/outpost/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/outpost/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ou't-post</code><br>Formal: <code>outpost</code><br><a href=\"https://youglish.com/pronounce/outpost/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/outpost/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8a3a4aebbdf0c944",
+      "full_transcript": "outpost",
+      "connected_form": "ou't-post",
+      "gap_text": "They set up an {{c1::outpost}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/outpost/english/us",
         "forvo_word": "https://forvo.com/word/outpost/#en"
@@ -442,7 +530,7 @@
   {
     "id": "13672ddd8ccc57e5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/nightclub/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/nightclub/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We went to a {{c1::nightclub}}.",
-      "explanation": "<b>Written:</b> nightclub<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">nigh't-club</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'nightclub' pronounced as 'nigh't-club'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/nightclub/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/nightclub/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We went to a {{c1::nightclub}}.",
+      "explanation": "<b>Full transcript:</b> nightclub<br><br><b>Connected form:</b> <i>nigh't-club</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "discoteca",
-      "usage": "Written: <code>nightclub</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">nigh't-club</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/nightclub/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/nightclub/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>nigh't-club</code><br>Formal: <code>nightclub</code><br><a href=\"https://youglish.com/pronounce/nightclub/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/nightclub/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "13672ddd8ccc57e5",
+      "full_transcript": "nightclub",
+      "connected_form": "nigh't-club",
+      "gap_text": "We went to a {{c1::nightclub}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/nightclub/english/us",
         "forvo_word": "https://forvo.com/word/nightclub/#en"
@@ -482,7 +578,7 @@
   {
     "id": "2972c2fdf399b018",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/notebook/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/notebook/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Write it in your {{c1::notebook}}.",
-      "explanation": "<b>Written:</b> notebook<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">no'te-book</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'notebook' pronounced as 'no'te-book'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/notebook/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/notebook/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Write it in your {{c1::notebook}}.",
+      "explanation": "<b>Full transcript:</b> notebook<br><br><b>Connected form:</b> <i>no'te-book</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "cuaderno",
-      "usage": "Written: <code>notebook</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">no'te-book</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/notebook/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/notebook/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>no'te-book</code><br>Formal: <code>notebook</code><br><a href=\"https://youglish.com/pronounce/notebook/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/notebook/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2972c2fdf399b018",
+      "full_transcript": "notebook",
+      "connected_form": "no'te-book",
+      "gap_text": "Write it in your {{c1::notebook}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/notebook/english/us",
         "forvo_word": "https://forvo.com/word/notebook/#en"
@@ -522,7 +626,7 @@
   {
     "id": "1bce950abf938df6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hatbox/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hatbox/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She kept it in a {{c1::hatbox}}.",
-      "explanation": "<b>Written:</b> hatbox<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ha't-box</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hatbox' pronounced as 'ha't-box'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hatbox/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hatbox/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She kept it in a {{c1::hatbox}}.",
+      "explanation": "<b>Full transcript:</b> hatbox<br><br><b>Connected form:</b> <i>ha't-box</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "caja de sombreros",
-      "usage": "Written: <code>hatbox</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ha't-box</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hatbox/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hatbox/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ha't-box</code><br>Formal: <code>hatbox</code><br><a href=\"https://youglish.com/pronounce/hatbox/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hatbox/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1bce950abf938df6",
+      "full_transcript": "hatbox",
+      "connected_form": "ha't-box",
+      "gap_text": "She kept it in a {{c1::hatbox}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hatbox/english/us",
         "forvo_word": "https://forvo.com/word/hatbox/#en"
@@ -562,7 +674,7 @@
   {
     "id": "690e38369786087a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/meatball/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/meatball/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Add a {{c1::meatball}} to the pasta.",
-      "explanation": "<b>Written:</b> meatball<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mea't-ball</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'meatball' pronounced as 'mea't-ball'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/meatball/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/meatball/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Add a {{c1::meatball}} to the pasta.",
+      "explanation": "<b>Full transcript:</b> meatball<br><br><b>Connected form:</b> <i>mea't-ball</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "albóndiga",
-      "usage": "Written: <code>meatball</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mea't-ball</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/meatball/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/meatball/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mea't-ball</code><br>Formal: <code>meatball</code><br><a href=\"https://youglish.com/pronounce/meatball/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/meatball/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "690e38369786087a",
+      "full_transcript": "meatball",
+      "connected_form": "mea't-ball",
+      "gap_text": "Add a {{c1::meatball}} to the pasta.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/meatball/english/us",
         "forvo_word": "https://forvo.com/word/meatball/#en"
@@ -602,7 +722,7 @@
   {
     "id": "ca800dc394d96812",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/nutshell/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/nutshell/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Explain it in a {{c1::nutshell}}.",
-      "explanation": "<b>Written:</b> nutshell<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">nu't-shell</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'nutshell' pronounced as 'nu't-shell'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/nutshell/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/nutshell/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Explain it in a {{c1::nutshell}}.",
+      "explanation": "<b>Full transcript:</b> nutshell<br><br><b>Connected form:</b> <i>nu't-shell</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "pocas palabras",
-      "usage": "Written: <code>nutshell</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">nu't-shell</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/nutshell/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/nutshell/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>nu't-shell</code><br>Formal: <code>nutshell</code><br><a href=\"https://youglish.com/pronounce/nutshell/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/nutshell/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ca800dc394d96812",
+      "full_transcript": "nutshell",
+      "connected_form": "nu't-shell",
+      "gap_text": "Explain it in a {{c1::nutshell}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/nutshell/english/us",
         "forvo_word": "https://forvo.com/word/nutshell/#en"
@@ -642,7 +770,7 @@
   {
     "id": "6530f1b35d81f508",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/witness/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/witness/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He was a key {{c1::witness}}.",
-      "explanation": "<b>Written:</b> witness<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wi't-ness</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'witness' pronounced as 'wi't-ness'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/witness/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/witness/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He was a key {{c1::witness}}.",
+      "explanation": "<b>Full transcript:</b> witness<br><br><b>Connected form:</b> <i>wi't-ness</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "testigo",
-      "usage": "Written: <code>witness</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wi't-ness</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/witness/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/witness/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wi't-ness</code><br>Formal: <code>witness</code><br><a href=\"https://youglish.com/pronounce/witness/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/witness/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6530f1b35d81f508",
+      "full_transcript": "witness",
+      "connected_form": "wi't-ness",
+      "gap_text": "He was a key {{c1::witness}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/witness/english/us",
         "forvo_word": "https://forvo.com/word/witness/#en"
@@ -682,7 +818,7 @@
   {
     "id": "b249fbc1b33bad22",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fitness/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fitness/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Physical {{c1::fitness}} is vital.",
-      "explanation": "<b>Written:</b> fitness<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fi't-ness</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'fitness' pronounced as 'fi't-ness'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/fitness/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fitness/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Physical {{c1::fitness}} is vital.",
+      "explanation": "<b>Full transcript:</b> fitness<br><br><b>Connected form:</b> <i>fi't-ness</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "aptitud física",
-      "usage": "Written: <code>fitness</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fi't-ness</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/fitness/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/fitness/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fi't-ness</code><br>Formal: <code>fitness</code><br><a href=\"https://youglish.com/pronounce/fitness/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/fitness/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b249fbc1b33bad22",
+      "full_transcript": "fitness",
+      "connected_form": "fi't-ness",
+      "gap_text": "Physical {{c1::fitness}} is vital.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/fitness/english/us",
         "forvo_word": "https://forvo.com/word/fitness/#en"
@@ -722,7 +866,7 @@
   {
     "id": "b14400a021d651af",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sweetheart/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sweetheart/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She is a real {{c1::sweetheart}}.",
-      "explanation": "<b>Written:</b> sweetheart<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">swee't-heart</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sweetheart' pronounced as 'swee't-heart'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sweetheart/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sweetheart/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She is a real {{c1::sweetheart}}.",
+      "explanation": "<b>Full transcript:</b> sweetheart<br><br><b>Connected form:</b> <i>swee't-heart</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "cariño",
-      "usage": "Written: <code>sweetheart</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">swee't-heart</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sweetheart/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sweetheart/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>swee't-heart</code><br>Formal: <code>sweetheart</code><br><a href=\"https://youglish.com/pronounce/sweetheart/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sweetheart/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b14400a021d651af",
+      "full_transcript": "sweetheart",
+      "connected_form": "swee't-heart",
+      "gap_text": "She is a real {{c1::sweetheart}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sweetheart/english/us",
         "forvo_word": "https://forvo.com/word/sweetheart/#en"
@@ -762,7 +914,7 @@
   {
     "id": "92684cab92db27c8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/outfit/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/outfit/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I love your {{c1::outfit}}.",
-      "explanation": "<b>Written:</b> outfit<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ou't-fit</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'outfit' pronounced as 'ou't-fit'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/outfit/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/outfit/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I love your {{c1::outfit}}.",
+      "explanation": "<b>Full transcript:</b> outfit<br><br><b>Connected form:</b> <i>ou't-fit</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "atuendo",
-      "usage": "Written: <code>outfit</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ou't-fit</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/outfit/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/outfit/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ou't-fit</code><br>Formal: <code>outfit</code><br><a href=\"https://youglish.com/pronounce/outfit/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/outfit/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "92684cab92db27c8",
+      "full_transcript": "outfit",
+      "connected_form": "ou't-fit",
+      "gap_text": "I love your {{c1::outfit}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/outfit/english/us",
         "forvo_word": "https://forvo.com/word/outfit/#en"
@@ -802,7 +962,7 @@
   {
     "id": "7e428053dc7d04b7",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hotspot/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hotspot/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Connect to the Wi-Fi {{c1::hotspot}}.",
-      "explanation": "<b>Written:</b> hotspot<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ho't-spot</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hotspot' pronounced as 'ho't-spot'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hotspot/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hotspot/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Connect to the Wi-Fi {{c1::hotspot}}.",
+      "explanation": "<b>Full transcript:</b> hotspot<br><br><b>Connected form:</b> <i>ho't-spot</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "punto de acceso",
-      "usage": "Written: <code>hotspot</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ho't-spot</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hotspot/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hotspot/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ho't-spot</code><br>Formal: <code>hotspot</code><br><a href=\"https://youglish.com/pronounce/hotspot/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hotspot/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7e428053dc7d04b7",
+      "full_transcript": "hotspot",
+      "connected_form": "ho't-spot",
+      "gap_text": "Connect to the Wi-Fi {{c1::hotspot}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hotspot/english/us",
         "forvo_word": "https://forvo.com/word/hotspot/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "dcd416b044a5b53f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/upset/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/upset/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't get {{c1::upset}}.",
-      "explanation": "<b>Written:</b> upset<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">u'p-set</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'upset' pronounced as 'u'p-set'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/upset/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/upset/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't get {{c1::upset}}.",
+      "explanation": "<b>Full transcript:</b> upset<br><br><b>Connected form:</b> <i>u'p-set</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "molesto",
-      "usage": "Written: <code>upset</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">u'p-set</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/upset/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/upset/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>u'p-set</code><br>Formal: <code>upset</code><br><a href=\"https://youglish.com/pronounce/upset/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/upset/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "dcd416b044a5b53f",
+      "full_transcript": "upset",
+      "connected_form": "u'p-set",
+      "gap_text": "Don't get {{c1::upset}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/upset/english/us",
         "forvo_word": "https://forvo.com/word/upset/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "385445e0225b003a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/network/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/network/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The computer {{c1::network}} is down.",
-      "explanation": "<b>Written:</b> network<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ne't-work</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'network' pronounced as 'ne't-work'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/network/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/network/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The computer {{c1::network}} is down.",
+      "explanation": "<b>Full transcript:</b> network<br><br><b>Connected form:</b> <i>ne't-work</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "red",
-      "usage": "Written: <code>network</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ne't-work</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/network/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/network/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ne't-work</code><br>Formal: <code>network</code><br><a href=\"https://youglish.com/pronounce/network/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/network/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "385445e0225b003a",
+      "full_transcript": "network",
+      "connected_form": "ne't-work",
+      "gap_text": "The computer {{c1::network}} is down.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/network/english/us",
         "forvo_word": "https://forvo.com/word/network/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "dbac409566551bab",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/artistic/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/artistic/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She has an {{c1::artistic}} talent.",
-      "explanation": "<b>Written:</b> artistic<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ar't-istic</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'artistic' pronounced as 'ar't-istic'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/artistic/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/artistic/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She has an {{c1::artistic}} talent.",
+      "explanation": "<b>Full transcript:</b> artistic<br><br><b>Connected form:</b> <i>ar't-istic</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "artístico",
-      "usage": "Written: <code>artistic</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ar't-istic</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/artistic/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/artistic/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ar't-istic</code><br>Formal: <code>artistic</code><br><a href=\"https://youglish.com/pronounce/artistic/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/artistic/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "dbac409566551bab",
+      "full_transcript": "artistic",
+      "connected_form": "ar't-istic",
+      "gap_text": "She has an {{c1::artistic}} talent.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/artistic/english/us",
         "forvo_word": "https://forvo.com/word/artistic/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "2ba33154f8288d88",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/partnership/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/partnership/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We formed a new {{c1::partnership}}.",
-      "explanation": "<b>Written:</b> partnership<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">par't-nership</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'partnership' pronounced as 'par't-nership'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/partnership/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/partnership/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We formed a new {{c1::partnership}}.",
+      "explanation": "<b>Full transcript:</b> partnership<br><br><b>Connected form:</b> <i>par't-nership</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "asociación",
-      "usage": "Written: <code>partnership</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">par't-nership</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/partnership/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/partnership/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>par't-nership</code><br>Formal: <code>partnership</code><br><a href=\"https://youglish.com/pronounce/partnership/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/partnership/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2ba33154f8288d88",
+      "full_transcript": "partnership",
+      "connected_form": "par't-nership",
+      "gap_text": "We formed a new {{c1::partnership}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/partnership/english/us",
         "forvo_word": "https://forvo.com/word/partnership/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "d32b5abf84f6376d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hardship/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hardship/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They faced financial {{c1::hardship}}.",
-      "explanation": "<b>Written:</b> hardship<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">har'd-ship</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hardship' pronounced as 'har'd-ship'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hardship/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hardship/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They faced financial {{c1::hardship}}.",
+      "explanation": "<b>Full transcript:</b> hardship<br><br><b>Connected form:</b> <i>har'd-ship</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "dificultades",
-      "usage": "Written: <code>hardship</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">har'd-ship</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hardship/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hardship/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>har'd-ship</code><br>Formal: <code>hardship</code><br><a href=\"https://youglish.com/pronounce/hardship/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hardship/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d32b5abf84f6376d",
+      "full_transcript": "hardship",
+      "connected_form": "har'd-ship",
+      "gap_text": "They faced financial {{c1::hardship}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hardship/english/us",
         "forvo_word": "https://forvo.com/word/hardship/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "1e31be322b4ee44d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/friendship/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/friendship/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I value our {{c1::friendship}}.",
-      "explanation": "<b>Written:</b> friendship<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">frien'd-ship</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'friendship' pronounced as 'frien'd-ship'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/friendship/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/friendship/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I value our {{c1::friendship}}.",
+      "explanation": "<b>Full transcript:</b> friendship<br><br><b>Connected form:</b> <i>frien'd-ship</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "amistad",
-      "usage": "Written: <code>friendship</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">frien'd-ship</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/friendship/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/friendship/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>frien'd-ship</code><br>Formal: <code>friendship</code><br><a href=\"https://youglish.com/pronounce/friendship/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/friendship/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1e31be322b4ee44d",
+      "full_transcript": "friendship",
+      "connected_form": "frien'd-ship",
+      "gap_text": "I value our {{c1::friendship}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/friendship/english/us",
         "forvo_word": "https://forvo.com/word/friendship/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "2081ce4840cd5728",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/courtship/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/courtship/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It was a long {{c1::courtship}}.",
-      "explanation": "<b>Written:</b> courtship<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cour't-ship</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'courtship' pronounced as 'cour't-ship'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/courtship/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/courtship/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It was a long {{c1::courtship}}.",
+      "explanation": "<b>Full transcript:</b> courtship<br><br><b>Connected form:</b> <i>cour't-ship</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "cortejo",
-      "usage": "Written: <code>courtship</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cour't-ship</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/courtship/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/courtship/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cour't-ship</code><br>Formal: <code>courtship</code><br><a href=\"https://youglish.com/pronounce/courtship/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/courtship/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2081ce4840cd5728",
+      "full_transcript": "courtship",
+      "connected_form": "cour't-ship",
+      "gap_text": "It was a long {{c1::courtship}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/courtship/english/us",
         "forvo_word": "https://forvo.com/word/courtship/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "b84eef8479b7d9f6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/citizenship/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/citizenship/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He applied for {{c1::citizenship}}.",
-      "explanation": "<b>Written:</b> citizenship<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">citi'zen-ship</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'citizenship' pronounced as 'citi'zen-ship'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/citizenship/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/citizenship/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He applied for {{c1::citizenship}}.",
+      "explanation": "<b>Full transcript:</b> citizenship<br><br><b>Connected form:</b> <i>citi'zen-ship</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "ciudadanía",
-      "usage": "Written: <code>citizenship</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">citi'zen-ship</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/citizenship/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/citizenship/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>citi'zen-ship</code><br>Formal: <code>citizenship</code><br><a href=\"https://youglish.com/pronounce/citizenship/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/citizenship/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b84eef8479b7d9f6",
+      "full_transcript": "citizenship",
+      "connected_form": "citi'zen-ship",
+      "gap_text": "He applied for {{c1::citizenship}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/citizenship/english/us",
         "forvo_word": "https://forvo.com/word/citizenship/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "d36b2fcbbe8200fc",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Pre_Glottalization 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/membership/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/membership/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Renew your library {{c1::membership}}.",
-      "explanation": "<b>Written:</b> membership<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mem'ber-ship</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'membership' pronounced as 'mem'ber-ship'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/membership/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/membership/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Renew your library {{c1::membership}}.",
+      "explanation": "<b>Full transcript:</b> membership<br><br><b>Connected form:</b> <i>mem'ber-ship</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Pre Glottalization</code></li></ul>",
       "spanish": "membresía",
-      "usage": "Written: <code>membership</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mem'ber-ship</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/membership/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/membership/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mem'ber-ship</code><br>Formal: <code>membership</code><br><a href=\"https://youglish.com/pronounce/membership/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/membership/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d36b2fcbbe8200fc",
+      "full_transcript": "membership",
+      "connected_form": "mem'ber-ship",
+      "gap_text": "Renew your library {{c1::membership}}.",
+      "rules_applied": [
+        "Pre Glottalization"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/membership/english/us",
         "forvo_word": "https://forvo.com/word/membership/#en"

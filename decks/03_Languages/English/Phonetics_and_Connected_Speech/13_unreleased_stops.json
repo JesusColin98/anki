@@ -2,7 +2,7 @@
   {
     "id": "8417105039428f1d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/stop%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/stop/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::stop it}}.",
-      "explanation": "<b>Written:</b> stop it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">stop-it</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'stop it' pronounced as 'stop-it'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/stop%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/stop/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::stop it}}.",
+      "explanation": "<b>Full transcript:</b> stop it<br><br><b>Connected form:</b> <i>stop-it</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "para",
-      "usage": "Written: <code>stop it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">stop-it</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/stop%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/stop/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>stop-it</code><br>Formal: <code>stop it</code><br><a href=\"https://youglish.com/pronounce/stop%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/stop/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8417105039428f1d",
+      "full_transcript": "stop it",
+      "connected_form": "stop-it",
+      "gap_text": "Please {{c1::stop it}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/stop%20it/english/us",
         "forvo_word": "https://forvo.com/word/stop/#en"
@@ -42,7 +50,7 @@
   {
     "id": "ed1cec5312506579",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hot%20dog/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hot/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I bought a {{c1::hot dog}}.",
-      "explanation": "<b>Written:</b> hot dog<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hah-dog</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hot dog' pronounced as 'hah-dog'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hot%20dog/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hot/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I bought a {{c1::hot dog}}.",
+      "explanation": "<b>Full transcript:</b> hot dog<br><br><b>Connected form:</b> <i>hah-dog</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "perrito caliente",
-      "usage": "Written: <code>hot dog</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hah-dog</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hot%20dog/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hot/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hah-dog</code><br>Formal: <code>hot dog</code><br><a href=\"https://youglish.com/pronounce/hot%20dog/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hot/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ed1cec5312506579",
+      "full_transcript": "hot dog",
+      "connected_form": "hah-dog",
+      "gap_text": "I bought a {{c1::hot dog}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hot%20dog/english/us",
         "forvo_word": "https://forvo.com/word/hot/#en"
@@ -82,7 +98,7 @@
   {
     "id": "58ac9834d56844ce",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cat%20food/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cat/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Buy some {{c1::cat food}}.",
-      "explanation": "<b>Written:</b> cat food<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cah-food</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cat food' pronounced as 'cah-food'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cat%20food/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cat/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Buy some {{c1::cat food}}.",
+      "explanation": "<b>Full transcript:</b> cat food<br><br><b>Connected form:</b> <i>cah-food</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "comida de gato",
-      "usage": "Written: <code>cat food</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cah-food</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cat%20food/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cat/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cah-food</code><br>Formal: <code>cat food</code><br><a href=\"https://youglish.com/pronounce/cat%20food/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cat/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "58ac9834d56844ce",
+      "full_transcript": "cat food",
+      "connected_form": "cah-food",
+      "gap_text": "Buy some {{c1::cat food}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cat%20food/english/us",
         "forvo_word": "https://forvo.com/word/cat/#en"
@@ -122,7 +146,7 @@
   {
     "id": "dc80a90eff3c8538",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/big%20deal/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/big/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's no {{c1::big deal}}.",
-      "explanation": "<b>Written:</b> big deal<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bih-deal</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'big deal' pronounced as 'bih-deal'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/big%20deal/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/big/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's no {{c1::big deal}}.",
+      "explanation": "<b>Full transcript:</b> big deal<br><br><b>Connected form:</b> <i>bih-deal</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "gran cosa",
-      "usage": "Written: <code>big deal</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bih-deal</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/big%20deal/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/big/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bih-deal</code><br>Formal: <code>big deal</code><br><a href=\"https://youglish.com/pronounce/big%20deal/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/big/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "dc80a90eff3c8538",
+      "full_transcript": "big deal",
+      "connected_form": "bih-deal",
+      "gap_text": "It's no {{c1::big deal}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/big%20deal/english/us",
         "forvo_word": "https://forvo.com/word/big/#en"
@@ -162,7 +194,7 @@
   {
     "id": "272c2d7892f2c3c6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/back%20pack/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/back/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I carried a {{c1::back pack}}.",
-      "explanation": "<b>Written:</b> back pack<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bah-pack</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'back pack' pronounced as 'bah-pack'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/back%20pack/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/back/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I carried a {{c1::back pack}}.",
+      "explanation": "<b>Full transcript:</b> back pack<br><br><b>Connected form:</b> <i>bah-pack</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "mochila",
-      "usage": "Written: <code>back pack</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bah-pack</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/back%20pack/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/back/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bah-pack</code><br>Formal: <code>back pack</code><br><a href=\"https://youglish.com/pronounce/back%20pack/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/back/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "272c2d7892f2c3c6",
+      "full_transcript": "back pack",
+      "connected_form": "bah-pack",
+      "gap_text": "I carried a {{c1::back pack}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/back%20pack/english/us",
         "forvo_word": "https://forvo.com/word/back/#en"
@@ -202,7 +242,7 @@
   {
     "id": "1c82e5b092ec1047",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/black%20coffee/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/black/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I drink {{c1::black coffee}}.",
-      "explanation": "<b>Written:</b> black coffee<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">blah-coffee</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'black coffee' pronounced as 'blah-coffee'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/black%20coffee/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/black/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I drink {{c1::black coffee}}.",
+      "explanation": "<b>Full transcript:</b> black coffee<br><br><b>Connected form:</b> <i>blah-coffee</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "café solo",
-      "usage": "Written: <code>black coffee</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">blah-coffee</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/black%20coffee/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/black/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>blah-coffee</code><br>Formal: <code>black coffee</code><br><a href=\"https://youglish.com/pronounce/black%20coffee/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/black/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1c82e5b092ec1047",
+      "full_transcript": "black coffee",
+      "connected_form": "blah-coffee",
+      "gap_text": "I drink {{c1::black coffee}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/black%20coffee/english/us",
         "forvo_word": "https://forvo.com/word/black/#en"
@@ -242,7 +290,7 @@
   {
     "id": "6a4783d3270f69e9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/that%20day/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/that/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I remember {{c1::that day}}.",
-      "explanation": "<b>Written:</b> that day<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tha-day</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'that day' pronounced as 'tha-day'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/that%20day/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/that/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I remember {{c1::that day}}.",
+      "explanation": "<b>Full transcript:</b> that day<br><br><b>Connected form:</b> <i>tha-day</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "ese día",
-      "usage": "Written: <code>that day</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tha-day</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/that%20day/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/that/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tha-day</code><br>Formal: <code>that day</code><br><a href=\"https://youglish.com/pronounce/that%20day/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/that/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6a4783d3270f69e9",
+      "full_transcript": "that day",
+      "connected_form": "tha-day",
+      "gap_text": "I remember {{c1::that day}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/that%20day/english/us",
         "forvo_word": "https://forvo.com/word/that/#en"
@@ -282,7 +338,7 @@
   {
     "id": "cfcbe3c5f33ac7f4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/good%20morning/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/good/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Good morning}}, everyone.",
-      "explanation": "<b>Written:</b> good morning<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">guh-morning</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'good morning' pronounced as 'guh-morning'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/good%20morning/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/good/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Good morning}}, everyone.",
+      "explanation": "<b>Full transcript:</b> good morning<br><br><b>Connected form:</b> <i>guh-morning</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "buenos días",
-      "usage": "Written: <code>good morning</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">guh-morning</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/good%20morning/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/good/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>guh-morning</code><br>Formal: <code>good morning</code><br><a href=\"https://youglish.com/pronounce/good%20morning/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/good/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cfcbe3c5f33ac7f4",
+      "full_transcript": "good morning",
+      "connected_form": "guh-morning",
+      "gap_text": "{{c1::Good morning}}, everyone.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/good%20morning/english/us",
         "forvo_word": "https://forvo.com/word/good/#en"
@@ -322,7 +386,7 @@
   {
     "id": "7d7db8ef5ab1c9ad",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/big%20picture/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/big/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Look at the {{c1::big picture}}.",
-      "explanation": "<b>Written:</b> big picture<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bih-picture</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'big picture' pronounced as 'bih-picture'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/big%20picture/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/big/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Look at the {{c1::big picture}}.",
+      "explanation": "<b>Full transcript:</b> big picture<br><br><b>Connected form:</b> <i>bih-picture</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "panorama general",
-      "usage": "Written: <code>big picture</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bih-picture</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/big%20picture/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/big/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bih-picture</code><br>Formal: <code>big picture</code><br><a href=\"https://youglish.com/pronounce/big%20picture/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/big/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7d7db8ef5ab1c9ad",
+      "full_transcript": "big picture",
+      "connected_form": "bih-picture",
+      "gap_text": "Look at the {{c1::big picture}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/big%20picture/english/us",
         "forvo_word": "https://forvo.com/word/big/#en"
@@ -362,7 +434,7 @@
   {
     "id": "cb65e2fdfe02c9bd",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/grab%20that/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/grab/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can you {{c1::grab that}}?",
-      "explanation": "<b>Written:</b> grab that<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">grah-that</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'grab that' pronounced as 'grah-that'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/grab%20that/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/grab/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can you {{c1::grab that}}?",
+      "explanation": "<b>Full transcript:</b> grab that<br><br><b>Connected form:</b> <i>grah-that</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "tomar eso",
-      "usage": "Written: <code>grab that</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">grah-that</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/grab%20that/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/grab/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>grah-that</code><br>Formal: <code>grab that</code><br><a href=\"https://youglish.com/pronounce/grab%20that/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/grab/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cb65e2fdfe02c9bd",
+      "full_transcript": "grab that",
+      "connected_form": "grah-that",
+      "gap_text": "Can you {{c1::grab that}}?",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/grab%20that/english/us",
         "forvo_word": "https://forvo.com/word/grab/#en"
@@ -402,7 +482,7 @@
   {
     "id": "9a8f3bfdaf17bd8a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bad%20dog/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bad/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is a {{c1::bad dog}}.",
-      "explanation": "<b>Written:</b> bad dog<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bah-dog</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bad dog' pronounced as 'bah-dog'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bad%20dog/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bad/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is a {{c1::bad dog}}.",
+      "explanation": "<b>Full transcript:</b> bad dog<br><br><b>Connected form:</b> <i>bah-dog</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "perro malo",
-      "usage": "Written: <code>bad dog</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bah-dog</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bad%20dog/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bad/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bah-dog</code><br>Formal: <code>bad dog</code><br><a href=\"https://youglish.com/pronounce/bad%20dog/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bad/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9a8f3bfdaf17bd8a",
+      "full_transcript": "bad dog",
+      "connected_form": "bah-dog",
+      "gap_text": "He is a {{c1::bad dog}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bad%20dog/english/us",
         "forvo_word": "https://forvo.com/word/bad/#en"
@@ -442,7 +530,7 @@
   {
     "id": "ff630b4441df5aae",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sub%20titles/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sub/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Turn on the {{c1::sub titles}}.",
-      "explanation": "<b>Written:</b> sub titles<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">suh-titles</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sub titles' pronounced as 'suh-titles'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sub%20titles/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sub/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Turn on the {{c1::sub titles}}.",
+      "explanation": "<b>Full transcript:</b> sub titles<br><br><b>Connected form:</b> <i>suh-titles</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "subtítulos",
-      "usage": "Written: <code>sub titles</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">suh-titles</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sub%20titles/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sub/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>suh-titles</code><br>Formal: <code>sub titles</code><br><a href=\"https://youglish.com/pronounce/sub%20titles/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sub/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ff630b4441df5aae",
+      "full_transcript": "sub titles",
+      "connected_form": "suh-titles",
+      "gap_text": "Turn on the {{c1::sub titles}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sub%20titles/english/us",
         "forvo_word": "https://forvo.com/word/sub/#en"
@@ -482,7 +578,7 @@
   {
     "id": "b4f40ea2ee4053fe",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/club%20house/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/club/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They met at the {{c1::club house}}.",
-      "explanation": "<b>Written:</b> club house<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cluh-house</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'club house' pronounced as 'cluh-house'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/club%20house/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/club/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They met at the {{c1::club house}}.",
+      "explanation": "<b>Full transcript:</b> club house<br><br><b>Connected form:</b> <i>cluh-house</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "casa club",
-      "usage": "Written: <code>club house</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cluh-house</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/club%20house/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/club/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cluh-house</code><br>Formal: <code>club house</code><br><a href=\"https://youglish.com/pronounce/club%20house/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/club/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b4f40ea2ee4053fe",
+      "full_transcript": "club house",
+      "connected_form": "cluh-house",
+      "gap_text": "They met at the {{c1::club house}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/club%20house/english/us",
         "forvo_word": "https://forvo.com/word/club/#en"
@@ -522,7 +626,7 @@
   {
     "id": "695ab7a2b9391a05",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tub%20full/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tub/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::tub full}} of water was warm.",
-      "explanation": "<b>Written:</b> tub full<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tuh-full</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'tub full' pronounced as 'tuh-full'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/tub%20full/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tub/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::tub full}} of water was warm.",
+      "explanation": "<b>Full transcript:</b> tub full<br><br><b>Connected form:</b> <i>tuh-full</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "bañera llena",
-      "usage": "Written: <code>tub full</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tuh-full</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tub%20full/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tub/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tuh-full</code><br>Formal: <code>tub full</code><br><a href=\"https://youglish.com/pronounce/tub%20full/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tub/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "695ab7a2b9391a05",
+      "full_transcript": "tub full",
+      "connected_form": "tuh-full",
+      "gap_text": "The {{c1::tub full}} of water was warm.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/tub%20full/english/us",
         "forvo_word": "https://forvo.com/word/tub/#en"
@@ -562,7 +674,7 @@
   {
     "id": "4f996dfa7af522f3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/web%20page/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/web/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Visit our {{c1::web page}}.",
-      "explanation": "<b>Written:</b> web page<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">weh-page</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'web page' pronounced as 'weh-page'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/web%20page/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/web/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Visit our {{c1::web page}}.",
+      "explanation": "<b>Full transcript:</b> web page<br><br><b>Connected form:</b> <i>weh-page</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "página web",
-      "usage": "Written: <code>web page</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">weh-page</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/web%20page/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/web/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>weh-page</code><br>Formal: <code>web page</code><br><a href=\"https://youglish.com/pronounce/web%20page/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/web/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4f996dfa7af522f3",
+      "full_transcript": "web page",
+      "connected_form": "weh-page",
+      "gap_text": "Visit our {{c1::web page}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/web%20page/english/us",
         "forvo_word": "https://forvo.com/word/web/#en"
@@ -602,7 +722,7 @@
   {
     "id": "2d4848fba2137fae",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rib%20cage/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rib/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He broke his {{c1::rib cage}}.",
-      "explanation": "<b>Written:</b> rib cage<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">rih-cage</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'rib cage' pronounced as 'rih-cage'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/rib%20cage/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rib/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He broke his {{c1::rib cage}}.",
+      "explanation": "<b>Full transcript:</b> rib cage<br><br><b>Connected form:</b> <i>rih-cage</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "caja torácica",
-      "usage": "Written: <code>rib cage</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">rih-cage</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rib%20cage/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rib/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>rih-cage</code><br>Formal: <code>rib cage</code><br><a href=\"https://youglish.com/pronounce/rib%20cage/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rib/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2d4848fba2137fae",
+      "full_transcript": "rib cage",
+      "connected_form": "rih-cage",
+      "gap_text": "He broke his {{c1::rib cage}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/rib%20cage/english/us",
         "forvo_word": "https://forvo.com/word/rib/#en"
@@ -642,7 +770,7 @@
   {
     "id": "af3dda2ee6ac7239",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bob%20cat/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bob/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We saw a {{c1::bob cat}}.",
-      "explanation": "<b>Written:</b> bob cat<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">boh-cat</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bob cat' pronounced as 'boh-cat'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bob%20cat/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bob/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We saw a {{c1::bob cat}}.",
+      "explanation": "<b>Full transcript:</b> bob cat<br><br><b>Connected form:</b> <i>boh-cat</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "lince rojo",
-      "usage": "Written: <code>bob cat</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">boh-cat</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bob%20cat/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bob/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>boh-cat</code><br>Formal: <code>bob cat</code><br><a href=\"https://youglish.com/pronounce/bob%20cat/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bob/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "af3dda2ee6ac7239",
+      "full_transcript": "bob cat",
+      "connected_form": "boh-cat",
+      "gap_text": "We saw a {{c1::bob cat}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bob%20cat/english/us",
         "forvo_word": "https://forvo.com/word/bob/#en"
@@ -682,7 +818,7 @@
   {
     "id": "3af065ad944a4cc1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cup%20cake/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cup/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Would you like a {{c1::cup cake}}?",
-      "explanation": "<b>Written:</b> cup cake<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cuh-cake</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cup cake' pronounced as 'cuh-cake'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cup%20cake/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cup/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Would you like a {{c1::cup cake}}?",
+      "explanation": "<b>Full transcript:</b> cup cake<br><br><b>Connected form:</b> <i>cuh-cake</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "magdalena / cupcake",
-      "usage": "Written: <code>cup cake</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cuh-cake</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cup%20cake/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cup/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cuh-cake</code><br>Formal: <code>cup cake</code><br><a href=\"https://youglish.com/pronounce/cup%20cake/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cup/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "3af065ad944a4cc1",
+      "full_transcript": "cup cake",
+      "connected_form": "cuh-cake",
+      "gap_text": "Would you like a {{c1::cup cake}}?",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cup%20cake/english/us",
         "forvo_word": "https://forvo.com/word/cup/#en"
@@ -722,7 +866,7 @@
   {
     "id": "f6af585a8e7e7ad1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/map%20reading/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/map/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is good at {{c1::map reading}}.",
-      "explanation": "<b>Written:</b> map reading<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mah-reading</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'map reading' pronounced as 'mah-reading'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/map%20reading/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/map/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is good at {{c1::map reading}}.",
+      "explanation": "<b>Full transcript:</b> map reading<br><br><b>Connected form:</b> <i>mah-reading</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "lectura de mapas",
-      "usage": "Written: <code>map reading</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mah-reading</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/map%20reading/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/map/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mah-reading</code><br>Formal: <code>map reading</code><br><a href=\"https://youglish.com/pronounce/map%20reading/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/map/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f6af585a8e7e7ad1",
+      "full_transcript": "map reading",
+      "connected_form": "mah-reading",
+      "gap_text": "He is good at {{c1::map reading}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/map%20reading/english/us",
         "forvo_word": "https://forvo.com/word/map/#en"
@@ -762,7 +914,7 @@
   {
     "id": "c0af186b0939aad8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hip%20joint/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hip/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He hurt his {{c1::hip joint}}.",
-      "explanation": "<b>Written:</b> hip joint<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hih-joint</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hip joint' pronounced as 'hih-joint'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hip%20joint/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hip/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He hurt his {{c1::hip joint}}.",
+      "explanation": "<b>Full transcript:</b> hip joint<br><br><b>Connected form:</b> <i>hih-joint</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "articulación de cadera",
-      "usage": "Written: <code>hip joint</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hih-joint</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hip%20joint/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hip/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hih-joint</code><br>Formal: <code>hip joint</code><br><a href=\"https://youglish.com/pronounce/hip%20joint/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hip/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c0af186b0939aad8",
+      "full_transcript": "hip joint",
+      "connected_form": "hih-joint",
+      "gap_text": "He hurt his {{c1::hip joint}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hip%20joint/english/us",
         "forvo_word": "https://forvo.com/word/hip/#en"
@@ -802,7 +962,7 @@
   {
     "id": "d70bcd383138313b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cheap%20car/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cheap/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I bought a {{c1::cheap car}}.",
-      "explanation": "<b>Written:</b> cheap car<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cheh-car</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cheap car' pronounced as 'cheh-car'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cheap%20car/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cheap/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I bought a {{c1::cheap car}}.",
+      "explanation": "<b>Full transcript:</b> cheap car<br><br><b>Connected form:</b> <i>cheh-car</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "coche barato",
-      "usage": "Written: <code>cheap car</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cheh-car</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cheap%20car/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cheap/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cheh-car</code><br>Formal: <code>cheap car</code><br><a href=\"https://youglish.com/pronounce/cheap%20car/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cheap/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d70bcd383138313b",
+      "full_transcript": "cheap car",
+      "connected_form": "cheh-car",
+      "gap_text": "I bought a {{c1::cheap car}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cheap%20car/english/us",
         "forvo_word": "https://forvo.com/word/cheap/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "9b462fca341c3eb8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/deep%20breath/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/deep/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Take a {{c1::deep breath}}.",
-      "explanation": "<b>Written:</b> deep breath<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">deh-breath</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'deep breath' pronounced as 'deh-breath'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/deep%20breath/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/deep/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Take a {{c1::deep breath}}.",
+      "explanation": "<b>Full transcript:</b> deep breath<br><br><b>Connected form:</b> <i>deh-breath</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "respiración profunda",
-      "usage": "Written: <code>deep breath</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">deh-breath</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/deep%20breath/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/deep/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>deh-breath</code><br>Formal: <code>deep breath</code><br><a href=\"https://youglish.com/pronounce/deep%20breath/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/deep/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9b462fca341c3eb8",
+      "full_transcript": "deep breath",
+      "connected_form": "deh-breath",
+      "gap_text": "Take a {{c1::deep breath}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/deep%20breath/english/us",
         "forvo_word": "https://forvo.com/word/deep/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "2d3dcbec5c127395",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/keep%20trying/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/keep/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Just {{c1::keep trying}}.",
-      "explanation": "<b>Written:</b> keep trying<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">keh-trying</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'keep trying' pronounced as 'keh-trying'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/keep%20trying/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/keep/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Just {{c1::keep trying}}.",
+      "explanation": "<b>Full transcript:</b> keep trying<br><br><b>Connected form:</b> <i>keh-trying</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "sigue intentándolo",
-      "usage": "Written: <code>keep trying</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">keh-trying</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/keep%20trying/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/keep/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>keh-trying</code><br>Formal: <code>keep trying</code><br><a href=\"https://youglish.com/pronounce/keep%20trying/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/keep/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2d3dcbec5c127395",
+      "full_transcript": "keep trying",
+      "connected_form": "keh-trying",
+      "gap_text": "Just {{c1::keep trying}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/keep%20trying/english/us",
         "forvo_word": "https://forvo.com/word/keep/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "66a0e452419d9295",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sharp%20turn/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sharp/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Make a {{c1::sharp turn}}.",
-      "explanation": "<b>Written:</b> sharp turn<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">shah-turn</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sharp turn' pronounced as 'shah-turn'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sharp%20turn/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sharp/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Make a {{c1::sharp turn}}.",
+      "explanation": "<b>Full transcript:</b> sharp turn<br><br><b>Connected form:</b> <i>shah-turn</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "giro brusco",
-      "usage": "Written: <code>sharp turn</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">shah-turn</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sharp%20turn/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sharp/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>shah-turn</code><br>Formal: <code>sharp turn</code><br><a href=\"https://youglish.com/pronounce/sharp%20turn/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sharp/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "66a0e452419d9295",
+      "full_transcript": "sharp turn",
+      "connected_form": "shah-turn",
+      "gap_text": "Make a {{c1::sharp turn}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sharp%20turn/english/us",
         "forvo_word": "https://forvo.com/word/sharp/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "a0c16a836c93784b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/red%20car/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/red/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He drives a {{c1::red car}}.",
-      "explanation": "<b>Written:</b> red car<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">reh-car</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'red car' pronounced as 'reh-car'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/red%20car/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/red/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He drives a {{c1::red car}}.",
+      "explanation": "<b>Full transcript:</b> red car<br><br><b>Connected form:</b> <i>reh-car</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "coche rojo",
-      "usage": "Written: <code>red car</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">reh-car</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/red%20car/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/red/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>reh-car</code><br>Formal: <code>red car</code><br><a href=\"https://youglish.com/pronounce/red%20car/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/red/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a0c16a836c93784b",
+      "full_transcript": "red car",
+      "connected_form": "reh-car",
+      "gap_text": "He drives a {{c1::red car}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/red%20car/english/us",
         "forvo_word": "https://forvo.com/word/red/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "a280f270dfddf22f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sad%20film/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sad/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It was a {{c1::sad film}}.",
-      "explanation": "<b>Written:</b> sad film<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sah-film</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sad film' pronounced as 'sah-film'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sad%20film/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sad/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It was a {{c1::sad film}}.",
+      "explanation": "<b>Full transcript:</b> sad film<br><br><b>Connected form:</b> <i>sah-film</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "película triste",
-      "usage": "Written: <code>sad film</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sah-film</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sad%20film/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sad/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sah-film</code><br>Formal: <code>sad film</code><br><a href=\"https://youglish.com/pronounce/sad%20film/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sad/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a280f270dfddf22f",
+      "full_transcript": "sad film",
+      "connected_form": "sah-film",
+      "gap_text": "It was a {{c1::sad film}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sad%20film/english/us",
         "forvo_word": "https://forvo.com/word/sad/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "739c3106b56ee986",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mad%20man/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mad/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is a {{c1::mad man}}.",
-      "explanation": "<b>Written:</b> mad man<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mah-man</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'mad man' pronounced as 'mah-man'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/mad%20man/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mad/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is a {{c1::mad man}}.",
+      "explanation": "<b>Full transcript:</b> mad man<br><br><b>Connected form:</b> <i>mah-man</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "hombre loco",
-      "usage": "Written: <code>mad man</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mah-man</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mad%20man/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mad/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mah-man</code><br>Formal: <code>mad man</code><br><a href=\"https://youglish.com/pronounce/mad%20man/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mad/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "739c3106b56ee986",
+      "full_transcript": "mad man",
+      "connected_form": "mah-man",
+      "gap_text": "He is a {{c1::mad man}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/mad%20man/english/us",
         "forvo_word": "https://forvo.com/word/mad/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "ef39ba2b2e5758ae",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/had%20done/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/had/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I {{c1::had done}} it.",
-      "explanation": "<b>Written:</b> had done<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hah-done</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'had done' pronounced as 'hah-done'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/had%20done/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/had/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I {{c1::had done}} it.",
+      "explanation": "<b>Full transcript:</b> had done<br><br><b>Connected form:</b> <i>hah-done</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "había hecho",
-      "usage": "Written: <code>had done</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hah-done</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/had%20done/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/had/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hah-done</code><br>Formal: <code>had done</code><br><a href=\"https://youglish.com/pronounce/had%20done/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/had/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ef39ba2b2e5758ae",
+      "full_transcript": "had done",
+      "connected_form": "hah-done",
+      "gap_text": "I {{c1::had done}} it.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/had%20done/english/us",
         "forvo_word": "https://forvo.com/word/had/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "842766595b8f279a",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/did%20that/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/did/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Who {{c1::did that}}?",
-      "explanation": "<b>Written:</b> did that<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">dih-that</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'did that' pronounced as 'dih-that'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/did%20that/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/did/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Who {{c1::did that}}?",
+      "explanation": "<b>Full transcript:</b> did that<br><br><b>Connected form:</b> <i>dih-that</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "hizo eso",
-      "usage": "Written: <code>did that</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">dih-that</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/did%20that/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/did/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>dih-that</code><br>Formal: <code>did that</code><br><a href=\"https://youglish.com/pronounce/did%20that/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/did/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "842766595b8f279a",
+      "full_transcript": "did that",
+      "connected_form": "dih-that",
+      "gap_text": "Who {{c1::did that}}?",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/did%20that/english/us",
         "forvo_word": "https://forvo.com/word/did/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "d2378453217652e4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Unreleased_Stops 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wet%20paint/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Watch out for the {{c1::wet paint}}.",
-      "explanation": "<b>Written:</b> wet paint<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">weh-paint</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'wet paint' pronounced as 'weh-paint'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/wet%20paint/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wet/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Watch out for the {{c1::wet paint}}.",
+      "explanation": "<b>Full transcript:</b> wet paint<br><br><b>Connected form:</b> <i>weh-paint</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Unreleased Stops</code></li></ul>",
       "spanish": "pintura fresca",
-      "usage": "Written: <code>wet paint</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">weh-paint</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wet%20paint/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>weh-paint</code><br>Formal: <code>wet paint</code><br><a href=\"https://youglish.com/pronounce/wet%20paint/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wet/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d2378453217652e4",
+      "full_transcript": "wet paint",
+      "connected_form": "weh-paint",
+      "gap_text": "Watch out for the {{c1::wet paint}}.",
+      "rules_applied": [
+        "Unreleased Stops"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/wet%20paint/english/us",
         "forvo_word": "https://forvo.com/word/wet/#en"

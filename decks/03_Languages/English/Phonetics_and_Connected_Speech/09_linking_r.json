@@ -2,7 +2,7 @@
   {
     "id": "0ed494fe763203b0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/law%20and%20order/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/law/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I watch {{c1::law and order}}.",
-      "explanation": "<b>Written:</b> law and order<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">law-r-an-order</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'law and order' pronounced as 'law-r-an-order'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/law%20and%20order/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/law/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I watch {{c1::law and order}}.",
+      "explanation": "<b>Full transcript:</b> law and order<br><br><b>Connected form:</b> <i>law-r-an-order</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "ley y orden",
-      "usage": "Written: <code>law and order</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">law-r-an-order</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/law%20and%20order/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/law/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>law-r-an-order</code><br>Formal: <code>law and order</code><br><a href=\"https://youglish.com/pronounce/law%20and%20order/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/law/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "0ed494fe763203b0",
+      "full_transcript": "law and order",
+      "connected_form": "law-r-an-order",
+      "gap_text": "I watch {{c1::law and order}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/law%20and%20order/english/us",
         "forvo_word": "https://forvo.com/word/law/#en"
@@ -42,7 +50,7 @@
   {
     "id": "533dd9589b78f8e7",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/idea%20of%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/idea/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I like the {{c1::idea of it}}.",
-      "explanation": "<b>Written:</b> idea of it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">idea-r-of-it</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'idea of it' pronounced as 'idea-r-of-it'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/idea%20of%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/idea/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I like the {{c1::idea of it}}.",
+      "explanation": "<b>Full transcript:</b> idea of it<br><br><b>Connected form:</b> <i>idea-r-of-it</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "la idea de eso",
-      "usage": "Written: <code>idea of it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">idea-r-of-it</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/idea%20of%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/idea/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>idea-r-of-it</code><br>Formal: <code>idea of it</code><br><a href=\"https://youglish.com/pronounce/idea%20of%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/idea/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "533dd9589b78f8e7",
+      "full_transcript": "idea of it",
+      "connected_form": "idea-r-of-it",
+      "gap_text": "I like the {{c1::idea of it}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/idea%20of%20it/english/us",
         "forvo_word": "https://forvo.com/word/idea/#en"
@@ -82,7 +98,7 @@
   {
     "id": "3b0e6cf2c45f7c23",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/far%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/far/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The house is {{c1::far away}}.",
-      "explanation": "<b>Written:</b> far away<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">far-away</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'far away' pronounced as 'far-away'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/far%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/far/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The house is {{c1::far away}}.",
+      "explanation": "<b>Full transcript:</b> far away<br><br><b>Connected form:</b> <i>far-away</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "muy lejos",
-      "usage": "Written: <code>far away</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">far-away</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/far%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/far/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>far-away</code><br>Formal: <code>far away</code><br><a href=\"https://youglish.com/pronounce/far%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/far/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "3b0e6cf2c45f7c23",
+      "full_transcript": "far away",
+      "connected_form": "far-away",
+      "gap_text": "The house is {{c1::far away}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/far%20away/english/us",
         "forvo_word": "https://forvo.com/word/far/#en"
@@ -122,7 +146,7 @@
   {
     "id": "cc3355a9dc5de05b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/four%20of%20them/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/four/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We need {{c1::four of them}}.",
-      "explanation": "<b>Written:</b> four of them<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">four-of-them</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'four of them' pronounced as 'four-of-them'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/four%20of%20them/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/four/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We need {{c1::four of them}}.",
+      "explanation": "<b>Full transcript:</b> four of them<br><br><b>Connected form:</b> <i>four-of-them</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "cuatro de ellos",
-      "usage": "Written: <code>four of them</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">four-of-them</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/four%20of%20them/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/four/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>four-of-them</code><br>Formal: <code>four of them</code><br><a href=\"https://youglish.com/pronounce/four%20of%20them/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/four/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cc3355a9dc5de05b",
+      "full_transcript": "four of them",
+      "connected_form": "four-of-them",
+      "gap_text": "We need {{c1::four of them}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/four%20of%20them/english/us",
         "forvo_word": "https://forvo.com/word/four/#en"
@@ -162,7 +194,7 @@
   {
     "id": "16f2e79f5665e851",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/media%20event/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/media/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is a big {{c1::media event}}.",
-      "explanation": "<b>Written:</b> media event<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">media-r-event</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'media event' pronounced as 'media-r-event'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/media%20event/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/media/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is a big {{c1::media event}}.",
+      "explanation": "<b>Full transcript:</b> media event<br><br><b>Connected form:</b> <i>media-r-event</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "evento mediático",
-      "usage": "Written: <code>media event</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">media-r-event</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/media%20event/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/media/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>media-r-event</code><br>Formal: <code>media event</code><br><a href=\"https://youglish.com/pronounce/media%20event/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/media/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "16f2e79f5665e851",
+      "full_transcript": "media event",
+      "connected_form": "media-r-event",
+      "gap_text": "This is a big {{c1::media event}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/media%20event/english/us",
         "forvo_word": "https://forvo.com/word/media/#en"
@@ -202,7 +242,7 @@
   {
     "id": "f16ddfa906f30d3c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sofa%20and%20chair/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sofa/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We bought a {{c1::sofa and chair}}.",
-      "explanation": "<b>Written:</b> sofa and chair<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sofa-r-and-chair</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'sofa and chair' pronounced as 'sofa-r-and-chair'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/sofa%20and%20chair/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sofa/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We bought a {{c1::sofa and chair}}.",
+      "explanation": "<b>Full transcript:</b> sofa and chair<br><br><b>Connected form:</b> <i>sofa-r-and-chair</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "sofá y silla",
-      "usage": "Written: <code>sofa and chair</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sofa-r-and-chair</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/sofa%20and%20chair/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/sofa/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sofa-r-and-chair</code><br>Formal: <code>sofa and chair</code><br><a href=\"https://youglish.com/pronounce/sofa%20and%20chair/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/sofa/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f16ddfa906f30d3c",
+      "full_transcript": "sofa and chair",
+      "connected_form": "sofa-r-and-chair",
+      "gap_text": "We bought a {{c1::sofa and chair}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/sofa%20and%20chair/english/us",
         "forvo_word": "https://forvo.com/word/sofa/#en"
@@ -242,7 +290,7 @@
   {
     "id": "77d1358aa0b68e9f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/drama%20alert/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/drama/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>There is a new {{c1::drama alert}}.",
-      "explanation": "<b>Written:</b> drama alert<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">drama-r-alert</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'drama alert' pronounced as 'drama-r-alert'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/drama%20alert/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/drama/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>There is a new {{c1::drama alert}}.",
+      "explanation": "<b>Full transcript:</b> drama alert<br><br><b>Connected form:</b> <i>drama-r-alert</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "alerta de drama",
-      "usage": "Written: <code>drama alert</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">drama-r-alert</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/drama%20alert/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/drama/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>drama-r-alert</code><br>Formal: <code>drama alert</code><br><a href=\"https://youglish.com/pronounce/drama%20alert/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/drama/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "77d1358aa0b68e9f",
+      "full_transcript": "drama alert",
+      "connected_form": "drama-r-alert",
+      "gap_text": "There is a new {{c1::drama alert}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/drama%20alert/english/us",
         "forvo_word": "https://forvo.com/word/drama/#en"
@@ -282,7 +338,7 @@
   {
     "id": "43de82dec8d2b213",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/formula%20one/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/formula/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He drives in {{c1::formula one}}.",
-      "explanation": "<b>Written:</b> formula one<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">formula-r-one</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'formula one' pronounced as 'formula-r-one'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/formula%20one/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/formula/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He drives in {{c1::formula one}}.",
+      "explanation": "<b>Full transcript:</b> formula one<br><br><b>Connected form:</b> <i>formula-r-one</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "fórmula uno",
-      "usage": "Written: <code>formula one</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">formula-r-one</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/formula%20one/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/formula/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>formula-r-one</code><br>Formal: <code>formula one</code><br><a href=\"https://youglish.com/pronounce/formula%20one/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/formula/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "43de82dec8d2b213",
+      "full_transcript": "formula one",
+      "connected_form": "formula-r-one",
+      "gap_text": "He drives in {{c1::formula one}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/formula%20one/english/us",
         "forvo_word": "https://forvo.com/word/formula/#en"
@@ -322,7 +386,7 @@
   {
     "id": "cf1d301b63aadf30",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tuna%20salad/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tuna/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I had a {{c1::tuna salad}}.",
-      "explanation": "<b>Written:</b> tuna salad<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tuna-r-salad</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'tuna salad' pronounced as 'tuna-r-salad'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/tuna%20salad/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tuna/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I had a {{c1::tuna salad}}.",
+      "explanation": "<b>Full transcript:</b> tuna salad<br><br><b>Connected form:</b> <i>tuna-r-salad</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "ensalada de atún",
-      "usage": "Written: <code>tuna salad</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tuna-r-salad</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/tuna%20salad/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/tuna/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tuna-r-salad</code><br>Formal: <code>tuna salad</code><br><a href=\"https://youglish.com/pronounce/tuna%20salad/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/tuna/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cf1d301b63aadf30",
+      "full_transcript": "tuna salad",
+      "connected_form": "tuna-r-salad",
+      "gap_text": "I had a {{c1::tuna salad}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/tuna%20salad/english/us",
         "forvo_word": "https://forvo.com/word/tuna/#en"
@@ -362,7 +434,7 @@
   {
     "id": "8e2c3aaeae3d5352",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/vanilla%20ice/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/vanilla/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I prefer {{c1::vanilla ice}} cream.",
-      "explanation": "<b>Written:</b> vanilla ice<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">vanilla-r-ice</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'vanilla ice' pronounced as 'vanilla-r-ice'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/vanilla%20ice/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/vanilla/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I prefer {{c1::vanilla ice}} cream.",
+      "explanation": "<b>Full transcript:</b> vanilla ice<br><br><b>Connected form:</b> <i>vanilla-r-ice</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "helado de vainilla",
-      "usage": "Written: <code>vanilla ice</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">vanilla-r-ice</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/vanilla%20ice/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/vanilla/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>vanilla-r-ice</code><br>Formal: <code>vanilla ice</code><br><a href=\"https://youglish.com/pronounce/vanilla%20ice/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/vanilla/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8e2c3aaeae3d5352",
+      "full_transcript": "vanilla ice",
+      "connected_form": "vanilla-r-ice",
+      "gap_text": "I prefer {{c1::vanilla ice}} cream.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/vanilla%20ice/english/us",
         "forvo_word": "https://forvo.com/word/vanilla/#en"
@@ -402,7 +482,7 @@
   {
     "id": "ded07ed8eb34bdff",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/banana%20split/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/banana/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Let's share a {{c1::banana split}}.",
-      "explanation": "<b>Written:</b> banana split<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">banana-r-split</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'banana split' pronounced as 'banana-r-split'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/banana%20split/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/banana/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Let's share a {{c1::banana split}}.",
+      "explanation": "<b>Full transcript:</b> banana split<br><br><b>Connected form:</b> <i>banana-r-split</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "banana split",
-      "usage": "Written: <code>banana split</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">banana-r-split</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/banana%20split/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/banana/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>banana-r-split</code><br>Formal: <code>banana split</code><br><a href=\"https://youglish.com/pronounce/banana%20split/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/banana/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ded07ed8eb34bdff",
+      "full_transcript": "banana split",
+      "connected_form": "banana-r-split",
+      "gap_text": "Let's share a {{c1::banana split}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/banana%20split/english/us",
         "forvo_word": "https://forvo.com/word/banana/#en"
@@ -442,7 +530,7 @@
   {
     "id": "2ff66269beccb070",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/area%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/area/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is an {{c1::area of}} concern.",
-      "explanation": "<b>Written:</b> area of<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">area-r-of</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'area of' pronounced as 'area-r-of'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/area%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/area/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is an {{c1::area of}} concern.",
+      "explanation": "<b>Full transcript:</b> area of<br><br><b>Connected form:</b> <i>area-r-of</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "área de",
-      "usage": "Written: <code>area of</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">area-r-of</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/area%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/area/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>area-r-of</code><br>Formal: <code>area of</code><br><a href=\"https://youglish.com/pronounce/area%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/area/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2ff66269beccb070",
+      "full_transcript": "area of",
+      "connected_form": "area-r-of",
+      "gap_text": "This is an {{c1::area of}} concern.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/area%20of/english/us",
         "forvo_word": "https://forvo.com/word/area/#en"
@@ -482,7 +578,7 @@
   {
     "id": "09b16ba82e0b1723",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/data%20analysis/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/data/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We did some {{c1::data analysis}}.",
-      "explanation": "<b>Written:</b> data analysis<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">data-r-analysis</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'data analysis' pronounced as 'data-r-analysis'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/data%20analysis/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/data/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We did some {{c1::data analysis}}.",
+      "explanation": "<b>Full transcript:</b> data analysis<br><br><b>Connected form:</b> <i>data-r-analysis</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "análisis de datos",
-      "usage": "Written: <code>data analysis</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">data-r-analysis</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/data%20analysis/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/data/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>data-r-analysis</code><br>Formal: <code>data analysis</code><br><a href=\"https://youglish.com/pronounce/data%20analysis/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/data/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "09b16ba82e0b1723",
+      "full_transcript": "data analysis",
+      "connected_form": "data-r-analysis",
+      "gap_text": "We did some {{c1::data analysis}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/data%20analysis/english/us",
         "forvo_word": "https://forvo.com/word/data/#en"
@@ -522,7 +626,7 @@
   {
     "id": "7fd4d1ddc0b7f0d1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/camera%20angle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/camera/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Adjust the {{c1::camera angle}}.",
-      "explanation": "<b>Written:</b> camera angle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">camera-r-angle</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'camera angle' pronounced as 'camera-r-angle'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/camera%20angle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/camera/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Adjust the {{c1::camera angle}}.",
+      "explanation": "<b>Full transcript:</b> camera angle<br><br><b>Connected form:</b> <i>camera-r-angle</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "ángulo de cámara",
-      "usage": "Written: <code>camera angle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">camera-r-angle</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/camera%20angle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/camera/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>camera-r-angle</code><br>Formal: <code>camera angle</code><br><a href=\"https://youglish.com/pronounce/camera%20angle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/camera/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7fd4d1ddc0b7f0d1",
+      "full_transcript": "camera angle",
+      "connected_form": "camera-r-angle",
+      "gap_text": "Adjust the {{c1::camera angle}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/camera%20angle/english/us",
         "forvo_word": "https://forvo.com/word/camera/#en"
@@ -562,7 +674,7 @@
   {
     "id": "dc3f2356552e24c6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pizza%20oven/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pizza/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We built a {{c1::pizza oven}}.",
-      "explanation": "<b>Written:</b> pizza oven<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">pizza-r-oven</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'pizza oven' pronounced as 'pizza-r-oven'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/pizza%20oven/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pizza/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We built a {{c1::pizza oven}}.",
+      "explanation": "<b>Full transcript:</b> pizza oven<br><br><b>Connected form:</b> <i>pizza-r-oven</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "horno de pizza",
-      "usage": "Written: <code>pizza oven</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">pizza-r-oven</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pizza%20oven/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pizza/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>pizza-r-oven</code><br>Formal: <code>pizza oven</code><br><a href=\"https://youglish.com/pronounce/pizza%20oven/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pizza/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "dc3f2356552e24c6",
+      "full_transcript": "pizza oven",
+      "connected_form": "pizza-r-oven",
+      "gap_text": "We built a {{c1::pizza oven}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/pizza%20oven/english/us",
         "forvo_word": "https://forvo.com/word/pizza/#en"
@@ -602,7 +722,7 @@
   {
     "id": "6d67948ca8bc83f7",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/soda%20and/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/soda/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Give me a {{c1::soda and}} lime.",
-      "explanation": "<b>Written:</b> soda and<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">soda-r-and</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'soda and' pronounced as 'soda-r-and'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/soda%20and/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/soda/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Give me a {{c1::soda and}} lime.",
+      "explanation": "<b>Full transcript:</b> soda and<br><br><b>Connected form:</b> <i>soda-r-and</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "soda y",
-      "usage": "Written: <code>soda and</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">soda-r-and</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/soda%20and/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/soda/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>soda-r-and</code><br>Formal: <code>soda and</code><br><a href=\"https://youglish.com/pronounce/soda%20and/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/soda/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6d67948ca8bc83f7",
+      "full_transcript": "soda and",
+      "connected_form": "soda-r-and",
+      "gap_text": "Give me a {{c1::soda and}} lime.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/soda%20and/english/us",
         "forvo_word": "https://forvo.com/word/soda/#en"
@@ -642,7 +770,7 @@
   {
     "id": "2b024b97b15018be",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/extra%20information/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/extra/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Do you need {{c1::extra information}}?",
-      "explanation": "<b>Written:</b> extra information<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">extra-r-information</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'extra information' pronounced as 'extra-r-information'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/extra%20information/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/extra/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Do you need {{c1::extra information}}?",
+      "explanation": "<b>Full transcript:</b> extra information<br><br><b>Connected form:</b> <i>extra-r-information</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "información extra",
-      "usage": "Written: <code>extra information</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">extra-r-information</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/extra%20information/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/extra/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>extra-r-information</code><br>Formal: <code>extra information</code><br><a href=\"https://youglish.com/pronounce/extra%20information/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/extra/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2b024b97b15018be",
+      "full_transcript": "extra information",
+      "connected_form": "extra-r-information",
+      "gap_text": "Do you need {{c1::extra information}}?",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/extra%20information/english/us",
         "forvo_word": "https://forvo.com/word/extra/#en"
@@ -682,7 +818,7 @@
   {
     "id": "c82b673b10355fb2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/major%20issue/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/major/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is a {{c1::major issue}}.",
-      "explanation": "<b>Written:</b> major issue<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">major-r-issue</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'major issue' pronounced as 'major-r-issue'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/major%20issue/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/major/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is a {{c1::major issue}}.",
+      "explanation": "<b>Full transcript:</b> major issue<br><br><b>Connected form:</b> <i>major-r-issue</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "problema mayor",
-      "usage": "Written: <code>major issue</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">major-r-issue</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/major%20issue/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/major/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>major-r-issue</code><br>Formal: <code>major issue</code><br><a href=\"https://youglish.com/pronounce/major%20issue/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/major/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c82b673b10355fb2",
+      "full_transcript": "major issue",
+      "connected_form": "major-r-issue",
+      "gap_text": "This is a {{c1::major issue}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/major%20issue/english/us",
         "forvo_word": "https://forvo.com/word/major/#en"
@@ -722,7 +866,7 @@
   {
     "id": "67b8a88d3648281e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/clear%20air/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/clear/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We enjoyed the {{c1::clear air}}.",
-      "explanation": "<b>Written:</b> clear air<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">clear-r-air</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'clear air' pronounced as 'clear-r-air'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/clear%20air/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/clear/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We enjoyed the {{c1::clear air}}.",
+      "explanation": "<b>Full transcript:</b> clear air<br><br><b>Connected form:</b> <i>clear-r-air</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "aire limpio",
-      "usage": "Written: <code>clear air</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">clear-r-air</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/clear%20air/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/clear/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>clear-r-air</code><br>Formal: <code>clear air</code><br><a href=\"https://youglish.com/pronounce/clear%20air/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/clear/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "67b8a88d3648281e",
+      "full_transcript": "clear air",
+      "connected_form": "clear-r-air",
+      "gap_text": "We enjoyed the {{c1::clear air}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/clear%20air/english/us",
         "forvo_word": "https://forvo.com/word/clear/#en"
@@ -762,7 +914,7 @@
   {
     "id": "e26c0144d7cdcc99",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/poor%20old/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/poor/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::poor old}} dog was lost.",
-      "explanation": "<b>Written:</b> poor old<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">poor-r-old</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'poor old' pronounced as 'poor-r-old'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/poor%20old/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/poor/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::poor old}} dog was lost.",
+      "explanation": "<b>Full transcript:</b> poor old<br><br><b>Connected form:</b> <i>poor-r-old</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "pobre viejo",
-      "usage": "Written: <code>poor old</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">poor-r-old</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/poor%20old/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/poor/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>poor-r-old</code><br>Formal: <code>poor old</code><br><a href=\"https://youglish.com/pronounce/poor%20old/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/poor/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "e26c0144d7cdcc99",
+      "full_transcript": "poor old",
+      "connected_form": "poor-r-old",
+      "gap_text": "The {{c1::poor old}} dog was lost.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/poor%20old/english/us",
         "forvo_word": "https://forvo.com/word/poor/#en"
@@ -802,7 +962,7 @@
   {
     "id": "dd915c0e8e9ff262",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/door%20open/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/door/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Leave the {{c1::door open}}.",
-      "explanation": "<b>Written:</b> door open<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">door-r-open</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'door open' pronounced as 'door-r-open'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/door%20open/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/door/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Leave the {{c1::door open}}.",
+      "explanation": "<b>Full transcript:</b> door open<br><br><b>Connected form:</b> <i>door-r-open</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "puerta abierta",
-      "usage": "Written: <code>door open</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">door-r-open</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/door%20open/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/door/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>door-r-open</code><br>Formal: <code>door open</code><br><a href=\"https://youglish.com/pronounce/door%20open/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/door/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "dd915c0e8e9ff262",
+      "full_transcript": "door open",
+      "connected_form": "door-r-open",
+      "gap_text": "Leave the {{c1::door open}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/door%20open/english/us",
         "forvo_word": "https://forvo.com/word/door/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "06a6ca190fd346f6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/floor%20area/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/floor/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::floor area}} is huge.",
-      "explanation": "<b>Written:</b> floor area<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">floor-r-area</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'floor area' pronounced as 'floor-r-area'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/floor%20area/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/floor/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::floor area}} is huge.",
+      "explanation": "<b>Full transcript:</b> floor area<br><br><b>Connected form:</b> <i>floor-r-area</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "área del suelo",
-      "usage": "Written: <code>floor area</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">floor-r-area</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/floor%20area/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/floor/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>floor-r-area</code><br>Formal: <code>floor area</code><br><a href=\"https://youglish.com/pronounce/floor%20area/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/floor/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "06a6ca190fd346f6",
+      "full_transcript": "floor area",
+      "connected_form": "floor-r-area",
+      "gap_text": "The {{c1::floor area}} is huge.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/floor%20area/english/us",
         "forvo_word": "https://forvo.com/word/floor/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "8eb0d1bde7ee60f3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/car%20engine/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/car/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::car engine}} is loud.",
-      "explanation": "<b>Written:</b> car engine<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">car-r-engine</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'car engine' pronounced as 'car-r-engine'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/car%20engine/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/car/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::car engine}} is loud.",
+      "explanation": "<b>Full transcript:</b> car engine<br><br><b>Connected form:</b> <i>car-r-engine</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "motor de coche",
-      "usage": "Written: <code>car engine</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">car-r-engine</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/car%20engine/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/car/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>car-r-engine</code><br>Formal: <code>car engine</code><br><a href=\"https://youglish.com/pronounce/car%20engine/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/car/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8eb0d1bde7ee60f3",
+      "full_transcript": "car engine",
+      "connected_form": "car-r-engine",
+      "gap_text": "The {{c1::car engine}} is loud.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/car%20engine/english/us",
         "forvo_word": "https://forvo.com/word/car/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "63b1ac2458ce3b1b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bar%20owner/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bar/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is the {{c1::bar owner}}.",
-      "explanation": "<b>Written:</b> bar owner<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">bar-r-owner</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'bar owner' pronounced as 'bar-r-owner'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/bar%20owner/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bar/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is the {{c1::bar owner}}.",
+      "explanation": "<b>Full transcript:</b> bar owner<br><br><b>Connected form:</b> <i>bar-r-owner</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "dueño del bar",
-      "usage": "Written: <code>bar owner</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">bar-r-owner</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/bar%20owner/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/bar/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>bar-r-owner</code><br>Formal: <code>bar owner</code><br><a href=\"https://youglish.com/pronounce/bar%20owner/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/bar/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "63b1ac2458ce3b1b",
+      "full_transcript": "bar owner",
+      "connected_form": "bar-r-owner",
+      "gap_text": "He is the {{c1::bar owner}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/bar%20owner/english/us",
         "forvo_word": "https://forvo.com/word/bar/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "1b2890c6feb040bd",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/star%20actor/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/star/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She is a {{c1::star actor}}.",
-      "explanation": "<b>Written:</b> star actor<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">star-r-actor</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'star actor' pronounced as 'star-r-actor'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/star%20actor/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/star/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She is a {{c1::star actor}}.",
+      "explanation": "<b>Full transcript:</b> star actor<br><br><b>Connected form:</b> <i>star-r-actor</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "actor estrella",
-      "usage": "Written: <code>star actor</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">star-r-actor</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/star%20actor/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/star/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>star-r-actor</code><br>Formal: <code>star actor</code><br><a href=\"https://youglish.com/pronounce/star%20actor/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/star/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "1b2890c6feb040bd",
+      "full_transcript": "star actor",
+      "connected_form": "star-r-actor",
+      "gap_text": "She is a {{c1::star actor}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/star%20actor/english/us",
         "forvo_word": "https://forvo.com/word/star/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "df09ea932a056323",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/for%20instance/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/for/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Take this, {{c1::for instance}}.",
-      "explanation": "<b>Written:</b> for instance<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">for-r-instance</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'for instance' pronounced as 'for-r-instance'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/for%20instance/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/for/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Take this, {{c1::for instance}}.",
+      "explanation": "<b>Full transcript:</b> for instance<br><br><b>Connected form:</b> <i>for-r-instance</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "por ejemplo",
-      "usage": "Written: <code>for instance</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">for-r-instance</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/for%20instance/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/for/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>for-r-instance</code><br>Formal: <code>for instance</code><br><a href=\"https://youglish.com/pronounce/for%20instance/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/for/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "df09ea932a056323",
+      "full_transcript": "for instance",
+      "connected_form": "for-r-instance",
+      "gap_text": "Take this, {{c1::for instance}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/for%20instance/english/us",
         "forvo_word": "https://forvo.com/word/for/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "568e7d381efecc87",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/more%20options/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/more/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We need {{c1::more options}}.",
-      "explanation": "<b>Written:</b> more options<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">more-r-options</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'more options' pronounced as 'more-r-options'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/more%20options/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/more/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We need {{c1::more options}}.",
+      "explanation": "<b>Full transcript:</b> more options<br><br><b>Connected form:</b> <i>more-r-options</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "más opciones",
-      "usage": "Written: <code>more options</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">more-r-options</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/more%20options/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/more/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>more-r-options</code><br>Formal: <code>more options</code><br><a href=\"https://youglish.com/pronounce/more%20options/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/more/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "568e7d381efecc87",
+      "full_transcript": "more options",
+      "connected_form": "more-r-options",
+      "gap_text": "We need {{c1::more options}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/more%20options/english/us",
         "forvo_word": "https://forvo.com/word/more/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "54929094633d508d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/here%20and%20there/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/here/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We searched {{c1::here and there}}.",
-      "explanation": "<b>Written:</b> here and there<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">here-r-and-there</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'here and there' pronounced as 'here-r-and-there'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/here%20and%20there/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/here/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We searched {{c1::here and there}}.",
+      "explanation": "<b>Full transcript:</b> here and there<br><br><b>Connected form:</b> <i>here-r-and-there</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "aquí y allá",
-      "usage": "Written: <code>here and there</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">here-r-and-there</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/here%20and%20there/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/here/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>here-r-and-there</code><br>Formal: <code>here and there</code><br><a href=\"https://youglish.com/pronounce/here%20and%20there/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/here/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "54929094633d508d",
+      "full_transcript": "here and there",
+      "connected_form": "here-r-and-there",
+      "gap_text": "We searched {{c1::here and there}}.",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/here%20and%20there/english/us",
         "forvo_word": "https://forvo.com/word/here/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "72e08e432a306e65",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/there%20is/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/there/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Is {{c1::there is}} any problem?",
-      "explanation": "<b>Written:</b> there is<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">there-r-is</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'there is' pronounced as 'there-r-is'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/there%20is/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/there/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Is {{c1::there is}} any problem?",
+      "explanation": "<b>Full transcript:</b> there is<br><br><b>Connected form:</b> <i>there-r-is</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "hay",
-      "usage": "Written: <code>there is</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">there-r-is</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/there%20is/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/there/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>there-r-is</code><br>Formal: <code>there is</code><br><a href=\"https://youglish.com/pronounce/there%20is/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/there/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "72e08e432a306e65",
+      "full_transcript": "there is",
+      "connected_form": "there-r-is",
+      "gap_text": "Is {{c1::there is}} any problem?",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/there%20is/english/us",
         "forvo_word": "https://forvo.com/word/there/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "64c92df4518ab1ec",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Linking_R 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/where%20are%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/where/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>{{c1::Where are you}} going?",
-      "explanation": "<b>Written:</b> where are you<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">where-r-are-you</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Linking R</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'where are you' pronounced as 'where-r-are-you'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/where%20are%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/where/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>{{c1::Where are you}} going?",
+      "explanation": "<b>Full transcript:</b> where are you<br><br><b>Connected form:</b> <i>where-r-are-you</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Linking R</code></li></ul>",
       "spanish": "dónde estás",
-      "usage": "Written: <code>where are you</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">where-r-are-you</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/where%20are%20you/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/where/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>where-r-are-you</code><br>Formal: <code>where are you</code><br><a href=\"https://youglish.com/pronounce/where%20are%20you/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/where/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "64c92df4518ab1ec",
+      "full_transcript": "where are you",
+      "connected_form": "where-r-are-you",
+      "gap_text": "{{c1::Where are you}} going?",
+      "rules_applied": [
+        "Linking R"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/where%20are%20you/english/us",
         "forvo_word": "https://forvo.com/word/where/#en"

@@ -518,13 +518,18 @@ def load_all_cards(base_dir="."):
     for card in raw_cards:
         # If it is already flat (legacy fallback), keep it as is
         if "content" not in card:
-            # Flatten deck name to 3 levels
+            # Natively route English cards into Learning Paths by default
+            deck_parts = card["deck"].split("::")
+            if len(deck_parts) >= 2 and deck_parts[0] == "03_Languages" and deck_parts[1] == "English" and "::Phonetics" not in card["deck"]:
+                card["deck"] = get_learning_path_deck(card["deck"], card)
+                
+            # Flatten deck name to 3 levels (omit Pillar part, map 03_Languages to Languages)
             deck_parts = card["deck"].split("::")
             if len(deck_parts) == 4:
-                card["deck"] = "::".join(deck_parts[1:])
-            # Natively route English cards into Learning Paths by default
-            if card["deck"].startswith("03_Languages::English") and "::Phonetics" not in card["deck"]:
-                card["deck"] = get_learning_path_deck(card["deck"], card)
+                if deck_parts[0] == "03_Languages":
+                    card["deck"] = "Languages::" + "::".join(deck_parts[1:])
+                else:
+                    card["deck"] = "::".join(deck_parts[1:])
             compiled_cards.append(card)
             continue
             
@@ -553,14 +558,19 @@ def load_all_cards(base_dir="."):
                 **compiled_nested.get("interactivity", {})
             }
             
-            # Flatten deck name to 3 levels (omit Pillar part)
+            # Natively route English cards into Learning Paths by default
+            deck_parts = compiled_nested["deck"].split("::")
+            if len(deck_parts) >= 2 and deck_parts[0] == "03_Languages" and deck_parts[1] == "English" and "::Phonetics" not in compiled_nested["deck"]:
+                routed_deck = get_learning_path_deck(compiled_nested["deck"], compiled)
+                compiled["deck"] = routed_deck
+                
+            # Flatten deck name to 3 levels (omit Pillar part, map 03_Languages to Languages)
             deck_parts = compiled["deck"].split("::")
             if len(deck_parts) == 4:
-                compiled["deck"] = "::".join(deck_parts[1:])
-                
-            # Natively route English cards into Learning Paths by default
-            if compiled["deck"].startswith("03_Languages::English") and "::Phonetics" not in compiled["deck"]:
-                compiled["deck"] = get_learning_path_deck(compiled["deck"], compiled)
+                if deck_parts[0] == "03_Languages":
+                    compiled["deck"] = "Languages::" + "::".join(deck_parts[1:])
+                else:
+                    compiled["deck"] = "::".join(deck_parts[1:])
                 
             # Preserve original properties for model mapping & tag generation
             compiled["template"] = card["template"]

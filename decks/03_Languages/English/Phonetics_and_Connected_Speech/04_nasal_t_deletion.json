@@ -2,7 +2,7 @@
   {
     "id": "724f7497494c507e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/internet/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/internet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I checked the {{c1::internet}}.",
-      "explanation": "<b>Written:</b> internet<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innernet</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'internet' pronounced as 'innernet'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/internet/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/internet/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I checked the {{c1::internet}}.",
+      "explanation": "<b>Full transcript:</b> internet<br><br><b>Connected form:</b> <i>innernet</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "internet",
-      "usage": "Written: <code>internet</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innernet</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/internet/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/internet/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innernet</code><br>Formal: <code>internet</code><br><a href=\"https://youglish.com/pronounce/internet/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/internet/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "724f7497494c507e",
+      "full_transcript": "internet",
+      "connected_form": "innernet",
+      "gap_text": "I checked the {{c1::internet}}.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/internet/english/us",
         "forvo_word": "https://forvo.com/word/internet/#en"
@@ -42,7 +50,7 @@
   {
     "id": "2477e103ef6410ae",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/twenty/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/twenty/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He has {{c1::twenty}} dollars.",
-      "explanation": "<b>Written:</b> twenty<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tweny</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'twenty' pronounced as 'tweny'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/twenty/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/twenty/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He has {{c1::twenty}} dollars.",
+      "explanation": "<b>Full transcript:</b> twenty<br><br><b>Connected form:</b> <i>tweny</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "veinte",
-      "usage": "Written: <code>twenty</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tweny</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/twenty/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/twenty/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tweny</code><br>Formal: <code>twenty</code><br><a href=\"https://youglish.com/pronounce/twenty/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/twenty/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2477e103ef6410ae",
+      "full_transcript": "twenty",
+      "connected_form": "tweny",
+      "gap_text": "He has {{c1::twenty}} dollars.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/twenty/english/us",
         "forvo_word": "https://forvo.com/word/twenty/#en"
@@ -82,7 +98,7 @@
   {
     "id": "75256c09e3999467",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/center/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/center/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They met in the {{c1::center}} of the park.",
-      "explanation": "<b>Written:</b> center<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cener</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'center' pronounced as 'cener'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/center/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/center/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They met in the {{c1::center}} of the park.",
+      "explanation": "<b>Full transcript:</b> center<br><br><b>Connected form:</b> <i>cener</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "centro",
-      "usage": "Written: <code>center</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cener</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/center/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/center/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cener</code><br>Formal: <code>center</code><br><a href=\"https://youglish.com/pronounce/center/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/center/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "75256c09e3999467",
+      "full_transcript": "center",
+      "connected_form": "cener",
+      "gap_text": "They met in the {{c1::center}} of the park.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/center/english/us",
         "forvo_word": "https://forvo.com/word/center/#en"
@@ -122,7 +146,7 @@
   {
     "id": "dcdc9f781b50f971",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/international/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/international/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It was an {{c1::international}} event.",
-      "explanation": "<b>Written:</b> international<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innernational</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'international' pronounced as 'innernational'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/international/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/international/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It was an {{c1::international}} event.",
+      "explanation": "<b>Full transcript:</b> international<br><br><b>Connected form:</b> <i>innernational</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "internacional",
-      "usage": "Written: <code>international</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innernational</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/international/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/international/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innernational</code><br>Formal: <code>international</code><br><a href=\"https://youglish.com/pronounce/international/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/international/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "dcdc9f781b50f971",
+      "full_transcript": "international",
+      "connected_form": "innernational",
+      "gap_text": "It was an {{c1::international}} event.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/international/english/us",
         "forvo_word": "https://forvo.com/word/international/#en"
@@ -162,7 +194,7 @@
   {
     "id": "a815eaccc26bbb7e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interview/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interview/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I have a job {{c1::interview}} tomorrow.",
-      "explanation": "<b>Written:</b> interview<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innerview</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'interview' pronounced as 'innerview'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/interview/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interview/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I have a job {{c1::interview}} tomorrow.",
+      "explanation": "<b>Full transcript:</b> interview<br><br><b>Connected form:</b> <i>innerview</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "entrevista",
-      "usage": "Written: <code>interview</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innerview</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interview/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interview/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innerview</code><br>Formal: <code>interview</code><br><a href=\"https://youglish.com/pronounce/interview/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interview/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a815eaccc26bbb7e",
+      "full_transcript": "interview",
+      "connected_form": "innerview",
+      "gap_text": "I have a job {{c1::interview}} tomorrow.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/interview/english/us",
         "forvo_word": "https://forvo.com/word/interview/#en"
@@ -202,7 +242,7 @@
   {
     "id": "b2a43b0f9fc0efd7",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/winter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/winter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The weather is cold in the {{c1::winter}}.",
-      "explanation": "<b>Written:</b> winter<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">winner</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'winter' pronounced as 'winner'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/winter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/winter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The weather is cold in the {{c1::winter}}.",
+      "explanation": "<b>Full transcript:</b> winter<br><br><b>Connected form:</b> <i>winner</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "invierno",
-      "usage": "Written: <code>winter</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">winner</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/winter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/winter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>winner</code><br>Formal: <code>winter</code><br><a href=\"https://youglish.com/pronounce/winter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/winter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b2a43b0f9fc0efd7",
+      "full_transcript": "winter",
+      "connected_form": "winner",
+      "gap_text": "The weather is cold in the {{c1::winter}}.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/winter/english/us",
         "forvo_word": "https://forvo.com/word/winter/#en"
@@ -242,7 +290,7 @@
   {
     "id": "71fa472f5895afa0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/enter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/enter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::enter}} your code.",
-      "explanation": "<b>Written:</b> enter<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">enner</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'enter' pronounced as 'enner'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/enter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/enter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::enter}} your code.",
+      "explanation": "<b>Full transcript:</b> enter<br><br><b>Connected form:</b> <i>enner</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "ingresar",
-      "usage": "Written: <code>enter</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">enner</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/enter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/enter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>enner</code><br>Formal: <code>enter</code><br><a href=\"https://youglish.com/pronounce/enter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/enter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "71fa472f5895afa0",
+      "full_transcript": "enter",
+      "connected_form": "enner",
+      "gap_text": "Please {{c1::enter}} your code.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/enter/english/us",
         "forvo_word": "https://forvo.com/word/enter/#en"
@@ -282,7 +338,7 @@
   {
     "id": "9b8b983918ff999d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/printer/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/printer/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::printer}} is out of paper.",
-      "explanation": "<b>Written:</b> printer<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">prinner</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'printer' pronounced as 'prinner'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/printer/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/printer/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::printer}} is out of paper.",
+      "explanation": "<b>Full transcript:</b> printer<br><br><b>Connected form:</b> <i>prinner</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "impresora",
-      "usage": "Written: <code>printer</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">prinner</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/printer/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/printer/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>prinner</code><br>Formal: <code>printer</code><br><a href=\"https://youglish.com/pronounce/printer/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/printer/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9b8b983918ff999d",
+      "full_transcript": "printer",
+      "connected_form": "prinner",
+      "gap_text": "The {{c1::printer}} is out of paper.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/printer/english/us",
         "forvo_word": "https://forvo.com/word/printer/#en"
@@ -322,7 +386,7 @@
   {
     "id": "2c39fa221fbaa07f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/painter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/painter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He is a famous {{c1::painter}}.",
-      "explanation": "<b>Written:</b> painter<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">painer</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'painter' pronounced as 'painer'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/painter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/painter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He is a famous {{c1::painter}}.",
+      "explanation": "<b>Full transcript:</b> painter<br><br><b>Connected form:</b> <i>painer</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "pintor",
-      "usage": "Written: <code>painter</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">painer</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/painter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/painter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>painer</code><br>Formal: <code>painter</code><br><a href=\"https://youglish.com/pronounce/painter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/painter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "2c39fa221fbaa07f",
+      "full_transcript": "painter",
+      "connected_form": "painer",
+      "gap_text": "He is a famous {{c1::painter}}.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/painter/english/us",
         "forvo_word": "https://forvo.com/word/painter/#en"
@@ -362,7 +434,7 @@
   {
     "id": "108d522d7e97d278",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/counter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/counter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Leave it on the {{c1::counter}}.",
-      "explanation": "<b>Written:</b> counter<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">couner</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'counter' pronounced as 'couner'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/counter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/counter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Leave it on the {{c1::counter}}.",
+      "explanation": "<b>Full transcript:</b> counter<br><br><b>Connected form:</b> <i>couner</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "mostrador",
-      "usage": "Written: <code>counter</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">couner</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/counter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/counter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>couner</code><br>Formal: <code>counter</code><br><a href=\"https://youglish.com/pronounce/counter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/counter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "108d522d7e97d278",
+      "full_transcript": "counter",
+      "connected_form": "couner",
+      "gap_text": "Leave it on the {{c1::counter}}.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/counter/english/us",
         "forvo_word": "https://forvo.com/word/counter/#en"
@@ -402,7 +482,7 @@
   {
     "id": "390a89a50162bd3f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hunter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hunter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The {{c1::hunter}} walked in the woods.",
-      "explanation": "<b>Written:</b> hunter<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hunner</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hunter' pronounced as 'hunner'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hunter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hunter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The {{c1::hunter}} walked in the woods.",
+      "explanation": "<b>Full transcript:</b> hunter<br><br><b>Connected form:</b> <i>hunner</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "cazador",
-      "usage": "Written: <code>hunter</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hunner</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hunter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hunter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hunner</code><br>Formal: <code>hunter</code><br><a href=\"https://youglish.com/pronounce/hunter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hunter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "390a89a50162bd3f",
+      "full_transcript": "hunter",
+      "connected_form": "hunner",
+      "gap_text": "The {{c1::hunter}} walked in the woods.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hunter/english/us",
         "forvo_word": "https://forvo.com/word/hunter/#en"
@@ -442,7 +530,7 @@
   {
     "id": "310091378b434d93",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mental/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mental/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It takes a lot of {{c1::mental}} energy.",
-      "explanation": "<b>Written:</b> mental<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">mennal</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'mental' pronounced as 'mennal'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/mental/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mental/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It takes a lot of {{c1::mental}} energy.",
+      "explanation": "<b>Full transcript:</b> mental<br><br><b>Connected form:</b> <i>mennal</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "mental",
-      "usage": "Written: <code>mental</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">mennal</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/mental/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/mental/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>mennal</code><br>Formal: <code>mental</code><br><a href=\"https://youglish.com/pronounce/mental/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/mental/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "310091378b434d93",
+      "full_transcript": "mental",
+      "connected_form": "mennal",
+      "gap_text": "It takes a lot of {{c1::mental}} energy.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/mental/english/us",
         "forvo_word": "https://forvo.com/word/mental/#en"
@@ -482,7 +578,7 @@
   {
     "id": "6227c99c77d12d18",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rental/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rental/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We signed the {{c1::rental}} agreement.",
-      "explanation": "<b>Written:</b> rental<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">rennal</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'rental' pronounced as 'rennal'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/rental/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rental/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We signed the {{c1::rental}} agreement.",
+      "explanation": "<b>Full transcript:</b> rental<br><br><b>Connected form:</b> <i>rennal</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "alquiler",
-      "usage": "Written: <code>rental</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">rennal</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/rental/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/rental/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>rennal</code><br>Formal: <code>rental</code><br><a href=\"https://youglish.com/pronounce/rental/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/rental/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6227c99c77d12d18",
+      "full_transcript": "rental",
+      "connected_form": "rennal",
+      "gap_text": "We signed the {{c1::rental}} agreement.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/rental/english/us",
         "forvo_word": "https://forvo.com/word/rental/#en"
@@ -522,7 +626,7 @@
   {
     "id": "7f13cc71bb49762b",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/dental/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/dental/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>I need to make a {{c1::dental}} appointment.",
-      "explanation": "<b>Written:</b> dental<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">dennal</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'dental' pronounced as 'dennal'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/dental/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/dental/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>I need to make a {{c1::dental}} appointment.",
+      "explanation": "<b>Full transcript:</b> dental<br><br><b>Connected form:</b> <i>dennal</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "dental",
-      "usage": "Written: <code>dental</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">dennal</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/dental/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/dental/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>dennal</code><br>Formal: <code>dental</code><br><a href=\"https://youglish.com/pronounce/dental/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/dental/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7f13cc71bb49762b",
+      "full_transcript": "dental",
+      "connected_form": "dennal",
+      "gap_text": "I need to make a {{c1::dental}} appointment.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/dental/english/us",
         "forvo_word": "https://forvo.com/word/dental/#en"
@@ -562,7 +674,7 @@
   {
     "id": "d6eb621a022e7f39",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/gentle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/gentle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Be {{c1::gentle}} with the baby.",
-      "explanation": "<b>Written:</b> gentle<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gennel</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'gentle' pronounced as 'gennel'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/gentle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/gentle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Be {{c1::gentle}} with the baby.",
+      "explanation": "<b>Full transcript:</b> gentle<br><br><b>Connected form:</b> <i>gennel</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "amable / suave",
-      "usage": "Written: <code>gentle</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gennel</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/gentle/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/gentle/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gennel</code><br>Formal: <code>gentle</code><br><a href=\"https://youglish.com/pronounce/gentle/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/gentle/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d6eb621a022e7f39",
+      "full_transcript": "gentle",
+      "connected_form": "gennel",
+      "gap_text": "Be {{c1::gentle}} with the baby.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/gentle/english/us",
         "forvo_word": "https://forvo.com/word/gentle/#en"
@@ -602,7 +722,7 @@
   {
     "id": "4427f42ea51737f9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/plenty/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/plenty/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We have {{c1::plenty}} of time.",
-      "explanation": "<b>Written:</b> plenty<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">pleny</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'plenty' pronounced as 'pleny'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/plenty/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/plenty/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We have {{c1::plenty}} of time.",
+      "explanation": "<b>Full transcript:</b> plenty<br><br><b>Connected form:</b> <i>pleny</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "de sobra / mucho",
-      "usage": "Written: <code>plenty</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">pleny</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/plenty/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/plenty/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>pleny</code><br>Formal: <code>plenty</code><br><a href=\"https://youglish.com/pronounce/plenty/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/plenty/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4427f42ea51737f9",
+      "full_transcript": "plenty",
+      "connected_form": "pleny",
+      "gap_text": "We have {{c1::plenty}} of time.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/plenty/english/us",
         "forvo_word": "https://forvo.com/word/plenty/#en"
@@ -642,7 +770,7 @@
   {
     "id": "cfe0d6c59398b5fc",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interstate/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interstate/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Take the {{c1::interstate}} highway.",
-      "explanation": "<b>Written:</b> interstate<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innerstate</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'interstate' pronounced as 'innerstate'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/interstate/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interstate/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Take the {{c1::interstate}} highway.",
+      "explanation": "<b>Full transcript:</b> interstate<br><br><b>Connected form:</b> <i>innerstate</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "interestatal",
-      "usage": "Written: <code>interstate</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innerstate</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interstate/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interstate/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innerstate</code><br>Formal: <code>interstate</code><br><a href=\"https://youglish.com/pronounce/interstate/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interstate/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cfe0d6c59398b5fc",
+      "full_transcript": "interstate",
+      "connected_form": "innerstate",
+      "gap_text": "Take the {{c1::interstate}} highway.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/interstate/english/us",
         "forvo_word": "https://forvo.com/word/interstate/#en"
@@ -682,7 +818,7 @@
   {
     "id": "6cf54384b1ccbe33",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interactive/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interactive/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>This is an {{c1::interactive}} game.",
-      "explanation": "<b>Written:</b> interactive<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">inneractive</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'interactive' pronounced as 'inneractive'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/interactive/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interactive/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>This is an {{c1::interactive}} game.",
+      "explanation": "<b>Full transcript:</b> interactive<br><br><b>Connected form:</b> <i>inneractive</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "interactivo",
-      "usage": "Written: <code>interactive</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">inneractive</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interactive/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interactive/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>inneractive</code><br>Formal: <code>interactive</code><br><a href=\"https://youglish.com/pronounce/interactive/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interactive/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "6cf54384b1ccbe33",
+      "full_transcript": "interactive",
+      "connected_form": "inneractive",
+      "gap_text": "This is an {{c1::interactive}} game.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/interactive/english/us",
         "forvo_word": "https://forvo.com/word/interactive/#en"
@@ -722,7 +866,7 @@
   {
     "id": "98d22445bd215093",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interaction/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interaction/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Social {{c1::interaction}} is important.",
-      "explanation": "<b>Written:</b> interaction<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">inneraction</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'interaction' pronounced as 'inneraction'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/interaction/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interaction/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Social {{c1::interaction}} is important.",
+      "explanation": "<b>Full transcript:</b> interaction<br><br><b>Connected form:</b> <i>inneraction</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "interacción",
-      "usage": "Written: <code>interaction</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">inneraction</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interaction/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interaction/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>inneraction</code><br>Formal: <code>interaction</code><br><a href=\"https://youglish.com/pronounce/interaction/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interaction/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "98d22445bd215093",
+      "full_transcript": "interaction",
+      "connected_form": "inneraction",
+      "gap_text": "Social {{c1::interaction}} is important.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/interaction/english/us",
         "forvo_word": "https://forvo.com/word/interaction/#en"
@@ -762,7 +914,7 @@
   {
     "id": "4ba8179299c23193",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interrupted/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interrupted/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He was {{c1::interrupted}} mid-speech.",
-      "explanation": "<b>Written:</b> interrupted<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innerrupted</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'interrupted' pronounced as 'innerrupted'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/interrupted/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interrupted/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He was {{c1::interrupted}} mid-speech.",
+      "explanation": "<b>Full transcript:</b> interrupted<br><br><b>Connected form:</b> <i>innerrupted</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "interrumpido",
-      "usage": "Written: <code>interrupted</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innerrupted</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interrupted/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interrupted/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innerrupted</code><br>Formal: <code>interrupted</code><br><a href=\"https://youglish.com/pronounce/interrupted/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interrupted/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "4ba8179299c23193",
+      "full_transcript": "interrupted",
+      "connected_form": "innerrupted",
+      "gap_text": "He was {{c1::interrupted}} mid-speech.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/interrupted/english/us",
         "forvo_word": "https://forvo.com/word/interrupted/#en"
@@ -802,7 +962,7 @@
   {
     "id": "b3e5bd9f480ec5a3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interest/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interest/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He showed a lot of {{c1::interest}}.",
-      "explanation": "<b>Written:</b> interest<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innerest</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'interest' pronounced as 'innerest'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/interest/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interest/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He showed a lot of {{c1::interest}}.",
+      "explanation": "<b>Full transcript:</b> interest<br><br><b>Connected form:</b> <i>innerest</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "interés",
-      "usage": "Written: <code>interest</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innerest</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interest/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interest/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innerest</code><br>Formal: <code>interest</code><br><a href=\"https://youglish.com/pronounce/interest/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interest/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b3e5bd9f480ec5a3",
+      "full_transcript": "interest",
+      "connected_form": "innerest",
+      "gap_text": "He showed a lot of {{c1::interest}}.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/interest/english/us",
         "forvo_word": "https://forvo.com/word/interest/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "a77a0d06b5ca666c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interesting/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interesting/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That is an {{c1::interesting}} story.",
-      "explanation": "<b>Written:</b> interesting<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">inneresting</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'interesting' pronounced as 'inneresting'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/interesting/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interesting/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That is an {{c1::interesting}} story.",
+      "explanation": "<b>Full transcript:</b> interesting<br><br><b>Connected form:</b> <i>inneresting</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "interesante",
-      "usage": "Written: <code>interesting</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">inneresting</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interesting/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interesting/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>inneresting</code><br>Formal: <code>interesting</code><br><a href=\"https://youglish.com/pronounce/interesting/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interesting/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a77a0d06b5ca666c",
+      "full_transcript": "interesting",
+      "connected_form": "inneresting",
+      "gap_text": "That is an {{c1::interesting}} story.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/interesting/english/us",
         "forvo_word": "https://forvo.com/word/interesting/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "b0d4b486e2320579",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interference/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interference/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>There is static {{c1::interference}}.",
-      "explanation": "<b>Written:</b> interference<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innerference</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'interference' pronounced as 'innerference'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/interference/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interference/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>There is static {{c1::interference}}.",
+      "explanation": "<b>Full transcript:</b> interference<br><br><b>Connected form:</b> <i>innerference</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "interferencia",
-      "usage": "Written: <code>interference</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innerference</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interference/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interference/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innerference</code><br>Formal: <code>interference</code><br><a href=\"https://youglish.com/pronounce/interference/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interference/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "b0d4b486e2320579",
+      "full_transcript": "interference",
+      "connected_form": "innerference",
+      "gap_text": "There is static {{c1::interference}}.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/interference/english/us",
         "forvo_word": "https://forvo.com/word/interference/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "fb8f82d0deb738e8",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/integration/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/integration/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>System {{c1::integration}} is complete.",
-      "explanation": "<b>Written:</b> integration<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innergration</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'integration' pronounced as 'innergration'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/integration/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/integration/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>System {{c1::integration}} is complete.",
+      "explanation": "<b>Full transcript:</b> integration<br><br><b>Connected form:</b> <i>innergration</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "integración",
-      "usage": "Written: <code>integration</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innergration</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/integration/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/integration/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innergration</code><br>Formal: <code>integration</code><br><a href=\"https://youglish.com/pronounce/integration/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/integration/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "fb8f82d0deb738e8",
+      "full_transcript": "integration",
+      "connected_form": "innergration",
+      "gap_text": "System {{c1::integration}} is complete.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/integration/english/us",
         "forvo_word": "https://forvo.com/word/integration/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "c02dd3bc183113b5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interpreter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interpreter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>They hired an {{c1::interpreter}}.",
-      "explanation": "<b>Written:</b> interpreter<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innerpreter</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'interpreter' pronounced as 'innerpreter'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/interpreter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interpreter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>They hired an {{c1::interpreter}}.",
+      "explanation": "<b>Full transcript:</b> interpreter<br><br><b>Connected form:</b> <i>innerpreter</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "intérprete",
-      "usage": "Written: <code>interpreter</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innerpreter</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/interpreter/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/interpreter/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innerpreter</code><br>Formal: <code>interpreter</code><br><a href=\"https://youglish.com/pronounce/interpreter/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/interpreter/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c02dd3bc183113b5",
+      "full_transcript": "interpreter",
+      "connected_form": "innerpreter",
+      "gap_text": "They hired an {{c1::interpreter}}.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/interpreter/english/us",
         "forvo_word": "https://forvo.com/word/interpreter/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "61fb16bd82a8210f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/intensity/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/intensity/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>The storm increased in {{c1::intensity}}.",
-      "explanation": "<b>Written:</b> intensity<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">innensity</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'intensity' pronounced as 'innensity'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/intensity/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/intensity/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>The storm increased in {{c1::intensity}}.",
+      "explanation": "<b>Full transcript:</b> intensity<br><br><b>Connected form:</b> <i>innensity</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "intensidad",
-      "usage": "Written: <code>intensity</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">innensity</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/intensity/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/intensity/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>innensity</code><br>Formal: <code>intensity</code><br><a href=\"https://youglish.com/pronounce/intensity/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/intensity/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "61fb16bd82a8210f",
+      "full_transcript": "intensity",
+      "connected_form": "innensity",
+      "gap_text": "The storm increased in {{c1::intensity}}.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/intensity/english/us",
         "forvo_word": "https://forvo.com/word/intensity/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "eda2dc84a685de9c",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/continental/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/continental/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We had a {{c1::continental}} breakfast.",
-      "explanation": "<b>Written:</b> continental<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">conninental</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'continental' pronounced as 'conninental'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/continental/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/continental/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We had a {{c1::continental}} breakfast.",
+      "explanation": "<b>Full transcript:</b> continental<br><br><b>Connected form:</b> <i>conninental</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "continental",
-      "usage": "Written: <code>continental</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">conninental</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/continental/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/continental/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>conninental</code><br>Formal: <code>continental</code><br><a href=\"https://youglish.com/pronounce/continental/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/continental/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "eda2dc84a685de9c",
+      "full_transcript": "continental",
+      "connected_form": "conninental",
+      "gap_text": "We had a {{c1::continental}} breakfast.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/continental/english/us",
         "forvo_word": "https://forvo.com/word/continental/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "04bd7d74ea7c06aa",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/disadvantage/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/disadvantage/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That is a big {{c1::disadvantage}}.",
-      "explanation": "<b>Written:</b> disadvantage<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">disadvanage</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'disadvantage' pronounced as 'disadvanage'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/disadvantage/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/disadvantage/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That is a big {{c1::disadvantage}}.",
+      "explanation": "<b>Full transcript:</b> disadvantage<br><br><b>Connected form:</b> <i>disadvanage</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "desventaja",
-      "usage": "Written: <code>disadvantage</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">disadvanage</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/disadvantage/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/disadvantage/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>disadvanage</code><br>Formal: <code>disadvantage</code><br><a href=\"https://youglish.com/pronounce/disadvantage/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/disadvantage/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "04bd7d74ea7c06aa",
+      "full_transcript": "disadvantage",
+      "connected_form": "disadvanage",
+      "gap_text": "That is a big {{c1::disadvantage}}.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/disadvantage/english/us",
         "forvo_word": "https://forvo.com/word/disadvantage/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "43d6789b623bde38",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/advantage/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/advantage/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Take {{c1::advantage}} of the offer.",
-      "explanation": "<b>Written:</b> advantage<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">advanage</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'advantage' pronounced as 'advanage'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/advantage/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/advantage/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Take {{c1::advantage}} of the offer.",
+      "explanation": "<b>Full transcript:</b> advantage<br><br><b>Connected form:</b> <i>advanage</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "ventaja",
-      "usage": "Written: <code>advantage</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">advanage</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/advantage/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/advantage/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>advanage</code><br>Formal: <code>advantage</code><br><a href=\"https://youglish.com/pronounce/advantage/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/advantage/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "43d6789b623bde38",
+      "full_transcript": "advantage",
+      "connected_form": "advanage",
+      "gap_text": "Take {{c1::advantage}} of the offer.",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/advantage/english/us",
         "forvo_word": "https://forvo.com/word/advantage/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "03901edf53243593",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Nasal_T_Deletion 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/percentage/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/percentage/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>What is the {{c1::percentage}} of growth?",
-      "explanation": "<b>Written:</b> percentage<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">percenage</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'percentage' pronounced as 'percenage'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/percentage/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/percentage/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>What is the {{c1::percentage}} of growth?",
+      "explanation": "<b>Full transcript:</b> percentage<br><br><b>Connected form:</b> <i>percenage</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Nasal T Deletion</code></li></ul>",
       "spanish": "porcentaje",
-      "usage": "Written: <code>percentage</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">percenage</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/percentage/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/percentage/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>percenage</code><br>Formal: <code>percentage</code><br><a href=\"https://youglish.com/pronounce/percentage/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/percentage/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "03901edf53243593",
+      "full_transcript": "percentage",
+      "connected_form": "percenage",
+      "gap_text": "What is the {{c1::percentage}} of growth?",
+      "rules_applied": [
+        "Nasal T Deletion"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/percentage/english/us",
         "forvo_word": "https://forvo.com/word/percentage/#en"

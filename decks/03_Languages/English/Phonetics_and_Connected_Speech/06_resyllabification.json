@@ -2,7 +2,7 @@
   {
     "id": "8ba7cb03b49635a3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -16,11 +16,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 1",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/check%20it%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/check/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Hey, {{c1::check it out}}!",
-      "explanation": "<b>Written:</b> check it out<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">che-ki-tout</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'check it out' pronounced as 'che-ki-tout'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/check%20it%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/check/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Hey, {{c1::check it out}}!",
+      "explanation": "<b>Full transcript:</b> check it out<br><br><b>Connected form:</b> <i>che-ki-tout</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "míralo",
-      "usage": "Written: <code>check it out</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">che-ki-tout</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/check%20it%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/check/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>che-ki-tout</code><br>Formal: <code>check it out</code><br><a href=\"https://youglish.com/pronounce/check%20it%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/check/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8ba7cb03b49635a3",
+      "full_transcript": "check it out",
+      "connected_form": "che-ki-tout",
+      "gap_text": "Hey, {{c1::check it out}}!",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/check%20it%20out/english/us",
         "forvo_word": "https://forvo.com/word/check/#en"
@@ -42,7 +50,7 @@
   {
     "id": "55a0c99cf36f5a8f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -56,11 +64,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 2",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hold%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can you {{c1::hold on}}?",
-      "explanation": "<b>Written:</b> hold on<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">hol-don</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'hold on' pronounced as 'hol-don'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/hold%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can you {{c1::hold on}}?",
+      "explanation": "<b>Full transcript:</b> hold on<br><br><b>Connected form:</b> <i>hol-don</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "espera",
-      "usage": "Written: <code>hold on</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">hol-don</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/hold%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/hold/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>hol-don</code><br>Formal: <code>hold on</code><br><a href=\"https://youglish.com/pronounce/hold%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/hold/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "55a0c99cf36f5a8f",
+      "full_transcript": "hold on",
+      "connected_form": "hol-don",
+      "gap_text": "Can you {{c1::hold on}}?",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/hold%20on/english/us",
         "forvo_word": "https://forvo.com/word/hold/#en"
@@ -82,7 +98,7 @@
   {
     "id": "3cedbd58e1015dd6",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -96,11 +112,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 3",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/an%20apple/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/an/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>She ate {{c1::an apple}}.",
-      "explanation": "<b>Written:</b> an apple<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">a-napple</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'an apple' pronounced as 'a-napple'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/an%20apple/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/an/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>She ate {{c1::an apple}}.",
+      "explanation": "<b>Full transcript:</b> an apple<br><br><b>Connected form:</b> <i>a-napple</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "una manzana",
-      "usage": "Written: <code>an apple</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">a-napple</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/an%20apple/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/an/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>a-napple</code><br>Formal: <code>an apple</code><br><a href=\"https://youglish.com/pronounce/an%20apple/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/an/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "3cedbd58e1015dd6",
+      "full_transcript": "an apple",
+      "connected_form": "a-napple",
+      "gap_text": "She ate {{c1::an apple}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/an%20apple/english/us",
         "forvo_word": "https://forvo.com/word/an/#en"
@@ -122,7 +146,7 @@
   {
     "id": "70a436e9ff327988",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -136,11 +160,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 4",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/far%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/far/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>It's {{c1::far away}}.",
-      "explanation": "<b>Written:</b> far away<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fa-ra-way</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'far away' pronounced as 'fa-ra-way'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/far%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/far/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>It's {{c1::far away}}.",
+      "explanation": "<b>Full transcript:</b> far away<br><br><b>Connected form:</b> <i>fa-ra-way</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "muy lejos",
-      "usage": "Written: <code>far away</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fa-ra-way</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/far%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/far/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fa-ra-way</code><br>Formal: <code>far away</code><br><a href=\"https://youglish.com/pronounce/far%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/far/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "70a436e9ff327988",
+      "full_transcript": "far away",
+      "connected_form": "fa-ra-way",
+      "gap_text": "It's {{c1::far away}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/far%20away/english/us",
         "forvo_word": "https://forvo.com/word/far/#en"
@@ -162,7 +194,7 @@
   {
     "id": "9b40f92ab6010c6e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -176,11 +208,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 5",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pick%20it%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pick/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::pick it up}}.",
-      "explanation": "<b>Written:</b> pick it up<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">pi-ki-tup</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'pick it up' pronounced as 'pi-ki-tup'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/pick%20it%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pick/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::pick it up}}.",
+      "explanation": "<b>Full transcript:</b> pick it up<br><br><b>Connected form:</b> <i>pi-ki-tup</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "recógelo",
-      "usage": "Written: <code>pick it up</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">pi-ki-tup</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/pick%20it%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/pick/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>pi-ki-tup</code><br>Formal: <code>pick it up</code><br><a href=\"https://youglish.com/pronounce/pick%20it%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/pick/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9b40f92ab6010c6e",
+      "full_transcript": "pick it up",
+      "connected_form": "pi-ki-tup",
+      "gap_text": "Please {{c1::pick it up}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/pick%20it%20up/english/us",
         "forvo_word": "https://forvo.com/word/pick/#en"
@@ -202,7 +242,7 @@
   {
     "id": "de1d5115ad726bb3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -216,11 +256,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 6",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/take%20it%20easy/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/take/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Just {{c1::take it easy}}.",
-      "explanation": "<b>Written:</b> take it easy<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tay-ki-tee-zy</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'take it easy' pronounced as 'tay-ki-tee-zy'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/take%20it%20easy/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/take/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Just {{c1::take it easy}}.",
+      "explanation": "<b>Full transcript:</b> take it easy<br><br><b>Connected form:</b> <i>tay-ki-tee-zy</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "tómalo con calma",
-      "usage": "Written: <code>take it easy</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tay-ki-tee-zy</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/take%20it%20easy/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/take/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tay-ki-tee-zy</code><br>Formal: <code>take it easy</code><br><a href=\"https://youglish.com/pronounce/take%20it%20easy/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/take/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "de1d5115ad726bb3",
+      "full_transcript": "take it easy",
+      "connected_form": "tay-ki-tee-zy",
+      "gap_text": "Just {{c1::take it easy}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/take%20it%20easy/english/us",
         "forvo_word": "https://forvo.com/word/take/#en"
@@ -242,7 +290,7 @@
   {
     "id": "354f0f237eaaf9e1",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -256,11 +304,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 7",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/give%20it%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/give/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::give it up}}.",
-      "explanation": "<b>Written:</b> give it up<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">gi-vi-tup</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'give it up' pronounced as 'gi-vi-tup'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/give%20it%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/give/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::give it up}}.",
+      "explanation": "<b>Full transcript:</b> give it up<br><br><b>Connected form:</b> <i>gi-vi-tup</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "te rindas",
-      "usage": "Written: <code>give it up</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">gi-vi-tup</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/give%20it%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/give/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>gi-vi-tup</code><br>Formal: <code>give it up</code><br><a href=\"https://youglish.com/pronounce/give%20it%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/give/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "354f0f237eaaf9e1",
+      "full_transcript": "give it up",
+      "connected_form": "gi-vi-tup",
+      "gap_text": "Don't {{c1::give it up}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/give%20it%20up/english/us",
         "forvo_word": "https://forvo.com/word/give/#en"
@@ -282,7 +338,7 @@
   {
     "id": "7f4e8b95df21f60d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -296,11 +352,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 8",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/work%20it%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/work/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We can {{c1::work it out}}.",
-      "explanation": "<b>Written:</b> work it out<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wor-ki-tout</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'work it out' pronounced as 'wor-ki-tout'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/work%20it%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/work/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We can {{c1::work it out}}.",
+      "explanation": "<b>Full transcript:</b> work it out<br><br><b>Connected form:</b> <i>wor-ki-tout</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "resolverlo",
-      "usage": "Written: <code>work it out</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wor-ki-tout</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/work%20it%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/work/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wor-ki-tout</code><br>Formal: <code>work it out</code><br><a href=\"https://youglish.com/pronounce/work%20it%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/work/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7f4e8b95df21f60d",
+      "full_transcript": "work it out",
+      "connected_form": "wor-ki-tout",
+      "gap_text": "We can {{c1::work it out}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/work%20it%20out/english/us",
         "forvo_word": "https://forvo.com/word/work/#en"
@@ -322,7 +386,7 @@
   {
     "id": "a558ed9f5c2d39d5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -336,11 +400,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 9",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/turn%20it%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/turn/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can you {{c1::turn it on}}?",
-      "explanation": "<b>Written:</b> turn it on<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">tur-ni-ton</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'turn it on' pronounced as 'tur-ni-ton'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/turn%20it%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/turn/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can you {{c1::turn it on}}?",
+      "explanation": "<b>Full transcript:</b> turn it on<br><br><b>Connected form:</b> <i>tur-ni-ton</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "encenderlo",
-      "usage": "Written: <code>turn it on</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">tur-ni-ton</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/turn%20it%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/turn/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>tur-ni-ton</code><br>Formal: <code>turn it on</code><br><a href=\"https://youglish.com/pronounce/turn%20it%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/turn/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "a558ed9f5c2d39d5",
+      "full_transcript": "turn it on",
+      "connected_form": "tur-ni-ton",
+      "gap_text": "Can you {{c1::turn it on}}?",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/turn%20it%20on/english/us",
         "forvo_word": "https://forvo.com/word/turn/#en"
@@ -362,7 +434,7 @@
   {
     "id": "66978e7baeb318f0",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -376,11 +448,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 10",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/come%20on%20in/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/come/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::come on in}}.",
-      "explanation": "<b>Written:</b> come on in<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">co-mo-nin</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'come on in' pronounced as 'co-mo-nin'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/come%20on%20in/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/come/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::come on in}}.",
+      "explanation": "<b>Full transcript:</b> come on in<br><br><b>Connected form:</b> <i>co-mo-nin</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "pasa adentro",
-      "usage": "Written: <code>come on in</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">co-mo-nin</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/come%20on%20in/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/come/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>co-mo-nin</code><br>Formal: <code>come on in</code><br><a href=\"https://youglish.com/pronounce/come%20on%20in/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/come/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "66978e7baeb318f0",
+      "full_transcript": "come on in",
+      "connected_form": "co-mo-nin",
+      "gap_text": "Please {{c1::come on in}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/come%20on%20in/english/us",
         "forvo_word": "https://forvo.com/word/come/#en"
@@ -402,7 +482,7 @@
   {
     "id": "f6cc3d3e0ac663e9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -416,11 +496,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 11",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/get%20in/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/get/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Let's {{c1::get in}} the car.",
-      "explanation": "<b>Written:</b> get in<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ge-tin</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'get in' pronounced as 'ge-tin'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/get%20in/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/get/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Let's {{c1::get in}} the car.",
+      "explanation": "<b>Full transcript:</b> get in<br><br><b>Connected form:</b> <i>ge-tin</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "entrar",
-      "usage": "Written: <code>get in</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ge-tin</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/get%20in/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/get/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ge-tin</code><br>Formal: <code>get in</code><br><a href=\"https://youglish.com/pronounce/get%20in/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/get/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "f6cc3d3e0ac663e9",
+      "full_transcript": "get in",
+      "connected_form": "ge-tin",
+      "gap_text": "Let's {{c1::get in}} the car.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/get%20in/english/us",
         "forvo_word": "https://forvo.com/word/get/#en"
@@ -442,7 +530,7 @@
   {
     "id": "cecf45a2f7a57001",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -456,11 +544,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 12",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/put%20it%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/put/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::put it away}}.",
-      "explanation": "<b>Written:</b> put it away<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">pu-ti-taway</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'put it away' pronounced as 'pu-ti-taway'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/put%20it%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/put/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::put it away}}.",
+      "explanation": "<b>Full transcript:</b> put it away<br><br><b>Connected form:</b> <i>pu-ti-taway</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "guárdalo",
-      "usage": "Written: <code>put it away</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">pu-ti-taway</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/put%20it%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/put/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>pu-ti-taway</code><br>Formal: <code>put it away</code><br><a href=\"https://youglish.com/pronounce/put%20it%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/put/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "cecf45a2f7a57001",
+      "full_transcript": "put it away",
+      "connected_form": "pu-ti-taway",
+      "gap_text": "Please {{c1::put it away}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/put%20it%20away/english/us",
         "forvo_word": "https://forvo.com/word/put/#en"
@@ -482,7 +578,7 @@
   {
     "id": "ffc256df9fe5f3fa",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -496,11 +592,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 13",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/set%20it%20off/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/set/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>That will {{c1::set it off}}.",
-      "explanation": "<b>Written:</b> set it off<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">se-ti-toff</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'set it off' pronounced as 'se-ti-toff'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/set%20it%20off/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/set/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>That will {{c1::set it off}}.",
+      "explanation": "<b>Full transcript:</b> set it off<br><br><b>Connected form:</b> <i>se-ti-toff</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "desactivarlo/activarlo",
-      "usage": "Written: <code>set it off</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">se-ti-toff</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/set%20it%20off/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/set/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>se-ti-toff</code><br>Formal: <code>set it off</code><br><a href=\"https://youglish.com/pronounce/set%20it%20off/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/set/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "ffc256df9fe5f3fa",
+      "full_transcript": "set it off",
+      "connected_form": "se-ti-toff",
+      "gap_text": "That will {{c1::set it off}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/set%20it%20off/english/us",
         "forvo_word": "https://forvo.com/word/set/#en"
@@ -522,7 +626,7 @@
   {
     "id": "9a29a3394b56e754",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -536,11 +640,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 14",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wrap%20it%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wrap/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Let's {{c1::wrap it up}}.",
-      "explanation": "<b>Written:</b> wrap it up<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wra-pi-tup</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'wrap it up' pronounced as 'wra-pi-tup'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/wrap%20it%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wrap/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Let's {{c1::wrap it up}}.",
+      "explanation": "<b>Full transcript:</b> wrap it up<br><br><b>Connected form:</b> <i>wra-pi-tup</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "terminar",
-      "usage": "Written: <code>wrap it up</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wra-pi-tup</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wrap%20it%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wrap/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wra-pi-tup</code><br>Formal: <code>wrap it up</code><br><a href=\"https://youglish.com/pronounce/wrap%20it%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wrap/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9a29a3394b56e754",
+      "full_transcript": "wrap it up",
+      "connected_form": "wra-pi-tup",
+      "gap_text": "Let's {{c1::wrap it up}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/wrap%20it%20up/english/us",
         "forvo_word": "https://forvo.com/word/wrap/#en"
@@ -562,7 +674,7 @@
   {
     "id": "9ec9aaeb9f2c6e19",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -576,11 +688,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 15",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/run%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/run/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::run away}}.",
-      "explanation": "<b>Written:</b> run away<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">ru-na-way</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'run away' pronounced as 'ru-na-way'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/run%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/run/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::run away}}.",
+      "explanation": "<b>Full transcript:</b> run away<br><br><b>Connected form:</b> <i>ru-na-way</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "escapar",
-      "usage": "Written: <code>run away</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">ru-na-way</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/run%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/run/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>ru-na-way</code><br>Formal: <code>run away</code><br><a href=\"https://youglish.com/pronounce/run%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/run/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "9ec9aaeb9f2c6e19",
+      "full_transcript": "run away",
+      "connected_form": "ru-na-way",
+      "gap_text": "Don't {{c1::run away}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/run%20away/english/us",
         "forvo_word": "https://forvo.com/word/run/#en"
@@ -602,7 +722,7 @@
   {
     "id": "67c2dc556927d4af",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -616,11 +736,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 16",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/look%20at/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/look/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Take a {{c1::look at}} this.",
-      "explanation": "<b>Written:</b> look at<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">loo-kat</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'look at' pronounced as 'loo-kat'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/look%20at/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/look/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Take a {{c1::look at}} this.",
+      "explanation": "<b>Full transcript:</b> look at<br><br><b>Connected form:</b> <i>loo-kat</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "mirar a",
-      "usage": "Written: <code>look at</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">loo-kat</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/look%20at/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/look/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>loo-kat</code><br>Formal: <code>look at</code><br><a href=\"https://youglish.com/pronounce/look%20at/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/look/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "67c2dc556927d4af",
+      "full_transcript": "look at",
+      "connected_form": "loo-kat",
+      "gap_text": "Take a {{c1::look at}} this.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/look%20at/english/us",
         "forvo_word": "https://forvo.com/word/look/#en"
@@ -642,7 +770,7 @@
   {
     "id": "892fa79a18fb0b3f",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -656,11 +784,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 17",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/find%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/find/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We need to {{c1::find out}}.",
-      "explanation": "<b>Written:</b> find out<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">fin-dout</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'find out' pronounced as 'fin-dout'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/find%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/find/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We need to {{c1::find out}}.",
+      "explanation": "<b>Full transcript:</b> find out<br><br><b>Connected form:</b> <i>fin-dout</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "enterarse",
-      "usage": "Written: <code>find out</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">fin-dout</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/find%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/find/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>fin-dout</code><br>Formal: <code>find out</code><br><a href=\"https://youglish.com/pronounce/find%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/find/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "892fa79a18fb0b3f",
+      "full_transcript": "find out",
+      "connected_form": "fin-dout",
+      "gap_text": "We need to {{c1::find out}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/find%20out/english/us",
         "forvo_word": "https://forvo.com/word/find/#en"
@@ -682,7 +818,7 @@
   {
     "id": "d1490b4970e94db2",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -696,11 +832,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 18",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/stand%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/stand/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Please {{c1::stand up}}.",
-      "explanation": "<b>Written:</b> stand up<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">stan-dup</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'stand up' pronounced as 'stan-dup'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/stand%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/stand/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Please {{c1::stand up}}.",
+      "explanation": "<b>Full transcript:</b> stand up<br><br><b>Connected form:</b> <i>stan-dup</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "ponerse de pie",
-      "usage": "Written: <code>stand up</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">stan-dup</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/stand%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/stand/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>stan-dup</code><br>Formal: <code>stand up</code><br><a href=\"https://youglish.com/pronounce/stand%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/stand/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "d1490b4970e94db2",
+      "full_transcript": "stand up",
+      "connected_form": "stan-dup",
+      "gap_text": "Please {{c1::stand up}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/stand%20up/english/us",
         "forvo_word": "https://forvo.com/word/stand/#en"
@@ -722,7 +866,7 @@
   {
     "id": "8d8aa738e1dab85e",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -736,11 +880,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 19",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/think%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/think/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>What do you {{c1::think of}} this?",
-      "explanation": "<b>Written:</b> think of<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">thin-kov</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'think of' pronounced as 'thin-kov'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/think%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/think/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>What do you {{c1::think of}} this?",
+      "explanation": "<b>Full transcript:</b> think of<br><br><b>Connected form:</b> <i>thin-kov</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "pensar de",
-      "usage": "Written: <code>think of</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">thin-kov</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/think%20of/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/think/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>thin-kov</code><br>Formal: <code>think of</code><br><a href=\"https://youglish.com/pronounce/think%20of/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/think/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8d8aa738e1dab85e",
+      "full_transcript": "think of",
+      "connected_form": "thin-kov",
+      "gap_text": "What do you {{c1::think of}} this?",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/think%20of/english/us",
         "forvo_word": "https://forvo.com/word/think/#en"
@@ -762,7 +914,7 @@
   {
     "id": "99bd902928805ee3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -776,11 +928,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 20",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/read%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/read/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Can you {{c1::read it}}?",
-      "explanation": "<b>Written:</b> read it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">rea-dit</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'read it' pronounced as 'rea-dit'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/read%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/read/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Can you {{c1::read it}}?",
+      "explanation": "<b>Full transcript:</b> read it<br><br><b>Connected form:</b> <i>rea-dit</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "leerlo",
-      "usage": "Written: <code>read it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">rea-dit</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/read%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/read/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>rea-dit</code><br>Formal: <code>read it</code><br><a href=\"https://youglish.com/pronounce/read%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/read/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "99bd902928805ee3",
+      "full_transcript": "read it",
+      "connected_form": "rea-dit",
+      "gap_text": "Can you {{c1::read it}}?",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/read%20it/english/us",
         "forvo_word": "https://forvo.com/word/read/#en"
@@ -802,7 +962,7 @@
   {
     "id": "e3b818ecd169abb4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -816,11 +976,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 21",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/write%20about/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/write/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>What did you {{c1::write about}}?",
-      "explanation": "<b>Written:</b> write about<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wri-ta-bout</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'write about' pronounced as 'wri-ta-bout'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/write%20about/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/write/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>What did you {{c1::write about}}?",
+      "explanation": "<b>Full transcript:</b> write about<br><br><b>Connected form:</b> <i>wri-ta-bout</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "escribir sobre",
-      "usage": "Written: <code>write about</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wri-ta-bout</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/write%20about/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/write/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wri-ta-bout</code><br>Formal: <code>write about</code><br><a href=\"https://youglish.com/pronounce/write%20about/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/write/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "e3b818ecd169abb4",
+      "full_transcript": "write about",
+      "connected_form": "wri-ta-bout",
+      "gap_text": "What did you {{c1::write about}}?",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/write%20about/english/us",
         "forvo_word": "https://forvo.com/word/write/#en"
@@ -842,7 +1010,7 @@
   {
     "id": "3f9d764010eb92e4",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -856,11 +1024,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 22",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/clean%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/clean/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>We must {{c1::clean up}}.",
-      "explanation": "<b>Written:</b> clean up<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">clea-nup</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'clean up' pronounced as 'clea-nup'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/clean%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/clean/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>We must {{c1::clean up}}.",
+      "explanation": "<b>Full transcript:</b> clean up<br><br><b>Connected form:</b> <i>clea-nup</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "limpiar",
-      "usage": "Written: <code>clean up</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">clea-nup</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/clean%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/clean/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>clea-nup</code><br>Formal: <code>clean up</code><br><a href=\"https://youglish.com/pronounce/clean%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/clean/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "3f9d764010eb92e4",
+      "full_transcript": "clean up",
+      "connected_form": "clea-nup",
+      "gap_text": "We must {{c1::clean up}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/clean%20up/english/us",
         "forvo_word": "https://forvo.com/word/clean/#en"
@@ -882,7 +1058,7 @@
   {
     "id": "54b378f9ab5e4ba3",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -896,11 +1072,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 23",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/drink%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/drink/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Go ahead and {{c1::drink it}}.",
-      "explanation": "<b>Written:</b> drink it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">drin-kit</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'drink it' pronounced as 'drin-kit'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/drink%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/drink/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Go ahead and {{c1::drink it}}.",
+      "explanation": "<b>Full transcript:</b> drink it<br><br><b>Connected form:</b> <i>drin-kit</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "bébelo",
-      "usage": "Written: <code>drink it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">drin-kit</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/drink%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/drink/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>drin-kit</code><br>Formal: <code>drink it</code><br><a href=\"https://youglish.com/pronounce/drink%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/drink/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "54b378f9ab5e4ba3",
+      "full_transcript": "drink it",
+      "connected_form": "drin-kit",
+      "gap_text": "Go ahead and {{c1::drink it}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/drink%20it/english/us",
         "forvo_word": "https://forvo.com/word/drink/#en"
@@ -922,7 +1106,7 @@
   {
     "id": "92f40efd4808dc8d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -936,11 +1120,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 24",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wake%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wake/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Time to {{c1::wake up}}.",
-      "explanation": "<b>Written:</b> wake up<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wa-kup</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'wake up' pronounced as 'wa-kup'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/wake%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wake/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Time to {{c1::wake up}}.",
+      "explanation": "<b>Full transcript:</b> wake up<br><br><b>Connected form:</b> <i>wa-kup</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "despertar",
-      "usage": "Written: <code>wake up</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wa-kup</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/wake%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/wake/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wa-kup</code><br>Formal: <code>wake up</code><br><a href=\"https://youglish.com/pronounce/wake%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/wake/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "92f40efd4808dc8d",
+      "full_transcript": "wake up",
+      "connected_form": "wa-kup",
+      "gap_text": "Time to {{c1::wake up}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/wake%20up/english/us",
         "forvo_word": "https://forvo.com/word/wake/#en"
@@ -962,7 +1154,7 @@
   {
     "id": "67f0d86dba05bdad",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -976,11 +1168,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 25",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/shake%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/shake/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Make sure you {{c1::shake it}}.",
-      "explanation": "<b>Written:</b> shake it<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">sha-kit</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'shake it' pronounced as 'sha-kit'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/shake%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/shake/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Make sure you {{c1::shake it}}.",
+      "explanation": "<b>Full transcript:</b> shake it<br><br><b>Connected form:</b> <i>sha-kit</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "sacudirlo",
-      "usage": "Written: <code>shake it</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">sha-kit</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/shake%20it/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/shake/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>sha-kit</code><br>Formal: <code>shake it</code><br><a href=\"https://youglish.com/pronounce/shake%20it/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/shake/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "67f0d86dba05bdad",
+      "full_transcript": "shake it",
+      "connected_form": "sha-kit",
+      "gap_text": "Make sure you {{c1::shake it}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/shake%20it/english/us",
         "forvo_word": "https://forvo.com/word/shake/#en"
@@ -1002,7 +1202,7 @@
   {
     "id": "36bed2bb77604167",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1016,11 +1216,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 26",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/speak%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/speak/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't be afraid to {{c1::speak out}}.",
-      "explanation": "<b>Written:</b> speak out<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">spea-kout</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'speak out' pronounced as 'spea-kout'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/speak%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/speak/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't be afraid to {{c1::speak out}}.",
+      "explanation": "<b>Full transcript:</b> speak out<br><br><b>Connected form:</b> <i>spea-kout</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "hablar abiertamente",
-      "usage": "Written: <code>speak out</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">spea-kout</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/speak%20out/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/speak/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>spea-kout</code><br>Formal: <code>speak out</code><br><a href=\"https://youglish.com/pronounce/speak%20out/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/speak/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "36bed2bb77604167",
+      "full_transcript": "speak out",
+      "connected_form": "spea-kout",
+      "gap_text": "Don't be afraid to {{c1::speak out}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/speak%20out/english/us",
         "forvo_word": "https://forvo.com/word/speak/#en"
@@ -1042,7 +1250,7 @@
   {
     "id": "c9fd0be13fa98f5d",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1056,11 +1264,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 27",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/walk%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/walk/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Just {{c1::walk away}}.",
-      "explanation": "<b>Written:</b> walk away<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">wal-ka-way</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'walk away' pronounced as 'wal-ka-way'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/walk%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/walk/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Just {{c1::walk away}}.",
+      "explanation": "<b>Full transcript:</b> walk away<br><br><b>Connected form:</b> <i>wal-ka-way</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "alejarse",
-      "usage": "Written: <code>walk away</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">wal-ka-way</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/walk%20away/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/walk/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>wal-ka-way</code><br>Formal: <code>walk away</code><br><a href=\"https://youglish.com/pronounce/walk%20away/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/walk/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "c9fd0be13fa98f5d",
+      "full_transcript": "walk away",
+      "connected_form": "wal-ka-way",
+      "gap_text": "Just {{c1::walk away}}.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/walk%20away/english/us",
         "forvo_word": "https://forvo.com/word/walk/#en"
@@ -1082,7 +1298,7 @@
   {
     "id": "58ec96d6d7520bc5",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1096,11 +1312,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 28",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/laugh%20at/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/laugh/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Don't {{c1::laugh at}} him.",
-      "explanation": "<b>Written:</b> laugh at<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">lau-fhat</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'laugh at' pronounced as 'lau-fhat'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/laugh%20at/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/laugh/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Don't {{c1::laugh at}} him.",
+      "explanation": "<b>Full transcript:</b> laugh at<br><br><b>Connected form:</b> <i>lau-fhat</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "reírse de",
-      "usage": "Written: <code>laugh at</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">lau-fhat</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/laugh%20at/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/laugh/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>lau-fhat</code><br>Formal: <code>laugh at</code><br><a href=\"https://youglish.com/pronounce/laugh%20at/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/laugh/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "58ec96d6d7520bc5",
+      "full_transcript": "laugh at",
+      "connected_form": "lau-fhat",
+      "gap_text": "Don't {{c1::laugh at}} him.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/laugh%20at/english/us",
         "forvo_word": "https://forvo.com/word/laugh/#en"
@@ -1122,7 +1346,7 @@
   {
     "id": "7c023fd1c61ca1d9",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1136,11 +1360,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 29",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cough%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cough/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>He had to {{c1::cough up}} the money.",
-      "explanation": "<b>Written:</b> cough up<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">cou-fhp</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'cough up' pronounced as 'cou-fhp'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/cough%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cough/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>He had to {{c1::cough up}} the money.",
+      "explanation": "<b>Full transcript:</b> cough up<br><br><b>Connected form:</b> <i>cou-fhp</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "soltar (pagar)",
-      "usage": "Written: <code>cough up</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">cou-fhp</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/cough%20up/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/cough/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>cou-fhp</code><br>Formal: <code>cough up</code><br><a href=\"https://youglish.com/pronounce/cough%20up/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/cough/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "7c023fd1c61ca1d9",
+      "full_transcript": "cough up",
+      "connected_form": "cou-fhp",
+      "gap_text": "He had to {{c1::cough up}} the money.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/cough%20up/english/us",
         "forvo_word": "https://forvo.com/word/cough/#en"
@@ -1162,7 +1394,7 @@
   {
     "id": "8ca610db56b631dd",
     "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
-    "template": "T1_Cloze",
+    "template": "T9_ListeningChunk",
     "metadata": {
       "difficulty": "intermediate",
       "pillar": "03_Languages",
@@ -1176,11 +1408,19 @@
       ]
     },
     "content": {
-      "scenario": "Fast English: Resyllabification 🎧 — Card 30",
-      "text": "<div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/keep%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/keep/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div><b>Fill the gap:</b><br>Just {{c1::keep on}} trying.",
-      "explanation": "<b>Written:</b> keep on<br><b>Native speed:</b> <span style=\"background:#FFF8E7;border-left:3px solid #FF6B35;padding:6px 10px;border-radius:4px;font-family:monospace;margin:6px 0;\"><span style=\"color:#FF6B35;font-weight:bold;\">kee-pon</span></span><br><b>IPA:</b> <code></code><br><br><b>Rules applied:</b><ul><li><code>Resyllabification</code></li></ul><br>🧠 <b>Phonetics:</b> Phonetic transition drill for 'keep on' pronounced as 'kee-pon'.",
+      "scenario": "Listening Chunk 🎧: Connected Speech (EN)",
+      "text": "<a href=\"https://youglish.com/pronounce/keep%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/keep/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a><br><br><b>Fill the gap:</b><br>Just {{c1::keep on}} trying.",
+      "explanation": "<b>Full transcript:</b> keep on<br><br><b>Connected form:</b> <i>kee-pon</i><br><br><b>Phonetic rules applied:</b><ul><li><code>Resyllabification</code></li></ul>",
       "spanish": "continuar",
-      "usage": "Written: <code>keep on</code><br>Native: <span style=\"color:#FF6B35;font-weight:bold;\">kee-pon</span><br>IPA: <code></code><br><div style=\"margin-bottom:10px\"><a href=\"https://youglish.com/pronounce/keep%20on/english/us\" target=\"_blank\" style=\"background:#2E7D32;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🎧 YouGlish</a>&nbsp;<a href=\"https://forvo.com/word/keep/#en\" target=\"_blank\" style=\"background:#1565C0;color:white;padding:5px 11px;border-radius:5px;text-decoration:none;font-size:0.88em;font-family:sans-serif;display:inline-block;margin:2px;\">🔊 Forvo</a></div>",
+      "usage": "Native: <code>kee-pon</code><br>Formal: <code>keep on</code><br><a href=\"https://youglish.com/pronounce/keep%20on/english/us\" target=\"_blank\">🎧 YouGlish: Hear in context</a> &nbsp;|&nbsp; <a href=\"https://forvo.com/word/keep/#en\" target=\"_blank\">🔊 Forvo: Isolated word</a>",
+      "id": "8ca610db56b631dd",
+      "full_transcript": "keep on",
+      "connected_form": "kee-pon",
+      "gap_text": "Just {{c1::keep on}} trying.",
+      "rules_applied": [
+        "Resyllabification"
+      ],
+      "language": "en",
       "audio_links": {
         "youglish_phrase": "https://youglish.com/pronounce/keep%20on/english/us",
         "forvo_word": "https://forvo.com/word/keep/#en"
