@@ -40,6 +40,7 @@ from card_validator import sanitize_and_validate_card
 from gemini_provider import generate_anki_cards_gemini
 from scraper_agent import scrape_article, save_cards_to_deck
 from adk_orchestrator import chunk_text
+from anki_db_importer import get_learning_path_deck
 
 def anki_invoke(action: str, **params) -> Any:
     """Helper to communicate with AnkiConnect."""
@@ -132,7 +133,7 @@ def cmd_sync():
     print(f"Reading cards from nested decks directory: {DECKS_DIR}...")
     for root, _, files in os.walk(DECKS_DIR):
         for file in sorted(files):
-            if file.endswith(".json") and file != "index.json":
+            if file.endswith(".json") and file != "index.json" and file != "manifest.json":
                 file_path = os.path.join(root, file)
                 try:
                     with open(file_path, "r", encoding="utf-8") as f:
@@ -142,6 +143,11 @@ def cmd_sync():
                         for card in deck_cards:
                             if "deck" not in card or not card["deck"]:
                                 card["deck"] = derived_deck
+                            
+                            # Natively route English cards into Learning Paths by default
+                            if card["deck"].startswith("03_Languages::English") and "::Phonetics" not in card["deck"]:
+                                card["deck"] = get_learning_path_deck(card["deck"], card)
+                                
                         cards.extend(deck_cards)
                 except Exception as e:
                     print(f"[-] Warning: Could not load {file_path}: {e}", file=sys.stderr)
@@ -152,22 +158,27 @@ def cmd_sync():
     unique_cards = []
     seen_db_keys = set()
     for card in cards:
-        key = (card['deck'], card['text'].strip())
+        m_name = card.get("model_name", "Engaging_Cloze_Model")
+        t_key = card.get('prompt') if m_name == "Engaging_Speaking_Model" else card.get('text')
+        if not t_key:
+            t_key = card.get('text') or card.get('prompt') or ''
+        key = (card['deck'], str(t_key).strip())
+        
         if key not in seen_db_keys:
             seen_db_keys.add(key)
             unique_cards.append(card)
         else:
-            print(f"[-] Warning: Ignored duplicate card in JSON database: Deck '{card['deck']}', Text '{card['text'][:60]}...'")
+            print(f"[-] Warning: Ignored duplicate card in JSON database: Deck '{card['deck']}', Text '{t_key[:60]}...'")
     cards = unique_cards
 
-    # 3. Ensure Engaging_Cloze_Model exists
-    model_name = "Engaging_Cloze_Model"
+    # 3. Ensure models exist
     models = anki_invoke('modelNames')
-    if model_name not in models:
-        print(f"[+] Creating custom model '{model_name}'...")
-        # Creation code matching anki_db_importer.py
-        from anki_db_importer import ensure_model_exists
-        ensure_model_exists()
+    for m_name in ["Engaging_Cloze_Model", "Engaging_Speaking_Model"]:
+        if m_name not in models:
+            print(f"[+] Creating custom model '{m_name}'...")
+            from anki_db_importer import ensure_model_exists
+            ensure_model_exists()
+            break
 
     # 4. Ensure decks exist in Anki
     decks = set(card['deck'] for card in cards)
@@ -177,6 +188,11 @@ def cmd_sync():
     # 5. Fetch existing notes in Anki
     print("Fetching existing notes from Anki...")
     existing_note_ids = anki_invoke('findNotes', query='note:Engaging_Cloze_Model')
+    try:
+        speaking_ids = anki_invoke('findNotes', query='note:Engaging_Speaking_Model')
+        existing_note_ids.extend(speaking_ids)
+    except Exception:
+        pass
     
     existing_notes_details = []
     batch_size = 500
@@ -202,7 +218,10 @@ def cmd_sync():
     for note in existing_notes_details:
         note_id = note['noteId']
         deck_name = note_to_deck.get(note_id, "Unknown")
-        text_val = note['fields'].get('Text', {}).get('value', '').strip()
+        text_val = note['fields'].get('Text', {}).get('value', '')
+        if not text_val and 'Prompt' in note['fields']:
+            text_val = note['fields'].get('Prompt', {}).get('value', '')
+        text_val = text_val.strip()
         existing_anki_notes[text_val] = {
             'noteId': note_id,
             'deckName': deck_name,
@@ -220,7 +239,30 @@ def cmd_sync():
         tags = card.get("tags", [])
         tags.append(card['deck'].split("::")[-1].lower())
         tags = sorted(list(set(tags)))
-        card_text_normalized = card['text'].strip()
+        
+        model_name = card.get("model_name", "Engaging_Cloze_Model")
+        if model_name == "Engaging_Speaking_Model":
+            fields = {
+                "Prompt": card.get("prompt", card.get("text", "")),
+                "Scenario": card.get("scenario", ""),
+                "Explanation": card.get("explanation", ""),
+                "Usage_Examples": card.get("usage", ""),
+                "Spanish_Translation": card.get("spanish", ""),
+                "Audio": card.get("audio", ""),
+                "Practice_Link": card.get("practice_link", card.get("practice_url", "")),
+                "Recording_Hint": card.get("recording_hint", "Record yourself and compare your delivery with the model audio."),
+            }
+            card_text_normalized = str(card.get('prompt') or card.get('text') or '').strip()
+        else:
+            fields = {
+                "Text": card['text'],
+                "Scenario": card['scenario'],
+                "Explanation": card['explanation'],
+                "Usage_Examples": card['usage'],
+                "Spanish_Translation": card['spanish'],
+                "Audio": card.get("audio", "")
+            }
+            card_text_normalized = str(card.get('text') or card.get('prompt') or '').strip()
         
         if card_text_normalized in existing_anki_notes:
             existing = existing_anki_notes[card_text_normalized]
@@ -235,16 +277,7 @@ def cmd_sync():
                 deck_updated = True
             
             fields_to_update = {}
-            new_fields = {
-                "Text": card['text'],
-                "Scenario": card['scenario'],
-                "Explanation": card['explanation'],
-                "Usage_Examples": card['usage'],
-                "Spanish_Translation": card['spanish'],
-                "Audio": card.get("audio", "")
-            }
-            
-            for field_name, new_val in new_fields.items():
+            for field_name, new_val in fields.items():
                 existing_val = existing['fields'].get(field_name, {}).get('value', '')
                 if existing_val != new_val:
                     fields_to_update[field_name] = new_val
@@ -273,14 +306,7 @@ def cmd_sync():
             note = {
                 "deckName": card['deck'],
                 "modelName": model_name,
-                "fields": {
-                    "Text": card['text'],
-                    "Scenario": card['scenario'],
-                    "Explanation": card['explanation'],
-                    "Usage_Examples": card['usage'],
-                    "Spanish_Translation": card['spanish'],
-                    "Audio": card.get("audio", "")
-                },
+                "fields": fields,
                 "options": {"allowDuplicate": False},
                 "tags": tags
             }
@@ -289,9 +315,23 @@ def cmd_sync():
     created_count = 0
     if notes_to_add:
         print(f"Uploading {len(notes_to_add)} new cards to Anki...")
-        result = anki_invoke('addNotes', notes=notes_to_add)
-        created_count = len(result)
-        
+        try:
+            result = anki_invoke('addNotes', notes=notes_to_add)
+            created_count = len([r for r in result if r is not None])
+        except Exception as e:
+            print("[!] Bulk upload encountered an issue. Falling back to individual card uploads for safety...")
+            for idx, note in enumerate(notes_to_add):
+                try:
+                    res = anki_invoke('addNote', note=note)
+                    if res:
+                        created_count += 1
+                except Exception as ex:
+                    err_msg = str(ex)
+                    if "duplicate" not in err_msg.lower():
+                        scenario_clean = note['fields']['Scenario'].encode('ascii', 'ignore').decode('ascii')
+                        err_clean = err_msg.encode('ascii', 'ignore').decode('ascii')
+                        print(f"    [-] Failed to import card '{scenario_clean}': {err_clean}")
+                        
     print(f"\nSync summary: {created_count} cards created, {updated_count} cards updated, {skipped_count} cards skipped.")
 
 # --------------
@@ -326,26 +366,29 @@ def cmd_audit():
 # COMMAND: DELETE-LEGACY
 # --------------------
 def cmd_delete_legacy():
-    """Deletes empty legacy decks from Anki."""
-    print("=== DELETING LEGACY EMPTY DECKS IN ANKI ===")
-    from delete_legacy_decks import LEGACY_ROOTS
-    all_decks = anki_invoke('deckNames')
+    """Deletes empty decks under the 6 pillars from Anki Desktop."""
+    print("=== PURGING EMPTY DECKS IN ANKI ===")
+    all_decks = sorted(anki_invoke('deckNames'))
     to_delete = []
+    
     for deck in all_decks:
-        for root in LEGACY_ROOTS:
-            if deck == root or deck.startswith(root + '::'):
-                to_delete.append(deck)
-                break
+        if deck == 'Default':
+            continue
+        count = len(anki_invoke('findNotes', query=f'deck:"{deck}"'))
+        if count == 0:
+            to_delete.append(deck)
 
-    print(f"Decks to delete: {len(to_delete)}")
+    print(f"Decks to delete (with 0 notes): {len(to_delete)}")
     for d in sorted(to_delete):
         print(f"  {d}")
 
     if to_delete:
-        result = anki_invoke('deleteDecks', decks=to_delete, cardsToo=False)
-        print(f"Deleted {len(to_delete)} legacy decks. Result: {result}")
+        # Delete in descending order of length to delete children first
+        to_delete_sorted = sorted(to_delete, key=len, reverse=True)
+        result = anki_invoke('deleteDecks', decks=to_delete_sorted, cardsToo=True)
+        print(f"Deleted {len(to_delete)} empty decks. Result: {result}")
     else:
-        print("No legacy decks to delete.")
+        print("No empty decks to delete.")
 
 # ----------------------
 # COMMAND: SCRAPE-INGEST

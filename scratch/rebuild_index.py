@@ -12,7 +12,7 @@ def rebuild():
     deck_files = []
     for root, dirs, files in os.walk(DECKS_DIR):
         for f in files:
-            if f.endswith('.json') and f != 'index.json':
+            if f.endswith('.json') and f not in ['index.json', 'manifest.json']:
                 deck_files.append(Path(root) / f)
                 
     print(f"Found {len(deck_files)} deck files.")

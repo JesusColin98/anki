@@ -1,0 +1,262 @@
+[
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "Negotiation: Technical Push-back 🧱",
+    "text": "When a customer's architectural design is flawed, you can push back gracefully by saying: \"While your setup is functional, it {{c1::introduces a single point of failure}} that could {{c2::compromise high availability}} during peak traffic.\"",
+    "explanation": "Pointing out design risks (like single points of failure) using objective technical concepts rather than telling the client they are 'wrong' avoids defensiveness and builds advisory trust.",
+    "usage": "Pattern: <code>[Setup] introduces [risk] that could compromise [performance metric]</code><ul><li><code>This setup introduces a single point of failure that could compromise high availability.</code></li><li><code>Using a single DB instance introduces a bottleneck that could compromise throughput.</code></li></ul>",
+    "spanish": "Cuando el diseño arquitectónico de un cliente es defectuoso, puedes retroceder con gracia diciendo: \"Aunque su configuración es funcional, introduce un punto único de falla que podría comprometer la alta disponibilidad durante los picos de tráfico\".",
+    "tags": [
+      "technical_negotiation",
+      "architecture",
+      "push_back"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "Negotiation: Bugs vs. Feature Requests 🐛",
+    "text": "To handle a client demanding a new capability as a bug fix, say: \"This behavior {{c1::aligns with current system design}}; however, I will {{c2::advocate for your use case}} directly with our product team.\"",
+    "explanation": "\"Aligns with current system design\" is a professional way to state that the system is not broken, while \"advocate for your use case\" shows you are still partner-focused.",
+    "usage": "Pattern: <code>[Behavior] aligns with current system design; however, I will advocate for [use case]</code><ul><li><code>The login timeout aligns with current system design; however, I will advocate for your use case of extending it.</code></li><li><code>Not allowing bulk deletions aligns with current system design.</code></li></ul>",
+    "spanish": "Para manejar a un cliente que exige una nueva capacidad como si fuera una corrección de errores, di: \"Este comportamiento se alinea con el diseño actual del sistema; sin embargo, defenderé su caso de uso directamente con nuestro equipo de producto\".",
+    "tags": [
+      "technical_negotiation",
+      "product_management",
+      "expectations"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Rebuilding Trust 📑",
+    "text": "In a Post-Mortem or Root Cause Analysis (RCA), always close by saying: \"To prevent recurrence, we are {{c1::implementing automated safeguards}} and {{c2::refining our circuit breaker thresholds}}.\"",
+    "explanation": "An RCA must culminate in concrete, systemic preventive actions. Explaining the safeguards demonstrates that the organization has learned and adapted to protect the client's operations.",
+    "usage": "Pattern: <code>To prevent recurrence, we are implementing [preventative action]</code><ul><li><code>To prevent recurrence, we are implementing automated safeguards and database limits.</code></li><li><code>We are refining our circuit breaker thresholds to prevent cascade failures.</code></li></ul>",
+    "spanish": "En un análisis de causa raíz (RCA), siempre cierra diciendo: \"Para evitar que vuelva a ocurrir, estamos implementando salvaguardas automatizadas y refinando los límites de nuestros interruptores automáticos\".",
+    "tags": [
+      "technical_negotiation",
+      "rca",
+      "post_mortem"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "Written: Scope Boundaries 🚧",
+    "text": "To politely refuse debugging custom scripts, say: \"While I can confirm our API is responding normally, {{c1::custom scripts are outside our support scope}}; however, you can reference this {{c2::sample payload}}.\"",
+    "explanation": "Clearly states the platform's boundaries (outside our support scope) but remains helpful by providing a reference example to guide the customer.",
+    "usage": "Pattern: <code>[Topic] is outside our support scope; however, you can reference [alternative resource]</code><ul><li><code>Debugging custom scripts is outside our support scope; however, you can reference our sample repository.</code></li><li><code>Third-party libraries are outside our support scope.</code></li></ul>",
+    "spanish": "Para rechazar cortésmente la depuración de scripts personalizados, di: \"Aunque puedo confirmar que nuestra API está respondiendo normalmente, los scripts personalizados están fuera de nuestro alcance de soporte; sin embargo, puede consultar este ejemplo de carga útil\".",
+    "tags": [
+      "technical_negotiation",
+      "scope_boundaries",
+      "written_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "Negotiation English: Reframing Delays ⏳",
+    "text": "Instead of apologizing for a delay, use appreciation to stay assertive: \"Thank you for your patience while we {{c1::conducted a deep-dive review}} into your {{c2::infrastructure configuration}}.\"",
+    "explanation": "Saying 'thank you for your patience' validates the wait while asserting that the time was spent on a high-value action (deep-dive review), preserving authority.",
+    "usage": "Pattern: <code>Thank you for your patience while we conducted a deep-dive review into [infrastructure/database/setup]</code><ul><li><code>Thank you for your patience while we conducted a deep-dive review into your replication logs.</code></li><li><code>Our team conducted a deep-dive review and resolved the memory leak.</code></li></ul>",
+    "spanish": "En lugar de disculparse por un retraso, use el agradecimiento para mantener la asertividad: \"Gracias por su paciencia mientras realizábamos una revisión profunda de la configuración de su infraestructura\".",
+    "tags": [
+      "negotiation_english",
+      "appreciation",
+      "professionalism"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "Negotiation English: Deflecting Escalations 🛡️",
+    "text": "To deflect a premature escalation to management, suggest: \"I want to ensure we {{c1::exhaust all immediate diagnostic paths}} before we {{c2::engage our engineering lead}}, so we can present them with complete data.\"",
+    "explanation": "This phrase positions the delay in escalation as a benefit to the customer (ensuring they have complete data first), maintaining control of the troubleshooting flow.",
+    "usage": "Pattern: <code>exhaust all immediate diagnostic paths before we engage [lead/expert]</code><ul><li><code>I want to ensure we exhaust all immediate diagnostic paths before we engage our engineering lead.</code></li><li><code>Let's exhaust all immediate diagnostic paths before escalation.</code></li></ul>",
+    "spanish": "Para desviar una escalación prematura a la gerencia, sugiera: \"Quiero asegurarme de que agotemos todas las vías de diagnóstico inmediato antes de involucrar a nuestro líder de ingeniería, para que podamos presentarles datos completos\".",
+    "tags": [
+      "negotiation_english",
+      "escalation_prevention",
+      "containment"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "Negotiation English: Admitting Missed Variables 🎯",
+    "text": "To admit an error without losing credibility, state: \"Our initial assessment {{c1::missed X variable}}; we have {{c2::adjusted our troubleshooting path}} to focus on Y to get you back online safely.\"",
+    "explanation": "Directly acknowledges the new information (missed variable) and immediately pivots to the updated action plan, projecting competence and responsiveness rather than defensiveness.",
+    "usage": "Pattern: <code>Our initial assessment missed [variable]; we have adjusted our troubleshooting path to focus on [focus]</code><ul><li><code>Our initial assessment missed the firewall block; we have adjusted our troubleshooting path to focus on security rules.</code></li><li><code>We adjusted our troubleshooting path to focus on replication delays.</code></li></ul>",
+    "spanish": "Para admitir un error sin perder credibilidad, declare: \"Nuestra evaluación inicial pasó por alto la variable X; hemos ajustado nuestro camino de resolución de problemas para enfocarnos en Y para que vuelva a estar en línea de manera segura\".",
+    "tags": [
+      "negotiation_english",
+      "error_handling",
+      "containment"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "Call Efficiency: Dynamic Time Boxing ⏱️",
+    "text": "To pivot a call when time is running out, say: \"We have 15 minutes left on our scheduled block. To make sure we {{c1::lock down next steps}} for your production deployment, let's {{c2::pivot to the action items}}.\"",
+    "explanation": "Using \"lock down next steps\" and \"pivot to action items\" focuses the remaining time on outcomes, preventing the meeting from ending without clear deliverables.",
+    "usage": "Pattern: <code>We have [time] left on our scheduled block. To make sure we lock down next steps for [goal], let's pivot to [action items]</code><ul><li><code>We have 15 minutes left on our scheduled block. To make sure we lock down next steps for your production migration, let's pivot to the action items.</code></li><li><code>Let's make sure we lock down next steps before the meeting ends.</code></li></ul>",
+    "spanish": "Para reorientar una llamada cuando se acaba el tiempo, di: \"Nos quedan 15 minutos en nuestro bloque programado. Para asegurarnos de acordar los próximos pasos para su implementación en producción, pasemos a los elementos de acción\".",
+    "tags": [
+      "call_efficiency",
+      "time_boxing",
+      "meeting_management"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "Call Efficiency: Handling Hijackers 🛑",
+    "text": "To politely interrupt a client repeating the same complaint: \"I hear you, and to ensure we don't {{c1::lose ground on the diagnostic work}}, let's focus on collecting the server logs.\"",
+    "explanation": "\"Lose ground on\" means to lose progress already made. This redirect politely signals that repeating the complaint stops active troubleshooting.",
+    "usage": "Pattern: <code>I hear you, and to ensure we don't lose ground on [work/diagnostics], let's focus on [next step]</code><ul><li><code>I hear you, and to ensure we don't lose ground on the diagnostic work, let's focus on collecting the server logs.</code></li><li><code>We don't want to lose ground on the replication analysis.</code></li></ul>",
+    "spanish": "Para interrumpir cortésmente a un cliente que repite la misma queja: \"Lo escucho, y para asegurarnos de no perder terreno en el trabajo de diagnóstico, concentrémonos en recopilar los registros del servidor\".",
+    "tags": [
+      "call_efficiency",
+      "redirection",
+      "difficult_clients"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Peak Traffic 💻",
+    "text": "We need to conduct a Root Cause Analysis (RCA) to determine why the database crashed during the {{c1::peak traffic hour}}.",
+    "explanation": "'Peak traffic hour' refers to the specific time of day when a web service or network receives the highest volume of users or transactions.",
+    "usage": "Pattern: <code>peak traffic / high load times</code><ul><li><code>Our infrastructure must scale up automatically during peak traffic.</code></li><li><code>Latency spikes occur mostly during peak traffic hours.</code></li></ul>",
+    "spanish": "Necesitamos realizar un Análisis de Causa Raíz (RCA) para determinar por qué la base de datos colapsó durante la hora de mayor tráfico.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Production Servers 💻",
+    "text": "We need to conduct a post-mortem analysis to determine the root cause of the memory leak in our production {{c1::servers}}.",
+    "explanation": "A 'production server' (or prod server) is the live server hosting the application active for real users, distinct from staging or test servers.",
+    "usage": "Pattern: <code>production servers / deploy to production</code><ul><li><code>Do not run untested scripts directly on production servers.</code></li><li><code>The production servers crashed due to high CPU load.</code></li></ul>",
+    "spanish": "Necesitamos realizar un análisis posterior al incidente (post-mortem) para determinar la causa raíz de la fuga de memoria en nuestros servidores de producción.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Architectural Fix 💻",
+    "text": "Our immediate focus is to apply a hotfix to restore service, then work on a long-term {{c1::architectural fix}}.",
+    "explanation": "An 'architectural fix' is a fundamental redesign of database schemas, code modules, or network topologies to resolve a recurring issue permanently.",
+    "usage": "Pattern: <code>architectural fix / permanent redesign</code><ul><li><code>Applying a temporary workaround is not an alternative to an architectural fix.</code></li><li><code>The architect proposed a database partitioning model as the architectural fix.</code></li></ul>",
+    "spanish": "Nuestro enfoque inmediato es aplicar un parche para restablecer el servicio y luego trabajar en una corrección arquitectónica a largo plazo.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Isolation Levels 💻",
+    "text": "The crash was caused by a database deadlock; we need to optimize our queries and transaction isolation {{c1::levels}}.",
+    "explanation": "'Transaction isolation levels' in SQL databases control the visibility of data to other concurrent transactions, preventing data corruption.",
+    "usage": "Pattern: <code>isolation levels / read committed / serializable</code><ul><li><code>Setting high transaction isolation levels can increase locks and cause deadlocks.</code></li><li><code>We set the database isolation level to Read Committed.</code></li></ul>",
+    "spanish": "El colapso fue causado por un bloqueo mutuo (deadlock) de la base de datos; necesitamos optimizar nuestras consultas y niveles de aislamiento de transacciones.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Affect Users 💻",
+    "text": "Let's review the API response times to identify when the performance degradation began to {{c1::affect users}}.",
+    "explanation": "To 'affect users' means that software bugs, latency, or outages begin to disrupt the client experience or cause errors on user devices.",
+    "usage": "Pattern: <code>affect users / impact clients</code><ul><li><code>The database outage did not affect users because of the fallback cache.</code></li><li><code>How many clients did the latency spike affect?</code></li></ul>",
+    "spanish": "Revisemos los tiempos de respuesta de la API para identificar cuándo la degradación del rendimiento comenzó a afectar a los usuarios.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Target Uptime 💻",
+    "text": "We need to negotiate the SLA details: what is the penalty if the uptime drops below the guaranteed {{c1::99.9%}}?",
+    "explanation": "'99.9%' (three nines) is a standard service level agreement uptime metric, permitting no more than 8.76 hours of downtime per year.",
+    "usage": "Pattern: <code>99.9% uptime / 99.99% availability</code><ul><li><code>The hosting provider committed to a 99.9% uptime guarantee.</code></li><li><code>Our service fell below the 99.9% threshold this month.</code></li></ul>",
+    "spanish": "Necesitamos negociar los detalles del SLA: ¿cuál es la penalización si el tiempo de actividad cae por debajo del 99.9% garantizado?",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Monitoring Alerts 💻",
+    "text": "The post-mortem report indicates that the outage could have been avoided if we had set up server resource monitoring {{c1::alerts}}.",
+    "explanation": "A 'monitoring alert' is an automated notification (sent via Slack, PagerDuty, or email) triggered when system metrics (like CPU or memory) cross a threshold.",
+    "usage": "Pattern: <code>monitoring alerts / trigger an alert</code><ul><li><code>Configure monitoring alerts to notify the team when disk space is low.</code></li><li><code>The database memory leak triggered several monitoring alerts.</code></li></ul>",
+    "spanish": "El informe posterior al incidente indica que la interrupción podría haberse evitado si hubiéramos configurado alertas de monitoreo de recursos del servidor.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Service Disruptions 💻",
+    "text": "Let's establish a roll-back plan before we deploy this update to production to minimize potential service {{c1::disruptions}}.",
+    "explanation": "'Service disruptions' are events where software systems or cloud networks become unavailable, causing operations to halt.",
+    "usage": "Pattern: <code>service disruptions / business disruption</code><ul><li><code>The network migration caused minimal service disruptions.</code></li><li><code>Avoid service disruptions by testing all updates in staging first.</code></li></ul>",
+    "spanish": "Establezcamos un plan de reversión antes de implementar esta actualización en producción para minimizar posibles interrupciones del servicio.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Request Volume 💻",
+    "text": "We need to run load tests to verify that the API gateway can handle up to double our normal request {{c1::volume}}.",
+    "explanation": "'Request volume' refers to the total number of HTTP requests processed by a web server or gateway within a specific timeframe.",
+    "usage": "Pattern: <code>request volume / traffic volume / concurrent requests</code><ul><li><code>Our API gateway handles a high request volume during marketing events.</code></li><li><code>The server crashed because the request volume exceeded its limits.</code></li></ul>",
+    "spanish": "Necesitamos realizar pruebas de carga para verificar que la pasarela API pueda manejar hasta el doble de nuestro volumen de solicitudes normal.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Environment Variables 💻",
+    "text": "The root cause was a configuration mismatch between the staging and production environment {{c1::variables}}.",
+    "explanation": "'Environment variables' are dynamic-valued objects stored in the operating system that define configuration values (like DB paths, keys) for running processes.",
+    "usage": "Pattern: <code>environment variables / config variables</code><ul><li><code>Make sure you do not commit environment variables containing secrets.</code></li><li><code>The app crashed because the database URL environment variable was missing.</code></li></ul>",
+    "spanish": "La causa raíz fue una discrepancia de configuración entre las variables de entorno de los entornos de prueba (staging) y producción.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA: Share Tomorrow 💻",
+    "text": "We will document our findings and remediation steps in a formal RCA report and share it with the client {{c1::tomorrow}}.",
+    "explanation": "'Tomorrow' is the day after today, set here as the target deadline to share the Root Cause Analysis report with stakeholders.",
+    "usage": "Pattern: <code>share it tomorrow / report tomorrow</code><ul><li><code>The slides are ready; we will share the report tomorrow.</code></li><li><code>I will email you the updates tomorrow.</code></li></ul>",
+    "spanish": "Documentaremos nuestros hallazgos y pasos de remediación en un informe formal de RCA y lo compartiremos con el cliente mañana.",
+    "tags": [
+      "english_scenario",
+      "technical_rca",
+      "business_english"
+    ]
+  }
+]

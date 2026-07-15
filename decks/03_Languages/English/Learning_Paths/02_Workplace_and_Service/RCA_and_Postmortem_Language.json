@@ -1,0 +1,98 @@
+[
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA Language 🔍: The 5 Whys Method",
+    "text": "The 5 Whys technique involves asking '{{c1::Why?}}' repeatedly until you reach the root cause, typically 3-5 levels deep — not just the proximate cause.",
+    "explanation": "The 5 Whys was developed by Taiichi Ohno at Toyota. The power is stopping at the systemic root, not the first obvious answer. Example: Why did the service fail? → Config was wrong. Why was config wrong? → Deploy script had a bug. Why did that bug reach prod? → Code review skipped due to time pressure. Why? → Deadline pressure from leadership. Root cause: organizational incentive structure.",
+    "usage": "<ul><li>Why #1: \"The deployment failed.\" → Why #2: \"The config file had incorrect values.\" → Why #3: \"The template was outdated.\" → Why #4: \"We had no automated config validation.\" → Why #5: \"Config validation wasn't part of our CI/CD pipeline.\" <b>Root cause: missing CI gate.</b></li></ul>",
+    "spanish": "La técnica de los 5 Por qués consiste en preguntar '¿Por qué?' repetidamente hasta llegar a la causa raíz, típicamente 3-5 niveles de profundidad — no solo la causa próxima. Desarrollada por Toyota.",
+    "tags": [
+      "english",
+      "rca",
+      "postmortem",
+      "5_whys",
+      "operations",
+      "sre"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA Language 🔍: Proximate vs. Root Cause",
+    "text": "The proximate cause is {{c1::the immediate trigger of the incident}}, while the root cause is {{c1::the underlying systemic condition that made the trigger possible}}.",
+    "explanation": "Fixing only the proximate cause is like treating symptoms, not disease. Example: Proximate — a developer pushed bad code to production. Root cause — there was no automated test gate blocking bad code from reaching prod. Fixing the proximate (fire the developer) doesn't fix the systemic gap; fixing the root (add the CI gate) prevents recurrence for all developers.",
+    "usage": "<ul><li><b>Proximate:</b> \"The developer deployed on a Friday afternoon without testing.\"</li><li><b>Root cause:</b> \"The deployment policy didn't block Friday afternoon pushes and the CI pipeline lacked mandatory smoke tests.\"</li><li>Always ask: \"If a different person did the same thing, would this happen again?\" If yes, you haven't reached the root cause.</li></ul>",
+    "spanish": "La causa próxima es el desencadenante inmediato del incidente. La causa raíz es la condición sistémica subyacente que hizo posible el desencadenante. Arreglar solo la causa próxima es tratar síntomas, no la enfermedad.",
+    "tags": [
+      "english",
+      "rca",
+      "postmortem",
+      "root_cause",
+      "proximate_cause",
+      "sre"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA Language 🔍: Postmortem Structure",
+    "text": "A standard postmortem document contains: {{c1::Timeline, Impact, Root Cause, Contributing Factors, Action Items with owners and dates, and Lessons Learned}}.",
+    "explanation": "Google SRE defines postmortem as a written record that ensures an incident is documented, its root cause is understood, and preventive actions are implemented. The timeline is factual (no blame). Contributing factors are conditions that made the root cause more likely. Action items must be SMART: specific, measurable, assigned, realistic, time-bound.",
+    "usage": "<ul><li><b>Template sections:</b><br>1. Summary (2-3 sentences)<br>2. Timeline (bullet points, UTC timestamps)<br>3. Impact (users, duration, revenue)<br>4. Root cause<br>5. Contributing factors<br>6. Action items (who + what + by when)<br>7. Lessons learned</li></ul>",
+    "spanish": "Un postmortem estándar contiene: Cronología, Impacto, Causa Raíz, Factores Contribuyentes, Elementos de Acción con dueños y fechas, y Lecciones Aprendidas. Según el estándar Google SRE.",
+    "tags": [
+      "english",
+      "rca",
+      "postmortem",
+      "structure",
+      "sre",
+      "operations"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA Language 🔍: Action Item Language in RCAs",
+    "text": "Weak RCA action items say 'improve monitoring'. Strong ones say: \"{{c1::Add a PagerDuty alert for error rate > 5% on the auth service, owned by [name], by [specific date].}}\"",
+    "explanation": "Vague action items in postmortems never get done. 'Improve monitoring', 'strengthen processes', 'better communication' — these are aspirations, not actions. Every action item needs: a specific change, an owner (one person), and a deadline. The test: can you verify in 30 seconds whether this was done?",
+    "usage": "<ul><li><b>Weak:</b> \"We'll improve our deployment process.\"</li><li><b>Strong:</b> \"Add a mandatory pre-prod smoke test to the CI pipeline, owned by DevOps lead, completed by 2026-07-28.\"</li><li><b>Weak:</b> \"Better alerting.\"</li><li><b>Strong:</b> \"Configure PagerDuty p50 latency alert at 500ms threshold for payment-api, owned by SRE team, by July 21.\"</li></ul>",
+    "spanish": "Elementos de acción débiles dicen 'mejorar el monitoreo'. Los fuertes dicen: 'Agregar una alerta de PagerDuty para tasa de error > 5% en el servicio de auth, a cargo de [nombre], antes del [fecha específica].' Cada acción necesita: un cambio específico, un dueño y una fecha límite.",
+    "tags": [
+      "english",
+      "rca",
+      "postmortem",
+      "action_items",
+      "smart",
+      "sre"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA Language 🔍: Contributing Factors vs. Root Cause",
+    "text": "Contributing factors are {{c1::conditions that increased the likelihood or severity of an incident without being the direct cause}} — for example, time pressure, unclear ownership, or lack of documentation.",
+    "explanation": "Modern incident analysis (following Sidney Dekker's Safety Differently approach) recognizes that most incidents have multiple contributing factors alongside a root cause. Identifying contributing factors helps address the organizational conditions that make incidents more likely, not just the specific technical failure.",
+    "usage": "<ul><li>Root cause: \"No rate limiting on the API endpoint.\"</li><li>Contributing factors: \"(1) The team was under deadline pressure and skipped the security review. (2) There was no checklist item for rate limiting in the deploy process. (3) Oncall rotation had a gap that delayed initial detection.\"</li></ul>",
+    "spanish": "Los factores contribuyentes son condiciones que aumentaron la probabilidad o gravedad de un incidente sin ser la causa directa — por ejemplo, presión de tiempo, propiedad poco clara o falta de documentación.",
+    "tags": [
+      "english",
+      "rca",
+      "postmortem",
+      "contributing_factors",
+      "sre",
+      "operations"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::02_Workplace_and_Service",
+    "scenario": "RCA Language 🔍: Sharing RCA Findings",
+    "text": "When presenting RCA findings to customers or leadership, use: \"{{c1::We identified the root cause as X. We've taken Y action to prevent recurrence, and here's what we're monitoring to confirm effectiveness.}}\"",
+    "explanation": "This three-part customer RCA communication (cause → fix → validation) gives stakeholders the three things they most need: understanding, confidence, and assurance. Skipping the validation part ('what we're watching') leaves customers wondering if the fix will actually hold.",
+    "usage": "<ul><li>\"We identified that the root cause was an unvalidated configuration change in our load balancer rules. We've reverted the change, added a mandatory validation step to our deployment pipeline, and we're monitoring error rates on a 5-minute interval for the next 72 hours.\"</li></ul>",
+    "spanish": "'Identificamos la causa raíz como X. Hemos tomado la acción Y para prevenir la recurrencia, y esto es lo que estamos monitoreando para confirmar la efectividad.' — comunicación de RCA al cliente: causa + corrección + validación.",
+    "tags": [
+      "english",
+      "rca",
+      "communication",
+      "customer",
+      "leadership",
+      "professional"
+    ]
+  }
+]

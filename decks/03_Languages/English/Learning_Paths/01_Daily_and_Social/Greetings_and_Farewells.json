@@ -1,0 +1,268 @@
+[
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English A1: Greetings and Farewells 🗣️",
+    "text": "In English, how do you say 'Formal greeting used until noon'? {{c1::Good morning}}",
+    "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+    "usage": "Term: <code>Good morning</code> | Meaning: Formal greeting used until noon",
+    "spanish": "¿Cómo se dice 'Formal greeting used until noon' en English? Good morning",
+    "tags": [
+      "languages_path",
+      "english",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English A1: Greetings and Farewells 🗣️",
+    "text": "In English, how do you say 'Formal greeting used from noon until 6 PM'? {{c1::Good afternoon}}",
+    "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+    "usage": "Term: <code>Good afternoon</code> | Meaning: Formal greeting used from noon until 6 PM",
+    "spanish": "¿Cómo se dice 'Formal greeting used from noon until 6 PM' en English? Good afternoon",
+    "tags": [
+      "languages_path",
+      "english",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English A1: Greetings and Farewells 🗣️",
+    "text": "In English, how do you say 'Formal greeting used after 6 PM'? {{c1::Good evening}}",
+    "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+    "usage": "Term: <code>Good evening</code> | Meaning: Formal greeting used after 6 PM",
+    "spanish": "¿Cómo se dice 'Formal greeting used after 6 PM' en English? Good evening",
+    "tags": [
+      "languages_path",
+      "english",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English A1: Greetings and Farewells 🗣️",
+    "text": "In English, how do you say 'Informal greeting meaning \"How are you?\"'? {{c1::What's up?}}",
+    "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+    "usage": "Term: <code>What's up?</code> | Meaning: Informal greeting meaning \"How are you?\"",
+    "spanish": "¿Cómo se dice 'Informal greeting meaning \"How are you?\"' en English? What's up?",
+    "tags": [
+      "languages_path",
+      "english",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English A1: Greetings and Farewells 🗣️",
+    "text": "In English, how do you say 'Standard way to say farewell'? {{c1::Goodbye}}",
+    "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+    "usage": "Term: <code>Goodbye</code> | Meaning: Standard way to say farewell",
+    "spanish": "¿Cómo se dice 'Standard way to say farewell' en English? Goodbye",
+    "tags": [
+      "languages_path",
+      "english",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English A1: Greetings and Farewells 🗣️",
+    "text": "In English, how do you say 'Farewell used when leaving late or going to bed'? {{c1::Good night}}",
+    "explanation": "Vocabulary for the topic 'Greetings and Farewells'. Level: A1.",
+    "usage": "Term: <code>Good night</code> | Meaning: Farewell used when leaving late or going to bed",
+    "spanish": "¿Cómo se dice 'Farewell used when leaving late or going to bed' en English? Good night",
+    "tags": [
+      "languages_path",
+      "english",
+      "a1",
+      "greetings_and_farewells"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Introduce Name 👋",
+    "text": "Hello, my name is Jesus. What is {{c1::your name}}?",
+    "explanation": "'What is your name?' is the standard fundamental question used to ask someone for their name during a first introduction.",
+    "usage": "Pattern: <code>my name is [Name] / what is your name</code><ul><li><code>Hello, my name is Colin. What is your name?</code></li><li><code>Her name is Maria.</code></li></ul>",
+    "spanish": "Hola, mi nombre es Jesús. ¿Cómo te llamas? (¿Cuál es tu nombre?)",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Nice to Meet 👋",
+    "text": "Nice to {{c1::meet you}}, Colin. How are you doing today?",
+    "explanation": "'Nice to meet you' is the polite greeting phrase used when meeting someone for the first time.",
+    "usage": "Pattern: <code>nice to meet you / pleased to meet you</code><ul><li><code>Nice to meet you, too.</code></li><li><code>It is a pleasure to meet you.</code></li></ul>",
+    "spanish": "Gusto en conocerte, Colin. ¿Cómo estás hoy?",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: How About You 👋",
+    "text": "I'm doing well, thank you. And {{c1::how about you}}?",
+    "explanation": "'How about you?' (or 'and you?') is a reciprocal question used to ask the speaker the same question they just asked you.",
+    "usage": "Pattern: <code>how about you / and you</code><ul><li><code>I'm tired, how about you?</code></li><li><code>I like coffee, how about you?</code></li></ul>",
+    "spanish": "Me va bien, gracias. ¿Y qué tal tú? (¿Y tú?)",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Sleep Well 👋",
+    "text": "Good morning! Did you {{c1::sleep well}} last night?",
+    "explanation": "To 'sleep well' is a standard friendly check used in the morning to ask someone if they rested comfortably during the night.",
+    "usage": "Pattern: <code>sleep well / rest well</code><ul><li><code>Did you sleep well? Yes, I slept like a baby.</code></li><li><code>Goodnight, sleep well!</code></li></ul>",
+    "spanish": "¡Buenos días! ¿Dormiste bien anoche?",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Have a Nice Day 👋",
+    "text": "Goodbye! Have a {{c1::nice day}} and see you later!",
+    "explanation": "'Have a nice day' is a polite way to say goodbye to someone during the daytime.",
+    "usage": "Pattern: <code>have a nice day / have a good day</code><ul><li><code>Thank you, have a nice day!</code></li><li><code>The cashier told me to have a nice day.</code></li></ul>",
+    "spanish": "¡Adiós! Que tengas un buen día y ¡nos vemos luego!",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: See You Soon 👋",
+    "text": "It was a pleasure meeting you; hope to see you again {{c1::soon}}!",
+    "explanation": "'Soon' is an adverb meaning in a short time from now; not long after.",
+    "usage": "Pattern: <code>see you soon / see you later</code><ul><li><code>Goodbye, see you soon!</code></li><li><code>The train will arrive soon.</code></li></ul>",
+    "spanish": "Fue un placer conocerte; ¡espero verte de nuevo pronto!",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Restaurant Reservation 👋",
+    "text": "Good evening! Welcome to our restaurant; do you have a {{c1::reservation}}?",
+    "explanation": "A 'reservation' is an arrangement to secure a table in a restaurant or room in a hotel in advance.",
+    "usage": "Pattern: <code>have a reservation / book a table</code><ul><li><code>I have a reservation under Smith.</code></li><li><code>I'd like to book a table for two.</code></li></ul>",
+    "spanish": "¡Buenas noches! Bienvenidos a nuestro restaurante; ¿tienen una reservación?",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Safe Trip 👋",
+    "text": "Have a safe trip home, and please text me when you {{c1::arrive}}!",
+    "explanation": "To 'arrive' means to reach a destination at the end of a journey.",
+    "usage": "Pattern: <code>arrive home / arrive at airport</code><ul><li><code>Text me when you arrive home safely.</code></li><li><code>We arrived at the hotel at midnight.</code></li></ul>",
+    "spanish": "¡Que tengas un viaje seguro a casa, y por favor envíame un mensaje cuando llegues!",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Good Night 👋",
+    "text": "See you tomorrow morning at the office! Have a {{c1::good night}}!",
+    "explanation": "'Good night' is a common farewell spoken when parting from someone at night or before going to sleep.",
+    "usage": "Pattern: <code>good night / goodnight</code><ul><li><code>Good night, see you tomorrow!</code></li><li><code>She kissed her kids good night.</code></li></ul>",
+    "spanish": "¡Nos vemos mañana por la mañana en la oficina! ¡Buenas noches!",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Restroom Location 👋",
+    "text": "Excuse me, where is the restroom? Thank you very {{c1::much}}!",
+    "explanation": "'Much' in 'thank you very much' is an adverbial modifier indicating a high degree of gratitude.",
+    "usage": "Pattern: <code>thank you very much / thanks a lot</code><ul><li><code>Thank you very much for your help.</code></li><li><code>Thank you very much, you are very kind.</code></li></ul>",
+    "spanish": "Disculpe, ¿dónde está el baño? ¡Muchas gracias!",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Long Time No See 👋",
+    "text": "Hi Maria! {{c1::Long time no see}}! How have you been?",
+    "explanation": "'Long time no see' is a very common informal greeting used when meeting someone you have not seen for a significant period of time.",
+    "usage": "Pattern: <code>long time no see / haven't seen you in ages</code><ul><li><code>Long time no see! You look great.</code></li><li><code>I haven't seen you in ages, how are things?</code></li></ul>",
+    "spanish": "¡Hola María! ¡Cuánto tiempo sin verte! ¿Cómo has estado?",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Welcome Back 👋",
+    "text": "{{c1::Welcome back}}! We missed you at the office last week.",
+    "explanation": "'Welcome back' is a warm greeting used when someone returns to a place or group after an absence.",
+    "usage": "Pattern: <code>welcome back / glad to have you back</code><ul><li><code>Welcome back from your vacation!</code></li><li><code>Welcome back, we missed having you on the team.</code></li></ul>",
+    "spanish": "¡Bienvenido de vuelta! Te extrañamos en la oficina la semana pasada.",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: How's It Going 👋",
+    "text": "Hey David! {{c1::How's it going}}? Are you ready for the meeting?",
+    "explanation": "'How's it going?' is a casual, informal way to ask someone how they are doing, equivalent to 'How are you?'",
+    "usage": "Pattern: <code>how's it going / how are things</code><ul><li><code>How's it going? — Pretty good, thanks!</code></li><li><code>How's it going with the new project?</code></li></ul>",
+    "spanish": "¡Hola David! ¿Cómo te va? ¿Estás listo para la reunión?",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Beginner: Catch You Later 👋",
+    "text": "I have to run to a meeting, but let's catch up later. {{c1::Catch you later}}!",
+    "explanation": "'Catch you later' is a very casual, friendly farewell that means 'see you later' or 'goodbye for now'.",
+    "usage": "Pattern: <code>catch you later / talk soon</code><ul><li><code>Catch you later! I'm heading out.</code></li><li><code>Gotta go — catch you later!</code></li></ul>",
+    "spanish": "Tengo que correr a una reunión, pero pongámonos al día luego. ¡Hasta luego! (nos vemos)",
+    "tags": [
+      "english_beginner",
+      "greetings",
+      "vocabulary"
+    ]
+  }
+]

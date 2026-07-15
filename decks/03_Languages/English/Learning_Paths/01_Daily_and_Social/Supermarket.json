@@ -1,0 +1,259 @@
+[
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "At the Supermarket 🛒",
+    "text": "Where can I find the {{c1::dairy aisle}}?",
+    "explanation": "An <strong>aisle</strong> is a passage between rows of shelves in a supermarket. <strong>dairy</strong> refers to milk-based products (cheese, yogurt, butter).",
+    "usage": "Pattern: <code>[category] aisle</code> (e.g., baking aisle, produce aisle, frozen food aisle)<ul><li><code>The sugar is in the baking aisle.</code></li><li><code>Where is the produce aisle? I need some fresh apples.</code></li></ul>",
+    "spanish": "¿Dónde puedo encontrar el pasillo de lácteos?",
+    "tags": [
+      "english_scenario",
+      "supermarket"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "At the Supermarket 🛒",
+    "text": "Are these apples {{c1::on sale}} this week?",
+    "explanation": "<strong>on sale</strong> means available at a reduced price (discounted). *Do not confuse with 'for sale', which just means available to buy.",
+    "usage": "Pattern: <code>on sale</code> (discounted) vs <code>for sale</code> (available to buy)<ul><li><code>These shoes are on sale for 20% off.</code></li><li><code>Is that classic car for sale or is it just on display?</code></li></ul>",
+    "spanish": "¿Están estas manzanas en oferta esta semana?",
+    "tags": [
+      "english_scenario",
+      "supermarket"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "At the Supermarket 🛒",
+    "text": "Is there a limit on how many items I can bring to the {{c1::express lane}}?",
+    "explanation": "An <strong>express lane</strong> is a checkout counter reserved for customers buying only a few items (e.g. 10 or less) to speed up service.",
+    "usage": "Pattern: <code>express lane</code> (typically labeled '10 items or less' or '15 items or fewer')<ul><li><code>I only have 3 items, so I will use the express lane.</code></li><li><code>You can't go there; the express lane is for quick checkouts.</code></li></ul>",
+    "spanish": "¿Hay un límite de cuántos artículos puedo llevar a la caja rápida?",
+    "tags": [
+      "english_scenario",
+      "supermarket"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Commerce: Returning Defective Items 🛒",
+    "text": "At the customer service counter, the customer requested: \"I'd like a {{c1::full refund}} for this tablet because it has a {{c2::faulty charging port}}.\"",
+    "explanation": "<strong>Refund</strong> is the return of payment. **Faulty** means defective or not working correctly.",
+    "usage": "Pattern: <code>request a refund for [item] / faulty [part]</code><ul><li><code>I need a full refund because the screen is cracked.</code></li><li><code>This laptop has a faulty battery that doesn't charge.</code></li></ul>",
+    "spanish": "En el mostrador de servicio al cliente, el cliente solicitó: \"Me gustaría un reembolso completo por esta tableta porque tiene un puerto de carga defectuoso\".",
+    "tags": [
+      "commerce",
+      "returns",
+      "shopping"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Commerce: Informal Bargaining 🏷️",
+    "text": "At the flea market, he bargained: \"Is that your {{c1::best price}}? If you {{c2::throw in the vintage watch}}, we have a deal.\"",
+    "explanation": "<strong>Best price</strong> is the lowest price a seller is willing to accept. **Throw in** is a phrasal verb meaning to include something extra for free.",
+    "usage": "Pattern: <code>throw in [item] / have a deal</code><ul><li><code>If you throw in free shipping, I'll buy it.</code></li><li><code>We have a deal if you lower the price by ten dollars.</code></li></ul>",
+    "spanish": "En el mercado de pulgas, regateó: \"¿Es ese tu mejor precio? Si incluyes el reloj vintage, tenemos un trato\".",
+    "tags": [
+      "commerce",
+      "bargaining",
+      "informal"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Commerce: Comparing Device Specs 📱",
+    "text": "When comparing laptops, he analyzed: \"There are clear {{c1::trade-offs}} in portability, but the developer version gives you the most {{c2::bang for the buck}}.\"",
+    "explanation": "<strong>Trade-offs</strong> are compromises made when choosing between two conflicting features. **Bang for the buck** is an idiom meaning value for money spent.",
+    "usage": "Pattern: <code>trade-offs between [feature] and [feature] / get the most bang for the buck</code><ul><li><code>There are always trade-offs between battery life and processing power.</code></li><li><code>This budget phone offers the best bang for the buck.</code></li></ul>",
+    "spanish": "Al comparar computadoras portátiles, analizó: \"Hay compensaciones claras en la portabilidad, pero la versión para desarrolladores te ofrece la mejor relación calidad-precio\".",
+    "tags": [
+      "commerce",
+      "specifications",
+      "value"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Commerce: Disputing Bank Charges 💳",
+    "text": "On the phone with the bank, she stated: \"I need to {{c1::dispute a double charge}} that appeared on my recent {{c2::billing cycle statement}}.\"",
+    "explanation": "<strong>Dispute a charge</strong> is the formal request to investigate an incorrect transaction. **Billing cycle statement** is the monthly bank report.",
+    "usage": "Pattern: <code>dispute a charge on [account/statement]</code><ul><li><code>You should dispute the charge immediately with your credit card company.</code></li><li><code>I check my billing cycle statement every month for errors.</code></li></ul>",
+    "spanish": "Por teléfono con el banco, ella declaró: \"Necesito impugnar un cargo doble que apareció en el estado de cuenta de mi ciclo de facturación reciente\".",
+    "tags": [
+      "commerce",
+      "banking",
+      "dispute"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Commerce: Subscription Fine Print 📑",
+    "text": "Before subscribing, he asked: \"Is there an {{c1::auto-renewal policy}}? I want to make sure I read the {{c2::fine print}} to avoid hidden fees.\"",
+    "explanation": "<strong>Auto-renewal</strong> is the automatic extension of a subscription. **Fine print** refers to the small text in a contract containing crucial restrictions and rules.",
+    "usage": "Pattern: <code>auto-renewal policy / read the fine print</code><ul><li><code>Always read the fine print before signing a software license.</code></li><li><code>The auto-renewal policy can be turned off in your account settings.</code></li></ul>",
+    "spanish": "Antes de suscribirse, preguntó: \"¿Existe una política de renovación automática? Quiero asegurarme de leer la letra pequeña para evitar cargos ocultos\".",
+    "tags": [
+      "commerce",
+      "subscription",
+      "contract"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Aisle Location 🛒",
+    "text": "Excuse me, in which {{c1::aisle}} can I find the olive oil?",
+    "explanation": "An 'aisle' is a long, narrow passage between shelves of goods in a supermarket or grocery store (the 's' is silent, pronounced /aɪl/).",
+    "usage": "Pattern: <code>aisle [number] / product aisle</code><ul><li><code>The baking ingredients are in aisle 4.</code></li><li><code>Excuse me, which aisle is the cereal in?</code></li></ul>",
+    "spanish": "Disculpe, ¿en qué pasillo puedo encontrar el aceite de oliva?",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Purchase Receipt 🛒",
+    "text": "I'll pay in cash, and I don't need a {{c1::receipt}}, thank you.",
+    "explanation": "A 'receipt' is a printed slip of paper given to customers to prove that a financial transaction took place (the 'p' is silent, pronounced /rɪˈsiːt/).",
+    "usage": "Pattern: <code>sales receipt / cash receipt</code><ul><li><code>Always keep your receipt in case you need to return the item.</code></li><li><code>Do you want your receipt in the bag?</code></li></ul>",
+    "spanish": "Pagaré en efectivo, y no necesito recibo, gracias.",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Sour Cream 🛒",
+    "text": "Could you please help me find the dairy section? I need to buy some yogurt and {{c1::sour cream}}.",
+    "explanation": "'Sour cream' is cream soured by lactic acid bacteria, commonly used in cooking or as a condiment/sauce.",
+    "usage": "Pattern: <code>sour cream / whipping cream</code><ul><li><code>I put a dollop of sour cream on my baked potato.</code></li><li><code>We need sour cream to make the taco dip.</code></li></ul>",
+    "spanish": "¿Podrías por favor ayudarme a encontrar la sección de lácteos? Necesito comprar algo de yogur y crema agria.",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Fixed Price 🛒",
+    "text": "Is there a discount on these apples if I buy them in bulk, or is the price {{c1::fixed per pound}}?",
+    "explanation": "A price that is 'fixed per pound' (or fixed per kilo) means it does not decrease when buying larger quantities; it scales linearly with weight.",
+    "usage": "Pattern: <code>fixed per [unit] / bulk discount</code><ul><li><code>The organic grapes are fixed per pound.</code></li><li><code>How much does this cost? It is fixed per kilogram.</code></li></ul>",
+    "spanish": "¿Hay algún descuento en estas manzanas si las compro al por mayor, o el precio es fijo por libra?",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Baskets 🛒",
+    "text": "Excuse me, where are the shopping carts located? I only see {{c1::baskets}} near the entrance.",
+    "explanation": "A 'basket' is a small hand-held container with a handle, used by shoppers carrying only a few items in a supermarket, as opposed to a rolling cart.",
+    "usage": "Pattern: <code>shopping baskets / wire baskets</code><ul><li><code>I grabbed a shopping basket because I only needed bread and eggs.</code></li><li><code>Please return the baskets near the checkout counter.</code></li></ul>",
+    "spanish": "Disculpe, ¿dónde están ubicados los carritos de compra? Solo veo canastas cerca de la entrada.",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Unattended Counter 🛒",
+    "text": "I need to buy some fresh fish, but the seafood counter is {{c1::unattended}} right now.",
+    "explanation": "'Unattended' means not supervised, served, or looked after by any staff member.",
+    "usage": "Pattern: <code>unattended desk / unattended counter</code><ul><li><code>Do not leave your bags unattended at the airport.</code></li><li><code>The customer service desk was temporarily unattended.</code></li></ul>",
+    "spanish": "Necesito comprar pescado fresco, pero el mostrador de mariscos está desatendido en este momento.",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Conventional Methods 🛒",
+    "text": "Are these vegetables organic, or are they grown using {{c1::conventional methods}}?",
+    "explanation": "'Conventional methods' in agriculture refer to standard farming practices that may involve synthetic fertilizers, pesticides, and herbicides, distinct from organic farming.",
+    "usage": "Pattern: <code>conventional farming / conventional methods</code><ul><li><code>Conventional crops are usually cheaper than organic ones.</code></li><li><code>This farm transitioned from conventional methods to organic agriculture.</code></li></ul>",
+    "spanish": "¿Estas verduras son orgánicas, o son cultivadas usando métodos convencionales?",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Discount Code 🛒",
+    "text": "Excuse me, is this item on sale? The price tag shows a {{c1::discount code}} but I'm not sure.",
+    "explanation": "A 'discount code' is a series of letters or numbers that customers can enter at checkout (or scanning tags) to receive a price reduction.",
+    "usage": "Pattern: <code>discount code / promotional coupon</code><ul><li><code>Enter the discount code at checkout to save 10%.</code></li><li><code>The cashier scanned the discount code on my receipt.</code></li></ul>",
+    "spanish": "Disculpe, ¿este artículo está en oferta? La etiqueta del precio muestra un código de descuento pero no estoy seguro.",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Cashier 🛒",
+    "text": "I have some coupons; can I scan them at the self-checkout register, or should I go to a {{c1::cashier}}?",
+    "explanation": "A 'cashier' is the store employee who operates the cash register, processes customer payments, and bags purchases.",
+    "usage": "Pattern: <code>cashier counter / check out with cashier</code><ul><li><code>The cashier scanned my items and handed me the receipt.</code></li><li><code>I prefer checking out with a cashier instead of using the machine.</code></li></ul>",
+    "spanish": "Tengo algunos cupones; ¿puedo escanearlos en la caja de autoservicio, o debería ir con un cajero?",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Baguettes 🛒",
+    "text": "I'd like to buy some fresh bread; has the bakery section finished baking the {{c1::baguettes}}?",
+    "explanation": "A 'baguette' is a long, narrow loaf of French bread, known for its crispy crust and soft interior.",
+    "usage": "Pattern: <code>fresh baguettes / bakery section</code><ul><li><code>We bought two fresh baguettes for the picnic.</code></li><li><code>The baguettes are baked fresh every morning.</code></li></ul>",
+    "spanish": "Me gustaría comprar pan fresco; ¿la sección de panadería ha terminado de hornear las baguettes?",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Reusable Bags 🛒",
+    "text": "Do you charge extra for paper bags, or should we bring our own {{c1::reusable bags}}?",
+    "explanation": "A 'reusable bag' is a shopping bag made of durable fabric or plastic, designed to be used multiple times to reduce environmental waste.",
+    "usage": "Pattern: <code>reusable bags / canvas shopping bag</code><ul><li><code>Keep some reusable bags in your car trunk for grocery shopping.</code></li><li><code>Using reusable bags helps reduce plastic pollution.</code></li></ul>",
+    "spanish": "¿Cobran extra por las bolsas de papel, o deberíamos traer nuestras propias bolsas reutilizables?",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Supermarket: Top of Bag 🛒",
+    "text": "Please place the fragile items, like eggs and tomatoes, on {{c1::top of the bag}}.",
+    "explanation": "'On top of the bag' is a spatial instruction telling a packer or cashier to place delicate items at the very top of a grocery bag so they are not crushed by heavier items underneath.",
+    "usage": "Pattern: <code>top of the bag / bottom of the bag</code><ul><li><code>Do not put the heavy cans on top of the bread.</code></li><li><code>Keep the eggs at the top of the bag.</code></li></ul>",
+    "spanish": "Por favor, coloque los artículos frágiles, como huevos y tomates, arriba de la bolsa.",
+    "tags": [
+      "english_scenario",
+      "supermarket",
+      "vocabulary"
+    ]
+  }
+]

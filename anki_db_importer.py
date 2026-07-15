@@ -365,6 +365,24 @@ details p {
         )
     print("Models created successfully.")
 
+def get_learning_path_deck(deck_name, card):
+    # Route English language cards to 4 core Learning Paths
+    dn = deck_name.lower()
+    
+    # Try to check if it has a source file or path to determine context
+    source_file = card.get("source_file", "")
+    sf = source_file.replace("\\", "/").lower()
+    
+    if "05_interviews" in sf or "interview" in dn or "leadership" in dn or "executive" in dn:
+        return "03_Languages::English::Learning_Paths::03_Interview_and_Career"
+    elif "02_workplace" in sf or "06_phone_calls" in sf or "professional" in dn or "support" in dn or "incident" in dn:
+        return "03_Languages::English::Learning_Paths::02_Workplace_and_Service"
+    elif "07_health" in sf or "08_education" in sf or "academic" in dn or "philosophical" in dn or "health" in dn:
+        return "03_Languages::English::Learning_Paths::04_Academic_and_Health"
+    else:
+        # Default Daily & Social for daily, travel, social, socializing, A1, etc.
+        return "03_Languages::English::Learning_Paths::01_Daily_and_Social"
+
 def load_all_cards(base_dir="."):
     decks_dir = os.path.join(base_dir, "decks")
     cards = []
@@ -372,7 +390,7 @@ def load_all_cards(base_dir="."):
         print(f"Reading cards from nested decks directory: {decks_dir}...")
         for root, _, files in os.walk(decks_dir):
             for file in sorted(files):
-                if file.endswith(".json") and file != "index.json":
+                if file.endswith(".json") and file != "index.json" and file != "manifest.json":
                     file_path = os.path.join(root, file)
                     try:
                         with open(file_path, "r", encoding="utf-8") as f:
@@ -382,6 +400,11 @@ def load_all_cards(base_dir="."):
                             for card in deck_cards:
                                 if "deck" not in card or not card["deck"]:
                                     card["deck"] = derived_deck
+                                
+                                # Natively route English cards into Learning Paths by default
+                                if card["deck"].startswith("03_Languages::English") and "::Phonetics" not in card["deck"]:
+                                    card["deck"] = get_learning_path_deck(card["deck"], card)
+                                    
                             cards.extend(deck_cards)
                     except Exception as e:
                         print(f"Warning: Could not load {file_path}: {e}", file=sys.stderr)
@@ -505,8 +528,11 @@ def import_database():
                 "Audio": card.get("audio", "")
             }
         
-        # Text key normalized
-        card_text_normalized = str(card.get('text') or card.get('prompt') or '').strip()
+        # Text key normalized (align key mapping based on model type)
+        if model_name == "Engaging_Speaking_Model":
+            card_text_normalized = str(card.get('prompt') or card.get('text') or '').strip()
+        else:
+            card_text_normalized = str(card.get('text') or card.get('prompt') or '').strip()
         
         if card_text_normalized in existing_anki_notes:
             # Note already exists. Check if we need to update deck, fields or tags

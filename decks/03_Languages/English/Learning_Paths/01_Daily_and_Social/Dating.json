@@ -1,0 +1,260 @@
+[
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Dating & Socializing 💬",
+    "text": "Would you like to {{c1::grab a drink}} sometime?",
+    "explanation": "<strong>grab a drink</strong> is a casual, friendly way to invite someone to go out for a beverage (coffee, beer, or cocktails).",
+    "usage": "Pattern: <code>grab a [item]</code> (e.g. grab a coffee, grab a bite to eat, grab lunch)<ul><li><code>Let's grab a coffee this afternoon.</code></li><li><code>Do you want to grab a bite to eat after work?</code></li></ul>",
+    "spanish": "¿Te gustaría ir a tomar algo alguna vez?",
+    "tags": [
+      "english_scenario",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Dating & Socializing 💬",
+    "text": "I had a great time tonight, we should {{c1::do this again}}.",
+    "explanation": "<strong>do this again</strong> is a friendly, low-pressure phrase used at the end of a good social gathering or date to show interest in hanging out again.",
+    "usage": "Pattern: <code>we should do this again [sometime/soon]</code><ul><li><code>I really enjoyed the museum. We should do this again sometime!</code></li><li><code>It was great catching up. We should do this again soon.</code></li></ul>",
+    "spanish": "La pasé genial esta noche, deberíamos repetir esto.",
+    "tags": [
+      "english_scenario",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Bite to Eat 💬",
+    "text": "Would you like to go out for a cup of coffee sometime next week, or perhaps grab a {{c1::bite to eat}}?",
+    "explanation": "To 'grab a bite to eat' is a highly common, informal idiom meaning to get a quick meal or snack together.",
+    "usage": "Pattern: <code>grab a bite to eat / get lunch</code><ul><li><code>Let's grab a bite to eat before the movie starts.</code></li><li><code>I only have fifteen minutes to grab a bite to eat.</code></li></ul>",
+    "spanish": "¿Te gustaría salir a tomar una taza de café en algún momento de la próxima semana, o tal vez comer algo rápido?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Favorite Spot 💬",
+    "text": "I had a wonderful time tonight; thank you for showing me your favorite spot in the {{c1::city}}.",
+    "explanation": "A 'favorite spot' refers to a person's preferred place (like a cafe, park view, or hidden bar) for leisure or dining.",
+    "usage": "Pattern: <code>favorite spot / local hangout</code><ul><li><code>This coffee shop is my favorite spot for reading.</code></li><li><code>She showed me her favorite spot in the botanical gardens.</code></li></ul>",
+    "spanish": "La pasé de maravilla esta noche; gracias por mostrarme tu lugar favorito en la ciudad.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Talk About 💬",
+    "text": "Let me know when you are free; I'd love to take you out to that new Italian restaurant we talked {{c1::about}}.",
+    "explanation": "To 'talk about' something is the phrasal verb meaning to discuss a topic or place in conversation.",
+    "usage": "Pattern: <code>talk about [place / topic]</code><ul><li><code>This is the book I was talking about yesterday.</code></li><li><code>We talked about the database design for hours.</code></li></ul>",
+    "spanish": "Avísame cuando estés libre; me encantaría llevarte a ese nuevo restaurante italiano del que hablamos.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Sense of Humor 💬",
+    "text": "I really enjoy talking to you; we seem to have a lot of common interests and share a similar {{c1::sense of humor}}.",
+    "explanation": "A 'sense of humor' is a person's capability to perceive, appreciate, or express what is funny or amusing.",
+    "usage": "Pattern: <code>sense of humor / witty / dry humor</code><ul><li><code>He has a dry sense of humor that is hard to understand at first.</code></li><li><code>A shared sense of humor is key to a good relationship.</code></li></ul>",
+    "spanish": "Realmente disfruto hablar contigo; parece que tenemos muchos intereses en común y compartimos un sentido del humor similar.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Date Plans 💬",
+    "text": "Are you free this weekend, or do you already have plans with your {{c1::friends}}?",
+    "explanation": "To 'have plans' means to have pre-arranged activities or commitments with friends or family.",
+    "usage": "Pattern: <code>have plans / busy this weekend</code><ul><li><code>I'd love to come, but I already have plans.</code></li><li><code>Do you have plans for the holidays?</code></li></ul>",
+    "spanish": "¿Estás libre este fin de semana, o ya tienes planes con tus amigos?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Keep in Touch 💬",
+    "text": "I'd love to see you again; let's keep in touch and schedule something for next {{c1::weekend}}.",
+    "explanation": "To 'keep in touch' is an idiom meaning to maintain communication or contact with someone over time.",
+    "usage": "Pattern: <code>keep in touch / stay in contact</code><ul><li><code>We promised to keep in touch after graduation.</code></li><li><code>Let's keep in touch via email.</code></li></ul>",
+    "spanish": "Me encantaría verte de nuevo; mantengámonos en contacto y programemos algo para el próximo fin de semana.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Pay Next Time 💬",
+    "text": "Thank you for the dinner; it was very kind of you to treat me, and I'd like to pay next {{c1::time}}.",
+    "explanation": "To 'pay next time' is a polite dating convention indicating that the recipient of a free meal wants to reciprocate by paying for the next date.",
+    "usage": "Pattern: <code>pay next time / my treat next time</code><ul><li><code>You paid today, so let me pay next time.</code></li><li><code>She insisted on paying next time.</code></li></ul>",
+    "spanish": "Gracias por la cena; fue muy amable de tu parte invitarme, y me gustaría pagar la próxima vez.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Know Each Other Better 💬",
+    "text": "Let's go for a walk in the park; it's a beautiful day and a great opportunity to chat and get to {{c1::know each other better}}.",
+    "explanation": "To 'get to know each other better' means to learn more about a person's life, opinions, and character through conversation and shared experiences.",
+    "usage": "Pattern: <code>get to know each other better</code><ul><li><code>Dating is a process of getting to know each other better.</code></li><li><code>I want to get to know my teammates better.</code></li></ul>",
+    "spanish": "Vamos a dar un paseo por el parque; es un hermoso día y una gran oportunidad para charlar y conocernos mejor.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Coffee near Office 💬",
+    "text": "Would you like to grab a drink after work this Friday? I know a great little place near the {{c1::office}}.",
+    "explanation": "The 'office' is the physical workplace where colleagues work, commonly used as a reference point for post-work socializing.",
+    "usage": "Pattern: <code>near the office / head to the office</code><ul><li><code>Let's meet at the pub near the office.</code></li><li><code>I am working from the office today.</code></li></ul>",
+    "spanish": "¿Te gustaría ir a tomar un trago después del trabajo este viernes? Conozco un gran lugarcito cerca de la oficina.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Pleasant Company 💬",
+    "text": "I had a wonderful time chatting with you tonight; thank you for the lovely conversation and the {{c1::company}}.",
+    "explanation": "'Company' in this social context refers to the presence of another person or group, here appreciated at the end of a date.",
+    "usage": "Pattern: <code>enjoy the company / keep someone company</code><ul><li><code>Thank you for keeping me company while I waited for the train.</code></li><li><code>I really enjoy your company.</code></li></ul>",
+    "spanish": "Me divertí mucho charlando contigo esta noche; gracias por la agradable conversación y la compañía.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Gallery Opened 💬",
+    "text": "Let me know when you are free next week; I'd love to take you to that new art gallery that just {{c1::opened}}.",
+    "explanation": "To 'open' (or be newly opened) is the verb describing a new business, exhibition, or venue welcoming the public for the first time.",
+    "usage": "Pattern: <code>just opened / newly opened</code><ul><li><code>A new coffee shop just opened around the corner.</code></li><li><code>The museum opened its doors to the public yesterday.</code></li></ul>",
+    "spanish": "Avísame cuando estés libre la próxima semana; me encantaría llevarte a esa nueva galería de arte que acaba de abrir.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Great Personality 💬",
+    "text": "I really enjoy spending time with you; you are very easy to talk to and have a great {{c1::personality}}.",
+    "explanation": "A 'personality' is the combination of characteristics, qualities, and behaviors that form an individual's distinctive character.",
+    "usage": "Pattern: <code>great personality / outgoing personality</code><ul><li><code>She has a very warm and outgoing personality.</code></li><li><code>I like him because of his great personality.</code></li></ul>",
+    "spanish": "Realmente disfruto pasar tiempo contigo; es muy fácil hablar contigo y tienes una gran personalidad.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Grab a Bite 💬",
+    "text": "Are you busy this weekend, or do you have some free time to hang out and grab a {{c1::bite to eat}}?",
+    "explanation": "To 'grab a bite to eat' is a common informal idiom meaning to get a quick meal together, used here to invite someone on a casual date.",
+    "usage": "Pattern: <code>grab a bite to eat / get food</code><ul><li><code>Let's grab a bite to eat after the movie.</code></li><li><code>I need to grab a quick bite to eat.</code></li></ul>",
+    "spanish": "¿Estás ocupado este fin de semana, o tienes algo de tiempo libre para pasar el rato y comer algo rápido?",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Next Saturday 💬",
+    "text": "I'd love to see you again soon; let's keep in touch and plan something for next {{c1::Saturday}}.",
+    "explanation": "'Saturday' is the first day of the weekend, the most common day for arranging social dates or events.",
+    "usage": "Pattern: <code>next Saturday / Saturday night</code><ul><li><code>Are you free next Saturday afternoon?</code></li><li><code>We went to a concert last Saturday.</code></li></ul>",
+    "spanish": "Me encantaría verte de nuevo pronto; mantengámonos en contacto y planifiquemos algo para el próximo sábado.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Treat Next Time 💬",
+    "text": "Thank you for the coffee; it was very nice of you to pay, and I'll treat you next {{c1::time}}.",
+    "explanation": "To 'treat' someone next 'time' means to pay for their drink, meal, or ticket on the subsequent occasion as a reciprocal gesture.",
+    "usage": "Pattern: <code>treat you next time / my treat next time</code><ul><li><code>Put your wallet away; it's my treat today, and you can treat me next time.</code></li><li><code>She treated us to dinner yesterday.</code></li></ul>",
+    "spanish": "Gracias por el café; fue muy amable de tu parte pagar, y yo te invito la próxima vez.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Know Each Other 💬",
+    "text": "Let's go for a walk by the river; it's a beautiful evening and a nice opportunity to chat and get to {{c1::know each other better}}.",
+    "explanation": "To 'get to know each other better' is the standard phrase for learning more about a romantic partner's background, tastes, and values.",
+    "usage": "Pattern: <code>get to know each other better / build a connection</code><ul><li><code>We spent the evening talking and getting to know each other better.</code></li><li><code>Our goal is to get to know our clients better.</code></li></ul>",
+    "spanish": "Vamos a dar un paseo junto al río; es una hermosa tarde y una buena oportunidad para charlar y conocernos mejor.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Safe Arrive 💬",
+    "text": "I'll text you when I get home to let you know I arrived safely; thank you for a wonderful {{c1::date}}.",
+    "explanation": "A 'date' is a pre-arranged social or romantic meeting, especially between two people who are interested in each other.",
+    "usage": "Pattern: <code>first date / go on a date</code><ul><li><code>Our first date was at a small sushi restaurant.</code></li><li><code>He asked her out on a date.</code></li></ul>",
+    "spanish": "Te enviaré un mensaje de texto cuando llegue a casa para avisarte que llegué bien; gracias por una cita maravillosa.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Socializing: Come Along 💬",
+    "text": "Would you like to join me for a concert next month? I have an extra ticket and would love for you to {{c1::come along}}.",
+    "explanation": "To 'come along' is a phrasal verb meaning to accompany someone, go with them, or join them on a trip or event.",
+    "usage": "Pattern: <code>come along / join in</code><ul><li><code>We are going to the beach; do you want to come along?</code></li><li><code>She invited me to come along to the gallery.</code></li></ul>",
+    "spanish": "¿Te gustaría acompañarme a un concierto el próximo mes? Tengo una entrada extra y me encantaría que me acompañaras.",
+    "tags": [
+      "english_scenario",
+      "socializing",
+      "dating"
+    ]
+  }
+]

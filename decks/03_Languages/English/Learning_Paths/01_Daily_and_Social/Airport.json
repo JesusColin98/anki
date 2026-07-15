@@ -1,0 +1,264 @@
+[
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English Intermediate: Airport Check-in ✈️",
+    "text": "I would like to check in this suitcase, and I have one {{c1::carry-on bag}} to bring into the cabin.",
+    "explanation": "A <strong>carry-on bag</strong> (or hand luggage) is the small suitcase or backpack that passengers are permitted to bring onto the plane with them rather than checking it.",
+    "usage": "Pattern: <code>carry-on bag / carry-on luggage</code><ul><li><code>Make sure your carry-on bag fits in the overhead bin.</code></li><li><code>I only travel with a carry-on bag to save time.</code></li></ul>",
+    "spanish": "Me gustaría registrar esta maleta, y tengo una maleta de mano para llevar en la cabina.",
+    "tags": [
+      "english_scenario",
+      "intermediate",
+      "airport"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English Phonetics: Airport Gate Connected Speech ✈️",
+    "text": "At the gate, the announcement \"We will begin boarding in ten minutes\" blends the last two words via consonant-to-consonant linking, making \"in ten\" sound like {{c1::\"int-ten\" [ɪnˈtɛn]}}.",
+    "explanation": "When a word ends in /n/ and the next begins with /t/, the alveolar nasal /n/ assimilates or links directly to the alveolar stop /t/ to allow smooth, rapid articulation, resulting in a single elongated nasal-to-stop transition.",
+    "usage": "Phonetic Drill: <code>in ten minutes</code> &rarr; \"in-ten\" [ɪnˈtɛn]<br>Contrastive Practice: Pronounce both 'n' and 't' as a single continuous block without a glottal pause.",
+    "spanish": "En la puerta, el anuncio \"We will begin boarding in ten minutes\" fusiona las últimas dos palabras mediante enlace consonante-consonante, haciendo que \"in ten\" suene como \"int-ten\".",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "phonetics",
+      "connected_speech"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English Daily Life: Airport Baggage Claim ✈️",
+    "text": "At the baggage claim desk, if your luggage is missing, you should report it politely saying: \"Excuse me, my bag {{c1::didn't come out}} on the carousel, and I'd like to {{c2::file a claim}}.\"",
+    "explanation": "To \"file a claim\" is the official terminology for registering a lost item report. Saying \"didn't come out\" is the natural phrasal expression for baggage that did not arrive.",
+    "usage": "Pattern: <code>file a claim / didn't come out on [carousel]</code><ul><li><code>I need to file a claim for my damaged baggage.</code></li><li><code>My suitcase didn't come out on carousel 4.</code></li></ul>",
+    "spanish": "En el mostrador de reclamo de equipaje, si tu maleta se perdió, debes reportarlo diciendo educadamente: \"Excuse me, my bag didn't come out on the carousel, and I'd like to file a claim.\"",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "conversation",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Counter ✈️",
+    "text": "Could you please tell me where the {{c1::baggage drop-off}} counter is?",
+    "explanation": "The 'baggage drop-off' is the designated counter where passengers who have already checked in online can drop off their luggage before heading to security.",
+    "usage": "Pattern: <code>baggage drop-off / bag drop</code><ul><li><code>Where is the bag drop for airline passengers?</code></li><li><code>You can bypass the main line if you only need the baggage drop-off.</code></li></ul>",
+    "spanish": "¿Podría decirme por favor dónde está el mostrador de entrega de equipaje?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Cabin Luggage ✈️",
+    "text": "I need to check in my luggage, but I want to keep this briefcase as my {{c1::personal item}}.",
+    "explanation": "A 'personal item' is a small bag (like a purse, laptop bag, or small backpack) that must fit under the seat in front of you on a plane, distinct from standard carry-on luggage.",
+    "usage": "Pattern: <code>personal item</code><ul><li><code>Most budget airlines allow one personal item for free.</code></li><li><code>Your laptop bag counts as a personal item.</code></li></ul>",
+    "spanish": "Necesito registrar mi equipaje, pero quiero conservar este maletín como mi artículo personal.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Flight Delay ✈️",
+    "text": "The flight has been delayed, so we need to wait at the {{c1::departure gate}}.",
+    "explanation": "The 'departure gate' (or boarding gate) is the specific area in an airport terminal where passengers assemble to board their aircraft.",
+    "usage": "Pattern: <code>departure gate / boarding gate</code><ul><li><code>Our departure gate has changed from gate 12 to gate 15.</code></li><li><code>Please report to the departure gate immediately.</code></li></ul>",
+    "spanish": "El vuelo se ha retrasado, así que tenemos que esperar en la puerta de salida/embarque.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Layover ✈️",
+    "text": "Excuse me, does this flight have a {{c1::layover}} in New York?",
+    "explanation": "A 'layover' (or connection) is a period of waiting between flights at an intermediate airport before reaching the final destination.",
+    "usage": "Pattern: <code>layover / connection</code><ul><li><code>We have a three-hour layover in Chicago.</code></li><li><code>I prefer direct flights because I hate long layovers.</code></li></ul>",
+    "spanish": "Disculpe, ¿este vuelo tiene una escala en Nueva York?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Security Control ✈️",
+    "text": "We need to go through {{c1::security screening}} before we can access the duty-free area.",
+    "explanation": "The 'security screening' is the checkpoint in an airport where passengers and their baggage are inspected by security officers and scanning machines.",
+    "usage": "Pattern: <code>security screening / security check</code><ul><li><code>The line at the security screening was incredibly long.</code></li><li><code>Remove all laptops and liquids before security screening.</code></li></ul>",
+    "spanish": "Necesitamos pasar por el control de seguridad antes de poder acceder al área libre de impuestos.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Boarding Pass ✈️",
+    "text": "Please have your {{c1::boarding pass}} and ID ready for inspection.",
+    "explanation": "A 'boarding pass' is a document provided by an airline during check-in, giving a passenger permission to board the airplane for a specific flight.",
+    "usage": "Pattern: <code>boarding pass / boarding document</code><ul><li><code>You can show your digital boarding pass on your phone.</code></li><li><code>Please print your boarding pass at the kiosk.</code></li></ul>",
+    "spanish": "Por favor, tenga su pase de abordar e identificación listos para inspección.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Overbooking ✈️",
+    "text": "My flight was overbooked, and they offered me travel vouchers if I {{c1::volunteered to take}} a later flight.",
+    "explanation": "To 'volunteer to take' a later flight means agreeing to give up your seat on an overbooked flight in exchange for compensation (such as travel vouchers or money).",
+    "usage": "Pattern: <code>volunteer to take [flight]</code><ul><li><code>No one volunteered to take the next flight, so they started bumped passengers.</code></li><li><code>I volunteered to take a later flight because the vouchers were worth $500.</code></li></ul>",
+    "spanish": "Mi vuelo estaba sobrevendido, y me ofrecieron vales de viaje si me ofrecía como voluntario para tomar un vuelo posterior.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Terminal ✈️",
+    "text": "Could you tell me which terminal is for {{c1::domestic flights}}?",
+    "explanation": "'Domestic flights' are flights that stay within the boundaries of the same country, as opposed to international flights.",
+    "usage": "Pattern: <code>domestic flights / domestic terminal</code><ul><li><code>All domestic flights depart from Terminal 2.</code></li><li><code>I am traveling within the country, so I need to check in for domestic flights.</code></li></ul>",
+    "spanish": "¿Podría decirme qué terminal es para vuelos nacionales?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Rebooking ✈️",
+    "text": "I missed my flight; is there a desk where I can {{c1::rebook my ticket}}?",
+    "explanation": "To 'rebook a ticket' means to change the reservation on a ticket, typically after missing a flight or if a flight is canceled, allocating the passenger to a new flight.",
+    "usage": "Pattern: <code>rebook my ticket / rebook a flight</code><ul><li><code>The airline helped me rebook my ticket for the next available flight.</code></li><li><code>Can I rebook my ticket online without paying a fee?</code></li></ul>",
+    "spanish": "Perdí mi vuelo; ¿hay algún mostrador donde pueda volver a reservar mi boleto?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Security check ✈️",
+    "text": "Please place all metal objects in the bin before going through the {{c1::metal detector}}.",
+    "explanation": "A 'metal detector' is the electronic security portal in an airport checkpoint that scans passengers for metallic weapons or devices.",
+    "usage": "Pattern: <code>metal detector / walk-through scanner</code><ul><li><code>Step through the metal detector one at a time.</code></li><li><code>My belt buckle triggered the metal detector.</code></li></ul>",
+    "spanish": "Por favor, coloque todos los objetos metálicos en la bandeja antes de pasar por el detector de metales.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Customs ✈️",
+    "text": "We need to clear {{c1::customs control}} before exiting the airport.",
+    "explanation": "To clear 'customs control' means passing through the government checkpoint at an international border to declare goods and verify compliance with imports.",
+    "usage": "Pattern: <code>customs control / clear customs</code><ul><li><code>It took us an hour to clear customs control in London.</code></li><li><code>Do you have anything to declare at customs control?</code></li></ul>",
+    "spanish": "Necesitamos pasar el control de aduanas antes de salir del aeropuerto.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Lost & Found ✈️",
+    "text": "Excuse me, where is the office for {{c1::lost and found}}?",
+    "explanation": "The 'lost and found' (or lost property office) is the department in a public facility where lost items are kept for owners to claim.",
+    "usage": "Pattern: <code>lost and found / lost property</code><ul><li><code>I left my umbrella on the plane; I should check the lost and found.</code></li><li><code>The lost and found office is near the baggage claim.</code></li></ul>",
+    "spanish": "Disculpe, ¿dónde está la oficina de objetos perdidos y encontrados?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Takeoff ✈️",
+    "text": "The captain announced that we are preparing for {{c1::takeoff}}.",
+    "explanation": "'Takeoff' is the moment or process when an aircraft leaves the ground and rises into the air.",
+    "usage": "Pattern: <code>takeoff / prepare for takeoff</code><ul><li><code>Please fasten your seatbelts in preparation for takeoff.</code></li><li><code>The takeoff was very smooth despite the rain.</code></li></ul>",
+    "spanish": "El capitán anunció que nos estamos preparando para el despegue.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Airport Landing ✈️",
+    "text": "Please remain seated with your seatbelt fastened until the plane has finished {{c1::landing}}.",
+    "explanation": "'Landing' is the process of bringing an aircraft down to the ground or runway at the end of a flight.",
+    "usage": "Pattern: <code>landing / smooth landing</code><ul><li><code>The pilot made a safe landing despite the crosswinds.</code></li><li><code>Remain seated until the landing is complete.</code></li></ul>",
+    "spanish": "Por favor, permanezca sentado con su cinturón abrochado hasta que el avión haya terminado de aterrizar.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Arrivals Hall ✈️",
+    "text": "Is there a currency exchange booth in the {{c1::arrivals hall}}?",
+    "explanation": "The 'arrivals hall' is the public area in an airport terminal where passengers emerge after clearing customs and baggage claim.",
+    "usage": "Pattern: <code>arrivals hall / departures hall</code><ul><li><code>My family was waiting for me in the arrivals hall.</code></li><li><code>You can buy a local SIM card in the arrivals hall.</code></li></ul>",
+    "spanish": "¿Hay una cabina de cambio de divisas en la sala de llegadas?",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Cabin Bag ✈️",
+    "text": "Passengers are allowed to bring one piece of checked luggage and one {{c1::cabin bag}}.",
+    "explanation": "A 'cabin bag' (or hand luggage) is a small suitcase that complies with airline size rules to be stored in the overhead bins.",
+    "usage": "Pattern: <code>cabin bag / hand luggage</code><ul><li><code>Make sure your cabin bag is not too heavy.</code></li><li><code>I only traveled with a cabin bag to avoid baggage claim.</code></li></ul>",
+    "spanish": "Los pasajeros pueden llevar una pieza de equipaje registrado y una maleta de cabina.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "English: Baggage Fee ✈️",
+    "text": "If your bags are overweight, you will have to pay an {{c1::excess baggage fee}}.",
+    "explanation": "An 'excess baggage fee' is a charge made by an airline for luggage that exceeds the weight or size allowance.",
+    "usage": "Pattern: <code>excess baggage fee / overweight luggage fee</code><ul><li><code>They charged me a $50 excess baggage fee because my suitcase was 5kg over.</code></li><li><code>Avoid the excess baggage fee by wearing your heavy coat.</code></li></ul>",
+    "spanish": "Si sus maletas tienen sobrepeso, tendrá que pagar una tarifa por exceso de equipaje.",
+    "tags": [
+      "english_scenario",
+      "airport",
+      "vocabulary"
+    ]
+  }
+]

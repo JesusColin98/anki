@@ -124,3 +124,58 @@ Para aprovechar Anki al máximo en entornos de ingeniería de software, arquitec
 1. **Jerarquía Evolutiva**: Los agentes deben verificar siempre que cada nueva tarjeta pertenezca a uno de los **6 Pilares** y mantenga exactamente **profundidad de 4 niveles**.
 2. **Auto-Validación Obligatoria**: Antes de guardar cualquier tarjeta JSON en `decks/`, ejecutar `card_validator.validate_card(data)` para garantizar que no existan campos vacíos o sintaxis malformada.
 3. **Indexación Automática**: Tras cualquier inserción, ejecutar `migrate_to_4level_hierarchy.py` o regenerar `decks/index.json`.
+
+---
+
+## 6. Workflow Operativo para Añadir un Nuevo Deck JSON
+
+Esta parte del proceso es crítica porque el sistema no solo valida el contenido de cada tarjeta, sino también la estructura del deck y su integración con el índice global.
+
+### 6.1 Ubicación y Naming
+- Todos los archivos de deck deben vivir bajo el árbol de `decks/` y respetar la jerarquía de 4 niveles: `Pilar::Categoría::Subcategoría::DeckName`.
+- El nombre del `deck` dentro de cada tarjeta debe coincidir con la ruta lógica del deck y no solo con el nombre del archivo JSON.
+- Evitar archivos sueltos fuera de `decks/` o nombres que no reflejen la categoría semántica del contenido.
+
+### 6.2 Estructura del Archivo JSON
+- Cada archivo debe contener una lista de tarjetas JSON (array de objetos), no un único objeto.
+- Cada tarjeta debe incluir los campos obligatorios del template elegido y no dejar cadenas vacías para campos esenciales.
+- Si el contenido es una tarjeta de tipo `T4_Scenario`, incluir `scenario`, `target_phrase`, `usage` y `spanish`; si es `T2_DualCoding`, asegurar `concept` y `mermaid_code` válidos.
+- No introducir campos incompletos solo para "hacerlo pasar"; la validación determinista es estricta.
+
+### 6.3 Checklist de Preflight Antes de Importar
+Antes de ejecutar cualquier sincronización, revisar lo siguiente:
+1. **Deck path correcto**: el archivo está en la ruta esperada dentro de `decks/`.
+2. **Nombre de deck consistente**: `"deck"` coincide con la jerarquía de 4 niveles.
+3. **Campos obligatorios completos**: sin `""`, `null` ni valores incompletos para fields críticos.
+4. **Cloze balanceado**: si hay un `{{c1::...}}`, debe cerrarse correctamente.
+5. **Mermaid y MathJax válidos**: sin delimitadores rotos ni etiquetas ambiguas.
+6. **Escenario claro**: toda tarjeta debe aportar contexto suficiente para ser recordable.
+7. **Uso de HTML limpio**: en `usage`, priorizar `<ul><li>...</li></ul>` y evitar markdown crudo cuando la plantilla lo espera.
+
+### 6.4 Comandos de Rebuild y Validación
+El flujo recomendado para un deck nuevo es:
+
+```powershell
+python scratch/rebuild_index.py
+python validate_deck_hierarchy.py
+python anki_adk_hub.py sync
+```
+
+Estos comandos regeneran el índice global, verifican la jerarquía y el contenido, y luego sincronizan hacia la base de Anki.
+
+### 6.5 Errores Comunes que Valen la Pena Evitar
+- Crear un deck nuevo pero omitir su entrada en `decks/index.json` o dejar el índice desactualizado.
+- Colocar un JSON de tarjetas en una carpeta que no corresponde al pilar correcto.
+- Usar un `deck` con solo 2 o 3 niveles, lo que rompe la profundidad de 4 niveles.
+- Añadir tarjetas con `scenario: "General"` o vacío, lo que reduce mucho la retención.
+- Dejar `explanation` demasiado corto o repetitivo; la explicación debe explicar por qué la respuesta es correcta.
+- Generar cartas con múltiples conceptos en una sola tarjeta cuando el principio de atomicidad lo prohíbe.
+
+### 6.6 Recomendación de Producción
+El flujo más robusto para nuevos decks es:
+1. Crear el archivo JSON en una ruta temporal o en el árbol de `decks/` con un nombre claro.
+2. Revisar los campos obligatorios y la semántica del contenido.
+3. Rebuild del índice y validación.
+4. Solo entonces sincronizar con Anki Desktop.
+
+Este patrón reduce bastante el riesgo de introducir errores de estructura o de calidad que luego son costosos de reparar manualmente.

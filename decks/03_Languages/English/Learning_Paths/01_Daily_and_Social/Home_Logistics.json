@@ -1,0 +1,262 @@
+[
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Lifestyle: Humidity Protection 🏠",
+    "text": "Explaining to the landlord: \"The basement has accumulated {{c1::mold and mildew}} due to the high {{c2::moisture levels}}, so we need a dehumidifier.\"",
+    "explanation": "<strong>Mold and mildew</strong> refer to fungal growths caused by dampness. **Moisture** refers to wetness or condensation in the air.",
+    "usage": "Pattern: <code>accumulate mold due to high moisture / run a dehumidifier</code><ul><li><code>High moisture levels in the bathroom will cause mold and mildew.</code></li><li><code>We bought a dehumidifier to keep the basement dry.</code></li></ul>",
+    "spanish": "Explicándole al propietario: \"El sótano ha acumulado moho y humedad debido a los altos niveles de humedad, por lo que necesitamos un deshumidificador\".",
+    "tags": [
+      "lifestyle",
+      "home_maintenance",
+      "humidity"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Lifestyle: Troubleshooting Smart Home Sync 🖥️",
+    "text": "Troubleshooting the setup: \"The smart lock has a {{c1::sync issue}} with the hub, so the door sensor doesn't {{c2::trigger the security routine}}.\"",
+    "explanation": "<strong>Sync issue</strong> refers to synchronization failure. **Trigger a routine** means to automatically start a sequence of pre-programmed actions.",
+    "usage": "Pattern: <code>have a sync issue / trigger a routine based on [event]</code><ul><li><code>My phone is having a sync issue with the server.</code></li><li><code>Connecting the sensor will trigger the alarm routine.</code></li></ul>",
+    "spanish": "Resolviendo problemas de la configuración: \"La cerradura inteligente tiene un problema de sincronización con el concentrador, por lo que el sensor de la puerta no activa la rutina de seguridad\".",
+    "tags": [
+      "lifestyle",
+      "smart_home",
+      "troubleshooting"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Lifestyle: Moving House Logistics 📦",
+    "text": "Discussing the rent: \"We need to pay the first month's utilities and the {{c1::security deposit}} before we can inspect the {{c2::floor plan}}.\"",
+    "explanation": "<strong>Security deposit</strong> is a sum of money paid in advance to protect the landlord against damage. **Floor plan** is the scale diagram showing room layouts.",
+    "usage": "Pattern: <code>pay a security deposit / check the floor plan</code><ul><li><code>The landlord returned our security deposit when we moved out.</code></li><li><code>Let's study the floor plan to decide where to put the sofa.</code></li></ul>",
+    "spanish": "Discutiendo el alquiler: \"Debemos pagar los servicios del primer mes y el depósito de seguridad antes de poder inspeccionar el plano de distribución de la casa\".",
+    "tags": [
+      "lifestyle",
+      "moving",
+      "renting"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Lifestyle: Espresso Extraction Barista ☕",
+    "text": "Instructing the barista: \"If your {{c1::grind size}} is too coarse, it causes {{c2::channeling}}, resulting in a watery crema.\"",
+    "explanation": "<strong>Grind size</strong> determines the speed of water flow. **Channeling** occurs when water finds paths of least resistance through the coffee puck instead of extracting evenly.",
+    "usage": "Pattern: <code>adjust the grind size / prevent channeling during extraction</code><ul><li><code>If the grind size is too fine, the espresso will extract too slowly.</code></li><li><code>Tamping the coffee evenly prevents channeling.</code></li></ul>",
+    "spanish": "Instruyendo al barista: \"Si el tamaño de la molienda es demasiado grueso, causa canalización, lo que resulta en una crema aguada\".",
+    "tags": [
+      "lifestyle",
+      "coffee",
+      "barismo"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Lifestyle: Designing Board Game Rules 🎲",
+    "text": "Explaining the game: \"This is a {{c1::turn-based game}} with specific card mechanics, including a roll of dice to resolve any {{c2::tie-breaker}}.\"",
+    "explanation": "<strong>Turn-based</strong> denotes a gameplay mechanic where players take turns. **Tie-breaker** is the rule or action that determines a winner when scores are equal.",
+    "usage": "Pattern: <code>turn-based game / resolve a tie-breaker</code><ul><li><code>Civilization is a famous turn-based strategy game.</code></li><li><code>The team won the match in a sudden-death tie-breaker.</code></li></ul>",
+    "spanish": "Explicando el juego: \"Este es un juego por turnos con mecánicas de cartas específicas, que incluye un lanzamiento de dados para resolver cualquier desempate\".",
+    "tags": [
+      "lifestyle",
+      "games",
+      "rules"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Take Out Trash 🏠",
+    "text": "Don't forget to {{c1::take out the trash}} before the garbage truck arrives tomorrow morning.",
+    "explanation": "To 'take out the trash' means to carry refuse or garbage containers from inside the house to the outdoor collection spot.",
+    "usage": "Pattern: <code>take out the trash / take out the rubbish</code><ul><li><code>It is your turn to take out the trash tonight.</code></li><li><code>I took out the trash before going to bed.</code></li></ul>",
+    "spanish": "No olvides sacar la basura antes de que llegue el camión de la basura mañana por la mañana.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Run Errands 🏠",
+    "text": "I need to {{c1::run some errands}}, including dropping off the dry cleaning and buying groceries.",
+    "explanation": "To 'run errands' means to take short trips to complete daily tasks or chores outside the house (e.g. post office, grocery store, cleaners).",
+    "usage": "Pattern: <code>run errands / do errands</code><ul><li><code>I have to run some errands this afternoon, so I'll be out of the office.</code></li><li><code>She spent the whole Saturday running errands.</code></li></ul>",
+    "spanish": "Necesito hacer algunos mandados/recados, incluyendo dejar la ropa en la tintorería y comprar víveres.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Call Plumber 🏠",
+    "text": "The kitchen sink is leaking, so I need to {{c1::call a plumber}} to fix it.",
+    "explanation": "To 'call a plumber' is a standard collocation for contacting a professional who installs and repairs pipes, fixtures, and water systems.",
+    "usage": "Pattern: <code>call a plumber / hire a plumber</code><ul><li><code>We had to call a plumber to unclog the drain.</code></li><li><code>The plumber charged $100 just to inspect the pipes.</code></li></ul>",
+    "spanish": "El fregadero de la cocina gotea, así que necesito llamar a un plomero para que lo arregle.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Stock Up 🏠",
+    "text": "We need to {{c1::stock up on}} toilet paper and paper towels this weekend.",
+    "explanation": "To 'stock up on' means to buy a large quantity of something (usually household supplies or food) to keep for future use.",
+    "usage": "Pattern: <code>stock up on [goods]</code><ul><li><code>People stocked up on water and canned food before the storm.</code></li><li><code>I always stock up on coffee when it goes on sale.</code></li></ul>",
+    "spanish": "Necesitamos abastecernos de papel higiénico y toallas de papel este fin de semana.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Put Away Groceries 🏠",
+    "text": "Could you please {{c1::put away the groceries}} in the pantry?",
+    "explanation": "To 'put away groceries' means to place purchased food items in their proper storage locations (fridge, freezer, cabinets, pantry) after shopping.",
+    "usage": "Pattern: <code>put away the groceries</code><ul><li><code>Help me put away the groceries before the ice cream melts.</code></li><li><code>She was busy putting away the groceries.</code></li></ul>",
+    "spanish": "¿Podrías por favor guardar las compras en la despensa?",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Clothesline 🏠",
+    "text": "I need to do a load of laundry and hang the clothes to dry on the {{c1::clothesline}}.",
+    "explanation": "A 'clothesline' is a cord or wire stretched between two points outdoors or indoors, used for hanging wet clothes to dry.",
+    "usage": "Pattern: <code>hang clothes on the clothesline</code><ul><li><code>The clothesline broke under the weight of the wet blankets.</code></li><li><code>I hung my shirts out on the clothesline.</code></li></ul>",
+    "spanish": "Necesito lavar una carga de ropa y colgar la ropa para que se seque en el tendedero.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Mop Floor 🏠",
+    "text": "Could you please sweep the kitchen floor and {{c1::mop it}} afterwards?",
+    "explanation": "To 'mop' the floor means to clean it using a mop (a bundle of thick strings or sponge on a stick) and water/cleanser.",
+    "usage": "Pattern: <code>mop the floor / mop it up</code><ul><li><code>Make sure you mop the floor after cooking.</code></li><li><code>I mopped up the spilled milk.</code></li></ul>",
+    "spanish": "¿Podrías por favor barrer el piso de la cocina y trapearlo después?",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Patch Up 🏠",
+    "text": "The roof is leaking during heavy rain; we need to hire a contractor to {{c1::patch it up}}.",
+    "explanation": "To 'patch up' is a phrasal verb meaning to repair or fix something in a quick, temporary, or modular way.",
+    "usage": "Pattern: <code>patch [something] up / repair</code><ul><li><code>We patched up the hole in the drywall.</code></li><li><code>The plumber patched up the leaking pipe until we could replace it.</code></li></ul>",
+    "spanish": "El techo gotea durante la lluvia intensa; necesitamos contratar a un contratista para que lo parche/repare.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Head Out 🏠",
+    "text": "Don't forget to lock the back door and close all the windows before you {{c1::head out}}.",
+    "explanation": "To 'head out' is an informal phrasal verb meaning to leave a place or begin a journey.",
+    "usage": "Pattern: <code>head out / leave / set off</code><ul><li><code>We are planning to head out early tomorrow morning.</code></li><li><code>I'm heading out to the grocery store.</code></li></ul>",
+    "spanish": "No olvides cerrar con llave la puerta trasera y cerrar todas las ventanas antes de salir.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Light Bulb 🏠",
+    "text": "We need to replace the burnt-out {{c1::light bulb}} in the hallway.",
+    "explanation": "A 'light bulb' is the glass bulb that fits into a lamp or fixture to provide light electrically.",
+    "usage": "Pattern: <code>replace the light bulb / LED bulb</code><ul><li><code>We bought energy-efficient LED light bulbs for the living room.</code></li><li><code>The light bulb in my desk lamp just went out.</code></li></ul>",
+    "spanish": "Necesitamos reemplazar la bombilla/foco quemado en el pasillo.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Dishwasher 🏠",
+    "text": "Could you help me clear the table and {{c1::load the dishwasher}}?",
+    "explanation": "To 'load the dishwasher' means to place dirty plates, glasses, and utensils inside the dishwashing machine before running a cycle.",
+    "usage": "Pattern: <code>load the dishwasher / unload the dishwasher</code><ul><li><code>It is easier to load the dishwasher if you rinse the plates first.</code></li><li><code>She unloaded the dishwasher this morning.</code></li></ul>",
+    "spanish": "¿Podrías ayudarme a limpiar la mesa y llenar el lavavajillas?",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Guests Arrive 🏠",
+    "text": "We should tidy up the living room before our guests {{c1::arrive}}.",
+    "explanation": "To 'arrive' is the standard verb meaning to reach a destination, commonly used for visitors or packages.",
+    "usage": "Pattern: <code>guests arrive / package arrives</code><ul><li><code>The guests arrived at 7:00 PM.</code></li><li><code>We are waiting for the package to arrive.</code></li></ul>",
+    "spanish": "Deberíamos ordenar la sala antes de que lleguen nuestros invitados.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Trim Lawn 🏠",
+    "text": "I need to water the plants in the garden and trim the {{c1::lawn}}.",
+    "explanation": "A 'lawn' is an area of grass in a garden or park that is kept cut short and neat.",
+    "usage": "Pattern: <code>mow the lawn / trim the lawn / cut the grass</code><ul><li><code>He spent the afternoon mowing the lawn.</code></li><li><code>Our lawn needs to be watered regularly during the summer.</code></li></ul>",
+    "spanish": "Necesito regar las plantas del jardín y podar el césped.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Smoke Detector 🏠",
+    "text": "The battery in the smoke detector is dying; it keeps making a {{c1::chirping sound}}.",
+    "explanation": "A 'chirping sound' is a short, high-pitched repeating noise made by electronic devices (like smoke detectors) to warn that the battery is low.",
+    "usage": "Pattern: <code>chirping sound / beep sound</code><ul><li><code>The smoke detector was making an annoying chirping sound all night.</code></li><li><code>Replace the battery to stop the chirping sound.</code></li></ul>",
+    "spanish": "La batería del detector de humo se está agotando; sigue haciendo un pitido intermitente.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  },
+  {
+    "deck": "03_Languages::English::Learning_Paths::01_Daily_and_Social",
+    "scenario": "Home: Fridge Leftovers 🏠",
+    "text": "Please put the leftovers in a container and store them in the {{c1::fridge}}.",
+    "explanation": "'Fridge' is the very common abbreviation for refrigerator, the appliance used to keep food and drinks cold.",
+    "usage": "Pattern: <code>put in the fridge / keep in the refrigerator</code><ul><li><code>Is there any milk left in the fridge?</code></li><li><code>Store the meat in the fridge immediately.</code></li></ul>",
+    "spanish": "Por favor, ponga las sobras en un recipiente y guárdelas en el refrigerador.",
+    "tags": [
+      "english_scenario",
+      "home_logistics",
+      "vocabulary"
+    ]
+  }
+]
