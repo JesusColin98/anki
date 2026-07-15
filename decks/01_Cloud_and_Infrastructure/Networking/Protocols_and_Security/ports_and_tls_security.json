@@ -1,0 +1,499 @@
+[
+  {
+    "id": "17b1e40c63a5266b",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "fundamentals",
+        "osi"
+      ]
+    },
+    "content": {
+      "scenario": "Network Basics 🌐: OSI Layer Mapping",
+      "text": "In the OSI model, routers operate at the {{c1::Network Layer}} (Layer 3), whereas switches operate at the Data Link Layer (Layer 2).",
+      "explanation": "Layer 3 handles logical addressing and path determination (routing) of packets, while Layer 2 handles physical addressing (MAC addresses) and frame forwarding.",
+      "spanish": "En el modelo OSI, los routers operan en la Capa de Red (Capa 3), mientras que los switches operan en la Capa de Enlace de Datos (Capa 2).",
+      "usage": "Layer 3: <code>Routers, IP Addresses, Packets</code><br>Layer 2: <code>Switches, MAC Addresses, Frames</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0bf2050ec165d872",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "fundamentals",
+        "cidr"
+      ]
+    },
+    "content": {
+      "scenario": "Network Basics 🌐: CIDR Prefix Calculation",
+      "text": "A subnet mask denoted as /24 represents a total of {{c1::256}} IP addresses, with 254 of those addresses being usable by network hosts.",
+      "explanation": "A /24 network has 2^(32-24) = 2^8 = 256 IPs. The network address (first IP) and the broadcast address (last IP) are reserved and not assignable to hosts, leaving 254 usable IPs.",
+      "spanish": "Una máscara de subred denotada como /24 representa un total de 256 direcciones IP, siendo 254 de ellas utilizables por los hosts de la red.",
+      "usage": "Calculations:<ul><li>Total: <code>2^(32 - prefix)</code></li><li>Usable: <code>2^(32 - prefix) - 2</code></li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0e5cf4a41b90e76d",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "fundamentals",
+        "ports"
+      ]
+    },
+    "content": {
+      "scenario": "Network Basics 🌐: Well-Known Ports",
+      "text": "The secure protocols HTTPS and SSH listen on default TCP ports {{c1::443 and 22}} respectively.",
+      "explanation": "HTTPS (HTTP Secure) runs over SSL/TLS on port 443. SSH (Secure Shell) provides encrypted remote administration on port 22.",
+      "spanish": "Los protocolos seguros HTTPS y SSH escuchan en los puertos TCP predeterminados 443 y 22 respectivamente.",
+      "usage": "Ports list:<ul><li>HTTPS: <code>443</code></li><li>SSH: <code>22</code></li><li>HTTP: <code>80</code></li><li>DNS: <code>53</code></li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d2387dd607538e24",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "fundamentals",
+        "dhcp"
+      ]
+    },
+    "content": {
+      "scenario": "Network Basics 🌐: DHCP DORA Handshake",
+      "text": "The four-step process for DHCP client IP address allocation consists of the messages Discover, Offer, Request, and {{c1::Acknowledge (ACK)}}.",
+      "explanation": "The DORA sequence: Client broadcasts DHCP Discover; Server offers IP (DHCP Offer); Client requests that IP (DHCP Request); Server confirms assignment (DHCP ACK).",
+      "spanish": "El proceso de cuatro pasos para la asignación de direcciones IP de cliente DHCP consta de los mensajes Discover, Offer, Request y Acknowledge (ACK).",
+      "usage": "Handshake order: <code>Discover → Offer → Request → ACK</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c8da6d208c703657",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "fundamentals",
+        "nat"
+      ]
+    },
+    "content": {
+      "scenario": "Network Basics 🌐: NAT vs PAT",
+      "text": "To map multiple private IP addresses inside a local area network to a single public IP address using unique source ports, you configure {{c1::Port Address Translation (PAT)}}.",
+      "explanation": "PAT (also called NAT overload) tracks connections using dynamic source port numbers in TCP/UDP headers, allowing thousands of hosts to share one public IP.",
+      "spanish": "Para mapear múltiples direcciones IP privadas dentro de una red de área local a una sola dirección IP pública utilizando puertos de origen únicos, configuras Port Address Translation (PAT).",
+      "usage": "Concept: <code>PrivateIP:PortA → NAT Router → PublicIP:PortB</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a31214fce8f99a4b",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "operations",
+        "vlan"
+      ]
+    },
+    "content": {
+      "scenario": "Network Operations ⚙️: VLAN Trunking Tagging",
+      "text": "The industry-standard protocol used to encapsulate and carry multiple VLAN traffic over a single physical link is {{c1::IEEE 802.1Q}}.",
+      "explanation": "802.1Q inserts a 4-byte VLAN tag into the Ethernet frame header. Switches read this tag to determine which VLAN a frame belongs to before forwarding it over a trunk link.",
+      "spanish": "El protocolo estándar de la industria utilizado para encapsular y transportar tráfico de múltiples VLAN sobre un solo enlace físico es IEEE 802.1Q.",
+      "usage": "Tag structure: <code>TPID (16 bits) + TCI (VLAN ID 12 bits + Priority 3 bits)</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2f6b75e7a5cdcfde",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "operations",
+        "dns"
+      ]
+    },
+    "content": {
+      "scenario": "Network Operations ⚙️: DNS Query Types",
+      "text": "In a DNS resolution process, a {{c1::recursive query}} requires the server to completely resolve the domain name and return the IP, whereas an iterative query returns references to other nameservers.",
+      "explanation": "Recursive queries offload the work of querying multiple servers to the DNS resolver (e.g. ISP resolver). Iterative queries return the next server to contact (e.g. root DNS pointing to .com TLD).",
+      "spanish": "En un proceso de resolución de DNS, una consulta recursiva requiere que el servidor resuelva por completo el nombre de dominio y devuelva la IP, mientras que una consulta iterativa devuelve referencias a otros servidores de nombres.",
+      "usage": "Client to Resolver: <code>Recursive</code><br>Resolver to Root/TLD: <code>Iterative</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d1aad5fe6d31ca67",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "operations",
+        "arp"
+      ]
+    },
+    "content": {
+      "scenario": "Network Operations ⚙️: ARP Resolution",
+      "text": "The Address Resolution Protocol (ARP) translates a known Layer 3 logical IP address into a local Layer 2 {{c1::physical MAC address}}.",
+      "explanation": "ARP broadcasts requests to find which MAC address owns a target IP. Hosts cache these IP-to-MAC mappings to bypass repeated network queries.",
+      "spanish": "El Protocolo de Resolución de Direcciones (ARP) traduce una dirección IP lógica de Capa 3 conocida en una dirección MAC física de Capa 2 local.",
+      "usage": "CLI: <code>arp -a</code> (shows local ARP table cache)"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "20e4234834c421f4",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "operations",
+        "tcp"
+      ]
+    },
+    "content": {
+      "scenario": "Network Operations ⚙️: TCP Flags Three-Way Handshake",
+      "text": "The TCP three-way handshake sequence consists of the following control flags sent in order: SYN, {{c1::SYN-ACK}}, and ACK.",
+      "explanation": "1. Client sends SYN (Synchronize sequence numbers). 2. Server responds with SYN-ACK (Acknowledges sequence and syns own). 3. Client sends ACK (Acknowledges server sequence).",
+      "spanish": "La secuencia del apretón de manos de tres vías de TCP consta de los siguientes flags de control enviados en orden: SYN, SYN-ACK y ACK.",
+      "usage": "Flow:<br>1. Client → Server: <code>SYN</code><br>2. Server → Client: <code>SYN-ACK</code><br>3. Client → Server: <code>ACK</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b21c3821c247c7bd",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "operations",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "Network Operations ⚙️: CLI Packet Inspection",
+      "text": "To capture and display only packets targeting TCP port 80 in raw hex representation using tcpdump, you run the command {{c1::`tcpdump -X port 80`}}.",
+      "explanation": "The `-X` flag tells tcpdump to print packet payload data in both hexadecimal and ASCII characters, and `port 80` filters the capture for HTTP traffic.",
+      "spanish": "Para capturar y mostrar solo paquetes destinados al puerto TCP 80 en representación hexadecimal sin procesar usando tcpdump, ejecutas el comando tcpdump -X port 80.",
+      "usage": "Command: <code>tcpdump -nnvv -X port 80 -i eth0</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "dbf5ad9d244c6aaa",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "engineering",
+        "routing"
+      ]
+    },
+    "content": {
+      "scenario": "Network Engineering 🛠️: BGP Path Vector Routing",
+      "text": "The Border Gateway Protocol (BGP) is classified as a {{c1::Path Vector}} routing protocol that makes routing decisions based on autonomous system (AS) paths.",
+      "explanation": "BGP operates as an Exterior Gateway Protocol (EGP). Unlike OSPF (link-state) or RIP (distance-vector), it lists the specific sequence of AS numbers a packet must cross to prevent routing loops.",
+      "spanish": "El Border Gateway Protocol (BGP) está clasificado como un protocolo de enrutamiento de Vector de Ruta (Path Vector) que toma decisiones de enrutamiento basadas en rutas de sistemas autónomos (AS).",
+      "usage": "Metric: <code>AS-Path length</code><br>Protocol category: <code>Exterior Gateway Protocol (EGP)</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f2ca39a4f0ce7fc5",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "engineering",
+        "security",
+        "tls"
+      ]
+    },
+    "content": {
+      "scenario": "Network Engineering 🛠️: TLS Cryptographic Handshake",
+      "text": "In the TLS 1.2 handshake, the client sends a ClientHello message, and the server responds with ServerHello, ServerCertificate, and finally {{c1::ServerHelloDone}} before key exchange begins.",
+      "explanation": "The ServerHelloDone message indicates to the client that the server is finished sending messages for the initial configuration, allowing the client to initiate key exchange.",
+      "spanish": "En el apretón de manos de TLS 1.2, el cliente envía un mensaje ClientHello, y el servidor responde con ServerHello, ServerCertificate y finalmente ServerHelloDone antes de comenzar el intercambio de claves.",
+      "usage": "TLS 1.2 Flow: \n<div class=\"mermaid\">\ngraph TD\n  Client[\"Client\"] -->|1. ClientHello| Server[\"Server\"]\n  Server -->|2. ServerHello / Certificate / ServerHelloDone| Client\n  Client -->|3. ClientKeyExchange / ChangeCipherSpec / Finished| Server\n  Server -->|4. ChangeCipherSpec / Finished| Client\nend\n</div>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b7d3251f7cf720a1",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "engineering",
+        "security",
+        "vpn"
+      ]
+    },
+    "content": {
+      "scenario": "Network Engineering 🛠️: IPSec VPN Handshake Phases",
+      "text": "During IPSec VPN establishment, {{c1::Phase 1 (IKEv1/IKEv2)}} negotiates a secure bidirectional channel to protect management traffic, while Phase 2 builds the unidirectional data tunnels.",
+      "explanation": "Phase 1 creates an ISAKMP SA (Security Association) which encrypts negotiation negotiations. Phase 2 creates IPsec SAs (specifically ESP or AH) for actual application data flow.",
+      "spanish": "Durante el establecimiento de una VPN IPSec, la Fase 1 (IKEv1/IKEv2) negocia un canal seguro bidireccional para proteger el tráfico de gestión, mientras que la Fase 2 construye los túneles de datos unidireccionales.",
+      "usage": "IPSec Phasing:<ul><li>Phase 1: <code>Main / Aggressive Mode (ISAKMP SA)</code></li><li>Phase 2: <code>Quick Mode (IPsec SAs)</code></li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9f77ec52e08932b4",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "engineering",
+        "tcp"
+      ]
+    },
+    "content": {
+      "scenario": "Network Engineering 🛠️: TCP Congestion Control Algorithms",
+      "text": "During the TCP Slow Start phase, the Congestion Window (cwnd) size increases {{c1::exponentially}} for every round-trip time (RTT) until it hits the slow start threshold (ssthresh).",
+      "explanation": "In Slow Start, the cwnd is doubled every RTT (each ACK received adds 1 segment to cwnd). Once ssthresh is hit, TCP transitions to Congestion Avoidance, where cwnd grows linearly.",
+      "spanish": "Durante la fase TCP Slow Start, el tamaño de la ventana de congestión (cwnd) aumenta exponencialmente por cada tiempo de ida y vuelta (RTT) hasta que alcanza el umbral de inicio lento (ssthresh).",
+      "usage": "TCP Phases:<ul><li>Slow Start: <code>cwnd = cwnd * 2 per RTT</code></li><li>Congestion Avoidance: <code>cwnd = cwnd + 1 per RTT</code></li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0eb6dec663deeede",
+    "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "engineering",
+        "tcp"
+      ]
+    },
+    "content": {
+      "scenario": "Network Engineering 🛠️: MTU and MSS Sizing",
+      "text": "Given a standard Ethernet Maximum Transmission Unit (MTU) of 1500 bytes, the Maximum Segment Size (MSS) for a standard TCP packet is {{c1::1460}} bytes.",
+      "explanation": "MSS represents usable TCP payload space. It is calculated by subtracting the IP header (20 bytes) and the TCP header (20 bytes) from the link MTU: 1500 - 20 - 20 = 1460 bytes.",
+      "spanish": "Dado una Unidad de Transmisión Máxima (MTU) de Ethernet estándar de 1500 bytes, el Tamaño Máximo de Segmento (MSS) para un paquete TCP estándar es de 1460 bytes.",
+      "usage": "Sizing equation: <code>MSS = MTU - IP_Header_Size - TCP_Header_Size</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

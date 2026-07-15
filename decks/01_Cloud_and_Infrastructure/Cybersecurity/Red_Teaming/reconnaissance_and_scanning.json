@@ -1,0 +1,669 @@
+[
+  {
+    "id": "5679bd3d48441f48",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "networking",
+        "security",
+        "reconnaissance"
+      ]
+    },
+    "content": {
+      "scenario": "Security: Port Scanning 🔍",
+      "text": "To scan a network stealthily without completing the three-way handshake, you run a {{c1::TCP SYN scan}} (often called a half-open scan).",
+      "explanation": "A SYN scan sends a SYN packet and waits for a SYN-ACK. If received, it immediately sends a RST (reset) packet to close the connection without completing the handshake (no ACK is sent). This makes the scan faster and less likely to trigger application-level connection logs.",
+      "spanish": "Para escanear una red sigilosamente sin completar el saludo de tres vías, ejecutas un escaneo TCP SYN (a menudo llamado escaneo medio abierto).",
+      "usage": "Standard Nmap syntax: <code>nmap -sS <target_ip></code> (requires root/administrator privileges)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7c0853efc5c24bcb",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "nmap",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "Security: OS Fingerprinting 🔍",
+      "text": "To identify the operating system and running services of a target host, you perform an OS detection scan using Nmap with the {{c1::`-O` flag}}.",
+      "explanation": "OS detection (fingerprinting) works by sending a series of TCP and UDP packets to the target host and analyzing the responses (TCP window size, IP ID, TTL, TCP options), comparing them to a database of known signatures.",
+      "spanish": "Para identificar el sistema operativo y los servicios en ejecución de un host objetivo, realizas un escaneo de detección de SO usando Nmap con la opción -O.",
+      "usage": "Nmap CLI Command: <code>nmap -O -sV <target_ip></code><br>Explanation: <code>-O</code> enables OS detection, and <code>-sV</code> detects service version information."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "19de0c5e12f836bc",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "nmap",
+        "rca"
+      ]
+    },
+    "content": {
+      "scenario": "Security: Stealth Scan 🔍",
+      "text": "To scan a target stealthily without sending packets from your own IP, you can use a zombie host to perform an {{c1::Idle Scan (-sI)}} by monitoring IP ID changes.",
+      "explanation": "An Idle Scan exploits a zombie host that has predictable IP ID increment behavior. By querying the zombie's IP ID, sending a spoofed SYN to the target, and querying the zombie again, the attacker infers if the target port is open based on whether the zombie's IP ID incremented by 1 or 2.",
+      "spanish": "Para escanear un objetivo sigilosamente sin enviar paquetes desde tu propia IP, puedes usar un host zombi para realizar un escaneo inactivo (Idle Scan) mediante el monitoreo de cambios en el IP ID.",
+      "usage": "**Symptom**: Scanner IP is invisible in the target's firewall logs; instead, only zombie IP is logged.<br>**Root Cause**: Use of an idle scan exploiting a zombie host's predictable IP ID increment.<br>**Command**: <code>nmap -PN -sI <zombie_ip> <target_ip></code><br>**Remediation**: Configure firewalls to drop incoming packets with spoofed source IPs (unicast Reverse Path Verification - uRPF) and patch OS to use randomized IP IDs."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7ca66e40ae00473c",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "strategy"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Strategy 🛡️",
+      "text": "The difference between active and passive reconnaissance is that {{c1::active}} recon directly interacts with the target system (generating logs), whereas {{c2::passive}} recon gathers data from third-party sources without direct target contact.",
+      "explanation": "Active recon includes port scanning. Passive recon includes OSINT search, DNS harvesting, and looking up WHOIS records.",
+      "spanish": "La diferencia entre reconocimiento activo y pasivo es que el activo interactúa directamente con el sistema objetivo, mientras que el pasivo recopila datos de fuentes secundarias sin contacto directo.",
+      "usage": "Active: <code>nmap scan</code> | Passive: <code>Google Dorking, Shodan lookup</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e1689c8c9a5d7256",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "osint"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: OSINT 🛡️",
+      "text": "OSINT stands for {{c1::Open Source Intelligence}}, which refers to the process of gathering publicly available information from legal, open sources on the internet.",
+      "explanation": "OSINT includes scanning social media, public databases, repository leaks (GitHub), and company websites.",
+      "spanish": "OSINT significa Open Source Intelligence (Inteligencia de Fuentes Abiertas), que es la recopilación de información pública disponible legalmente en internet.",
+      "usage": "OSINT tools: <code>theHarvester, Maltego, Wayback Machine</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "63548931a39217e0",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "nmap",
+        "port_scan"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Nmap 🛡️",
+      "text": "In Nmap, the scan flag `-sS` performs a {{c1::TCP SYN Scan}} (stealth/half-open scan), which does not complete the full TCP 3-way handshake, reducing log detection.",
+      "explanation": "It sends a SYN and waits for a SYN-ACK. If received, it sends a RST instead of an ACK, leaving the connection incomplete.",
+      "spanish": "En Nmap, el flag -sS realiza un TCP SYN Scan (escaneo sigiloso o semiabierto), que no completa el protocolo de enlace de tres vías de TCP.",
+      "usage": "Command: <code>nmap -sS -p 80,443 192.168.1.1</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8ca34dd43e5c55e7",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "nmap"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Nmap 🛡️",
+      "text": "In Nmap, the flag `-sT` performs a {{c1::TCP Connect Scan}}, which completes the full 3-way handshake and is noisier in target logs, while the flag `-sU` is used to scan {{c2::UDP}} ports.",
+      "explanation": "-sT is used when the scanning user doesn't have raw packet privileges (non-root). -sU is slow but essential for mapping services like DNS, NTP, and SNMP.",
+      "spanish": "En Nmap, el flag -sT realiza un TCP Connect Scan (completa el enlace de tres vías), mientras que el flag -sU se usa para escanear puertos UDP.",
+      "usage": "TCP Connect: <code>nmap -sT 10.0.0.1</code> | UDP Scan: <code>nmap -sU 10.0.0.1</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a19aca635d38aa88",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "nmap"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Port States 🛡️",
+      "text": "When Nmap labels a port as {{c1::Filtered}}, it means a firewall, router, or security filter is blocking the packets, preventing Nmap from determining if the port is open or closed.",
+      "explanation": "If Nmap gets no response or an ICMP destination unreachable error, it lists the port as Filtered.",
+      "spanish": "Cuando Nmap etiqueta un puerto como 'Filtered' (Filtrado), significa que un firewall u otro filtro de red está bloqueando los paquetes.",
+      "usage": "Nmap output states: <code>Open, Closed, Filtered</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "867341fe7d7f516c",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "banner_grabbing"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Service Mapping 🛡️",
+      "text": "The process of extracting the header text returned by a network service to identify its software name and version is called {{c1::Banner Grabbing}}.",
+      "explanation": "Recon tools connect to a port (e.g. via Netcat) and read the initial text response to search for known vulnerabilities.",
+      "spanish": "El proceso de extraer el encabezado devuelto por un servicio de red para identificar el software y su versión se llama Banner Grabbing.",
+      "usage": "Netcat command: <code>nc -v 192.168.1.100 22</code> (displays SSH version banner)"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5f9c6a99f34eeebf",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "dns",
+        "whois"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: DNS 🛡️",
+      "text": "To query registration records of a domain name (including registrant contact info, name servers, and expiration dates), analysts use the {{c1::WHOIS}} query tool.",
+      "explanation": "WHOIS databases are maintained by registrars and contain ownership details useful for social engineering and organization mapping.",
+      "spanish": "Para consultar los registros de registro de un dominio (como datos de contacto e información de registro), se utiliza la herramienta WHOIS.",
+      "usage": "Command: <code>whois targetdomain.com</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fdb1ab855f29b0b9",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "shodan"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Scanning Engines 🛡️",
+      "text": "The search engine dedicated to indexing internet-connected devices, servers, smart home appliances, and open ports is {{c1::Shodan}}.",
+      "explanation": "Shodan crawls the internet continuously and gathers banners from open ports, making passive reconnaissance easy.",
+      "spanish": "El motor de búsqueda dedicado a indexar dispositivos conectados a Internet, servidores y puertos abiertos es Shodan.",
+      "usage": "Search filter: <code>port:22 country:\"US\"</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cc37983e5ef55896",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "google_dorking"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Search Hacks 🛡️",
+      "text": "Using advanced search operators (like `site:`, `filetype:`, `intitle:`) on public search engines to find hidden data, vulnerable pages, or leaked credentials is known as {{c1::Google Dorking}}.",
+      "explanation": "Allows attackers and defenders to leverage search engines to find configuration errors.",
+      "spanish": "El uso de operadores de búsqueda avanzados en motores de búsqueda para encontrar datos ocultos o vulnerables se conoce como Google Dorking.",
+      "usage": "Example query: <code>site:target.com filetype:pdf \"confidential\"</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f00542505be4d4df",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "dns"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: DNS leaks 🛡️",
+      "text": "A DNS {{c1::Zone Transfer}} (via query type AXFR) occurs when a misconfigured primary DNS server sends the entire database of DNS records to an unauthorized client.",
+      "explanation": "AXFR transfers copy the entire zone data. If public, this exposes all subdomains and internal IPs.",
+      "spanish": "Una transferencia de zona DNS (AXFR) ocurre cuando un servidor DNS configurado erróneamente envía la base de datos completa de registros a un cliente no autorizado.",
+      "usage": "Query command: <code>dig axfr @ns1.target.com target.com</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ad5ef17723bb79e2",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "dns",
+        "subdomains"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Subdomain Discovery 🛡️",
+      "text": "To find hidden subdomains that are not linked on a target's main website, attackers perform brute-force guessing using tools like {{c1::Gobuster}} or {{c2::Amass}}.",
+      "explanation": "These tools query a list of common words against the target DNS server (e.g., mail.target.com, dev.target.com) to find valid hostnames.",
+      "spanish": "Para encontrar subdominios ocultos mediante fuerza bruta, se utilizan herramientas como Gobuster o Amass.",
+      "usage": "Gobuster: <code>gobuster dns -d target.com -w wordlist.txt</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "57d306a39d86daaa",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "web",
+        "fuzzing"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Directory Busting 🛡️",
+      "text": "The process of brute-forcing URL paths to find hidden directories and files on a web server is called {{c1::Directory Fuzzing}} (or Directory Busting), using tools like Dirb or Gobuster.",
+      "explanation": "It tests thousands of directory names (e.g. /admin, /backup) against the server, checking for 200 OK or 403 Forbidden responses.",
+      "spanish": "El proceso de adivinar mediante fuerza bruta rutas URL para encontrar directorios y archivos ocultos en un servidor web se llama Directory Fuzzing.",
+      "usage": "Command: <code>gobuster dir -u http://target.com -w common.txt</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "dabffe3cbaa12352",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "metadata",
+        "exiftool"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: File analysis 🛡️",
+      "text": "To extract hidden information, author names, creation dates, software paths, and GPS coordinates embedded inside target documents, analysts use a metadata viewer like {{c1::ExifTool}}.",
+      "explanation": "Metadata in PDF, DOCX, or JPEG files leaked on target sites can expose software versions and username formats.",
+      "spanish": "Para extraer información oculta y metadatos incrustados en documentos o fotos, se utiliza una herramienta como ExifTool.",
+      "usage": "Command: <code>exiftool photo.jpg</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "75d27f0e512822b0",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "scanning"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Vuln Scanners 🛡️",
+      "text": "Automated security tools that scan a target IP address for known software vulnerabilities, misconfigurations, and weak passwords are called {{c1::Vulnerability Scanners}} (e.g., Nessus, OpenVAS).",
+      "explanation": "These tools compare banner information and port responses against CVE (Common Vulnerabilities and Exposures) databases.",
+      "spanish": "Las herramientas automáticas que escanean un objetivo en busca de fallos de software conocidos y malas configuraciones se llaman Escáneres de Vulnerabilidades.",
+      "usage": "Process: Run discovery scan -> Map ports -> Check banners against CVEs -> Report vulnerability levels."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ee54a265a74d28ea",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "sniffing"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Packet Sniffing 🛡️",
+      "text": "A network tool used to intercept, log, and analyze real-time raw traffic passing through a network interface is a {{c1::Packet Sniffer}} (e.g., Wireshark or tcpdump).",
+      "explanation": "Sniffing requires placing the network interface card in promiscuous mode to capture all packets, not just those addressed to it.",
+      "spanish": "Una herramienta utilizada para interceptar, registrar y analizar el tráfico de red en tiempo real es un capturador de paquetes (Packet Sniffer).",
+      "usage": "Command-line tool: <code>tcpdump -i eth0</code> | GUI tool: <code>Wireshark</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "248d189a1f351be6",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "os_detection"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: OS Fingerprinting 🛡️",
+      "text": "The active recon technique of determining a target's operating system by analyzing differences in its TCP stack responses (like TTL values and Window size) is {{c1::OS Fingerprinting}}.",
+      "explanation": "Different operating systems implement TCP/IP stacks slightly differently (e.g. default TTL of 64 for Linux, 128 for Windows). Nmap checks these to guess the OS.",
+      "spanish": "La técnica de determinar el sistema operativo de un objetivo analizando los valores en la cabecera de las respuestas TCP se denomina OS Fingerprinting.",
+      "usage": "Nmap OS detection flag: <code>nmap -O 192.168.1.1</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "dfa4758263815db6",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "reconnaissance",
+        "threat_intel"
+      ]
+    },
+    "content": {
+      "scenario": "Reconnaissance: Threat Intelligence 🛡️",
+      "text": "To passively check if an IP address, domain, or file hash is associated with known malicious actors or botnets, analysts query a {{c1::Threat Intelligence Feed}} (e.g., VirusTotal, AlienVault OTX).",
+      "explanation": "A central database of Indicators of Compromise (IoCs) compiled globally.",
+      "spanish": "Para verificar de forma pasiva si una IP o dominio está asociado con actores maliciosos, los analistas consultan feeds de inteligencia de amenazas.",
+      "usage": "Lookup: <code>VirusTotal IP search</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

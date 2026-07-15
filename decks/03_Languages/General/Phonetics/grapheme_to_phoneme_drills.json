@@ -1,0 +1,274 @@
+[
+  {
+    "id": "c373689596734bf6",
+    "deck": "03_Languages::General::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "cognitive_listening",
+        "cauldwell",
+        "listening_theory"
+      ]
+    },
+    "content": {
+      "scenario": "Cognitive Listening: The 3 Stages of Speech 🧠",
+      "text": "In cognitive listening science, the model of {{c1::The 3 Stages of Speech}} (by Richard Cauldwell) describes three phases of language pronunciation: (1) **Garden Stage** (clear, dictionary pronunciation), (2) **Greenhouse Stage** (careful textbook speech), and (3) **Jungle Stage** (rapid, spontaneous native speech with deformations).",
+      "explanation": "Language learners struggle in real life because they are trained in the structured rules of the Garden or Greenhouse stages, but native conversations occur in the Jungle, where sounds are compressed and blurred.",
+      "spanish": "El Modelo de los 3 Estadios del Habla (Richard Cauldwell): Garden (Jardín - diccionario), Greenhouse (Invernadero - cuidado) y Jungle (Selva - espontáneo y deformado).",
+      "usage": "The Three Stages:<ul><li><b>Garden</b>: Clear, isolated, dictionary citation form.</li><li><b>Greenhouse</b>: Textbook standard connected speech.</li><li><b>Jungle</b>: Physical sound deformation: Squish (compression), Stream (no pauses), and Blur (acoustic masking).</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5c30f0a225d7deea",
+    "deck": "03_Languages::General::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "cognitive_listening",
+        "cauldwell",
+        "listening_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Cognitive Listening: Cauldwell's Jungle Rule 🧠",
+      "text": "In cognitive listening science, Cauldwell's rule for decoding rapid speech is: Do not try to listen to every isolated word; instead, perform {{c1::Tonic Syllable Hunting}} (target the main stressed syllable of each rhythmic group) and let the context fill in the gaps.",
+      "explanation": "Because fast speech compresses unstressed vowels and drops consonants, hunting for every single word is cognitively overwhelming. Locking onto the stressed syllables provides the anchor points for the brain to deduce meaning.",
+      "spanish": "Regla de Cauldwell para la Selva: No busques descifrar cada vocablo; caza la Sílaba Tónica (Tonic Syllable Hunting) de cada compás y deduce el resto por el contexto.",
+      "usage": "Action: Practice 'Tonic Syllable Hunting' rather than word-for-word decoding. Identify the rhythmic beats of the sentence."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "db458dd8fc04734e",
+    "deck": "03_Languages::General::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "cognitive_listening",
+        "kuhl",
+        "perceptual_bias"
+      ]
+    },
+    "content": {
+      "scenario": "Cognitive Listening: Perceptual Magnet Effect 🧠",
+      "text": "In cognitive listening science, the {{c1::Perceptual Magnet Effect}} (Patricia Kuhl) explains that the adult brain creates magnets based on native phonemes, causing it to incorrectly map new foreign sounds to native categories (e.g. ship vs sheep).",
+      "explanation": "Infants can distinguish all human speech sounds. By adulthood, the brain establishes strong neural 'magnets' for native language sounds. When exposed to foreign phonemes, the brain pulls them towards the closest native magnet, creating auditory confusion.",
+      "spanish": "Imán Perceptual (Patricia Kuhl): Filtro neuronal del cerebro adulto que deforma los sonidos extranjeros, encajándolos a la fuerza en los fonemas de su lengua materna.",
+      "usage": "Correction: Use Minimal Pair Ear Training to 'demagnetize' the native filter and build new distinct neural categories."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6adf9deda60a0deb",
+    "deck": "03_Languages::General::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "cognitive_listening",
+        "rhythm",
+        "npvi"
+      ]
+    },
+    "content": {
+      "scenario": "Cognitive Listening: nPVI Metric (Rhythm) 📊",
+      "text": "In acoustic linguistics, the rhythm of languages is measured using the {{c1::nPVI (Normalized Pairwise Variability Index)}}, where stress-timed languages (e.g. English, German) have a high index, while syllable-timed languages (e.g. Spanish, French) have a low index.",
+      "explanation": "nPVI measures the variability in duration between adjacent vowels. Stress-timed languages compress unstressed vowels to schwas, leading to massive duration differences (high index). Syllable-timed languages give equal duration to syllables (low index, metronomic rhythm).",
+      "spanish": "Métrica nPVI: Clasificación acústica del ritmo lingüístico. Mide la variación de duración entre sílabas contiguas; alta en Stress-Timed (inglés) y baja en Syllable-Timed (español).",
+      "usage": "Métricas:<ul><li>Stress-Timed (English, German): High nPVI (>65).</li><li>Syllable-Timed (Spanish, French, Italian): Low nPVI (<45).</li><li>Mora-Timed (Japanese): Ultra-low nPVI (<35).</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cd63b2ae839241fb",
+    "deck": "03_Languages::General::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "cognitive_listening",
+        "speed_ramping",
+        "training_protocols"
+      ]
+    },
+    "content": {
+      "scenario": "Cognitive Listening: Speed-Ramping Method 🏃‍♂️",
+      "text": "In language acquisition, the {{c1::Speed-Ramping Method}} conditions processing speed by listening to a short clip in a specific order: 0.8x (map junctions) &rarr; 1.0x &rarr; 1.25x (over-speed training) &rarr; 1.0x (now perceived as slow motion).",
+      "explanation": "By forcing the brain to process speech at 1.25x speed, the subsequent return to 1.0x normal speed feels significantly slower, lowering the processing strain and enhancing comprehension.",
+      "spanish": "Método Speed-Ramping (Escalado de Velocidad): Entrenamiento del procesamiento neuro-auditivo acelerando y desacelerando el audio (0.8x &rarr; 1.0x &rarr; 1.25x &rarr; 1.0x).",
+      "usage": "Routine: Take a 15-second audio clip. Listen: 0.8x &rarr; 1.0x &rarr; 1.25x (3 reps) &rarr; 1.0x (normal)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "08ba38f54e79d346",
+    "deck": "03_Languages::General::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "cognitive_listening",
+        "krashen",
+        "narrow_listening"
+      ]
+    },
+    "content": {
+      "scenario": "Cognitive Listening: Narrow Listening 🎧",
+      "text": "In language acquisition, Stephen Krashen's {{c1::Narrow Listening}} technique involves consuming audio content from the **same speaker** on the **same topic** for 2-3 weeks to lower cognitive load by stabilizing the speaker's idiolect.",
+      "explanation": "Each native speaker has a unique idiolect (speech patterns, pitch, preferred contractions). Keeping the speaker and topic stable allows the brain to map that individual's sounds easily, freeing up cognitive capacity to learn language structure.",
+      "spanish": "Narrow Listening (Escucha Estrecha): Consumo de contenido del mismo hablante y tema durante 2-3 semanas para familiarizarse con su idiolecto y reducir la fatiga mental.",
+      "usage": "Action: Choose one podcaster/speaker on one specific topic, and consume their content exclusively for 2 weeks."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "455d7fa5e0f5873e",
+    "deck": "03_Languages::General::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "cognitive_listening",
+        "arguelles",
+        "micro_dictation"
+      ]
+    },
+    "content": {
+      "scenario": "Cognitive Listening: Micro-Dictation ✍️",
+      "text": "In language acquisition, the {{c1::Micro-Dictation}} protocol (Arguelles) consists of transcribing a 10-second fast native clip without subtitles, leaving gaps `[???]` for incomprehensible parts, and then checking which phonetic reduction rule caused the gap.",
+      "explanation": "Transcribing short segments forces you to confront exactly what your brain missed. Comparing your draft with the transcript reveals your specific perceptual blind spots (e.g. not recognizing a dropped H or a glottal stop).",
+      "spanish": "Protocolo de Micro-Dictado (Arguelles): Transcripción de clips cortos marcando vacíos [???] para identificar qué regla de habla rápida causó la confusión auditiva.",
+      "usage": "Protocol: Transcribe 10s audio &rarr; mark gaps [???] &rarr; compare with text &rarr; log the elision/reduction rule."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8c54077f06bb3a01",
+    "deck": "03_Languages::General::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "cognitive_listening",
+        "intonation",
+        "pitch"
+      ]
+    },
+    "content": {
+      "scenario": "Cognitive Listening: Pitch Contours 📉📈",
+      "text": "In prosodic pragmatics, intonation contours carry structural meaning: a {{c1::Falling Pitch (📉)}} indicates certainty and WH-questions, a {{c2::Rising Pitch (📈)}} indicates Yes/No questions and lists, and a {{c3::Fall-Rise Pitch (📉📈)}} conveys politeness or reservations.",
+      "explanation": "Pitch contours carry pragmatic context beyond words. High Rising Terminal (HRT) is a rising contour on statements used in Australian/American English to check for listener agreement.",
+      "spanish": "Contornos de Pitch (Entonación): Curvas tonales que aportan pragmática. Descendente (📉) para afirmaciones/WH-questions; Ascendente (📈) para Yes/No; Descendente-Ascendente (📉📈) para reservas.",
+      "usage": "Contours:<ul><li>Falling (📉): 'Where is the station?' (Certainty/WH-question)</li><li>Rising (📈): 'Are you ready?' (Yes/No query)</li><li>Fall-Rise (📉📈): 'Well, I think so...' (Reservation/Politeness)</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

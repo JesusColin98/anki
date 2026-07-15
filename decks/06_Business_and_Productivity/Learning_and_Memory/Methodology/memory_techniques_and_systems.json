@@ -1,0 +1,4082 @@
+[
+  {
+    "id": "992aa3a274088aca",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "dominic_system",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Dominic System 🔢",
+      "text": "The **Dominic System** is a mnemonic system that maps two-digit numbers (00-99) to a person and an action using a specific letter code: {{c1::A=1, B=2, C=3, D=4, E=5, S=6, G=7, H=8, N=9, O=0}}.",
+      "explanation": "Developed by 8-time World Memory Champion Dominic O'Brien. For example, 15 is AE (Albert Einstein), action: 'chalking a blackboard'.",
+      "spanish": "El Sistema Dominic asocia números de dos dígitos con una persona y una acción usando un código de letras específico (A=1, B=2, C=3, D=4, E=5, S=6, G=7, H=8, N=9, O=0).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5632582e69d39156",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "dominic_system",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Letter Code 🔢",
+      "text": "In the Dominic System, the letter code for the number 6 is {{c1::S}} and for the number 0 is {{c2::O}}.",
+      "explanation": "Mapping: 6 is 'S' (looks like 6/six), 0 is 'O' (looks like 0/zero).",
+      "spanish": "En el Sistema Dominic, la letra para el número 6 es S y para el 0 es O.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6b5f865ed182226d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "pa_system",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Person-Action-Object 🔢",
+      "text": "To encode large numbers (e.g. 4 digits), combine the **Person** of the first 2 digits with the **Action** of the second 2 digits, a technique called {{c1::PA}} (Person-Action).",
+      "explanation": "For example, if 15 is Albert Einstein (writing on blackboard) and 80 is Harry Houdini (escaping chains), 1580 is encoded as: Albert Einstein escaping chains.",
+      "spanish": "Para codificar números grandes, combina la persona de los primeros dos dígitos con la acción de los segundos dos (técnica Person-Action).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "636ad60faea7c694",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "journey_method",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: The Journey Method 🏰",
+      "text": "The primary retrieval framework used by Dominic O'Brien is the {{c1::Journey Method}}, which places visual markers along a series of real-world loci.",
+      "explanation": "A journey is an ordered sequence of locations (stages) that you know perfectly (e.g. walk to work, park, museum). It guarantees you retrieve items in the correct order.",
+      "spanish": "El marco de recuperación principal utilizado por Dominic O'Brien es el Método del Viaje (Journey Method).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f1fa06ec5b5ed4d2",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "association",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Rule of Association 🧠",
+      "text": "The golden rule of memory is {{c1::Association}}—connecting new, unfamiliar information to existing, familiar mental structures.",
+      "explanation": "You cannot memorize something in isolation. You must build a bridge between the new data and what you already know.",
+      "spanish": "La regla de oro de la memoria es la Asociación: conectar información nueva con estructuras familiares existentes.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "43e836715441f23e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "visualization",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Exaggeration 👁️",
+      "text": "Mnemonic images must be {{c1::exaggerated}} in size, quantity, color, or sound to force the brain's attention systems to record them.",
+      "explanation": "Our brains discard thousands of ordinary experiences daily. Making an image giant, noisy, or funny triggers long-term storage.",
+      "spanish": "Las imágenes mnemotécnicas deben ser exageradas en tamaño o color para captar la atención del cerebro.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5064d4ff0855a42a",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Rule of Loci 🏰",
+      "text": "When placing images in a journey, ensure they are {{c1::physically interacting}} with the environment of the locus (e.g. a giant apple squashing the sofa).",
+      "explanation": "If the image just floats in the air, the connection to the location is weak, making it harder to retrieve.",
+      "spanish": "Al colocar imágenes en un viaje, asegúrate de que interactúen físicamente con el entorno del lugar.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a734d3c933aad79b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "spaced_repetition",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Review Rule 🔄",
+      "text": "To cement a journey in long-term memory, Dominic O'Brien recommends the **Rule of Five**: review the journey after 5 minutes, 1 hour, {{c1::1 day}}, 1 week, and 1 month.",
+      "explanation": "A structured spaced repetition review schedule for keeping memory palaces durable.",
+      "spanish": "Para consolidar un viaje en la memoria, O'Brien recomienda la Regla de Cinco: revisar tras 5 min, 1 hora, 1 día, 1 semana y 1 mes.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4fc2e753d5dbf0f6",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "names",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Remembering Names 👤",
+      "text": "To remember names, use the **L.A.S.T.** method: {{c1::Listen}} to the name, {{c2::Associate}} it with a visual marker, {{c3::Store}} it on a feature of the person's face, and {{c4::Test}} yourself immediately.",
+      "explanation": "Storing the marker on a prominent facial feature (like a big nose or eyebrows) ensures the cue fires whenever you look at them.",
+      "spanish": "Para recordar nombres, usa L.A.S.T.: Escuchar (Listen), Asociar (Associate), Guardar (Store) y Evaluar (Test).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "54aff1a1a42da37f",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "cards",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Card Memorization 🃏",
+      "text": "To memorize a deck of cards, map each card to a Dominic System person/action. A deck of 52 cards is memorized along a journey of {{c1::26}} stages using Person-Action combinations.",
+      "explanation": "Card 1 (Person) + Card 2 (Action) = 1 stage. Reduces the number of loci needed by half.",
+      "spanish": "Para memorizar una baraja de cartas, asocia cada carta con una persona/acción del Sistema Dominic. Se necesitan 26 etapas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "850214c80cca8bd3",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "dominic_system",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Letter Code 🔢",
+      "text": "In the Dominic System, the letter code for the number 3 is {{c1::C}} and for the number 8 is {{c2::H}}.",
+      "explanation": "Mapping: 3 is 'C' (looks like C), 8 is 'H' (sounds like H/eight).",
+      "spanish": "En el Sistema Dominic, las letras para el 3 y el 8 son C y H.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a7b38fbd2977dff8",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "dates",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Remembering Dates 📅",
+      "text": "To memorize historical dates (e.g. 1914), split them into two 2-digit numbers (19 and 14) and encode them as a {{c1::Person-Action}} pair in your journey.",
+      "explanation": "19 = SN, 14 = AD. Encode as: Person SN performing Action of AD.",
+      "spanish": "Para memorizar fechas históricas, divídelas en dos números de 2 dígitos y codifícalas como un par Persona-Acción.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "34cb39c2bedfcce5",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Cognitive Maps 🏰",
+      "text": "Dominic O'Brien argues that memory palaces should rely on {{c1::real locations}} you have physically visited, as virtual or imagined spaces are less durable.",
+      "explanation": "Real places are deeply encoded in the brain's spatial hardware. Virtual spaces require active energy to maintain.",
+      "spanish": "O'Brien sostiene que los palacios de memoria deben basarse en lugares reales que hayas visitado.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "560e635bda538b18",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "interference",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Spacing 🔄",
+      "text": "When reviewing journeys, avoid reviewing the same palace multiple times in a single day, as this causes {{c1::ghost images}} (crossover interference between review sessions).",
+      "explanation": "Ghost images happen when old markers haven't decayed before you place new ones in the same location.",
+      "spanish": "Al revisar viajes, evita repasar el mismo palacio varias veces al día para evitar imágenes fantasma (interferencia).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "574c600d407ed07f",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "focus",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Focus 🧠",
+      "text": "Mnemonic encoding requires absolute {{c1::attention focus}} during the moment of association; if your mind wanders for 1 second, the link fails.",
+      "explanation": "Association is a high-attention process. A weak link cannot be retrieved.",
+      "spanish": "La codificación mnemotécnica requiere un enfoque de atención absoluto durante el momento de la asociación.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2af6cef49cb96270",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "sensory",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Sensory Integration 👁️",
+      "text": "Incorporate multiple senses into your markers (e.g., the coldness of ice, the smell of smoke, the sound of breaking glass) to increase the {{c1::density of neural links}}.",
+      "explanation": "Multi-sensory memory traces are far more robust than purely visual ones.",
+      "spanish": "Incorpora múltiples sentidos en tus marcadores para aumentar la densidad de los enlaces neuronales.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "48f7de97d9758fca",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "dominic_system",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Number peg System 🔢",
+      "text": "The Dominic System maps 0-9 to letters, which are then combined to form pairs: 0 = O, 1 = A, 2 = B, 3 = C, 4 = D, 5 = E, 6 = S, 7 = G, 8 = H, 9 = {{c1::N}}.",
+      "explanation": "The standard O'Brien letter code mapping.",
+      "spanish": "La correspondencia de letras del Sistema Dominic para el 9 es N.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2994d17d1865c341",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "binary",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Binary Numbers 🔢",
+      "text": "To memorize binary numbers (e.g. 110101), group them into {{c1::3-digit or 4-digit blocks}} and convert those blocks to decimal numbers before using the Dominic System.",
+      "explanation": "Reduces the number of items to memorize. E.g. binary 110 = decimal 6, which is mapped to a letter or peg.",
+      "spanish": "Para memorizar números binarios, agrúpalos en bloques de 3 o 4 dígitos y conviértelos a decimal.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "dbe30d1c86eb56df",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "journey_method",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Location choice 🏰",
+      "text": "A good journey should have clear, distinct stages that follow a {{c1::logical direction}} without backtracking or crossing paths.",
+      "explanation": "Backtracking causes confusion during retrieval. Keep the route linear (e.g., room by room, street by street).",
+      "spanish": "Un buen viaje debe tener etapas claras que sigan una dirección lógica sin retroceder ni cruzarse.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f3a419f5386ff48c",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "speed",
+        "source::brilliant_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Brilliant Memory: Mental Speed 🧠",
+      "text": "World Memory Champions achieve high speed by training their brains to make associations instantly, a skill called {{c1::cognitive flexibility}}.",
+      "explanation": "Speed comes from trusting your first creative association instead of over-analyzing.",
+      "spanish": "La velocidad de memorización se logra entrenando al cerebro para hacer asociaciones de forma instantánea.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "66197f7689adcf16",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "lukasa",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Lukasa 🪵",
+      "text": "In African Luba culture, a **Lukasa** is a handheld {{c1::wooden board covered in beads and shells}} used as a physical memory device to store tribal history and genealogies.",
+      "explanation": "The memory performer runs their fingers over the tactile layout of beads to retrieve specific stories and names. Tactile cues are highly durable.",
+      "spanish": "En la cultura Luba, un Lukasa es una tabla de madera cubierta de cuentas y conchas utilizada como dispositivo físico de memoria.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fe0db8221dfdcaf1",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "songlines",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Songlines 🗺️",
+      "text": "Australian Aboriginal peoples use **Songlines**—complex paths across the landscape where geographical features serve as {{c1::sacred memory places}} for storing survival data (water, plants, paths).",
+      "explanation": "Songlines combine journey methods with music and performance. Singing the song while walking the path retrieves the survival map.",
+      "spanish": "Los pueblos aborígenes australianos utilizan las líneas de canciones (Songlines): rutas donde los accidentes geográficos sirven como lugares de memoria.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e4f0e6f7181bb5b6",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "medieval",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Bestiary 🦁",
+      "text": "A medieval **Bestiary** is an illustrated book of beasts used as a memory helper, where each animal's characteristics serve as a {{c1::visual cue}} to store moral or scientific lessons.",
+      "explanation": "The strange, often monstrous descriptions of animals made them highly memorable visual markers for monks.",
+      "spanish": "Un Bestiario medieval es un libro ilustrado de bestias donde cada animal sirve como clave visual para recordar lecciones.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2d631d64fb195667",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Winter Counts 📅",
+      "text": "Native American Plains tribes recorded history using **Winter Counts**—pictographs drawn on hide skins representing the {{c1::most memorable event}} of each year.",
+      "explanation": "Served as a physical timeline calendar. The keeper of the hide could recite decades of history by pointing to the drawings.",
+      "spanish": "Las tribus de las llanuras americanas registraban su historia usando Winter Counts: pictogramas que representan el evento más memorable de cada año.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2ffaa106c9eef309",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "tactile",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Tactile Cues 🪵",
+      "text": "Memory Craft highlights the value of {{c1::tactile and physical cues}} (like touching carved marks or handling beads) alongside visual imagery to double-code memory.",
+      "explanation": "Engaging the touch sensors in your hands adds a physical spatial channel of retrieval.",
+      "spanish": "Memory Craft destaca el valor de las claves táctiles y físicas junto con las imágenes visuales para codificar el recuerdo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f1dba091154e1e71",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Memory Spaces 🏰",
+      "text": "Lynne Kelly recommends building small, physical memory spaces (like a {{c1::Memory Tray}} or a decorated walk path in your garden) to memorize facts.",
+      "explanation": "You don't need giant journeys; you can populate a small tray of unique objects on your desk to hold 20-30 concepts.",
+      "spanish": "Lynne Kelly recomienda construir pequeños espacios físicos de memoria, como una bandeja de memoria (Memory Tray).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3ae8eaa141f67f78",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "lukasa",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: The Lukasa Method 🪵",
+      "text": "To adapt the Lukasa system, you can use a small, decorated board or a {{c1::handheld clay tablet}} with carved patterns to memorize list data.",
+      "explanation": "Running your thumb over physical ridges while recalling names binds the data to a motor action.",
+      "spanish": "Para adaptar el sistema Lukasa, puedes usar una pequeña tabla decorada o una tableta de arcilla con patrones tallados.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "294f6e257c4674de",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Oral Tradition 🗣️",
+      "text": "Indigenous cultures maintain vast catalogs of scientific data without writing by using performance, song, dance, and {{c1::mythology}} as memory tools.",
+      "explanation": "Mythological stories are not just religion; they are memory wrappers designed to store environmental safety data.",
+      "spanish": "Las culturas indígenas mantienen catálogos científicos sin escritura mediante cantos, bailes y mitología.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "af4c2285b72355d5",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "pegs",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Vowel pegging 🔢",
+      "text": "To store lists, use **vowel pegging** or spelling codes, mapping the first letter of words to a sequence of {{c1::consonants}}.",
+      "explanation": "Mnemonic spelling codes allow you to create words from abstract lists.",
+      "spanish": "Para almacenar listas, utiliza la asociación de vocales o códigos de ortografía mnemotécnicos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f468f8143f373585",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "medieval",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: The Bestiary Trick 🦁",
+      "text": "To memorize classification systems (like biological orders or syntax rules), assign each category to a {{c1::monstrous animal}} with exaggerated features.",
+      "explanation": "Medieval scholars used grotesque or funny animal drawings because they knew the brain forgets normal layouts.",
+      "spanish": "Para memorizar sistemas de clasificación, asigna cada categoría a un animal monstruoso con rasgos exagerados.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6453dd99277d833b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "songlines",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Songlines Adaptation 🗺️",
+      "text": "You can build a personal Songline by mapping concepts to a {{c1::walk through your neighborhood}}, composing a simple rhyme or song that describes each stage.",
+      "explanation": "Combining the rhythm of walking, singing, and spatial cues forms an extremely durable memory trace.",
+      "spanish": "Puedes construir una Songline personal asignando conceptos a un paseo por tu vecindario y creando una rima.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4ae18bbf46dcda82",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "lukasa",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Lukasa Beads 🪵",
+      "text": "On a Lukasa, a large bead represents a {{c1::major event or ruler}}, while smaller surrounding beads represent details or descendants.",
+      "explanation": "A physical hierarchy of data, similar to mind maps but tactile.",
+      "spanish": "En un Lukasa, una cuenta grande representa un evento importante, mientras que las pequeñas representan detalles.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c4f69d10c9a5a0a3",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "hand_system",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Hand Mnemonic ✋",
+      "text": "The **Hand Mnemonic** involves mapping items to the joints, tips, and folds of your {{c1::fingers and palm}}, providing an instant 20-stage journey that is always with you.",
+      "explanation": "Used historically by monks for musical scales and calendar calculations.",
+      "spanish": "El mnemónico de la mano implica asignar elementos a las articulaciones, yemas y pliegues de tus dedos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2e4b1c2bef4865dc",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Physical Objects 🏺",
+      "text": "Lynne Kelly suggests that historical artifacts like carved stone balls or decorated pottery were not art, but {{c1::portable memory devices}}.",
+      "explanation": "Provides a new anthropological framework for understanding prehistory artifacts.",
+      "spanish": "Lynne Kelly sugiere que muchos artefactos históricos eran en realidad dispositivos de memoria portátiles.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5966e17d06dcfd96",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "storytelling",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Storytelling Wrapper 🗣️",
+      "text": "To prevent data decay over generations, wrap scientific information inside a {{c1::narrative story}} with memorable characters.",
+      "explanation": "Stories follow cause-and-effect logic, making them much easier to remember than disconnected facts.",
+      "spanish": "Para evitar el deterioro de los datos, envuelve la información científica dentro de una historia narrativa.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c3075bc79fb1f811",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Landscape Memory 🗺️",
+      "text": "For indigenous peoples, the landscape is not just space; it is the {{c1::library}} that holds all tribal knowledge.",
+      "explanation": "Without writing, nature itself becomes the memory palace that houses the culture's knowledge.",
+      "spanish": "Para los pueblos indígenas, el paisaje es la biblioteca que contiene todo el conocimiento tribal.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1322a9c386135039",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "sensory",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Sensory Memory Craft 🧠",
+      "text": "Combining visual, auditory, and tactile memory channels is called {{c1::multi-sensory encoding}}.",
+      "explanation": "The more areas of the brain involved in encoding, the more retrieval paths you create.",
+      "spanish": "La combinación de canales de memoria visuales, auditivos y táctiles se llama codificación multisensorial.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "47adb04e72b2e6d5",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "anchoring",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Winter Count Calendar 📅",
+      "text": "A Winter Count pictograph acts as an {{c1::anchor cue}} that prompts the memory keeper to recall all the secondary events of that year.",
+      "explanation": "One drawing acts as a index key for a whole network of associated memories.",
+      "spanish": "Un pictograma de Winter Count actúa como una clave de anclaje para recordar todos los eventos secundarios de ese año.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f81600a88290d21f",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "tactile",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Lukasa Bead Texture 🪵",
+      "text": "The beads on a Lukasa differ in size, color, height, and {{c1::texture}} (smooth shell vs rough stone) to create distinct tactile markers.",
+      "explanation": "Texture increases the number of sensory distinctions available to the memory performer.",
+      "spanish": "Las cuentas de un Lukasa difieren en tamaño, color y textura para crear marcadores táctiles distintos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ceaf7a74e4d92e67",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::memory_craft"
+      ]
+    },
+    "content": {
+      "scenario": "Memory Craft: Portable Palaces 🏰",
+      "text": "A pocket-sized book, a deck of cards, or a set of keys can serve as a {{c1::portable memory palace}} if you assign a permanent meaning to each item.",
+      "explanation": "Allows you to carry complex data packages in your pocket.",
+      "spanish": "Un libro de bolsillo, una baraja o un llavero pueden servir como palacio de memoria portátil.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "75fd66224ac423e6",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "pao_system",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: PAO System 🔢",
+      "text": "The **PAO System** (Person-Action-Object) maps numbers (usually 00-99) to a unique compound image consisting of a {{c1::Person}}, doing a specific {{c2::Action}}, with a physical {{c3::Object}}.",
+      "explanation": "Allows you to compress 6 digits into a single mental image. Digit 1-2 = Person, 3-4 = Action, 5-6 = Object.",
+      "spanish": "El Sistema PAO (Person-Action-Object) asocia números con una imagen compuesta por una persona, una acción y un objeto.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "24d44420412ad239",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "pao_system",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: PAO Compression 🔢",
+      "text": "To encode the 6-digit number 158099 using PAO, combine the **Person** of 15, the **Action** of 80, and the **Object** of 99 into {{c1::a single compound scene}}.",
+      "explanation": "If 15 = Albert Einstein (chalking), 80 = Harry Houdini (escaping chains), and 99 = Darth Vader (holding a lightsaber), the scene is: Albert Einstein (15) escaping chains (80) while holding a lightsaber (99).",
+      "spanish": "Para codificar un número de 6 dígitos con PAO, se combina la persona del primer par, la acción del segundo y el objeto del tercero.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8f10f7817da527be",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: US Memory Championship 🏆",
+      "text": "Joshua Foer's journey from journalist to winner of the {{c1::US Memory Championship}} is the narrative focus of Moonwalking with Einstein.",
+      "explanation": "Demonstrates that extraordinary memory is a trained skill, not an innate talent.",
+      "spanish": "El viaje de Joshua Foer de periodista a ganador del Campeonato de Memoria de EE.UU. es el foco narrativo del libro.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0f063c8f7d2a4117",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Memory Palace 🏰",
+      "text": "The main technique used by mental athletes is the {{c1::Memory Palace}}, which exploits our natural evolutionary brain structures for spatial navigation.",
+      "explanation": "Placing bizarre images along a route in a familiar building.",
+      "spanish": "La técnica principal utilizada por los atletas mentales es el Palacio de la Memoria.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bcb3c48e7eb3775d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: The Major System 🔢",
+      "text": "The Major System maps digits to consonant sounds: 1 = t/d, 2 = n, 3 = m, 4 = r, 5 = l, 6 = sh/ch/j, 7 = k/g, 8 = f/v, 9 = p/b, 0 = {{c1::z/s}}.",
+      "explanation": "Standard code used to convert numbers into memorable words.",
+      "spanish": "El Sistema Mayor asocia dígitos con sonidos consonánticos (por ejemplo, 1 es t/d, 2 es n, y 0 es z/s).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a0ee5553649087be",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "sensory",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Synesthesia 🧠",
+      "text": "Memory experts often develop a form of artificial {{c1::synesthesia}}—blending visual, auditory, and tactile sensations during encoding.",
+      "explanation": "Makes the memory traces multidimensional and easier to retrieve.",
+      "spanish": "Los expertos en memoria desarrollan sinestesia artificial, mezclando sensaciones visuales, auditivas y táctiles.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3196e0e42ef01ccb",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "ebbinghaus",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Forgetting Curve 📈",
+      "text": "The **Hermann Ebbinghaus Forgetting Curve** shows that memory decay occurs {{c1::exponentially}} right after learning, unless review sessions are scheduled.",
+      "explanation": "You lose up to 60-80% of new information within 24 hours without review.",
+      "spanish": "La Curva del Olvido de Ebbinghaus muestra que el deterioro de la memoria ocurre exponencialmente justo después del aprendizaje.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "78e6b64d62ee105b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "plateau",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Mental Plateau 🧠",
+      "text": "To break through a performance plateau in memory training, you must push yourself to practice at a speed {{c1::faster than is comfortable}}, making mistakes deliberately.",
+      "explanation": "Similar to typing practice; you must force yourself past the automated, comfortable speed limit to grow new neural capacity.",
+      "spanish": "Para superar una meseta de rendimiento en la memoria, debes practicar a una velocidad más rápida de lo cómodo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c3b1586b846c92ac",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "visualization",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Sensory Anchors 🧠",
+      "text": "The brain remembers things that are **grotesque, sexual, or humorous** because these features trigger our evolutionary {{c1::survival and attention circuits}}.",
+      "explanation": "The amygdala flags emotionally charged events as highly important for memory consolidation.",
+      "spanish": "El cerebro recuerda lo grotesco, sexual o gracioso porque estos rasgos activan los circuitos de supervivencia y atención.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ba0634e452eb997b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "mastery",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: The OK Plateau 🧠",
+      "text": "The {{c1::OK Plateau}} is the state where a skill becomes automated and you stop improving (e.g. typing or driving), which can only be broken by deliberate practice.",
+      "explanation": "Automation makes performance easy but prevents progress. Push past comfort to improve.",
+      "spanish": "El 'OK Plateau' es el estado en el que una habilidad se automatiza y dejas de mejorar, a menos que uses práctica deliberada.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ddbef5e604e94296",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: S. (Solomon Shereshevsky) 👤",
+      "text": "Joshua Foer discusses **S.**, a famous Russian mnemonist who had a virtually {{c1::limitless memory}} due to profound, automatic synesthesia.",
+      "explanation": "S. could remember lists of 70 words decades later, but struggled with abstract concepts and metaphors because he couldn't forget details.",
+      "spanish": "El libro analiza a S., un mnemonista ruso con una memoria prácticamente ilimitada debido a una sinestesia profunda.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9f30c951104564f3",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "neuroscience",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: The Ribot Law 🧠",
+      "text": "The **Ribot Law** of retrograde amnesia states that {{c1::recent memories}} are lost first during brain damage, while oldest memories are most resistant.",
+      "explanation": "Older memories have had years to undergo systemic consolidation, building wider networks in the cortex.",
+      "spanish": "La Ley de Ribot de la amnesia retrógrada establece que los recuerdos recientes se pierden primero en caso de daño cerebral.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7b5809746a02400f",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "science",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Eidetic Memory Myth 🧠",
+      "text": "The book argues that true **eidetic memory** (photographic memory) in adults is a {{c1::myth}}, and all memory champions rely on learned techniques rather than structural brain differences.",
+      "explanation": "Scientific testing has failed to find adults who can capture pages of text like a camera without training.",
+      "spanish": "El libro sostiene que la verdadera memoria eidética (fotográfica) en adultos es un mito.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5e1384d1ece192a3",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "neuroscience",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Spatial Memory 🏰",
+      "text": "The brain's grid cells and place cells in the {{c1::hippocampus}} are the biological basis for the effectiveness of the Journey Method.",
+      "explanation": "We possess specialized neural hardware dedicated to spatial mapping, which we hijack to store abstract concepts.",
+      "spanish": "Las células de red y de lugar en el hipocampo son la base biológica del Método del Viaje.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0bbea0afa8786ff9",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "chunking",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Chunking 🧠",
+      "text": "Joshua Foer explains that {{c1::chunking}} is the process of grouping individual data items into larger, meaningful packages, bypassing working memory limits.",
+      "explanation": "Allows chess masters to remember board layouts because they see 'defensive setups' instead of individual pieces.",
+      "spanish": "Joshua Foer explica que el chunking es el proceso de agrupar elementos individuales en paquetes significativos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "19e7389bdfef936e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "association",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Baker/baker Paradox 👤",
+      "text": "The **Baker/baker Paradox** shows that the brain remembers the occupation 'baker' much better than the name 'Baker', because the occupation is linked to a rich {{c1::network of visual associations}} (bread, white hat, smell).",
+      "explanation": "Names are abstract; occupations are concrete and experiential.",
+      "spanish": "La paradoja de Baker/baker muestra que el cerebro recuerda mejor la profesión 'panadero' (baker) que el apellido 'Baker'.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4898ea1fb07984d1",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: The Major System Digit 2 🔢",
+      "text": "In the Major System, the digit 2 is represented by the consonant sound {{c1::n}}.",
+      "explanation": "Mapping: 2 has two vertical strokes when written, resembling the letter 'n'.",
+      "spanish": "En el Sistema Mayor, el dígito 2 se representa por el sonido de la consonante n.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "eddcd4f1e4f059ad",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "interference",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Palace Cleanup 🏰",
+      "text": "To reuse a memory palace for a new list, you must allow the old visual markers to {{c1::decay / fade away}} over a few days.",
+      "explanation": "Prevents cognitive interference. Champions have multiple palaces that they rotate.",
+      "spanish": "Para reutilizar un palacio de memoria, debes permitir que los marcadores anteriores se desvanezcan.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "df353f8643c4945b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "mastery",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: Deliberate Practice Rule 🧠",
+      "text": "Anders Ericsson defines **Deliberate Practice** as requiring a clear goal, high focus, immediate feedback, and working at the {{c1::edge of your ability}}.",
+      "explanation": "You don't improve by repeating what is easy; you improve by targeting mistakes.",
+      "spanish": "Anders Ericsson define la práctica deliberada como trabajar en el límite de tu capacidad.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "392b5a865fc0bd6a",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "journey_method",
+        "source::moonwalking_with_einstein"
+      ]
+    },
+    "content": {
+      "scenario": "Moonwalking: The Memory Palace Route 🏰",
+      "text": "When choosing a route for a memory palace, it is best to follow a {{c1::linear path}} (e.g. clockwise around a room) to ensure no stages are missed.",
+      "explanation": "A structured route prevents you from skipping locations during retrieval.",
+      "spanish": "Al elegir una ruta para un palacio de memoria, es mejor seguir un camino lineal.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7fd1dd1404b74023",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Simonides of Ceos 🏛️",
+      "text": "The legendary inventor of the art of memory is **Simonides of Ceos**, who identified the bodies of banquet victims by recalling {{c1::where they were sitting}}.",
+      "explanation": "This event established the fundamental principle that memory is organized spatially (loci) and visually (imagines).",
+      "spanish": "El inventor legendario del arte de la memoria es Simónides de Ceos, quien identificó a las víctimas de un banquete recordando dónde estaban sentadas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9c22d9744d656cf3",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Giulio Camillo 🏛️",
+      "text": "Renaissance scholar Giulio Camillo designed a **Memory Theater**—a physical wooden structure where the spectator stands on the stage and looks at the auditorium, which represents {{c1::the entire universe of knowledge}}.",
+      "explanation": "The theater was a physical memory palace. By standing in the center and looking at the paintings and drawers, the scholar could retrieve all human knowledge.",
+      "spanish": "Giulio Camillo diseñó un Teatro de la Memoria: una estructura física que representa todo el universo del conocimiento.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0a9958b5d1bbc269",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Giordano Bruno 🏛️",
+      "text": "Giordano Bruno created complex memory systems based on {{c1::astrological wheels}} and concentric rings, combining Lullist logic with classical mnemonics.",
+      "explanation": "Bruno's wheels rotated to generate new combinations of ideas, acting as a cognitive computer to synthesize concepts.",
+      "spanish": "Giordano Bruno creó complejos sistemas de memoria basados en ruedas astrológicas y anillos concéntricos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a3873fe87b0533c8",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "ad_herennium",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Classical Mnemonics 🏛️",
+      "text": "The classical memory system described in the Roman text **Ad Herennium** recommends using distinct, quiet, and well-lit locations spaced about {{c1::thirty feet}} apart.",
+      "explanation": "Proper spacing between loci prevents visual markers from overlapping or causing confusion during retrieval.",
+      "spanish": "El sistema clásico de memoria descrito en 'Ad Herennium' recomienda usar lugares espaciados a unos treinta pies de distancia.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "862245fb8bb7b483",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "ad_herennium",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Imagines Agentes 🏛️",
+      "text": "In Latin mnemonics, the visual markers placed in loci are called **imagines agentes**, which translates to {{c1::active / moving images}}.",
+      "explanation": "A static image is easily forgotten. The images must be doing actions, experiencing pain, or performing dramatic scenes.",
+      "spanish": "En la mnemotecnia latina, los marcadores visuales se llaman 'imagines agentes' (imágenes activas o en movimiento).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "31d0372991e71a89",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Lullism 🏛️",
+      "text": "The philosophical memory system developed by Ramon Llull (Lullism) used {{c1::concentric paper wheels}} containing letters representing concepts to calculate and prove theological truths.",
+      "explanation": "Unlike the classical journey method, Lullism focused on logical synthesis and combinatorics, serving as a precursor to computer logic.",
+      "spanish": "El sistema desarrollado por Ramon Llull (Lulismo) usaba ruedas de papel concéntricas para calcular verdades teológicas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8d291ae728b13299",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "rhetoric",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Memory and Rhetoric 🏛️",
+      "text": "In ancient Rome, memory was considered one of the **five pillars of rhetoric**, alongside Invention, Arrangement, Style, and {{c1::Delivery}}.",
+      "explanation": "Orators had to deliver 3-hour speeches entirely from memory without notes. They did this by walking through memory palaces during their speeches.",
+      "spanish": "En la antigua Roma, la memoria era considerada uno de los cinco pilares de la retórica.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5d922da6bffaa9f4",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Dialectical Memory 🏛️",
+      "text": "During the Reformation, Ramists attacked the classical memory system, replacing visual images with {{c1::logical hierarchies and outlines}}.",
+      "explanation": "Ramus argued that visual palaces were occult and messy, preferring structured textual tables (early mind maps).",
+      "spanish": "Durante la Reforma, los ramistas atacaron el sistema clásico, reemplazando las imágenes visuales por esquemas lógicos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2898064bab6db8ff",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: The Corporeal Similitude 🏛️",
+      "text": "Thomas Aquinas recommended the use of **corporeal similitudes**—concrete physical images—to remember abstract {{c1::theological concepts}}.",
+      "explanation": "Christianized the classical memory system, making it a tool for remembering virtues, vices, and scripture.",
+      "spanish": "Tomás de Aquino recomendó el uso de similitudes corporales (imágenes físicas concretas) para recordar conceptos teológicos abstractos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "eb324b4414c540d5",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "journey_method",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Spatial Continuity 🏛️",
+      "text": "To ensure correct retrieval order, a memory palace must preserve {{c1::spatial continuity}}—a single, unbroken path through the building.",
+      "explanation": "Teleporting between rooms or crossing paths causes retrieval failures.",
+      "spanish": "Para asegurar el orden correcto, un palacio de memoria debe preservar la continuidad espacial.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0430c0e459839740",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "ad_herennium",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Memory for Words 🏛️",
+      "text": "Classical texts distinguish between **memoria rerum** (memory for things/concepts) and **memoria verborum** ({{c1::memory for words}}), warning that word-for-word memory is much harder.",
+      "explanation": "Memoria rerum uses 1 image per concept. Memoria verborum requires an image for every single word, which is slow and rarely useful.",
+      "spanish": "Los textos clásicos distinguen entre memoria rerum (de conceptos) y memoria verborum (de palabras).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ce9e01e0db43265c",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Hermetic Memory 🏛️",
+      "text": "In the Renaissance, memory systems became linked to **Hermeticism**—the belief that by representing the universe in your mind, you could gain {{c1::magical control}} over it.",
+      "explanation": "Giordano Bruno's systems were designed to internalize the astral patterns of the cosmos to unlock divine power.",
+      "spanish": "En el Renacimiento, los sistemas de memoria se vincularon al Hermetismo, buscando control sobre el universo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "effdc577de9ae9fb",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Quiet Loci 🏛️",
+      "text": "The places (loci) selected for a memory palace must be quiet and free from crowds, as {{c1::visual noise}} and human traffic erase the mental markers.",
+      "explanation": "Avoid using active, crowded spaces like busy markets as locations.",
+      "spanish": "Los lugares seleccionados para un palacio de memoria deben ser tranquilos y libres de multitudes.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "844a82127d97e259",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Difference in Loci 🏛️",
+      "text": "Each location in your memory palace must be {{c1::highly distinct}} in shape, size, and features, to prevent your mind from confusing different stages.",
+      "explanation": "If all rooms or columns look identical (e.g. a long corridor of white doors), you will misplace your images.",
+      "spanish": "Cada ubicación en tu palacio de memoria debe ser muy distinta para evitar confusiones.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "007816b723e0a4c7",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Memory and Print 🏛️",
+      "text": "The invention of the **printing press** in the 15th century eventually led to the {{c1::decline}} of the art of memory as an essential scholarly skill.",
+      "explanation": "Once books became cheap and accessible, the need to hold libraries of data inside one's head disappeared.",
+      "spanish": "La invención de la imprenta en el siglo XV provocó el declive del arte de la memoria como habilidad esencial.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4f17c367796669ac",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "ad_herennium",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Memory for Things 🏛️",
+      "text": "The Ad Herennium suggests that for **memoria rerum** (things), we should create images that represent the {{c1::actions or core arguments}} of the speech.",
+      "explanation": "A single symbol (e.g. a sword for a battle, a scales for a trial) is enough to recall a whole section.",
+      "spanish": "Ad Herennium sugiere que para memoria rerum creamos imágenes que representen las acciones de nuestro discurso.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "92dd729b35877bc4",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Cabalistic Memory 🏛️",
+      "text": "Renaissance magi like Pico della Mirandola combined classical mnemonics with the **Cabala**, using Hebrew letters as {{c1::numerical and conceptual pegs}}.",
+      "explanation": "Synthesized Jewish mysticism with classical memory architectures.",
+      "spanish": "Magos del Renacimiento como Pico della Mirandola combinaron la mnemotecnia con la Cábala.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "68fb6e5649d1deca",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "philosophy",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Simonides' Logic 🏛️",
+      "text": "Simonides realized that the sense of {{c1::sight}} is the most powerful of all human senses, and that memory is order combined with visual images.",
+      "explanation": "Foundational logic of all modern memory techniques.",
+      "spanish": "Simónides se dio cuenta de que el sentido de la vista es el más poderoso y que la memoria es orden más imágenes.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "91e28ba989dcbf0a",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Loci Creation 🏛️",
+      "text": "If you run out of real locations, classical authors suggest you can create {{c1::imagined / virtual places}} in your mind, provided they are structured logically.",
+      "explanation": "Known as 'loci ficti'. Real spaces are preferred, but virtual architecture works if detailed.",
+      "spanish": "Si te quedas sin ubicaciones reales, los autores clásicos sugieren que puedes crear lugares imaginados.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7ed85b4e2d8f6a72",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "history",
+        "source::art_of_memory"
+      ]
+    },
+    "content": {
+      "scenario": "The Art of Memory: Memory and Ethics 🏛️",
+      "text": "In the Middle Ages, memorizing the virtues and vices was considered a moral duty, making memory a key part of {{c1::ethics}} rather than just rhetoric.",
+      "explanation": "Having the rules of behavior instantly accessible in memory was crucial for resisting temptation.",
+      "spanish": "En la Edad Media, memorizar las virtudes y vicios se consideraba un deber moral y parte de la ética.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "33e40c751e73c53c",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "link_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Link System 🔗",
+      "text": "The **Link System** is a memory technique where you associate the first item in a list to the second, the second to the third, and so on, creating a {{c1::chain of associations}}.",
+      "explanation": "Useful for short lists. If you lose one link, however, you risk losing the rest of the chain, which is its main weakness.",
+      "spanish": "El Sistema de Enlace (Link System) es una técnica donde asocias el primer elemento de una lista con el segundo, y así sucesivamente.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "23312bce5cfc3b3d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "peg_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Peg System 🔗",
+      "text": "The **Peg System** uses a pre-memorized list of target words (pegs) mapped to numbers, allowing you to associate new items to these pegs to remember them in {{c1::any order}}.",
+      "explanation": "Unlike the link system, if you forget item 4, you can still recall item 5 because it is anchored to peg 5.",
+      "spanish": "El Sistema de Clavijas (Peg System) utiliza una lista de palabras clave asociadas a números para recordar elementos en cualquier orden.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "27c342d4304002cc",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Major System Digit 3 🔢",
+      "text": "In the phonetic Major System, the digit 3 is represented by the consonant sound {{c1::m}}.",
+      "explanation": "Mapping: The letter 'm' has three downstrokes.",
+      "spanish": "En el Sistema Mayor, el dígito 3 está representado por la letra m.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3cf745222d0a4d15",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Major System Digit 4 🔢",
+      "text": "In the phonetic Major System, the digit 4 is represented by the consonant sound {{c1::r}}.",
+      "explanation": "Mapping: The word 'four' ends with the letter 'r'.",
+      "spanish": "En el Sistema Mayor, el dígito 4 está representado por la letra r.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "69cc31de03557734",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Major System Digit 5 🔢",
+      "text": "In the phonetic Major System, the digit 5 is represented by the consonant sound {{c1::l}}.",
+      "explanation": "Mapping: Roman numeral L represents 50. Hold out 5 fingers and the thumb/index make an 'L'.",
+      "spanish": "En el Sistema Mayor, el dígito 5 está representado por la letra l.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b53c43a61127624d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "visualization",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Action-Link 🔗",
+      "text": "To link two items, make the association {{c1::illogical and action-oriented}} (e.g. instead of a pencil lying on a book, picture a giant pencil writing on a book that is screaming).",
+      "explanation": "Action and bizarre events capture attention. Logical images are ignored by the brain.",
+      "spanish": "Para enlazar dos elementos, haz la asociación ilógica y orientada a la acción.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "47e17dea371d04f0",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Major System Digit 1 🔢",
+      "text": "In the Major System, the digit 1 is represented by the consonant sounds {{c1::t or d}}.",
+      "explanation": "Mapping: 't' and 'd' have a single vertical stroke.",
+      "spanish": "En el Sistema Mayor, el dígito 1 se representa por los sonidos t o d.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1fed94b04da2a4d5",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Major System Digit 8 🔢",
+      "text": "In the Major System, the digit 8 is represented by the consonant sounds {{c1::f or v}}.",
+      "explanation": "Mapping: Script 'f' has two loops, resembling an 8.",
+      "spanish": "En el Sistema Mayor, el dígito 8 se representa por los sonidos f o v.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "af55c82a7d4c2331",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "substitute_word",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Substitute Word 🧠",
+      "text": "To memorize abstract names or foreign words, use the **Substitute Word System**—replacing the abstract word with a concrete word that {{c1::sounds similar}}.",
+      "explanation": "For example, to remember 'Maryland', substitute with 'marry land' (visualize a wedding on a plot of grass).",
+      "spanish": "Para memorizar nombres abstractos, usa el Sistema de Palabras Sustitutas, reemplazando la palabra por otra que suene similar.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4dde87c24b9b543d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "names",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Remembering Names 👤",
+      "text": "When meeting someone, look for an **outstanding feature** on their face (e.g. hairline, nose, chin) and link your {{c1::name-association image}} directly to that feature.",
+      "explanation": "The face itself becomes the trigger. When you look at them, the outstanding feature prompts the image, which recalls the name.",
+      "spanish": "Al conocer a alguien, busca un rasgo destacado en su rostro y vincula la imagen de asociación de su nombre a ese rasgo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "75108654fd1e02cf",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "cards",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Remembering Cards 🃏",
+      "text": "To memorize playing cards, map suits to consonants: Spades = S, Clubs = C, Diamonds = D, Hearts = H. The card 2 of Diamonds (2D) becomes consonant pair N-D, which can be peg-word {{c1::Nod}}.",
+      "explanation": "Digit + suit mapping turns cards into standard Major System peg words.",
+      "spanish": "Para memorizar cartas, asocia los palos con consonantes y usa el Sistema Mayor.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "55d4ca267529e579",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "peg_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Peg Word 1-10 🔗",
+      "text": "The standard number-rhyme peg list for 1-3 is: 1 = {{c1::run}}, 2 = {{c2::shoe}}, 3 = {{c3::tree}}.",
+      "explanation": "Rhyming pegs are easy to learn for beginners.",
+      "spanish": "La lista de clavijas por rima para 1-3 es: 1 = run (correr), 2 = shoe (zapato), 3 = tree (árbol).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f79e287acf191d3e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "health",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Memory and Age 🧠",
+      "text": "Harry Lorayne argues that memory does not naturally decline with age; rather, it declines due to {{c1::lack of mental exercise}} and focus.",
+      "explanation": "The brain preserves its neuroplasticity if challenged with active learning tasks.",
+      "spanish": "Harry Lorayne sostiene que la memoria no disminuye naturalmente con la edad, sino por falta de ejercicio mental.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "14d0d491023c6f15",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Major System Digit 7 🔢",
+      "text": "In the Major System, the digit 7 is represented by the consonant sounds {{c1::k or g}} (hard sounds).",
+      "explanation": "Mapping: A capital 'K' can be formed by two 7s.",
+      "spanish": "En el Sistema Mayor, el dígito 7 está representado por los sonidos k o g (fuertes).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3ac5f037f68b7586",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Major System Digit 9 🔢",
+      "text": "In the Major System, the digit 9 is represented by the consonant sounds {{c1::p or b}}.",
+      "explanation": "Mapping: Mirror image of 9 is 'P', and upside down is 'b'.",
+      "spanish": "En el Sistema Mayor, el dígito 9 está representado por los sonidos p o b.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4f98274034039aaa",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "numbers",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Remembering Numbers 🔢",
+      "text": "To memorize telephone numbers or PINs, convert the digits into Major System words and {{c1::link them in a story}}.",
+      "explanation": "A story links the digits in the correct order.",
+      "spanish": "Para memorizar números de teléfono o PINs, convierte los dígitos en palabras y enlázalas en una historia.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5ff70f8b1a127602",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "focus",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Observation 🧠",
+      "text": "To remember anything, you must first observe it. The authors state: 'Original observation is the {{c1::first step of memory}}'.",
+      "explanation": "If you don't focus your attention during encoding, there is no memory trace to retrieve. Most 'forgetting' is actually a failure to observe.",
+      "spanish": "Para recordar algo, primero debes observarlo. La observación original es el primer paso de la memoria.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "496cf76641368a55",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "rhetoric",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Key Word System 🗂️",
+      "text": "To memorize articles or speeches, select a {{c1::Key Word}} from each paragraph and link them sequentially using the Link System.",
+      "explanation": "One keyword serves as a retrieval cue for the entire paragraph concept.",
+      "spanish": "Para memorizar artículos o discursos, selecciona una Palabra Clave de cada párrafo y enlázalas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "085b8d3d5bc61702",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Major System Digit 6 🔢",
+      "text": "In the Major System, the digit 6 is represented by the consonant sounds {{c1::j, ch, sh, or soft g}}.",
+      "explanation": "Phonetic mapping for sibilant consonants.",
+      "spanish": "En el Sistema Mayor, el dígito 6 está representado por los sonidos j, ch, sh o g suave.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9aa864c822f899a6",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "visualization",
+        "source::the_memory_book"
+      ]
+    },
+    "content": {
+      "scenario": "The Memory Book: Association Rule 🧠",
+      "text": "When making an association, ensure the two items are {{c1::touching / interacting}} rather than just side-by-side.",
+      "explanation": "Physical interaction binds the two visual markers in the brain's visual processor.",
+      "spanish": "Al hacer una asociación, asegúrate de que los dos elementos estén tocándose o interactuando.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "85ff42c4b38aa4a5",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "unlimited_memory",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: TRUST Acronym 🔒",
+      "text": "The framework for memory development in Unlimited Memory is **TRUST**: {{c1::Think}}, {{c2::Record}}, {{c3::Undertake}}, {{c4::Synergize}}, and {{c5::Track}}.",
+      "explanation": "Kevin Horsley's 5-step model for training concentration, encoding, and practice.",
+      "spanish": "El marco para el desarrollo de la memoria en Unlimited Memory es 'TRUST': Think, Record, Undertake, Synergize y Track.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6fea1f71fb8cfe9a",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "focus",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Think 🔒",
+      "text": "In the TRUST framework, **Think** refers to clearing your mind, training your {{c1::concentration}}, and eliminating internal distractions before encoding.",
+      "explanation": "If your mind is full of worries, your attention is divided and you cannot form durable memory traces.",
+      "spanish": "En el marco TRUST, 'Think' se refiere a despejar tu mente, entrenar tu concentración y eliminar distracciones.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "79f7ee7917260f44",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "encoding",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Record 🔒",
+      "text": "In the TRUST framework, **Record** refers to the physical act of {{c1::encoding information using mnemonic tools}} like memory palaces or peg systems.",
+      "explanation": "Active encoding creates structured hooks for retrieval.",
+      "spanish": "En el marco TRUST, 'Record' se refiere al acto físico de codificar información utilizando herramientas mnemotécnicas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "36bec74f5c35950e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "focus",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Concentration 🧠",
+      "text": "Kevin Horsley defines concentration as {{c1::excluding all other thoughts}} to focus on a single task, a skill that must be trained like a muscle.",
+      "explanation": "Concentration is the prerequisite for memory. If you don't concentrate, you don't encode.",
+      "spanish": "Kevin Horsley define la concentración como la exclusión de todos los demás pensamientos para enfocarse en una sola tarea.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fcd455699d395ee0",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Memory Palaces 🏰",
+      "text": "Unlimited Memory recommends using **your own body** or your **car** as a quick, {{c1::portable 10-stage journey}} for short-term lists.",
+      "explanation": "Your body parts (feet, knees, hips, etc.) follow a natural order and are always accessible.",
+      "spanish": "Unlimited Memory recomienda usar tu propio cuerpo o tu coche como un viaje rápido de 10 etapas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ace925e91340dd18",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "psychology",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Self-Discipline 🧠",
+      "text": "To achieve extraordinary memory, you must take {{c1::personal responsibility}} for your mind's focus, refusing to make excuses about having a 'bad memory'.",
+      "explanation": "Believing you have a bad memory is a self-fulfilling prophecy. Memory is a trained capacity.",
+      "spanish": "Para lograr una memoria extraordinaria, debes asumir la responsabilidad personal del enfoque de tu mente.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2d7770a843b38cb4",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "visualization",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Association Rule 🧠",
+      "text": "Mnemonic associations must be **SEE**: {{c1::Senses}}, {{c2::Exaggeration}}, {{c3::Energy}}.",
+      "explanation": "Similar to Jonathan Levi's model, SEE outlines the three attributes of a durable visual marker.",
+      "spanish": "Las asociaciones mnemotécnicas deben ser 'SEE': Senses (Sentidos), Exaggeration (Exageración) y Energy (Energía).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6e0a6038bafcfbe4",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "peg_system",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Peg System 🔗",
+      "text": "A **Peg System** acts like a {{c1::mental wardrobe}} with permanent hangers (pegs) where you can hang new information as it arrives.",
+      "explanation": "Allows you to store and retrieve lists in any order.",
+      "spanish": "Un sistema de clavijas (Peg System) funciona como un armario mental con perchas permanentes.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e4e58394d5a7fb8c",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "spaced_repetition",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Spacing 🔄",
+      "text": "To prevent memory decay, review your memory palaces using a spaced schedule: after 10 minutes, 1 hour, {{c1::1 day}}, 3 days, and 1 week.",
+      "explanation": "An optimal review timeline to solidify information in the cortex.",
+      "spanish": "Para prevenir el deterioro de la memoria, revisa tus palacios utilizando un programa espaciado.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "62366a88621ea8c6",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "focus",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Focus Barrier 🧠",
+      "text": "The biggest barrier to concentration is {{c1::multitasking}}, which splits cognitive attention and makes deep encoding impossible.",
+      "explanation": "Every time you multitask, you reduce your memory capacity.",
+      "spanish": "La mayor barrera para la concentración es la multitarea (multitasking).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1c759d23356a4f50",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Word Pegs 1-10 🔗",
+      "text": "The phonetic Major System peg word for 1 is {{c1::tie}} (consonant sound t) and for 2 is {{c2::Noah}} (consonant sound n).",
+      "explanation": "Standard Major System word peg mappings.",
+      "spanish": "La palabra clave del Sistema Mayor para el 1 es tie y para el 2 es Noah.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "617dc5f94af1df6a",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Word Pegs 1-10 🔗",
+      "text": "The Major System peg word for 3 is {{c1::Ma}} (consonant m) and for 4 is {{c2::rye}} (consonant r).",
+      "explanation": "Standard Major System word peg mappings.",
+      "spanish": "La palabra clave del Sistema Mayor para el 3 es Ma y para el 4 es rye.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ce195a450e2fa477",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Word Pegs 1-10 🔗",
+      "text": "The Major System peg word for 5 is {{c1::law}} (consonant l) and for 6 is {{c2::shoe}} (consonant sh).",
+      "explanation": "Standard Major System word peg mappings.",
+      "spanish": "La palabra clave del Sistema Mayor para el 5 es law y para el 6 es shoe.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "82504fe0215a12a1",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Word Pegs 1-10 🔗",
+      "text": "The Major System peg word for 7 is {{c1::key}} (consonant k) and for 8 is {{c2::ivy}} (consonant v).",
+      "explanation": "Standard Major System word peg mappings.",
+      "spanish": "La palabra clave del Sistema Mayor para el 7 es key y para el 8 es ivy.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4584a8ffcb7721d0",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Word Pegs 1-10 🔗",
+      "text": "The Major System peg word for 9 is {{c1::bee}} (consonant b) and for 10 is {{c2::toes}} (consonants t-s).",
+      "explanation": "Standard Major System word peg mappings.",
+      "spanish": "La palabra clave del Sistema Mayor para el 9 es bee y para el 10 es toes.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "32f3ffb4fd2e8dd8",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "philosophy",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Active Memory 🧠",
+      "text": "Memory is not a passive container; it is an {{c1::active process}} of construction and reconstruction.",
+      "explanation": "You don't download memories; you build them using attention and association.",
+      "spanish": "La memoria no es un contenedor pasivo, sino un proceso activo de construcción.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a5a2bed162fbb988",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "reading",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Concentrated Reading 📚",
+      "text": "To remember what you read, stop at the end of every page and write down a {{c1::one-word summary}} or draw a visual symbol of the main concept.",
+      "explanation": "Forces you to pay attention and process the text actively.",
+      "spanish": "Para recordar lo que lees, detente al final de cada página y escribe un resumen de una sola palabra.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "87228de8d40b108c",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "psychology",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Trusting memory 🧠",
+      "text": "You must learn to {{c1::trust your memory}} during recall, rather than second-guessing yourself or using notes prematurely.",
+      "explanation": "Searching your mind build search pathways. Giving up early weakens recall strength.",
+      "spanish": "Debes aprender a confiar en tu memoria durante el recuerdo, sin dudar de ti mismo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "225b247ff0841988",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Spatial Anchoring 🏰",
+      "text": "When using a journey, always place the visual markers at {{c1::eye-level}} and make them the same size as the environment to keep the layout realistic.",
+      "explanation": "Keeps the spatial mapping stable in your mind.",
+      "spanish": "Al usar un viaje, coloca siempre los marcadores visuales a la altura de los ojos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2aa671c334e807d9",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "focus",
+        "source::unlimited_memory"
+      ]
+    },
+    "content": {
+      "scenario": "Unlimited Memory: Overcoming Boredom 🧠",
+      "text": "Boredom is a signal that your brain is not fully engaged. To overcome it, increase the {{c1::absurdity and sensory detail}} of your visual markers.",
+      "explanation": "If the images are boring, your mind will wander. Make them spectacular.",
+      "spanish": "El aburrimiento es una señal de falta de compromiso. Aumenta el absurdo de tus imágenes.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "id": "cdf895c00d7b5f32",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "incident_response"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Basics 🛡️: NIST IR Lifecycle",
+      "text": "The four main phases of the NIST Incident Response lifecycle are Preparation, Detection & Analysis, {{c1::Containment, Eradication & Recovery}}, and Post-Incident Activity.",
+      "explanation": "This cyclical process provides an industry-standard framework. Learning from the incident (post-incident activity) directly feeds back into improving the preparation phase.",
+      "spanish": "Las cuatro fases principales del ciclo de vida de Respuesta a Incidentes de NIST son Preparación, Detección y Análisis, Contención, Erradicación y Recuperación, y Actividad Post-Incidente.",
+      "usage": "NIST IR Lifecycle Flow: \n<div class=\"mermaid\">\ngraph TD\n  Prep[\"1. Preparation\"]\n  Detect[\"2. Detection & Analysis\"]\n  Contain[\"3. Containment, Eradication & Recovery\"]\n  Post[\"4. Post-Incident Activity\"]\n  Prep --> Detect\n  Detect --> Contain\n  Contain --> Post\n  Post --> Prep\nend\n</div>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fc3d6a05a965f3a9",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "forensics"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Basics 🛡️: Indicators",
+      "text": "An artifact indicating that a system has already been breached (e.g. file hashes, IP addresses) is called an {{c1::Indicator of Compromise (IoC)}}.",
+      "explanation": "IoCs are reactive evidence (like a known bad IP in connection logs) showing that an exploit was successful. In contrast, an Indicator of Attack (IoA) focuses on real-time behavior and active tactics.",
+      "spanish": "Un artefacto que indica que un sistema ya ha sido vulnerado (como hashes de archivos, direcciones IP) se denomina Indicador de Compromiso (IoC).",
+      "usage": "Examples of IoCs: <code>MD5 file hashes, malicious domains, modified registry paths</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "edd39997616a02d0",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "forensics"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Basics 🛡️: Forensics Volatility Framework",
+      "text": "The leading open-source command-line framework used by forensic analysts to analyze volatile RAM memory dumps is {{c1::Volatility}}.",
+      "explanation": "Volatility allows analysts to reconstruct the state of a system at the time of the RAM capture, extracting running processes, active network connections, kernel modules, and cached registry keys.",
+      "spanish": "El framework de línea de comandos de código abierto líder utilizado por los analistas forenses para analizar volcados de memoria RAM volátil es Volatility.",
+      "usage": "Typical workflow: <code>Capture RAM (using FTK Imager) → Analyze with Volatility CLI</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ab68f50e37565445",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "forensics",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Operations ⚙️: Volatility Process Enumeration",
+      "text": "In the Volatility 3 framework, to extract and list the running processes from a Windows memory dump, you run the plugin {{c1::`windows.pslist.PsList`}}.",
+      "explanation": "This plugin traverses the active process list linked-list structure in kernel memory (ActiveProcessLinks) to enumerate all processes that were active when memory was dumped.",
+      "spanish": "En el framework Volatility 3, para extraer y listar los procesos en ejecución desde un volcado de memoria de Windows, ejecutas el complemento windows.pslist.PsList.",
+      "usage": "Command: <code>vol -f memdump.raw windows.pslist.PsList</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6a02ae603566492e",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "incident_response"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Operations ⚙️: Containment Phase Objectives",
+      "text": "During an active malware outbreak, the primary objective of the containment phase is to {{c1::limit the scope of the incident}} to prevent further lateral spread.",
+      "explanation": "Containment must occur before eradication. Isolating the affected machines (e.g. disabling switch ports or applying network firewall blocks) prevents the threat from moving to other parts of the network.",
+      "spanish": "Durante un brote de malware activo, el objetivo principal de la fase de contención es limitar el alcance del incidente para evitar una mayor propagación lateral.",
+      "usage": "Actions: <code>Host isolation, shutting down network ports, suspending user accounts</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "19ed604acfddd705",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "forensics"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Operations ⚙️: Volatile Memory Priority",
+      "text": "According to the Order of Volatility, forensic analysts must capture {{c1::CPU registers and RAM}} first, as this data is lost immediately when the host machine is powered off.",
+      "explanation": "Disk forensics targets non-volatile data. Memory forensics targets volatile data (like running malware processes, unencrypted keys, or network connections) which is completely wiped during reboot or power down.",
+      "spanish": "De acuerdo con el Orden de Volatilidad, los analistas forenses deben capturar los registros de la CPU y la RAM primero, ya que estos datos se pierden inmediatamente cuando se apaga la máquina host.",
+      "usage": "Order: <code>1. Registers/Cache, 2. Routing Table/RAM, 3. Temporary Files, 4. Hard Drive</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bfce41c5ce849dfc",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "forensics",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Engineering 🛠️: Forensic Command Line Extraction",
+      "text": "In Volatility 3, to view the exact command-line arguments passed to running processes, you run the plugin {{c1::`windows.cmdline.CmdLine`}}.",
+      "explanation": "Process lists can show legitimate names (like svchost.exe), but looking at the command line arguments reveals if the process was launched from a suspicious path or executed malicious arguments.",
+      "spanish": "En Volatility 3, para ver los argumentos exactos de la línea de comandos pasados a los procesos en ejecución, ejecutas el complemento windows.cmdline.CmdLine.",
+      "usage": "Command: <code>vol -f memdump.raw windows.cmdline.CmdLine</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8b21e7148bdccd4b",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "incident_response"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Engineering 🛠️: Eradication Strategies",
+      "text": "During the eradication phase, rather than trying to delete individual malware files, the recommended best practice is to {{c1::rebuild the operating system from a trusted clean image}}.",
+      "explanation": "Malware can leave registry backdoors or persistence files that manual cleanup might miss. Rebuilding a clean host guarantees all malicious code is eradicated completely.",
+      "spanish": "Durante la fase de erradicación, en lugar de intentar eliminar archivos de malware individuales, la práctica recomendada es reconstruir el sistema operativo a partir de una imagen limpia y confiable.",
+      "usage": "Eradication checklist: <code>Rebuild OS from golden image → Restore data from clean backups → Patch host vulnerabilities</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "abdd22f065342158",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "incident_response"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Engineering 🛠️: Root Cause Analysis",
+      "text": "To prevent similar security breaches in the future, responders perform a {{c1::Root Cause Analysis (RCA)}} to identify the fundamental vulnerability that allowed the compromise.",
+      "explanation": "Simply restoring system services is not enough. RCA identifies *how* the attacker got in (e.g. unpatched exploit, spear phishing) so the security team can fix the underlying flaw.",
+      "spanish": "Para prevenir violaciones de seguridad similares en el futuro, los equipos de respuesta realizan un Análisis de Causa Raíz (RCA) para identificar la vulnerabilidad fundamental que permitió el compromiso.",
+      "usage": "Methods: <code>The 5 Whys, Fishbone diagrams, Event timelines</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "488876ff18279186",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "forensics",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "Incident Response Engineering 🛠️: Forensic Volatility Network Analysis",
+      "text": "In Volatility 3, to list active network connections and sockets from a Windows RAM dump, you use the plugin {{c1::`windows.netscan.NetScan`}}.",
+      "explanation": "The NetScan plugin scans for TCP connections, UDP listeners, and raw sockets, allowing the analyst to identify outbound connections back to the attacker's Command and Control (C2) servers.",
+      "spanish": "En Volatility 3, para listar sockets y conexiones de red activas desde un volcado de memoria RAM de Windows, utilizas el complemento windows.netscan.NetScan.",
+      "usage": "Command: <code>vol -f memdump.raw windows.netscan.NetScan</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

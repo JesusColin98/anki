@@ -1,0 +1,570 @@
+[
+  {
+    "id": "1976fba1093754e3",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "prompting"
+      ]
+    },
+    "content": {
+      "scenario": "Prompt Engineering: Zero-Shot vs Few-Shot 🎯",
+      "text": "Zero-shot {{c1::prompting}} asks the model to perform a task without examples, while few-shot prompting provides a small set of exemplars.",
+      "explanation": "The choice of prompting style strongly affects accuracy, consistency, and cost.",
+      "spanish": "El prompting zero-shot pide al modelo que haga una tarea sin ejemplos, mientras que few-shot proporciona un pequeño conjunto de ejemplares.",
+      "usage": "Common in classification, extraction, and transformation tasks."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c4f9422ddcc0cbb9",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "reasoning"
+      ]
+    },
+    "content": {
+      "scenario": "Prompt Engineering: Chain-of-Thought 🧠",
+      "text": "Chain-of-thought {{c1::prompting}} encourages the model to break a problem into intermediate reasoning steps.",
+      "explanation": "This can improve performance on arithmetic and symbolic tasks, though it can also increase cost and verbosity.",
+      "spanish": "El prompting de chain-of-thought anima al modelo a descomponer un problema en pasos intermedios de razonamiento.",
+      "usage": "Useful in reasoning-heavy workflows and complex planning tasks."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "508afa16b03cd9d5",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "reasoning"
+      ]
+    },
+    "content": {
+      "scenario": "Prompt Engineering: Self-Consistency 🔁",
+      "text": "Self-{{c1::consistency}} samples multiple reasoning paths and chooses the most frequent answer.",
+      "explanation": "It is a robust technique for improving reliability on multi-step tasks.",
+      "spanish": "La auto-consistencia toma múltiples caminos de razonamiento y elige la respuesta más frecuente.",
+      "usage": "Effective for math, logic, and constrained planning problems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f8f7068e9ee4fa50",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "evaluation",
+        "metrics"
+      ]
+    },
+    "content": {
+      "scenario": "Evaluation: Exact Match ✅",
+      "text": "{{c1::Exact Match}} measures whether the predicted answer matches the reference exactly.",
+      "explanation": "It is strict and useful for structured outputs, but it can underestimate semantically correct answers.",
+      "spanish": "Exact Match mide si la respuesta predicha coincide exactamente con la referencia.",
+      "usage": "Common in QA benchmarks and extraction tasks."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5f7214b0ff9f79a6",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "evaluation",
+        "nlg"
+      ]
+    },
+    "content": {
+      "scenario": "Evaluation: BLEU and ROUGE 📚",
+      "text": "BLEU and {{c1::ROUGE}} are classic text-generation metrics that compare overlap with reference outputs.",
+      "explanation": "They are useful but imperfect for measuring fluency, faithfulness, and usefulness.",
+      "spanish": "BLEU y ROUGE son métricas clásicas de generación de texto que comparan solapamiento con salidas de referencia.",
+      "usage": "Applied in summarization, translation, and retrieval evaluation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "738765d085109437",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "evaluation",
+        "ranking"
+      ]
+    },
+    "content": {
+      "scenario": "Evaluation: nDCG 📊",
+      "text": "nDCG evaluates {{c1::ranking}} quality by rewarding relevant documents higher in the result list.",
+      "explanation": "It is especially useful for search, recommendation, and retrieval systems.",
+      "spanish": "nDCG evalúa la calidad del ranking premiando documentos relevantes más arriba en la lista de resultados.",
+      "usage": "Common in search engines and semantic retrieval evaluation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bd8143528c92de04",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "evaluation",
+        "hallucination"
+      ]
+    },
+    "content": {
+      "scenario": "Evaluation: Hallucination Detection 🧭",
+      "text": "{{c1::Hallucination detection}} checks whether an answer is supported by the available evidence or context.",
+      "explanation": "A strong evaluation pipeline must assess factual grounding, not only style.",
+      "spanish": "La detección de alucinaciones revisa si una respuesta está sustentada por la evidencia o contexto disponible.",
+      "usage": "Essential for knowledge assistants, copilots, and semantic search systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5e8a8fba1af428ae",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "schema"
+      ]
+    },
+    "content": {
+      "scenario": "Prompt Engineering: Structured Output 🧱",
+      "text": "Structured {{c1::outputs}} use schemas like JSON or XML to ensure predictable, machine-readable responses.",
+      "explanation": "This is now standard in tool calling, agents, and pipeline integrations.",
+      "spanish": "Los outputs estructurados usan esquemas como JSON o XML para asegurar respuestas predecibles y legibles por máquina.",
+      "usage": "Critical for automation, extraction, and RAG-backed applications."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9d22bc60cda9c18c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "evaluation"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Evals: Task Success ✅",
+      "text": "{{c1::Task success}} measures whether the agent completed the intended objective, not merely whether it produced fluent text.",
+      "explanation": "It is the most important metric for production agent workflows.",
+      "spanish": "El task success mide si el agente completó el objetivo previsto, no solo si produjo texto fluido.",
+      "usage": "Used in coding agents, support agents, and automated workflow systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7b4a5b0275777a11",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "tools"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Evals: Tool Call Accuracy 🔧",
+      "text": "{{c1::Tool}} call accuracy measures whether the agent selected and used the correct tool at the right time.",
+      "explanation": "It is essential for tool-using and action-oriented agents.",
+      "spanish": "La precisión de tool calls mide si el agente seleccionó y usó la herramienta correcta en el momento adecuado.",
+      "usage": "Critical in search, database, and coding assistants."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4464b6ada54201b9",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "hallucination"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Evals: Hallucination Rate 🌀",
+      "text": "{{c1::Hallucination rate}} tracks how often an agent makes unsupported claims or invents facts.",
+      "explanation": "It is one of the most important safety and trust metrics for agents.",
+      "spanish": "La tasa de alucinación mide cuán a menudo un agente hace afirmaciones no sustentadas o inventa hechos.",
+      "usage": "Critical for knowledge agents, legal assistants, and enterprise copilots."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0c6f6b39a9770fd6",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "observability"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Observability: Trace Logging 🧭",
+      "text": "{{c1::Trace logging}} captures the full path of an agent run, including prompts, tool calls, intermediate outputs, and final decisions.",
+      "explanation": "Without traces, debugging agent behavior becomes guesswork.",
+      "spanish": "El trace logging captura el camino completo de una ejecución de agente, incluyendo prompts, tool calls, outputs intermedios y decisiones finales.",
+      "usage": "Essential in production agent orchestration and debugging."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d134eb6d86280379",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "reliability"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Observability: Failure Modes 🚨",
+      "text": "{{c1::Failure modes}} include loops, wrong tool selection, premature termination, and policy violations.",
+      "explanation": "Classifying failures makes it possible to improve reliability systematically.",
+      "spanish": "Los failure modes incluyen bucles, selección incorrecta de herramientas, terminación prematura y violaciones de política.",
+      "usage": "Used in agent benchmarking, safety reviews, and incident analysis."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f2d346f089d01100",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "safety"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Observability: Human-in-the-Loop 👤",
+      "text": "{{c1::Human}}-in-the-loop systems ask for approval or intervention when the agent is uncertain, risky, or high-impact.",
+      "explanation": "It is a practical safeguard for enterprise deployment.",
+      "spanish": "Los sistemas human-in-the-loop piden aprobación o intervención cuando el agente está incierto, es riesgoso o de alto impacto.",
+      "usage": "Used in finance, healthcare, and customer support operations."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f8e55a8b53cb801f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "evaluations",
+        "humaneval",
+        "math",
+        "pass_k"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (pass@k Coding Evaluation Formula)",
+      "text": "Ecuación para {{c1::pass@k Coding Evaluation Formula}}: \\[\\text{pass}@k = \\mathbb{E}\\left[ 1 - \\frac{\\binom{n-c}{k}}{\\binom{n}{k}} \\right]\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(n\\): Total number of generated code samples per problem.</li><li>\\(c\\): Number of correct generated code samples that pass unit tests.</li><li>\\(k\\): Number of samples selected to determine success probability.</li><li>\\(\\binom{\\cdot}{\\cdot}\\): Binomial coefficient.</li></ul>",
+      "spanish": "Fórmula de pass@k Coding Evaluation Formula",
+      "usage": "Formula: \\[\\text{pass}@k = \\mathbb{E}\\left[ 1 - \\frac{\\binom{n-c}{k}}{\\binom{n}{k}} \\right]\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3558e29ca6848a28",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "swe_bench",
+        "evaluations",
+        "benchmarking"
+      ]
+    },
+    "content": {
+      "scenario": "Active Recall Quiz 🎯",
+      "text": "<b>Pregunta:</b> What is the core execution mechanism of SWE-bench (Jimenez et al., 2024) to evaluate code generation agents?<br>Opciones:<ul><li>A) Running agent-generated code patches within isolated Docker containers containing repository states and verifying unit test execution success</li><li>B) Comparing generated python strings using token-matching BLEU scores</li><li>C) Statically parsing agent ASTs to verify syntax validation rules</li><li>D) Prompting Claude to evaluate agent code on a scale of 1 to 10</li></ul><br>Respuesta correcta: {{c1::A) Running agent-generated code patches within isolated Docker containers containing repository states and verifying unit test execution success}}",
+      "explanation": "Justificación: SWE-bench evaluates agent patches by executing them inside specialized Docker environments containing the exact codebase state. It runs pre-existing unit tests to check if the patch resolves the targeted GitHub issue without breaking other functionalities.",
+      "spanish": "Quiz: What is the core execution mechanism of SWE-bench (Jimenez et al., 2024) to evaluate code generation agents?",
+      "usage": "Quiz assertion: A) Running agent-generated code patches within isolated Docker containers containing repository states and verifying unit test execution success"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5ade7fbfceaa1cd5",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "evaluations",
+        "llm_as_a_judge",
+        "biases",
+        "mitigation"
+      ]
+    },
+    "content": {
+      "scenario": "Active Recall Quiz 🎯",
+      "text": "<b>Pregunta:</b> Which set of systematic biases must be mitigated when using an LLM as a judge to evaluate pairwise model generations?<br>Opciones:<ul><li>A) Position bias (order effects), Verbosity bias (favoring longer outputs), and Self-enhancement bias</li><li>B) Quantization noise, stochastic token dropouts, and beam search decay</li><li>C) Underfitting bias, covariate distribution shift, and validation leakages</li><li>D) Temperature scale differences, context window decay, and tokenizer compression loss</li></ul><br>Respuesta correcta: {{c1::A) Position bias (order effects), Verbosity bias (favoring longer outputs), and Self-enhancement bias}}",
+      "explanation": "Justificación: LLMs judging pairwise outputs suffer from Position bias (preferring whichever output is presented first), Verbosity bias (giving higher scores to longer, more detailed-looking responses even if they contain errors), and Self-enhancement bias (preferring responses generated by their own model weights). Mitigation includes swapping order and averaging evaluations.",
+      "spanish": "Quiz: Which set of systematic biases must be mitigated when using an LLM as a judge to evaluate pairwise model generations?",
+      "usage": "Quiz assertion: A) Position bias (order effects), Verbosity bias (favoring longer outputs), and Self-enhancement bias"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

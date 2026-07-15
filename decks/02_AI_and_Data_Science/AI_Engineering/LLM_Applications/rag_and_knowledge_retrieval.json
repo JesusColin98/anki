@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "99631c9c2e6d4c7b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rag",
+        "retrieval"
+      ]
+    },
+    "content": {
+      "scenario": "RAG: Chunking 🧩",
+      "text": "{{c1::Chunking}} splits documents into passages that balance semantic coherence and retrieval granularity.",
+      "explanation": "The chunk size directly affects retrieval recall and context quality.",
+      "spanish": "El chunking divide documentos en pasajes que equilibran coherencia semántica y granularidad de recuperación.",
+      "usage": "Essential for enterprise document search and legal/medical assistants."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f656f55007cb4169",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rag",
+        "embeddings"
+      ]
+    },
+    "content": {
+      "scenario": "RAG: Embedding Retrieval 🔍",
+      "text": "Embedding-based retrieval converts queries and {{c1::chunks}} into vectors and uses similarity search to find relevant passages.",
+      "explanation": "This is the core retrieval mechanism behind many modern semantic search systems.",
+      "spanish": "La recuperación basada en embeddings convierte consultas y chunks en vectores y usa búsqueda por similitud para encontrar pasajes relevantes.",
+      "usage": "Used in internal knowledge bases, support bots, and search copilots."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e26fda519b4aebd7",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rag",
+        "hybrid"
+      ]
+    },
+    "content": {
+      "scenario": "RAG: Hybrid Retrieval 🔀",
+      "text": "Hybrid retrieval combines lexical search with semantic search to improve {{c1::recall}} and precision.",
+      "explanation": "This is often better than a single retrieval strategy in production systems.",
+      "spanish": "La recuperación híbrida combina búsqueda léxica con semántica para mejorar recall y precisión.",
+      "usage": "Useful in long-form documentation, product search, and technical support."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "484b47cdf0389c7e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rag",
+        "reranking"
+      ]
+    },
+    "content": {
+      "scenario": "RAG: Reranking 🏅",
+      "text": "{{c1::Reranking}} reorders retrieved passages using a second, more expensive model to improve relevance.",
+      "explanation": "It often boosts quality significantly with a manageable increase in latency.",
+      "spanish": "El reranking reordena los pasajes recuperados usando un segundo modelo más costoso para mejorar la relevancia.",
+      "usage": "Used in ranked search, document QA, and high-precision assistants."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "05fb64281eb241e3",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rag",
+        "grounding"
+      ]
+    },
+    "content": {
+      "scenario": "RAG: Citation Grounding 📎",
+      "text": "Citation grounding requires the system to point to source passages whenever it answers a {{c1::factual}} question.",
+      "explanation": "This improves trust, auditability, and the ability to verify output.",
+      "spanish": "La base con citas requiere que el sistema señale pasajes fuente cuando responde una pregunta factual.",
+      "usage": "Key for enterprise assistants, compliance, and regulated domains."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e84a10abebfeb9e0",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rag",
+        "graphs"
+      ]
+    },
+    "content": {
+      "scenario": "RAG: Knowledge Graphs 🕸️",
+      "text": "A {{c1::knowledge}} graph encodes entities and relationships that can support structured retrieval and reasoning.",
+      "explanation": "It is powerful when relationships matter more than raw text similarity.",
+      "spanish": "Un grafo de conocimiento codifica entidades y relaciones que pueden apoyar recuperación y razonamiento estructurados.",
+      "usage": "Useful in biomedical, product, and organizational knowledge systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9f368745ce81ecc9",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rag",
+        "memory"
+      ]
+    },
+    "content": {
+      "scenario": "RAG: Memory and Long-Term Context 🧠",
+      "text": "Long-term memory lets an agent persist important facts across conversations instead of relying only on the current {{c1::prompt}}.",
+      "explanation": "This is crucial for personalized assistants and multi-session workflows.",
+      "spanish": "La memoria a largo plazo permite que un agente persista hechos importantes a través de conversaciones en lugar de depender solo del prompt actual.",
+      "usage": "Common in copilots, support agents, and domain-specific assistants."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5258bcdceb6a190b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rag",
+        "evaluation"
+      ]
+    },
+    "content": {
+      "scenario": "RAG: Evaluation of Retrieval Quality 🧪",
+      "text": "A strong RAG system is evaluated not just on answer quality, but also on retrieval precision, recall, and {{c1::grounding}}.",
+      "explanation": "If retrieval is weak, even a strong LLM will produce poor results.",
+      "spanish": "Un sistema RAG fuerte se evalúa no solo por la calidad de la respuesta, sino también por precisión, recall y grounding de la recuperación.",
+      "usage": "Essential for building reliable enterprise search and QA systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6c30a2a09a907f53",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "multimodal",
+        "vision"
+      ]
+    },
+    "content": {
+      "scenario": "Multimodal AI: Vision-Language Models 👁️",
+      "text": "Vision-{{c1::language models}} align image and text representations so the system can reason over both modalities.",
+      "explanation": "These systems are central to image understanding, visual QA, and document intelligence.",
+      "spanish": "Los modelos de visión y lenguaje alinean representaciones de imagen y texto para que el sistema pueda razonar sobre ambas modalidades.",
+      "usage": "Used in OCR, accessibility, retail, and medical imaging products."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8f5b51e2ae600f64",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "multimodal",
+        "contrastive"
+      ]
+    },
+    "content": {
+      "scenario": "Multimodal AI: CLIP and Contrastive Learning 🧲",
+      "text": "Contrastive learning trains {{c1::embeddings}} so related image-text pairs are close together in representation space.",
+      "explanation": "This is the foundation of many zero-shot retrieval and classification systems.",
+      "spanish": "El aprendizaje contrastivo entrena embeddings para que pares imagen-texto relacionados estén cerca en el espacio de representación.",
+      "usage": "Useful in search, recommendation, and interactive multimodal applications."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f90bdec9d0cf6772",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "multimodal",
+        "ocr"
+      ]
+    },
+    "content": {
+      "scenario": "Multimodal AI: OCR and Document Understanding 📄",
+      "text": "OCR {{c1::pipelines}} convert scanned documents into text, while document AI extracts structure and meaning from layouts.",
+      "explanation": "This is crucial for invoices, contracts, manuals, and knowledge ingestion.",
+      "spanish": "Las pipelines OCR convierten documentos escaneados en texto, mientras que la IA de documentos extrae estructura y significado de diseños.",
+      "usage": "Widely used in enterprise automation and compliance workflows."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8ea265a61340600e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "multimodal",
+        "speech"
+      ]
+    },
+    "content": {
+      "scenario": "Multimodal AI: Audio and Speech 🗣️",
+      "text": "Speech-to-text and text-to-speech systems convert between {{c1::audio}} and language for conversational experiences.",
+      "explanation": "Audio AI is essential for voice assistants, transcription, and accessibility tools.",
+      "spanish": "Los sistemas de voz a texto y texto a voz convierten entre audio y lenguaje para experiencias conversacionales.",
+      "usage": "Used in call centers, dictation tools, and assistive technologies."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4a82d72ceafe6beb",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "embeddings",
+        "retrieval"
+      ]
+    },
+    "content": {
+      "scenario": "Embeddings: Dense vs Sparse 🔢",
+      "text": "Dense {{c1::embeddings}} capture semantic similarity, while sparse embeddings rely on explicit token overlap.",
+      "explanation": "Each representation is useful in different retrieval and ranking settings.",
+      "spanish": "Los embeddings densos capturan similitud semántica, mientras que los dispersos dependen de solapamiento explícito de tokens.",
+      "usage": "Common in search, similarity matching, and recommendation systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "72000c9d52a3e224",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "embeddings",
+        "vector_db"
+      ]
+    },
+    "content": {
+      "scenario": "Embeddings: Vector Databases 🗄️",
+      "text": "Vector databases index high-dimensional {{c1::embeddings}} to support fast nearest-neighbor search.",
+      "explanation": "They are the backbone of retrieval systems that need to scale over many documents.",
+      "spanish": "Las bases de datos vectoriales indexan embeddings de alta dimensión para soportar búsqueda rápida de vecinos más cercanos.",
+      "usage": "Critical in RAG, recommender systems, and semantic search."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7299c3ec87ca99b1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "embeddings",
+        "similarity"
+      ]
+    },
+    "content": {
+      "scenario": "Embeddings: Semantic Similarity 🎯",
+      "text": "{{c1::Semantic similarity}} measures how closely two pieces of content mean the same thing, not just how similar their words are.",
+      "explanation": "It is a core idea in retrieval, clustering, and recommendations.",
+      "spanish": "La similitud semántica mide qué tan cerca significan dos piezas de contenido, no solo qué tan similares son sus palabras.",
+      "usage": "Used in search ranking, deduplication, and content organization."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b24b1714148d5bac",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "embeddings",
+        "drift"
+      ]
+    },
+    "content": {
+      "scenario": "Embeddings: Drift in Representation Space 📉",
+      "text": "Embedding {{c1::drift}} happens when the meaning captured by the vector space changes over time or across domains.",
+      "explanation": "This can degrade retrieval quality if the index is not refreshed or re-evaluated.",
+      "spanish": "El drift de embeddings ocurre cuando el significado capturado por el espacio vectorial cambia con el tiempo o entre dominios.",
+      "usage": "Important for search systems, recommender systems, and long-lived knowledge bases."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8c1017a214628487",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "rag",
+        "llm",
+        "architecture",
+        "vector_db",
+        "retrieval",
+        "generation"
+      ]
+    },
+    "content": {
+      "scenario": "RAG 🔍: Retrieval-Augmented Generation — Core Pipeline",
+      "text": "A standard RAG pipeline has {{c1::4 stages: Indexing (chunking + embedding), Retrieval (vector search), Augmentation (inject context into prompt), and Generation (LLM produces answer)}},",
+      "explanation": "RAG grounds LLM responses in a knowledge base, reducing hallucinations and enabling knowledge updates without retraining. Stage 1 (Indexing): documents are chunked, embedded with an encoder model, and stored in a vector DB. Stage 2 (Retrieval): user query is embedded, nearest neighbors are found via cosine/ANN search. Stage 3 (Augmentation): retrieved chunks are injected into the LLM prompt as context. Stage 4 (Generation): LLM produces a grounded answer from the augmented context.",
+      "spanish": "Un pipeline RAG estándar tiene 4 etapas: Indexación (chunking + embedding), Recuperación (búsqueda vectorial), Aumentación (inyectar contexto en el prompt) y Generación (el LLM produce la respuesta). Reduce alucinaciones y permite actualizar el conocimiento sin reentrenar.",
+      "usage": "<ul><li>Indexing stack: chunker → embedding model (e.g., text-embedding-3-small) → vector DB (Pinecone, Weaviate, pgvector).</li><li>Retrieval: top-k=5 by cosine similarity; optionally reranked with a cross-encoder (e.g., Cohere Rerank).</li><li>Augmentation prompt template: 'Answer the question using ONLY the following context: {chunks}\\nQuestion: {query}'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7e7588cab9c9440b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "rag",
+        "chunking",
+        "indexing",
+        "llm",
+        "langchain",
+        "llama_index"
+      ]
+    },
+    "content": {
+      "scenario": "RAG 🔍: Chunking Strategies",
+      "text": "The four main chunking strategies for RAG are: {{c1::Fixed-size (token/char splits), Sentence-based, Semantic (group semantically similar sentences), and Document-structural (respect headers/sections)}}.",
+      "explanation": "Chunk size has a direct tradeoff: small chunks → precise retrieval, risk of missing context. Large chunks → more context, risk of retrieved noise diluting the answer. Semantic chunking (LLM or embedding-based) produces the highest quality chunks but is expensive. Best practice: chunk_size=512 tokens, chunk_overlap=50-100 tokens for general use. For long-form documents: use hierarchical chunking (parent-child) with small-to-big retrieval.",
+      "spanish": "Las 4 estrategias principales de chunking para RAG: Tamaño fijo, Basado en oraciones, Semántico (agrupa oraciones similares) y Estructural del documento. Tamaños pequeños → recuperación precisa pero sin contexto. Tamaños grandes → más contexto pero más ruido.",
+      "usage": "<ul><li>Fixed: langchain.RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=50)</li><li>Semantic: llama-index SemanticSplitterNodeParser</li><li>Rule of thumb: chunk size should be < the context window of your retrieval embedding model AND large enough to contain a standalone fact.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b0d17933007a314a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "rag",
+        "evaluation",
+        "faithfulness",
+        "ragas",
+        "hallucination",
+        "llm"
+      ]
+    },
+    "content": {
+      "scenario": "RAG 🔍: Faithfulness vs. Answer Relevance",
+      "text": "In RAG evaluation, faithfulness measures {{c1::whether the answer is factually grounded in the retrieved context}}, while answer relevance measures {{c1::whether the answer addresses the user's question}}.",
+      "explanation": "A faithfulness score of 1.0 means every claim in the answer is supported by the retrieved context — no hallucinations. Answer relevance of 1.0 means the answer directly addresses what was asked — no off-topic padding. These are independent: you can be relevant but unfaithful (answer the question with made-up facts) or faithful but irrelevant (accurately summarize context that doesn't answer the question). RAGAS framework computes both using LLM-as-judge.",
+      "spanish": "La fidelidad mide si la respuesta está basada en el contexto recuperado. La relevancia de respuesta mide si la respuesta aborda la pregunta del usuario. Son independientes: puedes ser relevante pero infiel (hechos inventados) o fiel pero irrelevante (resume contexto que no responde la pregunta).",
+      "usage": "<ul><li>RAGAS metrics: faithfulness, answer_relevancy, context_recall, context_precision.</li><li>Low faithfulness → your LLM is generating beyond the retrieved context (hallucinating). Fix: adjust temperature, add 'only use the context provided' to prompt.</li><li>Low relevance → retrieval is returning off-topic chunks. Fix: improve chunking or query rewriting.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b9cb34771c2099cc",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "prompting",
+        "cot",
+        "chain_of_thought",
+        "reasoning",
+        "llm"
+      ]
+    },
+    "content": {
+      "scenario": "Prompting 💬: Chain-of-Thought (CoT)",
+      "text": "Chain-of-Thought prompting improves LLM reasoning by including {{c1::step-by-step reasoning examples in the prompt or instructing the model to 'think step by step' before answering}}.",
+      "explanation": "Wei et al. (2022) showed that prompting LLMs to show their reasoning dramatically improves performance on arithmetic, logical, and commonsense reasoning tasks — especially for models > 100B parameters. Zero-shot CoT: simply append 'Let's think step by step.' Few-shot CoT: provide 3-5 examples with reasoning chains. CoT is less effective for simpler tasks and small models. Self-consistency: sample multiple CoT reasoning paths and majority-vote the answer.",
+      "spanish": "El prompting Chain-of-Thought mejora el razonamiento del LLM incluyendo ejemplos de razonamiento paso a paso o instruyendo al modelo a 'pensar paso a paso' antes de responder. Demostrado por Wei et al. (2022) — especialmente efectivo para modelos > 100B parámetros.",
+      "usage": "<ul><li>Zero-shot: 'Solve this problem. Think step by step before giving your final answer.'</li><li>Few-shot CoT example: Q: Roger had 5 balls, bought 2 more cans of 3 balls. A: Roger started with 5. 2 cans of 3 = 6. 5+6=11. The answer is 11.</li><li>Best for: math, logic, multi-step reasoning. Not needed for: simple factual recall, single-step tasks.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "011fe50d64b28abe",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "prompting",
+        "react",
+        "agents",
+        "tool_use",
+        "llm",
+        "reasoning"
+      ]
+    },
+    "content": {
+      "scenario": "Prompting 💬: ReAct — Reasoning + Acting",
+      "text": "The ReAct prompting pattern interleaves {{c1::Reasoning (Thought:) and Action (Act:) steps}}, allowing LLMs to use tools and update their reasoning based on tool outputs.",
+      "explanation": "ReAct (Yao et al., 2022) is the foundation for most LLM agent frameworks (LangChain AgentExecutor, LlamaIndex ReAct agent). The loop: Think → Act (call tool) → Observe (tool output) → Think again → Act → ... → Final answer. Solves the hallucination problem for tasks requiring external lookup: instead of generating facts, the model retrieves them. Essential for any agentic system that needs to use search, APIs, databases, or code execution.",
+      "spanish": "El patrón de prompting ReAct intercala pasos de Razonamiento (Thought:) y Acción (Act:), permitiendo que los LLMs usen herramientas y actualicen su razonamiento basándose en los resultados. Base de la mayoría de los frameworks de agentes LLM.",
+      "usage": "<ul><li>Thought: I need to find the current stock price of AAPL.</li><li>Action: search[AAPL stock price]</li><li>Observation: AAPL is trading at $187.42 as of 2024-07-14.</li><li>Thought: I now have the current price. I can answer.</li><li>Final Answer: Apple (AAPL) is currently trading at $187.42.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1749fca4e2424aae",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_product",
+        "strategy",
+        "use_case",
+        "feasibility",
+        "roi"
+      ]
+    },
+    "content": {
+      "scenario": "AI Product 💡: AI Use Case Feasibility Framework",
+      "text": "Evaluate AI use case feasibility across 3 dimensions: {{c1::Impact (business value if it works), Feasibility (can we build it with current data/tech?), and Risk (what if it fails or is biased?)}}.",
+      "explanation": "The 3-dimension framework avoids two failure modes: (1) building technically impressive AI with no business value; (2) committing to a use case that's technically infeasible given available data. High-impact, high-feasibility, low-risk quadrant is the 'AI quick win' zone. Projects that score high on impact but low on feasibility need more research or a simpler initial version.",
+      "spanish": "Evalúa la viabilidad de un caso de uso de IA en 3 dimensiones: Impacto (valor de negocio si funciona), Factibilidad (¿podemos construirlo con los datos/tecnología actuales?) y Riesgo (¿qué pasa si falla o tiene sesgo?). Evita construir IA sin valor o comprometerse con algo técnicamente inviable.",
+      "usage": "<ul><li>Impact questions: What decision does this improve? How often is this decision made? What's the cost of a wrong decision?</li><li>Feasibility questions: Do we have labeled data? Is the task well-defined? Can we measure success objectively?</li><li>Risk questions: Who is affected if the model is wrong? Can the output be audited? Is there human oversight?</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "76543d0686b64c8f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_product",
+        "communication",
+        "stakeholder",
+        "non_technical",
+        "leadership"
+      ]
+    },
+    "content": {
+      "scenario": "AI Product 💡: Explaining AI to Non-Technical Executives",
+      "text": "When explaining an AI model to a non-technical executive, use the {{c1::Input → Process → Output → Confidence}} framework: what goes in, what the model does, what comes out, and how sure it is.",
+      "explanation": "The goal is not technical accuracy but decision-relevant communication. Non-technical executives need to understand: (1) what data does this use? (privacy/legal concern), (2) what does it predict/recommend? (business relevance), (3) how confident should we be? (risk calibration). Avoid: 'We trained a gradient boosting model on 2.3M rows with 47 features.' Say instead: 'We analyze customer behavior patterns from 18 months of data to predict which accounts are at risk of churning next quarter — with about 85% accuracy.'",
+      "spanish": "Para explicar un modelo de IA a un ejecutivo no técnico, usa el marco Input → Proceso → Output → Confianza: qué entra, qué hace el modelo, qué sale y qué tan seguro está. El objetivo es comunicación relevante para decisiones, no precisión técnica.",
+      "usage": "<ul><li><b>Technical:</b> 'XGBoost with SHAP explainability, 87% AUC on test set.'</li><li><b>Executive:</b> 'The model looks at 6 months of customer activity — logins, support tickets, feature usage — and flags accounts that show patterns similar to customers who churned previously. We catch about 85 out of every 100 at-risk accounts before they leave.'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8546b71fc32a8f41",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "rag",
+        "multimodal",
+        "colpali"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced RAG: Multimodal Retrieval 🖼️",
+      "text": "Instead of extracting plain text from complex documents, multimodal RAG uses models like {{c1::ColPali}} to generate vector embeddings directly from {{c2::rendered document images}}.",
+      "explanation": "Traditional RAG struggles with charts, tables, and PDFs because the parsing step loses structural layouts. ColPali represents pages as images and extracts semantic visual-textual patches, embedding them directly into vector spaces for highly accurate visual document retrieval.",
+      "spanish": "En lugar de extraer texto plano de documentos complejos, el RAG multimodal utiliza modelos como ColPali para generar embeddings vectoriales directamente a partir de imágenes renderizadas de los documentos.",
+      "usage": "Highly recommended for reading financial statements, engineering blueprints, and slides."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "21e2ea797055e00d",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "rag",
+        "hybrid_search",
+        "rrf"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced RAG: Hybrid Search 🔀",
+      "text": "Industrial RAG applications implement hybrid search by combining semantic {{c1::dense vector retrieval}} with keyword-based {{c2::sparse BM25 retrieval}} and merging results using Reciprocal Rank Fusion (RRF).",
+      "explanation": "Dense vectors capture general concept meanings but miss exact keyword match strings (like serial codes or product names). Sparse retrieval (BM25) targets keyword precision. Combining both via RRF yields optimal search recall and accuracy.",
+      "spanish": "Las aplicaciones RAG industriales implementan búsquedas híbridas combinando la recuperación de vectores densos con la recuperación de palabras clave BM25, uniendo los resultados mediante RRF.",
+      "usage": "Standard production search architecture for enterprise wikis and code search tools."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c93bce54cb8011ef",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "rag",
+        "graphrag",
+        "knowledge_graphs"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced RAG: GraphRAG 🕸️",
+      "text": "To capture global, high-level summaries of massive text datasets, {{c1::GraphRAG}} builds knowledge graphs using LLMs and clusters them with algorithms like {{c2::Leiden community detection}}.",
+      "explanation": "GraphRAG extracts structured entities and relations from texts to construct a Knowledge Graph. It then groups nodes into hierarchical communities. When a user asks a global query (e.g., 'What are the main issues in this repository?'), the model summarizes the clusters instead of performing keyword searches.",
+      "spanish": "Para capturar resúmenes globales de conjuntos de datos masivos, GraphRAG construye gráficos de conocimiento con LLMs y los agrupa mediante algoritmos como la detección de comunidades de Leiden.",
+      "usage": "Perfect for broad corpus summaries, compliance audits, and architectural mapping."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ee7a7f15cefbefe7",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "rag",
+        "crag",
+        "web_search"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced RAG: Corrective RAG (CRAG) 🧯",
+      "text": "{{c1::Corrective RAG (CRAG)}} adds a self-correction loop where a evaluator agent assesses search result quality; if quality falls below a threshold, it triggers a fallback search using {{c2::external web APIs}}.",
+      "explanation": "If retrieved documents are irrelevant, traditional RAG outputs incorrect answers (hallucinations). CRAG inserts a logic gate: if the retrieved context is classified as 'incorrect' or 'irrelevant', the system triggers Tavily or Google Search to fetch verified web documentation.",
+      "spanish": "Corrective RAG (CRAG) añade un ciclo de autoconrección donde un agente evaluador califica los resultados de búsqueda; si la calidad es baja, activa una búsqueda alternativa en APIs web externas.",
+      "usage": "Critical for dynamic, high-stakes support pipelines where stale documentation causes system failures."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6ac77a1f9921e690",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "rag",
+        "semantic_chunking",
+        "preprocessing"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced RAG: Semantic Chunking 📑",
+      "text": "To prevent context loss, {{c1::Semantic Chunking}} splits documents by measuring the {{c2::cosine distance}} of embeddings between consecutive sentences, creating boundaries when semantic flow shifts.",
+      "explanation": "Traditional chunking splits documents by arbitrary token counts, often cutting sentences or paragraphs in half. Semantic chunking calculates embeddings for every sentence and groups them into a chunk until the semantic similarity between adjacent blocks drops below a threshold.",
+      "spanish": "Para evitar la pérdida de contexto, el fragmentado semántico divide los documentos midiendo la distancia de coseno entre oraciones consecutivas, creando límites cuando cambia el flujo semántico.",
+      "usage": "Essential for preprocessing lengthy technical guidelines, legal contracts, and novels."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4eff7f3202fc1607",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "rag",
+        "query",
+        "retrieval"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Query Expansion 🔍",
+      "text": "To improve document retrieval recall by generating multiple variations of the user's query, RAG systems run {{c1::Query Expansion}}.",
+      "explanation": "Query Expansion uses an LLM to rewrite a single query into 3-5 variations or sub-queries. This handles different wordings and synonyms, searching the vector database with all variations to yield a broader set of relevant documents.",
+      "spanish": "Para mejorar la recuperación de documentos generando múltiples variaciones del prompt del usuario, los sistemas RAG ejecutan la expansión de consultas (Query Expansion).",
+      "usage": "Common Query Expansion prompt: <code>Generate 3 alternative search queries for: [query]</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "85b6787d36e2ac0c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "rag",
+        "reranking",
+        "retrieval"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Reranking 🔍",
+      "text": "To re-evaluate and sort the top retrieved vector search documents based on semantic relevance, RAG pipelines implement {{c1::cross-encoder reranking}}.",
+      "explanation": "While dense vector search (bi-encoders) is fast but approximate, cross-encoders compute joint attention over the query and document together. Running a reranker on the top 20 retrieved chunks ensures only the most relevant are sent to the LLM.",
+      "spanish": "Para reevaluar y clasificar los documentos de búsqueda vectorial mejor recuperados según su relevancia semántica, las canalizaciones RAG implementan la reclasificación por codificador cruzado (cross-encoder reranking).",
+      "usage": "Popular rerankers include <code>Cohere Rerank</code> and <code>BGE-Reranker</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cde9598d554f3ca7",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "rag",
+        "retrieval",
+        "context"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Parent Document Retrieval 🔍",
+      "text": "To search on small, precise vector chunks but feed the larger surrounding context to the LLM, pipelines implement {{c1::Parent Document Retrieval}}.",
+      "explanation": "During indexing, documents are split into large parent documents and smaller child chunks. The vector database stores only child chunks. When a child is retrieved, the system fetches the larger parent document from storage to feed the LLM, preserving context.",
+      "spanish": "Para buscar en fragmentos vectoriales pequeños y precisos pero entregar el contexto circundante más grande al LLM, las canalizaciones implementan la Recuperación de Documento Padre (Parent Document Retrieval).",
+      "usage": "In LangChain: <code>ParentDocumentRetriever</code> manages child vector stores and parent docstores."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "57d6979a82a18057",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "rag",
+        "hybrid_search",
+        "retrieval"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Hybrid Search 🔍",
+      "text": "To combine semantic understanding and exact keyword matching, advanced RAG systems execute a {{c1::hybrid search}} merging vector and BM25 scores.",
+      "explanation": "Hybrid search runs both dense vector search (for semantic meaning) and sparse keyword search (for exact names, codes, or products), merging their scores using Reciprocal Rank Fusion (RRF).",
+      "spanish": "Para combinar la comprensión semántica y la coincidencia exacta de palabras clave, los sistemas RAG avanzados ejecutan una búsqueda híbrida (hybrid search) fusionando puntuaciones vectoriales y BM25.",
+      "usage": "RRF formula combines rankings: \\(RRF(d) = \\sum \\frac{1}{k + r_m(d)}\\) where \\(r_m(d)\\) is document rank in search \\(m\\)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7cacfc8677bc5d38",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "rag",
+        "vector_db",
+        "quantization"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Vector Compression 🔍",
+      "text": "To reduce the massive RAM requirements of millions of document embeddings, vector databases apply {{c1::Product Quantization (PQ)}}.",
+      "explanation": "Product Quantization compresses high-dimensional vectors by dividing them into sub-vectors, clustering each sub-vector space, and storing only the cluster centroid index, reducing vector size by up to 95%.",
+      "spanish": "Para reducir los enormes requisitos de RAM de millones de incrustaciones de documentos, las bases de datos vectoriales aplican la cuantización de productos (Product Quantization).",
+      "usage": "PQ is supported in vector libraries like FAISS and Milvus to scale storage."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

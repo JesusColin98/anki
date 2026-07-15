@@ -27,25 +27,68 @@ def ensure_model_exists():
     models = invoke('modelNames')
 
     cloze_css = """
+:root {
+    --bg-color: #fafafa;
+    --card-bg: #ffffff;
+    --text-color: #1a1a1a;
+    --text-dark: #111111;
+    --border-color: #e5e5e5;
+    --cloze-color: #2563eb;
+    --cloze-bg: #eff6ff;
+    --cloze-border: #bfdbfe;
+    --badge-color: #8c8c8c;
+    --badge-bg: #f5f5f5;
+    --explanation-border: #3b82f6;
+    --examples-border: #10b981;
+    --tab-active-bg: #f1f5f9;
+    --tab-active-border: #3b82f6;
+    --success-color: #10b981;
+    --success-bg: #ecfdf5;
+    --mismatch-color: #ef4444;
+    --mismatch-bg: #fef2f2;
+}
+
+.nightMode {
+    --bg-color: #0f172a;
+    --card-bg: #1e293b;
+    --text-color: #e2e8f0;
+    --text-dark: #f8fafc;
+    --border-color: #334155;
+    --cloze-color: #60a5fa;
+    --cloze-bg: #1e3a8a;
+    --cloze-border: #2563eb;
+    --badge-color: #94a3b8;
+    --badge-bg: #334155;
+    --explanation-border: #60a5fa;
+    --examples-border: #34d399;
+    --tab-active-bg: #334155;
+    --tab-active-border: #60a5fa;
+    --success-color: #34d399;
+    --success-bg: #065f46;
+    --mismatch-color: #f87171;
+    --mismatch-bg: #7f1d1d;
+}
+
 .card {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     font-size: 19px;
     line-height: 1.6;
-    color: #2D3748;
-    background-color: #F7FAFC;
+    color: var(--text-color);
+    background-color: var(--bg-color);
     padding: 24px;
-    max-width: 550px;
+    max-width: 650px;
     margin: 0 auto;
     border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
 }
 
 .cloze {
     font-weight: bold;
-    color: #4F46E5;
-    background-color: #EEF2FF;
+    color: var(--cloze-color);
+    background-color: var(--cloze-bg);
     padding: 2px 8px;
     border-radius: 6px;
+    border-bottom: 2px dashed var(--cloze-border);
 }
 
 .scenario-badge {
@@ -54,8 +97,8 @@ def ensure_model_exists():
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: #718096;
-    background-color: #EDF2F7;
+    color: var(--badge-color);
+    background-color: var(--badge-bg);
     padding: 4px 12px;
     border-radius: 9999px;
     margin-bottom: 16px;
@@ -63,20 +106,22 @@ def ensure_model_exists():
 
 hr {
     border: none;
-    border-top: 1px solid #E2E8F0;
+    border-top: 1px solid var(--border-color);
     margin: 20px 0;
 }
 
 .sentence-front {
     font-size: 22px;
     font-weight: 500;
-    color: #1A202C;
+    color: var(--text-dark);
     margin: 12px 0;
 }
 
 .explanation-section {
-    background-color: #FFFFFF;
-    border-left: 4px solid #4F46E5;
+    background-color: var(--card-bg);
+    border-left: 4px solid var(--explanation-border);
+    border: 1px solid var(--border-color);
+    border-left-width: 4px;
     padding: 12px 16px;
     border-radius: 0 8px 8px 0;
     margin-bottom: 16px;
@@ -87,14 +132,16 @@ hr {
 .explanation-section h3 {
     margin: 0 0 6px 0;
     font-size: 13px;
-    color: #4F46E5;
+    color: var(--explanation-border);
     text-transform: uppercase;
     letter-spacing: 0.05em;
 }
 
 .examples-section {
-    background-color: #FFFFFF;
-    border-left: 4px solid #10B981;
+    background-color: var(--card-bg);
+    border-left: 4px solid var(--examples-border);
+    border: 1px solid var(--border-color);
+    border-left-width: 4px;
     padding: 12px 16px;
     border-radius: 0 8px 8px 0;
     margin-bottom: 16px;
@@ -105,7 +152,7 @@ hr {
 .examples-section h3 {
     margin: 0 0 6px 0;
     font-size: 13px;
-    color: #10B981;
+    color: var(--examples-border);
     text-transform: uppercase;
     letter-spacing: 0.05em;
 }
@@ -113,7 +160,7 @@ hr {
 .examples-section ul {
     margin: 0;
     padding-left: 20px;
-    color: #4A5568;
+    color: var(--text-color);
 }
 
 .examples-section li {
@@ -121,8 +168,8 @@ hr {
 }
 
 .examples-section code {
-    background-color: #ECFDF5;
-    color: #047857;
+    background-color: var(--badge-bg);
+    color: var(--text-dark);
     padding: 2px 6px;
     border-radius: 4px;
     font-family: monospace;
@@ -130,19 +177,20 @@ hr {
 }
 
 details {
-    background-color: #EDF2F7;
+    background-color: var(--badge-bg);
     padding: 10px 14px;
     border-radius: 8px;
     margin-top: 16px;
     font-size: 15px;
-    color: #4A5568;
+    color: var(--text-color);
     cursor: pointer;
     text-align: left;
     transition: background-color 0.2s;
+    border: 1px solid var(--border-color);
 }
 
 details:hover {
-    background-color: #E2E8F0;
+    background-color: var(--border-color);
 }
 
 details summary {
@@ -153,108 +201,171 @@ details summary {
 
 details p {
     margin: 8px 0 0 0;
-    color: #2D3748;
+    color: var(--text-color);
 }
 
-/* Night Mode support */
-.nightMode .card {
-    color: #E2E8F0;
-    background-color: #1A202C;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+/* Tabs Styling */
+.tabs-container {
+    margin: 16px 0;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    background: var(--card-bg);
+    overflow: hidden;
+}
+.tabs-header {
+    display: flex;
+    background: var(--badge-bg);
+    border-bottom: 1px solid var(--border-color);
+}
+.tab-btn {
+    flex: 1;
+    background: transparent;
+    border: none;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--badge-color);
+    cursor: pointer;
+    transition: all 0.2s;
+    outline: none;
+}
+.tab-btn:hover {
+    color: var(--text-color);
+}
+.tab-btn.active {
+    background: var(--card-bg);
+    color: var(--cloze-color);
+    border-bottom: 2px solid var(--tab-active-border);
+}
+.tab-content {
+    display: none;
+    padding: 16px;
+    text-align: left;
+}
+.tab-content.active {
+    display: block;
 }
 
-.nightMode .cloze {
-    color: #818CF8;
-    background-color: #312E81;
+/* Match Game Styling */
+.match-game {
+    display: flex;
+    gap: 16px;
+    margin: 20px 0;
+    text-align: left;
+}
+.match-game .column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.match-game h4 {
+    margin: 0 0 8px 0;
+    font-size: 14px;
+    color: var(--badge-color);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+.mg-item {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+    user-select: none;
+}
+.mg-item:hover {
+    border-color: var(--cloze-color);
+    background: var(--tab-active-bg);
+}
+.mg-item.selected {
+    border-color: var(--cloze-color);
+    background: var(--cloze-bg);
+    color: var(--cloze-color);
+    font-weight: 600;
+}
+.mg-item.matched {
+    cursor: default;
+    opacity: 0.6;
+}
+.mg-item.matched.success {
+    background: var(--success-bg);
+    border-color: var(--success-color);
+    color: var(--success-color);
+    opacity: 0.8;
+}
+.mg-item.mismatch {
+    background: var(--mismatch-bg);
+    border-color: var(--mismatch-color);
+    color: var(--mismatch-color);
+}
+.mg-success-banner {
+    margin-top: 12px;
+    padding: 8px;
+    background: var(--success-bg);
+    color: var(--success-color);
+    border-radius: 6px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 14px;
 }
 
-.nightMode .scenario-badge {
-    color: #A0AEC0;
-    background-color: #2D3748;
+/* Visual Cloze Diagrams (Mermaid SVG nodes) */
+.mermaid .cloze-node rect,
+.mermaid .cloze-node circle,
+.mermaid .cloze-node polygon {
+    fill: var(--badge-bg) !important;
+    stroke: var(--border-color) !important;
+    stroke-dasharray: 4 !important;
+    cursor: pointer;
+}
+.mermaid .cloze-node text {
+    fill: transparent !important;
+}
+.mermaid .cloze-node.revealed rect,
+.mermaid .cloze-node.revealed circle,
+.mermaid .cloze-node.revealed polygon {
+    fill: var(--cloze-bg) !important;
+    stroke: var(--cloze-color) !important;
+    stroke-dasharray: none !important;
+}
+.mermaid .cloze-node.revealed text {
+    fill: var(--cloze-color) !important;
 }
 
-.nightMode hr {
-    border-top: 1px solid #2D3748;
+/* Related Tags Section */
+.related-tags-section {
+    margin-top: 16px;
+    font-size: 13px;
+    color: var(--badge-color);
+    border-top: 1px dashed var(--border-color);
+    padding-top: 8px;
+    text-align: left;
 }
-
-.nightMode .sentence-front {
-    color: #F7FAFC;
+.search-tag-link {
+    color: var(--cloze-color);
+    text-decoration: none;
+    margin-right: 8px;
+    font-weight: 500;
 }
-
-.nightMode .explanation-section {
-    background-color: #2D3748;
-    border-left: 4px solid #818CF8;
-}
-
-.nightMode .explanation-section h3 {
-    color: #818CF8;
-}
-
-.nightMode .examples-section {
-    background-color: #2D3748;
-    border-left: 4px solid #34D399;
-}
-
-.nightMode .examples-section h3 {
-    color: #34D399;
-}
-
-.nightMode .examples-section code {
-    background-color: #065F46;
-    color: #A7F3D0;
-}
-
-.nightMode details {
-    background-color: #2D3748;
-    color: #A0AEC0;
-}
-
-.nightMode details:hover {
-    background-color: #4A5568;
-}
-
-.nightMode details p {
-    color: #E2E8F0;
+.search-tag-link:hover {
+    text-decoration: underline;
 }
 """
 
-    speaking_css = """
-.card {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    font-size: 19px;
-    line-height: 1.6;
-    color: #2D3748;
-    background-color: #F8FAFC;
-    padding: 24px;
-    max-width: 620px;
-    margin: 0 auto;
-    border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-}
-
-.scenario-badge {
-    display: inline-block;
-    font-size: 12px;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: #475569;
-    background-color: #E2E8F0;
-    padding: 4px 12px;
-    border-radius: 9999px;
-    margin-bottom: 16px;
-}
-
+    speaking_css = cloze_css + """
 .prompt-block {
     font-size: 22px;
     font-weight: 600;
-    color: #0F172A;
+    color: var(--text-dark);
     margin-bottom: 16px;
 }
 
 .audio-player {
-    background: #EFF6FF;
-    border-left: 4px solid #2563EB;
+    background: var(--cloze-bg);
+    border-left: 4px solid var(--cloze-color);
     padding: 12px 16px;
     border-radius: 8px;
     margin: 12px 0;
@@ -265,27 +376,13 @@ details p {
 }
 
 .practice-link a {
-    color: #2563EB;
+    color: var(--cloze-color);
     font-weight: 600;
     text-decoration: none;
 }
 
 .practice-link a:hover {
     text-decoration: underline;
-}
-
-.nightMode .card {
-    background-color: #1E293B;
-    color: #E2E8F0;
-}
-
-.nightMode .prompt-block {
-    color: #F8FAFC;
-}
-
-.nightMode .audio-player {
-    background: #1E3A8A;
-    border-left-color: #60A5FA;
 }
 """
 
@@ -385,7 +482,8 @@ def get_learning_path_deck(deck_name, card):
 
 def load_all_cards(base_dir="."):
     decks_dir = os.path.join(base_dir, "decks")
-    cards = []
+    raw_cards = []
+    
     if os.path.exists(decks_dir):
         print(f"Reading cards from nested decks directory: {decks_dir}...")
         for root, _, files in os.walk(decks_dir):
@@ -400,25 +498,81 @@ def load_all_cards(base_dir="."):
                             for card in deck_cards:
                                 if "deck" not in card or not card["deck"]:
                                     card["deck"] = derived_deck
-                                
-                                # Natively route English cards into Learning Paths by default
-                                if card["deck"].startswith("03_Languages::English") and "::Phonetics" not in card["deck"]:
-                                    card["deck"] = get_learning_path_deck(card["deck"], card)
-                                    
-                            cards.extend(deck_cards)
+                                raw_cards.append(card)
                     except Exception as e:
                         print(f"Warning: Could not load {file_path}: {e}", file=sys.stderr)
-        print(f"Loaded {len(cards)} total cards from decks/ directory tree.")
-        return cards
+    else:
+        monolith_file = os.path.join(base_dir, "anki_cards_database.json")
+        if os.path.exists(monolith_file):
+            print(f"Reading database {monolith_file}...")
+            with open(monolith_file, "r", encoding="utf-8") as f:
+                raw_cards = json.load(f)
+        else:
+            print("Error: Neither decks/ directory nor anki_cards_database.json found.", file=sys.stderr)
+            sys.exit(1)
+
+    # Compile the raw cards using template_engine and flatten decks
+    from template_engine import build_card
+    compiled_cards = []
     
-    monolith_file = os.path.join(base_dir, "anki_cards_database.json")
-    if os.path.exists(monolith_file):
-        print(f"Reading database {monolith_file}...")
-        with open(monolith_file, "r", encoding="utf-8") as f:
-            return json.load(f)
+    for card in raw_cards:
+        # If it is already flat (legacy fallback), keep it as is
+        if "content" not in card:
+            # Flatten deck name to 3 levels
+            deck_parts = card["deck"].split("::")
+            if len(deck_parts) == 4:
+                card["deck"] = "::".join(deck_parts[1:])
+            # Natively route English cards into Learning Paths by default
+            if card["deck"].startswith("03_Languages::English") and "::Phonetics" not in card["deck"]:
+                card["deck"] = get_learning_path_deck(card["deck"], card)
+            compiled_cards.append(card)
+            continue
             
-    print("Error: Neither decks/ directory nor anki_cards_database.json found.", file=sys.stderr)
-    sys.exit(1)
+        # Reconstruct flat dictionary for build_card
+        flat_data = {
+            "deck": card.get("deck"),
+            "id": card.get("id"),
+            "template": card.get("template"),
+            **card.get("metadata", {}),
+            **card.get("content", {}),
+            **card.get("mnemonics", {}),
+            **card.get("interactivity", {})
+        }
+        
+        try:
+            compiled_nested = build_card(card["template"], flat_data)
+            
+            # Flatten compiled nested output in-memory for the sync engine
+            compiled = {
+                "id": compiled_nested.get("id"),
+                "deck": compiled_nested.get("deck"),
+                "template": compiled_nested.get("template"),
+                **compiled_nested.get("metadata", {}),
+                **compiled_nested.get("content", {}),
+                **compiled_nested.get("mnemonics", {}),
+                **compiled_nested.get("interactivity", {})
+            }
+            
+            # Flatten deck name to 3 levels (omit Pillar part)
+            deck_parts = compiled["deck"].split("::")
+            if len(deck_parts) == 4:
+                compiled["deck"] = "::".join(deck_parts[1:])
+                
+            # Natively route English cards into Learning Paths by default
+            if compiled["deck"].startswith("03_Languages::English") and "::Phonetics" not in compiled["deck"]:
+                compiled["deck"] = get_learning_path_deck(compiled["deck"], compiled)
+                
+            # Preserve original properties for model mapping & tag generation
+            compiled["template"] = card["template"]
+            compiled["original_tags"] = card.get("metadata", {}).get("tags", [])
+            compiled["model_name"] = "Engaging_Speaking_Model" if card["template"] == "T12_SpeakingPractice" else "Engaging_Cloze_Model"
+            
+            compiled_cards.append(compiled)
+        except Exception as e:
+            print(f"Warning: Failed to compile card {card.get('id', 'unknown')}: {e}", file=sys.stderr)
+            
+    print(f"Compiled and loaded {len(compiled_cards)} total cards.")
+    return compiled_cards
 
 def import_database():
     cards = load_all_cards()
@@ -506,12 +660,20 @@ def import_database():
         tags.append(card['deck'].split("::")[-1].lower())
         tags = sorted(list(set(tags))) # unique and sorted tags
 
+        # Generate related search links (Option A)
+        tags_list = card.get("original_tags", [])
+        topic_tags = [t for t in tags_list if t.startswith("source::") or t in ["memory_techniques", "feynman_method", "peg_system", "mnemonic_palace", "phonetics", "connected_speech"]]
+        related_tags_html = ""
+        if topic_tags:
+            links_html = " ".join(f'<a class="search-tag-link" href="anki://search?q=tag:{t}">#{t}</a>' for t in topic_tags)
+            related_tags_html = f'<div class="related-tags-section"><b>Búsquedas Relacionadas:</b> {links_html}</div>'
+
         model_name = card.get("model_name", "Engaging_Cloze_Model")
         if model_name == "Engaging_Speaking_Model":
             fields = {
                 "Prompt": card.get("prompt", card.get("text", "")),
                 "Scenario": card.get("scenario", ""),
-                "Explanation": card.get("explanation", ""),
+                "Explanation": card.get("explanation", "") + related_tags_html,
                 "Usage_Examples": card.get("usage", ""),
                 "Spanish_Translation": card.get("spanish", ""),
                 "Audio": card.get("audio", ""),
@@ -522,7 +684,7 @@ def import_database():
             fields = {
                 "Text": card['text'],
                 "Scenario": card['scenario'],
-                "Explanation": card['explanation'],
+                "Explanation": card['explanation'] + related_tags_html,
                 "Usage_Examples": card['usage'],
                 "Spanish_Translation": card['spanish'],
                 "Audio": card.get("audio", "")

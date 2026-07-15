@@ -127,31 +127,9 @@ def cmd_sync():
     """Runs 2-way synchronization with Anki Desktop."""
     print("=== SYNCHRONIZING DECKS WITH ANKI DESKTOP ===")
     
-    # 1. Load cards from JSON decks
-    cards = []
-    print(f"Reading cards from nested decks directory: {DECKS_DIR}...")
-    for root, _, files in os.walk(DECKS_DIR):
-        for file in sorted(files):
-            if file.endswith(".json") and file != "index.json" and file != "manifest.json":
-                file_path = os.path.join(root, file)
-                try:
-                    with open(file_path, "r", encoding="utf-8") as f:
-                        deck_cards = json.load(f)
-                        rel_path = os.path.relpath(file_path, DECKS_DIR)
-                        derived_deck = str(Path(rel_path).with_suffix("")).replace(os.sep, "::")
-                        for card in deck_cards:
-                            if "deck" not in card or not card["deck"]:
-                                card["deck"] = derived_deck
-                            
-                            # Natively route English cards into Learning Paths by default
-                            if card["deck"].startswith("03_Languages::English") and "::Phonetics" not in card["deck"]:
-                                card["deck"] = get_learning_path_deck(card["deck"], card)
-                                
-                        cards.extend(deck_cards)
-                except Exception as e:
-                    print(f"[-] Warning: Could not load {file_path}: {e}", file=sys.stderr)
-                    
-    print(f"Loaded {len(cards)} total cards from decks/ directory tree.")
+    # 1. Load and compile cards using anki_db_importer load_all_cards
+    from anki_db_importer import load_all_cards
+    cards = load_all_cards(base_dir=BASE_DIR)
     
     # 2. De-duplicate cards
     unique_cards = []
@@ -235,16 +213,25 @@ def cmd_sync():
     skipped_count = 0
     
     for card in cards:
-        tags = card.get("tags", [])
+        # Construct tags using original tags if available
+        tags = card.get("original_tags", card.get("tags", []))
         tags.append(card['deck'].split("::")[-1].lower())
         tags = sorted(list(set(tags)))
         
+        # Generate related search links (Option A)
+        tags_list = card.get("original_tags", [])
+        topic_tags = [t for t in tags_list if t.startswith("source::") or t in ["memory_techniques", "feynman_method", "peg_system", "mnemonic_palace", "phonetics", "connected_speech"]]
+        related_tags_html = ""
+        if topic_tags:
+            links_html = " ".join(f'<a class="search-tag-link" href="anki://search?q=tag:{t}">#{t}</a>' for t in topic_tags)
+            related_tags_html = f'<div class="related-tags-section"><b>Búsquedas Relacionadas:</b> {links_html}</div>'
+
         model_name = card.get("model_name", "Engaging_Cloze_Model")
         if model_name == "Engaging_Speaking_Model":
             fields = {
                 "Prompt": card.get("prompt", card.get("text", "")),
                 "Scenario": card.get("scenario", ""),
-                "Explanation": card.get("explanation", ""),
+                "Explanation": card.get("explanation", "") + related_tags_html,
                 "Usage_Examples": card.get("usage", ""),
                 "Spanish_Translation": card.get("spanish", ""),
                 "Audio": card.get("audio", ""),
@@ -256,7 +243,7 @@ def cmd_sync():
             fields = {
                 "Text": card['text'],
                 "Scenario": card['scenario'],
-                "Explanation": card['explanation'],
+                "Explanation": card['explanation'] + related_tags_html,
                 "Usage_Examples": card['usage'],
                 "Spanish_Translation": card['spanish'],
                 "Audio": card.get("audio", "")

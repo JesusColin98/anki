@@ -1,0 +1,333 @@
+[
+  {
+    "id": "3cf04e4815371bf0",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "operations"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Basics 🛡️: SIEM vs SOAR",
+      "text": "While a SIEM aggregates and analyzes security log data, a {{c1::SOAR}} platform automates threat response workflows using playbooks.",
+      "explanation": "SIEM (Security Information and Event Management) collects and correlates logs. SOAR (Security Orchestration, Automation, and Response) takes actions automatically, e.g. blocking IPs or isolating hosts using APIs.",
+      "spanish": "Mientras que un SIEM agrega y analiza datos de registros de seguridad, una plataforma SOAR automatiza los flujos de trabajo de respuesta a amenazas mediante playbooks.",
+      "usage": "SIEM: <code>Splunk, Sentinel, ELK</code><br>SOAR: <code>Splunk Phantom, Cortex XSOAR</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "eaaf24ff04e5f3e8",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "firewall"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Basics 🛡️: Firewall Inspection",
+      "text": "Unlike stateless packet filtering which only checks headers individually, {{c1::stateful inspection}} firewalls track the state of active TCP connections to validate incoming traffic.",
+      "explanation": "Stateful firewalls maintain a state table. If a packet matches an established outbound connection (e.g., in ESTABLISHED state), it is automatically allowed back in, reducing rule complexity.",
+      "spanish": "A diferencia del filtrado de paquetes sin estado que solo verifica los encabezados individualmente, los firewalls de inspección con estado (stateful inspection) rastrean el estado de las conexiones TCP activas.",
+      "usage": "Stateless: <code>ACLs based only on IP/Port</code><br>Stateful: <code>Checks connection handshake state</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8883665789cfb87f",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "operations"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Basics 🛡️: Decoy Systems",
+      "text": "A decoy server configured to look like a high-value vulnerable target to lure attackers and log their tactics is called a {{c1::honeypot}}.",
+      "explanation": "Honeypots have no legitimate business traffic. Any interaction with them is immediately flagged as a high-fidelity security alert, indicating probing or compromise.",
+      "spanish": "Un servidor señuelo configurado para parecer un objetivo vulnerable de alto valor con el fin de atraer a los atacantes y registrar sus tácticas se denomina honeypot.",
+      "usage": "Types: <code>Low-Interaction (fake services) vs High-Interaction (real VMs)</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "733e857cd321c0d5",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "siem"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Operations ⚙️: Alert Fatigue Tuning",
+      "text": "To prevent analyst alert fatigue, engineers perform alert tuning by modifying rule thresholds to minimize {{c1::false positives}}.",
+      "explanation": "A false positive is a legitimate system action flagged as malicious. High false positive rates clog incident queues, causing analysts to miss real attacks (false negatives).",
+      "spanish": "Para evitar la fatiga por alertas de los analistas, los ingenieros realizan un ajuste de alertas modificando los umbrales de las reglas para minimizar los falsos positivos.",
+      "usage": "Tuning practice: <code>Tuning out DNS queries to known CDN servers from security scanners</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "296ccbda00c860fb",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "operations"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Operations ⚙️: Threat Hunting",
+      "text": "The security practice of proactively searching networks to find malicious activities that have bypassed active security controls is called {{c1::Threat Hunting}}.",
+      "explanation": "Threat hunting is proactive. Instead of waiting for a SIEM alert, hunters formulate hypotheses based on threat intelligence and query historical logs for stealthy attacker behaviors.",
+      "spanish": "La práctica de seguridad de buscar proactivamente en las redes para encontrar actividades maliciosas que han eludido los controles de seguridad activos se denomina Threat Hunting.",
+      "usage": "Trigger: <code>Hypothesis creation based on new vulnerability disclosures</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "97ae53c68d04fb66",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "firewall"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Operations ⚙️: Egress Filtering",
+      "text": "To prevent compromised internal servers from establishing outbound connections to malicious C2 servers, network admins implement {{c1::egress filtering}}.",
+      "explanation": "Egress filtering blocks outbound network traffic. By denying servers from connecting out to arbitrary external ports (allowing only specific destination IPs or HTTP proxies), exfiltration and reverse shells are blocked.",
+      "spanish": "Para evitar que los servidores internos comprometidos establezcan conexiones salientes con servidores C2 maliciosos, los administradores de red implementan el filtrado de salida (egress filtering).",
+      "usage": "Rule: <code>Deny all outbound traffic from database subnets to internet</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "07144d541d05b64f",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "architecture"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Operations ⚙️: Defense-in-Depth Model",
+      "text": "The cybersecurity strategy of layering multiple defensive controls across network, host, and data levels is called {{c1::Defense-in-Depth}}.",
+      "explanation": "No single security control is foolproof. If an attacker bypasses the network firewall, endpoint detection (EDR), user privilege limits, and file encryption still stand in their way.",
+      "spanish": "La estrategia de ciberseguridad de organizar múltiples controles defensivos en capas a nivel de red, host y datos se denomina defensa en profundidad (Defense-in-Depth).",
+      "usage": "Layers: <code>Physical Security → Perimeter Firewall → EDR → Access control (IAM) → Data Encryption</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9c7adf68f883bb9c",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "siem",
+        "quiz"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Engineering 🛠️: SIEM Alert Correlation",
+      "text": "<b>Question:</b> Which log correlation logic provides the highest fidelity indicator of a successful brute-force attack followed by compromised access?<br>Options:<ul><li>A firewall deny rule followed by an administrative login</li><li>Multiple failed login events from an IP followed by a successful login event from that same IP</li><li>An outbound web connection followed immediately by a DNS TXT record query</li><li>Multiple successful logins from different internal subnets within the same hour</li></ul><br>Correct Answer: {{c1::Multiple failed login events from an IP followed by a successful login event from that same IP}}",
+      "explanation": "Brute-force attempts generate multiple failed login events (e.g. Windows Event ID 4625). If the sequence terminates with a successful login (Event ID 4624) from the same source IP, it indicates the attacker guessed the password.",
+      "spanish": "¿Qué lógica de correlación de registros proporciona el indicador más fiel de un ataque de fuerza bruta exitoso seguido de un acceso comprometido?",
+      "usage": "<ul><li><b>Brute-force signature</b>: Event ID 4625 (Failed) followed by Event ID 4624 (Success) from the same Source IP.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e3827412f5216afb",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "ids_ips"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Engineering 🛠️: Active Defense Controls",
+      "text": "Unlike an Intrusion Detection System (IDS) which only flags alerts, an {{c1::Intrusion Prevention System (IPS)}} sits in-line and drops matching traffic blocks dynamically.",
+      "explanation": "IDS runs out-of-band (via network span ports) and cannot block traffic. IPS runs in-line (packets pass through it) allowing it to drop packets and terminate malicious TCP sessions.",
+      "spanish": "A diferencia de un Sistema de Detección de Intrusos (IDS) que solo marca alertas, un Sistema de Prevención de Intrusos (IPS) se ubica en línea y descarta dinámicamente bloques de tráfico coincidentes.",
+      "usage": "IDS placement: <code>TAP/SPAN network mirror ports</code><br>IPS placement: <code>Directly between firewall and switch (in-line)</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e01d2f15fd8c2c8a",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defensive",
+        "hardening"
+      ]
+    },
+    "content": {
+      "scenario": "Security Operations Engineering 🛠️: Active Directory Hardening",
+      "text": "To mitigate Active Directory Kerberoasting attacks (where service ticket hashes are dumped and cracked offline), administrators must configure accounts to use {{c1::AES-256 encryption}} and strong passwords.",
+      "explanation": "Kerberoasting exploits weak RC4 encryption hashes returned by Active Directory when querying a Service Principal Name (SPN). Enforcing AES-256 and long passwords makes offline cracking practically impossible.",
+      "spanish": "Para mitigar los ataques de Kerberoasting en Active Directory (donde los hashes de tickets de servicio se extraen y se descifran sin conexión), los administradores deben configurar las cuentas para usar cifrado AES-256.",
+      "usage": "Remediation: <code>1. Set Service Account passwords to 25+ characters, 2. Enforce AES Kerberos encryption</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

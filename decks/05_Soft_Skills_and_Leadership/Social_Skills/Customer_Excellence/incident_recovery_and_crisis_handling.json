@@ -1,0 +1,3872 @@
+[
+  {
+    "id": "0fbdc4aafd3011df",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "leadership",
+        "service",
+        "customer_recovery"
+      ]
+    },
+    "content": {
+      "scenario": "Service Leadership: Empathy Under Pressure 💛",
+      "text": "In a crisis, the leader should combine calm communication with genuine {{c1::empathy}} so the team and the customer feel supported.",
+      "explanation": "Empathy reduces panic and helps both the team and the customer stay aligned during high-stress moments.",
+      "spanish": "En una crisis, el líder debe combinar una comunicación serena con empatía genuina para que el equipo y el cliente se sientan apoyados.",
+      "usage": "Crucial in support, operations, and incident response situations."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5686107b207d81dc",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "leadership",
+        "support",
+        "ownership"
+      ]
+    },
+    "content": {
+      "scenario": "Service Leadership: Ownership 🧩",
+      "text": "Customers remember whether someone took {{c1::ownership}} of the issue, even when the solution is not immediate.",
+      "explanation": "Ownership builds trust because it shows commitment and follow-through.",
+      "spanish": "Los clientes recuerdan si alguien asumió la responsabilidad del problema, incluso cuando la solución no es inmediata.",
+      "usage": "Essential for support leads and managers in customer-facing roles."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a9a241bae6f9308d",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "leadership",
+        "retrospective",
+        "continuous_improvement"
+      ]
+    },
+    "content": {
+      "scenario": "Service Leadership: Retrospective 🔍",
+      "text": "A good retrospective focuses on what happened, what should change, and how the team will improve the {{c1::process}}.",
+      "explanation": "Retrospectives turn incidents into learning opportunities instead of blame cycles.",
+      "spanish": "Una buena retrospectiva se centra en qué pasó, qué debería cambiar y cómo el equipo mejorará el proceso.",
+      "usage": "Very important in support, engineering, and operations."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c905ddbc1b016d79",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "crisis_management",
+        "incident_response",
+        "p0_p1"
+      ]
+    },
+    "content": {
+      "scenario": "Crisis: Incident Updates (P1/P0) 📢",
+      "text": "During a critical P0 incident, the status updates must follow a strict three-part structure: {{c1::Current Impact}}, {{c2::Investigation Focus}}, and {{c3::ETA for Next Update}}.",
+      "explanation": "This structure prevents client panic and reduces inbound ticket spikes by establishing a predictable communication heartbeat. Setting an ETA for the next update keeps clients from constantly asking for news.",
+      "spanish": "Durante un incidente crítico P0, las actualizaciones de estado deben seguir una estructura estricta de tres partes: Impacto actual, Enfoque de investigación y Tiempo estimado para la próxima actualización.",
+      "usage": "A mandatory communication standard for Enterprise Support during major cloud outages."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "144e2444d250e260",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "crisis_management",
+        "incident_commander",
+        "communication"
+      ]
+    },
+    "content": {
+      "scenario": "Crisis: Incident Commander (IC) Role 🧑‍✈️",
+      "text": "To maintain focus during a high-pressure crisis bridge, the {{c1::Incident Commander (IC)}} must isolate technical engineers from {{c2::executive noise/updates}} so the engineers can focus exclusively on diagnostics.",
+      "explanation": "The Incident Commander controls the bridge. They manage stakeholders and direct communication, ensuring that engineers are not distracted by VPs or customers demanding immediate answers.",
+      "spanish": "Para mantener el enfoque durante un puente de crisis de alta presión, el Comandante de Incidentes (IC) debe aislar a los ingenieros técnicos del ruido o actualizaciones ejecutivas para que los ingenieros puedan concentrarse exclusivamente en el diagnóstico.",
+      "usage": "Crucial for managing stress and average resolution times (MTTR) during system outages."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b468087525bb2729",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "crisis_management",
+        "jargon_translation",
+        "communication"
+      ]
+    },
+    "content": {
+      "scenario": "Crisis: Translation of Technical Jargon 🗣️",
+      "text": "When translating engineering updates for external clients, the agent must avoid raw logs or system architecture details and instead frame the status in terms of {{c1::business/functional impact}} and {{c2::mitigation steps}}.",
+      "explanation": "Clients in a crisis care about what is broken for their users and how to bypass it. Technical jargon about database replication lag or memory leaks should be translated into clear business-level statements.",
+      "spanish": "Al traducir actualizaciones de ingeniería para clientes externos, el agente debe evitar registros sin procesar o detalles de arquitectura del sistema y, en su lugar, enmarcar el estado en términos de impacto comercial/funcional y pasos de mitigación.",
+      "usage": "Bridging the gap between engineering teams and customer-facing support roles."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "173f1b6211d033a2",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "support_excellence",
+        "async_communication",
+        "one_touch"
+      ]
+    },
+    "content": {
+      "scenario": "Written: One-Touch Resolution Mindset 🎯",
+      "text": "To achieve a one-touch resolution on complex tickets, the engineer must {{c1::anticipate the next logical question}} and provide the solution or commands for that scenario beforehand.",
+      "explanation": "One-touch resolution avoids back-and-forth emails. By thinking ahead (e.g., 'If they have version X, they will need this extra flag'), you save days of delay and boost customer satisfaction.",
+      "spanish": "Para lograr una resolución al primer contacto en tickets complejos, el ingeniero debe anticipar la siguiente pregunta lógica y proporcionar la solución o los comandos para ese escenario de antemano.",
+      "usage": "A gold standard habit for premium tier async support teams."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "092b72233e8b8d6d",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "support_excellence",
+        "formatting",
+        "readability"
+      ]
+    },
+    "content": {
+      "scenario": "Written: Formatting for Impact 👁️",
+      "text": "When structuring long technical emails for clients in a crisis, engineers should avoid long paragraphs and instead use {{c1::bold callouts for action items}} and {{c2::fenced code blocks for executable commands}}.",
+      "explanation": "Clients under stress have short attention spans. Structuring text with bold items and separate code blocks allows them to scan the email and safely execute commands in seconds.",
+      "spanish": "Al estructurar correos electrónicos técnicos largos para clientes en crisis, los ingenieros deben evitar los párrafos largos y, en su lugar, usar llamadas en negrita para los elementos de acción y bloques de código delimitados para los comandos ejecutables.",
+      "usage": "Best practice for technical support documentation and email communications."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e1b05a9968dacfa9",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "social_skills",
+        "support_excellence",
+        "empathy"
+      ]
+    },
+    "content": {
+      "scenario": "Support Excellence: Empathic Alignment 💖",
+      "text": "When handling a frustrated user, a support specialist uses {{c1::affective empathy}} to acknowledge their feelings and {{c2::cognitive empathy}} to understand the logical root of their issue.",
+      "explanation": "Affective empathy connects emotionally (e.g., feeling their frustration), while cognitive empathy allows you to intellectually grasp their perspective and problem-solve without getting emotionally overwhelmed.",
+      "spanish": "Al tratar con un usuario frustrado, un especialista en soporte utiliza la empatía afectiva para reconocer sus sentimientos y la empatía cognitiva para comprender la raíz lógica de su problema.",
+      "usage": "Essential for balancing self-care with high-quality support in demanding helpdesk roles."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f862af69ddd76157",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "social_skills",
+        "support_excellence",
+        "de_escalation"
+      ]
+    },
+    "content": {
+      "scenario": "Support Excellence: De-escalation & Containment 🧯",
+      "text": "To prevent an angry customer's issue from escalating, the agent must perform {{c1::de-escalation/containment}} by validating their frustration, taking immediate ownership, and outlining a clear path to resolution.",
+      "explanation": "Containment involves managing the customer's emotional state early in the interaction so that logical problem-solving can occur. Validating feelings first reduces the customer's need to fight for attention.",
+      "spanish": "Para evitar que el problema de un cliente enojado se intensifique, el agente debe realizar contención validando su frustración, asumiendo la responsabilidad inmediata y delineando un camino claro hacia la resolución.",
+      "usage": "A critical skill when handling high-severity service outages or billing disputes."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b1fb61e475e26ed9",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "social_skills",
+        "support_excellence",
+        "active_listening"
+      ]
+    },
+    "content": {
+      "scenario": "Support Excellence: Active Listening 👂",
+      "text": "Instead of formulating a response while the user is still speaking, a support professional practices {{c1::active listening}} by waiting, summarizing the issue in their own words, and asking clarifying questions.",
+      "explanation": "Active listening ensures the customer feels heard and prevents misdiagnosis of the technical issue. Paraphrasing is the key tool here.",
+      "spanish": "En lugar de formular una respuesta mientras el usuario aún está hablando, un profesional de soporte practica la escucha activa esperando, resumiendo el problema con sus propias palabras y haciendo preguntas aclaratorias.",
+      "usage": "Avoids premature assumptions and reduces average ticket resolution time."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "efa0df2ab7bc56ae",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "social_skills",
+        "support_excellence",
+        "boundaries"
+      ]
+    },
+    "content": {
+      "scenario": "Support Excellence: Boundary Setting 🚧",
+      "text": "When dealing with abusive customers, a successful agent maintains professionalism while setting {{c1::firm boundaries}} by stating what actions they can take and politely requesting a respectful tone.",
+      "explanation": "Setting boundaries protects the agent's mental health while keeping the focus on technical troubleshooting. It involves calling out unacceptable behavior calmly and objectively.",
+      "spanish": "Al tratar con clientes abusivos, un agente exitoso mantiene el profesionalismo al establecer límites firmes, indicando qué acciones puede tomar y solicitando cortésmente un tono respetuoso.",
+      "usage": "Essential for handling toxic client interactions without losing composure or violating company policy."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ad88db6771108904",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "social_skills",
+        "call_etiquette",
+        "agenda"
+      ]
+    },
+    "content": {
+      "scenario": "Call Etiquette: Setting the Agenda 📋",
+      "text": "At the start of a call, the host establishes trust and structure by {{c1::setting a clear agenda}} and stating the expected outcome of the meeting.",
+      "explanation": "Setting the agenda immediately defines the scope of the call, preventing participants from derailing the meeting with off-topic issues.",
+      "spanish": "Al inicio de una llamada, el anfitrión establece confianza y estructura al definir una agenda clara y declarar el resultado esperado de la reunión.",
+      "usage": "A key habit to keep calls concise and productive."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ec6ddbc5bc06384a",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "social_skills",
+        "call_etiquette",
+        "communication"
+      ]
+    },
+    "content": {
+      "scenario": "Call Etiquette: Managing Dead Air 🤫",
+      "text": "During a technical support call, instead of leaving uncomfortable silence while looking up information, the agent should {{c1::narrate their actions}} to keep the customer engaged.",
+      "explanation": "Narrating your actions (e.g., 'I am checking the server logs right now, this should take about 15 seconds') reduces customer anxiety and maintains connection during pauses.",
+      "spanish": "Durante una llamada de soporte técnico, en lugar de dejar un silencio incómodo mientras busca información, el agente debe narrar sus acciones para mantener al cliente involucrado.",
+      "usage": "Prevents the customer from wondering if the call was dropped or if the agent is inactive."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c53f9f19635e23a4",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "social_skills",
+        "call_etiquette",
+        "productivity"
+      ]
+    },
+    "content": {
+      "scenario": "Call Etiquette: Summarizing Next Steps 📝",
+      "text": "To ensure accountability, every productive call must end by {{c1::summarizing next steps}}, specifying who is responsible for each action and by when.",
+      "explanation": "Summarizing action items at the end of the call prevents misunderstandings and guarantees that decisions made translate into actual progress.",
+      "spanish": "Para garantizar la rendición de cuentas, toda llamada productiva debe finalizar resumiendo los siguientes pasos, especificando quién es responsable de cada acción y para cuándo.",
+      "usage": "The closing ritual of any high-performing support or business meeting."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7d3881629749a0d9",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "social_skills",
+        "call_etiquette",
+        "time_management"
+      ]
+    },
+    "content": {
+      "scenario": "Call Etiquette: Managing Call Duration ⏱️",
+      "text": "To prevent call bloat, a support engineer uses {{c1::gentle redirection}} to guide off-topic customers back to the primary troubleshooting goal.",
+      "explanation": "Gentle redirection involves validating the customer's tangent but immediately shifting the focus back to the core issue (e.g., 'That sounds interesting, but to make sure we fix your login issue, let's look at...').",
+      "spanish": "Para evitar que la llamada se alargue innecesariamente, un ingeniero de soporte utiliza la redirección sutil para guiar a los clientes que se desvían del tema de regreso al objetivo principal de resolución de problemas.",
+      "usage": "Keeps call handling times (AHT) within targets while maintaining high customer satisfaction."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "37743fbe397d74b3",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "social_skills",
+        "body_language"
+      ]
+    },
+    "content": {
+      "scenario": "Social Skills: Body Language 🧍",
+      "text": "According to body language studies, keeping your palms visible and facing upward is a universal sign of {{c1::honesty and openness}}.",
+      "explanation": "Evolutionarily, showing open palms signals to others that you are unarmed, friendly, and non-threatening. It builds trust instantly in professional negotiations or public speaking.",
+      "spanish": "Según los estudios de lenguaje corporal, mantener las palmas de las manos visibles y hacia arriba es una señal universal de honestidad y apertura.",
+      "usage": "Presentation tip: Keep hands above the table and use open-palm gestures when presenting concepts or explaining issues."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d16d9cb6d2a22f75",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "presence",
+        "vocal_control",
+        "pauses"
+      ]
+    },
+    "content": {
+      "scenario": "Presence: Judicial Pauses 🤫",
+      "text": "A {{c1::Judicial Pause}} is a deliberate silence inserted {{c2::immediately after delivering a key point}} to allow the weight of the statement to settle.",
+      "explanation": "Rushing to speak after a major revelation dilutes its impact. Pausing for 2-3 seconds gives the listener time to digest the meaning and signals confidence, as the speaker is comfortable holding the silence.",
+      "spanish": "Una pausa enjuiciadora es un silencio deliberado introducido inmediatamente después de entregar un punto clave para permitir que el peso de la declaración se asiente.",
+      "usage": "Applied in public speaking, key meetings, and high-impact negotiations."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "657d4b056f02f529",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "presence",
+        "body_language",
+        "grounding"
+      ]
+    },
+    "content": {
+      "scenario": "Presence: Grounding Posture 🧍",
+      "text": "To project absolute stability and eliminate anxious swaying, speakers use a {{c1::Grounding Posture}}, placing their feet shoulder-width apart and distributing weight {{c2::equally on both legs}}.",
+      "explanation": "Fidgeting or pacing aimlessly signals nervousness. Grounding anchors the lower body, which naturally improves breathing capacity and allows the speaker to use deliberate, calm hand gestures.",
+      "spanish": "Para proyectar estabilidad absoluta y eliminar el balanceo ansioso, los oradores usan una postura de arraigo, colocando los pies al ancho de los hombros y distribuyendo el peso por igual en ambas piernas.",
+      "usage": "Critical for stage presentations, key pitches, and media interviews."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "52e1bdcdb93f294a",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "presence",
+        "eye_contact",
+        "body_language"
+      ]
+    },
+    "content": {
+      "scenario": "Presence: Selective Eye Contact 👀",
+      "text": "In public speaking, instead of scanning the crowd, a presenter practices selective eye contact by holding gaze with {{c1::one specific person}} for the duration of {{c2::a single complete thought/sentence}}.",
+      "explanation": "Scanning the room creates visual noise and looks anxious. Holding contact with one individual for 3-5 seconds creates a sense of direct conversation, which builds connection and naturally slows down the presenter's delivery.",
+      "spanish": "En el hablar en público, en lugar de escanear a la multitud, el presentador practica el contacto visual selectivo al sostener la mirada con una persona específica durante una frase completa.",
+      "usage": "Recommended for large presentations, team updates, and boardrooms."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "36cf1d1957ab1950",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "presence",
+        "active_listening",
+        "body_language"
+      ]
+    },
+    "content": {
+      "scenario": "Presence: The Triple Nod 🤝",
+      "text": "The {{c1::Triple Nod}} is a soft-skills technique where you slowly nod three times while listening, which psychologically encourages the speaker to {{c2::elaborate and share deeper insights}}.",
+      "explanation": "Nodding rapidly signals impatience ('hurry up'). Nodding slowly three times in succession signals active processing and validation. It shows you are engaged and prompts the speaker to expand, often revealing core concerns.",
+      "spanish": "El asentimiento triple es una técnica de habilidades blandas en la que asientes lentamente tres veces mientras escuchas, lo que alienta psicológicamente al hablante a profundizar y compartir más detalles.",
+      "usage": "A key active listening tool for user interviews, support containment, and team coaching."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "941dcdf6c1ab920d",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "presence",
+        "gestures",
+        "body_language"
+      ]
+    },
+    "content": {
+      "scenario": "Presence: Framing Gestures 👐",
+      "text": "To emphasize structure and boundary parameters, speakers use {{c1::Framing Gestures}}, placing their hands stable at chest-height as if holding an imaginary {{c2::box or boundary}}.",
+      "explanation": "Broad, wild gestures signal excitement or lack of control. Framing gestures focus the audience's visual attention on a defined spatial boundary near the speaker's core, projecting authority and structured, logical thinking.",
+      "spanish": "Para enfatizar la estructura y los límites, los oradores usan gestos de enmarcación, colocando sus manos estables a la altura del pecho como si sostuvieran una caja o límite imaginario.",
+      "usage": "Used when laying out business choices, security boundaries, or operational policies."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6f4cc017a9a7ee88",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Posture}} is defined as: Pull your shoulders back and down. Expand your chest slightly to project openness.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Posture' es: Pull your shoulders back and down. Expand your chest slightly to project openness.",
+      "usage": "Rule: <code>The Posture</code><br>Description: Pull your shoulders back and down. Expand your chest slightly to project openness."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5b437acf2d1985fa",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Eye Contact}} is defined as: Establish a friendly, 3-second eye contact connection. Avoid staring, but do not look down immediately.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Eye Contact' es: Establish a friendly, 3-second eye contact connection. Avoid staring, but do not look down immediately.",
+      "usage": "Rule: <code>The Eye Contact</code><br>Description: Establish a friendly, 3-second eye contact connection. Avoid staring, but do not look down immediately."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "675376d20dd69d43",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Greeting}} is defined as: Use a warm, resonant voice. Keep your handshakes firm and match the other person's grip pressure.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Greeting' es: Use a warm, resonant voice. Keep your handshakes firm and match the other person's grip pressure.",
+      "usage": "Rule: <code>The Greeting</code><br>Description: Use a warm, resonant voice. Keep your handshakes firm and match the other person's grip pressure."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "757e14b4acf75a39",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Downward Inflection}} is defined as: Stating facts with a descending pitch at the end of sentences conveys authority and certainty.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Downward Inflection' es: Stating facts with a descending pitch at the end of sentences conveys authority and certainty.",
+      "usage": "Rule: <code>Downward Inflection</code><br>Description: Stating facts with a descending pitch at the end of sentences conveys authority and certainty."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f3c1690e25fa504b",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Avoiding \"Uptalk\"}} is defined as: Rising pitch at the end of statements makes them sound like questions, conveying doubt and insecurity.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Avoiding \"Uptalk\"' es: Rising pitch at the end of statements makes them sound like questions, conveying doubt and insecurity.",
+      "usage": "Rule: <code>Avoiding \"Uptalk\"</code><br>Description: Rising pitch at the end of statements makes them sound like questions, conveying doubt and insecurity."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9cdf6935ded3eb5d",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Vocal Resonance}} is defined as: Speak from your chest (chest voice) rather than your throat or head to sound warm and reliable.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Vocal Resonance' es: Speak from your chest (chest voice) rather than your throat or head to sound warm and reliable.",
+      "usage": "Rule: <code>Vocal Resonance</code><br>Description: Speak from your chest (chest voice) rather than your throat or head to sound warm and reliable."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1a8d81e8be8690ca",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Eliminate Minimizers}} is defined as: Remove words like \"just\" (*\"I just wanted to check...\"*), \"actually\" (*\"Actually, I think...\"*), or \"sorry\" (*\"Sorry to bother you...\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Eliminate Minimizers' es: Remove words like \"just\" (*\"I just wanted to check...\"*), \"actually\" (*\"Actually, I think...\"*), or \"sorry\" (*\"Sorry to bother you...\"*).",
+      "usage": "Rule: <code>Eliminate Minimizers</code><br>Description: Remove words like \"just\" (*\"I just wanted to check...\"*), \"actually\" (*\"Actually, I think...\"*), or \"sorry\" (*\"Sorry to bother you...\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5ad2ae5ede5f3f3d",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Own Your Opinion}} is defined as: Replace *\"I think this is good\"* with *\"This is the recommended solution.\"*",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Own Your Opinion' es: Replace *\"I think this is good\"* with *\"This is the recommended solution.\"*",
+      "usage": "Rule: <code>Own Your Opinion</code><br>Description: Replace *\"I think this is good\"* with *\"This is the recommended solution.\"*"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "45755fb89394d9c7",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Filler Word Ban}} is defined as: Eliminate \"mmm\", \"uh\", \"like\", and \"so\" by replacing them with silent pauses.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Filler Word Ban' es: Eliminate \"mmm\", \"uh\", \"like\", and \"so\" by replacing them with silent pauses.",
+      "usage": "Rule: <code>The Filler Word Ban</code><br>Description: Eliminate \"mmm\", \"uh\", \"like\", and \"so\" by replacing them with silent pauses."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b5048af810663ac5",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Voice Projection}} is defined as: Speak from your diaphragm. Take deep belly breaths, not shallow chest breaths.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Voice Projection' es: Speak from your diaphragm. Take deep belly breaths, not shallow chest breaths.",
+      "usage": "Rule: <code>Voice Projection</code><br>Description: Speak from your diaphragm. Take deep belly breaths, not shallow chest breaths."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1e11549ec4a8cc0f",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Claiming Space Early}} is defined as: Make a contribution in the first 10 minutes of a meeting, even if it is just a clarifying question.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Claiming Space Early' es: Make a contribution in the first 10 minutes of a meeting, even if it is just a clarifying question.",
+      "usage": "Rule: <code>Claiming Space Early</code><br>Description: Make a contribution in the first 10 minutes of a meeting, even if it is just a clarifying question."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1037aedfb1094b24",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Slow Down your Cadence}} is defined as: High-status individuals speak at a measured, controlled pace (~130-150 words per minute).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Slow Down your Cadence' es: High-status individuals speak at a measured, controlled pace (~130-150 words per minute).",
+      "usage": "Rule: <code>Slow Down your Cadence</code><br>Description: High-status individuals speak at a measured, controlled pace (~130-150 words per minute)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a8e530caa164ea9b",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Hook}} is defined as: Start with a surprise, a dramatic question, or a vivid sensory detail. Never start with dry credentials or background.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Hook' es: Start with a surprise, a dramatic question, or a vivid sensory detail. Never start with dry credentials or background.",
+      "usage": "Rule: <code>The Hook</code><br>Description: Start with a surprise, a dramatic question, or a vivid sensory detail. Never start with dry credentials or background."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f16a555059431bd5",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Conflict}} is defined as: Clearly outline the obstacle or pain point.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Conflict' es: Clearly outline the obstacle or pain point.",
+      "usage": "Rule: <code>The Conflict</code><br>Description: Clearly outline the obstacle or pain point."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ace443b041dd8772",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Resolution}} is defined as: Deliver the lesson or the solution clearly.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Resolution' es: Deliver the lesson or the solution clearly.",
+      "usage": "Rule: <code>The Resolution</code><br>Description: Deliver the lesson or the solution clearly."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f112b7db9d7ba665",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Open Gestures}} is defined as: Show your palms (signals honesty and lack of threat).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Open Gestures' es: Show your palms (signals honesty and lack of threat).",
+      "usage": "Rule: <code>Open Gestures</code><br>Description: Show your palms (signals honesty and lack of threat)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d61a7a2ca7c1f17e",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Relaxed Asymmetry}} is defined as: Avoid standing like a wooden post. Shift your weight naturally to look comfortable.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Relaxed Asymmetry' es: Avoid standing like a wooden post. Shift your weight naturally to look comfortable.",
+      "usage": "Rule: <code>Relaxed Asymmetry</code><br>Description: Avoid standing like a wooden post. Shift your weight naturally to look comfortable."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "09605c20cc2227d4",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Smile While Speaking}} is defined as: It alters your vocal cords slightly, making your voice sound warmer and more engaging.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Smile While Speaking' es: It alters your vocal cords slightly, making your voice sound warmer and more engaging.",
+      "usage": "Rule: <code>Smile While Speaking</code><br>Description: It alters your vocal cords slightly, making your voice sound warmer and more engaging."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7a9912f0a941bc9b",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Feet Indicator}} is defined as: If someone's feet are pointed toward the door, they want to leave, regardless of how polite their face is.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Feet Indicator' es: If someone's feet are pointed toward the door, they want to leave, regardless of how polite their face is.",
+      "usage": "Rule: <code>The Feet Indicator</code><br>Description: If someone's feet are pointed toward the door, they want to leave, regardless of how polite their face is."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "136628ed451f4041",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Micro-expressions}} is defined as: Watch for brief flashes of frustration (tight lips) or skepticism (one raised eyebrow).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Micro-expressions' es: Watch for brief flashes of frustration (tight lips) or skepticism (one raised eyebrow).",
+      "usage": "Rule: <code>Micro-expressions</code><br>Description: Watch for brief flashes of frustration (tight lips) or skepticism (one raised eyebrow)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5b90d6f52cf1c282",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Mirroring}} is defined as: When people are in agreement, they naturally mirror each other's postures.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Mirroring' es: When people are in agreement, they naturally mirror each other's postures.",
+      "usage": "Rule: <code>Mirroring</code><br>Description: When people are in agreement, they naturally mirror each other's postures."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b040ad72f5e1edfb",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::SBI Model}} is defined as: *   **Situation**: Describe the specific context (*\"During yesterday's client meeting...\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'SBI Model' es: *   **Situation**: Describe the specific context (*\"During yesterday's client meeting...\"*).",
+      "usage": "Rule: <code>SBI Model</code><br>Description: *   **Situation**: Describe the specific context (*\"During yesterday's client meeting...\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b69ba74c10033837",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Behavior}} is defined as: Describe the objective action (*\"...you interrupted the client twice...\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Behavior' es: Describe the objective action (*\"...you interrupted the client twice...\"*).",
+      "usage": "Rule: <code>Behavior</code><br>Description: Describe the objective action (*\"...you interrupted the client twice...\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "650533395ed30d6a",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Impact}} is defined as: Describe the outcome (*\"...which made them defensive and stopped the flow of the pitch.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Impact' es: Describe the outcome (*\"...which made them defensive and stopped the flow of the pitch.\"*).",
+      "usage": "Rule: <code>Impact</code><br>Description: Describe the outcome (*\"...which made them defensive and stopped the flow of the pitch.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1d210f9918c8eb4e",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Collaborate on Solution}} is defined as: *\"How can we ensure they have space to finish their slides next time?\"*",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Collaborate on Solution' es: *\"How can we ensure they have space to finish their slides next time?\"*",
+      "usage": "Rule: <code>Collaborate on Solution</code><br>Description: *\"How can we ensure they have space to finish their slides next time?\"*"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "739766fcd91f2351",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Active De-escalation}} is defined as: Lower your volume and slow down your tempo.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Active De-escalation' es: Lower your volume and slow down your tempo.",
+      "usage": "Rule: <code>Active De-escalation</code><br>Description: Lower your volume and slow down your tempo."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9200b8ad43cae825",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Neutral Labeling}} is defined as: Describe the emotion without judgment (*\"It seems you are feeling frustrated about this timeline.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Neutral Labeling' es: Describe the emotion without judgment (*\"It seems you are feeling frustrated about this timeline.\"*).",
+      "usage": "Rule: <code>Neutral Labeling</code><br>Description: Describe the emotion without judgment (*\"It seems you are feeling frustrated about this timeline.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f8e467478247d8cb",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Selective Agreement}} is defined as: Find a small point you agree on to diffuse tension (*\"You are absolutely right that this delay is costly.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Selective Agreement' es: Find a small point you agree on to diffuse tension (*\"You are absolutely right that this delay is costly.\"*).",
+      "usage": "Rule: <code>Selective Agreement</code><br>Description: Find a small point you agree on to diffuse tension (*\"You are absolutely right that this delay is costly.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2bd3a54153a68de5",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Validation}} is defined as: Acknowledge the request (*\"I appreciate you thinking of me for this proposal.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Validation' es: Acknowledge the request (*\"I appreciate you thinking of me for this proposal.\"*).",
+      "usage": "Rule: <code>The Validation</code><br>Description: Acknowledge the request (*\"I appreciate you thinking of me for this proposal.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "72ff3e55203bde16",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Direct Refusal}} is defined as: Say no without using weak excuses (*\"However, I cannot take this on due to my current project commitments.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Direct Refusal' es: Say no without using weak excuses (*\"However, I cannot take this on due to my current project commitments.\"*).",
+      "usage": "Rule: <code>The Direct Refusal</code><br>Description: Say no without using weak excuses (*\"However, I cannot take this on due to my current project commitments.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3b202a539f440bcd",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Alternative}} is defined as: Offer an alternative (*\"I can review the final draft next Thursday, or you can ask Sarah who has capacity.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Alternative' es: Offer an alternative (*\"I can review the final draft next Thursday, or you can ask Sarah who has capacity.\"*).",
+      "usage": "Rule: <code>The Alternative</code><br>Description: Offer an alternative (*\"I can review the final draft next Thursday, or you can ask Sarah who has capacity.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f2cf20ecbf418bff",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Bridging Technique}} is defined as: Use the speaker's last words to launch your point.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Bridging Technique' es: Use the speaker's last words to launch your point.",
+      "usage": "Rule: <code>The Bridging Technique</code><br>Description: Use the speaker's last words to launch your point."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e46134e83538a8a2",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Bridging Phrases}} is defined as: *   *\"Building on that point, we should also consider...\"*",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Bridging Phrases' es: *   *\"Building on that point, we should also consider...\"*",
+      "usage": "Rule: <code>Bridging Phrases</code><br>Description: *   *\"Building on that point, we should also consider...\"*"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5644a81868246047",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Hand Gesture}} is defined as: Raise your hand slightly to signal you have something to add.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Hand Gesture' es: Raise your hand slightly to signal you have something to add.",
+      "usage": "Rule: <code>The Hand Gesture</code><br>Description: Raise your hand slightly to signal you have something to add."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "80fe72ab284eacda",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Tongue Drills}} is defined as: Warm up your mouth before speaking.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Tongue Drills' es: Warm up your mouth before speaking.",
+      "usage": "Rule: <code>Tongue Drills</code><br>Description: Warm up your mouth before speaking."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "70f2974d1c1d1437",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Vocal Fry}} is defined as: Avoid the croaky sound at the end of sentences by supporting your breath.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Vocal Fry' es: Avoid the croaky sound at the end of sentences by supporting your breath.",
+      "usage": "Rule: <code>Vocal Fry</code><br>Description: Avoid the croaky sound at the end of sentences by supporting your breath."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bf9565e24fd40858",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Articulation Test}} is defined as: Say tongue twisters daily to train your jaw, lips, and tongue.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Articulation Test' es: Say tongue twisters daily to train your jaw, lips, and tongue.",
+      "usage": "Rule: <code>The Articulation Test</code><br>Description: Say tongue twisters daily to train your jaw, lips, and tongue."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1c74838aa676b1a7",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Reflecting}} is defined as: Repeat back key words (*\"So what you're saying is the codebase is unstable?\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Reflecting' es: Repeat back key words (*\"So what you're saying is the codebase is unstable?\"*).",
+      "usage": "Rule: <code>Reflecting</code><br>Description: Repeat back key words (*\"So what you're saying is the codebase is unstable?\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c31debad38c6675c",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Summarizing}} is defined as: Wrap up their points (*\"To make sure I understand: we need to fix the database before we launch the UI?\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Summarizing' es: Wrap up their points (*\"To make sure I understand: we need to fix the database before we launch the UI?\"*).",
+      "usage": "Rule: <code>Summarizing</code><br>Description: Wrap up their points (*\"To make sure I understand: we need to fix the database before we launch the UI?\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "41d8423ebc70263d",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Open Clarifiers}} is defined as: Ask *\"What does success look like for this project?\"* instead of *\"Is this project good?\"*",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Open Clarifiers' es: Ask *\"What does success look like for this project?\"* instead of *\"Is this project good?\"*",
+      "usage": "Rule: <code>Open Clarifiers</code><br>Description: Ask *\"What does success look like for this project?\"* instead of *\"Is this project good?\"*"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1ea95f0c0c850034",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Ban the Scripts}} is defined as: Never ask \"How are you?\" or \"What do you do?\".",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Ban the Scripts' es: Never ask \"How are you?\" or \"What do you do?\".",
+      "usage": "Rule: <code>Ban the Scripts</code><br>Description: Never ask \"How are you?\" or \"What do you do?\"."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8417e30663b597e5",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Magic Prompts}} is defined as: *   *\"What has been the highlight of your week?\"*",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Magic Prompts' es: *   *\"What has been the highlight of your week?\"*",
+      "usage": "Rule: <code>The Magic Prompts</code><br>Description: *   *\"What has been the highlight of your week?\"*"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "07e5c727e9dee834",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Thread Hook}} is defined as: Listen for hobbies or locations they mention, and ask about them.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Thread Hook' es: Listen for hobbies or locations they mention, and ask about them.",
+      "usage": "Rule: <code>The Thread Hook</code><br>Description: Listen for hobbies or locations they mention, and ask about them."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5e036ba67d31e6bd",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Poise}} is defined as: Take a breath. Do not explain yourself immediately.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Poise' es: Take a breath. Do not explain yourself immediately.",
+      "usage": "Rule: <code>Poise</code><br>Description: Take a breath. Do not explain yourself immediately."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6e61ecf74af0c847",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Clarifying Prompt}} is defined as: *\"Thank you for pointing that out. Could you share a specific example so I can make sure I understand?\"*",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Clarifying Prompt' es: *\"Thank you for pointing that out. Could you share a specific example so I can make sure I understand?\"*",
+      "usage": "Rule: <code>The Clarifying Prompt</code><br>Description: *\"Thank you for pointing that out. Could you share a specific example so I can make sure I understand?\"*"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7531d68e1705a31d",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Commitment}} is defined as: *\"I appreciate the feedback. I will adjust this in the next iteration.\"*",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Commitment' es: *\"I appreciate the feedback. I will adjust this in the next iteration.\"*",
+      "usage": "Rule: <code>The Commitment</code><br>Description: *\"I appreciate the feedback. I will adjust this in the next iteration.\"*"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c9429edecb641b3b",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Threading}} is defined as: Identify keywords in the other person's sentences and hook your next sentence onto them.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Threading' es: Identify keywords in the other person's sentences and hook your next sentence onto them.",
+      "usage": "Rule: <code>Threading</code><br>Description: Identify keywords in the other person's sentences and hook your next sentence onto them."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "12b4c4cbb6fd7b6d",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Pre-Emphasis Pause}} is defined as: Pause for 1 second *before* you say a key word to build anticipation.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Pre-Emphasis Pause' es: Pause for 1 second *before* you say a key word to build anticipation.",
+      "usage": "Rule: <code>The Pre-Emphasis Pause</code><br>Description: Pause for 1 second *before* you say a key word to build anticipation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e0a234b8a362e637",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Post-Statement Pause}} is defined as: Pause for 2 seconds *after* an important point to let it sink in.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Post-Statement Pause' es: Pause for 2 seconds *after* an important point to let it sink in.",
+      "usage": "Rule: <code>The Post-Statement Pause</code><br>Description: Pause for 2 seconds *after* an important point to let it sink in."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "eef6f5fed295b12a",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Question Pause}} is defined as: Pause before answering a question to show you are thinking, not just reacting.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Question Pause' es: Pause before answering a question to show you are thinking, not just reacting.",
+      "usage": "Rule: <code>The Question Pause</code><br>Description: Pause before answering a question to show you are thinking, not just reacting."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2b552ebbf9e340a3",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Focus on Interests, Not Positions}} is defined as: Ask *\"What goal are we trying to achieve here?\"* rather than defending your method.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Focus on Interests, Not Positions' es: Ask *\"What goal are we trying to achieve here?\"* rather than defending your method.",
+      "usage": "Rule: <code>Focus on Interests, Not Positions</code><br>Description: Ask *\"What goal are we trying to achieve here?\"* rather than defending your method."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5de3e05377d8bf2c",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Shared Objectives}} is defined as: Emphasize alignment (*\"We both want to launch a stable app by October.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Shared Objectives' es: Emphasize alignment (*\"We both want to launch a stable app by October.\"*).",
+      "usage": "Rule: <code>Shared Objectives</code><br>Description: Emphasize alignment (*\"We both want to launch a stable app by October.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "355236b887a32730",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Avoid Blame Language}} is defined as: Use \"I\" statements (*\"I feel our current timeline is risky\"*) instead of \"You\" statements (*\"You are pushing a risky timeline\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Avoid Blame Language' es: Use \"I\" statements (*\"I feel our current timeline is risky\"*) instead of \"You\" statements (*\"You are pushing a risky timeline\"*).",
+      "usage": "Rule: <code>Avoid Blame Language</code><br>Description: Use \"I\" statements (*\"I feel our current timeline is risky\"*) instead of \"You\" statements (*\"You are pushing a risky timeline\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5730e516f50d2c51",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Camera Eye}} is defined as: Look directly at the camera lens, not at the screen. This simulates eye contact for the audience.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Camera Eye' es: Look directly at the camera lens, not at the screen. This simulates eye contact for the audience.",
+      "usage": "Rule: <code>The Camera Eye</code><br>Description: Look directly at the camera lens, not at the screen. This simulates eye contact for the audience."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d94f869ce00081d0",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Body Framing}} is defined as: Position your camera so your head and chest are visible, allowing people to see your hand gestures.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Body Framing' es: Position your camera so your head and chest are visible, allowing people to see your hand gestures.",
+      "usage": "Rule: <code>Body Framing</code><br>Description: Position your camera so your head and chest are visible, allowing people to see your hand gestures."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a51eab44781ffc78",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::Dynamic Volume}} is defined as: Speak with 10% more energy and vocal variance than you would in person to compensate for screen fatigue.",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'Dynamic Volume' es: Speak with 10% more energy and vocal variance than you would in person to compensate for screen fatigue.",
+      "usage": "Rule: <code>Dynamic Volume</code><br>Description: Speak with 10% more energy and vocal variance than you would in person to compensate for screen fatigue."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7662e12db508223e",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Sticky Pitch Structure}} is defined as: 1.  **The Hook**: A compelling stat or story (*\"Eighty percent of users churn on day one.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Sticky Pitch Structure' es: 1.  **The Hook**: A compelling stat or story (*\"Eighty percent of users churn on day one.\"*).",
+      "usage": "Rule: <code>The Sticky Pitch Structure</code><br>Description: 1.  **The Hook**: A compelling stat or story (*\"Eighty percent of users churn on day one.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "01bffe11c4a7db2c",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Problem}} is defined as: The core issue (*\"This happens because our onboarding flow is too complex.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Problem' es: The core issue (*\"This happens because our onboarding flow is too complex.\"*).",
+      "usage": "Rule: <code>The Problem</code><br>Description: The core issue (*\"This happens because our onboarding flow is too complex.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6819e49711884548",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Solution}} is defined as: Your idea (*\"We should implement a 3-step interactive setup wizard.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Solution' es: Your idea (*\"We should implement a 3-step interactive setup wizard.\"*).",
+      "usage": "Rule: <code>The Solution</code><br>Description: Your idea (*\"We should implement a 3-step interactive setup wizard.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a9767f6e7c652246",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication 🗣️",
+      "text": "In body language, the rule of {{c1::The Benefit}} is defined as: The ROI (*\"By doing this, we can increase day-one retention by twenty percent.\"*).",
+      "explanation": "Phonetics and pronunciation guide for SoftSkills.",
+      "spanish": "En el lenguaje corporal, la regla de 'The Benefit' es: The ROI (*\"By doing this, we can increase day-one retention by twenty percent.\"*).",
+      "usage": "Rule: <code>The Benefit</code><br>Description: The ROI (*\"By doing this, we can increase day-one retention by twenty percent.\"*)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9ee8371ebc668a09",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Tri-Point Connection}}? When entering a room, look at: (1) the person's eyes, (2) their smile/mouth, (3) their body orientation. Align your chest toward the person to signal focus and respect.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Tri-Point Connection'? When entering a room, look at: (1) the person's eyes, (2) their smile/mouth, (3) their body orientation. Align your chest toward the person to signal focus and respect.",
+      "usage": "Tip: <code>The Tri-Point Connection</code><br>When entering a room, look at: (1) the person's eyes, (2) their smile/mouth, (3) their body orientation. Align your chest toward the person to signal focus and respect."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "28669b6f088e0ca6",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Trust Anchor}}? End your key points with a firm, dropping pitch. Instead of asking \"Does that make sense? ↗\" state \"That is the optimal approach for our timeline. ↘\"",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Trust Anchor'? End your key points with a firm, dropping pitch. Instead of asking \"Does that make sense? ↗\" state \"That is the optimal approach for our timeline. ↘\"",
+      "usage": "Tip: <code>The Trust Anchor</code><br>End your key points with a firm, dropping pitch. Instead of asking \"Does that make sense? ↗\" state \"That is the optimal approach for our timeline. ↘\""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cb9580e1799d3090",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Sorry Swap}}? If you need to point out a mistake, don't start with \"Sorry.\" Swap \"Sorry for the delay\" to \"Thank you for your patience.\" Swap \"Sorry to interrupt\" to \"I'd like to add a quick point here.\"",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Sorry Swap'? If you need to point out a mistake, don't start with \"Sorry.\" Swap \"Sorry for the delay\" to \"Thank you for your patience.\" Swap \"Sorry to interrupt\" to \"I'd like to add a quick point here.\"",
+      "usage": "Tip: <code>The Sorry Swap</code><br>If you need to point out a mistake, don't start with \"Sorry.\" Swap \"Sorry for the delay\" to \"Thank you for your patience.\" Swap \"Sorry to interrupt\" to \"I'd like to add a quick point here.\""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0b859c5ea107825d",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Diaphragm Warm-Up}}? Place your hand on your stomach. Say \"Ha! Ha! Ha!\" pushing your stomach outward with each breath. Feel the vibration in your belly. This is where your speaking power comes from.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Diaphragm Warm-Up'? Place your hand on your stomach. Say \"Ha! Ha! Ha!\" pushing your stomach outward with each breath. Feel the vibration in your belly. This is where your speaking power comes from.",
+      "usage": "Tip: <code>The Diaphragm Warm-Up</code><br>Place your hand on your stomach. Say \"Ha! Ha! Ha!\" pushing your stomach outward with each breath. Feel the vibration in your belly. This is where your speaking power comes from."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "52a9569235bb5657",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The In-Media-Res Hook}}? Start your stories in the middle of the action. Instead of saying \"We had a project last year that went bad,\" say \"It was 11 PM on a Friday, and our main server had just crashed.\"",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The In-Media-Res Hook'? Start your stories in the middle of the action. Instead of saying \"We had a project last year that went bad,\" say \"It was 11 PM on a Friday, and our main server had just crashed.\"",
+      "usage": "Tip: <code>The In-Media-Res Hook</code><br>Start your stories in the middle of the action. Instead of saying \"We had a project last year that went bad,\" say \"It was 11 PM on a Friday, and our main server had just crashed.\""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d1b321bd64aa6ac3",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Warmth Ratio}}? In casual talk, use the 80/20 rule: 80% warm, open body language, 20% firm professional focus. Smile when greeting, but keep your face neutral when delivering serious business metrics.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Warmth Ratio'? In casual talk, use the 80/20 rule: 80% warm, open body language, 20% firm professional focus. Smile when greeting, but keep your face neutral when delivering serious business metrics.",
+      "usage": "Tip: <code>The Warmth Ratio</code><br>In casual talk, use the 80/20 rule: 80% warm, open body language, 20% firm professional focus. Smile when greeting, but keep your face neutral when delivering serious business metrics."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8cfe22a25b5daeef",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Speech Rate Match}}? Match the speech rate and volume of your listener. If they speak slowly and quietly, lower your volume and slow your tempo to build rapport.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Speech Rate Match'? Match the speech rate and volume of your listener. If they speak slowly and quietly, lower your volume and slow your tempo to build rapport.",
+      "usage": "Tip: <code>The Speech Rate Match</code><br>Match the speech rate and volume of your listener. If they speak slowly and quietly, lower your volume and slow your tempo to build rapport."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6ec73790df0c0d8a",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Feedback Rule}}? Keep feedback under 2 minutes. Deliver the SBI points directly, then pause and let the other person respond. Do not over-explain.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Feedback Rule'? Keep feedback under 2 minutes. Deliver the SBI points directly, then pause and let the other person respond. Do not over-explain.",
+      "usage": "Tip: <code>The Feedback Rule</code><br>Keep feedback under 2 minutes. Deliver the SBI points directly, then pause and let the other person respond. Do not over-explain."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e8d7486e4bce090b",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Silence Brake}}? When someone yells or speaks aggressively, wait 3 full seconds before replying. The silence forces them to reflect on their own behavior.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Silence Brake'? When someone yells or speaks aggressively, wait 3 full seconds before replying. The silence forces them to reflect on their own behavior.",
+      "usage": "Tip: <code>The Silence Brake</code><br>When someone yells or speaks aggressively, wait 3 full seconds before replying. The silence forces them to reflect on their own behavior."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "52617d5371f3f1c6",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Excuse Trap}}? Never give too many reasons for saying no. The more excuses you give, the more room the other person has to negotiate. Keep your refusal short and direct.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Excuse Trap'? Never give too many reasons for saying no. The more excuses you give, the more room the other person has to negotiate. Keep your refusal short and direct.",
+      "usage": "Tip: <code>The Excuse Trap</code><br>Never give too many reasons for saying no. The more excuses you give, the more room the other person has to negotiate. Keep your refusal short and direct."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "17cad2cc35ec9e97",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Momentum Ride}}? Wait for the speaker to take a breath or pause for emphasis, then immediately start with your bridging phrase in a warm, confident tone.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Momentum Ride'? Wait for the speaker to take a breath or pause for emphasis, then immediately start with your bridging phrase in a warm, confident tone.",
+      "usage": "Tip: <code>The Momentum Ride</code><br>Wait for the speaker to take a breath or pause for emphasis, then immediately start with your bridging phrase in a warm, confident tone."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "51dee793bf337309",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::Articulation Drills}}? Practice these three times before any important presentation: 1. *Red leather, yellow leather, red leather, yellow leather.* (Focus on tongue position) 2. *Unique New York. You know you need unique New York.* (Focus on crisp consonant endings) 3. *Peter Piper picked a peck of pickled peppers.* (Focus on plosive breath control)",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'Articulation Drills'? Practice these three times before any important presentation: 1. *Red leather, yellow leather, red leather, yellow leather.* (Focus on tongue position) 2. *Unique New York. You know you need unique New York.* (Focus on crisp consonant endings) 3. *Peter Piper picked a peck of pickled peppers.* (Focus on plosive breath control)",
+      "usage": "Tip: <code>Articulation Drills</code><br>Practice these three times before any important presentation: 1. *Red leather, yellow leather, red leather, yellow leather.* (Focus on tongue position) 2. *Unique New York. You know you need unique New York.* (Focus on crisp consonant endings) 3. *Peter Piper picked a peck of pickled peppers.* (Focus on plosive breath control)"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5b4d27c88f7e016b",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The 70/30 Rule}}? In conversations, listen 70% of the time and speak 30%. When you do speak, focus on asking deep, open questions rather than sharing your own stories.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The 70/30 Rule'? In conversations, listen 70% of the time and speak 30%. When you do speak, focus on asking deep, open questions rather than sharing your own stories.",
+      "usage": "Tip: <code>The 70/30 Rule</code><br>In conversations, listen 70% of the time and speak 30%. When you do speak, focus on asking deep, open questions rather than sharing your own stories."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0b6cd83b2b944939",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The \"Tell Me More\" Hack}}? When someone gives a short answer, say \"Tell me more about that.\" It signals deep interest and prompts them to share richer details.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The \"Tell Me More\" Hack'? When someone gives a short answer, say \"Tell me more about that.\" It signals deep interest and prompts them to share richer details.",
+      "usage": "Tip: <code>The \"Tell Me More\" Hack</code><br>When someone gives a short answer, say \"Tell me more about that.\" It signals deep interest and prompts them to share richer details."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8608f5c3a4d661de",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Shield Technique}}? View criticism as data about your work, not an attack on your character. Separate your identity from your output.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Shield Technique'? View criticism as data about your work, not an attack on your character. Separate your identity from your output.",
+      "usage": "Tip: <code>The Shield Technique</code><br>View criticism as data about your work, not an attack on your character. Separate your identity from your output."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "80da7093bbfb454f",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Word Hook}}? Listen closely to nouns and adjectives. Every noun is a doorway to a new conversation topic. Pick the one you are most curious about.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Word Hook'? Listen closely to nouns and adjectives. Every noun is a doorway to a new conversation topic. Pick the one you are most curious about.",
+      "usage": "Tip: <code>The Word Hook</code><br>Listen closely to nouns and adjectives. Every noun is a doorway to a new conversation topic. Pick the one you are most curious about."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "eef3dd85ea83c3d8",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Silence Scale}}? Practice speaking with pauses. Say: \"We have two options. [Pause 1-2-3] We can adapt, [Pause 1-2-3] or we can fail.\" Feel how the silence amplifies the weight of your words.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Silence Scale'? Practice speaking with pauses. Say: \"We have two options. [Pause 1-2-3] We can adapt, [Pause 1-2-3] or we can fail.\" Feel how the silence amplifies the weight of your words.",
+      "usage": "Tip: <code>The Silence Scale</code><br>Practice speaking with pauses. Say: \"We have two options. [Pause 1-2-3] We can adapt, [Pause 1-2-3] or we can fail.\" Feel how the silence amplifies the weight of your words."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7ffe5e5d64391665",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Third Chair}}? Position the problem as an external object. Stand or sit side-by-side with your colleague and look at the whiteboard or document together. You are team members fighting the problem, not fighting each other.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Third Chair'? Position the problem as an external object. Stand or sit side-by-side with your colleague and look at the whiteboard or document together. You are team members fighting the problem, not fighting each other.",
+      "usage": "Tip: <code>The Third Chair</code><br>Position the problem as an external object. Stand or sit side-by-side with your colleague and look at the whiteboard or document together. You are team members fighting the problem, not fighting each other."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "731195024314e642",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Camera Sticky Note}}? Draw a smiley face on a sticky note and paste it right next to your web camera lens. It will remind you to look up and smile naturally throughout virtual meetings.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Camera Sticky Note'? Draw a smiley face on a sticky note and paste it right next to your web camera lens. It will remind you to look up and smile naturally throughout virtual meetings.",
+      "usage": "Tip: <code>The Camera Sticky Note</code><br>Draw a smiley face on a sticky note and paste it right next to your web camera lens. It will remind you to look up and smile naturally throughout virtual meetings."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "16474eb264491ad2",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nonverbal_communication",
+        "presence",
+        "soft_skills",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Nonverbal Communication Tips 💡",
+      "text": "What is the SoftSkills pronunciation shortcut/tip for {{c1::The Elevator Test}}? Can you pitch your idea in 30 seconds? Practice condensing your project pitch into exactly four sentences matching the Hook-Problem-Solution-Benefit structure.",
+      "explanation": "Pronunciation tip/shortcut for SoftSkills.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de SoftSkills para 'The Elevator Test'? Can you pitch your idea in 30 seconds? Practice condensing your project pitch into exactly four sentences matching the Hook-Problem-Solution-Benefit structure.",
+      "usage": "Tip: <code>The Elevator Test</code><br>Can you pitch your idea in 30 seconds? Practice condensing your project pitch into exactly four sentences matching the Hook-Problem-Solution-Benefit structure."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a0bedc20d7bd6dc0",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "speaking",
+        "structure"
+      ]
+    },
+    "content": {
+      "scenario": "Public Speaking: Presentation Structure 🏗️",
+      "text": "To design a persuasive speech, the speaker structures the talk with an attention-grabbing {{c1::Hook}}, a logical three-point {{c2::Body}}, and a memorable {{c3::Call to Action (Close)}}.",
+      "explanation": "A weak beginning (e.g., reading agenda slides) loses the audience immediately. An effective hook grabs focus (statistic, question, story). The body organizes information, and the close defines what they should do next.",
+      "spanish": "Para diseñar un discurso persuasivo, el orador estructura la charla con un Gancho que capte la atención, un Cuerpo lógico de tres puntos y un Cierre memorable con una llamada a la acción.",
+      "usage": "<ul><li><b>Example</b>: Hook: 'Last year, we lost $50k to downtime.' Body: Root cause, solution, implementation plan. Close: 'Approve this pipeline budget today.'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "15419c607f832003",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "speaking",
+        "vocal"
+      ]
+    },
+    "content": {
+      "scenario": "Public Speaking: Vocal Modulation 🗣️",
+      "text": "To prevent audience fatigue and emphasize core statements, the speaker utilizes vocal variety, modulating their {{c1::pitch, volume, and pacing (speed)}}.",
+      "explanation": "Monotone speech triggers boredom. Slowing down and lowering volume signals confidentiality or gravity. Raising pitch and speeding up projects enthusiasm. Pausing before and after a key word highlights it.",
+      "spanish": "Para evitar el cansancio de la audiencia y destacar las afirmaciones principales, el orador utiliza la variedad vocal, modulando su tono, volumen y ritmo (velocidad).",
+      "usage": "<ul><li><b>Actionable Advice</b>: When presenting a major finding, slow down, pause, say the key metric clearly, and pause again.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "39a5110e808c28a9",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "speaking",
+        "body_language"
+      ]
+    },
+    "content": {
+      "scenario": "Public Speaking: Body Presence 🧍",
+      "text": "To project calm authority and eliminate anxious pacing, a presenter adopts the {{c1::Speaker's Stance}}, anchoring their feet shoulder-width apart and centering weight.",
+      "explanation": "Nervous sway or pacing distracts the audience and signals anxiety. Grounding the feet anchors the lower body, which naturally improves lung expansion and allows for intentional, controlled hand gestures.",
+      "spanish": "Para proyectar una autoridad serena y eliminar el balanceo ansioso, un presentador adopta la Postura del Orador, anclando sus pies al ancho de los hombros y centrando el peso.",
+      "usage": "<ul><li><b>Actionable Advice</b>: Keep your feet planted during key statements. Walk only between major points to signal transitions in your speech.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cb575c735f932f92",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "speaking",
+        "structure"
+      ]
+    },
+    "content": {
+      "scenario": "Public Speaking: Cognitive Framing 3️⃣",
+      "text": "The {{c1::Rule of Three}} is a rhetorical principle stating that information presented in a group of three items is inherently more satisfying and memorable to the human brain.",
+      "explanation": "Three is the smallest pattern-forming number. It strikes the perfect balance between completeness and brevity. Audiences easily retain three points, whereas five or more leads to information overload.",
+      "spanish": "La Regla de Tres es un principio retórico que establece que la información presentada en un grupo de tres elementos es inherentemente más satisfactoria y memorable para el cerebro humano.",
+      "usage": "<ul><li><b>Example</b>: Organizing a security pitch around: 'Prevent breaches, protect privacy, and comply with standards.'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "681324490e527fa8",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nerves",
+        "physiology"
+      ]
+    },
+    "content": {
+      "scenario": "Stage Nerves: Heart Rate Defusal 🫁",
+      "text": "To rapidly lower heart rate and defuse stage fright before walking on stage, a speaker performs a {{c1::Physiological Sigh}}: two quick inhales through the nose followed by a long, slow exhale.",
+      "explanation": "Stage fright triggers hyperventilation and a fast heart rate. The dual inhale reinflates collapsed lung sacs (alveoli), and the long exhale allows carbon dioxide to escape, signalling the brain to activate the parasympathetic nervous system.",
+      "spanish": "Para reducir rápidamente el ritmo cardíaco y desactivar el pánico escénico antes de subir al escenario, un orador realiza un suspiro fisiológico: dos inhalaciones rápidas por la nariz seguidas de una exhalación larga y lenta.",
+      "usage": "<ul><li><b>Actionable Advice</b>: Do 2 to 3 physiological sighs in the green room or hallway immediately before your presentation.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5fea339a740647ce",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "improv",
+        "influence"
+      ]
+    },
+    "content": {
+      "scenario": "Improvisation: Collaborative Flow 🎭",
+      "text": "The foundational rule of improvisation is {{c1::'Yes, And...'}}, which requires you to accept the premise of your partner or audience and build value on top of it.",
+      "explanation": "Saying 'No' or blocking kills momentum and creates friction. 'Yes, And...' validates the speaker's reality and redirects the energy forward, which is essential for brainstorming and handling unexpected comments.",
+      "spanish": "La regla fundacional de la improvisación es 'Sí, y...', la cual requiere que aceptes la premisa de tu compañero o de la audiencia y agregues valor sobre ella.",
+      "usage": "<ul><li><b>Example</b>: Counterpart: 'This design won't work in production.' Response: 'Yes, and that is why we should look at the staging metrics to address those scale limits.'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "635903f96bc17511",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "improv",
+        "presence"
+      ]
+    },
+    "content": {
+      "scenario": "Improvisation: Social Dynamics 🎭",
+      "text": "In team dynamics and public speaking, presenters use status play, shifting between {{c1::high-status behaviors (calm, steady eye contact, minimal movement)}} and {{c2::low-status behaviors (fast speech, active nodding, self-touching)}}.",
+      "explanation": "Status is not fixed; it is a transactional behavior. High-status signals expertise and command, which builds trust. Low-status signals warmth and approachability, which builds rapport. Effective leaders match behaviors to their intent.",
+      "spanish": "En la dinámica de equipo y hablar en público, los presentadores utilizan el juego de estatus, cambiando entre comportamientos de estatus alto (calma, mirada fija, poco movimiento) y estatus bajo (habla rápida, asentimiento activo, tocarse a sí mismo).",
+      "usage": "<ul><li><b>Example</b>: Using steady, calm posture during system updates (high status), but nodding and laughing during team retrospective feedback (low status).</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a52a82d07bed54b2",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "nerves",
+        "psychology"
+      ]
+    },
+    "content": {
+      "scenario": "Stage Nerves: Cognitive Reframing 🧠",
+      "text": "To manage stage anxiety, a speaker practices arousal reframing, telling themselves {{c1::'I am excited'}} instead of trying to calm down.",
+      "explanation": "Anxiety and excitement share the same physiological profile (high cortisol, high heart rate). It is extremely difficult to shift from high arousal (anxiety) to low arousal (calm). Shifting from anxiety to excitement requires changing only the mental label.",
+      "spanish": "Para gestionar la ansiedad escénica, un orador practica el replanteamiento de la activación, diciéndose a sí mismo 'Estoy emocionado' en lugar de intentar calmarse.",
+      "usage": "<ul><li><b>Actionable Advice</b>: When you feel your heart pounding, repeat out loud: 'I am excited to share this information with the team.'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5d52d05ead9c7bc5",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "improv",
+        "listening"
+      ]
+    },
+    "content": {
+      "scenario": "Improvisation: Audience Alignment 👂",
+      "text": "To improvise a response that resonates with an audience, you perform active story-listening, identifying the {{c1::dominant metaphors and vocabulary}} they use and incorporating them into your reply.",
+      "explanation": "Matching the audience's vocabulary (e.g., using mechanical terms for engineers or growth metrics for executives) removes cognitive barriers and makes your improvised answer feel deeply aligned with their worldview.",
+      "spanish": "Para improvisar una respuesta que resuene con una audiencia, realizas una escucha activa de historias, identificando las metáforas y el vocabulario dominantes que utilizan e incorporándolos a tu respuesta.",
+      "usage": "<ul><li><b>Example</b>: If an executive asks about 'hitting hurdles', frame your answer around 'sprinting past the hurdles' and 'jumping the next obstacle'.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4facf9d7b1eb8652",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "speaking",
+        "improv",
+        "nerves"
+      ]
+    },
+    "content": {
+      "scenario": "Improvisation: Memory Recovery 🤫",
+      "text": "If you lose your train of thought mid-speech, the bridging technique recommends that you {{c1::loop the last concept you said}} or slowly describe the room until your memory recovers.",
+      "explanation": "Panicking or saying 'Uhm...' highlights the mistake. Repeating your last sentence with vocal emphasis looks like a deliberate rhetorical pause, giving your working memory 2-3 seconds to retrieve the next node.",
+      "spanish": "Si pierdes el hilo de tu pensamiento a mitad del discurso, la técnica de puente te recomienda repetir el último concepto que dijiste o describir lentamente la sala hasta que se recupere tu memoria.",
+      "usage": "<ul><li><b>Example</b>: 'So, the migration requires zero downtime. (Pause) Let me repeat that: zero downtime is our operational mandate. (Memory recovers) And to achieve this, we will...'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "14dedaf02349df5b",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "improv",
+        "structure",
+        "qa"
+      ]
+    },
+    "content": {
+      "scenario": "Improvisation: Q&A Structuring 💬",
+      "text": "To structure off-the-cuff answers to unexpected questions, a speaker uses the PREP framework: State the {{c1::Point}}, give a {{c2::Reason}}, provide an {{c3::Example}}, and restate the Point.",
+      "explanation": "PREP prevents rambling. It forces you to start with a clear conclusion, explain the underlying logic, anchor it in a concrete fact, and summarize, which makes your impromptu answers sound polished and structured.",
+      "spanish": "Para estructurar respuestas improvisadas a preguntas inesperadas, un orador utiliza el marco PREP: Declarar el Punto, dar una Razón, proporcionar un Ejemplo y reafirmar el Punto.",
+      "usage": "<ul><li><b>Example</b>: 'We should adopt TypeScript (P). It catches bugs during compilation (R). For example, it caught three type errors in yesterday's API PR (E). That's why we need it (P).'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a6eb31de6d02161f",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "speaking",
+        "conflict",
+        "qa"
+      ]
+    },
+    "content": {
+      "scenario": "Public Speaking: Handling Hostility 🛡️",
+      "text": "To handle a hostile question, the speaker validates the questioner's emotional concern, and then uses a {{c1::Bridge}} to pivot to their core message.",
+      "explanation": "Attacking back or becoming defensive destroys your credibility. Validating their concern (e.g. 'Security is indeed critical') disarms the hostility, and a bridge ('But the real challenge is...') shifts the conversation back to your agenda.",
+      "spanish": "Para manejar una pregunta hostil, el orador valida la preocupación emocional de quien pregunta y luego utiliza un Puente para pivotar hacia su mensaje principal.",
+      "usage": "<ul><li><b>Example</b>: Question: 'Isn't this system just going to crash?' Response: 'Reliability is our top priority (Validate). That is exactly why we built these automated fallbacks (Bridge).'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "decd352a3ec930e2",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "speaking",
+        "memory"
+      ]
+    },
+    "content": {
+      "scenario": "Public Speaking: Memory Anchors 🏛️",
+      "text": "To memorize the flow of a presentation without slides, a speaker uses the {{c1::Method of Loci (Memory Palace)}}, associating key speech milestones with specific rooms or locations in a familiar building.",
+      "explanation": "Human spatial memory is evolutionarily strong. By walking through a mental map of your childhood home and placing visual trigger objects (e.g., a giant database server in the kitchen for section 2), you can retrieve points in order.",
+      "spanish": "Para memorizar el flujo de una presentación sin diapositivas, un orador utiliza el Método de Loci (Palacio de la Memoria), asociando hitos clave del discurso con habitaciones o ubicaciones específicas de un edificio familiar.",
+      "usage": "<ul><li><b>Actionable Advice</b>: Create a mental route of 5 stops. Link each stop to a main point of your speech using a vivid, bizarre visual image.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "90a533fa2c4e7fa9",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "speaking",
+        "memory",
+        "improv"
+      ]
+    },
+    "content": {
+      "scenario": "Public Speaking: Natural Delivery 🧠",
+      "text": "To avoid sounding robotic or blanking out, a speaker memorizes a {{c1::Skeleton Outline (transition nodes)}} rather than a word-for-word script.",
+      "explanation": "Memorizing text word-for-word creates a high cognitive load. If you miss one word, you lose the link. Memorizing only the transition points (e.g. Intro $\\rightarrow$ Problem $\\rightarrow$ Solution $\\rightarrow$ Call to Action) allows you to improvise vocabulary naturally.",
+      "spanish": "Para evitar sonar robótico o quedarse en blanco, un orador memoriza un Esquema Esqueleto (nodos de transición) en lugar de un guion palabra por palabra.",
+      "usage": "<ul><li><b>Actionable Advice</b>: Write your speech, extract only the transition keywords, and practice delivering the talk using only those keywords as guidance.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "23f2d345d546f0a2",
+    "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "speaking",
+        "memory",
+        "body_language"
+      ]
+    },
+    "content": {
+      "scenario": "Public Speaking: Physical Memory Triggers 🧍",
+      "text": "A speaker practices Spatial Anchoring, moving to {{c1::different physical zones of the stage}} for different parts of their speech (e.g. past on the left, present in the center, future on the right).",
+      "explanation": "Moving randomly projects anxiety. Moving to specific stage zones anchors the concepts visually for the audience and triggers physical memory cues for the speaker, serving as a physical slide deck.",
+      "spanish": "Un orador practica el Anclaje Espacial, trasladándose a diferentes zonas físicas del escenario para diferentes partes de su discurso (ej. el pasado a la izquierda, el presente en el centro, el futuro a la derecha).",
+      "usage": "<ul><li><b>Example</b>: Standing on the left side of the stage when discussing last year's outage, and moving to the right when presenting next year's security roadmap.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

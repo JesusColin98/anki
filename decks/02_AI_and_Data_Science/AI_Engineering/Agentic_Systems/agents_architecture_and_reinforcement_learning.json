@@ -1,0 +1,2132 @@
+[
+  {
+    "id": "5dc3a2989d8aeaf3",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "tool_use"
+      ]
+    },
+    "content": {
+      "scenario": "Agents: Tool Use 🔧",
+      "text": "An {{c1::agent}} uses tools such as search, code execution, or databases to extend its capabilities beyond pure text generation.",
+      "explanation": "Tool use is what turns a language model into an action-oriented system.",
+      "spanish": "Un agente usa herramientas como búsqueda, ejecución de código o bases de datos para extender sus capacidades más allá de la generación de texto.",
+      "usage": "Essential in copilots, workflow automation, and software engineering agents."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f9e2690114d6686f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "planning"
+      ]
+    },
+    "content": {
+      "scenario": "Agents: Planning 🧭",
+      "text": "{{c1::Planning}} allows an agent to break a large goal into subtasks and choose an execution strategy.",
+      "explanation": "Good planning improves reliability, especially for complex and multi-step tasks.",
+      "spanish": "La planificación permite que un agente divida una meta grande en subtareas y elija una estrategia de ejecución.",
+      "usage": "Used in research assistants, coding agents, and orchestrated workflows."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "02938502319c09f2",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "reflection"
+      ]
+    },
+    "content": {
+      "scenario": "Agents: Reflection 🪞",
+      "text": "Reflection means the agent reviews its own {{c1::output}} and tries to improve or correct it.",
+      "explanation": "Self-reflection can improve quality, though it also increases latency and cost.",
+      "spanish": "La reflexión significa que el agente revisa su propio output e intenta mejorarlo o corregirlo.",
+      "usage": "Useful in coding, research, and multi-pass document analysis."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2e8e02d9b0a445d3",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "memory"
+      ]
+    },
+    "content": {
+      "scenario": "Agents: Memory 🧠",
+      "text": "Agent {{c1::memory}} stores important facts, preferences, and state across interactions.",
+      "explanation": "Memory is what makes agents feel more personalized and persistent over time.",
+      "spanish": "La memoria del agente almacena hechos importantes, preferencias y estado a través de interacciones.",
+      "usage": "Key for customer support agents, personal assistants, and long-running workflows."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c923923ef1c8ed65",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "safety"
+      ]
+    },
+    "content": {
+      "scenario": "Agents: Guardrails 🛡️",
+      "text": "{{c1::Guardrails}} constrain agent behavior so it stays within policy, safety, and business rules.",
+      "explanation": "They are a core part of making agents safe in production environments.",
+      "spanish": "Los guardrails restringen el comportamiento del agente para que se mantenga dentro de políticas, seguridad y reglas del negocio.",
+      "usage": "Essential in finance, healthcare, and regulated enterprise scenarios."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "07ae48727a54f0c4",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "orchestration"
+      ]
+    },
+    "content": {
+      "scenario": "Agents: Orchestration 🎼",
+      "text": "{{c1::Orchestration}} coordinates multiple steps, tools, and sub-agents to solve a broader task.",
+      "explanation": "Orchestration is the system design layer that makes agent pipelines practical.",
+      "spanish": "La orquestación coordina múltiples pasos, herramientas y subagentes para resolver una tarea más amplia.",
+      "usage": "Used in multi-step research, software engineering, and data analysis agents."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "282fe41f899d0550",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "multi_agent"
+      ]
+    },
+    "content": {
+      "scenario": "Agents: Multi-Agent Systems 🧩",
+      "text": "Multi-{{c1::agent systems}} split work across specialized agents that coordinate around a shared objective.",
+      "explanation": "This pattern can scale better for complex domains, but adds coordination and failure-mode complexity.",
+      "spanish": "Los sistemas multiagente dividen el trabajo entre agentes especializados que coordinan alrededor de un objetivo compartido.",
+      "usage": "Increasingly common in research, coding, and operations automation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7129d92711ee85f4",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "reliability"
+      ]
+    },
+    "content": {
+      "scenario": "Agents: Failure Recovery 🔄",
+      "text": "{{c1::Failure recovery}} lets an agent detect errors, retry, fall back, or ask for clarification when a tool or step fails.",
+      "explanation": "Robust agents need graceful failure handling rather than brittle single-shot execution.",
+      "spanish": "La recuperación de fallos permite que un agente detecte errores, reintente, haga fallback o pida aclaración cuando falla una herramienta o paso.",
+      "usage": "Crucial in production automation and interactive assistant systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c49cd1c4f0fd0330",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "chess",
+        "minimax",
+        "game_theory",
+        "search"
+      ]
+    },
+    "content": {
+      "scenario": "Dual-Coding Diagram 📊 (Minimax Game Tree Search)",
+      "text": "¿Cómo funciona la estructura de {{c1::Minimax Game Tree Search}} en el sistema?",
+      "explanation": "Minimax is a decision rule used in two-player zero-sum games. The active player tries to maximize their score, while the opponent tries to minimize it. The value is propagated recursively up from leaf nodes.<br><br>",
+      "spanish": "Minimax es una regla de decisión usada en juegos de suma cero de dos jugadores. El jugador activo intenta maximizar su puntuación, mientras que el oponente intenta minimizarla.",
+      "usage": "Visual model for <code>Minimax Game Tree Search</code>.<br>Graph: <div class=\"mermaid\">\ngraph TD\n    A[\"MAX (Root: eval=3)\"] --> B[\"MIN (eval=3)\"]\n    A --> C[\"MIN (eval=2)\"]\n    B --> D[\"MAX (Leaf: 3)\"]\n    B --> E[\"MAX (Leaf: 5)\"]\n    C --> F[\"MAX (Leaf: 2)\"]\n    C --> G[\"MAX (Leaf: -1)\"]\n</div>",
+      "concept": "Minimax Game Tree Search",
+      "mermaid_code": "graph TD\n    A[\"MAX (Root: eval=3)\"] --> B[\"MIN (eval=3)\"]\n    A --> C[\"MIN (eval=2)\"]\n    B --> D[\"MAX (Leaf: 3)\"]\n    B --> E[\"MAX (Leaf: 5)\"]\n    C --> F[\"MAX (Leaf: 2)\"]\n    C --> G[\"MAX (Leaf: -1)\"]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "527f9195ee9971cf",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "chess",
+        "alpha_beta",
+        "search",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Alpha-Beta Pruning Condition)",
+      "text": "Ecuación para {{c1::Alpha-Beta Pruning Condition}}: \\[\\alpha \\ge \\beta\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(\\alpha\\): The minimum score that the maximizing player is assured of.</li><li>\\(\\beta\\): The maximum score that the minimizing player is assured of.</li></ul>",
+      "spanish": "Fórmula de Alpha-Beta Pruning Condition",
+      "usage": "Formula: \\[\\alpha \\ge \\beta\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "221ce9b1d738c0e5",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "chess",
+        "zobrist",
+        "hashing",
+        "transposition",
+        "code"
+      ]
+    },
+    "content": {
+      "scenario": "Code Pattern 💻 (Zobrist Hashing for Chess Board States)",
+      "text": "Patrón de código en <b>python</b> para {{c1::Zobrist Hashing for Chess Board States}}:<br><pre><code class=\"language-python\">import random\n\n# Initialize table of random bitstrings\n# 64 squares, 12 pieces (6 white, 6 black)\nzobrist_table = [[random.getrandbits(64) for _ in range(12)] for _ in range(64)]\n\ndef compute_zobrist_hash(board_state):\n    h = 0\n    for square in range(64):\n        piece = board_state[square]  # returns 0-11 if piece exists, else None\n        if piece is not None:\n            h ^= zobrist_table[square][piece]\n    return h</code></pre>",
+      "explanation": "Zobrist Hashing generates an index key for chess positions. Piece movements can be computed incrementally using fast bitwise XOR operations: \\(h_{\\text{new}} = h_{\\text{old}} \\oplus Z[\\text{from}][\\text{piece}] \\oplus Z[\\text{to}][\\text{piece}]\\).",
+      "spanish": "Patrón de código: Zobrist Hashing for Chess Board States",
+      "usage": "Snippet: <pre><code class=\"language-python\">import random\n\n# Initialize table of random bitstrings\n# 64 squares, 12 pieces (6 white, 6 black)\nzobrist_table = [[random.getrandbits(64) for _ in range(12)] for _ in range(64)]\n\ndef compute_zobrist_hash(board_state):\n    h = 0\n    for square in range(64):\n        piece = board_state[square]  # returns 0-11 if piece exists, else None\n        if piece is not None:\n            h ^= zobrist_table[square][piece]\n    return h</code></pre><br>Output expected: <code>Success</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c2986c95ab6458da",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "mcts",
+        "alphago",
+        "search",
+        "reinforcement"
+      ]
+    },
+    "content": {
+      "scenario": "Dual-Coding Diagram 📊 (Monte Carlo Tree Search (MCTS) Phases)",
+      "text": "¿Cómo funciona la estructura de {{c1::Monte Carlo Tree Search (MCTS) Phases}} en el sistema?",
+      "explanation": "MCTS is a search algorithm used in complex games like Go. It evaluates nodes by building a tree, expanding nodes incrementally, running random playouts (simulation) to evaluate leaf positions, and propagating rollout results back up to root.<br><br>",
+      "spanish": "MCTS es un algoritmo de búsqueda usado en juegos como Go. Evalúa los nodos construyendo un árbol, expandiendo nodos de forma incremental y realizando simulaciones de juego aleatorias.",
+      "usage": "Visual model for <code>Monte Carlo Tree Search (MCTS) Phases</code>.<br>Graph: <div class=\"mermaid\">\ngraph LR\n    Selection[\"1. Selection<br>(traverse tree via UCT)\"] --> Expansion[\"2. Expansion<br>(add child node)\"]\n    Expansion --> Simulation[\"3. Simulation<br>(random rollouts)\"]\n    Simulation --> Backprop[\"4. Backpropagation<br>(update node statistics)\"]\n</div>",
+      "concept": "Monte Carlo Tree Search (MCTS) Phases",
+      "mermaid_code": "graph LR\n    Selection[\"1. Selection<br>(traverse tree via UCT)\"] --> Expansion[\"2. Expansion<br>(add child node)\"]\n    Expansion --> Simulation[\"3. Simulation<br>(random rollouts)\"]\n    Simulation --> Backprop[\"4. Backpropagation<br>(update node statistics)\"]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "19318ce06fb479d5",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "mcts",
+        "uct",
+        "search",
+        "math",
+        "exploration"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (MCTS Selection Policy: UCB1 (UCT))",
+      "text": "Ecuación para {{c1::MCTS Selection Policy: UCB1 (UCT)}}: \\[\\text{UCT}(s, a) = \\frac{W(s, a)}{N(s, a)} + C \\sqrt{\\frac{\\ln N(s)}{N(s, a)}}\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(W(s, a)\\): Total win count of action \\(a\\) from state \\(s\\).</li><li>\\(N(s, a)\\): Playout visit count of action \\(a\\) from state \\(s\\).</li><li>\\(N(s)\\): Total visit count of parent state \\(s\\).</li><li>\\(C\\): Exploitation-exploration balancing constant (typically \\(\\sqrt{2}\\)).</li></ul>",
+      "spanish": "Fórmula de MCTS Selection Policy: UCB1 (UCT)",
+      "usage": "Formula: \\[\\text{UCT}(s, a) = \\frac{W(s, a)}{N(s, a)} + C \\sqrt{\\frac{\\ln N(s)}{N(s, a)}}\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7fcb7948d9ba7aab",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "mcts",
+        "alphazero",
+        "puct",
+        "search",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (MCTS Selection Policy: PUCT (AlphaZero))",
+      "text": "Ecuación para {{c1::MCTS Selection Policy: PUCT (AlphaZero)}}: \\[U(s, a) = Q(s, a) + c_{\\text{puct}} P(s, a) \\frac{\\sqrt{\\sum_b N(s, b)}}{1 + N(s, a)}\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(Q(s, a)\\): Action-value estimate (mean outcome of visits).</li><li>\\(P(s, a)\\): Prior probability of taking action \\(a\\) from state \\(s\\) predicted by the policy neural network.</li><li>\\(N(s, a)\\): Visit count of action \\(a\\) from state \\(s\\).</li><li>\\(c_{\\text{puct}}\\): Constant scaling factor controlling the rate of exploration.</li></ul>",
+      "spanish": "Fórmula de MCTS Selection Policy: PUCT (AlphaZero)",
+      "usage": "Formula: \\[U(s, a) = Q(s, a) + c_{\\text{puct}} P(s, a) \\frac{\\sqrt{\\sum_b N(s, b)}}{1 + N(s, a)}\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "899fc06f7a587bb9",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "chess",
+        "nnue",
+        "stockfish",
+        "architecture"
+      ]
+    },
+    "content": {
+      "scenario": "Active Recall Quiz 🎯",
+      "text": "<b>Pregunta:</b> What architecture does Stockfish's NNUE (Efficiently Updatable Neural Network) use to run fast evaluations directly on CPUs?<br>Opciones:<ul><li>A) A shallow feedforward network whose inputs are sparse board features, incrementally updated when pieces move</li><li>B) A deep convolutional neural network optimized using TensorRT</li><li>C) A recurrent neural network that tracks histories of transpositions</li><li>D) A sparse transformer network that computes board embeddings on multi-threading CPUs</li></ul><br>Respuesta correcta: {{c1::A) A shallow feedforward network whose inputs are sparse board features, incrementally updated when pieces move}}",
+      "explanation": "Justificación: NNUE is a shallow neural evaluation network placed inside Stockfish. It gets its speed by incrementally updating its input layer (based on piece positions) when a move is made, instead of running a full network forward pass from scratch, allowing it to evaluate millions of positions per second on standard CPUs.",
+      "spanish": "Quiz: What architecture does Stockfish's NNUE (Efficiently Updatable Neural Network) use to run fast evaluations directly on CPUs?",
+      "usage": "Quiz assertion: A) A shallow feedforward network whose inputs are sparse board features, incrementally updated when pieces move"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "89ecd8891347706b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rl",
+        "td_learning",
+        "math",
+        "temporal_difference"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Temporal Difference TD(0) Value Update)",
+      "text": "Ecuación para {{c1::Temporal Difference TD(0) Value Update}}: \\[V(S_t) \\leftarrow V(S_t) + \\alpha \\left[ R_{t+1} + \\gamma V(S_{t+1}) - V(S_t) \\right]\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(V(S_t)\\): State value estimate at step \\(t\\).</li><li>\\(\\alpha\\): Step-size parameter (learning rate).</li><li>\\(R_{t+1}\\): Immediate reward received after transition.</li><li>\\(\\gamma\\): Discount factor.</li><li>\\(R_{t+1} + \\gamma V(S_{t+1}) - V(S_t)\\): Temporal Difference (TD) error signal.</li></ul>",
+      "spanish": "Fórmula de Temporal Difference TD(0) Value Update",
+      "usage": "Formula: \\[V(S_t) \\leftarrow V(S_t) + \\alpha \\left[ R_{t+1} + \\gamma V(S_{t+1}) - V(S_t) \\right]\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "df7dcc14afde941f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "search",
+        "alpha_beta",
+        "minimax",
+        "code"
+      ]
+    },
+    "content": {
+      "scenario": "Code Pattern 💻 (Alpha-Beta Pruning Search in Python)",
+      "text": "Patrón de código en <b>python</b> para {{c1::Alpha-Beta Pruning Search in Python}}:<br><pre><code class=\"language-python\">def alphabeta(node, depth, alpha, beta, maximizing_player):\n    if depth == 0 or len(node.children) == 0:\n        return node.value\n    \n    if maximizing_player:\n        val = -float('inf')\n        for child in node.children:\n            val = max(val, alphabeta(child, depth - 1, alpha, beta, False))\n            alpha = max(alpha, val)\n            if alpha >= beta:\n                break  # Beta cut-off\n        return val\n    else:\n        val = float('inf')\n        for child in node.children:\n            val = min(val, alphabeta(child, depth - 1, alpha, beta, True))\n            beta = min(beta, val)\n            if alpha >= beta:\n                break  # Alpha cut-off\n        return val</code></pre>",
+      "explanation": "Implements Alpha-Beta Pruning by tracking constraints \\(\\alpha\\) and \\(\\beta\\) down branches, discarding sub-trees when the current player can guarantee a better score elsewhere.",
+      "spanish": "Patrón de código: Alpha-Beta Pruning Search in Python",
+      "usage": "Snippet: <pre><code class=\"language-python\">def alphabeta(node, depth, alpha, beta, maximizing_player):\n    if depth == 0 or len(node.children) == 0:\n        return node.value\n    \n    if maximizing_player:\n        val = -float('inf')\n        for child in node.children:\n            val = max(val, alphabeta(child, depth - 1, alpha, beta, False))\n            alpha = max(alpha, val)\n            if alpha >= beta:\n                break  # Beta cut-off\n        return val\n    else:\n        val = float('inf')\n        for child in node.children:\n            val = min(val, alphabeta(child, depth - 1, alpha, beta, True))\n            beta = min(beta, val)\n            if alpha >= beta:\n                break  # Alpha cut-off\n        return val</code></pre><br>Output expected: <code>Success</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "801c7ece38a3586f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "chess",
+        "search",
+        "iterative_deepening"
+      ]
+    },
+    "content": {
+      "scenario": "Active Recall Quiz 🎯",
+      "text": "<b>Pregunta:</b> Which combination of search enhancements is critical to maximize the efficiency of Alpha-Beta pruning in classical chess engines?<br>Opciones:<ul><li>A) Iterative Deepening, Move Ordering (Killer/History heuristics), and Transposition Tables</li><li>B) Random walk sampling, Monte Carlo rollouts, and prior policy filtering</li><li>C) Uniform-cost search, bidirectional expansions, and A* heuristic evaluation</li><li>D) Layer normalization, dynamic batch size pooling, and value pruning</li></ul><br>Respuesta correcta: {{c1::A) Iterative Deepening, Move Ordering (Killer/History heuristics), and Transposition Tables}}",
+      "explanation": "Justificación: Alpha-Beta pruning is most efficient when the best moves are searched first (producing tight alpha/beta bounds early). Iterative Deepening allows the engine to order moves at depth D using statistics compiled at depth D-1. Transposition Tables store previously searched positions, and heuristics rank moves to ensure high pruning rates.",
+      "spanish": "Quiz: Which combination of search enhancements is critical to maximize the efficiency of Alpha-Beta pruning in classical chess engines?",
+      "usage": "Quiz assertion: A) Iterative Deepening, Move Ordering (Killer/History heuristics), and Transposition Tables"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9ff2900f351f062d",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "alphazero",
+        "mcts",
+        "policy_value",
+        "rl"
+      ]
+    },
+    "content": {
+      "scenario": "Dual-Coding Diagram 📊 (AlphaZero Neural Search Integration)",
+      "text": "¿Cómo funciona la estructura de {{c1::AlphaZero Neural Search Integration}} en el sistema?",
+      "explanation": "AlphaZero uses a single neural network to predict prior probabilities of moves (Policy network) and evaluation scores of board states (Value network). Guided MCTS uses these neural outputs to select moves during search without relying on rollout evaluations.<br><br>",
+      "spanish": "AlphaZero utiliza una única red neuronal para predecir probabilidades de jugadas (red de política) y evaluaciones del tablero (red de valor), guiando la búsqueda MCTS sin simulaciones aleatorias.",
+      "usage": "Visual model for <code>AlphaZero Neural Search Integration</code>.<br>Graph: <div class=\"mermaid\">\ngraph TD\n    State[\"Current Board State (s)\"] --> Net[\"Dual Policy-Value Network\"]\n    Net --> Policy[\"Prior Policy Vector (p)\"]\n    Net --> Value[\"State Evaluation Scalar (v)\"]\n    Policy --> MCTS[\"Guided Monte Carlo Tree Search\"]\n    Value --> MCTS\n    MCTS --> Move[\"Optimal Selected Move (a)\"]\n</div>",
+      "concept": "AlphaZero Neural Search Integration",
+      "mermaid_code": "graph TD\n    State[\"Current Board State (s)\"] --> Net[\"Dual Policy-Value Network\"]\n    Net --> Policy[\"Prior Policy Vector (p)\"]\n    Net --> Value[\"State Evaluation Scalar (v)\"]\n    Policy --> MCTS[\"Guided Monte Carlo Tree Search\"]\n    Value --> MCTS\n    MCTS --> Move[\"Optimal Selected Move (a)\"]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "15f6642da5a86447",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rl",
+        "q_learning",
+        "math",
+        "off_policy"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Q-Learning Temporal Difference Update)",
+      "text": "Ecuación para {{c1::Q-Learning Temporal Difference Update}}: \\[Q(S_t, A_t) \\leftarrow Q(S_t, A_t) + \\alpha \\left[ R_{t+1} + \\gamma \\max_a Q(S_{t+1}, a) - Q(S_t, A_t) \\right]\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(Q(S_t, A_t)\\): Expected return of taking action \\(A_t\\) in state \\(S_t\\).</li><li>\\(\\alpha\\): Learning rate.</li><li>\\(R_{t+1}\\): Immediate reward received.</li><li>\\(\\gamma\\): Discount factor.</li><li>\\(\\max_a Q(S_{t+1}, a)\\): Maximum expected value of the next state over all actions.</li></ul>",
+      "spanish": "Fórmula de Q-Learning Temporal Difference Update",
+      "usage": "Formula: \\[Q(S_t, A_t) \\leftarrow Q(S_t, A_t) + \\alpha \\left[ R_{t+1} + \\gamma \\max_a Q(S_{t+1}, a) - Q(S_t, A_t) \\right]\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c5f28f92d046a32e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "rl",
+        "bellman",
+        "math",
+        "optimality"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Bellman Optimality Equation for Q*(s, a))",
+      "text": "Ecuación para {{c1::Bellman Optimality Equation for Q*(s, a)}}: \\[Q^*(s, a) = R(s, a) + \\gamma \\sum_{s'} P(s' | s, a) \\max_{a'} Q^*(s', a')\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(Q^*(s, a)\\): Optimal action-value function representing best achievable return.</li><li>\\(R(s, a)\\): Expected reward of taking action \\(a\\) in state \\(s\\).</li><li>\\(P(s' | s, a)\\): Transition probability function to state \\(s'\\).</li><li>\\(\\max_{a'} Q^*(s', a')\\): Best possible return from the resulting state \\(s'\\).</li></ul>",
+      "spanish": "Fórmula de Bellman Optimality Equation for Q*(s, a)",
+      "usage": "Formula: \\[Q^*(s, a) = R(s, a) + \\gamma \\sum_{s'} P(s' | s, a) \\max_{a'} Q^*(s', a')\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9957e77c7a8eac93",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "chess",
+        "hashing",
+        "transposition"
+      ]
+    },
+    "content": {
+      "scenario": "Active Recall Quiz 🎯",
+      "text": "<b>Pregunta:</b> How do chess engines resolve hash collisions in Transposition Tables when multiple board positions produce the same Zobrist key?<br>Opciones:<ul><li>A) By storing the full board state signature alongside the hash key and using replacement strategies based on search depth</li><li>B) By chaining conflicting positions in local linked lists</li><li>C) By applying secondary hashing functions using SHA-256 keys</li><li>D) By discarding the search result entirely and re-searching the branch eagerly</li></ul><br>Respuesta correcta: {{c1::A) By storing the full board state signature alongside the hash key and using replacement strategies based on search depth}}",
+      "explanation": "Justificación: Because transposition tables hold millions of positions, collisions occur. The table entry stores the 64-bit Zobrist key (to verify it matches the board) and depth information. If keys match, search details are reused. If they collide, the engine replaces the entry if the new search was deeper (deeper results are more valuable).",
+      "spanish": "Quiz: How do chess engines resolve hash collisions in Transposition Tables when multiple board positions produce the same Zobrist key?",
+      "usage": "Quiz assertion: A) By storing the full board state signature alongside the hash key and using replacement strategies based on search depth"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1d0207af4d1d24b8",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "chess",
+        "evaluation",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Chess Position Evaluation Function (Material vs. Positional))",
+      "text": "Ecuación para {{c1::Chess Position Evaluation Function (Material vs. Positional)}}: \\[f(p) = \\sum w_{\\text{mat}} M_i + \\sum w_{\\text{pos}} P_{i}(\\text{square})\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(M_i\\): Material piece count values (e.g., Pawn=1, Knight/Bishop=3, Rook=5, Queen=9).</li><li>\\(P_{i}(\\text{square})\\): Piece-Square Table (PST) score, representing positional utility (e.g., center control).</li><li>\\(w_{\\text{mat}}, w_{\\text{pos}}\\): Hyperparameter weights scaling material and positional metrics.</li></ul>",
+      "spanish": "Fórmula de Chess Position Evaluation Function (Material vs. Positional)",
+      "usage": "Formula: \\[f(p) = \\sum w_{\\text{mat}} M_i + \\sum w_{\\text{pos}} P_{i}(\\text{square})\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ac6d9cfe91db639f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "agent_toolkits",
+        "langgraph"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Toolkits: Graph Orchestration 📊",
+      "text": "For complex, cyclical workflows requiring strict reliability, {{c1::LangGraph}} structures agents as a state machine where {{c2::Nodes}} represent actions and {{c2::Edges}} represent transitions.",
+      "explanation": "LangGraph is built on top of LangChain. Its core advantage is representing loops (cycles) naturally in a graph, with state persistence (saving checkpoints) and fine-grained control over transitions.",
+      "spanish": "Para flujos de trabajo complejos y cíclicos que requieren una fiabilidad estricta, LangGraph estructura a los agentes como una máquina de estados donde los Nodos representan acciones y las Aristas representan transiciones.",
+      "usage": "Ideal for production-grade pipelines where you need human-in-the-loop validation at specific checkpoints (e.g. approving an email draft before sending)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7f8c6220fc3658aa",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "agent_toolkits",
+        "crewai"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Toolkits: Role-Playing Teams 🤝",
+      "text": "For organizational task delegation, {{c1::CrewAI}} adopts a role-playing design where developers define agents with specific {{c2::Roles, Goals, and Backstories}}.",
+      "explanation": "CrewAI models agents like employees in a company. You define their specialty (role), what they need to achieve (goals), and a narrative (backstory). It supports sequential or hierarchical delegation of tasks automatically.",
+      "spanish": "Para la delegación de tareas organizacionales, CrewAI adopta un diseño de juego de roles donde los desarrolladores definen agentes con Roles, Objetivos e Historias de fondo específicos.",
+      "usage": "Perfect for content generation or market analysis where one agent researches, another drafts, and a manager agent reviews the content."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "230bbdee12d92933",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "agent_toolkits",
+        "autogen"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Toolkits: Conversational Dialogue 💬",
+      "text": "To support collaborative problem-solving, Microsoft's {{c1::AutoGen}} defines agents as {{c2::conversable entities}} that interact with each other through structured text-based dialogues.",
+      "explanation": "AutoGen focuses on agent-to-agent chat. Multiple agents (e.g., coder, critic, user proxy) converse with each other in a chat room, generating and executing code iteratively to solve complex math or programming problems.",
+      "spanish": "Para apoyar la resolución colaborativa de problemas, AutoGen de Microsoft define a los agentes como entidades conversacionales que interactúan entre sí a través de diálogos estructurados basados en texto.",
+      "usage": "Useful for joint research, code generation, and iterative debugging tasks where agents need to critique each other's work dynamically."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "44b549fd3659cd69",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "agent_toolkits",
+        "event_driven"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Toolkits: Event-Driven Execution ⚡",
+      "text": "In agent development toolkits, an {{c1::event-driven workflow}} triggers agent actions based on custom {{c2::Events}} rather than predefined graph routes.",
+      "explanation": "Event-driven agent frameworks (like LlamaIndex Workflows) let agents publish and subscribe to specific event types. When a task publishes an event, any agent listening to that event type triggers its action, making the system highly decoupled.",
+      "spanish": "En los kits de desarrollo de agentes, un flujo de trabajo impulsado por eventos activa las acciones de los agentes basadas en Eventos personalizados en lugar de rutas de gráficos predefinidas.",
+      "usage": "Handling multi-source incoming documents where a 'pdf_event' triggers a PDF parser, and a 'txt_event' triggers a text parser asynchronously."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ae43d747d54d860e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "frameworks",
+        "crewai"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Frameworks: CrewAI 🤖",
+      "text": "To build collaborative groups of AI agents that role-play and execute structured tasks, you use the {{c1::CrewAI}} framework, which organizes agents into crews.",
+      "explanation": "CrewAI is a framework designed to orchestrate role-playing, autonomous AI agents. By assigning specific roles, goals, and backstories to each agent, they can collaborate and perform complex multi-agent workflows.",
+      "spanish": "Para crear grupos colaborativos de agentes de IA que asuman roles y ejecuten tareas estructuradas, utilizas el entorno de trabajo CrewAI, que organiza los agentes en tripulaciones.",
+      "usage": "In CrewAI, you define <code>Agent</code>, <code>Task</code>, and <code>Crew</code> objects, passing tools directly to the agents for execution."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bee88181a649dffc",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "frameworks",
+        "autogen"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Frameworks: AutoGen 🤖",
+      "text": "For building multi-agent systems where agents communicate via conversational turns, Microsoft developed {{c1::AutoGen}}, which supports customizable chat patterns.",
+      "explanation": "AutoGen is a developer framework that allows multiple agents to converse with one another to solve tasks. It supports human participation, tool execution, and diverse conversation flows (like joint chat or hierarchical chat).",
+      "spanish": "Para construir sistemas multi-agente donde los agentes se comunican mediante turnos conversacionales, Microsoft desarrolló AutoGen, que admite patrones de chat personalizables.",
+      "usage": "AutoGen uses <code>ConversableAgent</code> and <code>UserProxyAgent</code> objects to orchestrate conversations and code execution."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6271bea39d8ca725",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "frameworks",
+        "langgraph"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Frameworks: LangGraph 🤖",
+      "text": "To build stateful, multi-agent applications using graph-based cyclic control flows, you use {{c1::LangGraph}}, which represents agents as nodes and transitions as edges.",
+      "explanation": "LangGraph extends LangChain by allowing developers to define agentic workflows as graphs. It supports cycles, which are crucial for agentic loops (like ReAct), and maintains a persistent state across agent steps.",
+      "spanish": "Para construir aplicaciones multi-agente con estado utilizando flujos de control cíclicos basados en grafos, utilizas LangGraph, que representa a los agentes como nodos y las transiciones como aristas.",
+      "usage": "In LangGraph, you define a <code>StateGraph</code>, add nodes using functions, define conditional edges, and compile it into a runnable application."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b11dee1d451006c1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "frameworks",
+        "semantic_kernel"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Frameworks: Semantic Kernel 🤖",
+      "text": "To integrate LLMs into conventional programming languages like C# and Java using native functions and planners, you use Microsoft's {{c1::Semantic Kernel}}.",
+      "explanation": "Semantic Kernel is an SDK that enables integration of AI services with conventional programming languages. It allows developers to define plugins (semantic and native functions) and use planners to automatically execute them.",
+      "spanish": "Para integrar LLMs en lenguajes de programación convencionales como C# y Java utilizando funciones nativas y planificadores, utilizas Semantic Kernel de Microsoft.",
+      "usage": "Semantic Kernel supports importing custom plugins and automatically mapping LLM prompts to native C# or Python functions."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0586a7aa09366f15",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "frameworks",
+        "networking"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Frameworks: Message Passing 🤖",
+      "text": "To prevent blocking and ensure high throughput in multi-agent networks, agents coordinate using {{c1::asynchronous message passing}} protocols.",
+      "explanation": "Asynchronous message passing allows agents to send messages to other agents' inboxes without waiting for an immediate response. This decouples agent execution, improving performance in complex systems.",
+      "spanish": "Para evitar el bloqueo y asegurar un alto rendimiento en redes multi-agente, los agentes se coordinan utilizando protocolos de paso de mensajes asincrónicos.",
+      "usage": "In multi-agent frameworks, agents write to a shared queue or event broker (like RabbitMQ) to achieve asynchronous message passing."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "357f6e13369ecfa7",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "frameworks",
+        "state"
+      ]
+    },
+    "content": {
+      "scenario": "Agent Frameworks: State Sharing 🤖",
+      "text": "To maintain a shared understanding of a task across multiple agents, frameworks implement a centralized database or {{c1::state sharing}} mechanism.",
+      "explanation": "State sharing allows multiple agents in a crew or swarm to read from and write to a common database (like Redis or a graph database). This ensures all agents are aligned on the current task progress.",
+      "spanish": "Para mantener un entendimiento compartido de una tarea a lo largo de múltiples agentes, los entornos de trabajo implementan una base de datos centralizada o un mecanismo de intercambio de estado (state sharing).",
+      "usage": "LangGraph implements state sharing by passing a common <code>State</code> dictionary to every node in the graph."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f2acbaa5b68bb7dd",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "agentic_systems"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: Planning 🤖",
+      "text": "The ReAct framework combines reasoning and acting by generating alternating sequences of {{c1::Thought}}, {{c1::Action}}, and {{c1::Observation}}.",
+      "explanation": "ReAct (Reason + Act) prompts the LLM to think step-by-step before executing any actions (such as API calls or tool invocation). The model writes a 'Thought', calls a tool ('Action'), reads the output ('Observation'), and repeats this loop until it reaches a conclusion.",
+      "spanish": "El marco ReAct combina el razonamiento y la acción mediante la generación de secuencias alternas de Pensamiento (Thought), Acción (Action) y Observación (Observation).",
+      "usage": "Example trace:<ul><li><strong>Thought</strong>: I need to find the current weather in Paris.</li><li><strong>Action</strong>: <code>weather_search('Paris')</code></li><li><strong>Observation</strong>: Paris is currently 18°C and raining.</li><li><strong>Thought</strong>: Now I can answer the user...</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9cdb72a3d5f2daae",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "agentic_systems"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: Memory 🧠",
+      "text": "In agentic architectures, {{c1::episodic memory}} records execution histories and user interactions, while {{c1::semantic memory}} represents generalized factual facts, system prompts, or core instructions.",
+      "explanation": "Episodic memory refers to specific events and past steps the agent experienced (implemented via vector search of past chat logs). Semantic memory holds permanent generalized concepts, templates, or instructions (stored in the system prompt or static databases).",
+      "spanish": "En las arquitecturas de agentes, la memoria episódica registra los historiales de ejecución y las interacciones del usuario, mientras que la memoria semántica representa hechos factuales generalizados, prompts del sistema o instrucciones principales.",
+      "usage": "Key distinction:<ul><li>Episodic: 'What did I say to this user five steps ago?'</li><li>Semantic: 'What is the system guideline for writing code?'</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9c48e3d183160e87",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "react",
+        "planning"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: ReAct Loop 🤖",
+      "text": "To combine reasoning (thoughts) and actions (tool execution) in a continuous loop, agents implement the {{c1::ReAct}} framework.",
+      "explanation": "The ReAct (Reason + Act) paradigm prompts the LLM to generate a 'Thought' (reasoning about the goal), then execute an 'Action' (calling a tool), and observe the 'Observation' (tool output), repeating until the task is complete.",
+      "spanish": "Para combinar el razonamiento (pensamientos) y las acciones (ejecución de herramientas) en un bucle continuo, los agentes implementan el marco de trabajo ReAct.",
+      "usage": "Standard ReAct prompt pattern: <code>Thought: [reasoning] -> Action: [tool] -> Observation: [result]</code>, looping until Final Answer."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "be04f254b14fb313",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "reflection",
+        "optimization"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: Self-Reflection 🤖",
+      "text": "To improve output quality, agents run a validation step where they inspect their own output and suggest corrections; this is called {{c1::self-reflection}}.",
+      "explanation": "Self-reflection prompts the agent to play the role of an evaluator. It evaluates if the generated output meets the quality criteria and, if errors are found, generates a revised prompt to fix them.",
+      "spanish": "Para mejorar la calidad de la salida, los agentes ejecutan un paso de validación en el que inspeccionan su propio resultado y sugieren correcciones; esto se llama auto-reflexión (self-reflection).",
+      "usage": "The agent generates a draft, passes it to a reflection prompt: <code>Review this output for errors and revise if necessary</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c4804906df0eceb6",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "memory",
+        "vector_db"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: Memory Types 🤖",
+      "text": "To recall past user interactions and facts across sessions, agent architectures implement {{c1::episodic memory}} using vector stores.",
+      "explanation": "Episodic memory stores the logs of past interactions or episodes. By embedding these logs and saving them in a vector database, the agent can perform semantic search to recall past context during a new session.",
+      "spanish": "Para recordar interacciones pasadas del usuario y hechos a lo largo de las sesiones, las arquitecturas de agentes implementan memoria episódica utilizando almacenes de vectores.",
+      "usage": "Episodic memory uses vector databases (like Chroma or Pinecone) to perform similarity search on past conversation logs."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "95a12ebf48acab62",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "tools",
+        "json"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: Tool Use 🤖",
+      "text": "To interact with external APIs, databases, or run code, the agent translates a natural language request into a structured {{c1::tool call}}.",
+      "explanation": "Tool calling is the mechanism where the LLM selects a tool from a schema (name, description, parameters) and outputs a JSON containing the arguments, which the system then executes.",
+      "spanish": "Para interactuar con APIs externas, bases de datos o ejecutar código, el agente traduce una solicitud en lenguaje natural en una llamada a herramienta estructurada (tool call).",
+      "usage": "JSON output structure for a tool call: <code>{\"name\": \"run_code\", \"arguments\": {\"code\": \"print('hello')\"}}</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cde7cbf54dd34d3a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "planning",
+        "decomposition"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: Task Decomposition 🤖",
+      "text": "To handle large, complex tasks, agents use {{c1::task decomposition}} to break the main goal into smaller sub-tasks.",
+      "explanation": "Task decomposition involves dividing a complex objective into sequential or parallel sub-tasks. This reduces context load and allows specialized agents or tools to handle each sub-step.",
+      "spanish": "Para manejar tareas grandes y complejas, los agentes utilizan la descomposición de tareas (task decomposition) para dividir el objetivo principal en subtareas más pequeñas.",
+      "usage": "An agent receives a query, uses a planning prompt to write a checklist (sub-tasks), and tracks progress sequentially."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "19e692dc32a1664c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "autonomy",
+        "overview"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: Autonomy 🤖",
+      "text": "Unlike standard chatbots, agentic systems possess high {{c1::autonomy}}, allowing them to decide the sequence of steps and tools to achieve a goal.",
+      "explanation": "Autonomy is the core capability that defines agents. Instead of following a hardcoded script, the agent analyzes the input, decides which tools to run, evaluates the results, and dynamically adjusts its plan.",
+      "spanish": "A diferencia de los chatbots estándar, los sistemas de agentes poseen una alta autonomía, lo que les permite decidir la secuencia de pasos y herramientas para lograr un objetivo.",
+      "usage": "Autonomy is achieved by running the agent in a loop (like ReAct or Plan-and-Solve) until the agent decides to output a final answer."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0bd2bfa5c5def00b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "safety",
+        "hitl"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: Safety Guardrails 🤖",
+      "text": "To prevent agents from executing harmful actions (like deleting a database), developers implement {{c1::Human-in-the-Loop}} (HITL) approval gates.",
+      "explanation": "Human-in-the-Loop (HITL) is a design pattern where the agent pauses execution and requests approval from a human user before executing a high-risk tool call.",
+      "spanish": "Para evitar que los agentes ejecuten acciones dañinas (como borrar una base de datos), los desarrolladores implementan puertas de aprobación humana en el bucle (Human-in-the-Loop).",
+      "usage": "In LangGraph, you can set a breakpoint before high-risk nodes (e.g. <code>delete_db</code>) to require human-in-the-loop validation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "50325a9fc7dcdeca",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "agents",
+        "evaluation",
+        "metrics"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic Systems: Evaluation 🤖",
+      "text": "To evaluate the quality and correctness of an agent's multi-step execution, developers use the {{c1::LLM-as-a-judge}} paradigm.",
+      "explanation": "LLM-as-a-judge leverages a powerful model (like GPT-4) to evaluate the intermediate steps, tool calls, and final output of an agent against a set of rubrics or reference answers.",
+      "spanish": "Para evaluar la calidad y corrección de la ejecución de múltiples pasos de un agente, los desarrolladores utilizan el paradigma de LLM como juez (LLM-as-a-judge).",
+      "usage": "You prompt an evaluator LLM: <code>Grade the following agent run on a scale of 1-5 based on correctness and safety: [log]</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bacc2eefb054ca58",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "classical_ml"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Optimization 📉",
+      "text": "The Gradient Descent parameter update formula is {{c1::\\(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\\)}}",
+      "explanation": "This formula iteratively adjusts model parameters (weights) \\(\\theta\\) to minimize the loss function \\(J(\\theta)\\). The gradient \\(\\nabla J(\\theta_t)\\) points in the direction of steepest increase, so subtracting it steps down toward the minimum, scaled by learning rate \\(\\eta\\).",
+      "spanish": "La fórmula de actualización de parámetros en el Descenso de Gradiente es \\(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\\).",
+      "usage": "Core formula breakdown:<ul><li>\\(\\theta\\): Parameter weight vector</li><li>\\(\\eta\\): Learning rate (determines step size)</li><li>\\(J(\\theta)\\): Loss/objective function</li><li>\\(\\nabla J(\\theta_t)\\): Gradient vector at time step t</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "24ed6b2482a716a5",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "classical_ml"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Optimization 📉",
+      "text": "The Adam optimizer calculates adaptive learning rates by combining {{c1::Momentum}} (moving average of past gradients) and {{c1::RMSProp}} (moving average of past squared gradients).",
+      "explanation": "Adam (Adaptive Moment Estimation) tracks both the first moment (mean of gradients, similar to Momentum) and the second moment (uncentered variance of gradients, similar to RMSProp) to scale steps independently for each weight.",
+      "spanish": "El optimizador Adam calcula tasas de aprendizaje adaptativas combinando Momentum (promedio móvil de gradientes pasados) y RMSProp (promedio móvil de gradientes pasados al cuadrado).",
+      "usage": "Mathematical concept:<ul><li>Momentum term helps speed up optimization in direction of consistent gradients.</li><li>RMSProp term dampens updates in highly volatile directions, preventing exploding parameters.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "98c5359f627f58d4",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "classical_ml",
+        "supervised",
+        "overview"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Supervised Learning 🌲",
+      "text": "To predict continuous outputs (regression) or discrete categories (classification), we train models using {{c1::supervised learning}} on labeled data.",
+      "explanation": "Supervised learning algorithms learn a mapping function \\(f(x) = y\\) from training pairs \\((x, y)\\) containing input features and corresponding ground-truth targets.",
+      "spanish": "Para predecir salidas continuas (regresión) o categorías discretas (clasificación), entrenamos modelos utilizando aprendizaje supervisado (supervised learning) en datos etiquetados.",
+      "usage": "Examples of supervised learning: Linear Regression, Logistic Regression, Decision Trees, Support Vector Machines."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bb03e792031a2010",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "classical_ml",
+        "unsupervised",
+        "overview"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Unsupervised Learning 🌲",
+      "text": "To discover hidden structures, groupings, or reduce dimensions without utilizing ground-truth labels, you apply {{c1::unsupervised learning}}.",
+      "explanation": "Unsupervised learning analyzes unlabeled data to identify patterns, group samples by similarity (clustering), or project features into lower dimensions.",
+      "spanish": "Para descubrir estructuras ocultas, agrupaciones o reducir dimensiones sin utilizar etiquetas de referencia reales, aplicas aprendizaje no supervisado (unsupervised learning).",
+      "usage": "Examples of unsupervised learning: K-Means clustering, PCA, DBSCAN, Gaussian Mixture Models."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "66f297cdccf44816",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "classical_ml",
+        "reinforcement_learning",
+        "overview"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Reinforcement Learning 🌲",
+      "text": "To train autonomous agents to make sequences of decisions by interacting with an environment, we use {{c1::reinforcement learning}} based on rewards.",
+      "explanation": "In Reinforcement Learning (RL), an agent learns to maximize cumulative reward by executing actions in an environment and observing states and outcomes (Markov Decision Process).",
+      "spanish": "Para entrenar agentes autónomos para tomar secuencias de decisiones mediante la interacción con un entorno, utilizamos el aprendizaje por refuerzo (reinforcement learning) basado en recompensas.",
+      "usage": "Key concepts in RL: Agent, Environment, State, Action, Reward, Q-Learning, Policy Gradient."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fd47658a2fc0288f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "classical_ml",
+        "overfitting",
+        "variance"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Overfitting 🌲",
+      "text": "When a model learns noise and specific details of the training data too well, it suffers from {{c1::overfitting}} (high variance).",
+      "explanation": "Overfitting occurs when a model is overly complex relative to the simplicity of the data. It performs exceptionally well on training data but generalizes poorly to unseen test data.",
+      "spanish": "Cuando un modelo aprende el ruido y los detalles específicos de los datos de entrenamiento demasiado bien, sufre de sobreajuste (overfitting - alta varianza).",
+      "usage": "To prevent overfitting: use regularization (L1/L2), cross-validation, dropouts, or gather more training data."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5cd33ffcf9cc0364",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "classical_ml",
+        "underfitting",
+        "bias"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Underfitting 🌲",
+      "text": "If a model is too simple to capture the underlying pattern of the data, it yields high bias, a state called {{c1::underfitting}}.",
+      "explanation": "Underfitting occurs when the model complexity is insufficient (e.g. fitting a straight line to quadratic data). The model performs poorly on both training and validation sets.",
+      "spanish": "Si un modelo es demasiado simple para capturar el patrón subyacente de los datos, produce un sesgo alto, un estado llamado subajuste (underfitting).",
+      "usage": "To fix underfitting: increase model complexity, add feature interactions, or decrease regularization parameters."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ce04e63f792a8a86",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "classical_ml",
+        "bias_variance",
+        "tradeoff"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Bias-Variance Tradeoff 🌲",
+      "text": "Finding the optimal model complexity that minimizes both generalization error sources is known as the {{c1::bias-variance tradeoff}}.",
+      "explanation": "Total error can be decomposed into Bias error (underfitting), Variance error (overfitting), and Irreducible error (noise). As model complexity increases, bias decreases but variance increases.",
+      "spanish": "Encontrar la complejidad óptima del modelo que minimiza ambas fuentes de error de generalización se conoce como el equilibrio entre sesgo y varianza (bias-variance tradeoff).",
+      "usage": "Optimal model complexity is located at the minimum of the U-shaped validation error curve."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "46a6e9212f1f3750",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "classical_ml",
+        "validation",
+        "cross_validation"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Cross-Validation 🌲",
+      "text": "To evaluate a model's generalization capability robustly, you partition the dataset using {{c1::K-Fold cross-validation}}.",
+      "explanation": "K-Fold cross-validation divides the dataset into K subsets (folds). The model is trained K times, each time using K-1 folds for training and the remaining fold for validation, averaging the metrics.",
+      "spanish": "Para evaluar la capacidad de generalización de un modelo de forma robusta, particionas el conjunto de datos mediante validación cruzada de K particiones (K-Fold cross-validation).",
+      "usage": "In Scikit-Learn: <code>from sklearn.model_selection import cross_val_score; scores = cross_val_score(model, X, y, cv=5)</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5e3fb2379c5384d1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "classical_ml",
+        "data_leakage",
+        "safety"
+      ]
+    },
+    "content": {
+      "scenario": "Classical ML: Data Leakage 🌲",
+      "text": "When information from outside the training dataset is accidentally used to train the model, it causes {{c1::data leakage}}, yielding overly optimistic validation metrics.",
+      "explanation": "Data leakage occurs when target or future information is mixed into the training set (e.g. scaling features before splitting data, or including target-proxies). The model performs perfectly in testing but fails in production.",
+      "spanish": "Cuando la información de fuera del conjunto de datos de entrenamiento se utiliza accidentalmente para entrenar el modelo, causa filtración de datos (data leakage), produciendo métricas de validación demasiado optimistas.",
+      "usage": "To prevent leakage: build pipelines that split data before any preprocessing or feature scaling steps."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c4758a69b2f59682",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "agents",
+        "multi_agent",
+        "blackboard_architecture"
+      ]
+    },
+    "content": {
+      "scenario": "AI Agents: Multi-Agent Collaboration 🤝",
+      "text": "For distributed task execution, multi-agent systems rely on {{c1::shared-state memory}} or {{c2::blackboard architectures}} to share intermediate results and prevent agents from executing redundant operations.",
+      "explanation": "A blackboard architecture is a common pattern where agents read from and write to a global, central workspace (the blackboard). This decoupling lets specialized agents react dynamically to updates without direct agent-to-agent coupling.",
+      "spanish": "Para la ejecución de tareas distribuidas, los sistemas multi-agente dependen de la memoria de estado compartido o de arquitecturas de pizarra para compartir resultados intermedios y evitar operaciones redundantes.",
+      "usage": "Used in complex orchestration setups where researchers, writers, and checkers need to share an audit log."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b63fb6c63b67f569",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "agents",
+        "claude_code",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "AI Agents: Claude Code CLI 💻",
+      "text": "Anthropic's {{c1::Claude Code}} operates autonomously on local repositories by directly parsing system diffs, running tests, and executing shell commands using a {{c2::read-eval-print-loop (REPL)}} model.",
+      "explanation": "Claude Code is a command-line interface tool that gives Claude agentic access to your local filesystem. It executes developer tasks (like bug fixing or refactoring) by suggesting patches, applying them, running verification tests, and iterating until the tests pass.",
+      "spanish": "Claude Code de Anthropic opera de forma autónoma en repositorios locales al analizar directamente diferencias del sistema, ejecutar pruebas y comandos de shell utilizando un modelo REPL.",
+      "usage": "Ideal for command-line-driven codebase exploration, test-driven debugging, and automated git commits."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7cb527605f372b4a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "agents",
+        "antigravity",
+        "sandboxing"
+      ]
+    },
+    "content": {
+      "scenario": "AI Agents: Antigravity Framework 🪐",
+      "text": "The agentic framework {{c1::Antigravity}} ensures reliability by executing user code in a {{c2::sandboxed environment}} with granular tool permissions and state checkpointing.",
+      "explanation": "Antigravity provides developer environments with safe agent runtimes. By checkpointing the execution state, the framework allows long-running agent workflows to pause, seek user approval (Human-in-the-Loop), and safely resume without losing intermediate progress.",
+      "spanish": "El framework agéntico Antigravity garantiza la confiabilidad al ejecutar código de usuario en un entorno aislado con permisos de herramientas granulares y puntos de control de estado.",
+      "usage": "Perfect for enterprise tasks where agents make external API calls or write files that require strict verification."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "480490f246e345d9",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "agents",
+        "evaluation",
+        "llm_judge"
+      ]
+    },
+    "content": {
+      "scenario": "AI Agents: LLM-as-a-Judge ⚖️",
+      "text": "To automate validation in agentic pipelines, {{c1::LLM-as-a-Judge}} implements a multi-model evaluation where a supervisor LLM grades outputs using {{c2::rubric-based scoring}} to calculate alignment.",
+      "explanation": "LLM-as-a-Judge uses an LLM (typically a larger, frontier model) to evaluate the quality, tone, or compliance of another LLM's output. By defining strict scoring rubrics and structured JSON schemas, it reduces the need for slow, expensive human evaluations.",
+      "spanish": "Para automatizar la validación en flujos agénticos, LLM-as-a-Judge implementa una evaluación multi-modelo donde un LLM supervisor califica las salidas utilizando puntuaciones basadas en rúbricas.",
+      "usage": "Widely deployed in CI/CD pipelines to measure prompt regression and semantic drift."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "81b6eb4c50771c4c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "agents",
+        "langgraph",
+        "state_machine"
+      ]
+    },
+    "content": {
+      "scenario": "AI Agents: LangGraph Cyclic State 🔄",
+      "text": "Unlike linear pipelines, {{c1::LangGraph}} models agents as a cyclic state machine where nodes represent actions and edges determine transitions based on the current {{c2::StateGraph object}}.",
+      "explanation": "LangGraph is designed for agent workflows that require loops (e.g. an agent writes code, compiles it, encounters an error, and loops back to fix it). It uses a centralized StateGraph that persists checkpoints, enabling human-in-the-loop interventions.",
+      "spanish": "A diferencia de los pipelines lineales, LangGraph modela a los agentes como una máquina de estados cíclica donde los nodos representan acciones y las aristas determinan las transiciones según el StateGraph.",
+      "usage": "Used for building highly complex, iterative pipelines where agents must review and correct their own work."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2e59eb6feaa1a2be",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "agents",
+        "tools",
+        "rag"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Tool RAG 🛠️",
+      "text": "When an agent has access to thousands of tools, context constraints require using {{c1::tool retrieval}} (RAG for tools) before prompt generation.",
+      "explanation": "Instead of hardcoding all tool definitions in the system prompt (which bloats context and degrades LLM reasoning), the agent performs vector similarity search to retrieve and inject only the top relevant tools for the current query.",
+      "spanish": "Cuando un agente tiene acceso a miles de herramientas, las restricciones de contexto requieren el uso de recuperación de herramientas (tool retrieval - RAG para herramientas) antes de generar el prompt.",
+      "usage": "Tool retrieval indexes tool names and descriptions in a vector database to fetch relevant APIs on demand."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a77eaa8f85183558",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "agents",
+        "safety",
+        "loop"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Loop Detection 🛠️",
+      "text": "To prevent agents from generating infinite, repetitive tool calls when encountering failures, systems implement {{c1::loop detection}} limits.",
+      "explanation": "Loop detection monitors the agent's action history. If the agent repeats the exact same thought and tool call sequence multiple times without making progress, the loop is broken, and control is handed back to the user.",
+      "spanish": "Para evitar que los agentes generen llamadas a herramientas infinitas y repetitivas al encontrarse con fallas, los sistemas implementan límites de detección de bucles (loop detection).",
+      "usage": "Loop detection is implemented by checking if the sequence of recent state signatures has duplicates, throwing an exception after 3 repetitions."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2871497ab4579ebb",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "agents",
+        "patterns",
+        "evaluator"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Evaluator-Optimizer 🛠️",
+      "text": "For code generation or translation tasks, the {{c1::Evaluator-Optimizer}} design pattern uses one LLM to write a solution and a separate LLM to verify and refine it.",
+      "explanation": "This pattern decouples content generation from quality validation. The generator produces a draft, the evaluator tests it (e.g. running unit tests), and returns feedback, allowing the generator to optimize the next draft.",
+      "spanish": "Para tareas de generación o traducción de código, el patrón de diseño Evaluador-Optimador (Evaluator-Optimizer) utiliza un LLM para escribir una solución y un LLM separado para verificarla y refinarla.",
+      "usage": "The Evaluator-Optimizer pattern is used to automate code compilation checks and self-correction before outputting results."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2e7d3b04fa6a9a3c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "agents",
+        "frameworks",
+        "swarm"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Swarms 🛠️",
+      "text": "To organize multiple agents without complex state management, developers use the {{c1::Swarm}} pattern, where agents dynamically hand off control to other agents.",
+      "explanation": "The Swarm pattern coordinates agents by allowing an agent to return another agent object as a tool call output, transferring the execution focus directly to that new agent without a central supervisor.",
+      "spanish": "Para organizar múltiples agentes sin una gestión de estado compleja, los desarrolladores utilizan el patrón de Enjambre (Swarm), donde los agentes transfieren el control dinámicamente a otros agentes.",
+      "usage": "OpenAI's <code>Swarm</code> framework uses <code>Agent</code> definitions and functions returning the next agent to route conversations."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ef447375d3d843a5",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "agents",
+        "patterns",
+        "orchestrator"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Orchestrator-Workers 🛠️",
+      "text": "In hierarchical workflows, the {{c1::Orchestrator-Workers}} pattern uses a parent agent to break down tasks and assign sub-steps to specialized child agents.",
+      "explanation": "This pattern is highly effective for complex, modular tasks. The orchestrator maintains the high-level state, reviews worker outputs, and decides the next steps, preventing workers from getting lost in broad context.",
+      "spanish": "En flujos de trabajo jerárquicos, el patrón Orquestador-Trabajadores (Orchestrator-Workers) utiliza un agente padre para desglosar tareas y asignar subpasos a agentes hijos especializados.",
+      "usage": "The orchestrator-workers pattern uses a supervisor agent that calls specific worker subagents using tool schemas."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

@@ -1,0 +1,3835 @@
+[
+  {
+    "id": "a76030326eb27394",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "statistics"
+      ]
+    },
+    "content": {
+      "scenario": "ML Foundations: Bias and Variance ⚖️",
+      "text": "A model with high {{c1::bias}} underfits the data, while high {{c2::variance}} overfits and fails to generalize.",
+      "explanation": "Bias-variance tradeoff is a core concept for choosing models, regularization, and validation strategies.",
+      "spanish": "Un modelo con alto sesgo subajusta los datos, mientras que alta varianza sobreajusta y falla en generalizar.",
+      "usage": "Fundamental for supervised learning, model selection, and debugging poor performance."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9a2ddbc385fd3ec9",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "validation"
+      ]
+    },
+    "content": {
+      "scenario": "ML Foundations: Cross-Validation 🔄",
+      "text": "Cross-validation estimates generalization by repeatedly splitting data into train and validation {{c1::folds}}.",
+      "explanation": "It reduces the risk of reporting optimistic performance from a single lucky split.",
+      "spanish": "La validación cruzada estima la generalización al dividir los datos en múltiples folds de entrenamiento y validación.",
+      "usage": "Used in model comparison, hyperparameter tuning, and feature engineering workflows."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "67b07701397600c1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "causal"
+      ]
+    },
+    "content": {
+      "scenario": "ML Foundations: Confounding 🎯",
+      "text": "A {{c1::confounder}} can create a misleading association between a feature and the target if it is not controlled.",
+      "explanation": "Confounding is central for causal reasoning and for avoiding false conclusions in experimentation.",
+      "spanish": "Un factor de confusión puede crear una asociación engañosa entre una característica y la meta si no se controla.",
+      "usage": "Important in observational studies, marketing analysis, and policy evaluation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c44a2c4a1394b515",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "regularization"
+      ]
+    },
+    "content": {
+      "scenario": "ML Foundations: Regularization 🧱",
+      "text": "{{c1::Regularization}} adds a penalty to limit model complexity and reduce overfitting.",
+      "explanation": "L1 and L2 regularization are standard tools for controlling variance in linear and neural models.",
+      "spanish": "La regularización añade una penalización para limitar la complejidad del modelo y reducir el sobreajuste.",
+      "usage": "Essential in logistic regression, SVMs, and deep learning optimization."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8aa92caf8160bcae",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "evaluation"
+      ]
+    },
+    "content": {
+      "scenario": "ML Foundations: Class Imbalance 📊",
+      "text": "In imbalanced datasets, metrics like {{c1::precision}}, {{c2::recall}}, and {{c3::F1}} are often more informative than raw accuracy.",
+      "explanation": "Class imbalance can make accuracy nearly useless when one class dominates the dataset.",
+      "spanish": "En conjuntos con clases desbalanceadas, métricas como precisión, recall y F1 suelen ser más informativas que la exactitud pura.",
+      "usage": "Common in fraud detection, rare disease prediction, and anomaly detection."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6eed902ab3b372d0",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "features"
+      ]
+    },
+    "content": {
+      "scenario": "ML Foundations: Feature Engineering 🧪",
+      "text": "Feature engineering transforms raw {{c1::variables}} into representations that expose relevant structure to the model.",
+      "explanation": "Good features often matter more than the algorithm itself in practical forecasting and tabular problems.",
+      "spanish": "La ingeniería de características transforma variables crudas en representaciones que exponen estructura relevante al modelo.",
+      "usage": "Central in credit scoring, churn prediction, and recommendation systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ff9e9c697df83ace",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "probability"
+      ]
+    },
+    "content": {
+      "scenario": "ML Foundations: Calibration 🎚️",
+      "text": "A calibrated model outputs probabilities that reflect {{c1::real}}-world confidence rather than just ranking examples.",
+      "explanation": "Calibration is essential for risk estimation, medical diagnosis, and decision support.",
+      "spanish": "Un modelo calibrado devuelve probabilidades que reflejan la confianza real en lugar de solo ordenar ejemplos.",
+      "usage": "Used when probabilities matter more than hard labels."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3accce163077de63",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "deployment"
+      ]
+    },
+    "content": {
+      "scenario": "ML Foundations: Distribution Shift 🌍",
+      "text": "{{c1::Distribution shift}} occurs when the data seen in production no longer matches the training distribution.",
+      "explanation": "This is one of the most common causes of degraded real-world ML performance.",
+      "spanish": "El cambio de distribución ocurre cuando los datos vistos en producción ya no coinciden con la distribución de entrenamiento.",
+      "usage": "Critical for deployment monitoring, forecasting, and fraud systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "032745ba520b8f3a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "nlp",
+        "word2vec",
+        "cbow",
+        "skip_gram"
+      ]
+    },
+    "content": {
+      "scenario": "Dual-Coding Diagram 📊 (Word2Vec CBOW vs. Skip-gram (Mikolov et al., 2013))",
+      "text": "¿Cómo funciona la estructura de {{c1::Word2Vec CBOW vs. Skip-gram (Mikolov et al., 2013)}} en el sistema?",
+      "explanation": "CBOW predicts the current target word from surrounding context words, making it faster to train on frequent words. Skip-gram predicts the surrounding context words given the current target word, performing better with small datasets and representing rare words well.<br><br>",
+      "spanish": "CBOW predice la palabra objetivo actual basándose en las palabras de contexto vecinas, mientras que Skip-gram predice el contexto vecino dada la palabra objetivo actual.",
+      "usage": "Visual model for <code>Word2Vec CBOW vs. Skip-gram (Mikolov et al., 2013)</code>.<br>Graph: <div class=\"mermaid\">\ngraph TD\n    subgraph CBOW [\"Continuous Bag of Words (CBOW)\"]\n        Context[\"Context words: x(t-2), x(t-1), x(t+1), x(t+2)\"] --> Projection[\"Sum / Average projection layer\"]\n        Projection --> Target[\"Target word: y(t)\"]\n    end\n    subgraph Skipgram [\"Skip-gram\"]\n        Input[\"Input word: x(t)\"] --> Projection_SG[\"Projection layer\"]\n        Projection_SG --> Output1[\"Target Context: y(t-2)\"]\n        Projection_SG --> Output2[\"Target Context: y(t-1)\"]\n        Projection_SG --> Output3[\"Target Context: y(t+1)\"]\n        Projection_SG --> Output4[\"Target Context: y(t+2)\"]\n    end\n</div>",
+      "concept": "Word2Vec CBOW vs. Skip-gram (Mikolov et al., 2013)",
+      "mermaid_code": "graph TD\n    subgraph CBOW [\"Continuous Bag of Words (CBOW)\"]\n        Context[\"Context words: x(t-2), x(t-1), x(t+1), x(t+2)\"] --> Projection[\"Sum / Average projection layer\"]\n        Projection --> Target[\"Target word: y(t)\"]\n    end\n    subgraph Skipgram [\"Skip-gram\"]\n        Input[\"Input word: x(t)\"] --> Projection_SG[\"Projection layer\"]\n        Projection_SG --> Output1[\"Target Context: y(t-2)\"]\n        Projection_SG --> Output2[\"Target Context: y(t-1)\"]\n        Projection_SG --> Output3[\"Target Context: y(t+1)\"]\n        Projection_SG --> Output4[\"Target Context: y(t+2)\"]\n    end"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f21e415236aadf40",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "nlp",
+        "word2vec",
+        "math",
+        "negative_sampling"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Word2Vec Negative Sampling Loss)",
+      "text": "Ecuación para {{c1::Word2Vec Negative Sampling Loss}}: \\[\\mathcal{L}_{\\text{NEG}}(v_{w_I}, v'_{w_O}, \\mathcal{W}_{\\text{neg}}) = -\\log \\sigma(v'_{w_O}{}^\\top v_{w_I}) - \\sum_{w_i \\in \\mathcal{W}_{\\text{neg}}} \\log \\sigma(-v'_{w_i}{}^\\top v_{w_I})\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(v_{w_I}\\): Input vector representation of the current word.</li><li>\\(v'_{w_O}\\): Output vector representation of the true context word.</li><li>\\(\\mathcal{W}_{\\text{neg}}\\): Set of \\(k\\) randomly sampled negative noise words.</li><li>\\(\\sigma\\): Sigmoid activation function.</li></ul>",
+      "spanish": "Fórmula de Word2Vec Negative Sampling Loss",
+      "usage": "Formula: \\[\\mathcal{L}_{\\text{NEG}}(v_{w_I}, v'_{w_O}, \\mathcal{W}_{\\text{neg}}) = -\\log \\sigma(v'_{w_O}{}^\\top v_{w_I}) - \\sum_{w_i \\in \\mathcal{W}_{\\text{neg}}} \\log \\sigma(-v'_{w_i}{}^\\top v_{w_I})\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fcd6b4a092901521",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "nlp",
+        "word2vec",
+        "math",
+        "hierarchical_softmax"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Hierarchical Softmax Approximation)",
+      "text": "Ecuación para {{c1::Hierarchical Softmax Approximation}}: \\[P(w|w_I) = \\prod_{j=1}^{L(w)-1} \\sigma\\left([[\\text{ch}(n(w, j)) == n(w, j+1)]] \\cdot v'_{n(w, j)}{}^\\top v_{w_I}\\right)\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(L(w)\\): Depth of word \\(w\\) in the binary Huffman tree.</li><li>\\(n(w, j)\\): The \\(j\\)-th node along the path from root to word \\(w\\).</li><li>\\(\\text{ch}(n)\\): Left child of node \\(n\\).</li><li>\\([[\\cdot]]\\): Evaluates to \\(1\\) if true, \\(-1\\) if false.</li><li>\\(v'_{n(w, j)}\\): Vector representation of internal node \\(n(w, j)\\).</li></ul>",
+      "spanish": "Fórmula de Hierarchical Softmax Approximation",
+      "usage": "Formula: \\[P(w|w_I) = \\prod_{j=1}^{L(w)-1} \\sigma\\left([[\\text{ch}(n(w, j)) == n(w, j+1)]] \\cdot v'_{n(w, j)}{}^\\top v_{w_I}\\right)\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "99fb851b58e7bbcd",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "nlp",
+        "glove",
+        "math",
+        "optimization"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (GloVe Optimization Objective (Pennington et al., 2014))",
+      "text": "Ecuación para {{c1::GloVe Optimization Objective (Pennington et al., 2014)}}: \\[J = \\sum_{i,j=1}^V f(X_{i,j}) \\left( w_i^\\top \\tilde{w}_j + b_i + \\tilde{b}_j - \\log X_{i,j} \\right)^2\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(V\\): Vocabulary size.</li><li>\\(X_{i,j}\\): Co-occurrence count between word \\(i\\) and word \\(j\\).</li><li>\\(w_i, \\tilde{w}_j\\): Word vectors for target word \\(i\\) and context word \\(j\\).</li><li>\\(b_i, \\tilde{b}_j\\): Biases for word \\(i\\) and context word \\(j\\).</li><li>\\(f(X_{i,j})\\): Weighting function to cap very high co-occurrences.</li></ul>",
+      "spanish": "Fórmula de GloVe Optimization Objective (Pennington et al., 2014)",
+      "usage": "Formula: \\[J = \\sum_{i,j=1}^V f(X_{i,j}) \\left( w_i^\\top \\tilde{w}_j + b_i + \\tilde{b}_j - \\log X_{i,j} \\right)^2\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2b442670a52c31b4",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "ml",
+        "statistics",
+        "pac_learning",
+        "math",
+        "complexity"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (VC Dimension Sample Complexity Bound)",
+      "text": "Ecuación para {{c1::VC Dimension Sample Complexity Bound}}: \\[m \\ge C \\left( \\frac{d + \\log(1/\\delta)}{\\epsilon^2} \\right)\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(m\\): The sample size required to guarantee PAC (Probably Approximately Correct) learning.</li><li>\\(d\\): The Vapnik-Chervonenkis (VC) dimension of the hypothesis class, representing its capacity.</li><li>\\(\\delta\\): The confidence parameter (generalization failure probability is at most \\(\\delta\\)).</li><li>\\(\\epsilon\\): The generalization error tolerance.</li><li>\\(C\\): A universal constant.</li></ul>",
+      "spanish": "Fórmula de VC Dimension Sample Complexity Bound",
+      "usage": "Formula: \\[m \\ge C \\left( \\frac{d + \\log(1/\\delta)}{\\epsilon^2} \\right)\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "916f35312c96133c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "causal",
+        "graphs"
+      ]
+    },
+    "content": {
+      "scenario": "Causal AI: DAGs 🌐",
+      "text": "A directed acyclic graph models causal assumptions and helps identify which {{c1::variables}} should be controlled.",
+      "explanation": "DAGs are foundational for causal inference and experimental design.",
+      "spanish": "Un grafo acíclico dirigido modela supuestos causales y ayuda a identificar qué variables deben controlarse.",
+      "usage": "Used in epidemiology, economics, marketing, and policy analysis."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9c640c4476647c9b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "causal",
+        "experiments"
+      ]
+    },
+    "content": {
+      "scenario": "Causal AI: Treatment Effects 🧪",
+      "text": "{{c1::Average}} treatment effect estimates the impact of an intervention by comparing treated and untreated groups.",
+      "explanation": "This is a core quantity in causal impact analysis and decision science.",
+      "spanish": "El efecto promedio del tratamiento estima el impacto de una intervención comparando grupos tratados y no tratados.",
+      "usage": "Critical in product experiments, policy evaluation, and business optimization."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "618a1c18c58fa959",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "causal",
+        "counterfactual"
+      ]
+    },
+    "content": {
+      "scenario": "Causal AI: Counterfactuals 🔄",
+      "text": "{{c1::Counterfactual}} reasoning asks what would have happened if a different action had been taken.",
+      "explanation": "It is central for explainability and retrospective decision analysis.",
+      "spanish": "El razonamiento contrafactual pregunta qué habría pasado si se hubiera tomado una acción diferente.",
+      "usage": "Useful in healthcare, operations, and strategic business planning."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "11798623f4a5c647",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "time_series",
+        "forecasting"
+      ]
+    },
+    "content": {
+      "scenario": "Time Series: Seasonality 📅",
+      "text": "{{c1::Seasonality}} captures repeating patterns such as weekly demand, monthly cycles, or holiday effects.",
+      "explanation": "It is one of the most important concepts in forecasting and operations planning.",
+      "spanish": "La estacionalidad captura patrones repetitivos como demanda semanal, ciclos mensuales o efectos de vacaciones.",
+      "usage": "Used in demand forecasting, inventory planning, and finance."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c70b921fd4692d4e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "time_series",
+        "decomposition"
+      ]
+    },
+    "content": {
+      "scenario": "Time Series: Trend and Noise 📈",
+      "text": "A {{c1::time}} series often contains a trend component, a seasonal component, and random noise.",
+      "explanation": "Separating these pieces improves forecast accuracy and interpretability.",
+      "spanish": "Una serie temporal a menudo contiene un componente de tendencia, uno estacional y ruido aleatorio.",
+      "usage": "Central in energy, traffic, sales, and finance forecasting."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "78d56abed38c26fc",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "time_series",
+        "transformers"
+      ]
+    },
+    "content": {
+      "scenario": "Time Series: Transformers for Forecasting 🧠",
+      "text": "Transformer-based {{c1::forecasting}} models use attention over historical context to predict future values.",
+      "explanation": "They can capture long-range dependencies better than many classical baselines in some domains.",
+      "spanish": "Los modelos de forecasting basados en transformers usan atención sobre contexto histórico para predecir valores futuros.",
+      "usage": "Used in demand prediction, weather, and multivariate forecasting."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "69a19a1b429696c2",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "time_series",
+        "anomaly"
+      ]
+    },
+    "content": {
+      "scenario": "Time Series: Anomaly Detection 🚨",
+      "text": "{{c1::Anomaly detection}} identifies unusual patterns that may indicate fraud, outages, or equipment failures.",
+      "explanation": "This is a practical use case for unsupervised and semi-supervised forecasting methods.",
+      "spanish": "La detección de anomalías identifica patrones inusuales que pueden indicar fraude, fallos o averías.",
+      "usage": "Common in cybersecurity, operations, and industrial monitoring."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "92bf0774e39c199e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "time_series",
+        "evaluation"
+      ]
+    },
+    "content": {
+      "scenario": "Time Series: Forecast Evaluation 📊",
+      "text": "{{c1::Forecast}} quality should be measured using metrics such as MAE, RMSE, and MAPE over held-out periods.",
+      "explanation": "A model that looks good in-sample can still perform poorly out-of-sample.",
+      "spanish": "La calidad del forecast debe medirse con métricas como MAE, RMSE y MAPE en períodos held-out.",
+      "usage": "Essential for business forecasting and production model selection."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3a134dc1dbfba694",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "deep_learning",
+        "cnn"
+      ]
+    },
+    "content": {
+      "scenario": "Architectures: CNNs 🧠",
+      "text": "Convolutional neural networks exploit local spatial structure through shared filters and {{c1::pooling}}.",
+      "explanation": "They remain highly effective for images, video, and structured spatial data.",
+      "spanish": "Las CNN explotan estructura espacial local mediante filtros compartidos y pooling.",
+      "usage": "Classic in computer vision, medical imaging, and industrial inspection."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7ca0ae1db22a8d94",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "deep_learning",
+        "sequence"
+      ]
+    },
+    "content": {
+      "scenario": "Architectures: RNNs and LSTMs 🔁",
+      "text": "{{c1::RNNs and LSTMs}} process sequential data by maintaining hidden state over time.",
+      "explanation": "They were foundational for language modeling and time-series forecasting before Transformers.",
+      "spanish": "Las RNN y LSTM procesan datos secuenciales manteniendo estado oculto a lo largo del tiempo.",
+      "usage": "Still relevant in small-scale sequence tasks and legacy systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3a91fa661bccf40f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "deep_learning",
+        "transformers"
+      ]
+    },
+    "content": {
+      "scenario": "Architectures: Transformers 🧱",
+      "text": "{{c1::Transformers}} use attention to model long-range dependencies without recurrent state.",
+      "explanation": "They dominate modern NLP and are increasingly important in vision and multimodal systems.",
+      "spanish": "Los transformers usan atención para modelar dependencias a largo plazo sin estado recurrente.",
+      "usage": "Core in LLMs, vision transformers, and speech models."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7fabba813cf4fbf7",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "deep_learning",
+        "vae"
+      ]
+    },
+    "content": {
+      "scenario": "Architectures: Variational Autoencoders 🌀",
+      "text": "{{c1::VAEs}} learn a latent probabilistic representation that can be sampled to generate new data.",
+      "explanation": "They are useful for representation learning and generative modeling.",
+      "spanish": "Los VAE aprenden una representación latente probabilística que puede muestrearse para generar nuevos datos.",
+      "usage": "Used in image generation, anomaly detection, and latent modeling."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3cee98c3b07be310",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "deep_learning",
+        "gan"
+      ]
+    },
+    "content": {
+      "scenario": "Architectures: GANs 🎨",
+      "text": "{{c1::Generative}} adversarial networks train a generator against a discriminator to produce realistic samples.",
+      "explanation": "GANs were a major breakthrough in image and media synthesis.",
+      "spanish": "Las GAN entrenan un generador contra un discriminador para producir muestras realistas.",
+      "usage": "Used in image synthesis and style transfer."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4fd9f089b44848fe",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "deep_learning",
+        "diffusion"
+      ]
+    },
+    "content": {
+      "scenario": "Architectures: Diffusion Models 🌊",
+      "text": "{{c1::Diffusion models}} learn to reverse a noise process to generate high-quality samples.",
+      "explanation": "They now dominate many image and audio generation systems.",
+      "spanish": "Los modelos de difusión aprenden a invertir un proceso de ruido para generar muestras de alta calidad.",
+      "usage": "Core in image generation, editing, and synthetic media."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d9653abe9ed11c0a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "recsys",
+        "collaborative_filtering"
+      ]
+    },
+    "content": {
+      "scenario": "RecSys: Collaborative Filtering 🤝",
+      "text": "{{c1::Collaborative filtering}} recommends items based on the behavior of similar users or items.",
+      "explanation": "It is one of the classic foundations of recommendation systems.",
+      "spanish": "El filtrado colaborativo recomienda ítems a partir del comportamiento de usuarios o ítems similares.",
+      "usage": "Used in e-commerce, media, and personalized ranking systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "91f49475d7885b27",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "recsys",
+        "matrix_factorization"
+      ]
+    },
+    "content": {
+      "scenario": "RecSys: Matrix Factorization 📉",
+      "text": "{{c1::Matrix factorization}} learns latent factors that explain user-item interactions.",
+      "explanation": "It is still a strong baseline for many ranking problems.",
+      "spanish": "La factorización de matrices aprende factores latentes que explican interacciones usuario-ítem.",
+      "usage": "Common in recommender systems and low-latency ranking tasks."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "52eaf3e8d0d02c0a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "recsys",
+        "ranking"
+      ]
+    },
+    "content": {
+      "scenario": "RecSys: Negative Sampling 👎",
+      "text": "{{c1::Negative sampling}} trains ranking models by contrasting positive items with a sample of negatives.",
+      "explanation": "It makes training efficient when the set of possible items is huge.",
+      "spanish": "El negative sampling entrena modelos de ranking contrastando ítems positivos con una muestra de negativos.",
+      "usage": "Used in search, ads, and recommendation ranking."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "46974e7ee4abeefa",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "graphs",
+        "gnn"
+      ]
+    },
+    "content": {
+      "scenario": "Graph Learning: Message Passing 🕸️",
+      "text": "Graph neural networks propagate information along edges using {{c1::message passing}}.",
+      "explanation": "This makes them effective for relational and networked data.",
+      "spanish": "Las redes neuronales de grafos propagan información a través de aristas usando message passing.",
+      "usage": "Used in social graphs, molecular graphs, and knowledge graphs."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6d391d0551f2633d",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "graphs",
+        "embeddings"
+      ]
+    },
+    "content": {
+      "scenario": "Graph Learning: Node and Graph Embeddings 🌐",
+      "text": "Graph {{c1::embeddings}} represent nodes or entire graphs in a vector space for downstream learning.",
+      "explanation": "They enable graph similarity, link prediction, and classification.",
+      "spanish": "Los embeddings de grafos representan nodos o grafos completos en un espacio vectorial para aprendizaje downstream.",
+      "usage": "Useful in chemistry, fraud detection, and network analysis."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bfe085fefe627552",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "recsys",
+        "cold_start"
+      ]
+    },
+    "content": {
+      "scenario": "RecSys: Cold Start ❄️",
+      "text": "{{c1::Cold start}} happens when the system has little or no information about a new user or item.",
+      "explanation": "It is one of the hardest problems in production recommendation systems.",
+      "spanish": "El cold start ocurre cuando el sistema tiene poca o ninguna información sobre un usuario o ítem nuevo.",
+      "usage": "Critical in new-user onboarding and newly launched products."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8385a1071eae7958",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "math",
+        "svd",
+        "linear_algebra"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: Singular Value Decomposition (SVD) 📊",
+      "text": "For dimensionality reduction and matrix approximation, Singular Value Decomposition (SVD) factors a matrix A into U Sigma V^T where Sigma contains the {{c1::singular values}} in descending order and the columns of V represent the {{c2::right singular vectors (principal directions)}}.",
+      "explanation": "SVD decomposition breaks down any real matrix into rotation (U), scaling (Sigma), and rotation (V^T) matrices. Truncating the singular values to the top k gives the best rank-k approximation of the matrix under the Frobenius norm (Eckart-Young-Mirsky theorem).",
+      "spanish": "Para la reducción de dimensionalidad y la aproximación de matrices, la Descomposición en Valores Singulares (SVD) factoriza una matriz A en U Sigma V^T, donde Sigma contiene los valores singulares en orden descendente y las columnas de V representan los vectores singulares derechos.",
+      "usage": "Used in Principal Component Analysis (PCA) and collaborative filtering recommender systems.<br>Reference: For mathematical foundations of SVD, see Chapter 4 of <a href=\"https://lnkd.in/gbUD5VWk\">Mathematics for Machine Learning</a>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "97fe2a5ad42d5844",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "math",
+        "mle",
+        "map",
+        "statistics"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: MLE vs MAP Parameter Estimation 🧠",
+      "text": "While Maximum Likelihood Estimation (MLE) maximizes the likelihood function P(D|theta), Maximum A Posteriori (MAP) estimation incorporates a prior distribution P(theta) by maximizing the product {{c1::P(D|theta)P(theta)}}.",
+      "explanation": "MAP estimation computes the mode of the posterior distribution using Bayes' theorem. It acts as a bridge between frequentist and Bayesian inference, where the prior distribution P(theta) mathematically functions as a regularization term (e.g. Gaussian prior leads to L2 regularization).",
+      "spanish": "Mientras que la Estimación de Máxima Verosimilitud (MLE) maximiza la función de verosimilitud P(D|theta), la Estimación Máxima a Posteriori (MAP) incorpora una distribución a priori P(theta) al maximizar el producto P(D|theta)P(theta).",
+      "usage": "Core foundation for understanding regularization, bayesian classifiers, and parameter estimation.<br>Reference: For parameter estimation derivations, see Chapter 9 of <a href=\"https://lnkd.in/gbUD5VWk\">Mathematics for Machine Learning</a>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "696250045fbfcd64",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "math",
+        "hessian",
+        "calculus"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: Hessian Matrix & Local Curvature 📈",
+      "text": "In multi-variable optimization, the {{c1::Hessian matrix}} is a square matrix of second-order partial derivatives that describes the local curvature of a function, allowing us to determine if a critical point is a local minimum when the matrix is {{c2::positive definite}}.",
+      "explanation": "If the Hessian matrix H is positive definite (H > 0), the function curves upwards in all directions, representing a local minimum. In optimization, Newton's method uses the inverse Hessian to scale the gradient step, providing quadratic convergence.",
+      "spanish": "En optimización multivariable, la matriz Hessiana es una matriz cuadrada de segundas derivadas parciales que describe la curvatura local de una función, lo que nos permite determinar si un punto crítico es un mínimo local cuando la matriz es definida positiva.",
+      "usage": "Used in advanced optimization algorithms (e.g., Newton-Raphson, BFGS, and XGBoost's split criterion).<br>Reference: For optimization and second-order derivatives, see Chapter 4 of <a href=\"https://lnkd.in/gNxH4gSu\">Deep Learning (Goodfellow et al.)</a>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "db001b71f890a7b2",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "math",
+        "curse_of_dimensionality",
+        "distance"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: The Curse of Dimensionality 🌌",
+      "text": "As the number of features increases, the volume of the space grows exponentially, causing data points to become extremely sparse and the Euclidean distance between any two points to {{c1::converge to a constant value}}.",
+      "explanation": "In high-dimensional spaces, the difference between the distance to the nearest point and the distance to the farthest point approaches zero relative to the distance itself. This renders distance-based algorithms (like KNN and K-Means) highly ineffective without dimensionality reduction.",
+      "spanish": "A medida que aumenta el número de características, el volumen del espacio crece exponencialmente, lo que hace que los puntos de datos se vuelvan extremadamente dispersos y que la distancia euclidiana entre dos puntos cualesquiera converja a un valor constante.",
+      "usage": "Explains why high-dimensional features require regularization or PCA/UMAP pre-processing."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "254257fd82a52cf2",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "math",
+        "bootstrapping",
+        "sampling"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: Bootstrapping Sampling Mechanics 🎲",
+      "text": "The statistical technique of {{c1::Bootstrapping}} estimates the sampling distribution of an estimator by performing {{c2::random sampling with replacement}} from the original dataset.",
+      "explanation": "Bootstrapping generates multiple 'new' datasets of the same size as the original by drawing samples repeatedly, allowing some items to be selected multiple times (about 63.2% of original unique points are selected per bootstrap sample on average). It is used to calculate confidence intervals and stability.",
+      "spanish": "La técnica estadística de Bootstrapping estima la distribución muestral de un estimador al realizar un muestreo aleatorio con reemplazo del conjunto de datos original.",
+      "usage": "The core sampling mechanism behind bagging algorithms like Random Forest (where out-of-bag samples act as validation)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "81383c275f6d9103",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ml_math",
+        "calculus",
+        "jacobian"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: Jacobian Matrix 🧮",
+      "text": "To represent all first-order partial derivatives of a vector-valued function, we compute the {{c1::Jacobian matrix}}.",
+      "explanation": "The Jacobian matrix is a matrix of partial derivatives of a function mapping \\(\\mathbb{R}^n \\to \\mathbb{R}^m\\). It is essential in backpropagation for computing gradients of vector outputs relative to vector inputs.",
+      "spanish": "Para representar todas las derivadas parciales de primer orden de una función con valores vectoriales, calculamos la matriz jacobiana (Jacobian matrix).",
+      "usage": "If \\(f(x, y) = [x^2, xy]\\), the Jacobian is \\(J = \\begin{bmatrix} 2x & 0 \\\\ y & x \\end{bmatrix}\\)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d0e13174d99f2a36",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ml_math",
+        "linear_algebra",
+        "eigenvalues"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: Eigenvalues 🧮",
+      "text": "To find the scaling factors of linear transformations along eigenvector directions, we solve the characteristic equation for {{c1::eigenvalues}}.",
+      "explanation": "Eigenvalues are scalars \\(\\lambda\\) such that \\(Av = \\lambda v\\) for a square matrix \\(A\\) and non-zero vector \\(v\\). They are crucial in PCA for determining the variance along principal components.",
+      "spanish": "Para encontrar los factores de escala de las transformaciones lineales a lo largo de las direcciones de los autovectores, resolvemos la ecuación característica para los autovalores (eigenvalues).",
+      "usage": "We solve the characteristic equation: \\(\\det(A - \\lambda I) = 0\\) to find the eigenvalues."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6bca6d6af3314f20",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ml_math",
+        "probability",
+        "kl_divergence"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: KL Divergence 🧮",
+      "text": "To measure the difference between two probability distributions over the same event space, we use the {{c1::KL divergence}} (Kullback-Leibler).",
+      "explanation": "KL divergence calculates the relative entropy. For distributions \\(P\\) and \\(Q\\), it is defined as \\(D_{KL}(P \\parallel Q) = \\sum P(x) \\log \\frac{P(x)}{Q(x)}\\). It is asymmetric and non-negative.",
+      "spanish": "Para medir la diferencia entre dos distribuciones de probabilidad sobre el mismo espacio de eventos, utilizamos la divergencia de KL (Kullback-Leibler).",
+      "usage": "KL divergence is used in Variational Autoencoders (VAEs) to align the latent distribution with a standard Gaussian prior."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4d462d09ac47dd90",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ml_math",
+        "optimization",
+        "conjugate_gradient"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: Conjugate Gradient 🧮",
+      "text": "To solve large, sparse symmetric positive-definite linear systems of equations, we use the iterative {{c1::Conjugate Gradient}} method.",
+      "explanation": "Conjugate Gradient is an iterative method that finds the minimum of a quadratic function. It converges in at most \\(n\\) steps (in exact arithmetic) for an \\(n \\times n\\) matrix, using orthogonal search directions.",
+      "spanish": "Para resolver sistemas de ecuaciones lineales grandes, dispersos, simétricos y definidos positivos, utilizamos el método iterativo del Gradiente Conjugado (Conjugate Gradient).",
+      "usage": "Conjugate Gradient is preferred over direct matrix inversion (e.g. Cholesky) for very large, sparse systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "24d22be4c9d4bb86",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ml_math",
+        "optimization",
+        "l_bfgs"
+      ]
+    },
+    "content": {
+      "scenario": "ML Math: L-BFGS 🧮",
+      "text": "To optimize functions with a large number of variables using quasi-Newton methods without storing the full Hessian, we use the {{c1::L-BFGS}} algorithm.",
+      "explanation": "L-BFGS (Limited-memory BFGS) approximates the inverse Hessian matrix using only a small history of past gradient evaluations and position updates, reducing memory complexity from \\(O(n^2)\\) to \\(O(nd)\\).",
+      "spanish": "Para optimizar funciones con un gran número de variables utilizando métodos quasi-Newton sin almacenar la matriz Hessiana completa, utilizamos el algoritmo L-BFGS.",
+      "usage": "In PyTorch/Scikit-Learn, <code>L-BFGS</code> is often used as the optimizer for logistic regression or style transfer models."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "936183e77007ef34",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "preprocessing",
+        "mice",
+        "imputation"
+      ]
+    },
+    "content": {
+      "scenario": "Preprocessing: MICE Missing Data Imputation 🧬",
+      "text": "For handling missing data, Multivariate Imputation by Chained Equations (MICE) imputes variables by modeling each variable with missing values as a function of {{c1::all other variables}} in an {{c2::iterative, series-of-regressions loop}}.",
+      "explanation": "Unlike simple mean/median imputation, MICE preserves the multivariate relationship between features. It runs multiple regression passes (chained equations), drawing values from the predictive distributions to create multiple complete datasets.",
+      "spanish": "Para el manejo de datos faltantes, la Imputación Multivariable por Ecuaciones Encadenadas (MICE) imputa variables modelando cada variable con valores faltantes en función de todas las demás variables en un ciclo iterativo de regresiones.",
+      "usage": "Standard for clinical trials and datasets where missing values are not missing completely at random (MAR/MNAR)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "da32d57b197d97b6",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "preprocessing",
+        "target_encoding",
+        "data_leakage"
+      ]
+    },
+    "content": {
+      "scenario": "Preprocessing: Target Encoding & Data Leakage 🧯",
+      "text": "To prevent data leakage during Target Encoding of high-cardinality categorical features, developers apply {{c1::K-Fold target encoding}} or add {{c2::smoothing/additive noise}} based on global prior distributions.",
+      "explanation": "Target encoding replaces categories with the mean target value. If computed directly on the whole dataset, it leaks the label into the feature, causing extreme overfitting. K-Fold target encoding calculates the category means using only out-of-fold data points.",
+      "spanish": "Para evitar la filtración de datos durante la codificación de objetivo de características categóricas de alta cardinalidad, los desarrolladores aplican codificación de objetivo K-Fold o añaden suavizado/ruido aditivo basado en distribuciones globales a priori.",
+      "usage": "Critical for high-cardinality variables (e.g. ZIP codes, device IDs) in gradient boosted tree models."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "37a2c2ac79de6bf6",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "preprocessing",
+        "transformations",
+        "normalization"
+      ]
+    },
+    "content": {
+      "scenario": "Preprocessing: Box-Cox vs Yeo-Johnson Transformations 📈",
+      "text": "While the Box-Cox transformation requires the input feature to be {{c1::strictly positive}}, the Yeo-Johnson transformation extends this capability to support {{c2::zero and negative values}}.",
+      "explanation": "Both methods find a power parameter lambda using maximum likelihood to stabilize variance and make data closely conform to a normal distribution. Yeo-Johnson uses modified formulas to handle negative numbers, making it more robust in general preprocessing.",
+      "spanish": "Mientras que la transformación Box-Cox requiere que la característica de entrada sea estrictamente positiva, la transformación Yeo-Johnson extiende esta capacidad para admitir valores cero y negativos.",
+      "usage": "Applied to highly skewed features before training linear regression or neural network models."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "809cf73fa119e75e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "preprocessing",
+        "rfe",
+        "feature_selection"
+      ]
+    },
+    "content": {
+      "scenario": "Preprocessing: Recursive Feature Elimination (RFE) ✂️",
+      "text": "Recursive Feature Elimination (RFE) is a wrapper method that selects features by training an estimator, ranking features by their weights/importances, and {{c1::iteratively removing the least important features}} until the target subset size is reached.",
+      "explanation": "RFE accounts for feature dependencies by retraining the model after each removal step. While computationally expensive, it provides a much more accurate feature subset than simple filter methods that evaluate features independently.",
+      "spanish": "La Eliminación Recursiva de Características (RFE) es un método de envoltura que selecciona características entrenando un estimador, clasificando características por sus pesos e iterativamente eliminando las menos importantes hasta alcanzar el tamaño de subconjunto deseado.",
+      "usage": "Commonly combined with SVMs or Random Forests to optimize input dimensions."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1c3b2271dabab54e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "preprocessing",
+        "tsne",
+        "umap",
+        "dimensionality_reduction"
+      ]
+    },
+    "content": {
+      "scenario": "Preprocessing: t-SNE vs UMAP Manifold Learning 🌐",
+      "text": "While t-SNE focuses on preserving {{c1::local pairwise distances (neighborhoods)}} using probability distributions, UMAP preserves both local and {{c2::global structural relationships}} using Riemannian geometry.",
+      "explanation": "t-SNE maps similarities in low dimensions using a Student-t distribution, which tends to crowd clusters and lose global spacing. UMAP assumes data lies on a manifold and preserves its topology, resulting in much faster computation and better representation of global structures.",
+      "spanish": "Mientras que t-SNE se centra en preservar las distancias locales por pares utilizando distribuciones de probabilidad, UMAP preserva tanto las relaciones estructurales locales como globales utilizando geometría de Riemann.",
+      "usage": "Used to visualize high-dimensional embeddings and cluster outputs in 2D or 3D."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ccf8503c0666c070",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "feature_engineering",
+        "categorical",
+        "encoding"
+      ]
+    },
+    "content": {
+      "scenario": "Features: Target Encoding 📊",
+      "text": "To convert high-cardinality categorical features into numerical values, you can replace each category with the mean of the target variable, a method called {{c1::Target Encoding}}.",
+      "explanation": "Target Encoding (or mean encoding) maps categorical values to the average target value of the training samples within that category. It is highly effective but prone to data leakage and overfitting if not regularized.",
+      "spanish": "Para convertir características categóricas de alta cardinalidad en valores numéricos, puedes reemplazar cada categoría con la media de la variable objetivo, un método llamado Codificación del Objetivo (Target Encoding).",
+      "usage": "To prevent leakage, use out-of-fold target encoding or add smoothing parameters:<br><code>S = \\lambda \\cdot M_c + (1 - \\lambda) \\cdot M_{global}</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0dc3edbe9bfc37a4",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "feature_engineering",
+        "text",
+        "tf_idf"
+      ]
+    },
+    "content": {
+      "scenario": "Features: TF-IDF 📊",
+      "text": "To represent text documents numerically by weighing terms based on their frequency in a document relative to their frequency across the corpus, you use {{c1::TF-IDF}}.",
+      "explanation": "TF-IDF (Term Frequency-Inverse Document Frequency) down-weights common words (like 'the', 'is') that appear in many documents, while highlighting rare words that are highly descriptive of a specific document.",
+      "spanish": "Para representar documentos de texto numéricamente pesando los términos según su frecuencia en un documento en relación con su frecuencia en todo el corpus, utilizas TF-IDF.",
+      "usage": "Formula: <code>TF-IDF = TF(t, d) * IDF(t)</code> where <code>IDF(t) = log(N / DF(t))</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "427e19308eb666cc",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "feature_engineering",
+        "pca",
+        "dimensionality_reduction"
+      ]
+    },
+    "content": {
+      "scenario": "Features: PCA Projection 📊",
+      "text": "To reduce dimensionality while preserving maximum variance, PCA projects data onto orthogonal axes called {{c1::principal components}}.",
+      "explanation": "Principal Component Analysis (PCA) performs an eigendecomposition of the covariance matrix. The first principal component is the direction of maximum variance, and subsequent components are orthogonal to it.",
+      "spanish": "Para reducir la dimensionalidad conservando la máxima varianza, PCA proyecta los datos sobre ejes ortogonales llamados componentes principales (principal components).",
+      "usage": "Scikit-Learn example: <code>from sklearn.decomposition import PCA; pca = PCA(n_components=2).fit_transform(X)</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6c20c4f1c00306c3",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "feature_engineering",
+        "normalization",
+        "yeo_johnson"
+      ]
+    },
+    "content": {
+      "scenario": "Features: Yeo-Johnson 📊",
+      "text": "To stabilize variance and normalize data containing zero or negative values, you apply the {{c1::Yeo-Johnson transform}}.",
+      "explanation": "The Yeo-Johnson transformation is a power transform similar to Box-Cox, but it supports zero and negative values. It modifies the distribution to be closer to a normal distribution.",
+      "spanish": "Para estabilizar la varianza y normalizar datos que contienen valores cero o negativos, aplicas la transformación de Yeo-Johnson.",
+      "usage": "Scikit-Learn implementation: <code>PowerTransformer(method='yeo-johnson')</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "291278988705fd89",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "feature_engineering",
+        "interaction",
+        "polynomial"
+      ]
+    },
+    "content": {
+      "scenario": "Features: Interaction Terms 📊",
+      "text": "To capture non-linear relationships where the effect of one feature depends on the level of another, you generate {{c1::interaction terms}}.",
+      "explanation": "Interaction terms are created by multiplying or dividing two or more features (e.g. \\(x_1 \\cdot x_2\\)). They allow linear models to capture joint feature effects without switching to non-linear algorithms.",
+      "spanish": "Para capturar relaciones no lineales donde el efecto de una característica depende del nivel de otra, generas términos de interacción (interaction terms).",
+      "usage": "In Scikit-Learn: <code>PolynomialFeatures(interaction_only=True)</code> generates interaction terms."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a26c2c63bf283ac1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "elasticnet",
+        "regularization"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: ElasticNet Regularization ⚖️",
+      "text": "The ElasticNet loss function combines L1 (Lasso) and L2 (Ridge) penalties by minimizing the objective function with two hyperparameters: {{c1::alpha (overall penalty multiplier)}} and {{c2::l1_ratio (balance between L1 and L2 terms)}}.",
+      "explanation": "Lasso (L1) forces weights to absolute zero (sparse models), but struggles with highly correlated features (it randomly selects one). Ridge (L2) shrinks weights together. ElasticNet balances both, allowing group selection of correlated features while maintaining sparsity.",
+      "spanish": "La función de pérdida de ElasticNet combina las penalizaciones L1 (Lasso) y L2 (Ridge) al minimizar la función objetivo con dos hiperparámetros: alfa y l1_ratio.",
+      "usage": "Standard regularized linear model when features are highly collinear and high-dimensional."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "297ae424570929bf",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "svm",
+        "kernel_trick"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: SVM Kernel Trick & Mercer's Theorem 🛡️",
+      "text": "The SVM Kernel Trick computes dot products in a high-dimensional feature space without explicitly mapping data points, provided the kernel function satisfies {{c1::Mercer's theorem (positive semi-definite kernel)}}.",
+      "explanation": "Mapping data explicitly into infinite dimensions (like the RBF kernel does) is computationally impossible. By replacing the dot product Phi(x) . Phi(z) with a kernel function K(x, z), SVMs perform non-linear classification with high computational efficiency.",
+      "spanish": "El truco del kernel de SVM calcula productos de puntos en un espacio de características de alta dimensión sin mapear explícitamente los puntos de datos, siempre que la función del kernel cumpla con el teorema de Mercer.",
+      "usage": "Foundation of Support Vector Machines utilizing RBF, Polynomial, or Sigmoid kernels."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "10495feca96ab8b7",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "xgboost",
+        "boosting"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: XGBoost System Optimizations 🚀",
+      "text": "XGBoost optimizes gradient boosting performance through system-level designs, including {{c1::block structure for parallel learning}}, {{c2::sparsity-aware split finding}} for missing values, and cache-aware access.",
+      "explanation": "XGBoost stores sorted features in out-of-core blocks to parallelize tree splits. Its sparsity-aware algorithm assigns a default direction for missing values at each node based on which direction minimizes the gradient loss, greatly speeding up training.",
+      "spanish": "XGBoost optimiza el rendimiento del aumento de gradiente a través de diseños a nivel de sistema, incluyendo estructura de bloques para aprendizaje paralelo y búsqueda de divisiones consciente de la dispersión para valores faltantes.",
+      "usage": "Critical for high-speed training of gradient boosted trees on massive tabular datasets.<br>Reference: For tree-based algorithms and gradient boosting implementations, see <a href=\"https://lnkd.in/gyhVnBYg\">Hands-On Machine Learning (Aurélien Géron)</a>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b8be22c920c80c0f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "lightgbm",
+        "tree_growth"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: LightGBM Leaf-Wise Growth 🌳",
+      "text": "Unlike traditional depth-wise tree builders, LightGBM uses {{c1::leaf-wise (best-first) tree growth}}, which splits the leaf node that yields the {{c2::maximum loss reduction}} regardless of depth.",
+      "explanation": "Depth-wise algorithms build trees level by level, splitting all nodes. Leaf-wise growth is more efficient, focusing only on high-error nodes. While leaf-wise growth can achieve much lower loss, it requires strict regularization (like limiting max_depth) to prevent overfitting.",
+      "spanish": "A diferencia de los constructores de árboles tradicionales por profundidad, LightGBM utiliza el crecimiento de árboles por hojas (el mejor primero), que divide el nodo hoja que produce la máxima reducción de pérdida.",
+      "usage": "Applied in LightGBM to speed up convergence and handle large datasets with deep trees."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bbbe4203200178af",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "catboost",
+        "categorical"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: CatBoost Categorical Splits 📊",
+      "text": "CatBoost handles categorical features natively by calculating {{c1::ordered target statistics (ordered TS)}} on random permutations of the dataset, avoiding target leakage and overfitting.",
+      "explanation": "Standard target statistics use future data within the target calculation, introducing bias. CatBoost permutes the dataset and, for each row, computes the target statistics using only the history of preceding rows in the permutation.",
+      "spanish": "CatBoost maneja variables categóricas de forma nativa calculando estadísticas de objetivo ordenadas sobre permutaciones aleatorias del conjunto de datos, evitando la filtración de objetivo y el sobreajuste.",
+      "usage": "Deployed for training models on tabular datasets containing rich categorical and text variables."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2e6c81775dc50a72",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "svm",
+        "classification"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: SVM Margin 🌲",
+      "text": "Support Vector Machines classify data by finding the hyperplane that maximizes the {{c1::maximum margin}} between the classes.",
+      "explanation": "The margin is the distance between the separating hyperplane and the closest training samples (called support vectors). Maximizing this margin reduces generalization error.",
+      "spanish": "Las Máquinas de Vectores de Soporte clasifican datos encontrando el hiperplano que maximiza el margen máximo (maximum margin) entre las clases.",
+      "usage": "SVM objective function minimizes \\(\\frac{1}{2} \\parallel w \\parallel^2\\) subject to classification constraints."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4321c803826deeba",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "naive_bayes",
+        "probability"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: Naive Bayes 🌲",
+      "text": "Naive Bayes classifiers simplify probability calculations by assuming class-{{c1::conditional independence}} between all features.",
+      "explanation": "The 'naive' assumption states that, given the class label, the presence of a feature is completely independent of the presence of any other feature. This simplifies the Bayes theorem calculations.",
+      "spanish": "Los clasificadores Naive Bayes simplifican los cálculos de probabilidad al asumir independencia condicional de clase (conditional independence) entre todas las características.",
+      "usage": "Naive Bayes classifier formula: \\(P(C_k \\mid x) \\propto P(C_k) \\prod_{i=1}^n P(x_i \\mid C_k)\\)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f0fc5703d76fa0d0",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "random_forest",
+        "bagging"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: Random Forest 🌲",
+      "text": "To reduce variance and avoid overfitting, a Random Forest aggregates multiple decision trees trained using {{c1::bagging}}.",
+      "explanation": "Bagging (bootstrap aggregating) trains individual decision trees on random subsets of the data (sampled with replacement) and random subsets of features, averaging their predictions to obtain the final output.",
+      "spanish": "Para reducir la varianza y evitar el sobreajuste, un Bosque Aleatorio (Random Forest) agrega múltiples árboles de decisión entrenados mediante empaquetamiento (bagging).",
+      "usage": "In Scikit-Learn: <code>from sklearn.ensemble import RandomForestClassifier</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c015144002b04133",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "gradient_boosting",
+        "boosting"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: Gradient Boosting 🌲",
+      "text": "Gradient Boosting algorithms build trees sequentially, where each new tree is fit to the {{c1::pseudo-residuals}} of the previous trees.",
+      "explanation": "Instead of training trees independently, gradient boosting trains each tree to predict the negative gradient of the loss function (the pseudo-residuals) of the current model, gradually minimizing total loss.",
+      "spanish": "Los algoritmos de Impulso de Gradiente (Gradient Boosting) construyen árboles secuencialmente, donde cada nuevo árbol se ajusta a los pseudo-residuos de los árboles anteriores.",
+      "usage": "Key packages: <code>XGBoost</code>, <code>LightGBM</code>, <code>CatBoost</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9bb054533cc2852c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "supervised",
+        "regression",
+        "regularization"
+      ]
+    },
+    "content": {
+      "scenario": "Supervised: Ridge Regression 🌲",
+      "text": "To prevent overfitting by shrinking regression coefficients towards zero without eliminating them, Ridge applies {{c1::L2 regularization}}.",
+      "explanation": "Ridge regression adds a penalty equal to the sum of the squared weights (L2 norm) to the loss function. This discourages large weights but keeps all features in the model.",
+      "spanish": "Para evitar el sobreajuste reduciendo los coeficientes de regresión hacia cero sin eliminarlos, Ridge aplica regularización L2 (L2 regularization).",
+      "usage": "Ridge loss function: \\(L = \\sum(y - Xw)^2 + \\alpha \\sum w_j^2\\)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fcdc8c320f47c895",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "dbscan",
+        "clustering"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: DBSCAN Density Clustering 🛑",
+      "text": "DBSCAN classifies points into core, border, and noise categories based on two parameters: {{c1::eps (epsilon neighborhood radius)}} and {{c2::minSamples (minimum points in radius)}}.",
+      "explanation": "Core points have at least minSamples within their eps radius. Border points have fewer but are reachable from a core point. Noise points are unreachable. DBSCAN requires no predefined cluster count and can isolate complex, arbitrary cluster shapes.",
+      "spanish": "DBSCAN clasifica los puntos en las categorías de núcleo, borde y ruido en función de dos parámetros: eps y minSamples.",
+      "usage": "Excellent for spatial data, geospatial mapping, and anomaly detection."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "705e1ccc0958ade1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "silhouette",
+        "clustering"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: Silhouette Coefficient 📏",
+      "text": "The Silhouette Coefficient measures clustering quality by comparing the mean intra-cluster distance a with the mean nearest-cluster distance b, using the formula {{c1::(b - a) / max(a, b)}}.",
+      "explanation": "The coefficient ranges from -1 (poor clustering, points assigned to wrong clusters) to +1 (dense, well-separated clusters). A value near 0 indicates overlapping clusters. Plotting silhouette widths helps select the optimal number of clusters k.",
+      "spanish": "El coeficiente de silueta mide la calidad del agrupamiento al comparar la distancia media intra-cluster a con la distancia media al cluster más cercano b, utilizando la fórmula (b - a) / max(a, b).",
+      "usage": "Evaluates K-Means or Hierarchical clustering stability."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0bdb52a56f746b42",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "gmm",
+        "expectation_maximization"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: GMM & Expectation-Maximization 🤝",
+      "text": "Gaussian Mixture Models (GMM) perform soft-clustering by modeling data as a mixture of multiple normal distributions, optimizing parameters iteratively using the {{c1::Expectation-Maximization (EM) algorithm}}.",
+      "explanation": "EM alternates between calculating the probability that each point belongs to each Gaussian cluster (Expectation step) and updating the means, covariances, and mixing coefficients of the Gaussians (Maximization step) until convergence.",
+      "spanish": "Los Modelos de Mezcla Gaussiana (GMM) realizan un agrupamiento suave al modelar los datos como una mezcla de múltiples distribuciones normales, optimizando los parámetros con el algoritmo Esperanza-Maximización (EM).",
+      "usage": "Used for probabilistic clustering and density estimation where data points have mixed cluster membership."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2c3a094034d73ab1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "isolation_forest",
+        "anomaly_detection"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: Isolation Forest Anomalies 🌲",
+      "text": "Isolation Forest isolates anomalies by recursively partitioning features using random splits; anomalies are identified by their {{c1::short path lengths}} in the resulting isolation trees.",
+      "explanation": "Because anomalies have unusual feature values, they require very few random splits to isolate them from the rest of the dataset. Therefore, anomaly points end up close to the root of the tree, resulting in short average path lengths across the forest.",
+      "spanish": "Isolation Forest aísla anomalías al particionar recursivamente las características utilizando divisiones aleatorias; las anomalías se identifican por sus longitudes de ruta cortas en los árboles de aislamiento.",
+      "usage": "High-performance anomaly and fraud detection on tabular data."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2677266d21064865",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "lda",
+        "topic_modeling"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: Latent Dirichlet Allocation (LDA) 📚",
+      "text": "Latent Dirichlet Allocation (LDA) models documents as mixtures of latent topics, assuming that topics follow a {{c1::Dirichlet prior distribution}} over words, and documents follow a {{c2::Dirichlet prior distribution}} over topics.",
+      "explanation": "LDA is a generative probabilistic model. It models the generation of words in documents by drawing a topic from a document-topic distribution, and then drawing a word from the corresponding topic-word distribution, solved using Gibbs sampling.",
+      "spanish": "La Asignación Latente de Dirichlet (LDA) modela documentos como mezclas de temas latentes, asumiendo que los temas siguen una distribución a priori de Dirichlet sobre las palabras, y los documentos siguen una distribución a priori de Dirichlet sobre los temas.",
+      "usage": "Topic extraction and document categorization in Natural Language Processing."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0386c6f1a52bee1f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "t_sne",
+        "visualization"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: t-SNE Projection 🌀",
+      "text": "To visualize high-dimensional datasets in 2D or 3D, {{c1::t-SNE}} converts Euclidean distances between data points into conditional probabilities that represent similarities.",
+      "explanation": "t-SNE (t-Distributed Stochastic Neighbor Embedding) is a non-linear dimensionality reduction technique. It models local neighborhoods, preserving similarities so that close points in high dimensions remain close in low dimensions.",
+      "spanish": "Para visualizar conjuntos de datos de alta dimensión en 2D o 3D, t-SNE convierte las distancias euclidianas entre los puntos de datos en probabilidades condicionales que representan similitudes.",
+      "usage": "Scikit-Learn: <code>from sklearn.manifold import TSNE; tsne = TSNE(n_components=2)</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8448c905c8d2aa9e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "dbscan",
+        "clustering"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: DBSCAN Noise 🌀",
+      "text": "Unlike K-Means, the density-based clustering algorithm {{c1::DBSCAN}} does not require specifying the number of clusters and can isolate noise points.",
+      "explanation": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise) groups points that are close to each other based on two parameters: <code>eps</code> (radius) and <code>min_samples</code>. Points in low-density regions are marked as noise/outliers.",
+      "spanish": "A diferencia de K-Means, el algoritmo de agrupamiento basado en densidad DBSCAN no requiere especificar el número de grupos y puede aislar puntos de ruido.",
+      "usage": "DBSCAN labels noise points as <code>-1</code> in Scikit-Learn."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2b44757c933656c8",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "gmm",
+        "clustering"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: GMM EM 🌀",
+      "text": "Gaussian Mixture Models perform soft clustering by fitting multiple Gaussian distributions to the data using the {{c1::Expectation-Maximization (EM)}} algorithm.",
+      "explanation": "Expectation-Maximization is an iterative method. The 'E-step' calculates the probability of each point belonging to each Gaussian. The 'M-step' updates the mean, covariance, and mixing weights of the Gaussians to maximize the likelihood.",
+      "spanish": "Los Modelos de Mezcla Gaussiana (GMM) realizan agrupamientos suaves ajustando múltiples distribuciones gaussianas a los datos utilizando el algoritmo de Esperanza-Maximización (EM).",
+      "usage": "In Scikit-Learn: <code>from sklearn.mixture import GaussianMixture</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5a07f1c0dec57d52",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "anomaly_detection",
+        "isolation_forest"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: Isolation Forest 🌀",
+      "text": "To detect anomalies by isolating data points rather than profiling normal behavior, we use the {{c1::Isolation Forest}} algorithm.",
+      "explanation": "Isolation Forest isolates anomalies by randomly partitioning features. Since anomalies require fewer partitions to isolate, they appear closer to the root of the generated decision trees.",
+      "spanish": "Para detectar anomalías aislando puntos de datos en lugar de perfilar el comportamiento normal, utilizamos el algoritmo Bosque de Aislamiento (Isolation Forest).",
+      "usage": "Anomalies have shorter average path lengths in the trees of an Isolation Forest."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c481b395226d93e0",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "unsupervised",
+        "hierarchical_clustering",
+        "dendrogram"
+      ]
+    },
+    "content": {
+      "scenario": "Unsupervised: Hierarchical Dendrogram 🌀",
+      "text": "To visualize the nesting of clusters at different levels of similarity in hierarchical clustering, you construct a {{c1::dendrogram}}.",
+      "explanation": "A dendrogram is a tree diagram that illustrates the arrangement of clusters produced by hierarchical clustering. The height of the branches represents the distance or dissimilarity at which clusters are merged.",
+      "spanish": "Para visualizar el anidamiento de grupos en diferentes niveles de similitud en el agrupamiento jerárquico, construyes un dendrograma.",
+      "usage": "In SciPy: <code>from scipy.cluster.hierarchy import dendrogram, linkage</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6fd14e70d8a938c6",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "evaluation",
+        "mcc",
+        "metrics"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: Matthews Correlation Coefficient (MCC) 📊",
+      "text": "For highly imbalanced classification tasks, the {{c1::Matthews Correlation Coefficient (MCC)}} provides a more balanced metric than F1-score because it incorporates {{c2::all four quadrants of the confusion matrix}} (TP, TN, FP, FN).",
+      "explanation": "F1-score ignores True Negatives (TN) entirely, which can lead to overoptimistic scores in imbalanced sets. MCC ranges from -1 (total disagreement) to +1 (perfect prediction) and only scores high if the model predicts well in all classes.",
+      "spanish": "Para tareas de clasificación altamente desbalanceadas, el Coeficiente de Correlación de Matthews (MCC) proporciona una métrica más equilibrada que la puntuación F1 porque incorpora los cuatro cuadrantes de la matriz de confusión.",
+      "usage": "Recommended metric for medical diagnostics and fraud detection evaluation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0bf17532e4de5963",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "evaluation",
+        "auc",
+        "metrics"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: ROC-AUC vs PR-AUC 📈",
+      "text": "While the ROC-AUC score is insensitive to class distribution changes, the Precision-Recall AUC (PR-AUC) is highly sensitive and preferred when evaluating {{c1::highly imbalanced datasets}} where the {{c2::positive class is rare}}.",
+      "explanation": "ROC plots True Positive Rate against False Positive Rate. In highly imbalanced datasets, a large number of True Negatives keeps the False Positive Rate low, hiding classification errors. PR-AUC focuses on Precision and Recall, exposing false positives directly.",
+      "spanish": "Mientras que la puntuación ROC-AUC es insensible a los cambios en la distribución de clases, el AUC de Precisión-Recall (PR-AUC) es altamente sensible y se prefiere al evaluar conjuntos de datos muy desbalanceados.",
+      "usage": "Evaluating credit card fraud models or rare disease classification models."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "067213f901936644",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "evaluation",
+        "time_series",
+        "data_leakage"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: Time Series Data Leakage ⏳",
+      "text": "When validating time series models, standard K-Fold cross-validation causes data leakage by using {{c1::future data to predict past data}}; to prevent this, developers must use {{c2::Time Series Split (rolling window)}} validation.",
+      "explanation": "Time series data is ordered. Predicting past values using future values violates temporal causality and overestimates model accuracy. Time Series Split ensures the training set only contains data that occurred prior to the validation set.",
+      "spanish": "Al validar modelos de series temporales, la validación cruzada K-Fold estándar causa filtración de datos al usar datos futuros para predecir datos pasados; para evitar esto, los desarrolladores deben usar Time Series Split.",
+      "usage": "Essential validation strategy for financial market forecasts and demand planning."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "25e5c20c68b85244",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "evaluation",
+        "bias_variance",
+        "diagnostics"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: Bias-Variance Decomposition 🔀",
+      "text": "The expected prediction error of a model can be decomposed into three mathematical components: {{c1::squared bias (underfitting)}}, {{c2::variance (overfitting)}}, and {{c3::irreducible error (noise)}}.",
+      "explanation": "Bias measures how much the average model prediction differs from the true value. Variance measures how much the predictions fluctuate across different training samples. Irreducible error is the inherent noise in the data generating process.",
+      "spanish": "El error de predicción esperado de un modelo puede descomponerse en tres componentes matemáticos: sesgo al cuadrado (subajuste), varianza (sobreajuste) y error irreducible (ruido).",
+      "usage": "Used to diagnose model training errors and decide between simple models or complex models."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fbb863db0e52fb98",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "evaluation",
+        "f_beta",
+        "metrics"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: F-Beta Score Calibration 🎯",
+      "text": "The F-Beta Score generalizes the F1-score by introducing a coefficient beta that weights the relative importance of precision and recall: setting beta = 2 weights {{c1::recall higher than precision}}, while beta = 0.5 weights {{c2::precision higher than recall}}.",
+      "explanation": "The formula balances precision and recall. A beta of 2 is used when false negatives are extremely costly (e.g. failing to detect cancer). A beta of 0.5 is used when false positives are extremely costly (e.g. blocking a customer's credit card).",
+      "spanish": "La puntuación F-Beta generaliza la puntuación F1 al introducir un coeficiente beta que pondera la importancia relativa de precisión y recall: configurar beta = 2 pondera recall más alto que precisión.",
+      "usage": "Fine-tuning classifier metrics to match specific business costs."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1bf2d93585846ef2",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "metrics",
+        "f1_score",
+        "classification"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: F1-Score 📐",
+      "text": "The F1-Score evaluates classification models on imbalanced datasets by calculating the {{c1::harmonic mean}} of precision and recall.",
+      "explanation": "The harmonic mean is used instead of the arithmetic mean because it penalizes extreme imbalances. If either precision or recall is close to zero, the F1-Score drops sharply.",
+      "spanish": "El F1-Score evalúa los modelos de clasificación en conjuntos de datos desbalanceados calculando la media armónica (harmonic mean) de la precisión y la recuperación.",
+      "usage": "Formula: \\(F_1 = 2 \\cdot \\frac{\\text{Precision} \\cdot \\text{Recall}}{\\text{Precision} + \\text{Recall}}\\)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "62fb3d5b9fa5025e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "metrics",
+        "roc_auc",
+        "classification"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: ROC Curve 📐",
+      "text": "To measure a binary classifier's performance at all classification thresholds, we plot the {{c1::ROC curve}} and compute the area under it (AUC).",
+      "explanation": "The Receiver Operating Characteristic (ROC) curve plots the True Positive Rate (Sensitivity) on the y-axis against the False Positive Rate (1 - Specificity) on the x-axis for every possible decision threshold.",
+      "spanish": "Para medir el rendimiento de un clasificador binario en todos los umbrales de clasificación, graficamos la curva ROC y calculamos el área bajo ella (AUC).",
+      "usage": "An AUC of 0.5 represents a random classifier, while an AUC of 1.0 represents a perfect classifier."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e625b48b31fe7a36",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "metrics",
+        "log_loss",
+        "entropy"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: Log Loss 📐",
+      "text": "To evaluate classification models based on predicted probabilities rather than hard class labels, we calculate {{c1::Log Loss}} (Cross-Entropy).",
+      "explanation": "Log Loss measures the uncertainty of predictions. It penalizes incorrect predictions heavily if the model was highly confident (predicted probability close to 1 or 0).",
+      "spanish": "Para evaluar los modelos de clasificación basándose en las probabilidades predichas en lugar de etiquetas de clase directas, calculamos la pérdida logarítmica (Log Loss).",
+      "usage": "Log Loss formula for binary classification: \\(L = -\\frac{1}{N} \\sum [y_i \\log(p_i) + (1-y_i) \\log(1-p_i)]\\)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d63075f7d363e455",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "metrics",
+        "regression",
+        "mape"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: MAPE 📐",
+      "text": "To express forecasting errors as a percentage of the actual values, regression tasks evaluate the {{c1::MAPE}} metric.",
+      "explanation": "MAPE (Mean Absolute Percentage Error) measures the size of the error in percentage terms. It is defined as the average of the absolute percentage differences between predicted and actual values.",
+      "spanish": "Para expresar los errores de pronóstico como un porcentaje de los valores reales, las tareas de regresión evalúan la métrica MAPE.",
+      "usage": "Formula: \\(\\text{MAPE} = \\frac{100\\%}{n} \\sum \\left| \\frac{y_i - \\hat{y}_i}{y_i} \\right|\\). Note: MAPE is undefined if \\(y_i = 0\\)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cd0f359bbc6e66ca",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "metrics",
+        "unsupervised",
+        "silhouette"
+      ]
+    },
+    "content": {
+      "scenario": "Metrics: Silhouette Coefficient 📐",
+      "text": "To evaluate the quality of a clustering model without ground truth labels, we compute the {{c1::Silhouette Coefficient}}.",
+      "explanation": "The Silhouette Coefficient measures how close a sample is to its own cluster compared to other clusters. It ranges from -1 (incorrect clustering) to +1 (highly dense and well-separated clustering).",
+      "spanish": "Para evaluar la calidad de un modelo de agrupamiento sin etiquetas de referencia reales, calculamos el coeficiente de Silueta (Silhouette Coefficient).",
+      "usage": "Formula for sample \\(i\\): \\(s(i) = \\frac{b(i) - a(i)}{\\max(a(i), b(i))}\\) where \\(a\\) is intra-cluster distance and \\(b\\) is nearest-cluster distance."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ff065b7d89d2950f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "optimization",
+        "bayesian_optimization",
+        "optuna"
+      ]
+    },
+    "content": {
+      "scenario": "Explainability: Bayesian Optimization acquisition 📐",
+      "text": "In hyperparameter tuning, Bayesian Optimization uses a Gaussian Process surrogate model and an {{c1::Acquisition Function (e.g., Expected Improvement)}} to balance {{c2::exploration of unknown spaces}} with {{c3::exploitation of known optimal regions}}.",
+      "explanation": "Instead of searching parameters randomly, Bayesian Optimization models the objective function probabilistically. The acquisition function calculates the utility of evaluating a set of hyperparameters next, maximizing the probability of finding a better model.",
+      "spanish": "En el ajuste de hiperparámetros, la optimización bayesiana utiliza un modelo sustituto de proceso gaussiano y una función de adquisición para equilibrar la exploración con la explotación.",
+      "usage": "Hyperparameter tuning utilizing packages like Optuna, Hyperopt, or Scikit-Optimize."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ac7e3c1ac0366150",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "optimization",
+        "calibration",
+        "platt_scaling"
+      ]
+    },
+    "content": {
+      "scenario": "Explainability: Probability Calibration Platt Scaling ⚖️",
+      "text": "To calibrate classification model outputs into true probabilities, {{c1::Platt Scaling}} fits a {{c2::logistic regression model}} on the raw decision scores generated by algorithms like SVM or Naive Bayes.",
+      "explanation": "Models like SVM yield raw distance metrics, not probabilities. Naive Bayes outputs extreme, uncalibrated probabilities near 0 or 1 due to the independence assumption. Platt Scaling maps these scores to calibrated probability outputs using a logistic sigmoid.",
+      "spanish": "Para calibrar las salidas del modelo de clasificación en probabilidades reales, Platt Scaling ajusta un modelo de regresión logística en las puntuaciones de decisión brutas generadas por algoritmos como SVM.",
+      "usage": "Calibration of model confidence scores for risk analysis and decision systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3f8c2b64489ed98e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "optimization",
+        "explainability",
+        "shap"
+      ]
+    },
+    "content": {
+      "scenario": "Explainability: SHAP Shapley Additive Explanations 🔍",
+      "text": "SHAP calculates feature importance by using cooperative game theory to distribute the model output payoff among features, ensuring mathematical consistency through the {{c1::Additivity and Efficiency axioms}}.",
+      "explanation": "SHAP values compute the marginal contribution of each feature across all possible feature subsets (coalitions). Unlike heuristic importance methods, SHAP guarantees consistency: if a model changes so that a feature has more impact, its SHAP value cannot decrease.",
+      "spanish": "SHAP calcula la importancia de las características utilizando la teoría de juegos cooperativos para distribuir el rendimiento del modelo entre las características, garantizando la consistencia matemática.",
+      "usage": "Industry standard for local and global model explainability in regulated domains."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f8938452ad9916bc",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "optimization",
+        "explainability",
+        "lime"
+      ]
+    },
+    "content": {
+      "scenario": "Explainability: LIME Local Interpretability 🎯",
+      "text": "LIME explains individual predictions by perturbing the input sample, generating local predictions, and fitting a {{c1::simple, interpretable surrogate model (e.g., linear regression)}} weighted by proximity.",
+      "explanation": "LIME assumes that while a complex model (e.g., random forest or neural network) is globally non-linear, it can be approximated locally around a specific data point using a simple linear model.",
+      "spanish": "LIME explica las predicciones individuales al perturbar la muestra de entrada, generar predicciones locales y ajustar un modelo sustituto simple e interpretable ponderado por la proximidad.",
+      "usage": "Local interpretability for black-box models on tabular, text, or image data."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "146af5b93203a632",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "optimization",
+        "drift",
+        "monitoring"
+      ]
+    },
+    "content": {
+      "scenario": "Explainability: Data Drift vs Concept Drift ⏱️",
+      "text": "While Data Drift represents a change in the {{c1::input feature distribution P(X)}}, Concept Drift represents a change in the {{c2::relationship between features and the target label P(Y|X)}}.",
+      "explanation": "Data Drift occurs when the user demographic shifts (e.g. younger users join the app). Concept Drift occurs when external realities change, rendering the model's logic obsolete (e.g. a change in macroeconomic policies makes past credit score behaviors invalid).",
+      "spanish": "Mientras que la deriva de datos representa un cambio en la distribución de características de entrada P(X), la deriva de concepto representa un cambio en la relación entre las características y la etiqueta objetivo P(Y|X).",
+      "usage": "Monitoring model decay, pipeline degradation, and planning retraining schedules in production."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "299784f74c843c74",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "explainability",
+        "shap",
+        "feature_importance"
+      ]
+    },
+    "content": {
+      "scenario": "Explainability: SHAP Values 🔍",
+      "text": "To calculate the contribution of each feature to a model's prediction using cooperative game theory, you compute {{c1::Shapley values}} (SHAP).",
+      "explanation": "SHAP (SHapley Additive exPlanations) values assign a numeric contribution to each feature for a specific prediction, satisfying properties of local accuracy, missingness, and consistency.",
+      "spanish": "Para calcular la contribución de cada característica a la predicción de un modelo utilizando la teoría de juegos cooperativos, calculas los valores de Shapley (SHAP).",
+      "usage": "In Python: <code>import shap; explainer = shap.Explainer(model); shap_values = explainer(X)</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8ff257ebc7d4e985",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "explainability",
+        "lime",
+        "surrogate"
+      ]
+    },
+    "content": {
+      "scenario": "Explainability: LIME Model 🔍",
+      "text": "To explain individual predictions of any black-box model, {{c1::LIME}} trains a local interpretable surrogate model around the prediction.",
+      "explanation": "LIME (Local Interpretable Model-agnostic Explanations) perturbs the input sample, gets predictions from the black-box model, and fits a simple linear model (surrogate) weighted by proximity to explain the local decision boundary.",
+      "spanish": "Para explicar predicciones individuales de cualquier modelo de caja negra, LIME entrena un modelo sustituto interpretable local alrededor de la predicción.",
+      "usage": "LIME is agnostic, meaning it can explain any model (Random Forest, Neural Networks, SVMs) for text, images, or tabular data."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "19abc0e0ca14a019",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "optimization",
+        "sgd",
+        "calculus"
+      ]
+    },
+    "content": {
+      "scenario": "Optimization: SGD 🔍",
+      "text": "To minimize loss functions in large datasets, {{c1::Stochastic Gradient Descent}} (SGD) updates parameters using the gradient of a single randomly selected sample.",
+      "explanation": "Instead of computing the gradient over the entire dataset (Batch GD), SGD computes the gradient on one sample per step. This introduces noise but speeds up computations and helps escape local minima.",
+      "spanish": "Para minimizar las funciones de pérdida en grandes conjuntos de datos, el Descenso de Gradiente Estocástico (SGD) actualiza los parámetros utilizando el gradiente de un solo ejemplo seleccionado al azar.",
+      "usage": "Standard update rule: \\(\\theta = \\theta - \\eta \\nabla L_i(\\theta)\\) where \\(\\eta\\) is the learning rate."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c7e336bf7e04801e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "optimization",
+        "adam",
+        "neural_networks"
+      ]
+    },
+    "content": {
+      "scenario": "Optimization: Adam 🔍",
+      "text": "For training deep neural networks efficiently, the {{c1::Adam}} optimizer computes adaptive learning rates for each parameter using estimates of first and second moments.",
+      "explanation": "Adam (Adaptive Moment Estimation) combines the principles of Momentum (storing past gradients) and RMSProp (scaling gradients by the root mean square of past gradients).",
+      "spanish": "Para entrenar redes neuronales profundas eficientemente, el optimizador Adam calcula tasas de aprendizaje adaptativas para cada parámetro utilizando estimaciones de primer y segundo momento.",
+      "usage": "Adam parameters typically default to: \\(\\beta_1 = 0.9\\), \\(\\beta_2 = 0.999\\), and \\(\\epsilon = 10^{-8}\\)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "040fa355aa677281",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "explainability",
+        "feature_importance",
+        "permutation"
+      ]
+    },
+    "content": {
+      "scenario": "Explainability: Permutation Importance 🔍",
+      "text": "To measure a feature's global importance in a model-agnostic way, we shuffle the feature's values and measure the drop in performance, a method called {{c1::permutation importance}}.",
+      "explanation": "Permutation feature importance measures the increase in prediction error after shuffling the values of a feature, which breaks the relationship between that feature and the target.",
+      "spanish": "Para medir la importancia global de una característica de manera agnóstica al modelo, barajamos los valores de la característica y medimos la caída en el rendimiento, un método llamado importancia de permutación.",
+      "usage": "In Scikit-Learn: <code>from sklearn.inspection import permutation_importance; result = permutation_importance(model, X, y)</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5c1dc6337f39e408",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "books_path",
+        "ai_engineering"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: RAG vs Fine-Tuning 🤖",
+      "text": "Chip Huyen states that for foundation models, {{c1::RAG is for facts}} (retrieving dynamic, contextual data) and {{c1::fine-tuning is for form}} (adjusting style, tone, and output formatting).",
+      "explanation": "Retrieval-Augmented Generation (RAG) updates the model's knowledge with live, external documents without retraining. Fine-tuning adjusts the model's behavioral patterns, syntax, or tone.",
+      "spanish": "Chip Huyen afirma que para los modelos fundacionales, RAG es para los hechos (recuperar datos dinámicos y contextuales) y el ajuste fino es para la forma (ajustar el estilo, el tono y el formato).",
+      "usage": "Examples:<ul><li>Use RAG to query customer database records.</li><li>Use fine-tuning to train a model to output strict JSON according to a specific schema.</li></ul><br>Reference: For foundation model system design patterns, see Chip Huyen's <a href=\"https://lnkd.in/gR22SH-2\">AI Engineering</a>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "69196e98f0f72df2",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "books_path",
+        "ai_engineering"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: Agentic Pillars 🤖",
+      "text": "Valentina Alto defines an AI Agent as an LLM brain supported by three core pillars: {{c1::Planning}} (subtask decomposition), {{c1::Memory}} (context retention), and {{c1::Tools}} (API execution).",
+      "explanation": "An agent uses reasoning loops (like ReAct) to plan steps, queries short-term (context window) or long-term (vector database) memory, and calls external tools to interact with the environment.",
+      "spanish": "Valentina Alto define un Agente de IA como un cerebro de LLM respaldado por tres pilares: Planificación (descomposición de subtareas), Memoria (retención de contexto) y Herramientas (ejecución de APIs).",
+      "usage": "Key pillars in action:<ul><li>Planning: Decomposes a goal into subtasks.</li><li>Memory: Stores conversation logs and facts.</li><li>Tools: Executes external APIs or code.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f7f8d263736adf59",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_engineering",
+        "feature_store",
+        "data_pipeline"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: Feature Store 📖",
+      "text": "To ensure consistency between feature calculations during model training and real-time inference, engineers set up a centralized {{c1::feature store}}.",
+      "explanation": "A feature store acts as a repository of curated features. It contains an offline database (like parquet/S3) for batch training, and a low-latency online database (like Redis) for serving features during inference.",
+      "spanish": "Para asegurar la coherencia entre los cálculos de características durante el entrenamiento del modelo y la inferencia en tiempo real, los ingenieros configuran un almacén de características centralizado (feature store).",
+      "usage": "Popular feature stores include <code>Feast</code> and <code>Hopsworks</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d45b1a830432214a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_engineering",
+        "monitoring",
+        "concept_drift"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: Concept Drift 📖",
+      "text": "When the statistical properties of the target variable change over time, the model performance degrades; this is known as {{c1::concept drift}}.",
+      "explanation": "Concept drift occurs when the mapping function \\(f(x) \\to y\\) changes (e.g. consumer purchasing habits shift). It differs from data drift (where the input feature distribution \\(P(x)\\) changes).",
+      "spanish": "Cuando las propiedades estadísticas de la variable objetivo cambian con el tiempo, el rendimiento del modelo se degrada; esto se conoce como deriva de concepto (concept drift).",
+      "usage": "To mitigate concept drift, set up monitoring pipelines and automate model retraining when performance drops below a threshold."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5eb3c8bbbdbd2f17",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_engineering",
+        "compression",
+        "distillation"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: Distillation 📖",
+      "text": "To compress a massive, expensive model into a smaller, faster model with minimal performance loss, we use {{c1::knowledge distillation}}.",
+      "explanation": "Knowledge distillation trains a small 'student' model to match the output probability distribution (soft targets) generated by a larger, pre-trained 'teacher' model, transmitting its dark knowledge.",
+      "spanish": "Para comprimir un modelo masivo y costoso en un modelo más pequeño y rápido con una pérdida de rendimiento mínima, utilizamos la destilación de conocimiento (knowledge distillation).",
+      "usage": "The student model is optimized using a loss function that combines hard targets (ground truth) and soft targets (teacher outputs)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c8f0f602fc7c68ca",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_engineering",
+        "serving",
+        "dynamic_batching"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: Dynamic Batching 📖",
+      "text": "To maximize GPU utility and throughput during model serving, hosting systems implement {{c1::dynamic batching}}.",
+      "explanation": "Dynamic batching groups incoming individual inference requests into a single batch on the fly, holding them for a tiny window (e.g. 5ms) to process them together, maximizing GPU parallel execution.",
+      "spanish": "Para maximizar la utilidad de la GPU y el rendimiento durante el servicio del modelo, los sistemas de alojamiento implementan el procesamiento por lotes dinámico (dynamic batching).",
+      "usage": "Triton Inference Server and vLLM implement advanced dynamic batching engines."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "dd78bde50f2d186f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_engineering",
+        "deployment",
+        "shadow_deployment"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: Shadow Deployment 📖",
+      "text": "To test a new model version in production under real traffic without affecting users, engineers use a {{c1::shadow deployment}}.",
+      "explanation": "In a shadow deployment, incoming production requests are sent to both the active model and the shadow model. The shadow model's outputs are logged but not returned to the user, allowing developers to monitor performance safely.",
+      "spanish": "Para probar la versión de un nuevo modelo en producción bajo tráfico real sin afectar a los usuarios, los ingenieros utilizan un despliegue en la sombra (shadow deployment).",
+      "usage": "Shadow deployment is safer than canary testing because it has zero impact on user experience."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9f8d376854255f67",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_engineering",
+        "deployment",
+        "edge"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: Edge AI 📖",
+      "text": "To minimize latency and run models offline without sending data to a server, models are deployed directly to devices using {{c1::edge computing}}.",
+      "explanation": "Edge AI executes neural network inference locally on edge devices (like smartphones, IoT nodes, or autonomous cars) using specialized hardware accelerators (NPUs).",
+      "spanish": "Para minimizar la latencia y ejecutar modelos fuera de línea sin enviar datos a un servidor, los modelos se despliegan directamente en los dispositivos mediante computación en el borde (edge computing).",
+      "usage": "Examples: Apple Neural Engine, Google Edge TPU. Frameworks: ONNX Runtime, TensorFlow Lite."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b1d39add9b2de343",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_engineering",
+        "pipelines",
+        "orchestration"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: Orchestration 📖",
+      "text": "To schedule, monitor, and coordinate complex pipelines for data preparation, training, and deployment, MLOps uses an {{c1::orchestration engine}}.",
+      "explanation": "An orchestration engine coordinates task dependencies, manages container execution, and handles retries in case of pipeline step failures.",
+      "spanish": "Para programar, monitorear y coordinar canalizaciones complejas para la preparación de datos, entrenamiento y despliegue, MLOps utiliza un motor de orquestación (orchestration engine).",
+      "usage": "Popular orchestration engines: <code>Apache Airflow</code>, <code>Kubeflow Pipelines</code>, <code>Prefect</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "62cf9e2684236918",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_engineering",
+        "data",
+        "lineage"
+      ]
+    },
+    "content": {
+      "scenario": "AI Engineering: Data Lineage 📖",
+      "text": "To debug pipeline issues and comply with audits, you must track the historical origin, path, and transformation of training datasets, a practice called {{c1::data lineage}}.",
+      "explanation": "Data lineage tracks how data flows from sources to destinations, documenting every transformation step. This ensures reproducibility and helps isolate where errors were introduced.",
+      "spanish": "Para depurar problemas en las canalizaciones y cumplir con auditorías, debes rastrear el origen histórico, ruta y transformación de los conjuntos de datos de entrenamiento, una práctica llamada linaje de datos (data lineage).",
+      "usage": "Data lineage tools like <code>OpenLineage</code> record metadata at each stage of the data pipeline."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0d1c5b61a3470a5a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "deep_learning",
+        "theory",
+        "math",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: Deep Learning 📘",
+      "text": "The foundational theoretical text covering deep neural networks, CNNs, RNNs, and representation learning is {{c1::Deep Learning (Goodfellow, Bengio, & Courville)}}.",
+      "explanation": "Often referred to as the 'bible' of deep learning, it covers math foundations (linear algebra, probability, numerical computation), deep network architectures, and advanced generative models. Highly theoretical and academic.",
+      "spanish": "El texto teórico fundacional que cubre redes neuronales profundas, CNN, RNN y aprendizaje de representación es 'Deep Learning' de Goodfellow, Bengio y Courville.",
+      "usage": "Core Concepts: Linear Algebra, Optimization, CNNs, RNNs, Autoencoders, GANs.<br>Official Link: <a href=\"https://lnkd.in/gNxH4gSu\">Deep Learning Book</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a86496c0ad2f5008",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "math",
+        "linear_algebra",
+        "calculus",
+        "probability",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: Mathematics for Machine Learning 📐",
+      "text": "To bridge the gap between basic math and applied machine learning theory, practitioners read {{c1::Mathematics for Machine Learning (Deisenroth, Faisal, & Ong)}}.",
+      "explanation": "This book provides a self-contained introduction to the mathematical concepts behind ML (linear algebra, analytic geometry, matrix decompositions, vector calculus, probability, and optimization) and shows how they are applied directly to PCA, SVMs, and Gaussian Mixture Models.",
+      "spanish": "Para cerrar la brecha entre las matemáticas básicas y la teoría del aprendizaje automático, los profesionales leen 'Mathematics for Machine Learning' de Deisenroth, Faisal y Ong.",
+      "usage": "Core Concepts: Linear Algebra, Vector Calculus, Probability, Optimization, PCA, GMMs.<br>Official Link: <a href=\"https://lnkd.in/gbUD5VWk\">Mathematics for Machine Learning</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8dffbad8a4b62907",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_engineering",
+        "rag",
+        "llm",
+        "systems",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: AI Engineering 🤖",
+      "text": "Chip Huyen's 2025 book {{c1::AI Engineering}} guides developers in building production applications using foundation models, covering patterns like RAG, evaluations, and prompt engineering.",
+      "explanation": "Focuses on the engineering lifecycle of systems powered by foundation models (LLMs/VLM), moving away from training from scratch to aligning, evaluating, and deploying APIs and local models.",
+      "spanish": "El libro de Chip Huyen de 2025, 'AI Engineering', guía a los desarrolladores en la construcción de aplicaciones de producción con modelos fundacionales (RAG, prompts, evaluación).",
+      "usage": "Core Concepts: Foundation Models, RAG, Prompt Engineering, Evaluation, Quantization, Deployment.<br>Official Link: <a href=\"https://lnkd.in/gR22SH-2\">AI Engineering by Chip Huyen</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d59d3e1031541e7a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "applied_ml",
+        "cloud_ai",
+        "software_engineering",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: Applied ML and AI for Engineers 💻",
+      "text": "For a code-first, practical approach to training models and using cloud AI services without getting bogged down in heavy math, engineers read {{c1::Applied ML and AI for Engineers (Jeff Prosise)}}.",
+      "explanation": "A hands-on, implementation-focused guide designed to teach developers how to build and deploy ML/AI models, focusing on practical cloud integrations and model deployments.",
+      "spanish": "Para un enfoque práctico y centrado en código para entrenar modelos y usar servicios de IA en la nube, los ingenieros leen 'Applied ML and AI for Engineers' de Jeff Prosise.",
+      "usage": "Core Concepts: Supervised Learning, Deep Learning, Cloud APIs, Model Deployment.<br>Official Link: <a href=\"https://lnkd.in/gaKedZ7S\">Applied ML and AI for Engineers</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f558701e0068bce5",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "classical_ai",
+        "logic",
+        "search",
+        "agents",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: Artificial Intelligence: A Modern Approach 🏛️",
+      "text": "The definitive, globally recognized university textbook for AI history, search algorithms, logic, and agent frameworks is {{c1::Artificial Intelligence: A Modern Approach (Russell & Norvig)}}.",
+      "explanation": "A comprehensive overview of the entire field of artificial intelligence, covering both classical symbolic AI (search, logic, planning) and modern statistical AI, machine learning, and ethics.",
+      "spanish": "El libro de texto universitario definitivo y reconocido mundialmente para la historia de la IA, algoritmos de búsqueda y lógica es 'Artificial Intelligence: A Modern Approach' de Russell y Novig.",
+      "usage": "Core Concepts: Intelligent Agents, Search Algorithms, First-Order Logic, Planning, Probabilistic Reasoning, Ethics.<br>Official Link: <a href=\"https://lnkd.in/gqFxxqgv\">A Modern Approach (AIMA)</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6b58e175900e7cbf",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "gans",
+        "generative_ai",
+        "tensorflow",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: GANs in Action 🎨",
+      "text": "To learn how to build and train Generative Adversarial Networks from scratch, developers refer to {{c1::GANs in Action (Langr & Bok)}}.",
+      "explanation": "Focuses on the practical implementation of GANs, detailing the adversarial training process between the Generator (creating fake data) and the Discriminator (identifying real vs. fake data).",
+      "spanish": "Para aprender a construir y entrenar Redes Adversarias Generativas (GAN) desde cero, los desarrolladores consultan 'GANs in Action' de Langr y Bok.",
+      "usage": "Core Concepts: Generator, Discriminator, DCGAN, CycleGAN, Progressive GANs.<br>Official Link: <a href=\"https://lnkd.in/g3isciJT\">GANs in Action</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a9ca77a18aa80e0b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "generative_ai",
+        "vae",
+        "diffusion",
+        "transformers",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: Generative Deep Learning 🎭",
+      "text": "David Foster's book {{c1::Generative Deep Learning}} provides a comprehensive guide to VAEs, GANs, Transformers, and Diffusion models for generating image, text, and audio.",
+      "explanation": "A complete guide to generative modeling, explaining the math and code (in TensorFlow/Keras) for modern architectures like Stable Diffusion and GPT-like models.",
+      "spanish": "El libro de David Foster, 'Generative Deep Learning', proporciona una guía completa sobre VAE, GAN, Transformers y modelos de difusión para generar imágenes, texto y audio.",
+      "usage": "Core Concepts: VAEs, GANs, Transformers, Diffusion Models, Autoregressive Models.<br>Official Link: <a href=\"https://lnkd.in/gNpDD2vg\">Generative Deep Learning</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c97fca8524657b7a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "huggingface",
+        "generative_ai",
+        "fine_tuning",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: Hands-On Generative AI 🛠️",
+      "text": "For a practical guide to using Hugging Face libraries for text, image, and audio generation, developers read {{c1::Hands-On Generative AI (Sanseviero, Cuenca, & Whitaker)}}.",
+      "explanation": "A guide focusing on the practical application of generative models using open-source tools and Hugging Face pipelines for rapid development.",
+      "spanish": "Para una guía práctica sobre el uso de las bibliotecas de Hugging Face para la generación de texto, imagen y audio, los desarrolladores leen 'Hands-On Generative AI' de Sanseviero, Cuenca y Whitaker.",
+      "usage": "Core Concepts: Hugging Face, Fine-Tuning, Text Generation, Image Generation, Audio Generation.<br>Official Link: <a href=\"https://lnkd.in/g9nPeMtE\">Hands-On Generative AI</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6c44a1d5e5043996",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "transformers",
+        "rag",
+        "visual",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: Hands-On Large Language Models 👁️",
+      "text": "With nearly 300 custom graphics, {{c1::Hands-On Large Language Models (Alammar & Grootendorst)}} provides the clearest visual explanation of transformer internals, RAG, and fine-tuning.",
+      "explanation": "A visual-first book that breaks down how LLMs work, from token representations to vector embeddings and parameter-efficient fine-tuning (PEFT) methods.",
+      "spanish": "Con casi 300 gráficos personalizados, 'Hands-On Large Language Models' de Alammar y Grootendorst ofrece la explicación visual más clara de transformers, RAG y fine-tuning.",
+      "usage": "Core Concepts: Attention Mechanism, Tokenization, PEFT, RAG, Vector Databases, Semantic Search.<br>Official Link: <a href=\"https://lnkd.in/guajjhmE\">Hands-On Large Language Models</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0ea838c3e8e61663",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "machine_learning",
+        "scikit-learn",
+        "tensorflow",
+        "keras",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: Hands-On Machine Learning ⚙️",
+      "text": "The most widely recommended machine learning book on the internet, which uses Scikit-Learn, Keras, and TensorFlow to teach ML end-to-end, is {{c1::Hands-On Machine Learning (Aurélien Géron)}}.",
+      "explanation": "A production-oriented guide covering all aspects of ML, from data cleaning and preprocessing to training state-of-the-art deep neural networks.",
+      "spanish": "El libro de aprendizaje automático más recomendado en internet, que enseña ML de extremo a extremo usando Scikit-Learn, Keras y TensorFlow, es 'Hands-On Machine Learning' de Aurélien Géron.",
+      "usage": "Core Concepts: Scikit-Learn, TensorFlow, Regression, Decision Trees, Random Forests, Deep Learning.<br>Official Link: <a href=\"https://lnkd.in/gyhVnBYg\">Hands-On Machine Learning</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7a30ef6295f1da01",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm_engineering",
+        "mlops",
+        "fine_tuning",
+        "production_ai",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: The LLM Engineer's Handbook 🏗️",
+      "text": "To build a production-grade LLM Twin using MLOps, LLM system design, fine-tuning, and scalable inference, engineers read {{c1::The LLM Engineer's Handbook (Iusztin & Labonne)}}.",
+      "explanation": "A hands-on engineering book that details how to create production-ready LLM systems by combining data engineering, model training, and continuous deployment workflows.",
+      "spanish": "Para construir un LLM Twin de grado de producción utilizando MLOps, diseño de sistemas LLM, ajuste fino e inferencia escalable, los ingenieros leen 'The LLM Engineer's Handbook' de Iusztin y Labonne.",
+      "usage": "Core Concepts: MLOps, LLM Twin, Fine-Tuning, RAG Pipelines, Inference, Evaluation.<br>Official Link: <a href=\"https://lnkd.in/gcpSwEZu\">The LLM Engineer's Handbook</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d9848a2fd492cfc7",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "nlp",
+        "transformers",
+        "huggingface",
+        "bert",
+        "gpt",
+        "ai_library"
+      ]
+    },
+    "content": {
+      "scenario": "AI Library: NLP with Transformers 🤗",
+      "text": "Written by Hugging Face core engineers, {{c1::Natural Language Processing with Transformers (Tunstall, von Werra, & Wolf)}} is the definitive guide to Hugging Face libraries and transformer training.",
+      "explanation": "Explains the Hugging Face library ecosystem (transformers, datasets, tokenizers, accelerate) with step-by-step guides on fine-tuning models for diverse NLP tasks (classification, NER, translation, summarization).",
+      "spanish": "Escrito por ingenieros principales de Hugging Face, 'Natural Language Processing with Transformers' de Tunstall, von Werra y Wolf es la guía definitiva para bibliotecas de Hugging Face y transformers.",
+      "usage": "Core Concepts: Hugging Face Ecosystem, Self-Attention, Text Classification, Named Entity Recognition, Text Generation.<br>Official Link: <a href=\"https://www.oreilly.com/library/view/natural-language-processing/9781492092568/\">NLP with Transformers Book</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

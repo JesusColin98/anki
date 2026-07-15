@@ -1,0 +1,4082 @@
+[
+  {
+    "id": "841d8f524357cec6",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "productivity",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Focused vs Diffuse 🧠",
+      "text": "Learning requires toggling between the {{c1::focused mode}} (concentrated attention on details) and the {{c2::diffuse mode}} (relaxed, wandering state that allows for creative connections).",
+      "explanation": "When you get stuck on a difficult technical problem, continuing to focus intensely can cause the 'Einstellung effect' (blocking a better solution). Relaxing the mind allows the diffuse mode to find new neural pathways.",
+      "spanish": "El aprendizaje requiere alternar entre el modo enfocado (atención concentrada en detalles) y el modo difuso (estado relajado y errante que permite conexiones creativas).",
+      "usage": "How to toggle:<ul><li>Focused: Intensive studying, coding, or calculating.</li><li>Diffuse: Taking a walk, sleeping, or exercising right after intensive work.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7390bd3846950736",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "einstellung",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Einstellung Effect 🧠",
+      "text": "The {{c1::Einstellung Effect}} is a mental roadblock where a pre-existing, incorrect idea or solution path prevents you from seeing a better or correct solution.",
+      "explanation": "Once your brain has paved a neural path for solving a problem, it becomes hard to look at the problem differently unless you step away and switch to the diffuse mode of thinking.",
+      "spanish": "El Efecto Einstellung es un obstáculo mental en el que una idea preexistente e incorrecta te impide ver una mejor solución.",
+      "usage": "This commonly happens during exams when you get stuck on a wrong approach and cannot see the obvious solution. Stepping away resets your focus."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2d7d9b9335027491",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "chunking",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Chunking 🧠",
+      "text": "A {{c1::chunk}} is a compact package of information bound together by meaning that your brain can easily access during thinking.",
+      "explanation": "To build a chunk, you must focus your undivided attention, understand the basic idea, and gain context so you know when to use it.",
+      "spanish": "Un chunk (fragmento) es un paquete compacto de información unido por el significado que tu cerebro puede acceder fácilmente durante el pensamiento.",
+      "usage": "Understand the logic behind a mathematical equation first, then practice using it in different contexts."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "22cca6ce09e95b36",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "memory",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Illusion of Competence 🧠",
+      "text": "Re-reading notes or highlighting text often creates an {{c1::illusion of competence}}, making you feel like you know the material when you actually do not.",
+      "explanation": "The brain easily recognizes information, which tricks you into believing you have retrieved and consolidated it in long-term memory.",
+      "spanish": "Volver a leer las notas o resaltar el texto a menudo crea una ilusión de competencia, haciéndote sentir que conoces el material cuando en realidad no es así.",
+      "usage": "Instead of re-reading, test yourself using active recall or explain the concept in your own words."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7ea8d3ee64ebec71",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "recall",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Recall 🧠",
+      "text": "The simple practice of {{c1::active recall}}—looking away from the page and testing yourself on the key concepts—is far more effective than passive review.",
+      "explanation": "Retrieval practice strengthens neural connections and makes the memory more durable and accessible.",
+      "spanish": "La simple práctica del recuerdo activo (mirar hacia otro lado y evaluar los conceptos clave) es mucho más efectiva que la revisión pasiva.",
+      "usage": "After reading a section, close the book and mentally summarize what you just read."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c7d5405bfd7e63d7",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "interleaving",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Interleaving 🧠",
+      "text": "To develop flexibility in problem-solving, you should practice {{c1::interleaving}}—mixing up different types of problems or topics instead of block practicing.",
+      "explanation": "Block practicing (doing 20 of the same problem) only teaches you 'how' to use a technique, but interleaving teaches you 'when' to use a particular technique.",
+      "spanish": "Para desarrollar flexibilidad en la resolución de problemas, debes practicar la intercalación (mezclar diferentes tipos de problemas o temas en lugar de practicar en bloque).",
+      "usage": "Instead of studying only one topic per session, mix different subjects or different types of math problems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a6403a4409e3b7ce",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "spaced_repetition",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Spaced Repetition 🧠",
+      "text": "To move information from working memory to long-term memory, you must practice {{c1::spaced repetition}} over several days rather than cramming in a single session.",
+      "explanation": "The brain needs time to physically grow and strengthen the synaptic connections between neurons, which happens during rest and sleep.",
+      "spanish": "Para mover la información de la memoria de trabajo a la memoria a largo plazo, debes practicar la repetición espaciada durante varios días en lugar de estudiar intensamente en una sola sesión.",
+      "usage": "Review flashcards daily with expanding intervals (1 day, 3 days, 7 days, 14 days)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "beb3315715ed1c5d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "memory",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Working Memory Capacity 🧠",
+      "text": "Working memory is the part of memory that deals with what you are immediately processing, and it typically holds only about {{c1::four}} chunks of information.",
+      "explanation": "Working memory is like a blackboard with limited space; if you overload it, you lose information.",
+      "spanish": "La memoria de trabajo es la parte de la memoria que se ocupa de lo que estás procesando inmediatamente, y normalmente contiene solo unos cuatro fragmentos de información.",
+      "usage": "Keep notes or use external diagrams to free up working memory slots while solving complex tasks."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "71a8da72a1a0b79f",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "habits",
+        "procrastination",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Procrastination & Habits 🧠",
+      "text": "Procrastination is triggered by an uncomfortable feeling when thinking about a task, which activates the {{c1::pain centers}} of the brain, leading you to seek temporary relief in other activities.",
+      "explanation": "The brain seeks to avoid the immediate discomfort. However, studies show that once you start the task, the discomfort disappears after a few minutes.",
+      "spanish": "La procrastinación es desencadenada por una sensación incómoda al pensar en una tarea, lo que activa los centros de dolor del cerebro, llevándote a buscar alivio temporal en otras actividades.",
+      "usage": "Use the Pomodoro technique to focus on the 'process' (25 minutes of work) rather than the 'product' (finishing the task)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "43309c7c3796348d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "habits",
+        "pomodoro",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Pomodoro Technique 🧠",
+      "text": "The Pomodoro technique helps overcome procrastination by shifting focus from the product to the {{c1::process}} (working for a set period of 25 minutes without distraction).",
+      "explanation": "Focusing on the 'process' reduces the anxiety of completion, making it easier to start the task.",
+      "spanish": "La técnica Pomodoro ayuda a superar la procrastinación al cambiar el enfoque del producto al proceso (trabajar durante un período establecido de 25 minutos sin distracciones).",
+      "usage": "Set a timer for 25 minutes, eliminate all distractions, work with focus, then reward yourself with a 5-minute break."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "62d0b3883cb08e5b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "serendipity",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: The Law of Serendipity 🧠",
+      "text": "The Law of Serendipity in learning states that {{c1::lady luck favors the one who tries}}—meaning that starting a task opens up new paths and resources that were previously invisible.",
+      "explanation": "Action breeds momentum. Even small progress helps clarify the problem and build confidence.",
+      "spanish": "La Ley de la Serendipia en el aprendizaje establece que la suerte favorece al que lo intenta, lo que significa que comenzar una tarea abre nuevos caminos y recursos.",
+      "usage": "If a project seems overwhelming, commit to writing just one paragraph or coding one function today."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0aae86c0e03fe784",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "sleep",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Sleep & Memory 🧠",
+      "text": "During sleep, your brain {{c1::clears away toxins}} that accumulate during waking hours and consolidates the neural connections formed during study.",
+      "explanation": "Sleep is not passive downtime; it is an active phase of pruning weak connections and strengthening important ones.",
+      "spanish": "Durante el sueño, tu cerebro limpia las toxinas que se acumulan durante las horas de vigilia y consolida las conexiones neuronales formadas durante el estudio.",
+      "usage": "Get at least 7-8 hours of sleep, especially before an exam or a major coding deadline."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "864635431a204aa7",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "overlearning",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Overlearning 🧠",
+      "text": "Continuing to practice a skill or concept after you have already mastered it is called {{c1::overlearning}}, which can lead to automaticity but does not improve long-term understanding.",
+      "explanation": "Overlearning can waste valuable study time. It is better to move on to harder material or practice interleaving.",
+      "spanish": "Continuar practicando una habilidad o concepto después de haberlo dominado se llama sobreaprendizaje, lo que puede llevar a la automaticidad pero no mejora la comprensión a largo plazo.",
+      "usage": "Once you can solve a type of calculus problem easily, stop doing identical ones and move to a different type."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "46e1af30b39e9f9f",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "deliberate_practice",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Deliberate Practice 🧠",
+      "text": "To achieve mastery, you must engage in {{c1::deliberate practice}}—focusing your attention on the concepts or problems you find most difficult rather than what is easy.",
+      "explanation": "Mastery requires pushing past your comfort zone. Practicing what you already know yields diminishing returns.",
+      "spanish": "Para lograr el dominio, debes participar en la práctica deliberada: enfocar tu atención en los conceptos o problemas que encuentras más difíciles.",
+      "usage": "In coding, spend time debugging and learning paradigms you struggle with (e.g. async loops), instead of rewriting easy templates."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6421e840be80328b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "metaphor",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Metaphors & Analogies 🧠",
+      "text": "Using {{c1::metaphors}} and analogies is a powerful way to link new abstract concepts to existing concrete knowledge.",
+      "explanation": "A metaphor helps build a quick mental bridge. It connects the new unfamiliar neural pattern to a familiar one.",
+      "spanish": "El uso de metáforas y analogías es una forma poderosa de vincular nuevos conceptos abstractos con conocimientos concretos existentes.",
+      "usage": "Example: Explain computer memory (RAM) as a desktop space, and the hard drive as a file cabinet."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4af27071edf57bc3",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "spacing_effect",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Spacing Effect 🧠",
+      "text": "The {{c1::spacing effect}} shows that learning is more durable when study sessions are spaced out over time, rather than massed together.",
+      "explanation": "Spacing forces the brain to retrieve information just as it is beginning to be forgotten, which rebuilds and strengthens the memory trace.",
+      "spanish": "El efecto de espaciado muestra que el aprendizaje es más duradero cuando las sesiones de estudio se espacian a lo largo del tiempo.",
+      "usage": "Study for 1 hour a day for 5 days instead of 5 hours in a single day."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b95a5c1af2ff40f7",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "testing",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Test Effect 🧠",
+      "text": "The {{c1::testing effect}} is the finding that taking a test or quiz actually improves memory retention more than spending the same amount of time studying.",
+      "explanation": "Testing is a retrieval event. It tells the brain that the tested information is highly important for survival, prompting consolidation.",
+      "spanish": "El efecto de evaluación es el hallazgo de que realizar un examen o cuestionario en realidad mejora la retención de la memoria más que estudiar durante el mismo tiempo.",
+      "usage": "Use practice exams and self-quizzing as primary learning methods, not just as grading tools."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d214e189c2a65e04",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "context",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Changing Contexts 🧠",
+      "text": "Studying in {{c1::different locations}} prevents you from associating information with the environmental cues of a single room, improving recall in exam halls.",
+      "explanation": "If you only study in your quiet bedroom, you might struggle to recall the information in a noisy or different environment.",
+      "spanish": "Estudiar en diferentes lugares evita que asocies la información con las señales ambientales de una sola habitación, mejorando el recuerdo.",
+      "usage": "Rotate your study spots: study at a desk, a library, a coffee shop, or outdoors."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cd1bb369042aa71f",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "einstellung",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Einstellung Solution 🧠",
+      "text": "To break the Einstellung effect when stuck, you must deliberately switch your mind to the {{c1::diffuse mode}} by stepping away from the problem.",
+      "explanation": "Focused mode keeps your brain in a specific neural loop. Stepping away lets the brain scan a wider cognitive network.",
+      "spanish": "Para romper el efecto Einstellung cuando estás atascado, debes cambiar deliberadamente tu mente al modo difuso alejándote del problema.",
+      "usage": "If your code has a bug you've spent 2 hours on, go for a run or do the dishes. The solution often pops up automatically."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7d3b8de5f6f4d370",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "habits",
+        "procrastination",
+        "source::a_mind_for_numbers"
+      ]
+    },
+    "content": {
+      "scenario": "A Mind For Numbers: Process vs Product 🧠",
+      "text": "To avoid the pain that triggers procrastination, you should focus on the {{c1::process}} (the flow of time and action) rather than the {{c2::product}} (the finished outcome).",
+      "explanation": "The product is what triggers the negative emotional response ('I have to finish this giant project!'). The process is neutral ('I will write code for 20 minutes').",
+      "spanish": "Para evitar el dolor que desencadena la procrastinación, debes concentrarte en el proceso (el flujo de tiempo y acción) en lugar del producto (el resultado final).",
+      "usage": "Instead of saying 'I will write the entire API today', say 'I will work on the API for two Pomodoro sessions'."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "436afd4015c87458",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "superlearner",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Visual Markers 👁️",
+      "text": "The primary memory technique in Become a SuperLearner is creating {{c1::visual markers}}—highly detailed, bizarre, and emotionally charged mental images to represent concepts.",
+      "explanation": "Human brains evolved to remember visual inputs and spatial layouts far better than abstract words or numbers. A boring image is forgotten quickly, but a strange or shocking one stick.",
+      "spanish": "La técnica de memoria principal en Become a SuperLearner es la creación de marcadores visuales: imágenes mentales altamente detalladas, extrañas y cargadas emocionalmente.",
+      "usage": "If you want to remember that a client's name is 'Arthur', picture him sitting on a throne wearing a giant glowing crown (King Arthur)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "191ae86b69c93eb5",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "speed_reading",
+        "superlearner",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Reading Speed vs Comprehension 📚",
+      "text": "To increase reading speed without losing comprehension, you must reduce or eliminate {{c1::subvocalization}}—the habit of silently pronouncing each word in your mind as you read.",
+      "explanation": "Subvocalization limits your reading speed to your speaking speed (around 150-250 words per minute). The brain can process visual symbols much faster without pronouncing them.",
+      "spanish": "Para aumentar la velocidad de lectura sin perder la comprensión, debes reducir o eliminar la subvocalización: el hábito de pronunciar silenciosamente cada palabra.",
+      "usage": "Use a pointer (like a finger or pen) to guide your eyes and force them to move faster than your inner voice can speak."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e5ebc7f4cae75dc5",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "speed_reading",
+        "superlearner",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Regression 📚",
+      "text": "Another major obstacle to speed reading is {{c1::regression}}—the unconscious habit of letting your eyes skip backward to re-read words or sentences you have already passed.",
+      "explanation": "Regression wastes time and disrupts the flow of comprehension. It is often caused by lack of focus or lack of confidence in one's reading.",
+      "spanish": "Otro obstáculo importante para la lectura rápida es la regresión: el hábito inconsciente de dejar que los ojos retrocedan para volver a leer palabras.",
+      "usage": "Use a card or index card to cover the lines you have already read to physically prevent your eyes from skipping backward."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2151d13a63867926",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "speed_reading",
+        "superlearner",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Saccades 📚",
+      "text": "Speed readers train their eyes to make wider {{c1::saccades}}—the rapid movements of the eyes between fixation points—capturing whole groups of words at once.",
+      "explanation": "Untrained readers fixate on every single word. Trained readers make fewer jumps and capture chunks of text using their peripheral vision.",
+      "spanish": "Los lectores rápidos entrenan sus ojos para realizar movimientos sacádicos más amplios (los movimientos rápidos de los ojos entre puntos de fijación).",
+      "usage": "Practice looking at the center of a line and using your peripheral vision to read the words on the left and right sides."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f1fea0b096ac6c6e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "loci",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Memory Palace 🏰",
+      "text": "A {{c1::Memory Palace}} (or Method of Loci) is a spatial memory technique where you place visual markers along a familiar route or location in your mind.",
+      "explanation": "This technique leverages our highly developed evolutionary sense of navigation and spatial memory to order and retrieve information.",
+      "spanish": "Un Palacio de la Memoria (o Método de Loci) es una técnica de memoria espacial en la que colocas marcadores visuales a lo largo de una ruta familiar.",
+      "usage": "Visualize your childhood home. Map out a path through 10 distinct furniture pieces, placing one concept image on each piece."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8df51b8db1b8694a",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "peg_system",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: The Number-Peg System 🔢",
+      "text": "The {{c1::Number-Peg System}} maps numbers to specific visual objects (pegs) so that numerical data can be easily associated with other concepts.",
+      "explanation": "Numbers are abstract and hard to remember. Assigning a permanent image to each number (e.g. 1 = candle, 2 = swan) allows you to link them to lists.",
+      "spanish": "El Sistema de Clavijas Numéricas asocia números con objetos visuales específicos para que los datos numéricos puedan recordarse fácilmente.",
+      "usage": "To remember that you need to buy milk first, picture a swan (2) swimming in a lake of milk."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "479bc02f890487a6",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "creativity",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Creative Thinking 🧠",
+      "text": "To create effective visual markers, you must practice {{c1::divergent thinking}}, allowing your brain to make absurd, humorous, or bizarre associations.",
+      "explanation": "The more logical and normal an association is, the harder it is to remember. The brain pays attention to the unexpected.",
+      "spanish": "Para crear marcadores visuales efectivos, debes practicar el pensamiento divergente, permitiendo que tu cerebro haga asociaciones absurdas o graciosas.",
+      "usage": "To remember the word 'hyperbole', visualize a giant hyperactive bowl of soup bouncing around the kitchen screaming."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "433db86034c11b4d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "speed_reading",
+        "prereading",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Pre-Reading 📚",
+      "text": "Before reading a book or chapter, you should spend a few minutes {{c1::pre-reading}}—scanning headings, diagrams, and summaries to create a mental framework.",
+      "explanation": "Pre-reading primes your brain. It acts like looking at the cover of a jigsaw puzzle before putting the pieces together.",
+      "spanish": "Antes de leer un libro o capítulo, debes pasar unos minutos haciendo prelectura: escaneando títulos, diagramas y resúmenes.",
+      "usage": "Spend 2-3 minutes scanning the table of contents and chapter summaries before starting a new technical manual."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "429ec78629c25781",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "habits",
+        "productivity",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Habit Loops 🔄",
+      "text": "Developing learning skills requires building new habits. A habit loop consists of three parts: a {{c1::cue}}, a {{c2::routine}}, and a {{c3::reward}}.",
+      "explanation": "To build a reading habit, associate it with a cue (e.g., morning coffee), perform the routine (read for 20 minutes), and give yourself a reward.",
+      "spanish": "Desarrollar habilidades de aprendizaje requiere construir nuevos hábitos. Un bucle de hábito consta de tres partes: una señal, una rutina y una recompensa.",
+      "usage": "Cue: Sitting down on the bus. Routine: Open Kindle instead of social media. Reward: A piece of chocolate or positive self-talk."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "12fd676f7a433043",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "focus",
+        "productivity",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Focused Attention 🧠",
+      "text": "The quality of your learning is directly proportional to your {{c1::focus}} and the elimination of cognitive task-switching.",
+      "explanation": "Every time you check your phone or switch tabs, you incur a 'cognitive switching cost' that slows down learning and drains mental energy.",
+      "spanish": "La calidad de tu aprendizaje es directamente proporcional a tu enfoque y a la eliminación del cambio de tareas cognitivas.",
+      "usage": "Study in a dedicated environment with all notifications silenced and tabs closed."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7e063d95f2bc931d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "synthesis",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Intersecting Fields 🧠",
+      "text": "To deepen understanding, you should look for connections between different fields, a concept known as {{c1::cross-pollination}} of ideas.",
+      "explanation": "Innovations often occur at the intersection of two separate disciplines. Linking new ideas to fields you already master accelerates consolidation.",
+      "spanish": "Para profundizar en la comprensión, debes buscar conexiones entre diferentes campos, un concepto conocido como polinización cruzada de ideas.",
+      "usage": "If you are a musician learning to code, draw analogies between musical notation and coding structures (loops, variables)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8b3903ac34a4d83d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "active_learning",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Active Learning 🧠",
+      "text": "Instead of being a passive recipient of information, you must practice {{c1::active learning}} by questioning the author and making predictions.",
+      "explanation": "Active engagement forces deeper cognitive processing. Passive reading is low-retention.",
+      "spanish": "En lugar de ser un receptor pasivo de información, debes practicar el aprendizaje activo cuestionando al autor y haciendo predicciones.",
+      "usage": "Stop at the end of a section and ask: 'How does this apply to my current project? What would happen if this constraint changed?'"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "44a6ba7a97cad310",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "visualization",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Visualization Rule 👁️",
+      "text": "The book recommends the rule of **SEE**: {{c1::Sensory}}, {{c2::Exaggerated}}, {{c3::Energized}} images to create durable memory markers.",
+      "explanation": "Sensory means involving smell, touch, sound. Exaggerated means making it giant or tiny. Energized means making the image move or explode.",
+      "spanish": "El libro recomienda la regla de 'SEE': imágenes sensoriales, exageradas y energizadas para crear marcadores de memoria duraderos.",
+      "usage": "To remember the password 'apple5', visualize a giant, exploding apple (exaggerated, energized) smelling like sour candy (sensory) crushing a giant number 5."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "50d1f550119c26de",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "major_system",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: The Major System 🔢",
+      "text": "The {{c1::Major System}} is a phonetic system that converts numbers into consonant sounds, which can then be turned into words and visual markers.",
+      "explanation": "By mapping digits to consonants (e.g. 1 = t/d, 2 = n, 3 = m), you can convert any number (e.g. 12 = 'tin') into a visual object.",
+      "spanish": "El Sistema Mayor es un sistema fonético que convierte números en sonidos consonánticos, que luego pueden convertirse en palabras.",
+      "usage": "Code digits into sounds, pad with vowels to make words, then place those word-images in your memory palace."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f7b20b3978c317dd",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "sleep",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Sleep Quality 💤",
+      "text": "Poor sleep quality directly impairs the process of {{c1::memory consolidation}}, which is the transfer of information from temporary storage (hippocampus) to permanent storage (cortex).",
+      "explanation": "Sleep is when the brain replays and organizes the day's experiences, discarding noise and solidifying useful neural pathways.",
+      "spanish": "La mala calidad del sueño perjudica directamente el proceso de consolidación de la memoria.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5a5398e28c309a4a",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "health",
+        "neuroscience",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Cognitive Reserve 🧠",
+      "text": "Regular mental exercise, physical activity, and healthy diet build {{c1::cognitive reserve}}, which protects the brain against aging and cognitive decline.",
+      "explanation": "Learning complex skills (like languages or coding) creates a denser network of synapses, making the brain more resilient.",
+      "spanish": "El ejercicio mental regular, la actividad física y una dieta saludable desarrollan la reserva cognitiva.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9aafee1c08f92bbb",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "dual_coding",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Dual-Coding Theory 📊",
+      "text": "Dual-coding theory states that learning is enhanced when information is presented in both {{c1::verbal}} and {{c2::visual}} formats simultaneously.",
+      "explanation": "The brain processes words and images through separate channels, creating two independent pathways to retrieve the same concept.",
+      "spanish": "La teoría de la codificación dual establece que el aprendizaje mejora cuando la información se presenta en formatos tanto verbales como visuales.",
+      "usage": "Use diagrams, flowcharts, or mind maps alongside text notes when studying complex code architectures."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2f38006454e547cb",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "context",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Contextual Cues 🧠",
+      "text": "Retrieval of information is highly dependent on {{c1::contextual cues}}—environmental or internal states that were present when the memory was encoded.",
+      "explanation": "If you study while stressed, you will recall the information best when stressed. If you study with music, that music becomes a retrieval cue.",
+      "spanish": "La recuperación de información depende en gran medida de las señales contextuales presentes cuando se codificó la memoria.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f528c4f4b6c24e02",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "speed_reading",
+        "chunking",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Chunking Text 📚",
+      "text": "To read faster, train your eyes to read chunks of text instead of individual words, focusing on the {{c1::spaces between words}} or the center of word groups.",
+      "explanation": "Your brain can easily read and synthesize words in your peripheral vision if you don't look directly at each letter.",
+      "spanish": "Para leer más rápido, entrena tus ojos para leer bloques de texto en lugar de palabras individuales.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e431f557bf1fb9ea",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "memory",
+        "chunking",
+        "source::become_a_superlearner"
+      ]
+    },
+    "content": {
+      "scenario": "Become a SuperLearner: Chunking Numbers 🔢",
+      "text": "When memorizing long digit strings, group them into {{c1::3-digit or 4-digit chunks}} instead of trying to remember them individually.",
+      "explanation": "This maps to the working memory constraint of about 4 items. It's easier to remember '192 - 168 - 100' than '192168100'.",
+      "spanish": "Al memorizar largas cadenas de dígitos, agrúpalas en fragmentos de 3 o 4 dígitos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9775056cbf06aa7b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Retrieval Practice 📚",
+      "text": "The cornerstone of effective learning is {{c1::retrieval practice}}—the act of recalling facts, concepts, or events from memory rather than re-reading them.",
+      "explanation": "Retrieval forces the brain to search its memory network, which consolidates neural pathways and makes the information more accessible in the future.",
+      "spanish": "La piedra angular del aprendizaje efectivo es la práctica de recuperación: el acto de recordar hechos, conceptos o eventos de la memoria.",
+      "usage": "Use flashcards or write down everything you remember from a lecture on a blank sheet of paper."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a085bd90ccf1d3bf",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Spaced Retrieval 📚",
+      "text": "Retrieval practice is most effective when it is {{c1::spaced out}} over time, allowing some forgetting to occur between sessions.",
+      "explanation": "When retrieval is slightly difficult because of forgetting, the cognitive effort required to recall the information strengthens the memory trace much more.",
+      "spanish": "La práctica de recuperación es más efectiva cuando se espacia a lo largo del tiempo, permitiendo que ocurra cierto olvido.",
+      "usage": "Wait a few days before reviewing your notes, rather than studying them repeatedly on the same day."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3e189d327628581e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Interleaved Practice 📚",
+      "text": "Instead of block practice, you should use {{c1::interleaved practice}}—alternating between different topics or skills during a single study session.",
+      "explanation": "Interleaving helps your brain learn to identify the differences between problems and select the correct strategy.",
+      "spanish": "En lugar de practicar en bloque, debes usar la práctica intercalada: alternar entre diferentes temas o habilidades.",
+      "usage": "If practicing coding algorithms, mix array traversal, string formatting, and sorting problems in the same session."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "394fd848c78468f7",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Varied Practice 📚",
+      "text": "Practicing a skill in {{c1::different contexts}} or varying the parameters of practice improves your ability to transfer the skill to new situations.",
+      "explanation": "Varied practice builds a broader, more flexible schema in the brain, rather than a rigid, single-use habit.",
+      "spanish": "Practicar una habilidad en diferentes contextos o variar los parámetros de la práctica mejora tu capacidad para transferir la habilidad.",
+      "usage": "Write code in different IDEs, on different operating systems, or solve database design tasks for different industries."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5176ed109a34a79e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Generation 📚",
+      "text": "The process of trying to solve a problem before being shown the solution or explanation is called {{c1::generation}}.",
+      "explanation": "Even if you fail or make mistakes, the cognitive struggle of trying to generate a solution primes your brain to learn and retain the correct explanation.",
+      "spanish": "El proceso de intentar resolver un problema antes de que se te muestre la solución o explicación se llama generación.",
+      "usage": "Try to write a function or solve a puzzle yourself before looking at the tutorial or documentation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5dc8eb2bd9d733aa",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Elaboration 📚",
+      "text": "Connecting new information to what you already know by putting it in your own words or finding real-world applications is called {{c1::elaboration}}.",
+      "explanation": "Elaboration builds links between the new concepts and your existing mental framework, making the new memory trace much stronger.",
+      "spanish": "Conectar nueva información con lo que ya sabes poniéndola en tus propias palabras se llama elaboración.",
+      "usage": "Explain a complex coding pattern to a non-technical friend or write a metaphor for it."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9c3177f3ab5d66e9",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Calibration 📚",
+      "text": "To align your subjective sense of what you know with objective reality, you must use {{c1::calibration}}—using objective tests and feedback to identify blind spots.",
+      "explanation": "Without objective feedback, you are highly vulnerable to the illusion of competence and overconfidence.",
+      "spanish": "Para alinear tu sentido subjetivo de lo que sabes con la realidad objetiva, debes usar la calibración: usar pruebas objetivas.",
+      "usage": "Use quizzes, practice tests, or peer reviews to verify your actual skill level."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4284fc49824a2c86",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "psychology",
+        "growth_mindset",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Growth Mindset 📚",
+      "text": "Embracing challenges and viewing mistakes as opportunities to grow neural connections is the hallmark of a {{c1::growth mindset}}.",
+      "explanation": "Intelligence is not fixed. The brain is plastic and grows stronger when pushing through difficult cognitive challenges.",
+      "spanish": "Adoptar desafíos y ver los errores como oportunidades para desarrollar conexiones neuronales es la marca de una mentalidad de crecimiento.",
+      "usage": "When stuck on a bug, tell yourself: 'This struggle is helping my brain grow and learn new patterns.'"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "eb710e1645434a43",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Desirable Difficulties 📚",
+      "text": "Short-term struggles that make learning feel slower and more difficult but lead to much stronger long-term retention are called {{c1::desirable difficulties}}.",
+      "explanation": "Easy learning is often quickly forgotten. Cognitive effort during encoding and retrieval leads to deep learning.",
+      "spanish": "Las dificultades a corto plazo que hacen que el aprendizaje parezca más lento pero conducen a una mayor retención se llaman dificultades deseables.",
+      "usage": "Examples of desirable difficulties: active recall, spaced repetition, generation, and interleaving."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e8239f8460dc6555",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Reflection 📚",
+      "text": "Taking a few minutes to review what you did, asking what worked, and identifying areas for improvement is the practice of {{c1::reflection}}.",
+      "explanation": "Reflection combines retrieval practice and elaboration, helping you consolidate lessons and plan future strategies.",
+      "spanish": "Tomarse unos minutos para revisar lo que hiciste, preguntar qué funcionó e identificar áreas de mejora es la práctica de la reflexión.",
+      "usage": "At the end of a sprint or coding project, review the code and write down 3 things you learned or would do differently."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "394f51e836b781c2",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Illusions of Knowing 📚",
+      "text": "The cognitive bias where you mistake familiarity with a text for mastery of the underlying concepts is called the {{c1::illusion of knowing}}.",
+      "explanation": "Familiarity is passive. True mastery is the ability to retrieve and apply the concepts dynamically.",
+      "spanish": "El sesgo cognitivo en el que confundes la familiaridad con un texto con el dominio de los conceptos subyacentes se llama ilusión de conocimiento.",
+      "usage": "Avoid simply highlighting and rereading. Instead, quiz yourself or apply the concepts."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "dc86458c30a6730d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "mental_models",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Mental Models 📚",
+      "text": "A {{c1::mental model}} is a structured representation of external reality that your brain builds to understand how things work and make predictions.",
+      "explanation": "As you practice, your brain groups chunks of related rules into overarching mental models, allowing you to solve complex, novel problems quickly.",
+      "spanish": "Un modelo mental es una representación estructurada de la realidad externa que tu cerebro construye para entender cómo funcionan las cosas.",
+      "usage": "Build mental models of software design (e.g. MVC, Microservices) to guide your engineering decisions."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3e77ffa687b68b15",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "neuroscience",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Consolidating Memory 📚",
+      "text": "The physical process in the brain where temporary memory traces are reorganized and stabilized into long-term storage is called {{c1::consolidation}}.",
+      "explanation": "Consolidation takes hours or days. It requires neural processing during sleep and rest, which is why spacing study sessions is essential.",
+      "spanish": "El proceso físico en el cerebro donde los rastros de memoria temporales se reorganizan y estabilizan se llama consolidación.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "923f9b8d0485e177",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "neuroscience",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Reconsolidation 📚",
+      "text": "When you retrieve a memory, it becomes unstable and open to change. The process of modifying and restoring it back into long-term storage is {{c1::reconsolidation}}.",
+      "explanation": "Reconsolidation allows you to update existing memories with new context, elaboration, or corrections.",
+      "spanish": "Cuando recuperas un recuerdo, se vuelve inestable. El proceso de modificarlo y volver a almacenarlo se llama reconsolidación.",
+      "usage": "Every time you review a card and add new connections, you reconsolidate that memory."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4726afb558f6f75b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Massed Practice 📚",
+      "text": "Cramming or repeating the same skill over and over in a single session is called {{c1::massed practice}}, which leads to quick short-term performance but rapid long-term forgetting.",
+      "explanation": "Massed practice feels productive because you see rapid improvement, but it doesn't build durable memory traces.",
+      "spanish": "Estudiar intensamente o repetir la misma habilidad una y otra vez en una sola sesión se llama práctica masiva.",
+      "usage": "Avoid 8-hour cram sessions before exams. Use daily 1-hour sessions instead."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2829470226795184",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "psychology",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Cognitive Map 📚",
+      "text": "To navigate complex tasks, the brain constructs a {{c1::cognitive map}}—a mental layout of the task's rules, structures, and goals.",
+      "explanation": "Elaborative study methods help build high-fidelity cognitive maps, allowing you to find alternative paths when obstacles arise.",
+      "spanish": "Para navegar por tareas complejas, el cerebro construye un mapa cognitivo: un diseño mental de las reglas y estructuras.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "afac559429caf9a1",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Structured Learning 📚",
+      "text": "Effective learners practice {{c1::structure building}}—extracting the core rules and structure from new material and discarding irrelevant details.",
+      "explanation": "Structure builders can quickly place new facts into their proper context. Low structure builders get overwhelmed by details.",
+      "spanish": "Los estudiantes efectivos practican la construcción de estructuras: extraer las reglas y la estructura central del material.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "39882d94531ec8f0",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "elaboration",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Explanatory Power 📚",
+      "text": "A key method of elaboration is trying to explain the {{c1::underlying principles}} of a concept rather than just memorizing definitions.",
+      "explanation": "Understanding 'why' a system behaves a certain way gives you the power to troubleshoot and adapt.",
+      "spanish": "Un método clave de elaboración es intentar explicar los principios subyacentes de un concepto en lugar de memorizar definiciones.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "eea45bc3e33aea0c",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "psychology",
+        "calibration",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Calibration Blind Spot 📚",
+      "text": "The tendency to overestimate your own competence is called the {{c1::Dunning-Kruger effect}}, which is corrected by calibrating against objective benchmarks.",
+      "explanation": "Incompetent people lack the metacognitive skills to evaluate their own lack of competence. Feedback is the only cure.",
+      "spanish": "La tendencia a sobreestimar tu propia competencia se llama efecto Dunning-Kruger.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "08e1f415f53b835f",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "learning",
+        "make_it_stick",
+        "source::make_it_stick"
+      ]
+    },
+    "content": {
+      "scenario": "Make It Stick: Rule Learning 📚",
+      "text": "In learning, distinguishing between **example learning** and **rule learning** is crucial: {{c1::rule learning}} allows you to apply the concept to completely new scenarios.",
+      "explanation": "Example learning is shallow. Rule learning extracts the underlying pattern.",
+      "spanish": "En el aprendizaje, distinguir entre el aprendizaje de ejemplos y el aprendizaje de reglas es crucial: el de reglas permite aplicar el concepto a nuevos escenarios.",
+      "usage": "Don't just copy code templates. Master the design rules so you can write them from scratch."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "55dbbad94aaa67cf",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "productivity",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Definition 🗂️",
+      "text": "Tiago Forte defines a {{c1::Second Brain}} as an external, digital system to capture, organize, and retrieve information to free up cognitive capacity for creativity.",
+      "explanation": "The human brain is optimized for processing, creating, and connecting ideas, not for storing thousands of files and tasks. Offloading memory to a digital tool reduces stress and boosts creativity.",
+      "spanish": "Tiago Forte define un Segundo Cerebro como un sistema digital externo para capturar, organizar y recuperar información.",
+      "usage": "Use note-taking apps (Obsidian, Notion) as your external database."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "389cb4f06abe47f7",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "productivity",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: CODE Framework 🗂️",
+      "text": "The operational workflow of the Second Brain is the **CODE** framework: {{c1::Capture}}, {{c2::Organize}}, {{c3::Distill}}, and {{c4::Express}}.",
+      "explanation": "These four steps represent the lifecycle of information as you collect it and transform it into useful output.",
+      "spanish": "El flujo de trabajo operativo del Segundo Cerebro es el marco 'CODE': Capture, Organize, Distill, y Express.",
+      "usage": "Capture notes -> Organize using PARA -> Distill using Progressive Summarization -> Express by sharing your work."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "250d57287b080920",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "para",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: PARA Method 🗂️",
+      "text": "To organize information by actionability, Tiago Forte created the **PARA** method: {{c1::Projects}}, {{c2::Areas}}, {{c3::Resources}}, and {{c4::Archives}}.",
+      "explanation": "Instead of organizing by subject, PARA organizes by when the information will be used. This ensures your notes are always ready for action.",
+      "spanish": "Para organizar la información por su nivel de acción, Tiago Forte creó el método 'PARA': Projects, Areas, Resources, y Archives.",
+      "usage": "Folder structure: 1. Projects (active tasks with deadlines), 2. Areas (ongoing responsibilities), 3. Resources (topics of interest), 4. Archives (inactive items)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d79bd203423e1ca9",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "para",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Projects 🗂️",
+      "text": "Under PARA, a {{c1::Project}} is a series of tasks linked to a goal, with a specific deadline or completion criteria.",
+      "explanation": "Projects are highly actionable and require immediate focus. Examples: 'Launch website', 'Submit tax return'.",
+      "spanish": "Bajo PARA, un Proyecto (Project) es una serie de tareas vinculadas a una meta, con una fecha límite o criterio de finalización específico.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "34e5bbf8d820151c",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "para",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Areas 🗂️",
+      "text": "Under PARA, an {{c1::Area}} is a sphere of activity with a standard to be maintained over time, without a final deadline.",
+      "explanation": "Areas represent ongoing responsibilities. Examples: 'Health', 'Finance', 'Product management', 'Home maintenance'.",
+      "spanish": "Bajo PARA, un Área (Area) es una esfera de actividad con un estándar a mantener a lo largo del tiempo, sin una fecha límite final.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "522e5d8168a5bfde",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "para",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Resources 🗂️",
+      "text": "Under PARA, a {{c1::Resource}} is a topic or theme of ongoing interest, research, or utility.",
+      "explanation": "Resources contain information that might be useful for future projects. Examples: 'Python coding tips', 'Web design templates', 'Travel options'.",
+      "spanish": "Bajo PARA, un Recurso (Resource) es un tema de interés continuo, investigación o utilidad.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "506cf99cf41d1901",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "para",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Archives 🗂️",
+      "text": "Under PARA, {{c1::Archives}} contain inactive items from the other three categories that you want to keep for future reference.",
+      "explanation": "Moving completed projects or outdated responsibilities to Archives keeps your active space clean and focused, preventing digital clutter.",
+      "spanish": "Bajo PARA, los Archivos (Archives) contienen elementos inactivos de las otras tres categorías que deseas conservar para referencia futura.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "db2e708b50d9a132",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "capture",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Capture Criteria 🗂️",
+      "text": "When capturing information, you should only save things that resonate with you or have immediate utility, a concept called the {{c1::Resonance Test}}.",
+      "explanation": "If you try to capture everything, you will get overwhelmed. Capture only what feels surprising, useful, or inspiring.",
+      "spanish": "Al capturar información, solo debes guardar lo que resuene contigo o tenga utilidad inmediata, conocido como el test de resonancia.",
+      "usage": "Ask yourself: 'Does this inspire me? Is this highly unique? Is this useful for an active project?'"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7161f81bd744002e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "distill",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Progressive Summarization 🗂️",
+      "text": "To distill notes without losing context, use {{c1::Progressive Summarization}}—layering highlights over time based on when you review the note.",
+      "explanation": "Allows you to compress the note's core value progressively, so you can read it in 10 seconds in the future.",
+      "spanish": "Para destilar notas sin perder el contexto, utiliza la resumación progresiva: aplicar capas de resaltado a lo largo del tiempo.",
+      "usage": "Layers: Layer 1 (raw text), Layer 2 (bold key phrases), Layer 3 (highlight key sentences), Layer 4 (executive summary at the top)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e80af72937d38aed",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "express",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Intermediate Packets 🗂️",
+      "text": "To make expression easier, break projects down into {{c1::Intermediate Packets}}—small, reusable chunks of work (like code templates, meeting notes, or checklists).",
+      "explanation": "Instead of starting every project from scratch, you assemble it using existing blocks from your Second Brain.",
+      "spanish": "Para facilitar la expresión, divide los proyectos en paquetes intermedios (Intermediate Packets): pequeños fragmentos de trabajo reutilizables.",
+      "usage": "Save a clean boilerplate of an API router as an Intermediate Packet in your Resources folder."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8f8f56f0bdf5ea3d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "creativity",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Divergence and Convergence 🗂️",
+      "text": "Creative work alternates between {{c1::divergence}} (opening up options, gathering resources, researching) and {{c2::convergence}} (narrowing focus, editing, and producing the final product).",
+      "explanation": "CODE maps to this cycle: Capture/Organize are divergent; Distill/Express are convergent. Don't try to edit while researching.",
+      "spanish": "El trabajo creativo alterna entre la divergencia (abrir opciones, investigar) y la convergencia (reducir el enfoque, producir).",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "82944e1e5747ccb2",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "express",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Archipelago of Ideas 🗂️",
+      "text": "Before writing or coding, gather all your reference notes and place them in a document to create an {{c1::Archipelago of Ideas}}, which serves as a draft outline.",
+      "explanation": "Prevents writer's block by ensuring you never start with a blank screen. You just connect the existing dots.",
+      "spanish": "Antes de escribir, reúne tus notas de referencia en un documento para crear un Archipiélago de Ideas, que sirve como borrador.",
+      "usage": "Copy-paste relevant snippets, links, and code examples into a temporary file before writing a technical post."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "08f3974bd31b234d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "productivity",
+        "psychology",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Cathedral Effect 🗂️",
+      "text": "The psychological finding that physical space impacts thinking is the {{c1::Cathedral Effect}}: high ceilings promote abstract creativity, while low ceilings promote detail-oriented focus.",
+      "explanation": "Digital environments behave similarly. A cluttered desktop causes cognitive load and limits creative thinking.",
+      "spanish": "El hallazgo de que el espacio físico influye en el pensamiento se llama Efecto Catedral: los techos altos promueven la creatividad abstracta.",
+      "usage": "Keep your desktop and active folders clean. Archive everything that isn't active."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8e6d4179b346bfc8",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "productivity",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Slow Burns 🗂️",
+      "text": "Instead of 'heavy lifts' (working on a project in one giant, exhausting session), use {{c1::slow burns}}—working on it incrementally over days or weeks in the background.",
+      "explanation": "Slow burns allow your diffuse mode of thinking to work in the background, making the creative process effortless.",
+      "spanish": "En lugar de esfuerzos pesados en una sola sesión, utiliza quemas lentas (slow burns): trabajar en proyectos de forma incremental.",
+      "usage": "Capture ideas for a new feature over a week, instead of sitting down to design it all in one night."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6c4a73a6212d17ae",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "productivity",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Weekly Review 🗂️",
+      "text": "The maintenance ritual of clearing your inbox, organizing files into PARA, and planning the next week's focus is the {{c1::Weekly Review}}.",
+      "explanation": "Keeps your digital workspace from deteriorating into chaos. It rebuilds trust in your system.",
+      "spanish": "El ritual de mantenimiento para limpiar bandejas de entrada, organizar archivos en PARA y planificar es la Revisión Semanal.",
+      "usage": "Set aside 30 minutes every Friday to clear downloads, review active projects, and clean up active notes."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "380afa9726c240c2",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "search",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Digital Clutter 🗂️",
+      "text": "Search features in modern software make heavy hierarchical folder structures obsolete. Instead, rely on {{c1::search and tags}} for retrieval.",
+      "explanation": "Filing notes into deep subfolders takes time and increases friction. A flat folder structure combined with good search is faster.",
+      "spanish": "Las funciones de búsqueda hacen que las estructuras de carpetas profundas sean obsoletas. Confía en la búsqueda y las etiquetas.",
+      "usage": "Keep PARA folders shallow. Use tags for topics and search index for finding specific words."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3944032bf4819d73",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "productivity",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Information Overload 🗂️",
+      "text": "To prevent info-obesity, shift from being an **information consumer** to an {{c1::information producer}}, focusing on projects and output.",
+      "explanation": "Consuming content without creating anything leads to stress and lack of focus. Actionable learning is the cure.",
+      "spanish": "Para prevenir la sobrecarga de información, cambia de ser un consumidor de información a ser un productor de información.",
+      "usage": "Only capture information that is relevant to an active project or area of responsibility."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e3268c978d9a0588",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "assets",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Knowledge Assets 🗂️",
+      "text": "Your notes are not just reminders; they are {{c1::knowledge assets}}—compounded intellectual capital that increases in value over time.",
+      "explanation": "A well-maintained note collection serves as a personalized search engine that grows more valuable as you add connections.",
+      "spanish": "Tus notas no son solo recordatorios; son activos de conocimiento (knowledge assets) que aumentan su valor con el tiempo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2d04879ff6d6eec8",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "capture",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Habit of Capture 🗂️",
+      "text": "The habit of immediately offloading ideas and tasks from your mind to a digital inbox is the practice of {{c1::externalization}}.",
+      "explanation": "If you don't capture an idea immediately, your brain wastes cognitive energy trying to hold onto it, causing anxiety.",
+      "spanish": "El hábito de descargar inmediatamente ideas y tareas de tu mente a una bandeja de entrada digital es la práctica de externalización.",
+      "usage": "Use a quick-capture widget on your phone to jot down ideas instantly."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fa36fd0113737ad8",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "second_brain",
+        "distill",
+        "source::building_a_second_brain"
+      ]
+    },
+    "content": {
+      "scenario": "Second Brain: Progressive Summarization Rule 🗂️",
+      "text": "When distilling notes, the most important rule is to {{c1::not highlight everything}}, as this defeats the purpose of compression.",
+      "explanation": "If everything is highlighted, nothing is highlighted. Only bold or highlight 10-20% of the text at each layer.",
+      "spanish": "Al destilar notas, la regla más importante es no resaltar todo, ya que esto anula el propósito de la compresión.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b80b221f2f4f4101",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "learning",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Zettelkasten 🗂️",
+      "text": "The core technique in How to Take Smart Notes is the {{c1::Zettelkasten}} (Slip-box) system, developed by German sociologist Niklas Luhmann.",
+      "explanation": "A slip-box acts as an external thinking partner. It stores notes as atomic cards that are interconnected through links, creating a web of thought.",
+      "spanish": "La técnica central en How to Take Smart Notes es el sistema Zettelkasten (caja de fichas), desarrollado por Niklas Luhmann.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7f77b2b56b0b4d30",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "notes",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Fleeting Notes 🗂️",
+      "text": "In the slip-box system, {{c1::fleeting notes}} are temporary reminders, ideas, or quick captures that must be processed within a day or two.",
+      "explanation": "These are messy notes captured on the go. They are discarded once their content is moved to permanent notes.",
+      "spanish": "En el sistema Zettelkasten, las notas fugaces (fleeting notes) son recordatorios temporales que deben procesarse pronto.",
+      "usage": "Use a notepad or quick voice memo to write down a sudden idea while walking."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b37c18ce5bc6752b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "notes",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Literature Notes 🗂️",
+      "text": "When reading, you should take {{c1::literature notes}}—summarizing key arguments in your own words, keeping them short and citing the source.",
+      "explanation": "Do not copy quotes. Summarizing forces active processing. Keep them in a central index folder.",
+      "spanish": "Al leer, debes tomar notas de literatura (literature notes), resumiendo los argumentos clave en tus propias palabras.",
+      "usage": "Write a 2-sentence summary of a chapter on a card, with reference to page numbers."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "21974f61d326693e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "notes",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Permanent Notes 🗂️",
+      "text": "The core assets of the slip-box are {{c1::permanent notes}}—atomic, self-contained thoughts written in full sentences that can be understood on their own.",
+      "explanation": "Each permanent note contains exactly one idea. They are filed in the slip-box and connected to existing notes.",
+      "spanish": "Los activos principales del Zettelkasten son las notas permanentes: pensamientos atómicos escritos con oraciones completas.",
+      "usage": "Write a note: 'Spaced repetition works by retrieving memories just before they are forgotten.' Connect it to a note on neuroscience."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "74c84be2e147d0d3",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "structure",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Atomic Principle 🗂️",
+      "text": "The atomic principle states that each note must contain {{c1::only one idea}} so that it can be easily linked to other notes in different contexts.",
+      "explanation": "If a note contains multiple topics, linking to it becomes confusing and the structure loses flexibility.",
+      "spanish": "El principio atómico establece que cada nota debe contener solo una idea para que pueda enlazarse fácilmente.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "75eab388fa4d9488",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "links",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Interconnection 🗂️",
+      "text": "The value of a slip-box comes not from the number of notes, but from the {{c1::links between them}}.",
+      "explanation": "Linking notes replicates the neural structure of the brain. It allows you to discover surprising connections and patterns.",
+      "spanish": "El valor de un Zettelkasten no proviene del número de notas, sino de los enlaces entre ellas.",
+      "usage": "Use wiki-style links in Obsidian (e.g. [[Spaced Repetition]]) to connect related notes."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "66d16890cbd4d1e6",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "index",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Index 🗂️",
+      "text": "To find entry points into the web of notes, the slip-box uses an {{c1::index}}—a central document listing keywords and linking to key notes.",
+      "explanation": "The index does not catalog everything; it only provides starting points for different topics.",
+      "spanish": "Para encontrar puntos de entrada a la red de notas, el Zettelkasten utiliza un índice.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "71dbfc8992c845b9",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "philosophy",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Writing as Thinking 🗂️",
+      "text": "The book argues that writing is not the product of thinking; rather, writing is the {{c1::medium in which thinking takes place}}.",
+      "explanation": "You don't think first and then write. You think while writing, as the physical act of articulating thoughts exposes errors in logic.",
+      "spanish": "El libro sostiene que escribir no es el producto del pensamiento, sino el medio en el que ocurre el pensamiento.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "63f13e7def0a0cdb",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "structure",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Top-Down vs Bottom-Up 🗂️",
+      "text": "Instead of a top-down approach (creating folders and outlines first), the Zettelkasten is a {{c1::bottom-up}} system where structure emerges naturally from the notes.",
+      "explanation": "Creating folders first restricts your thinking. Letting notes accumulate and group naturally lets connections guide the outline.",
+      "spanish": "En lugar de un enfoque de arriba hacia abajo, el Zettelkasten es un sistema de abajo hacia arriba donde la estructura surge naturalmente.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4938d2a514df27de",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "workflow",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Standardized Workflow 🗂️",
+      "text": "To minimize cognitive friction, standardizing the {{c1::workflow of note-taking}} is essential, freeing up mental energy for actual thinking.",
+      "explanation": "If you have to think about 'where to save this' or 'what template to use' every time, you waste willpower.",
+      "spanish": "Para minimizar la fricción cognitiva, estandarizar el flujo de trabajo de la toma de notas es esencial.",
+      "usage": "Use a simple workflow: Quick capture on notepad -> convert to Obsidian atomic note at night -> link to 1-2 existing notes."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ee3c776673734023",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "philosophy",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Internal Communication 🗂️",
+      "text": "Luhmann described his slip-box as an independent partner with whom he could communicate, because the box often returned {{c1::unexpected connections}}.",
+      "explanation": "As the box grows, notes you wrote years ago connect with new inputs, generating novel ideas automatically.",
+      "spanish": "Luhmann describió su caja de fichas como un socio independiente con el que podía comunicarse debido a las conexiones inesperadas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cf61ad942f897c98",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "notes",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Fleeting Notes Disposal 🗂️",
+      "text": "Fleeting notes should be {{c1::deleted or archived}} once they are processed into permanent notes.",
+      "explanation": "Keeping messy fleeting notes clutters your inbox and increases cognitive noise.",
+      "spanish": "Las notas fugaces deben eliminarse o archivarse una vez que se procesan en notas permanentes.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e4fe4183bb02050d",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "notes",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Self-Explaining 🗂️",
+      "text": "Permanent notes must be written as if for a {{c1::stranger}}, explaining the context fully and using clear, unambiguous sentences.",
+      "explanation": "You will forget the context in a few months. If the note is not self-contained, it will become useless.",
+      "spanish": "Las notas permanentes deben escribirse como si fueran para un extraño, explicando el contexto por completo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "39c7145e91df7961",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "structure",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Literature Notes Location 🗂️",
+      "text": "Keep literature notes separated from permanent notes, using the literature notes as a references list or {{c1::bibliography database}}.",
+      "explanation": "Separation keeps the slip-box clean. The slip-box holds ideas; the bibliography holds references.",
+      "spanish": "Mantén las notas de literatura separadas de las notas permanentes, utilizándolas como una base de datos bibliográfica.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9ad9ec49d185d5f8",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "links",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Index Entry 🗂️",
+      "text": "When adding a note to the slip-box, always search for at least {{c1::one existing note}} to link it to, ensuring it becomes part of the web.",
+      "explanation": "An isolated note is a dead note. It will be forgotten because there is no path leading to it.",
+      "spanish": "Al agregar una nota al Zettelkasten, busca siempre al menos una nota existente para enlazarla.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6f93809d80cef286",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "filing",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Context over Category 🗂️",
+      "text": "In a slip-box, focus on the {{c1::context of retrieval}} rather than the category of filing. Ask: 'In what situation will I want to find this note?'",
+      "explanation": "Filing by topic (e.g. 'History') is too broad. Filing by use case (e.g. 'Examples of memory palaces') is highly actionable.",
+      "spanish": "En un Zettelkasten, enfócate en el contexto de recuperación en lugar de la categoría de archivo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "aae7b1e604ff1694",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "writing",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Habit of Writing 🗂️",
+      "text": "The primary indicator of academic productivity is the habit of daily {{c1::scholarly writing}}, not the volume of reading.",
+      "explanation": "Reading without writing is consumer behavior. Writing forces structure and exposes limits of understanding.",
+      "spanish": "El indicador principal de la productividad académica es el hábito de escribir diariamente.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "368a84bce153cf18",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "productivity",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Cognitive Load 🗂️",
+      "text": "By offloading the storage of ideas to the slip-box, you reduce {{c1::cognitive load}}, allowing your working memory to focus entirely on reasoning.",
+      "explanation": "Similar to GTD (Getting Things Done), externalizing ideas keeps the mind calm and alert.",
+      "spanish": "Al transferir el almacenamiento de ideas al Zettelkasten, reduces la carga cognitiva.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0a199889a7af7c43",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "history",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Luhmann's Card Format 🗂️",
+      "text": "Luhmann's physical slip-box used a unique numbering system (e.g., 1, 1a, 1a1) that allowed him to insert new cards {{c1::anywhere in the sequence}}, enabling infinite branching.",
+      "explanation": "Digital wikilinks replicate this numbering system without needing physical codes.",
+      "spanish": "El Zettelkasten físico de Luhmann usaba un sistema de numeración único que le permitía insertar tarjetas en cualquier parte.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "21436779a217cf14",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "zettelkasten",
+        "notes",
+        "source::how_to_take_smart_notes"
+      ]
+    },
+    "content": {
+      "scenario": "Smart Notes: Permanent Notes Rule 🗂️",
+      "text": "Every permanent note must have a reference back to the {{c1::literature note}} or source it was derived from.",
+      "explanation": "Ensures you can always double-check the source material to prevent misinterpretation or copyright issues.",
+      "spanish": "Cada nota permanente debe tener una referencia a la nota de literatura de la que se derivó.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "815f6f2ac3c82ff4",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "learning",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Definition 🚀",
+      "text": "Scott Young defines {{c1::Ultralearning}} as a strategy for aggressive, self-directed learning of complex skills to achieve high competence in minimal time.",
+      "explanation": "It is self-directed (you decide what and how to learn) and aggressive (focused, intensive effort instead of passive, slow study).",
+      "spanish": "Scott Young define el Ultralearning como una estrategia para el aprendizaje agresivo y autodirigido de habilidades complejas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7f06c3bdd4883c3a",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "metalearning",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Principle 1 - Metalearning 🚀",
+      "text": "The first principle of Ultralearning is {{c1::Metalearning}}—learning how the subject or skill is structured before you start studying.",
+      "explanation": "Spend 10% of your total study time researching the field. Map out the concepts, facts, and procedures needed for mastery.",
+      "spanish": "El primer principio de Ultralearning es el Meta-aprendizaje: aprender cómo está estructurado el tema antes de estudiar.",
+      "usage": "Before learning a new framework, research which concepts are foundational and what projects are best for practice."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7e402f88b7b0f0fb",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "focus",
+        "ultralearning",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Principle 2 - Focus 🚀",
+      "text": "The second principle is {{c1::Focus}}—carving out dedicated chunks of time to concentrate deeply, avoiding distraction and task-switching.",
+      "explanation": "Focus requires defeating procrastination, finding flow, and sustaining attention on cognitive difficulties.",
+      "spanish": "El segundo principio es el Enfoque: reservar bloques de tiempo dedicados a concentrarse profundamente.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "beab52dac1249c81",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "directness",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Principle 3 - Directness 🚀",
+      "text": "The third principle is {{c1::Directness}}—learning by doing the actual thing you want to be good at, rather than using transfer applications or theoretical substitutes.",
+      "explanation": "If you want to speak a language, speak it immediately. If you want to code, build projects immediately. Theoretical study has very low transfer.",
+      "spanish": "El tercer principio es la Directividad: aprender haciendo la actividad real en la que deseas destacar.",
+      "usage": "Build a real web app instead of just watching 50 hours of programming tutorials."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "afe686f4e3d2fcc3",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "drills",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Principle 4 - Drill 🚀",
+      "text": "The fourth principle is {{c1::Drill}}—isolating your weakest sub-skills, practicing them intensively until they improve, and reintegrating them into the main skill.",
+      "explanation": "Identify the bottleneck. If you struggle with CSS layout, spend 3 days doing only CSS drills, then return to full web design.",
+      "spanish": "El cuarto principio es el Entrenamiento (Drill): aislar tus subhabilidades más débiles y practicarlas intensamente.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "76af782b23c1813b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "retrieval",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Principle 5 - Retrieval 🚀",
+      "text": "The fifth principle is {{c1::Retrieval}}—testing yourself constantly to recall information from memory, which builds stronger neural connections.",
+      "explanation": "Active retrieval outperforms review. Use practice tests, write notes from memory, or use flashcards.",
+      "spanish": "El quinto principio es la Recuperación: evaluarte a ti mismo constantemente para recordar información de la memoria.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1c99e25068198e6a",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "feedback",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Principle 6 - Feedback 🚀",
+      "text": "The sixth principle is {{c1::Feedback}}—seeking immediate, objective, and sometimes harsh feedback to correct errors and calibrate performance.",
+      "explanation": "Distinguish between outcome feedback (knowing if you failed) and informational feedback (knowing why you failed).",
+      "spanish": "El sexto principio es la Retroalimentación (Feedback): buscar retroalimentación inmediata y objetiva.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "57176aa103badcbb",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "retention",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Principle 7 - Retention 🚀",
+      "text": "The seventh principle is {{c1::Retention}}—understanding why we forget (decay, interference) and building systems to prevent it.",
+      "explanation": "Use spaced repetition, active recall, or overlearning to maintain high retention over time.",
+      "spanish": "El séptimo principio es la Retención: entender por qué olvidamos y construir sistemas para prevenirlo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "aefae5fc407232f5",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "intuition",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Principle 8 - Intuition 🚀",
+      "text": "The eighth principle is {{c1::Intuition}}—developing a deep, structural understanding of concepts by exploring them thoroughly, rather than memorizing surface facts.",
+      "explanation": "Ask 'why' things work. Use the Feynman technique (explaining the concept to a child) to expose gaps in your intuition.",
+      "spanish": "El octavo principio es la Intuición: desarrollar una comprensión profunda e intuitiva de los conceptos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c1730827f54a0b96",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "experimentation",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Principle 9 - Experimentation 🚀",
+      "text": "The ninth principle is {{c1::Experimentation}}—exploring different materials, methods, and styles to find the best way to apply your skills once you reach a plateau.",
+      "explanation": "As you reach intermediate levels, copying others is not enough. You must experiment to find your own unique style and solutions.",
+      "spanish": "El noveno principio es la Experimentación: explorar diferentes métodos y estilos para superar mesetas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "43cc11bfd0aaa765",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "overlearning",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Overlearning 🚀",
+      "text": "To achieve automaticity under stress, you must practice {{c1::overlearning}}—continuing to practice key procedures beyond initial mastery.",
+      "explanation": "Builds robust muscle memory or automatic cognitive responses that don't drain working memory slots under pressure.",
+      "spanish": "Para lograr la automaticidad bajo estrés, debes practicar el sobreaprendizaje.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "33dfb848a7e6b3f0",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "feynman",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Feynman Technique 🚀",
+      "text": "The {{c1::Feynman Technique}} is a method where you write down an explanation of a concept as if you were teaching it to a complete beginner or a child.",
+      "explanation": "Forces you to simplify vocabulary and avoid jargon. If you get stuck or use complex words, it highlights a gap in your own understanding.",
+      "spanish": "La Técnica Feynman es un método donde escribes una explicación de un concepto como si se lo enseñaras a un niño.",
+      "usage": "Write a 1-paragraph explanation of 'recursion' without using the word 'stack' or 'function call'."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "483aa112f38212bd",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "transfer",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Transfer 🚀",
+      "text": "In education, {{c1::transfer}} is the ability to apply a skill learned in one context to a completely different context. It is notoriously difficult to achieve naturally.",
+      "explanation": "Most learning is highly context-dependent. Directness is the only reliable way to ensure transfer.",
+      "spanish": "En la educación, la transferencia es la capacidad de aplicar una habilidad aprendida en un contexto a otro diferente.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5a8edeafd0deb718",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "metalearning",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Metalearning Map 🚀",
+      "text": "When mapping a subject during Metalearning, split the content into three categories: {{c1::Concepts}} (what needs to be understood), {{c2::Facts}} (what needs to be memorized), and {{c3::Procedures}} (what needs to be practiced).",
+      "explanation": "Allows you to select the correct learning tool for each category (e.g. Feynman for concepts, Anki for facts, drills for procedures).",
+      "spanish": "Al mapear un tema, divide el contenido en tres categorías: Conceptos, Hechos y Procedimientos.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5a8307d54781ebc8",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "planning",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: The Rule of 10% 🚀",
+      "text": "Spend {{c1::10%}} of your total planned project time on Metalearning and planning before you write or study a single card.",
+      "explanation": "If your project is 100 hours, spend 10 hours researching resources, mapping the curriculum, and structuring drills.",
+      "spanish": "Dedica el 10% del tiempo total planificado del proyecto al meta-aprendizaje antes de empezar a estudiar.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d8a85df3444065e7",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "feedback",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Informational Feedback 🚀",
+      "text": "When seeking feedback, focus on {{c1::informational feedback}}—which tells you exactly *what* went wrong and *how* to correct it.",
+      "explanation": "Outcome feedback (knowing you got a C on an exam) is not actionable. Informational feedback (knowing you missed a step in the algorithm) guides corrections.",
+      "spanish": "Al buscar retroalimentación, enfócate en la retroalimentación informativa, que te dice exactamente qué salió mal.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e5a6ca015949943b",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "retention",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Memory Decay 🚀",
+      "text": "To prevent memory decay, schedule regular {{c1::refresh sessions}} or integrate the skill into your daily job routines.",
+      "explanation": "Use-it-or-lose-it is a biological reality in brain wiring. Spaced repetition maintains the connection.",
+      "spanish": "Para prevenir el deterioro de la memoria, programa sesiones de actualización regulares.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "804a24124a95bf47",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "recall",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Deliberate Difficulty 🚀",
+      "text": "Ultralearners seek out {{c1::deliberate difficulty}} by choosing active practice over passive study, even though it feels harder and slower.",
+      "explanation": "Because active recall and generation feel difficult, they produce far more durable memory traces.",
+      "spanish": "Los ultralearners buscan la dificultad deliberada al elegir la práctica activa sobre el estudio pasivo.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0f23b27687e8b93e",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "self_directed",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Self-Directed learning 🚀",
+      "text": "The core advantage of self-directed learning is that you can {{c1::customize the curriculum}} to fit your specific goals, rather than following a rigid school textbook.",
+      "explanation": "You don't waste time on irrelevant side topics, maximizing learning efficiency.",
+      "spanish": "La ventaja principal del aprendizaje autodirigido es que puedes personalizar el plan de estudios según tus metas.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4027797ca9340818",
+    "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "06_Business_and_Productivity",
+      "tags": [
+        "books_path",
+        "ultralearning",
+        "drills",
+        "source::ultralearning"
+      ]
+    },
+    "content": {
+      "scenario": "Ultralearning: Drill Strategy 🚀",
+      "text": "To execute a drill, use the **Direct-Drill-Direct** loop: practice the direct skill, identify a bottleneck, {{c1::drill the bottleneck isolated}}, and return to direct practice.",
+      "explanation": "Keeps drills relevant and ensures they successfully transfer back into the main skill.",
+      "spanish": "Para realizar un drill, usa el bucle Direct-Drill-Direct: practica la habilidad, aísla el cuello de botella, entrénalo y regresa.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

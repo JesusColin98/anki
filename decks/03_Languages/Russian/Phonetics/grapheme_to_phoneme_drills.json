@@ -1,0 +1,664 @@
+[
+  {
+    "id": "f9f60c2d1a5dafa2",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Vowel Reduction}} is defined as: - **Akanje**: Unstressed /o/ and /a/ both sound like [ɐ] or [ə] (e.g., *молоко* [məlɐˈko]).",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Vowel Reduction' es: - **Akanje**: Unstressed /o/ and /a/ both sound like [ɐ] or [ə] (e.g., *молоко* [məlɐˈko]).",
+      "usage": "Rule: <code>Vowel Reduction</code><br>Description: - **Akanje**: Unstressed /o/ and /a/ both sound like [ɐ] or [ə] (e.g., *молоко* [məlɐˈko])."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9a36fe1b917dcf0b",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Ikanje}} is defined as: Unstressed /e/ and /i/ merge into [ɪ].",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Ikanje' es: Unstressed /e/ and /i/ merge into [ɪ].",
+      "usage": "Rule: <code>Ikanje</code><br>Description: Unstressed /e/ and /i/ merge into [ɪ]."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1c0991919375a34b",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::The vowel /ɨ/ (ы)}} is defined as: A central close vowel that sounds like a retracted 'i'.",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'The vowel /ɨ/ (ы)' es: A central close vowel that sounds like a retracted 'i'.",
+      "usage": "Rule: <code>The vowel /ɨ/ (ы)</code><br>Description: A central close vowel that sounds like a retracted 'i'."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bf0f9bf8f7b04536",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Hard vs. Soft}} is defined as: The most important feature. Soft consonants are produced with the tongue raised toward the hard palate.",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Hard vs. Soft' es: The most important feature. Soft consonants are produced with the tongue raised toward the hard palate.",
+      "usage": "Rule: <code>Hard vs. Soft</code><br>Description: The most important feature. Soft consonants are produced with the tongue raised toward the hard palate."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "921be1ee786384a8",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Final-Devoicing}} is defined as: Voiced consonants become voiceless at the end of a word (e.g., *друг* [druk]).",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Final-Devoicing' es: Voiced consonants become voiceless at the end of a word (e.g., *друг* [druk]).",
+      "usage": "Rule: <code>Final-Devoicing</code><br>Description: Voiced consonants become voiceless at the end of a word (e.g., *друг* [druk])."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7baaefc1209b3ebc",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Regressive Assimilation}} is defined as: Consonants often match the voicing of the following consonant (e.g., *вход* [f xot]).",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Regressive Assimilation' es: Consonants often match the voicing of the following consonant (e.g., *вход* [f xot]).",
+      "usage": "Rule: <code>Regressive Assimilation</code><br>Description: Consonants often match the voicing of the following consonant (e.g., *вход* [f xot])."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6d47d739e31805f4",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Vowel Reduction (Akanje & Ikanje)}} is defined as: Unstressed vowels undergo extreme reduction:",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Vowel Reduction (Akanje & Ikanje)' es: Unstressed vowels undergo extreme reduction:",
+      "usage": "Rule: <code>Vowel Reduction (Akanje & Ikanje)</code><br>Description: Unstressed vowels undergo extreme reduction:"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "15c722dbf580b641",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Akanje}} is defined as: Unstressed /o/ and /a/ are pronounced as [ɐ] in the syllable immediately preceding stress, and as [ə] in other unstressed syllables (e.g., *молоко* -> [məlɐˈko], *хорошо* -> [xərɐˈʂo]).",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Akanje' es: Unstressed /o/ and /a/ are pronounced as [ɐ] in the syllable immediately preceding stress, and as [ə] in other unstressed syllables (e.g., *молоко* -> [məlɐˈko], *хорошо* -> [xərɐˈʂo]).",
+      "usage": "Rule: <code>Akanje</code><br>Description: Unstressed /o/ and /a/ are pronounced as [ɐ] in the syllable immediately preceding stress, and as [ə] in other unstressed syllables (e.g., *молоко* -> [məlɐˈko], *хорошо* -> [xərɐˈʂo])."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9d8b05078bf087e5",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Ikanje}} is defined as: Unstressed /e/ and /i/ (and /a/ after soft consonants) merge and reduce to a short [ɪ] sound (e.g., *часы* -> [tɕɪˈsɨ]).",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Ikanje' es: Unstressed /e/ and /i/ (and /a/ after soft consonants) merge and reduce to a short [ɪ] sound (e.g., *часы* -> [tɕɪˈsɨ]).",
+      "usage": "Rule: <code>Ikanje</code><br>Description: Unstressed /e/ and /i/ (and /a/ after soft consonants) merge and reduce to a short [ɪ] sound (e.g., *часы* -> [tɕɪˈsɨ])."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "417c54407d46a052",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Final-Obstruent Devoicing}} is defined as: Voiced stops and fricatives become completely voiceless at the end of a word (e.g., *друг* -> [druk] (g -> k), *глаз* -> [glas] (z -> s), *хлеб* -> [xlʲep] (b -> p)).",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Final-Obstruent Devoicing' es: Voiced stops and fricatives become completely voiceless at the end of a word (e.g., *друг* -> [druk] (g -> k), *глаз* -> [glas] (z -> s), *хлеб* -> [xlʲep] (b -> p)).",
+      "usage": "Rule: <code>Final-Obstruent Devoicing</code><br>Description: Voiced stops and fricatives become completely voiceless at the end of a word (e.g., *друг* -> [druk] (g -> k), *глаз* -> [glas] (z -> s), *хлеб* -> [xlʲep] (b -> p))."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d7f2b613497794d8",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Regressive Voicing Assimilation}} is defined as: A consonant matches the voicing of the consonant directly following it:",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Regressive Voicing Assimilation' es: A consonant matches the voicing of the consonant directly following it:",
+      "usage": "Rule: <code>Regressive Voicing Assimilation</code><br>Description: A consonant matches the voicing of the consonant directly following it:"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "70ba7a75604467f9",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Voicing}} is defined as: Voiceless becomes voiced before voiced consonants (except /v/) (e.g., *сделать* -> [ˈzʲdʲelətʲ] (s -> z)).",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Voicing' es: Voiceless becomes voiced before voiced consonants (except /v/) (e.g., *сделать* -> [ˈzʲdʲelətʲ] (s -> z)).",
+      "usage": "Rule: <code>Voicing</code><br>Description: Voiceless becomes voiced before voiced consonants (except /v/) (e.g., *сделать* -> [ˈzʲdʲelətʲ] (s -> z))."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "650532c52301f3e8",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Devoicing}} is defined as: Voiced becomes voiceless before voiceless consonants (e.g., *вход* -> [fxot] (v -> f), *водка* -> [ˈvotkə] (d -> t)).",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Devoicing' es: Voiced becomes voiceless before voiceless consonants (e.g., *вход* -> [fxot] (v -> f), *водка* -> [ˈvotkə] (d -> t)).",
+      "usage": "Rule: <code>Devoicing</code><br>Description: Voiced becomes voiceless before voiceless consonants (e.g., *вход* -> [fxot] (v -> f), *водка* -> [ˈvotkə] (d -> t))."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5dd02dd911c5e589",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Consonant Cluster Simplification}} is defined as: Complex clusters drop sounds in rapid speech for ease of articulation:",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Consonant Cluster Simplification' es: Complex clusters drop sounds in rapid speech for ease of articulation:",
+      "usage": "Rule: <code>Consonant Cluster Simplification</code><br>Description: Complex clusters drop sounds in rapid speech for ease of articulation:"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d180dcb9432518f7",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Word Stress}} is defined as: Highly unpredictable and mobile. Stress can shift when a word is declined or conjugated.",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Word Stress' es: Highly unpredictable and mobile. Stress can shift when a word is declined or conjugated.",
+      "usage": "Rule: <code>Word Stress</code><br>Description: Highly unpredictable and mobile. Stress can shift when a word is declined or conjugated."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cd2becf6e202925c",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Phonemic Stress}} is defined as: Stress can distinguish meaning (e.g., *за́мок* \"castle\" vs *замо́к* \"lock\").",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Phonemic Stress' es: Stress can distinguish meaning (e.g., *за́мок* \"castle\" vs *замо́к* \"lock\").",
+      "usage": "Rule: <code>Phonemic Stress</code><br>Description: Stress can distinguish meaning (e.g., *за́мок* \"castle\" vs *замо́к* \"lock\")."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b56dc36fa5f54716",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, the rule of {{c1::Sentence Intonation}} is defined as: Russian has several distinct intonation constructions (IK) for different sentence types.",
+      "explanation": "Phonetics and pronunciation guide for Russian.",
+      "spanish": "En la fonética de Russian, la regla de 'Sentence Intonation' es: Russian has several distinct intonation constructions (IK) for different sentence types.",
+      "usage": "Rule: <code>Sentence Intonation</code><br>Description: Russian has several distinct intonation constructions (IK) for different sentence types."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "76889a7ee8d2be70",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics Tips 💡",
+      "text": "What is the Russian pronunciation shortcut/tip for {{c1::The \"Khorosho\" Vowel Reduction}}? Never pronounce \"хорошо\" as \"ho-ro-sho\". Follow the Akanje rule: the first 'o' is a tiny grunt [ə], the second 'o' is a short 'a' [ɐ], and only the last 'o' is a full 'o' [o] because it is stressed: say \"xə-ra-shó\".",
+      "explanation": "Pronunciation tip/shortcut for Russian.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de Russian para 'The \"Khorosho\" Vowel Reduction'? Never pronounce \"хорошо\" as \"ho-ro-sho\". Follow the Akanje rule: the first 'o' is a tiny grunt [ə], the second 'o' is a short 'a' [ɐ], and only the last 'o' is a full 'o' [o] because it is stressed: say \"xə-ra-shó\".",
+      "usage": "Tip: <code>The \"Khorosho\" Vowel Reduction</code><br>Never pronounce \"хорошо\" as \"ho-ro-sho\". Follow the Akanje rule: the first 'o' is a tiny grunt [ə], the second 'o' is a short 'a' [ɐ], and only the last 'o' is a full 'o' [o] because it is stressed: say \"xə-ra-shó\"."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bf8b4b26d76907bf",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics",
+        "tips"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics Tips 💡",
+      "text": "What is the Russian pronunciation shortcut/tip for {{c1::The Silent Letters}}? In long Russian words like \"здравствуйте\" or \"солнце\", don't try to pronounce every letter. Drop the silent consonants ('в' and 'л' respectively) to sound like a native.",
+      "explanation": "Pronunciation tip/shortcut for Russian.",
+      "spanish": "¿Cuál es el atajo/consejo de pronunciación de Russian para 'The Silent Letters'? In long Russian words like \"здравствуйте\" or \"солнце\", don't try to pronounce every letter. Drop the silent consonants ('в' and 'л' respectively) to sound like a native.",
+      "usage": "Tip: <code>The Silent Letters</code><br>In long Russian words like \"здравствуйте\" or \"солнце\", don't try to pronounce every letter. Drop the silent consonants ('в' and 'л' respectively) to sound like a native."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1818fe2fce95d495",
+    "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "languages_path",
+        "russian",
+        "phonetics"
+      ]
+    },
+    "content": {
+      "scenario": "Russian Phonetics 🗣️",
+      "text": "In Russian phonetics, unstressed vowels undergo **reduction**. For example, the letter 'о' when unstressed is pronounced like {{c1::а}} (/a/ or /ə/). E.g. *хорошо* (well) is pronounced {{c2::/xərɐˈʂo/}} (khara-sho).",
+      "explanation": "Vowel reduction is key to a native Russian accent. Only the stressed 'о' gets a full 'o' sound.",
+      "spanish": "En la fonética rusa, las vocales átonas se reducen. La letra 'о' sin acento prosódico se pronuncia como una 'а'. Ej. 'хорошо' se pronuncia /xərɐˈʂo/ (jara-shó).",
+      "usage": "Rule: Unstressed O reduction. Example: <code>молоко</code> (milk) -> pronounced /malakó/."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

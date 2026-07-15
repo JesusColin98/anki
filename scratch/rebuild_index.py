@@ -44,13 +44,24 @@ def rebuild():
             
         # Ensure all cards in this file have the correct deck name and required fields
         for card in cards:
-            card['deck'] = deck_name
-            if 'usage' not in card:
-                card['usage'] = ""
-            if 'scenario' not in card:
-                card['scenario'] = "Book Concept 📚"
-            if 'tags' not in card:
-                card['tags'] = []
+            if 'content' in card:
+                card['deck'] = deck_name
+                if 'usage' not in card['content']:
+                    card['content']['usage'] = ""
+                if 'scenario' not in card['content']:
+                    card['content']['scenario'] = "Book Concept 📚"
+                if 'metadata' not in card:
+                    card['metadata'] = {}
+                if 'tags' not in card['metadata']:
+                    card['metadata']['tags'] = []
+            else:
+                card['deck'] = deck_name
+                if 'usage' not in card:
+                    card['usage'] = ""
+                if 'scenario' not in card:
+                    card['scenario'] = "Book Concept 📚"
+                if 'tags' not in card:
+                    card['tags'] = []
             
         # Save back updated card list (just to be clean)
         with open(df, 'w', encoding='utf-8') as f:

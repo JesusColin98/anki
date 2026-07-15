@@ -1,0 +1,337 @@
+[
+  {
+    "id": "c199609c8932c3b4",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "mlops",
+        "observability",
+        "langsmith"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: Agentic Observability 🔍",
+      "text": "Observability tools like LangSmith track agent workflows by recording nested traces, calculating token usage, and visualizing {{c1::spans}} that represent {{c2::tool executions}}.",
+      "explanation": "Agentic workflows are non-deterministic and call multiple models and APIs in loops. Observability platforms capture traces (the execution path) and break them into spans (individual API calls or tool executions), making it easy to isolate where an agent crashed, hallucinated, or wasted tokens.",
+      "spanish": "Las herramientas de observabilidad como LangSmith rastrean los flujos agénticos al registrar trazas anidadas y visualizar 'spans' que representan las ejecuciones de herramientas.",
+      "usage": "Standard monitoring stack for debugging prompt latency and diagnosing failing agent agents."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "31e3cf0ed7ec1e3d",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "mlops",
+        "guardrails",
+        "nemo"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: Guardrails and Input Control 🛡️",
+      "text": "NVIDIA's {{c1::NeMo Guardrails}} enforces safety policies in LLM responses by using a domain-specific language called {{c2::Colang}} to define disallowed topics and dialog flows.",
+      "explanation": "Guardrail frameworks sit between the user and the LLM. Using Colang, developers define patterns for user input and model output. If the guardrail system detects a jailbreak attempt, or if the model tries to answer questions outside its defined scope, the interaction is blocked.",
+      "spanish": "NeMo Guardrails de NVIDIA hace cumplir políticas de seguridad en respuestas de LLMs utilizando un lenguaje específico de dominio llamado Colang para bloquear temas no deseados.",
+      "usage": "Required for building public-facing enterprise chatbots that must avoid controversial topics."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1079c12f5d263f8c",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "mlops",
+        "prompt_caching",
+        "inference"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: Prompt Caching Mechanics ⚡",
+      "text": "Prompt Caching reduces inferencing cost and latency by storing the {{c1::Key-Value (KV) cache}} of long system prompts and reusing them for queries that share the same {{c2::prefix context}}.",
+      "explanation": "For long-context queries (e.g. documentation, books, system templates), computing the KV matrix at every turn is slow and expensive. Prompt caching flags identical prefix tokens in GPU memory. Reusing this precomputed KV cache reduces Time-To-First-Token (TTFT) and cuts input costs.",
+      "spanish": "El almacenamiento en caché de prompts reduce los costos e inferencia y la latencia al guardar el KV cache de prompts del sistema largos y reutilizarlos para consultas con el mismo prefijo.",
+      "usage": "Highly effective for multi-turn conversational agents with massive system rules or documents."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "84d1097f56d8c916",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "mlops",
+        "vllm",
+        "inference_optimization"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: vLLM & Inference Runtimes 🚀",
+      "text": "To maximize GPU throughput, inference engines like vLLM implement {{c1::PagedAttention}}, which dynamically allocates KV cache memory in non-contiguous physical spaces, preventing {{c2::memory fragmentation}}.",
+      "explanation": "Static allocation of GPU memory for KV caches leads to severe fragmentation and limits batch sizes. PagedAttention borrows paging concepts from operating systems, dividing the KV cache into pages that can be stored anywhere in physical memory, boosting serving capacity.",
+      "spanish": "Para maximizar el rendimiento de la GPU, los motores de inferencia como vLLM implementan PagedAttention, que asigna dinámicamente la memoria KV en bloques no contiguos para evitar la fragmentación.",
+      "usage": "The standard open-source stack for serving LLMs at high concurrency."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a176258f9719b050",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "mlops",
+        "rlaif",
+        "dpo"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: Reinforcement Learning from AI Feedback (RLAIF) 🤖",
+      "text": "Instead of relying on human labelers, models are aligned using {{c1::RLAIF}}, where a supervisor model generates preference labels that are optimized using algorithms like {{c2::Direct Preference Optimization (DPO)}}.",
+      "explanation": "Traditional RLHF requires thousands of hours of human labeling, which is slow and hard to scale. RLAIF uses another LLM acting under a 'Constitution' to critique outputs. The preference data is then fed directly into DPO, which adjusts model weights directly without separate reward model training.",
+      "spanish": "En lugar de depender de etiquetadores humanos, los modelos se alinean usando RLAIF, donde un modelo supervisor genera etiquetas de preferencia optimizadas mediante algoritmos como DPO.",
+      "usage": "Used to align model safety, formatting compliance, and reasoning paths at scale."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9088bbe15d2b583e",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "mlops",
+        "security",
+        "pii"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: PII Redaction 🛡️",
+      "text": "To prevent models from leaking sensitive user information (like SSNs or credit cards) in their outputs, MLOps gateways execute {{c1::PII redaction}} filters.",
+      "explanation": "Personally Identifiable Information (PII) redaction uses named entity recognition (NER) or regular expressions to detect and replace sensitive data with placeholders (like <code>[REDACTED]</code>) before the response reaches the user.",
+      "spanish": "Para evitar que los modelos filtren información confidencial del usuario (como números de seguridad social o tarjetas de crédito) en sus respuestas, las pasarelas MLOps ejecutan filtros de redacción de PII (PII redaction).",
+      "usage": "Frameworks like Microsoft's <code>Presidio</code> are used in the MLOps pipeline to automate PII redaction."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7237a14eb6d8eccc",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "mlops",
+        "security",
+        "injection"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: Input Sanitization 🛡️",
+      "text": "To detect and block malicious prompt payloads designed to hijack the model's system prompt, gateways perform {{c1::prompt injection sanitization}}.",
+      "explanation": "Prompt injection sanitization checks incoming user requests for adversarial content (e.g. 'Ignore all previous instructions...'). If detected, the gateway blocks the request and returns a safety error.",
+      "spanish": "Para detectar y bloquear cargas útiles de prompts maliciosos diseñadas para secuestrar el prompt del sistema del modelo, las pasarelas realizan la desinfección de inyección de prompts (prompt injection sanitization).",
+      "usage": "Gateways use specialized classifier models (like Llama-Guard) to score inputs for prompt injection risk."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "eb5fe7c90d1b9f5b",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "mlops",
+        "security",
+        "firewall"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: Gateway Firewall 🛡️",
+      "text": "To enforce global usage policies, rate limits, and audit logging across all internal LLM integrations, organizations set up a centralized {{c1::LLM gateway firewall}}.",
+      "explanation": "An LLM gateway firewall acts as an API proxy. It intercepts all model requests and responses, injecting safety filters, tracing logs, and enforcing organizational compliance.",
+      "spanish": "Para hacer cumplir las políticas de uso global, los límites de velocidad y el registro de auditoría en todas las integraciones internas de LLM, las organizaciones configuran un cortafuegos de pasarela LLM centralizado (LLM gateway firewall).",
+      "usage": "Open-source proxies like <code>LiteLLM</code> or <code>Portkey</code> function as LLM gateways for security management."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a68fb1291498991d",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "mlops",
+        "security",
+        "jailbreak"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: Jailbreak Detection 🛡️",
+      "text": "To classify if an input is attempting to bypass safety alignments through roleplay or cipher encodings, gateways run {{c1::adversarial jailbreak detection}}.",
+      "explanation": "Adversarial jailbreaks use complex wrapper prompts (like 'Do Anything Now' - DAN) or base64 encodings to bypass the LLM's safety filters. Jailbreak detectors evaluate the structural syntax of inputs to intercept these patterns.",
+      "spanish": "Para clasificar si una entrada está intentando eludir las alineaciones de seguridad a través de juegos de rol o codificaciones cifradas, las pasarelas ejecutan la detección de evasión de restricciones adversarias (adversarial jailbreak detection).",
+      "usage": "Jailbreak detection filters run in parallel with the user prompt token parsing step."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b413a74ee560032b",
+    "deck": "02_AI_and_Data_Science::Tech_Map_2026::06_mlops_guardrails.json::06_Mlops_Guardrails",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "mlops",
+        "security",
+        "limits"
+      ]
+    },
+    "content": {
+      "scenario": "MLOps: Rate Limiting 🛡️",
+      "text": "To protect costly model endpoints from denial-of-service (DoS) abuse and control costs, firewalls enforce {{c1::rate limiting}} on API tokens.",
+      "explanation": "Rate limiting restricts the number of API requests or total tokens processed per user within a specific timeframe (e.g. 1000 tokens per minute), throwing a 429 Too Many Requests error if exceeded.",
+      "spanish": "Para proteger los costosos puntos finales del modelo del abuso de denegación de servicio (DoS) y controlar los costos, los cortafuegos aplican limitación de velocidad (rate limiting) en los tokens de la API.",
+      "usage": "Implemented at the gateway using algorithms like Token Bucket or Leaky Bucket with Redis backends."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

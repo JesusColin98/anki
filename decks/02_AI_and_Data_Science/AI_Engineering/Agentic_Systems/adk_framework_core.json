@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "edc91dd39bafb1c9",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "architecture",
+        "agent_engine"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Architecture: Layered Isolation 🏗️",
+      "text": "When debugging ADK agents, isolate issues to three layers: the {{c1::ADK Framework}} coordinates system prompts and memory; the {{c2::Model Context Protocol (MCP)}} manages tool execution; and the {{c3::Agent Engine Runtime}} hosts the Cloud Run container.",
+      "explanation": "Isolating the issue to the correct layer prevents wasting time debugging Cloud Run container timeouts when the root cause is a local MCP schema mismatch.",
+      "spanish": "Al depurar agentes de ADK, aísle los problemas en tres capas: ADK Framework coordina prompts y memoria; MCP maneja la ejecución de herramientas; y Agent Engine Runtime aloja el contenedor.",
+      "usage": "Layer isolation check:<ul><li>Prompt/Memory -> ADK</li><li>Schema/Tool -> MCP</li><li>Permissions/VPC/Timeout -> Agent Engine Runtime</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e313b00707e5521d",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "architecture",
+        "tenant_project"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Architecture: Tenant Project 🏗️",
+      "text": "When you deploy an ADK agent using reasoning_engines.ReasoningEngine.create(), the container is deployed in a Google-managed {{c1::Tenant Project}} linked to your billing account.",
+      "explanation": "Because the agent container does not run directly in your User Project, certain low-level startup logs are not written to your project's Cloud Logging.",
+      "spanish": "Al implementar un agente de ADK, el contenedor se implementa en un Proyecto Inquilino (Tenant Project) administrado por Google.",
+      "usage": "Architecture: <code>User Project (GCS/IAM) &larr; VPC-SC/PSC &rarr; Tenant Project (Cloud Run Agent)</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "094663c994c6f95d",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "debugging",
+        "ucaip"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Architecture: Low-Level Debugging 🔍",
+      "text": "If your agent fails during container initialization (before it can write logs to your User Project), you must view logs using the {{c1::uCAIP Debug Console}} (go/ucaip-debug-console) or Sherlog.",
+      "explanation": "Container startup crashes (e.g. pickle import errors) occur before the user project logging sidecar initializes.",
+      "spanish": "Si tu agente falla durante la inicialización del contenedor, debes ver los registros usando la consola de depuración de uCAIP (go/ucaip-debug-console).",
+      "usage": "Tool: <code>go/ucaip-debug-console</code> (Internal Google Console)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4105beebe1883987",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "uls",
+        "piccolo"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Platform: Universal Language Settings 🌐",
+      "text": "To prevent {{c1::Piccolo}} routing validation errors when running background tasks, never delete dev roles to bypass ULS blocks; instead, ensure both prod and dev URIs are whitelisted.",
+      "explanation": "Whitelisting prod and dev URIs in the processors (e.g. supportability-themes and supportability-themes-dev-jobs) prevents routing blocks.",
+      "spanish": "Para evitar errores de validación de enrutamiento de Piccolo al ejecutar tareas en segundo plano, asegúrese de que tanto el URI de prod como el de dev estén en la lista blanca de ULS.",
+      "usage": "Config rule: <code>Never delete dev roles; ensure both URIs are whitelisted in data flow definitions.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c98a1d50a4a4f7dd",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "networking",
+        "vpc_sc",
+        "psc"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Networking: Ingress Routing 🔒",
+      "text": "To route traffic from the Cloud Run tenant container into your private VPC network securely, Orcas uses {{c1::Private Service Connect Interfaces (PSC-I)}}.",
+      "explanation": "If your User Project is inside a VPC Service Controls (VPC-SC) perimeter, PSC-I allows secure ingress crossing the boundary.",
+      "spanish": "Para enrutar el tráfico del contenedor inquilino de Cloud Run a tu red de VPC privada de forma segura, se utilizan interfaces de Private Service Connect (PSC-I).",
+      "usage": "Access configuration: <code>VPC-SC Boundaries -> PSC Interfaces for secure routing.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "812d8e9e50a022a4",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "tools",
+        "error_handling"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Components: Tool Fallback 🛠️",
+      "text": "To prevent agent crashes when a primary API is offline, implement robust error handling inside the tool, and define a {{c1::fallback tool}} (like Google Search) to salvage the response.",
+      "explanation": "If a primary tool throws a ConnectionError, catching the error and invoking a fallback tool ensures the agent remains functional.",
+      "spanish": "Para evitar bloqueos del agente cuando una API principal está caída, implementa el manejo de errores e invoca una herramienta de respaldo (como Google Search).",
+      "usage": "Code pattern: <code>try: call_primary() except: call_fallback()</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8030e24b0346050c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "auth",
+        "adc"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Components: Standalone Auth 🔑",
+      "text": "Running standalone scripts that call ADK services requires configuring {{c1::Application Default Credentials (ADC)}} or setting the GOOGLE_APPLICATION_CREDENTIALS variable.",
+      "explanation": "If credentials are not explicitly passed or inherited, calls to memory banks or Vertex AI services will fail with Gaia ID not found errors.",
+      "spanish": "La ejecución de scripts independientes que llaman a servicios de ADK requiere configurar las Credenciales Predeterminadas de la Aplicación (ADC) o la variable GOOGLE_APPLICATION_CREDENTIALS.",
+      "usage": "Setup: <code>gcloud auth application-default login</code> or setting <code>os.environ['GOOGLE_APPLICATION_CREDENTIALS']</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e3cff1b1f9795b85",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "mcp",
+        "tools"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Components: Tool Confirmation 🔒",
+      "text": "In ADK v1.14+, to prevent tool execution from waiting for user confirmation on read-only tools in automated scripts, set {{c1::require_tool_confirmation=False}}.",
+      "explanation": "By default, ADK requires user confirmation for tool execution to prevent destructive actions, but this blocks automated background runtimes.",
+      "spanish": "En ADK v1.14+, para evitar que la ejecución de herramientas espere la confirmación del usuario para herramientas de lectura, establezca require_tool_confirmation=False.",
+      "usage": "Agent config: <code>ReasoningEngineAgent(..., require_tool_confirmation=False)</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c6f3330f1be23e8b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "gcs",
+        "artifact_drift"
+      ]
+    },
+    "content": {
+      "scenario": "ADK GCS Storage: Path Resolution 🪣",
+      "text": "In ADK, `GcsArtifactService` saves user-scoped files under the path `gs://{bucket}/{app}/{user_id}/user/{file}` and session-scoped files under `gs://{bucket}/{app}/{user_id}/{{c1::session_id}}/{file}`.",
+      "explanation": "If app_name is omitted, it defaults to a random UUID locally, or GOOGLE_CLOUD_AGENT_ENGINE_ID when deployed, causing path drift.",
+      "spanish": "En ADK, GcsArtifactService guarda los archivos del usuario bajo la ruta con el ID del usuario, y los archivos de sesión bajo el ID de sesión.",
+      "usage": "Rule: <code>Anchor app_name inside AdkApp configuration to ensure stable GCS path resolution.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "801ad0f8e3802b49",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "iam",
+        "permissions"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Security: Deployed SA IAM 🖼️",
+      "text": "To let a deployed agent read GCS images and execute model queries, you must grant the Agent Engine Service Account both {{c1::roles/storage.objectViewer}} and {{c2::roles/aiplatform.user}}.",
+      "explanation": "While your local environment uses your user credentials, the deployed container runs under the Agent Engine SA (service-PROJECT_NUMBER@gcp-sa-aiplatform-re.iam.gserviceaccount.com).",
+      "spanish": "Para permitir que un agente implementado lea imágenes de GCS y ejecute consultas, debe otorgar a la Cuenta de Servicio de Agent Engine los roles de storage.objectViewer y aiplatform.user.",
+      "usage": "Command: <code>gcloud projects add-iam-policy-binding PROJECT_ID --member=\"serviceAccount:service-...@gcp-sa-aiplatform-re.iam.gserviceaccount.com\" --role=\"roles/...\"</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4297da4802a0e540",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "iam",
+        "cross_project"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Security: Cross-Project Function Auth 🗺️",
+      "text": "For an agent in Project A to call a private Cloud Function in Project B, Project A's Agent Engine Service Account must be granted the {{c1::roles/cloudfunctions.invoker}} role in Project B.",
+      "explanation": "Cloud Functions in different projects require explicit IAM invoker permissions for the caller's service account identity.",
+      "spanish": "Para que un agente del Proyecto A llame a una Cloud Function privada en el Proyecto B, la cuenta de servicio de Agent Engine del Proyecto A debe tener el rol de invoker de Cloud Functions en el Proyecto B.",
+      "usage": "Access control: <code>gcloud functions add-iam-policy-binding function-name --project=project-b --member=serviceAccount:agent-sa-project-a --role=roles/cloudfunctions.invoker</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "52900bf6e18da9f2",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "models",
+        "endpoints"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Models: Endpoint Mismatch 🗺️",
+      "text": "To call a global model from a regional Agent Engine instance and avoid endpoint routing errors, instantiate the model passing a custom client with global endpoint override to {{c1::api_client}}.",
+      "explanation": "A regional Agent Engine (e.g. us-central1) cannot natively route queries to global model names without an overridden API client.",
+      "spanish": "Para llamar a un modelo global desde una instancia regional de Agent Engine y evitar errores, cree el cliente global e indíquele que lo use en api_client.",
+      "usage": "Code: <code>global_client = genai.Client(http_options={'api_version': 'v1'}); model = GeminiModel(client=global_client)</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0b4c6691d7deb249",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "memory",
+        "session_persistence"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Persistence: Session Memory 💾",
+      "text": "To prevent conversation history loss from stateless container restarts, register the {{c1::VertexAiMemoryBankService}} in your AdkApp configuration.",
+      "explanation": "Cloud Run instances are stateless and recycle periodically. Long-term session turn persistence requires a database-backed memory bank.",
+      "spanish": "Para evitar la pérdida del historial de conversación por reinicios del contenedor, registre el VertexAiMemoryBankService en AdkApp.",
+      "usage": "Code: <code>app = AdkApp(..., memory_service_builder=lambda: VertexAiMemoryBankService(...))</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8aae76180df5aebe",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "multi_agent",
+        "artifacts"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Multi-Agent: Shared Artifacts 🔗",
+      "text": "To avoid exhausting prompt token limits when passing large data between agents, write the data to the shared {{c1::GcsArtifactService}} and let the consumer load it via InvocationContext.",
+      "explanation": "Passing huge JSON files directly inside agent-to-agent (A2A) prompt strings consumes excessive tokens and increases cost.",
+      "spanish": "Para evitar agotar el límite de tokens al pasar datos grandes entre agentes, escriba los datos en el GcsArtifactService compartido y deje que el consumidor los lea.",
+      "usage": "Flow: <code>ctx.artifact_service.save_artifact(...) &rarr; Consumer loads via ctx.artifact_service.load_artifact(...)</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7fc88856e141b755",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "multi_agent",
+        "agent_tool"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Multi-Agent: Handoff Pattern 🤝",
+      "text": "To break a monolithic agent into a hierarchical network and improve tool selection, wrap sub-agents inside {{c1::AgentTool}} and register them as tools in the parent agent.",
+      "explanation": "A single agent with 20+ tools dilutes context and causes incorrect tool selection. Delegating to specialized sub-agents via AgentTool solves this.",
+      "spanish": "Para dividir un agente monolítico y mejorar la selección de herramientas, envuelva los subagentes dentro de AgentTool y regístrelos en el agente padre.",
+      "usage": "Code: <code>shop_agent = BaseAgent(..., tools=[AgentTool(agent=research_agent)])</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "43c0e741adbd2c3a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "firestore",
+        "dynamic_prompting"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Components: Dynamic Prompting 🎨",
+      "text": "To update system instructions without rebuilding and redeploying the container, load the prompt dynamically from a {{c1::Firestore}} document during initialization.",
+      "explanation": "Hardcoding instructions inside the container forces a full deploy cycle for every prompt adjustment. Loading from Firestore enables hot updates.",
+      "spanish": "Para actualizar las instrucciones del sistema sin reconstruir el contenedor, cargue el prompt dinámicamente desde Firestore.",
+      "usage": "Code: <code>instruction = firestore.Client().collection('prompts').document('agent').get().to_dict().get('prompt')</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "20889336b614e54f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "security",
+        "cmek"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Security: CMEK Coexistence 🔑",
+      "text": "To prevent CMEK UI errors like 'default assistant cannot be found', all DataStores within a single App/Engine must {{c1::share the exact same CMEK}} configuration.",
+      "explanation": "Mixed CMEK settings (some encrypted Datastores, some unencrypted) within one App will trigger database access and parsing crashes.",
+      "spanish": "Para evitar errores de CMEK donde no se encuentra el asistente, todos los DataStores dentro de una App deben compartir exactamente la misma configuración de CMEK.",
+      "usage": "Rule: <code>Verify CMEK configuration from inception; you cannot retroactively mix Datastores.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8b33db048e5d1253",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "security",
+        "cmek",
+        "key_issue"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Security: CMEK Key Restoration 🔑",
+      "text": "If a restored KMS key shows 'not ready for use' due to sync lag, the customer should {{c1::Disable and then Enable}} the key version in KMS to force a cache reset.",
+      "explanation": "Discovery Engine caches the key status in Spanner. Toggle-disabling/enabling the key version forces the internal monitoring pipeline to refresh.",
+      "spanish": "Si una clave KMS restaurada se muestra como no lista para usar por retraso de sincronización, el cliente debe Deshabilitar y luego Habilitar la versión.",
+      "usage": "Lag recovery: <code>Disable key version &rarr; wait 10 seconds &rarr; Enable key version (note: data reconstruction can take up to 10 hours)</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "35361a34bc6882bc",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "wif",
+        "identity"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Security: WIF Case Sensitivity 🪪",
+      "text": "Workforce Identity Federation (WIF) subject matching is strictly {{c1::case-sensitive}}; mismatched casings between IDP tokens (e.g. PascalCase) and Spanner ACL tags cause search blocks.",
+      "explanation": "If a user is authenticated as 'Aaron' but documents are tagged with 'aaron', the search engine blocks access. IDP rules must force lowercase.",
+      "spanish": "La coincidencia de sujetos en WIF es estrictamente sensible a mayúsculas y minúsculas; las discrepancias con las etiquetas de Spanner bloquean el acceso.",
+      "usage": "Mitigation: <code>IDP transformation rule (.lower()) or Spanner migration to coerce all user identities to lowercase.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6651eb960f95ce55",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "prompts",
+        "constraints"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Prompts: Constraint Placement 🧠",
+      "text": "To protect against prompt injections and ensure the model respects negative constraints, place critical constraints in a block at the {{c1::absolute end}} of the system instructions.",
+      "explanation": "If negative constraints are diluted inside a long, early system instruction block, the model's attention is diverted by context.",
+      "spanish": "Para protegerse contra inyecciones de prompt y garantizar que el modelo respete las restricciones, colóquelas al final absoluto.",
+      "usage": "Formatting: <code>Place constraint blocks like 'Never share financial data' at the absolute end of instructions.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f4cbdda4a50e250c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "adk",
+        "debugging",
+        "loops"
+      ]
+    },
+    "content": {
+      "scenario": "ADK Debugging: Circular Reasoning 🔌",
+      "text": "To mitigate circular reasoning loops when tools return empty data, configure a {{c1::max_turns}} limit in the runner or implement Loop Detection in tool parameters.",
+      "explanation": "If a tool returns empty data, the model might repeatedly call the same tool trying to find a result, causing an infinite loop.",
+      "spanish": "Para mitigar bucles de razonamiento circular cuando las herramientas devuelven datos vacíos, configure max_turns o implemente Loop Detection.",
+      "usage": "Rule: <code>Set max_turns in configuration; track tool call history to break identical consecutive calls.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3ed61e2d2f06b716",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ide",
+        "cursorrules",
+        "configuration"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic IDEs: Codebase Rules and Config 📐",
+      "text": "Next-generation IDEs like Cursor customize agent behavior using root configuration files called {{c1::.cursorrules}} to define development standards and enforce local styling.",
+      "explanation": ".cursorrules files sit at the root of a project. They instruct Cursor's codebase agent on specific architectural choices (e.g. 'Use Next.js Server Actions, prefer Tailwind, do not use library X'), preventing the AI from generating obsolete patterns.",
+      "spanish": "Los IDEs de próxima generación como Cursor personalizan el comportamiento de los agentes mediante archivos de configuración en la raíz llamados .cursorrules para establecer estándares y estilos.",
+      "usage": "Best practice for onboarding teams and keeping LLM code outputs consistent across microservices."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ef64931daec25fd8",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ide",
+        "windsurf",
+        "flows"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic IDEs: Windsurf Shared Terminal 🖥️",
+      "text": "The agentic editor {{c1::Windsurf}} uses a shared state model called 'Flows', allowing the AI to read your open file contexts, suggest edits, and directly execute commands in the {{c2::integrated terminal}}.",
+      "explanation": "Windsurf breaks the boundary of conversational chats by integrating the IDE terminal, file system, and chat context. The agent does not just print code blocks; it compiles, tests, and reads the output directly, resolving issues iteratively.",
+      "spanish": "El editor agéntico Windsurf utiliza un modelo de estado compartido llamado 'Flows', permitiendo a la IA leer los archivos abiertos, sugerir ediciones y ejecutar comandos en la terminal integrada.",
+      "usage": "Perfect for complex debugging sessions where the agent needs to compile and test code in real time."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4c86d746c76d5641",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ide",
+        "webcontainers",
+        "bolt_new"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic IDEs: In-Browser Sandboxes 🌐",
+      "text": "Web-based development platforms like Bolt.new run complete Node.js development servers inside the browser using WebAssembly-driven {{c1::WebContainers}}.",
+      "explanation": "WebContainers allow full-stack environments (Vite, Express, etc.) to run directly in the browser's sandbox without installing Node locally. This allows AI agents to instantly provision, preview, and build applications securely in seconds.",
+      "spanish": "Las plataformas de desarrollo basadas en web como Bolt.new ejecutan servidores de desarrollo Node.js completos dentro del navegador utilizando WebContainers basados en WebAssembly.",
+      "usage": "Used in text-to-app tools for instant frontend/backend preview and code generation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5babcbfd7946fc8b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ide",
+        "copilot_workspace",
+        "planning"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic IDEs: Copilot Workspace Specs 📝",
+      "text": "In {{c1::Copilot Workspace}}, the agent creates a structured {{c2::Task Specification Plan}} before making codebase edits, allowing the developer to review and refine the changes before execution.",
+      "explanation": "Instead of immediately writing code, Copilot Workspace forces the agent to write a step-by-step design spec plan first. The developer audits this plan, adjusts the logic, and then clicks approve to let the agent apply edits across multiple files in the repository.",
+      "spanish": "En Copilot Workspace, el agente crea una especificación de plan de tareas estructurada antes de editar el código, lo que permite al desarrollador revisar y refinar los cambios antes de su ejecución.",
+      "usage": "Useful for managing complex feature requests and PR code reviews in GitHub workflows."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "20ccbcbbe7d63080",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ide",
+        "auditing",
+        "cicd"
+      ]
+    },
+    "content": {
+      "scenario": "Agentic IDEs: Automated Agentic Auditing 🛡️",
+      "text": "To secure CI/CD pipelines, modern teams deploy {{c1::Agentic Auditing}} where autonomous LLM panels review pull requests for vulnerabilities (SAST) and enforce {{c2::architectural compliance}}.",
+      "explanation": "Traditional linters check syntax, but agentic auditors check logic. An agentic auditor evaluates pull requests by simulating attack vectors, checking for API design violations, and auditing database query efficiencies before code is merged.",
+      "spanish": "Para asegurar los pipelines CI/CD, los equipos despliegan auditorías agénticas donde paneles de LLM revisan solicitudes de extracción (PR) buscando vulnerabilidades y haciendo cumplir el diseño arquitectónico.",
+      "usage": "Integrating LLM safety checkers into GitHub Actions or GitLab CI workflows."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c4102960825cae21",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "ides",
+        "lsp",
+        "tools"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: LSP Integration 💻",
+      "text": "To enable agentic IDEs to understand code symbols, cross-references, and definitions across files, they integrate with the {{c1::Language Server Protocol (LSP)}}.",
+      "explanation": "The Language Server Protocol (LSP) standardizes communication between editor engines and programming language analysis tools, allowing agents to query autocomplete, jump-to-definition, and compile errors directly.",
+      "spanish": "Para permitir que los IDEs de agentes entiendan los símbolos de código, las referencias cruzadas y las definiciones en todos los archivos, se integran con el Protocolo de Servidor de Lenguaje (LSP).",
+      "usage": "The LSP runs as a background server, providing static analysis data to the coding agent."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9b4a610235b66e56",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "ides",
+        "vector_db",
+        "context"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Workspace Context 💻",
+      "text": "To locate relevant files quickly in a massive repository, agentic IDEs search an indexed {{c1::workspace vector index}} containing codebase embeddings.",
+      "explanation": "By splitting files into logical chunks (e.g. functions, classes), generating embeddings, and storing them in a local vector database, the IDE agent can perform semantic search to find code context related to a query.",
+      "spanish": "Para localizar rápidamente archivos relevantes en un repositorio masivo, los IDEs de agentes buscan en un índice de vectores de espacio de trabajo (workspace vector index) que contiene incrustaciones del código base.",
+      "usage": "The IDE agent queries the workspace vector index before using file-reading tools to locate target functions."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d756138cc5f38b05",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "ides",
+        "mcp",
+        "protocols"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: MCP Protocol 💻",
+      "text": "To standardize how LLMs securely connect to external data sources, developer tools, and file systems, Anthropic introduced the {{c1::Model Context Protocol (MCP)}}.",
+      "explanation": "The Model Context Protocol (MCP) defines an open standard protocol for client-server communication, allowing LLMs to access tools (like SQL databases, web search, or git) via modular servers.",
+      "spanish": "Para estandarizar cómo los LLMs se conectan de forma segura a fuentes de datos externas, herramientas de desarrollo y sistemas de archivos, Anthropic presentó el Protocolo de Contexto de Modelo (MCP).",
+      "usage": "An MCP Client (like Cursor or Claude Desktop) communicates with MCP Servers using JSON-RPC 2.0 messages."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "106f1ae2c895c933",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "ides",
+        "safety",
+        "sandbox"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Agent Sandbox 💻",
+      "text": "To test generated code and run terminal commands safely without exposing the host OS, agentic IDEs execute processes in an {{c1::isolated container sandbox}}.",
+      "explanation": "Executing arbitrary code generated by an AI presents security risks. Isolated container sandboxes (like Docker or WebAssembly containers) prevent malware from accessing host system files or networks.",
+      "spanish": "Para probar el código generado y ejecutar comandos de terminal de forma segura sin exponer el SO anfitrión, los IDEs de agentes ejecutan procesos en un entorno aislado de espacio aislado de contenedor (isolated container sandbox).",
+      "usage": "The IDE agent forwards compiler commands to the isolated container sandbox and returns the stdout/stderr."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "16bb53b13e2671c8",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "ides",
+        "optimization",
+        "tokens"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Context Budget 💻",
+      "text": "To prevent high token costs and model confusion, agentic IDEs monitor the {{c1::context budget}} during multi-turn coding chats.",
+      "explanation": "A context budget is the planned allocation of tokens within the model's context window. Managing it involves dropping old messages, compressing code diffs, and only attaching files relevant to the active task.",
+      "spanish": "Para evitar altos costos de tokens y la confusión del modelo, los IDEs de agentes monitorean el presupuesto de contexto (context budget) durante las charlas de codificación de múltiples turnos.",
+      "usage": "The system prompt enforces a context budget by capping the maximum size of attached file snippets to 800 lines."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

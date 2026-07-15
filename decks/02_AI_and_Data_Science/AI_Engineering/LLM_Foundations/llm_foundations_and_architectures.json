@@ -1,0 +1,2655 @@
+[
+  {
+    "id": "45eb4d9b8bbf6011",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "tokens"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Foundations: Tokens and Context Window 🧠",
+      "text": "A language model processes text as {{c1::tokens}}, and the {{c2::context window}} limits how much information it can attend to at once.",
+      "explanation": "Understanding tokens and context length is essential for prompt design, memory, and cost control.",
+      "spanish": "Un modelo de lenguaje procesa el texto como tokens, y la ventana de contexto limita cuánta información puede atender a la vez.",
+      "usage": "Critical for long-document QA, chat systems, and retrieval pipelines."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "23618f04beae47af",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "transformers"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Foundations: Attention 🎯",
+      "text": "The Transformer uses {{c1::self-attention}} to weigh the relevance of every token relative to the current token.",
+      "explanation": "Attention is the mechanism that allows models to build rich contextual representations.",
+      "spanish": "El Transformer usa autoatención para ponderar la relevancia de cada token respecto al token actual.",
+      "usage": "Core concept behind modern LLMs, vision transformers, and multimodal models."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bdce78ca7fba4d88",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "pretraining"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Foundations: Pretraining 🧬",
+      "text": "Pretraining teaches the model language structure by predicting missing or next {{c1::tokens}} over massive corpora.",
+      "explanation": "This is where the model learns general linguistic and factual patterns before task-specific tuning.",
+      "spanish": "El preentrenamiento enseña al modelo la estructura del lenguaje al predecir tokens faltantes o siguientes sobre corpus masivos.",
+      "usage": "Foundational for foundation models and domain adaptation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "bab8bd4302878b38",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "instruction_tuning"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Foundations: Instruction Tuning 🛠️",
+      "text": "{{c1::Instruction tuning}} improves a model’s ability to follow user requests by training on examples of instruction-response pairs.",
+      "explanation": "It is a key step between raw language modeling and usable chat assistants.",
+      "spanish": "El ajuste por instrucciones mejora la capacidad del modelo para seguir solicitudes entrenando con pares instrucción-respuesta.",
+      "usage": "Widely used in chatbots, copilots, and enterprise assistants."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3d53d6c8de032799",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "rlhf"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Foundations: RLHF 🤝",
+      "text": "Reinforcement Learning from Human {{c1::Feedback}} aligns models with human preferences using reward models and policy optimization.",
+      "explanation": "RLHF makes outputs safer, more helpful, and more aligned with user expectations.",
+      "spanish": "El aprendizaje por refuerzo con feedback humano alinea los modelos con preferencias humanas usando modelos de recompensa y optimización de política.",
+      "usage": "Common in general-purpose assistants and preference-based chat systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "04a29a5c3ad75206",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "scaling"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Foundations: Scaling Laws 📈",
+      "text": "{{c1::Scaling laws}} suggest that larger models, more data, and more compute often improve performance in predictable ways.",
+      "explanation": "They help teams reason about performance ceilings and infrastructure tradeoffs.",
+      "spanish": "Las leyes de escalado sugieren que modelos más grandes, más datos y más cómputo suelen mejorar el rendimiento de forma predecible.",
+      "usage": "Useful for model selection and budget planning in LLM projects."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9a7e50ef30ed6521",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "hallucination"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Foundations: Hallucination 🌀",
+      "text": "A {{c1::hallucination}} is a confident but unsupported answer produced by the model.",
+      "explanation": "Hallucinations are one of the biggest risks in production LLM systems and require grounding and evaluation.",
+      "spanish": "Una alucinación es una respuesta segura pero no sustentada producida por el modelo.",
+      "usage": "Critical in legal, medical, and enterprise knowledge assistants."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b33e2e07d4eeabaa",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "generalization"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Foundations: Memorization vs Generalization 🧩",
+      "text": "A {{c1::model}} can memorize training examples, but strong generalization requires learning reusable abstractions.",
+      "explanation": "This distinction is crucial when evaluating whether a system truly understands a task or is just pattern matching.",
+      "spanish": "Un modelo puede memorizar ejemplos de entrenamiento, pero una fuerte generalización requiere aprender abstracciones reutilizables.",
+      "usage": "Important for benchmarks, privacy, and strong deployment practices."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5c9f200d3e4d30e6",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "transformers",
+        "math",
+        "attention"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Scaled Dot-Product Attention (Vaswani et al., 2017))",
+      "text": "Ecuación para {{c1::Scaled Dot-Product Attention (Vaswani et al., 2017)}}: \\[\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(Q\\): Query matrix of shape \\((B, H, S, d_k)\\) representing current tokens.</li><li>\\(K\\): Key matrix of shape \\((B, H, S, d_k)\\) representing context tokens.</li><li>\\(V\\): Value matrix of shape \\((B, H, S, d_v)\\) representing token representation vectors.</li><li>\\(d_k\\): Dimensionality of query/key vectors, scaling factor to prevent vanishing gradients in softmax.</li></ul>",
+      "spanish": "Fórmula de Scaled Dot-Product Attention (Vaswani et al., 2017)",
+      "usage": "Formula: \\[\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cfd4bdff34746828",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "transformers",
+        "pytorch",
+        "code",
+        "attention"
+      ]
+    },
+    "content": {
+      "scenario": "Code Pattern 💻 (Scaled Dot-Product Attention in PyTorch)",
+      "text": "Patrón de código en <b>python</b> para {{c1::Scaled Dot-Product Attention in PyTorch}}:<br><pre><code class=\"language-python\">import torch\nimport torch.nn.functional as F\nimport math\n\ndef scaled_dot_product_attention(q, k, v, mask=None):\n    d_k = q.size(-1)\n    scores = torch.matmul(q, k.transpose(-2, -1)) / math.sqrt(d_k)\n    if mask is not None:\n        scores = scores.masked_fill(mask == 0, -1e9)\n    attn_weights = F.softmax(scores, dim=-1)\n    return torch.matmul(attn_weights, v), attn_weights</code></pre>",
+      "explanation": "Computes attention scores by dotting query and key matrices, dividing by scale factor \\(\\sqrt{d_k}\\), applying softmax, and multiplying values.",
+      "spanish": "Patrón de código: Scaled Dot-Product Attention in PyTorch",
+      "usage": "Snippet: <pre><code class=\"language-python\">import torch\nimport torch.nn.functional as F\nimport math\n\ndef scaled_dot_product_attention(q, k, v, mask=None):\n    d_k = q.size(-1)\n    scores = torch.matmul(q, k.transpose(-2, -1)) / math.sqrt(d_k)\n    if mask is not None:\n        scores = scores.masked_fill(mask == 0, -1e9)\n    attn_weights = F.softmax(scores, dim=-1)\n    return torch.matmul(attn_weights, v), attn_weights</code></pre><br>Output expected: <code>Success</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f3e9777c62a3e24a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "transformers",
+        "gqa",
+        "kv_cache",
+        "architecture"
+      ]
+    },
+    "content": {
+      "scenario": "Dual-Coding Diagram 📊 (Grouped-Query Attention (GQA))",
+      "text": "¿Cómo funciona la estructura de {{c1::Grouped-Query Attention (GQA)}} en el sistema?",
+      "explanation": "GQA groups query heads into G groups, where query heads share a single Key-Value (KV) head. This balances the high throughput of Multi-Query Attention (MQA) with the high capacity of Multi-Head Attention (MHA), optimizing KV cache storage during inference (Ainslie et al., 2023).<br><br>",
+      "spanish": "GQA agrupa las cabezas de consulta en G grupos, donde las cabezas dentro de un grupo comparten una única cabeza de Clave/Valor (KV), optimizando el almacenamiento del caché KV durante la inferencia.",
+      "usage": "Visual model for <code>Grouped-Query Attention (GQA)</code>.<br>Graph: <div class=\"mermaid\">\ngraph TD\n    subgraph Queries [\"Query Heads (Q1 - Q8)\"]\n        Q1 --> K1_V1[\"KV Head 1\"]\n        Q2 --> K1_V1\n        Q3 --> K1_V1\n        Q4 --> K1_V1\n        Q5 --> K2_V2[\"KV Head 2\"]\n        Q6 --> K2_V2\n        Q7 --> K2_V2\n        Q8 --> K2_V2\n    end\n    subgraph Keys_Values [\"Key/Value Heads (KV1 - KV2)\"]\n        K1_V1\n        K2_V2\n    end\n</div>",
+      "concept": "Grouped-Query Attention (GQA)",
+      "mermaid_code": "graph TD\n    subgraph Queries [\"Query Heads (Q1 - Q8)\"]\n        Q1 --> K1_V1[\"KV Head 1\"]\n        Q2 --> K1_V1\n        Q3 --> K1_V1\n        Q4 --> K1_V1\n        Q5 --> K2_V2[\"KV Head 2\"]\n        Q6 --> K2_V2\n        Q7 --> K2_V2\n        Q8 --> K2_V2\n    end\n    subgraph Keys_Values [\"Key/Value Heads (KV1 - KV2)\"]\n        K1_V1\n        K2_V2\n    end"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "db839badd6d747d6",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "scaling",
+        "chinchilla",
+        "compute",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Chinchilla Scaling Laws (Hoffmann et al., 2022))",
+      "text": "Ecuación para {{c1::Chinchilla Scaling Laws (Hoffmann et al., 2022)}}: \\[N \\approx 20 \\times D\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(N\\): Total parameter count of the model (excluding embeddings).</li><li>\\(D\\): Total token count used during pretraining.</li><li>\\(20\\): The compute-optimal ratio of tokens per parameter established under a fixed compute budget.</li></ul>",
+      "spanish": "Fórmula de Chinchilla Scaling Laws (Hoffmann et al., 2022)",
+      "usage": "Formula: \\[N \\approx 20 \\times D\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5f823e4ef1e869cf",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "transformers",
+        "rope",
+        "embeddings",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Rotary Position Embeddings (RoPE))",
+      "text": "Ecuación para {{c1::Rotary Position Embeddings (RoPE)}}: \\[R_{\\Theta, m}^d = \\text{diag}\\left( R_{\\theta_1, m}, R_{\\theta_2, m}, \\dots, R_{\\theta_{d/2}, m} \\right) \\quad \\text{where} \\quad R_{\\theta_i, m} = \\begin{pmatrix} \\cos m\\theta_i & -\\sin m\\theta_i \\\\ \\sin m\\theta_i & \\cos m\\theta_i \\end{pmatrix}\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(m\\): Token position index in the sequence.</li><li>\\(\\theta_i = 10000^{-2(i-1)/d}\\): Rotary base frequency for dimension component \\(i\\).</li><li>\\(d\\): Total vector dimension.</li><li>\\(R_{\\theta_i, m}\\): 2D orthogonal rotation matrix applied to components of query and key vectors.</li></ul>",
+      "spanish": "Fórmula de Rotary Position Embeddings (RoPE)",
+      "usage": "Formula: \\[R_{\\Theta, m}^d = \\text{diag}\\left( R_{\\theta_1, m}, R_{\\theta_2, m}, \\dots, R_{\\theta_{d/2}, m} \\right) \\quad \\text{where} \\quad R_{\\theta_i, m} = \\begin{pmatrix} \\cos m\\theta_i & -\\sin m\\theta_i \\\\ \\sin m\\theta_i & \\cos m\\theta_i \\end{pmatrix}\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a3b097cfd3e7d763",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "transformers",
+        "rmsnorm",
+        "normalization",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Root Mean Square Normalization (RMSNorm))",
+      "text": "Ecuación para {{c1::Root Mean Square Normalization (RMSNorm)}}: \\[\\text{RMSNorm}(x) = \\frac{x}{\\sqrt{\\frac{1}{d} \\sum_{i=1}^d x_i^2 + \\epsilon}} \\odot \\gamma\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(x\\): Input activation vector.</li><li>\\(d\\): Dimension of the activation vector.</li><li>\\(\\epsilon\\): Numerical stability offset.</li><li>\\(\\gamma\\): Learnable scale parameter vector (initialized to 1).</li><li>\\(\\odot\\): Hadamard (element-wise) product.</li></ul>",
+      "spanish": "Fórmula de Root Mean Square Normalization (RMSNorm)",
+      "usage": "Formula: \\[\\text{RMSNorm}(x) = \\frac{x}{\\sqrt{\\frac{1}{d} \\sum_{i=1}^d x_i^2 + \\epsilon}} \\odot \\gamma\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "606142f79800059f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "transformers",
+        "normalization",
+        "training"
+      ]
+    },
+    "content": {
+      "scenario": "Active Recall Quiz 🎯",
+      "text": "<b>Pregunta:</b> Why does Pre-Layer Normalization (Pre-LN) stabilize training of extremely deep Transformers compared to Post-Layer Normalization (Post-LN)?<br>Opciones:<ul><li>A) Pre-LN normalizes inputs to residual branches, preventing gradient bounds from exploding as depth increases, allowing training without warm-up</li><li>B) Pre-LN scales down learning rates automatically using Adam optimizer momentum updates</li><li>C) Post-LN forces activations to zero, causing vanishing gradients in initial layers</li><li>D) Pre-LN dynamically shifts weights from float32 to float16 during backward passes</li></ul><br>Respuesta correcta: {{c1::A) Pre-LN normalizes inputs to residual branches, preventing gradient bounds from exploding as depth increases, allowing training without warm-up}}",
+      "explanation": "Justificación: In Post-LN, layer normalization is placed after the residual addition ($x_{l+1} = \\text{LN}(x_l + F(x_l))$), causing gradient magnitudes to grow exponentially with depth. In Pre-LN ($x_{l+1} = x_l + F(\\text{LN}(x_l))$), gradients flow directly through identity residual connections, stabilizing training for deep models.",
+      "spanish": "Quiz: Why does Pre-Layer Normalization (Pre-LN) stabilize training of extremely deep Transformers compared to Post-Layer Normalization (Post-LN)?",
+      "usage": "Quiz assertion: A) Pre-LN normalizes inputs to residual branches, preventing gradient bounds from exploding as depth increases, allowing training without warm-up"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "51a1a523ae1312eb",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "transformers",
+        "deepseek",
+        "mla",
+        "kv_cache",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (DeepSeek-V3 MLA Low-Rank Key-Value Compression)",
+      "text": "Ecuación para {{c1::DeepSeek-V3 MLA Low-Rank Key-Value Compression}}: \\[d_c \\ll d \\quad \\text{and} \\quad c_t = W^{DKV} h_t\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(h_t\\): Hidden state vector at step \\(t\\).</li><li>\\(c_t\\): Low-rank compressed latent key-value representation vector of size \\(d_c\\).</li><li>\\(W^{DKV}\\): Down-projection matrix mapping \\(d\\)-dim hidden state to \\(d_c\\)-dim.</li><li>\\(d_c\\): Latent compression dimension (MLA uses \\(d_c = 512\\), significantly compressing key-value cache size).</li></ul>",
+      "spanish": "Fórmula de DeepSeek-V3 MLA Low-Rank Key-Value Compression",
+      "usage": "Formula: \\[d_c \\ll d \\quad \\text{and} \\quad c_t = W^{DKV} h_t\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ddf6fbcc85ed476a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "ring_attention",
+        "distributed_training",
+        "architecture"
+      ]
+    },
+    "content": {
+      "scenario": "Dual-Coding Diagram 📊 (Ring Attention Context Distribution)",
+      "text": "¿Cómo funciona la estructura de {{c1::Ring Attention Context Distribution}} en el sistema?",
+      "explanation": "Ring Attention divides sequence lengths into blocks across GPU workers. While query blocks are held locally, key/value blocks are shifted in a circular ring path across GPUs to compute multi-head attention without memory aggregation bottlenecks.<br><br>",
+      "spanish": "Ring Attention divide la longitud de secuencia en bloques entre GPUs. Las consultas se guardan localmente, mientras que las claves/valores rotan en anillo circular entre GPUs para calcular atención sin cuellos de botella de memoria.",
+      "usage": "Visual model for <code>Ring Attention Context Distribution</code>.<br>Graph: <div class=\"mermaid\">\ngraph LR\n    GPU0[\"GPU 0<br>(Blocks Q0, K0, V0)\"] -- \"Send Keys/Values\" --> GPU1[\"GPU 1<br>(Blocks Q1, K1, V1)\"]\n    GPU1 -- \"Send Keys/Values\" --> GPU2[\"GPU 2<br>(Blocks Q2, K2, V2)\"]\n    GPU2 -- \"Send Keys/Values\" --> GPU0\n</div>",
+      "concept": "Ring Attention Context Distribution",
+      "mermaid_code": "graph LR\n    GPU0[\"GPU 0<br>(Blocks Q0, K0, V0)\"] -- \"Send Keys/Values\" --> GPU1[\"GPU 1<br>(Blocks Q1, K1, V1)\"]\n    GPU1 -- \"Send Keys/Values\" --> GPU2[\"GPU 2<br>(Blocks Q2, K2, V2)\"]\n    GPU2 -- \"Send Keys/Values\" --> GPU0"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3c1c606006accc61",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "inference",
+        "quantization"
+      ]
+    },
+    "content": {
+      "scenario": "Inference: Quantization 🧠",
+      "text": "{{c1::Quantization}} reduces the precision of model weights and activations to lower memory usage and speed up inference.",
+      "explanation": "It is one of the most important techniques for serving large models efficiently.",
+      "spanish": "La cuantización reduce la precisión de los pesos y activaciones del modelo para bajar el uso de memoria y acelerar la inferencia.",
+      "usage": "Common in edge devices, mobile apps, and cost-sensitive deployments."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b5b7d9835549e4b9",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "inference",
+        "cache"
+      ]
+    },
+    "content": {
+      "scenario": "Inference: KV Cache ⚡",
+      "text": "The {{c1::KV cache}} stores past attention states so autoregressive decoding becomes much faster on repeated tokens.",
+      "explanation": "It is a critical optimization for chat systems and long-form generation.",
+      "spanish": "El KV cache almacena estados de atención pasados para que la decodificación autoregresiva sea mucho más rápida en tokens repetidos.",
+      "usage": "Essential in LLM serving and interactive assistants."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a7cdf65f6f8e6105",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "inference",
+        "speculation"
+      ]
+    },
+    "content": {
+      "scenario": "Inference: Speculative Decoding 🚀",
+      "text": "Speculative decoding uses a smaller draft model to propose {{c1::tokens}}, which are then verified by the larger model.",
+      "explanation": "It can sharply reduce latency for high-throughput inference.",
+      "spanish": "La decodificación especulativa usa un modelo más pequeño para proponer tokens, que luego son verificados por el modelo grande.",
+      "usage": "Useful for real-time assistants and API serving at scale."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "592f36a07419e111",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "inference",
+        "throughput"
+      ]
+    },
+    "content": {
+      "scenario": "Inference: Batching and Pipelining 🧵",
+      "text": "Batching groups requests together, while {{c1::pipelining}} overlaps computation and communication to improve throughput.",
+      "explanation": "These techniques are essential when serving many users under tight latency budgets.",
+      "spanish": "El batching agrupa solicitudes, mientras que el pipelining solapa cómputo y comunicación para mejorar el throughput.",
+      "usage": "Common in API backends, enterprise copilots, and recommendation systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d5f62db7c2fc36e1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "inference",
+        "distillation"
+      ]
+    },
+    "content": {
+      "scenario": "Inference: Distillation 🧪",
+      "text": "Knowledge {{c1::distillation}} transfers behavior from a larger teacher model to a smaller student model.",
+      "explanation": "It is a practical way to deploy strong performance with lower cost and latency.",
+      "spanish": "La destilación de conocimiento transfiere comportamiento de un modelo profesor grande a un modelo estudiante más pequeño.",
+      "usage": "Useful in edge AI, on-device assistants, and mobile applications."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fad5ea5904060f52",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "inference",
+        "tradeoffs"
+      ]
+    },
+    "content": {
+      "scenario": "Inference: Latency vs Cost ⚖️",
+      "text": "A {{c1::production}} system needs to trade latency, accuracy, and cost carefully because faster models often sacrifice quality.",
+      "explanation": "This tradeoff is central in real-world AI product design.",
+      "spanish": "Un sistema de producción necesita equilibrar latencia, precisión y costo cuidadosamente porque los modelos más rápidos a menudo sacrifican calidad.",
+      "usage": "Important for SaaS products, internal copilots, and customer-facing assistants."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7e7858eb4e78a536",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "inference",
+        "caching"
+      ]
+    },
+    "content": {
+      "scenario": "Inference: Caching Strategies 🗂️",
+      "text": "Caching can reuse prior computations such as prompt prefixes, {{c1::embeddings}}, or frequent answers to lower cost.",
+      "explanation": "Good caching can dramatically improve efficiency without changing the model.",
+      "spanish": "El caching puede reutilizar cálculos previos como prefijos de prompts, embeddings o respuestas frecuentes para bajar costos.",
+      "usage": "Common in high-volume search, support, and customer-facing assistants."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a15cd8cdc0356cb8",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "inference",
+        "serving"
+      ]
+    },
+    "content": {
+      "scenario": "Inference: Serving Frameworks 🏗️",
+      "text": "Serving frameworks manage model loading, batching, {{c1::autoscaling}}, and request routing for production workloads.",
+      "explanation": "The serving layer is often the difference between a demo and a reliable product.",
+      "spanish": "Los frameworks de serving gestionan carga de modelos, batching, autoscaling y enrutado de solicitudes para cargas de trabajo de producción.",
+      "usage": "Essential in enterprise AI platforms and scalable APIs."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0eeebdbea1c20a27",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "flash_attention",
+        "inference",
+        "gpu",
+        "architecture"
+      ]
+    },
+    "content": {
+      "scenario": "Dual-Coding Diagram 📊 (FlashAttention IO-Aware Memory Tiling (Dao et al., 2022))",
+      "text": "¿Cómo funciona la estructura de {{c1::FlashAttention IO-Aware Memory Tiling (Dao et al., 2022)}} en el sistema?",
+      "explanation": "FlashAttention improves speed by avoiding writing the massive intermediate \\(S \\times S\\) attention matrix back to slow GPU High Bandwidth Memory (HBM). It tiles input matrices into blocks, loads them to fast local SRAM, and computes softmax block-by-block using online updates.<br><br>",
+      "spanish": "FlashAttention acelera el cálculo al evitar escribir la enorme matriz de atención intermedia en la memoria lenta HBM de la GPU. Divide en bloques las matrices, las carga en la SRAM local rápida y calcula softmax bloque por bloque.",
+      "usage": "Visual model for <code>FlashAttention IO-Aware Memory Tiling (Dao et al., 2022)</code>.<br>Graph: <div class=\"mermaid\">\ngraph LR\n    HBM[\"High Bandwidth Memory (HBM)<br>(Slow, Large)\"] -- \"Load Blocks Q, K, V\" --> SRAM[\"GPU SRAM Cache<br>(Fast, Small)\"]\n    SRAM -- \"Compute Softmax Block-by-Block\" --> SRAM\n    SRAM -- \"Write back Output O\" --> HBM\n</div>",
+      "concept": "FlashAttention IO-Aware Memory Tiling (Dao et al., 2022)",
+      "mermaid_code": "graph LR\n    HBM[\"High Bandwidth Memory (HBM)<br>(Slow, Large)\"] -- \"Load Blocks Q, K, V\" --> SRAM[\"GPU SRAM Cache<br>(Fast, Small)\"]\n    SRAM -- \"Compute Softmax Block-by-Block\" --> SRAM\n    SRAM -- \"Write back Output O\" --> HBM"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d7fcef015ef62b70",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "kv_cache",
+        "inference",
+        "memory",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (KV Cache Memory Footprint)",
+      "text": "Ecuación para {{c1::KV Cache Memory Footprint}}: \\[\\text{Size}_{\\text{KVCache}} = 2 \\times 2 \\times B \\times L \\times H \\times d_{\\text{head}} \\times N_{\\text{layers}} \\text{ bytes}\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(2\\): Factor representing both Key and Value vectors.</li><li>\\(2\\): Factor representing 16-bit half-precision float format (2 bytes/weight).</li><li>\\(B\\): Inference batch size.</li><li>\\(L\\): Maximum sequence length (tokens).</li><li>\\(H\\): Key-Value heads count (1 in MQA, \\(H_{\\text{query}}/G\\) in GQA, or equal to query heads in MHA).</li><li>\\(d_{\\text{head}}\\): Head dimension size.</li><li>\\(N_{\\text{layers}}\\): Total Transformer layer count.</li></ul>",
+      "spanish": "Fórmula de KV Cache Memory Footprint",
+      "usage": "Formula: \\[\\text{Size}_{\\text{KVCache}} = 2 \\times 2 \\times B \\times L \\times H \\times d_{\\text{head}} \\times N_{\\text{layers}} \\text{ bytes}\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "13d5d31051387836",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "training",
+        "distributed"
+      ]
+    },
+    "content": {
+      "scenario": "Training Systems: Data Parallelism 🧠",
+      "text": "Data parallelism trains replicas of a model on different mini-{{c1::batches}} and synchronizes gradients across workers.",
+      "explanation": "It is the standard way to scale training across multiple GPUs or machines.",
+      "spanish": "El paralelismo de datos entrena réplicas del modelo en mini-batches diferentes y sincroniza gradientes entre workers.",
+      "usage": "Key in large-scale deep learning and distributed training pipelines."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6a1812835417e641",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "training",
+        "parallelism"
+      ]
+    },
+    "content": {
+      "scenario": "Training Systems: Model Parallelism 🧩",
+      "text": "Model parallelism splits layers or parameters across devices when a single model is too large for one {{c1::GPU}}.",
+      "explanation": "It is essential for very large transformer and diffusion models.",
+      "spanish": "El paralelismo de modelo divide capas o parámetros entre dispositivos cuando un modelo es demasiado grande para una GPU.",
+      "usage": "Used for trillion-parameter or frontier-scale training runs."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a5d87e9588963669",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "training",
+        "optimization"
+      ]
+    },
+    "content": {
+      "scenario": "Training Systems: Gradient Accumulation 📦",
+      "text": "Gradient accumulation simulates a larger {{c1::batch}} by accumulating gradients across several smaller steps.",
+      "explanation": "It reduces memory pressure while preserving the effective batch size.",
+      "spanish": "La acumulación de gradientes simula un batch mayor acumulando gradientes a través de varios pasos pequeños.",
+      "usage": "Common in large language model fine-tuning and low-memory settings."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "951041e9534eb416",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "training",
+        "precision"
+      ]
+    },
+    "content": {
+      "scenario": "Training Systems: Mixed Precision 🎯",
+      "text": "Mixed precision training uses lower-precision arithmetic to improve {{c1::throughput}} and reduce memory cost.",
+      "explanation": "It is now standard in modern GPU training stacks.",
+      "spanish": "El entrenamiento con precisión mixta usa aritmética de menor precisión para mejorar throughput y reducir costo de memoria.",
+      "usage": "Widely used in transformer pretraining and large-scale inference preparation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "435496742e142b99",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "training",
+        "memory"
+      ]
+    },
+    "content": {
+      "scenario": "Training Systems: Gradient Checkpointing 🧾",
+      "text": "Gradient checkpointing trades extra computation for reduced memory during {{c1::backpropagation}}.",
+      "explanation": "It helps fit larger models when memory is the binding constraint.",
+      "spanish": "El checkpointing de gradientes intercambia cómputo extra por menos memoria durante backpropagation.",
+      "usage": "Important for deep networks and long-context LLM training."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f9b13e85d09d8948",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "training",
+        "optimization"
+      ]
+    },
+    "content": {
+      "scenario": "Training Systems: Learning Rate Scheduling 📈",
+      "text": "{{c1::Learning rate}} schedules adapt the step size over time to improve convergence and stability.",
+      "explanation": "Proper scheduling can be as important as the optimizer itself.",
+      "spanish": "Los schedules de learning rate adaptan el tamaño del paso con el tiempo para mejorar convergencia y estabilidad.",
+      "usage": "Fundamental in optimization for deep learning and RL."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "169cebb8cf88afdd",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "dpo",
+        "rlhf",
+        "alignment",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Math & Physics 📐 (Direct Preference Optimization (DPO) Loss (Rafailov et al., 2023))",
+      "text": "Ecuación para {{c1::Direct Preference Optimization (DPO) Loss (Rafailov et al., 2023)}}: \\[\\mathcal{L}_{\\text{DPO}}(\\pi_\\theta; \\pi_{\\text{ref}}) = -\\mathbb{E}_{(x, y_w, y_l)}\\left[\\log \\sigma\\left(\\beta \\log \\frac{\\pi_\\theta(y_w|x)}{\\pi_{\\text{ref}}(y_w|x)} - \\beta \\log \\frac{\\pi_\\theta(y_l|x)}{\\pi_{\\text{ref}}(y_l|x)}\\right)\\right]\\]",
+      "explanation": "Desglose de variables: <ul><li>\\(\\pi_\\theta\\): Policy model parameter weights optimized.</li><li>\\(\\pi_{\\text{ref}}\\): Frozen reference model weights (typically SFT model).</li><li>\\(y_w, y_l\\): Preferred (winner) and dispreferred (loser) outputs for prompt \\(x\\).</li><li>\\(\\beta\\): Divergence regularization parameter.</li><li>\\(\\sigma\\): Sigmoid activation function.</li></ul>",
+      "spanish": "Fórmula de Direct Preference Optimization (DPO) Loss (Rafailov et al., 2023)",
+      "usage": "Formula: \\[\\mathcal{L}_{\\text{DPO}}(\\pi_\\theta; \\pi_{\\text{ref}}) = -\\mathbb{E}_{(x, y_w, y_l)}\\left[\\log \\sigma\\left(\\beta \\log \\frac{\\pi_\\theta(y_w|x)}{\\pi_{\\text{ref}}(y_w|x)} - \\beta \\log \\frac{\\pi_\\theta(y_l|x)}{\\pi_{\\text{ref}}(y_l|x)}\\right)\\right]\\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "34ece9e4a3cfea4c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "dpo",
+        "rlhf",
+        "ppo",
+        "pipelines"
+      ]
+    },
+    "content": {
+      "scenario": "Dual-Coding Diagram 📊 (RLHF vs. DPO Pipelines)",
+      "text": "¿Cómo funciona la estructura de {{c1::RLHF vs. DPO Pipelines}} en el sistema?",
+      "explanation": "DPO shows mathematically that the reward function can be expressed in terms of the optimal policy. It bypasses training a separate reward model and utilizing complex reinforcement learning (PPO), updating the policy directly via relative log-likelihoods on prompt preference pairs.<br><br>",
+      "spanish": "DPO demuestra matemáticamente que la función de recompensa se puede expresar a partir de la política óptima. Esto permite saltarse el entrenamiento de un modelo de recompensa separado y el uso de PPO.",
+      "usage": "Visual model for <code>RLHF vs. DPO Pipelines</code>.<br>Graph: <div class=\"mermaid\">\ngraph TD\n    subgraph RLHF [\"Traditional RLHF Pipeline\"]\n        SFT1[\"SFT Model\"] --> RM[\"Train Reward Model (RM)\"]\n        RM --> PPO[\"Train Policy with PPO (Actor-Critic loops)\"]\n    end\n    subgraph DPO [\"Direct Preference Optimization\"]\n        SFT2[\"SFT Model\"] --> DPOLoss[\"Direct Policy Updates (DPO loss over preference pairs)\"]\n    end\n</div>",
+      "concept": "RLHF vs. DPO Pipelines",
+      "mermaid_code": "graph TD\n    subgraph RLHF [\"Traditional RLHF Pipeline\"]\n        SFT1[\"SFT Model\"] --> RM[\"Train Reward Model (RM)\"]\n        RM --> PPO[\"Train Policy with PPO (Actor-Critic loops)\"]\n    end\n    subgraph DPO [\"Direct Preference Optimization\"]\n        SFT2[\"SFT Model\"] --> DPOLoss[\"Direct Policy Updates (DPO loss over preference pairs)\"]\n    end"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2cc958099579d9b8",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "tpu",
+        "xla",
+        "compilation",
+        "systems"
+      ]
+    },
+    "content": {
+      "scenario": "Active Recall Quiz 🎯",
+      "text": "<b>Pregunta:</b> How does the XLA (Accelerated Linear Algebra) compiler improve TPU execution speeds compared to eager execution?<br>Opciones:<ul><li>A) By JIT compiling high-level operators into fused kernels, reducing memory bandwidth overhead</li><li>B) By running calculations in INT4 quantization format natively on Tensor Cores</li><li>C) By dynamically caching GPU activation weights during backward passes</li><li>D) By allocating memory pages directly to CPU host threads via unified drivers</li></ul><br>Respuesta correcta: {{c1::A) By JIT compiling high-level operators into fused kernels, reducing memory bandwidth overhead}}",
+      "explanation": "Justificación: XLA fuses multiple operations together into single hardware kernels. Instead of executing addition, multiplication, and reductions sequentially (requiring writing intermediate tensors back to slow memory), XLA compiles them into a single kernel that performs all operations in registers, saving memory bandwidth.",
+      "spanish": "Quiz: How does the XLA (Accelerated Linear Algebra) compiler improve TPU execution speeds compared to eager execution?",
+      "usage": "Quiz assertion: A) By JIT compiling high-level operators into fused kernels, reducing memory bandwidth overhead"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fbb2eb759adee699",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "jax",
+        "spmd",
+        "tpu",
+        "parallel",
+        "code"
+      ]
+    },
+    "content": {
+      "scenario": "Code Pattern 💻 (JAX SPMD Parallel Partitioning (pmap))",
+      "text": "Patrón de código en <b>python</b> para {{c1::JAX SPMD Parallel Partitioning (pmap)}}:<br><pre><code class=\"language-python\">import jax\nimport jax.numpy as jnp\n\n# Define a simple function\ndef add_constant(x):\n    return x + 10.0\n\n# Compile for parallel execution across all TPU/GPU devices\nparallel_add = jax.pmap(add_constant)\n\n# Prepare input array (size must equal local device count)\ndevices = jax.local_device_count()\nx = jnp.arange(devices) * 1.5\ny = parallel_add(x)\nprint(f\"Devices: {devices}, Input: {x}, Output: {y}\")</code></pre>",
+      "explanation": "Demonstrates JAX's Single Program Multiple Data (SPMD) paradigm where `jax.pmap` compiles a function and replicates execution across multiple TPU cores in parallel.",
+      "spanish": "Patrón de código: JAX SPMD Parallel Partitioning (pmap)",
+      "usage": "Snippet: <pre><code class=\"language-python\">import jax\nimport jax.numpy as jnp\n\n# Define a simple function\ndef add_constant(x):\n    return x + 10.0\n\n# Compile for parallel execution across all TPU/GPU devices\nparallel_add = jax.pmap(add_constant)\n\n# Prepare input array (size must equal local device count)\ndevices = jax.local_device_count()\nx = jnp.arange(devices) * 1.5\ny = parallel_add(x)\nprint(f\"Devices: {devices}, Input: {x}, Output: {y}\")</code></pre><br>Output expected: <code>Success</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "92b1f6eea9c59742",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "generative",
+        "autoregressive"
+      ]
+    },
+    "content": {
+      "scenario": "Generative Models: Autoregressive Sampling 📝",
+      "text": "Autoregressive models generate one token at a time conditioned on prior {{c1::tokens}}.",
+      "explanation": "This is the foundation of many text generation systems and language models.",
+      "spanish": "Los modelos autoregresivos generan un token a la vez condicionado por los tokens previos.",
+      "usage": "Used in chat, code generation, and long-form text creation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9ae48c2924f2326e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "generative",
+        "diffusion"
+      ]
+    },
+    "content": {
+      "scenario": "Generative Models: Latent Diffusion 🌌",
+      "text": "{{c1::Latent diffusion}} learns to denoise a compressed latent representation rather than operating on pixels directly.",
+      "explanation": "It greatly improves efficiency and scalability for image generation.",
+      "spanish": "La difusión latente aprende a denoiser una representación latente comprimida en lugar de operar directamente sobre píxeles.",
+      "usage": "Central in modern image synthesis and editing tools."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fbd066a9106c9fe8",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "generative",
+        "guidance"
+      ]
+    },
+    "content": {
+      "scenario": "Generative Models: Classifier-Free Guidance 🎯",
+      "text": "Classifier-{{c1::free guidance}} steers generation toward a condition without requiring a separate classifier model.",
+      "explanation": "It is a key technique for controllable text-to-image generation.",
+      "spanish": "La guía sin clasificador orienta la generación hacia una condición sin requerir un modelo clasificador separado.",
+      "usage": "Used in image generation and controllable synthesis systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b5c81f913478b3b1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "generative",
+        "sampling"
+      ]
+    },
+    "content": {
+      "scenario": "Generative Models: Sampling Temperature 🌡️",
+      "text": "Temperature controls how random or deterministic the next-{{c1::token}} sampling process is.",
+      "explanation": "It is one of the easiest ways to trade creativity for reliability.",
+      "spanish": "La temperatura controla qué tan aleatorio o determinista es el proceso de muestreo del siguiente token.",
+      "usage": "Used in conversation, summarization, and creative generation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f98e934ee1974e6b",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "generative",
+        "sampling"
+      ]
+    },
+    "content": {
+      "scenario": "Generative Models: Top-k and Top-p Sampling 🎲",
+      "text": "Top-k and top-p sampling limit the candidate {{c1::tokens}} considered during generation.",
+      "explanation": "They help avoid low-quality or incoherent outputs while preserving flexibility.",
+      "spanish": "Top-k y top-p limitan los tokens candidatos considerados durante la generación.",
+      "usage": "Important in text generation and dialogue systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "27531aa3e331a711",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "generative",
+        "evaluation"
+      ]
+    },
+    "content": {
+      "scenario": "Generative Models: Training Objective Mismatch ⚖️",
+      "text": "Generative models can be trained with objectives that do not match the {{c1::downstream}} task, causing distributional mismatch.",
+      "explanation": "This mismatch is a common source of poor sample quality or weak controllability.",
+      "spanish": "Los modelos generativos pueden entrenarse con objetivos que no coinciden con la tarea downstream, causando mismatch distributivo.",
+      "usage": "Relevant in synthetic data generation and creative systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2deb229b4232a001",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "moe"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Systems: MoE Architectures 🧩",
+      "text": "{{c1::Mixture}}-of-Experts routes each token to a subset of specialist subnetworks, increasing capacity without matching the cost of a full dense model.",
+      "explanation": "MoE is a major technique for scaling language models efficiently while keeping inference manageable.",
+      "spanish": "Mixture-of-Experts enruta cada token a un subconjunto de subredes especializadas, aumentando capacidad sin igualar el costo de un modelo denso completo.",
+      "usage": "Used in frontier LLMs, routing-heavy inference systems, and large-scale generative platforms."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a605de3cb71b503a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "inference"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Systems: Prefix Caching 🗂️",
+      "text": "{{c1::Prefix caching}} reuses computed attention states for repeated prompt prefixes across requests.",
+      "explanation": "It is one of the most effective latency and cost optimizations for multi-turn chat systems.",
+      "spanish": "El prefix caching reutiliza estados de atención calculados para prefijos de prompt repetidos entre solicitudes.",
+      "usage": "Common in assistants, chat APIs, and enterprise copilots."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "75ef22ef3cf86824",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "serving"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Systems: Continuous Batching 🔄",
+      "text": "{{c1::Continuous batching}} dynamically packs incoming requests into the next decode step instead of waiting for a fixed batch size.",
+      "explanation": "It improves throughput and tail latency for real-time serving systems.",
+      "spanish": "El continuous batching empaqueta dinámicamente solicitudes entrantes en el siguiente paso de decodificación en lugar de esperar un batch fijo.",
+      "usage": "Essential in high-concurrency LLM APIs and interactive applications."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cbdb616c49500e93",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "attention"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Systems: Paged Attention 📄",
+      "text": "{{c1::Paged attention}} manages key-value cache memory in pages so long-context inference can scale more efficiently.",
+      "explanation": "It is a core optimization for serving large context windows without memory fragmentation.",
+      "spanish": "Paged attention gestiona la memoria del KV cache en páginas para que la inferencia con contextos largos escale más eficientemente.",
+      "usage": "Used in long-context chat, retrieval, and document analysis systems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4364820599aa719f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "latency"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Systems: Latency Budgeting ⏱️",
+      "text": "{{c1::Latency budgeting}} allocates target time to preprocessing, model execution, retrieval, and postprocessing.",
+      "explanation": "It helps teams design systems that meet SLA expectations under real-world conditions.",
+      "spanish": "El latency budgeting asigna tiempo objetivo a preprocesado, ejecución del modelo, recuperación y postprocesado.",
+      "usage": "Important for customer-facing copilots and real-time automation."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "995695d10cbd6d83",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai",
+        "llm",
+        "routing"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Systems: Model Routing 🎯",
+      "text": "{{c1::Model routing}} sends requests to the cheapest or most suitable model based on task complexity and latency requirements.",
+      "explanation": "It is a practical pattern for reducing cost while preserving quality.",
+      "spanish": "El model routing envía solicitudes al modelo más barato o más adecuado según complejidad de la tarea y requisitos de latencia.",
+      "usage": "Widely used in multi-model AI platforms and agentic stacks."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2441589b9c8d5471",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "llm_fundamentals"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Fundamentals: Core Math 🧠",
+      "text": "The Scaled Dot-Product Attention is defined mathematically as {{c1::\\(\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\)}}",
+      "explanation": "This attention formula matches Queries (Q) against Keys (K) to create an attention score matrix. The matrix is divided by scaling factor \\(\\sqrt{d_k}\\) to prevent dot product values from growing too large, which would push the softmax into regions with vanishing gradients.",
+      "spanish": "La atención de producto punto escalada se define matemáticamente como \\(\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\).",
+      "usage": "Formula component details:<ul><li>\\(Q, K, V\\): Query, Key, and Value matrices.</li><li>\\(d_k\\): Dimensionality of the key vectors.</li><li>\\(\\text{softmax}\\): Normalizes attention weights to sum up to 1.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9ce8793b109b79d0",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "llm_fundamentals"
+      ]
+    },
+    "content": {
+      "scenario": "LLM Fundamentals: Optimization 🚀",
+      "text": "During auto-regressive decoding, the {{c1::KV Cache}} is used to store past key and value vectors, reducing attention computation time complexity from {{c1::\\(O(N^2)\\)}} to {{c1::\\(O(N)\\)}}.",
+      "explanation": "At each decoding step, LLMs generate one token at a time. Instead of recalculating Queries, Keys, and Values for all previous tokens in the sequence, the Key and Value vectors are saved in GPU memory (cached). Only the Query of the new token needs to match against the cached Keys and Values.",
+      "spanish": "Durante la decodificación autorregresiva, el KV Cache se usa para almacenar vectores clave y de valor pasados, reduciendo la complejidad del cálculo de atención de O(N^2) a O(N).",
+      "usage": "Implications:<ul><li>Saves massive compute during inference.</li><li>Trades compute overhead for high GPU memory consumption.</li><li>Optimized by architectures like Grouped-Query Attention (GQA).</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "47ee2e8991c1f4b5",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "transformers",
+        "attention"
+      ]
+    },
+    "content": {
+      "scenario": "LLM: Attention Mechanism 🤖",
+      "text": "The core of the Transformer architecture is the computation of {{c1::scaled dot-product attention}}, which maps queries, keys, and values.",
+      "explanation": "Scaled dot-product attention measures the similarity between Queries and Keys, scales the results by the square root of key dimension \\(\\sqrt{d_k}\\) to prevent vanishing gradients, applies Softmax, and multiplies by Values.",
+      "spanish": "El núcleo de la arquitectura Transformer es el cálculo de la atención de producto escalar escalado (scaled dot-product attention), que mapea consultas, claves y valores.",
+      "usage": "Attention formula: \\(\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "83a85de98cfb089e",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "transformers",
+        "architecture"
+      ]
+    },
+    "content": {
+      "scenario": "LLM: Transformer Block 🤖",
+      "text": "A standard encoder-decoder {{c1::Transformer}} block consists of multi-head self-attention, layer normalization, residual connections, and position-wise feed-forward networks.",
+      "explanation": "Transformers discard recurrence (RNNs) entirely, using self-attention to process tokens in parallel, which makes them highly scalable for training on GPUs.",
+      "spanish": "Un bloque Transformer estándar codificador-decodificador consta de autoatención de múltiples cabezales, normalización de capa, conexiones residuales y redes de alimentación hacia adelante según la posición.",
+      "usage": "First introduced in the seminal paper 'Attention Is All You Need' by Vaswani et al. in 2017."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d6b9f4515598d674",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "tokenization",
+        "bpe"
+      ]
+    },
+    "content": {
+      "scenario": "LLM: Tokenization 🤖",
+      "text": "To split natural language text into sub-word units before feeding them to an LLM, current models utilize {{c1::Byte-Pair Encoding (BPE)}}.",
+      "explanation": "Byte-Pair Encoding (BPE) is a sub-word tokenization algorithm. It begins with a character-level vocabulary and iteratively merges the most frequent byte pairs in a corpus to create a fixed-size vocabulary.",
+      "spanish": "Para dividir el texto en lenguaje natural en unidades de subpalabras antes de ingresarlas a un LLM, los modelos actuales utilizan la codificación de pares de bytes (BPE).",
+      "usage": "Tokenizers like tiktoken (OpenAI) or SentencePiece (Meta) implement variants of Byte-Pair Encoding."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b89e9cc95456b988",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "pretraining",
+        "causal_language"
+      ]
+    },
+    "content": {
+      "scenario": "LLM: Pre-training 🤖",
+      "text": "To learn grammar, world knowledge, and reasoning, base LLMs undergo unsupervised pre-training on large corpora using the {{c1::causal language modeling}} objective.",
+      "explanation": "Causal language modeling (or next-token prediction) masks future tokens, forcing the model to predict the next token given only the left context: \\(P(w_t \\mid w_1, w_2, \\dots, w_{t-1})\\).",
+      "spanish": "Para aprender gramática, conocimiento del mundo y razonamiento, los LLM base se someten a un preentrenamiento no supervisado en grandes corpus utilizando el objetivo de modelado de lenguaje causal (causal language modeling).",
+      "usage": "Decoder-only models (like GPT-4, Llama) are pre-trained using causal language modeling."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "31bfb76245b8ed20",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "alignment",
+        "sft"
+      ]
+    },
+    "content": {
+      "scenario": "LLM: Instruction Tuning 🤖",
+      "text": "To align pre-trained base models so they follow prompts and behave as assistants, engineers perform {{c1::instruction tuning}} (Supervised Fine-Tuning).",
+      "explanation": "Supervised Fine-Tuning (SFT) trains the base model on high-quality datasets of prompt-response pairs. This adapts the model's output distribution to match user expectations (e.g. conversational format).",
+      "spanish": "Para alinear los modelos base preentrenados de modo que sigan instrucciones y se comporten como asistentes, los ingenieros realizan el ajuste de instrucciones (Supervised Fine-Tuning).",
+      "usage": "SFT datasets consist of structured instructions: <code>{\"prompt\": \"Explain RAG\", \"response\": \"...\"}</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d590045eb6b85291",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "alignment",
+        "rlhf"
+      ]
+    },
+    "content": {
+      "scenario": "LLM: Reward Model 🤖",
+      "text": "In RLHF, human preference data is used to train a {{c1::Reward Model}}, which outputs a scalar score evaluating the quality of an LLM's response.",
+      "explanation": "The Reward Model is trained using pairwise comparisons (responses A and B, where one is preferred). It acts as the surrogate human evaluator, providing reinforcement signals to optimize the LLM policy.",
+      "spanish": "En RLHF, los datos de preferencia humana se utilizan para entrenar un Modelo de Recompensa (Reward Model), que genera una puntuación escalar que evalúa la calidad de la respuesta de un LLM.",
+      "usage": "The Reward Model output is used as the utility function in PPO (Proximal Policy Optimization) loops."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "138a7ce5efe841be",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "generation",
+        "temperature"
+      ]
+    },
+    "content": {
+      "scenario": "LLM: Temperature 🤖",
+      "text": "To control the randomness of generation, the logits are scaled by dividing them by the {{c1::temperature}} parameter before applying Softmax.",
+      "explanation": "Scaling logits by temperature \\(T\\) modifies the probability distribution. High temperature (e.g. \\(T=1.2\\)) flattens the distribution (diverse output). Low temperature (e.g. \\(T=0.1\\)) sharpens it (deterministic output).",
+      "spanish": "Para controlar la aleatoriedad de la generación, los logits se escalan dividiéndolos por el parámetro de temperatura (temperature) antes de aplicar Softmax.",
+      "usage": "Logits update: \\(p_i = \\text{softmax}(z_i / T)\\). A temperature of 0 yields greedy decoding."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "327e587024dbb71c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "architecture",
+        "context"
+      ]
+    },
+    "content": {
+      "scenario": "LLM: Context Window 🤖",
+      "text": "The maximum sequence length (in tokens) that an LLM can process in a single execution is called its {{c1::context window}}.",
+      "explanation": "The context window is determined during training (often bound by self-attention memory complexity). If inputs exceed this limit, the model cannot process them without losing early tokens or suffering quality degradation.",
+      "spanish": "La longitud máxima de secuencia (en tokens) que un LLM puede procesar en una sola ejecución se denomina ventana de contexto (context window).",
+      "usage": "Recent models support context windows from 32K up to 1M+ tokens (e.g. Gemini)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "5d9a240e7b08a5cb",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "advanced_llm"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: Fine-Tuning ⚙️",
+      "text": "Low-Rank Adaptation (LoRA) freeze pre-trained weights and represents weight updates via two low-rank matrices as {{c1::\\(\\Delta W = B \\cdot A\\)}}",
+      "explanation": "For a weight matrix of size \\(d \\times k\\), updating weights directly is very expensive. LoRA decomposes the update \\(\\Delta W\\) into product of matrices \\(B\\) (size \\(d \\times r\\)) and \\(A\\) (size \\(r \\times k\\)), where rank \\(r \\ll \\min(d, k)\\). Only \\(A\\) and \\(B\\) are updated.",
+      "spanish": "La adaptación de bajo rango (LoRA) congela los pesos preentrenados y representa las actualizaciones de peso mediante dos matrices de bajo rango como \\(\\Delta W = B \\cdot A\\).",
+      "usage": "Core math details:<ul><li>Original Weights \\(W_0\\) remain frozen.</li><li>Forward pass: \\(h = W_0 x + \\Delta W x = W_0 x + B A x\\).</li><li>Reduces active parameter counts during fine-tuning by up to 99%.</li></ul><br>Reference: For end-to-end LLM fine-tuning pipelines, see <a href=\"https://lnkd.in/gcpSwEZu\">The LLM Engineer's Handbook</a>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "51f08009ee2c5ab1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ai_learning_path",
+        "advanced_llm"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: Alignment ⚖️",
+      "text": "Direct Preference Optimization (DPO) bypasses reinforcement learning by defining a closed-form loss over {{c1::preference pairs}} of chosen and rejected responses.",
+      "explanation": "Traditional RLHF requires training a reward model, then optimizing the LLM using complex PPO reinforcement learning. DPO mathematically demonstrates that you can optimize the LLM directly on chosen/rejected preference data, removing the need for a separate reward model or PPO training loop.",
+      "spanish": "La optimización de preferencia directa (DPO) evita el aprendizaje por refuerzo definiendo una pérdida de forma cerrada sobre pares de preferencia de respuestas elegidas y rechazadas.",
+      "usage": "DPO characteristics:<ul><li>More stable and faster to train than PPO.</li><li>Optimizes using a simple binary cross-entropy loss directly on the LLM policy's log probabilities.</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c1cc5bfedb9d3a48",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "advanced_llm",
+        "lora",
+        "fine_tuning"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: LoRA 🤖",
+      "text": "To fine-tune LLMs efficiently on consumer GPUs, you freeze the pre-trained weights and inject trainable rank decomposition matrices; this is called {{c1::low-rank adaptation}} (LoRA).",
+      "explanation": "LoRA parameterizes the weight update as \\(\\Delta W = B \\cdot A\\), where \\(W_0 \\in \\mathbb{R}^{d \\times k}\\), \\(B \\in \\mathbb{R}^{d \\times r}\\), and \\(A \\in \\mathbb{R}^{r \\times k}\\) with rank \\(r \\ll \\min(d, k)\\). This reduces trainable parameters by up to 99%.",
+      "spanish": "Para ajustar LLMs de manera eficiente en GPUs de consumo, congelas los pesos preentrenados e inyectas matrices de descomposición de rango entrenables; esto se llama adaptación de bajo rango (LoRA).",
+      "usage": "In HuggingFace: <code>from peft import LoraConfig, get_peft_model</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "48f781c30739d836",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "advanced_llm",
+        "quantization",
+        "inference"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: Quantization 🤖",
+      "text": "To reduce model memory footprint and speed up inference, weights are converted from 16-bit float to lower precision formats (e.g. 8-bit or 4-bit) using {{c1::quantization}}.",
+      "explanation": "Quantization maps high-precision floating point numbers to lower-precision integers (like INT8 or INT4) by scaling and rounding, minimizing information loss using calibration data.",
+      "spanish": "Para reducir la huella de memoria del modelo y acelerar la inferencia, los pesos se convierten de punto flotante de 16 bits a formatos de menor precisión utilizando cuantización (quantization).",
+      "usage": "Popular formats: <code>AWQ</code> (Activation-aware Weight Quantization), <code>GPTQ</code>, <code>GGUF</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d6da824565778a39",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "advanced_llm",
+        "moe",
+        "architecture"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: MoE 🤖",
+      "text": "To scale model capacity to billions of parameters without increasing computation costs per token, models implement a {{c1::Mixture of Experts (MoE)}} architecture.",
+      "explanation": "Mixture of Experts replaces feed-forward layers with a set of independent 'expert' sub-networks. A routing network directs each token to only a few active experts (e.g. Top-2), maintaining sparse activation.",
+      "spanish": "Para escalar la capacidad del modelo a miles de millones de parámetros sin aumentar los costos de cómputo por token, los modelos implementan una arquitectura de Mezcla de Expertos (MoE).",
+      "usage": "Mixtral 8x7B is a popular Mixture of Experts model where only 2 out of 8 experts are active per token."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8156f5d240f4aaf8",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "advanced_llm",
+        "flash_attention",
+        "optimization"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: FlashAttention 🤖",
+      "text": "To speed up self-attention and reduce memory utilization from quadratic to linear relative to context length, GPUs execute {{c1::FlashAttention}}.",
+      "explanation": "FlashAttention is an IO-aware exact attention algorithm. By partitioning attention computation into blocks and loading them into GPU SRAM, it reduces slower HBM (High Bandwidth Memory) read/write operations.",
+      "spanish": "Para acelerar la autoatención y reducir el uso de memoria de cuadrático a lineal en relación con la longitud del contexto, las GPUs ejecutan FlashAttention.",
+      "usage": "FlashAttention-2 and FlashAttention-3 provide massive speedups for long-context LLM execution."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c4e8b274f0155c0d",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "advanced_llm",
+        "rope",
+        "embeddings"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: RoPE 🤖",
+      "text": "To encode absolute positional information while naturally generalizing to longer context lengths, modern models utilize {{c1::Rotary Position Embedding (RoPE)}}.",
+      "explanation": "RoPE encodes position by rotating the Query and Key vector representations in 2D planes by an angle proportional to their sequence position. It maintains relative distances between tokens mathematically.",
+      "spanish": "Para codificar información posicional absoluta mientras se generaliza naturalmente a longitudes de contexto más largas, los modelos modernos utilizan la incrustación de posición rotativa (RoPE).",
+      "usage": "RoPE is used by Llama, Mistral, and Qwen architectures instead of absolute sinusiodal positional encodings."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "8b44775369554f66",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "advanced_llm",
+        "speculative_decoding",
+        "inference"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: Speculative Decoding 🤖",
+      "text": "To accelerate autoregressive generation, {{c1::Speculative Decoding}} uses a small draft model to generate multiple tokens, which are validated in parallel by a larger target model.",
+      "explanation": "Speculative Decoding exploits the fact that running a large LLM once on a sequence of tokens (parallel validation) takes almost the same time as running it on one token. This yields 2x-3x generation speedups without quality loss.",
+      "spanish": "Para acelerar la generación autorregresiva, la decodificación especulativa (Speculative Decoding) utiliza un modelo de borrador pequeño para generar múltiples tokens, que son validados en paralelo por un modelo objetivo más grande.",
+      "usage": "Requires a fast draft model (e.g. Llama-68M) and a powerful target model (e.g. Llama-70B)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "771ae9e410e20d85",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "advanced_llm",
+        "alignment",
+        "dpo"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: DPO 🤖",
+      "text": "To align LLMs directly on human preference data without training a separate reward model or using reinforcement learning, engineers apply {{c1::Direct Preference Optimization}} (DPO).",
+      "explanation": "DPO shows that the RLHF objective can be solved closed-form, mapping human preferences directly to a binary cross-entropy loss that updates the policy model relative to a reference model.",
+      "spanish": "Para alinear LLMs directamente con datos de preferencia humana sin entrenar un modelo de recompensa separado o usar aprendizaje por refuerzo, los ingenieros aplican la Optimización de Preferencias Directas (DPO).",
+      "usage": "DPO is simpler to train and more stable than PPO, eliminating the need to tune reward and value models."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "7fa234b100454a5d",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "advanced_llm",
+        "kv_cache",
+        "inference"
+      ]
+    },
+    "content": {
+      "scenario": "Advanced LLM: KV Cache 🤖",
+      "text": "To avoid recomputing attention states for past tokens at each generation step, inference engines implement a {{c1::KV Cache}}.",
+      "explanation": "During autoregressive generation, keys and values of past tokens remain constant. By saving them in GPU memory (KV Cache), the engine only needs to compute queries, keys, and values for the newly generated token.",
+      "spanish": "Para evitar volver a calcular los estados de atención para tokens pasados en cada paso de generación, los motores de inferencia implementan un KV Cache.",
+      "usage": "KV Cache memory consumption is a primary bottleneck for scaling concurrent user requests on GPU servers."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f19d7ed89797617a",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "test_time_compute",
+        "mcts"
+      ]
+    },
+    "content": {
+      "scenario": "Next-Gen LLMs: Test-Time Compute 🧠",
+      "text": "Reasoning models increase accuracy during inference by using {{c1::Test-Time Compute}}, letting the model explore reasoning trees using techniques like {{c2::Monte Carlo Tree Search (MCTS)}}.",
+      "explanation": "Test-Time Compute shifts complexity from model training to inference. Instead of generating a single output immediately, the model generates internal thought tokens, analyzes multiple alternative paths, and selects the most logical route before printing the final answer.",
+      "spanish": "Los modelos de razonamiento aumentan la precisión en inferencia al usar cómputo en tiempo de prueba, permitiendo al modelo explorar árboles de razonamiento mediante técnicas como MCTS.",
+      "usage": "Essential for complex mathematics, logical reasoning, code synthesis, and scientific proofs."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "6f2e37879872c8c0",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "vibecoding",
+        "software_development"
+      ]
+    },
+    "content": {
+      "scenario": "Next-Gen LLMs: Vibecoding Paradigm 🎸",
+      "text": "In the {{c1::Vibecoding}} paradigm, developers step back from writing physical code syntax and instead act as {{c2::system architects}} directing autonomous agents via iterative natural language prompts.",
+      "explanation": "Vibecoding refers to a coding style where the human programmer writes zero code directly, relying entirely on agentic IDEs to implement features, fix bugs, and refactor codebases while the human reviews the changes conceptually.",
+      "spanish": "En el paradigma de Vibecoding, los desarrolladores dejan de escribir sintaxis física de código y actúan como arquitectos de sistemas que dirigen agentes autónomos mediante instrucciones de lenguaje natural.",
+      "usage": "Highly effective for rapid prototyping and full-stack web application development."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3f6bddd8e792351f",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "llamaindex",
+        "workflows"
+      ]
+    },
+    "content": {
+      "scenario": "Next-Gen LLMs: LlamaIndex Workflows 🧬",
+      "text": "For event-driven agentic architectures, {{c1::LlamaIndex Workflows}} uses Python decorators like {{c2::@step}} to trigger asynchronous methods based on custom event classes.",
+      "explanation": "LlamaIndex Workflows provides an event-driven framework where step functions subscribe to specific event types, process data, and publish new events. This decouples the agent logic, making it easy to create complex, parallel agent execution paths.",
+      "spanish": "Para arquitecturas agénticas impulsadas por eventos, LlamaIndex Workflows utiliza decoradores de Python como @step para activar métodos asíncronos basados en clases de eventos personalizados.",
+      "usage": "Used to ingest multi-source documents where raw text, tables, and images are routed to different parsing pipelines asynchronously."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "89a4c0f06252a5c9",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "slm",
+        "quantization"
+      ]
+    },
+    "content": {
+      "scenario": "Next-Gen LLMs: Small Language Models (SLMs) 📱",
+      "text": "To run reasoning tasks locally on edge devices, developers apply {{c1::quantization (e.g., GGUF, AWQ)}} to compress Large Language Models into high-performance {{c2::Small Language Models (SLMs)}}.",
+      "explanation": "SLMs (typically under 14B parameters) can run locally on laptops or mobile phones. Quantization reduces the precision of the model weights (e.g. from 16-bit float to 4-bit integer), massively decreasing memory consumption while maintaining high performance.",
+      "spanish": "Para ejecutar tareas de razonamiento localmente en dispositivos periféricos, los desarrolladores aplican cuantización (GGUF, AWQ) para comprimir LLMs en SLMs de alto rendimiento.",
+      "usage": "Essential for privacy-first applications, offline environments, and low-latency local interactions."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a4c41f797c1e3c6c",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "llm",
+        "flash_attention",
+        "context_window"
+      ]
+    },
+    "content": {
+      "scenario": "Next-Gen LLMs: Dynamic Context Attention 🔍",
+      "text": "To support long-context windows efficiently, models use {{c1::Prefix Caching}} and optimized attention runtimes like {{c2::FlashAttention-3}} to avoid recomputing Key-Value (KV) matrices.",
+      "explanation": "Dynamic context windows allow models to ingest millions of tokens. FlashAttention-3 optimizes the compute-heavy attention step on modern GPUs by reducing memory reads/writes. Prefix Caching stores past conversations in GPU memory, avoiding redundant computation.",
+      "spanish": "Para soportar ventanas de contexto largo de manera eficiente, los modelos usan caché de prefijos y optimizaciones como FlashAttention-3 para evitar calcular de nuevo las matrices KV.",
+      "usage": "Crucial for codebases or documents that span millions of tokens, enabling agents to parse complete source trees in one request."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f1ff5232b37d1614",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "reasoning",
+        "reinforcement_learning"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Reasoning RL 🧠",
+      "text": "Reasoning models (like OpenAI's o1 or DeepSeek-R1) generate long internal chains of thought using policies optimized via {{c1::Reinforcement Learning}}.",
+      "explanation": "Instead of relying solely on supervised pre-training data, reasoning models are trained using RL algorithms (like GRPO or PPO) with rewards based on accuracy and readability of the thinking trace, encouraging self-correction.",
+      "spanish": "Los modelos de razonamiento (como o1 de OpenAI o DeepSeek-R1) generan largas cadenas internas de pensamiento utilizando políticas optimizadas mediante Aprendizaje por Refuerzo (Reinforcement Learning).",
+      "usage": "The model uses RL-optimized policies to formulate hypothesis checks and correct errors before outputting answers."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "26733388839a6175",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "reasoning",
+        "search_algorithms"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Tree Search 🧠",
+      "text": "To evaluate multiple alternative reasoning paths and select the most promising steps, reasoning models integrate {{c1::Monte Carlo Tree Search (MCTS)}} during inference.",
+      "explanation": "MCTS allows the model to treat reasoning as a search tree. It generates alternative tokens (nodes), evaluates their quality using value estimators, and expands the most optimal path, backtracking when paths fail.",
+      "spanish": "Para evaluar múltiples rutas alternativas de razonamiento y seleccionar los pasos más prometedores, los modelos de razonamiento integran la Búsqueda de Árbol de Monte Carlo (MCTS) durante la inferencia.",
+      "usage": "MCTS is combined with a policy model to guide inference-time search on mathematics and programming tasks."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "54776cd5a47165a6",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "reasoning",
+        "process_supervision"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Process Supervision 🧠",
+      "text": "To align reasoning models step-by-step, datasets are labeled using {{c1::process supervision}} rather than outcome supervision.",
+      "explanation": "Process supervision rewards the model for the correctness of each individual step in its reasoning chain of thought, whereas outcome supervision only rewards the model for the final answer.",
+      "spanish": "Para alinear los modelos de razonamiento paso a paso, los conjuntos de datos se etiquetan utilizando la supervisión del proceso (process supervision) en lugar de la supervisión del resultado.",
+      "usage": "Process supervision is highly effective at reducing logical hallucinations in complex math problems."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9641d033057d78b1",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "reasoning",
+        "inference_compute"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: Inference Compute 🧠",
+      "text": "Reasoning models scale performance on hard tasks by allocating more {{c1::inference-time compute}} to think before answering.",
+      "explanation": "While standard LLMs generate responses in a single forward pass, reasoning models use inference-time compute to generate thousands of tokens representing their internal chain of thought, verifying hypotheses before writing the final output.",
+      "spanish": "Los modelos de razonamiento escalan el rendimiento en tareas difíciles al asignar más cómputo en tiempo de inferencia (inference-time compute) para pensar antes de responder.",
+      "usage": "Inference-time compute follows scaling laws: spending more compute during inference yields log-linear accuracy gains."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2432ff320b4ad3d5",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "tech_map_2026",
+        "reasoning",
+        "system_2"
+      ]
+    },
+    "content": {
+      "scenario": "Tech Map 2026: System 2 Thinking 🧠",
+      "text": "By pausing to deliberate, generate intermediate thoughts, and verify logic, reasoning LLMs emulate human {{c1::System 2 thinking}}.",
+      "explanation": "According to dual-process theory, System 1 thinking is fast and intuitive, while System 2 thinking is slow, deliberate, and logical. Standard LLMs behave like System 1, whereas reasoning models implement System 2.",
+      "spanish": "Al pausar para deliberar, generar pensamientos intermedios y verificar la lógica, los LLM de razonamiento emulan el pensamiento del Sistema 2 del ser humano (System 2 thinking).",
+      "usage": "System 2 thinking is activated in reasoning models by wrapping the generation in <code><thought>...</thought></code> tags."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

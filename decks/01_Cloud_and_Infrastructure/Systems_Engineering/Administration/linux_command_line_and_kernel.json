@@ -1,0 +1,498 @@
+[
+  {
+    "id": "7fa444031313b58b",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "fundamentals",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Basics 🐧: Detailed Directory Listing",
+      "text": "To list directory contents in detailed long format (showing permissions, ownership, size, and modification date), you run the command {{c1::`ls -l`}}.",
+      "explanation": "The `-l` flag changes the listing style to a detailed, column-oriented long format, which is essential for checking permissions, ownership, and metadata.",
+      "spanish": "Para listar el contenido de un directorio en formato largo detallado (mostrando permisos, propietario, tamaño y fecha de modificación), ejecutas el comando ls -l.",
+      "usage": "Command: <code>ls -l /var/log</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "72c6b211679252c1",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "fundamentals",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Basics 🐧: Home Directory Navigation",
+      "text": "To change the current working directory back to the user's home directory immediately, you use the command {{c1::`cd ~`}}.",
+      "explanation": "In Linux shells, the tilde character `~` is a shortcut that represents the home directory of the currently logged-in user. Running `cd` with no arguments also defaults to this home directory.",
+      "spanish": "Para cambiar el directorio de trabajo actual de regreso al directorio de inicio del usuario de inmediato, utilizas el comando cd ~.",
+      "usage": "Command: <code>cd ~</code> or simply <code>cd</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fc7f0d8ae5202682",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "fundamentals",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Basics 🐧: Nested Directory Creation",
+      "text": "To create a directory structure containing nested parent folders that do not exist yet, you use the command `mkdir` with the {{c1::`-p` flag}}.",
+      "explanation": "The `-p` (parents) flag tells `mkdir` to create any missing intermediate directories in the path without throwing an error if the directory already exists.",
+      "spanish": "Para crear una estructura de directorios que contiene carpetas padre anidadas que aún no existen, utilizas el comando mkdir con la opción -p.",
+      "usage": "Command: <code>mkdir -p /tmp/parent/child/grandchild</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "262553d905c5fd3a",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "fundamentals",
+        "permissions"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Basics 🐧: Octal File Permissions",
+      "text": "In Linux permission management, the octal representation {{c1::`755`}} grants read, write, and execute permissions to the owner, and read and execute to group and others.",
+      "explanation": "Octal permissions represent owner (7 = 4+2+1, rwx), group (5 = 4+1, r-x), and others (5 = 4+1, r-x). Writing it as rwxr-xr-x enables binary representation evaluation.",
+      "spanish": "En la gestión de permisos de Linux, la representación octal 755 otorga permisos de lectura, escritura y ejecución al propietario, y de lectura y ejecución al grupo y a otros.",
+      "usage": "Command: <code>chmod 755 script.sh</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "61f3caa2a75e206c",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "fundamentals",
+        "permissions"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Basics 🐧: Changing Ownership",
+      "text": "To change both the owner and the group of a file simultaneously, you use the command `chown` in the format {{c1::`owner:group`}}.",
+      "explanation": "The colon `:` separates the target owner username and the target group name when executing chown. This allows single-command updates to file access restrictions.",
+      "spanish": "Para cambiar tanto el propietario como el grupo de un archivo simultáneamente, utilizas el comando chown en el formato owner:group.",
+      "usage": "Command: <code>chown admin:webgroup index.html</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "484e3ba22adfb3e7",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "operations",
+        "io"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Operations ⚙️: Standard Error Redirection",
+      "text": "To redirect the standard error (stderr) of a command to a file, replacing its contents, you append {{c1::`2>`}} followed by the file path.",
+      "explanation": "In Linux, file descriptor 1 is stdout, and file descriptor 2 is stderr. Using `2>` redirects only the error stream while letting stdout stream normally.",
+      "spanish": "Para redirigir la salida de error estándar (stderr) de un comando a un archivo, reemplazando su contenido, agregas 2> seguido de la ruta del archivo.",
+      "usage": "Command: <code>find / -name secret.txt 2> errors.log</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ad9eefe3fb22b5b4",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "operations",
+        "text"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Operations ⚙️: Case-Insensitive Pattern Search",
+      "text": "To search for a text pattern in a file while ignoring case sensitivity, you use the `grep` command with the {{c1::`-i` flag}}.",
+      "explanation": "The `-i` flag forces grep to perform a case-insensitive search, matching both uppercase and lowercase characters (e.g. matching 'Error', 'ERROR', and 'error').",
+      "spanish": "Para buscar un patrón de texto en un archivo ignorando la distinción entre mayúsculas y minúsculas, utilizas el comando grep con la opción -i.",
+      "usage": "Command: <code>grep -i \"error\" /var/log/syslog</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "2020d6b5a1f88907",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "operations",
+        "text"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Operations ⚙️: In-Place Text Replacement",
+      "text": "To replace all occurrences of a string within a file globally in-place using sed, you run `sed -i` with the substitution expression {{c1::`s/old/new/g`}}.",
+      "explanation": "The `s` denotes substitute, `g` makes it global across each line (instead of just replacing the first occurrence on each line), and `-i` writes changes directly back to the file.",
+      "spanish": "Para reemplazar todas las apariciones de una cadena dentro de un archivo globalmente en el lugar usando sed, ejecutas sed -i con la expresión de sustitución s/old/new/g.",
+      "usage": "Command: <code>sed -i 's/localhost/127.0.0.1/g' config.txt</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "9f67d644ab4562a3",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "operations",
+        "text"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Operations ⚙️: Printing Specific Columns",
+      "text": "To print the second column of a space-delimited text output, you feed it into awk using the action {{c1::`{print $2}`}}.",
+      "explanation": "Awk automatically splits lines into fields using whitespace delimiters; `$0` represents the whole line, `$1` the first column, `$2` the second column, etc.",
+      "spanish": "Para imprimir la segunda columna de una salida de texto delimitada por espacios, la pasas a awk usando la acción {print $2}.",
+      "usage": "Command: <code>cat users.txt | awk '{print $2}'</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "744886813c4d6584",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "operations",
+        "packages"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Operations ⚙️: Non-Interactive Package Installation",
+      "text": "To install a package in Debian-based systems without prompting the user for confirmation, you append the {{c1::`-y` flag}} to `apt-get install`.",
+      "explanation": "The `-y` flag answers 'yes' automatically to all prompts during package installation, which is critical for writing unattended provisioning or CI/CD scripts.",
+      "spanish": "Para instalar un paquete en sistemas basados en Debian sin solicitar confirmación al usuario, agregas la opción -y a apt-get install.",
+      "usage": "Command: <code>apt-get install -y nginx</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f8fa10b0e9ebb38d",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "engineering",
+        "systemd"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Engineering 🛠️: Systemd Service Location",
+      "text": "Custom systemd service unit files created by system administrators should be placed in the directory {{c1::`/etc/systemd/system/`}}.",
+      "explanation": "The `/etc/systemd/system/` directory has precedence over vendor-supplied service definitions in `/lib/systemd/system/` and is reserved for administrator-defined services.",
+      "spanish": "Los archivos de unidad de servicio systemd personalizados creados por los administradores de sistemas deben colocarse en el directorio /etc/systemd/system/.",
+      "usage": "Service Path: <code>/etc/systemd/system/myapp.service</code><br>Reload daemon: <code>systemctl daemon-reload</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c7097c9fb754ae5a",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "engineering",
+        "systemd",
+        "monitoring"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Engineering 🛠️: Real-Time Service Log Monitoring",
+      "text": "To follow/tail syslog records in real-time using journalctl for a specific systemd unit, you use the command `journalctl` with the flags {{c1::`-u <unit> -f`}}.",
+      "explanation": "The `-u` flag specifies the target unit (service), and `-f` (follow) continuously prints new log entries as they are appended to the system journal.",
+      "spanish": "Para seguir/monitorear los registros de syslog en tiempo real usando journalctl para una unidad systemd específica, utilizas el comando journalctl con las opciones -u <unit> -f.",
+      "usage": "Command: <code>journalctl -u nginx.service -f</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "b0411c68e3a54452",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "engineering",
+        "scripting"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Engineering 🛠️: Bash File Conditionals",
+      "text": "To test if a file exists and is a regular file within a bash conditional statement, you use the operator {{c1::`-f`}}.",
+      "explanation": "In Bash tests (e.g. `[ -f \"$FILE\" ]`), `-f` returns true if the path exists and is a regular file, whereas `-d` tests for directories and `-e` checks for existence only.",
+      "spanish": "Para verificar si un archivo existe y es un archivo regular dentro de una declaración condicional de bash, utilizas el operador -f.",
+      "usage": "Usage: <code>if [ -f \"/etc/passwd\" ]; then echo \"File exists\"; fi</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "f28c0021db241e1f",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "engineering",
+        "monitoring"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Engineering 🛠️: Virtual Memory Diagnostics",
+      "text": "To inspect virtual memory statistics, showing processes, memory, paging, block I/O, traps, and CPU activity in real-time, you run the CLI tool {{c1::`vmstat`}}.",
+      "explanation": "The `vmstat` command reports virtual memory statistics, which helps identify if the system is bottlenecked by swapping (si/so columns) rather than physical memory allocation.",
+      "spanish": "Para inspeccionar las estadísticas de la memoria virtual, mostrando procesos, memoria, paginación, E/S de bloques, trampas y actividad de la CPU en tiempo real, ejecutas la herramienta CLI vmstat.",
+      "usage": "Command: <code>vmstat 2 5</code> (reports statistics every 2 seconds for 5 iterations)"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "c389bd839e71f0cc",
+    "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "tags": [
+        "linux",
+        "engineering",
+        "cli"
+      ]
+    },
+    "content": {
+      "scenario": "Linux Engineering 🛠️: Find Exec Action",
+      "text": "To execute a shell command on every file matched by the `find` tool, you append the `-exec` action terminated with the suffix {{c1::`{} \\;`}}.",
+      "explanation": "The `{}` is replaced by the current file path, and `\\;` terminates the command executed by `-exec`. Each match spawns a new process of the specified command.",
+      "spanish": "Para ejecutar un comando en cada archivo encontrado por la herramienta find, utilizas la acción -exec terminada con el sufijo {} \\;.",
+      "usage": "Command: <code>find . -name \"*.log\" -exec rm {} \\;</code>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]
