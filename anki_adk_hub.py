@@ -211,6 +211,7 @@ def cmd_sync():
     notes_to_add = []
     updated_count = 0
     skipped_count = 0
+    deck_migrations = {}
     
     for card in cards:
         # Construct tags using original tags if available
@@ -258,8 +259,7 @@ def cmd_sync():
             
             deck_updated = False
             if card['deck'] != current_deck:
-                print(f"[+] Migrating card {note_id} from deck '{current_deck}' to '{card['deck']}'...")
-                anki_invoke('changeDeck', cards=c_ids, deck=card['deck'])
+                deck_migrations.setdefault(card['deck'], []).extend(c_ids)
                 deck_updated = True
             
             fields_to_update = {}
@@ -297,6 +297,12 @@ def cmd_sync():
                 "tags": tags
             }
             notes_to_add.append(note)
+            
+    if deck_migrations:
+        print(f"\n[+] Processing {len(deck_migrations)} deck migrations in batch...")
+        for target_deck, c_ids in deck_migrations.items():
+            print(f"    [-] Migrating {len(c_ids)} cards to deck '{target_deck}'...")
+            anki_invoke('changeDeck', cards=c_ids, deck=target_deck)
             
     created_count = 0
     if notes_to_add:

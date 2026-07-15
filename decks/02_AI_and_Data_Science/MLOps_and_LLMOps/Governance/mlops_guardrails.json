@@ -215,7 +215,7 @@
     "content": {
       "scenario": "MLOps: Input Sanitization 🛡️",
       "text": "To detect and block malicious prompt payloads designed to hijack the model's system prompt, gateways perform {{c1::prompt injection sanitization}}.",
-      "explanation": "Prompt injection sanitization checks incoming user requests for adversarial content (e.g. 'Ignore all previous instructions...'). If detected, the gateway blocks the request and returns a safety error.",
+      "explanation": "The term \"prompt injection sanitization\" refers to checks incoming user requests for adversarial content (e.g. 'Ignore all previous instructions...'). If detected, the gateway blocks the request and returns a safety error.. In context: \"To detect and block malicious prompt payloads designed to hijack the model's system prompt, gateways perform prompt injection sanitization.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para detectar y bloquear cargas útiles de prompts maliciosos diseñadas para secuestrar el prompt del sistema del modelo, las pasarelas realizan la desinfección de inyección de prompts (prompt injection sanitization).",
       "usage": "Gateways use specialized classifier models (like Llama-Guard) to score inputs for prompt injection risk."
     },
@@ -317,7 +317,7 @@
     "content": {
       "scenario": "MLOps: Rate Limiting 🛡️",
       "text": "To protect costly model endpoints from denial-of-service (DoS) abuse and control costs, firewalls enforce {{c1::rate limiting}} on API tokens.",
-      "explanation": "Rate limiting restricts the number of API requests or total tokens processed per user within a specific timeframe (e.g. 1000 tokens per minute), throwing a 429 Too Many Requests error if exceeded.",
+      "explanation": "The term \"rate limiting\" refers to restricts the number of API requests or total tokens processed per user within a specific timeframe (e.g. 1000 tokens per minute), throwing a 429 Too Many Requests error if exceeded.. In context: \"To protect costly model endpoints from denial-of-service (DoS) abuse and control costs, firewalls enforce rate limiting on API tokens.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para proteger los costosos puntos finales del modelo del abuso de denegación de servicio (DoS) y controlar los costos, los cortafuegos aplican limitación de velocidad (rate limiting) en los tokens de la API.",
       "usage": "Implemented at the gateway using algorithms like Token Bucket or Leaky Bucket with Redis backends."
     },

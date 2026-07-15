@@ -278,7 +278,7 @@
     },
     "content": {
       "scenario": "Linux Operations ⚙️: Printing Specific Columns",
-      "text": "To print the second column of a space-delimited text output, you feed it into awk using the action {{c1::`{print $2}`}}.",
+      "text": "To print the second column of a space-delimited text output, you feed it into awk using the action {{c1::`{print $2}}`}}.",
       "explanation": "Awk automatically splits lines into fields using whitespace delimiters; `$0` represents the whole line, `$1` the first column, `$2` the second column, etc.",
       "spanish": "Para imprimir la segunda columna de una salida de texto delimitada por espacios, la pasas a awk usando la acción {print $2}.",
       "usage": "Command: <code>cat users.txt | awk '{print $2}'</code>"
@@ -477,7 +477,7 @@
     },
     "content": {
       "scenario": "Linux Engineering 🛠️: Find Exec Action",
-      "text": "To execute a shell command on every file matched by the `find` tool, you append the `-exec` action terminated with the suffix {{c1::`{} \\;`}}.",
+      "text": "To execute a shell command on every file matched by the `find` tool, you append the `-exec` action terminated with the suffix {{c1::`{}} \\;`}}.",
       "explanation": "The `{}` is replaced by the current file path, and `\\;` terminates the command executed by `-exec`. Each match spawns a new process of the specified command.",
       "spanish": "Para ejecutar un comando en cada archivo encontrado por la herramienta find, utilizas la acción -exec terminada con el sufijo {} \\;.",
       "usage": "Command: <code>find . -name \"*.log\" -exec rm {} \\;</code>"

@@ -1,0 +1,2818 @@
+{
+  "total_residuals": 934,
+  "unresolved_word_counts": {
+    "embeddings": 5,
+    "tokens": 5,
+    "word stress": 4,
+    "nasalization": 4,
+    "diphthongs": 4,
+    "langgraph": 3,
+    "variables": 3,
+    "prompt": 3,
+    "kv cache": 3,
+    "vowel reduction": 3,
+    "intonation": 3,
+    "es": 3,
+    "tu": 3,
+    "です": 3,
+    "이": 3,
+    "udp": 2,
+    "syn-ack": 2,
+    "acknowledge": 2,
+    "tenant project": 2,
+    "crewai": 2,
+    "autogen": 2,
+    "action": 2,
+    "llm-as-a-judge": 2,
+    "reinforcement learning": 2,
+    "recall": 2,
+    "real": 2,
+    "tuning": 2,
+    "prompting": 2,
+    "chunking": 2,
+    "pipelines": 2,
+    "r": 2,
+    "to": 2,
+    "of": 2,
+    "and": 2,
+    "tense vs. lax": 2,
+    "aspiration": 2,
+    "l-vocalization": 2,
+    "bonsoir": 2,
+    "salut": 2,
+    "lui": 2,
+    "guten morgen": 2,
+    "guten tag": 2,
+    "tschüss": 2,
+    "ihr": 2,
+    "ihnen": 2,
+    "sie": 2,
+    "final-obstruent devoicing": 2,
+    "buongiorno": 2,
+    "arrivederci": 2,
+    "buonanotte": 2,
+    "buona giornata": 2,
+    "lei": 2,
+    "sono": 2,
+    "syllable-timed rhythm": 2,
+    "h": 2,
+    "は": 2,
+    "の": 2,
+    "も": 2,
+    "vowel devoicing": 2,
+    "vowel length": 2,
+    "씨": 2,
+    "아니에요": 2,
+    "저": 2,
+    "는": 2,
+    "을": 2,
+    "boa noite": 2,
+    "olá": 2,
+    "tchau": 2,
+    "até logo": 2,
+    "por favor": 2,
+    "de nada": 2,
+    "somos": 2,
+    "estás": 2,
+    "está": 2,
+    "estamos": 2,
+    "ты": 2,
+    "вы": 2,
+    "ikanje": 2,
+    "hola": 2,
+    "mucho gusto": 2,
+    "ustedes": 2,
+    "wu wei": 2,
+    "mirroring": 2,
+    "listen": 2,
+    "archives": 2,
+    "n": 2,
+    "shoe": 2,
+    "volatility": 1,
+    "soar": 1,
+    "stateful inspection": 1,
+    "honeypot": 1,
+    "threat hunting": 1,
+    "egress filtering": 1,
+    "defense-in-depth": 1,
+    "process hollowing": 1,
+    "updateprocthreadattribute": 1,
+    "defense evasion": 1,
+    "obfuscation": 1,
+    "living off the land": 1,
+    "process injection": 1,
+    "dll hijacking": 1,
+    "impairing defenses": 1,
+    "uac bypass": 1,
+    "alternate data streams": 1,
+    "rootkit": 1,
+    "steganography": 1,
+    "timestomping": 1,
+    "domain fronting": 1,
+    "padding": 1,
+    "sandbox evasion": 1,
+    "fileless malware": 1,
+    "process argument spoofing": 1,
+    "staged": 1,
+    "stored xss": 1,
+    "cron": 1,
+    "credential dumping": 1,
+    "dns tunneling": 1,
+    "open source intelligence": 1,
+    "tcp syn scan": 1,
+    "tcp connect scan": 1,
+    "filtered": 1,
+    "banner grabbing": 1,
+    "whois": 1,
+    "shodan": 1,
+    "google dorking": 1,
+    "gobuster": 1,
+    "amass": 1,
+    "directory fuzzing": 1,
+    "exiftool": 1,
+    "packet sniffer": 1,
+    "os fingerprinting": 1,
+    "32": 1,
+    "128": 1,
+    "tcp": 1,
+    "syn": 1,
+    "ack": 1,
+    "a": 1,
+    "aaaa": 1,
+    "cname": 1,
+    "mx": 1,
+    "80": 1,
+    "443": 1,
+    "255.255.255.0": 1,
+    "254": 1,
+    "arp": 1,
+    "discover": 1,
+    "request": 1,
+    "nat": 1,
+    "192.168.0.0/16": 1,
+    "22": 1,
+    "23": 1,
+    "icmp": 1,
+    "stateful": 1,
+    "stateless": 1,
+    "vlans": 1,
+    "wpa3": 1,
+    "pod": 1,
+    "node": 1,
+    "service": 1,
+    "control plane": 1,
+    "private google access": 1,
+    "dedicated interconnect": 1,
+    "cloud vpn": 1,
+    "256": 1,
+    "ieee 802.1q": 1,
+    "path vector": 1,
+    "serverhellodone": 1,
+    "1460": 1,
+    "ml-kem": 1,
+    "ml-dsa": 1,
+    "adk framework": 1,
+    "agent engine runtime": 1,
+    "piccolo": 1,
+    "require_tool_confirmation=false": 1,
+    "api_client": 1,
+    "vertexaimemorybankservice": 1,
+    "gcsartifactservice": 1,
+    "agenttool": 1,
+    "firestore": 1,
+    "max_turns": 1,
+    "windsurf": 1,
+    "webcontainers": 1,
+    "copilot workspace": 1,
+    "workspace vector index": 1,
+    "isolated container sandbox": 1,
+    "context budget": 1,
+    "output": 1,
+    "guardrails": 1,
+    "alpha-beta pruning condition": 1,
+    "zobrist hashing for chess board states": 1,
+    "temporal difference td(0) value update": 1,
+    "alpha-beta pruning search in python": 1,
+    "q-learning temporal difference update": 1,
+    "semantic kernel": 1,
+    "state sharing": 1,
+    "thought": 1,
+    "observation": 1,
+    "react": 1,
+    "self-reflection": 1,
+    "tool call": 1,
+    "task decomposition": 1,
+    "human-in-the-loop": 1,
+    "momentum": 1,
+    "rmsprop": 1,
+    "supervised learning": 1,
+    "unsupervised learning": 1,
+    "overfitting": 1,
+    "underfitting": 1,
+    "bias-variance tradeoff": 1,
+    "k-fold cross-validation": 1,
+    "data leakage": 1,
+    "claude code": 1,
+    "antigravity": 1,
+    "tool retrieval": 1,
+    "loop detection": 1,
+    "evaluator-optimizer": 1,
+    "swarm": 1,
+    "orchestrator-workers": 1,
+    "folds": 1,
+    "f1": 1,
+    "word2vec negative sampling loss": 1,
+    "hierarchical softmax approximation": 1,
+    "vc dimension sample complexity bound": 1,
+    "forecasting": 1,
+    "forecast": 1,
+    "pooling": 1,
+    "transformers": 1,
+    "negative sampling": 1,
+    "message passing": 1,
+    "cold start": 1,
+    "bootstrapping": 1,
+    "jacobian matrix": 1,
+    "eigenvalues": 1,
+    "conjugate gradient": 1,
+    "l-bfgs": 1,
+    "target encoding": 1,
+    "tf-idf": 1,
+    "principal components": 1,
+    "interaction terms": 1,
+    "maximum margin": 1,
+    "conditional independence": 1,
+    "bagging": 1,
+    "l2 regularization": 1,
+    "t-sne": 1,
+    "dbscan": 1,
+    "isolation forest": 1,
+    "harmonic mean": 1,
+    "log loss": 1,
+    "mape": 1,
+    "silhouette coefficient": 1,
+    "platt scaling": 1,
+    "lime": 1,
+    "adam": 1,
+    "feature store": 1,
+    "concept drift": 1,
+    "knowledge distillation": 1,
+    "dynamic batching": 1,
+    "shadow deployment": 1,
+    "edge computing": 1,
+    "orchestration engine": 1,
+    "data lineage": 1,
+    "ai engineering": 1,
+    "generative deep learning": 1,
+    "lineage": 1,
+    "feature stores": 1,
+    "b testing": 1,
+    "serve skew": 1,
+    "qlora": 1,
+    "direct preference optimization": 1,
+    "proximal policy optimization": 1,
+    "fine": 1,
+    "pytorch lora linear layer implementation": 1,
+    "exact match": 1,
+    "rouge": 1,
+    "ranking": 1,
+    "outputs": 1,
+    "task success": 1,
+    "tool": 1,
+    "trace logging": 1,
+    "failure modes": 1,
+    "human": 1,
+    "pass@k coding evaluation formula": 1,
+    "chunks": 1,
+    "reranking": 1,
+    "factual": 1,
+    "grounding": 1,
+    "audio": 1,
+    "drift": 1,
+    "colpali": 1,
+    "graphrag": 1,
+    "query expansion": 1,
+    "cross-encoder reranking": 1,
+    "parent document retrieval": 1,
+    "hybrid search": 1,
+    "scaled dot-product attention in pytorch": 1,
+    "deepseek-v3 mla low-rank key-value compression": 1,
+    "pipelining": 1,
+    "autoscaling": 1,
+    "kv cache memory footprint": 1,
+    "batches": 1,
+    "gpu": 1,
+    "batch": 1,
+    "throughput": 1,
+    "backpropagation": 1,
+    "learning rate": 1,
+    "token": 1,
+    "downstream": 1,
+    "mixture": 1,
+    "prefix caching": 1,
+    "continuous batching": 1,
+    "paged attention": 1,
+    "latency budgeting": 1,
+    "model routing": 1,
+    "scaled dot-product attention": 1,
+    "transformer": 1,
+    "causal language modeling": 1,
+    "reward model": 1,
+    "temperature": 1,
+    "context window": 1,
+    "quantization": 1,
+    "flashattention": 1,
+    "speculative decoding": 1,
+    "vibecoding": 1,
+    "llamaindex workflows": 1,
+    "flashattention-3": 1,
+    "process supervision": 1,
+    "inference-time compute": 1,
+    "system 2 thinking": 1,
+    "inputs": 1,
+    "llm": 1,
+    "shifts": 1,
+    "serving sla": 1,
+    "model registry": 1,
+    "canary deployments": 1,
+    "monitoring": 1,
+    "backpressure": 1,
+    "kubeflow pipelines sdk component": 1,
+    "roi": 1,
+    "auditable": 1,
+    "spans": 1,
+    "nemo guardrails": 1,
+    "colang": 1,
+    "pagedattention": 1,
+    "rlaif": 1,
+    "pii redaction": 1,
+    "prompt injection sanitization": 1,
+    "llm gateway firewall": 1,
+    "adversarial jailbreak detection": 1,
+    "rate limiting": 1,
+    "nǐ hǎo": 1,
+    "zǎo shang hǎo": 1,
+    "wǎnshang hǎo": 1,
+    "zàijiàn": 1,
+    "hěn gāoxìng rènshí nǐ": 1,
+    "xièxie": 1,
+    "bú kèqi": 1,
+    "duìbuqǐ": 1,
+    "míngtiān jiàn": 1,
+    "wǎn'ān": 1,
+    "huānyíng": 1,
+    "hǎo jiǔ bù jiàn": 1,
+    "qǐng": 1,
+    "wǒ tīng bu dǒng": 1,
+    "qǐng shuō màn yīdiǎn": 1,
+    "wǒ hěn hǎo": 1,
+    "wǒ": 1,
+    "nǐ": 1,
+    "tā": 1,
+    "wǒmen": 1,
+    "tāmen": 1,
+    "bú shì": 1,
+    "nǐmen": 1,
+    "yě": 1,
+    "shénme": 1,
+    "méiyǒu": 1,
+    "tones": 1,
+    "diphthongs/triphthongs": 1,
+    "aspiration contrast": 1,
+    "the three series": 1,
+    "retroflex": 1,
+    "alveolo-palatal": 1,
+    "bu sandhi": 1,
+    "yi sandhi": 1,
+    "half 3rd tone rule": 1,
+    "colloquial syllable contraction": 1,
+    "tonal identity": 1,
+    "neutral tone": 1,
+    "the \"zhiao\" shortcut": 1,
+    "the half 3rd tone rule": 1,
+    "ü / yu": 1,
+    "ian": 1,
+    "want to": 1,
+    "wanna": 1,
+    "going to": 1,
+    "gonna": 1,
+    "i don’t know": 1,
+    "i dunno": 1,
+    "sort of": 1,
+    "kind of": 1,
+    "turn on": 1,
+    "t": 1,
+    "rhotic vowels": 1,
+    "rhoticity": 1,
+    "flapping": 1,
+    "t-omission": 1,
+    "d-omission": 1,
+    "h-dropping": 1,
+    "n-to-m / n-to-ng": 1,
+    "yod-coalescence": 1,
+    "linking & liaison": 1,
+    "intrusion": 1,
+    "sentence stress": 1,
+    "connected speech pro-tip": 1,
+    "the \"wanned\" effect": 1,
+    "about": 1,
+    "teacher": 1,
+    "4/4": 1,
+    "aabb": 1,
+    "quarter-note": 1,
+    "eighth-note": 1,
+    "scribing": 1,
+    "snares": 1,
+    "link method": 1,
+    "like": 1,
+    "as": 1,
+    "didn't come out": 1,
+    "file a claim": 1,
+    "patio": 1,
+    "good morning": 1,
+    "good afternoon": 1,
+    "good evening": 1,
+    "goodbye": 1,
+    "good night": 1,
+    "6:00 am": 1,
+    "grab": 1,
+    "8:00 pm": 1,
+    "i am": 1,
+    "you are": 1,
+    "he/she/it is": 1,
+    "we are": 1,
+    "they are": 1,
+    "baguettes": 1,
+    "monitor": 1,
+    "agenda": 1,
+    "plan": 1,
+    "bonjour": 1,
+    "au revoir": 1,
+    "enchanté": 1,
+    "à bientôt": 1,
+    "bienvenue": 1,
+    "à demain": 1,
+    "bonne nuit": 1,
+    "s'il vous plaît": 1,
+    "s'il te plaît": 1,
+    "merci beaucoup": 1,
+    "de rien": 1,
+    "je m'appelle": 1,
+    "bonne journée": 1,
+    "bonne soirée": 1,
+    "je suis": 1,
+    "tu es": 1,
+    "il/elle est": 1,
+    "nous sommes": 1,
+    "vous êtes": 1,
+    "ils/elles sont": 1,
+    "on": 1,
+    "être": 1,
+    "je ne suis pas": 1,
+    "moi": 1,
+    "toi": 1,
+    "elle": 1,
+    "nous": 1,
+    "vous": 1,
+    "eux": 1,
+    "elles": 1,
+    "elle est heureuse": 1,
+    "ils sont grands": 1,
+    "est-ce que": 1,
+    "c'est": 1,
+    "ce sont": 1,
+    "ça": 1,
+    "cela": 1,
+    "rounded front vowels": 1,
+    "semi-vowels": 1,
+    "lack of aspiration": 1,
+    "liaison": 1,
+    "enchaînement": 1,
+    "silent final letters": 1,
+    "e-caduc (schwa) deletion": 1,
+    "pronoun contractions & drops": 1,
+    "il/elle drops": 1,
+    "ce-contraction": 1,
+    "final liquid dropping": 1,
+    "fixed stress": 1,
+    "syllable-timing": 1,
+    "the \"t'es\" and \"y'a\" contractions": 1,
+    "la liaison": 1,
+    "tonic syllable hunting": 1,
+    "narrow listening": 1,
+    "guten abend": 1,
+    "hallo": 1,
+    "auf wiedersehen": 1,
+    "gute nacht": 1,
+    "bis bald": 1,
+    "willkommen": 1,
+    "bis morgen": 1,
+    "bis später": 1,
+    "bitte": 1,
+    "danke schön": 1,
+    "vielen dank": 1,
+    "gern geschehen": 1,
+    "ich heiße": 1,
+    "mein name ist": 1,
+    "schönen tag noch": 1,
+    "ich bin": 1,
+    "du bist": 1,
+    "er/sie/es ist": 1,
+    "wir sind": 1,
+    "ihr seid": 1,
+    "sie sind": 1,
+    "sein": 1,
+    "nicht": 1,
+    "mich": 1,
+    "dich": 1,
+    "ihm": 1,
+    "uns": 1,
+    "euch": 1,
+    "das ist": 1,
+    "das sind": 1,
+    "er": 1,
+    "umlauts": 1,
+    "the schwa and vocalic r": 1,
+    "final \"e\" dropping": 1,
+    "article/pronoun reduction": 1,
+    "pronouns": 1,
+    "final -t omission": 1,
+    "sentence melody": 1,
+    "the nasal ending shortcut": 1,
+    "the \"'n\" and \"'ne\" reductions": 1,
+    "ö / oe": 1,
+    "buonasera": 1,
+    "ciao": 1,
+    "a presto": 1,
+    "per favore": 1,
+    "per piacere": 1,
+    "grazie mille": 1,
+    "prego": 1,
+    "mi chiamo": 1,
+    "piacere": 1,
+    "piacere di conoscerti": 1,
+    "ci vediamo": 1,
+    "io sono": 1,
+    "tu sei": 1,
+    "lui/lei è": 1,
+    "noi siamo": 1,
+    "voi siete": 1,
+    "loro sono": 1,
+    "io": 1,
+    "noi": 1,
+    "voi": 1,
+    "loro": 1,
+    "essere": 1,
+    "sei": 1,
+    "è": 1,
+    "siamo": 1,
+    "siete": 1,
+    "non": 1,
+    "non sono italiano": 1,
+    "il mio libro": 1,
+    "questo": 1,
+    "questa": 1,
+    "quello": 1,
+    "quella": 1,
+    "loro sono felici": 1,
+    "pure vowels": 1,
+    "mid-vowel contrast": 1,
+    "gemination": 1,
+    "palatal sounds": 1,
+    "raddoppiamento fonosintattico": 1,
+    "elision": 1,
+    "word blending": 1,
+    "raddoppiamento pro-tip": 1,
+    "vowel purity rule": 1,
+    "double consonants": 1,
+    "こんにちは": 1,
+    "おはようございます": 1,
+    "こんばんは": 1,
+    "おやすみなさい": 1,
+    "さようなら": 1,
+    "はじめまして": 1,
+    "どうぞよろしくおねがいします": 1,
+    "おねがいします": 1,
+    "ください": 1,
+    "ありがとうございます": 1,
+    "どういたしまして": 1,
+    "お名前は何ですか": 1,
+    "お元気ですか": 1,
+    "すみません": 1,
+    "わたし": 1,
+    "あなた": 1,
+    "かれ": 1,
+    "かのじょ": 1,
+    "ではありません": 1,
+    "じゃないです": 1,
+    "か": 1,
+    "を": 1,
+    "これ": 1,
+    "それ": 1,
+    "あれ": 1,
+    "と申します": 1,
+    "何": 1,
+    "だれ": 1,
+    "どなた": 1,
+    "よろしくおねがいします": 1,
+    "no diphthongs": 1,
+    "mora-timed rhythm": 1,
+    "casual contractions": 1,
+    "informal sound merging": 1,
+    "ai": 1,
+    "oi": 1,
+    "ui": 1,
+    "pitch accent": 1,
+    "accent patterns": 1,
+    "the \"desu\" whisper": 1,
+    "everyday contraction rule": 1,
+    "안녕하세요": 1,
+    "안녕히 계세요": 1,
+    "안녕히 가세요": 1,
+    "감사합니다": 1,
+    "고맙습니다": 1,
+    "죄송합니다": 1,
+    "미안합니다": 1,
+    "반갑습니다": 1,
+    "처음 뵙겠습니다": 1,
+    "주세요": 1,
+    "부탁드립니다": 1,
+    "천만에요": 1,
+    "잘 부탁드립니다": 1,
+    "나": 1,
+    "우리": 1,
+    "저희": 1,
+    "당신": 1,
+    "너": 1,
+    "이다": 1,
+    "입니다": 1,
+    "이에요": 1,
+    "예요": 1,
+    "아니다": 1,
+    "아닙니다": 1,
+    "은": 1,
+    "가": 1,
+    "를": 1,
+    "의": 1,
+    "그": 1,
+    "도": 1,
+    "무엇": 1,
+    "뭐": 1,
+    "누구": 1,
+    "누가": 1,
+    "까": 1,
+    "vowel harmony": 1,
+    "three-way contrast": 1,
+    "aspirated": 1,
+    "tensification": 1,
+    "palatalization": 1,
+    "liquid assimilation": 1,
+    "casual vowel contractions": 1,
+    "i + eo": 1,
+    "ha + yeo": 1,
+    "o + a": 1,
+    "u + eo": 1,
+    "syllable-timed": 1,
+    "dialectal variation": 1,
+    "the \"hapnida\" rule": 1,
+    "the palatalization bridge": 1,
+    "bom dia": 1,
+    "boa tarde": 1,
+    "adeus": 1,
+    "obrigado": 1,
+    "obrigada": 1,
+    "chamo-me": 1,
+    "muito prazer": 1,
+    "prazer": 1,
+    "até amanhã": 1,
+    "eu sou / estou": 1,
+    "tu és / estás": 1,
+    "você é / está": 1,
+    "nós somos / estamos": 1,
+    "eles são / estão": 1,
+    "eu": 1,
+    "ele": 1,
+    "ela": 1,
+    "nós": 1,
+    "eles": 1,
+    "elas": 1,
+    "ser": 1,
+    "sou": 1,
+    "és": 1,
+    "é": 1,
+    "são": 1,
+    "estar": 1,
+    "estou": 1,
+    "estão": 1,
+    "você": 1,
+    "não": 1,
+    "não estou cansado": 1,
+    "dele": 1,
+    "dela": 1,
+    "nele": 1,
+    "nela": 1,
+    "strong r": 1,
+    "palatalization of t/d": 1,
+    "s-voicing & palatalization": 1,
+    "bp casual contractions": 1,
+    "bp l-vocalization": 1,
+    "bp plural marker dropping": 1,
+    "european portuguese": 1,
+    "brazilian portuguese": 1,
+    "the brazilian \"tá\" contraction": 1,
+    "the \"pra\" and \"cê\" shortcuts": 1,
+    "здравствуйте": 1,
+    "привет": 1,
+    "доброе утро": 1,
+    "добрый день": 1,
+    "добрый вечер": 1,
+    "до свидания": 1,
+    "пока": 1,
+    "пожалуйста": 1,
+    "спасибо": 1,
+    "меня зовут": 1,
+    "очень приятно": 1,
+    "спокойной ночи": 1,
+    "я": 1,
+    "он": 1,
+    "она": 1,
+    "оно": 1,
+    "мы": 1,
+    "они": 1,
+    "я врач": 1,
+    "не": 1,
+    "я не студент": 1,
+    "мой": 1,
+    "твой": 1,
+    "наш": 1,
+    "ваш": 1,
+    "его": 1,
+    "её": 1,
+    "их": 1,
+    "меня": 1,
+    "кто": 1,
+    "что": 1,
+    "это": 1,
+    "вас": 1,
+    "hard vs. soft": 1,
+    "final-devoicing": 1,
+    "regressive assimilation": 1,
+    "akanje": 1,
+    "regressive voicing assimilation": 1,
+    "voicing": 1,
+    "devoicing": 1,
+    "consonant cluster simplification": 1,
+    "phonemic stress": 1,
+    "sentence intonation": 1,
+    "the \"khorosho\" vowel reduction": 1,
+    "the silent letters": 1,
+    "а": 1,
+    "buenos días": 1,
+    "buenas tardes": 1,
+    "buenas noches": 1,
+    "adiós": 1,
+    "hasta luego": 1,
+    "muchas gracias": 1,
+    "me llamo": 1,
+    "encantado": 1,
+    "hasta mañana": 1,
+    "nos vemos": 1,
+    "yo soy / estoy": 1,
+    "tú eres / estás": 1,
+    "él/ella/usted es / está": 1,
+    "nosotros somos / estamos": 1,
+    "ellos son / están": 1,
+    "yo": 1,
+    "tú": 1,
+    "él": 1,
+    "ella": 1,
+    "nosotros": 1,
+    "nosotras": 1,
+    "ellos": 1,
+    "ellas": 1,
+    "soy": 1,
+    "eres": 1,
+    "son": 1,
+    "estoy": 1,
+    "están": 1,
+    "usted": 1,
+    "no": 1,
+    "no estoy cansado": 1,
+    "vosotros": 1,
+    "mi": 1,
+    "su": 1,
+    "monophthongs": 1,
+    "hiatus": 1,
+    "the rhotics": 1,
+    "yeísmo": 1,
+    "seseo vs. distinción": 1,
+    "nasal & lateral assimilation": 1,
+    "s-aspiration & dropping": 1,
+    "intervocalic -d-** in the ending": 1,
+    "b, d, g lenition": 1,
+    "agudas": 1,
+    "llanas": 1,
+    "esdrújulas": 1,
+    "sinalefa pro-tip": 1,
+    "the \"cansao\" trick": 1,
+    "the obstacle is the way": 1,
+    "memento mori": 1,
+    "amor fati": 1,
+    "premeditatio malorum": 1,
+    "meditations": 1,
+    "arche": 1,
+    "ataraxia": 1,
+    "cynicism": 1,
+    "epoche": 1,
+    "syllogism": 1,
+    "philosopher kings": 1,
+    "virtue is knowledge": 1,
+    "anicca": 1,
+    "anatta": 1,
+    "xiao": 1,
+    "ren": 1,
+    "dharma": 1,
+    "moksha": 1,
+    "dukkha": 1,
+    "tao": 1,
+    "categorical imperative": 1,
+    "will to power": 1,
+    "panopticon": 1,
+    "cogito, ergo sum": 1,
+    "übermensch": 1,
+    "bad faith": 1,
+    "laissez-faire": 1,
+    "ping": 1,
+    "wow": 1,
+    "in media res": 1,
+    "the posture": 1,
+    "the eye contact": 1,
+    "the greeting": 1,
+    "downward inflection": 1,
+    "vocal resonance": 1,
+    "eliminate minimizers": 1,
+    "own your opinion": 1,
+    "the filler word ban": 1,
+    "voice projection": 1,
+    "claiming space early": 1,
+    "slow down your cadence": 1,
+    "the hook": 1,
+    "the conflict": 1,
+    "open gestures": 1,
+    "relaxed asymmetry": 1,
+    "smile while speaking": 1,
+    "the feet indicator": 1,
+    "micro-expressions": 1,
+    "sbi model": 1,
+    "behavior": 1,
+    "collaborate on solution": 1,
+    "active de-escalation": 1,
+    "neutral labeling": 1,
+    "selective agreement": 1,
+    "the validation": 1,
+    "the direct refusal": 1,
+    "the alternative": 1,
+    "the bridging technique": 1,
+    "bridging phrases": 1,
+    "the hand gesture": 1,
+    "tongue drills": 1,
+    "vocal fry": 1,
+    "the articulation test": 1,
+    "reflecting": 1,
+    "summarizing": 1,
+    "open clarifiers": 1,
+    "ban the scripts": 1,
+    "the magic prompts": 1,
+    "the thread hook": 1,
+    "poise": 1,
+    "the clarifying prompt": 1,
+    "the commitment": 1,
+    "threading": 1,
+    "the pre-emphasis pause": 1,
+    "the post-statement pause": 1,
+    "the question pause": 1,
+    "focus on interests, not positions": 1,
+    "shared objectives": 1,
+    "avoid blame language": 1,
+    "the camera eye": 1,
+    "body framing": 1,
+    "dynamic volume": 1,
+    "the sticky pitch structure": 1,
+    "the problem": 1,
+    "the benefit": 1,
+    "the tri-point connection": 1,
+    "the trust anchor": 1,
+    "the sorry swap": 1,
+    "the diaphragm warm-up": 1,
+    "the in-media-res hook": 1,
+    "the warmth ratio": 1,
+    "the speech rate match": 1,
+    "the feedback rule": 1,
+    "the silence brake": 1,
+    "the excuse trap": 1,
+    "the momentum ride": 1,
+    "articulation drills": 1,
+    "the 70/30 rule": 1,
+    "the \"tell me more\" hack": 1,
+    "the shield technique": 1,
+    "the word hook": 1,
+    "the silence scale": 1,
+    "the third chair": 1,
+    "the camera sticky note": 1,
+    "the elevator test": 1,
+    "golden hour": 1,
+    "gatekeeper": 1,
+    "scripted framework": 1,
+    "status quo": 1,
+    "red herring": 1,
+    "explore": 1,
+    "respond": 1,
+    "need-payoff": 1,
+    "sales coaching": 1,
+    "lone wolf": 1,
+    "chunk": 1,
+    "capture": 1,
+    "organize": 1,
+    "distill": 1,
+    "express": 1,
+    "areas": 1,
+    "resources": 1,
+    "project": 1,
+    "area": 1,
+    "resource": 1,
+    "intermediate packets": 1,
+    "slow burns": 1,
+    "knowledge assets": 1,
+    "zettelkasten": 1,
+    "fleeting notes": 1,
+    "literature notes": 1,
+    "ultralearning": 1,
+    "drill": 1,
+    "a=1, b=2, c=3, d=4, e=5, s=6, g=7, h=8, n=9, o=0": 1,
+    "s": 1,
+    "o": 1,
+    "journey method": 1,
+    "associate": 1,
+    "store": 1,
+    "test": 1,
+    "26": 1,
+    "c": 1,
+    "memory tray": 1,
+    "person": 1,
+    "object": 1,
+    "z/s": 1,
+    "ok plateau": 1,
+    "m": 1,
+    "l": 1,
+    "run": 1,
+    "tree": 1,
+    "think": 1,
+    "record": 1,
+    "undertake": 1,
+    "synergize": 1,
+    "track": 1,
+    "senses": 1,
+    "exaggeration": 1,
+    "energy": 1,
+    "multitasking": 1,
+    "tie": 1,
+    "noah": 1,
+    "ma": 1,
+    "rye": 1,
+    "law": 1,
+    "key": 1,
+    "ivy": 1,
+    "bee": 1,
+    "toes": 1,
+    "buffer": 1,
+    "play": 1,
+    "jomo": 1,
+    "ability": 1,
+    "anchor prompt": 1,
+    "golden behavior": 1,
+    "pearl habit": 1,
+    "shine": 1
+  },
+  "residuals": [
+    {
+      "card_id": "edd39997616a02d0",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Blue_Teaming\\incident_response_and_operations.json",
+      "unresolved_words": [
+        "Volatility"
+      ],
+      "text": "The leading open-source command-line framework used by forensic analysts to analyze volatile RAM mem",
+      "current_spanish": "El framework de línea de comandos de código abierto líder utilizado por los analistas forenses para "
+    },
+    {
+      "card_id": "3cf04e4815371bf0",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Blue_Teaming\\security_operations.json",
+      "unresolved_words": [
+        "SOAR"
+      ],
+      "text": "While a SIEM aggregates and analyzes security log data, a {{c1::SOAR}} platform automates threat res",
+      "current_spanish": "Mientras que un SIEM agrega y analiza datos de registros de seguridad, una plataforma SOAR automatiz"
+    },
+    {
+      "card_id": "eaaf24ff04e5f3e8",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Blue_Teaming\\security_operations.json",
+      "unresolved_words": [
+        "stateful inspection"
+      ],
+      "text": "Unlike stateless packet filtering which only checks headers individually, {{c1::stateful inspection}",
+      "current_spanish": "A diferencia del filtrado de paquetes sin estado que solo verifica los encabezados individualmente, "
+    },
+    {
+      "card_id": "8883665789cfb87f",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Blue_Teaming\\security_operations.json",
+      "unresolved_words": [
+        "honeypot"
+      ],
+      "text": "A decoy server configured to look like a high-value vulnerable target to lure attackers and log thei",
+      "current_spanish": "Un servidor señuelo configurado para parecer un objetivo vulnerable de alto valor con el fin de atra"
+    },
+    {
+      "card_id": "296ccbda00c860fb",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Blue_Teaming\\security_operations.json",
+      "unresolved_words": [
+        "Threat Hunting"
+      ],
+      "text": "The security practice of proactively searching networks to find malicious activities that have bypas",
+      "current_spanish": "La práctica de seguridad de buscar proactivamente en las redes para encontrar actividades maliciosas"
+    },
+    {
+      "card_id": "97ae53c68d04fb66",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Blue_Teaming\\security_operations.json",
+      "unresolved_words": [
+        "egress filtering"
+      ],
+      "text": "To prevent compromised internal servers from establishing outbound connections to malicious C2 serve",
+      "current_spanish": "Para evitar que los servidores internos comprometidos establezcan conexiones salientes con servidore"
+    },
+    {
+      "card_id": "07144d541d05b64f",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Blue_Teaming\\security_operations.json",
+      "unresolved_words": [
+        "Defense-in-Depth"
+      ],
+      "text": "The cybersecurity strategy of layering multiple defensive controls across network, host, and data le",
+      "current_spanish": "La estrategia de ciberseguridad de organizar múltiples controles defensivos en capas a nivel de red,"
+    },
+    {
+      "card_id": "a971d11766e5a76f",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Process Hollowing"
+      ],
+      "text": "To execute covert code in a benign context, malware launches a system process in a suspended state, ",
+      "current_spanish": "Para ejecutar código encubierto en un contexto benigno, el malware inicia un proceso del sistema en "
+    },
+    {
+      "card_id": "291d173430a60209",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "UpdateProcThreadAttribute"
+      ],
+      "text": "To evade parent-child process detection rules, malware spoofs its parent process by using the {{c1::",
+      "current_spanish": "Para evadir las reglas de detección de procesos padre-hijo, el malware suplanta su proceso padre uti"
+    },
+    {
+      "card_id": "02eeb7e9e353e30c",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Defense Evasion"
+      ],
+      "text": "In security frameworks (like MITRE ATT&CK), the tactic used by adversaries to avoid detection by sec",
+      "current_spanish": "La táctica utilizada por los adversarios para evitar ser detectados por el software de seguridad y l"
+    },
+    {
+      "card_id": "ed62d96b34ee495a",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Obfuscation"
+      ],
+      "text": "The process of modifying code structure (e.g., via renaming variables, base64 encoding, or XOR encry",
+      "current_spanish": "El proceso de modificar la estructura del código para ocultar su lógica real sin cambiar el resultad"
+    },
+    {
+      "card_id": "e81a493c643d367c",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Living off the Land"
+      ],
+      "text": "Adversaries who execute malicious code using legitimate, pre-installed administrative operating syst",
+      "current_spanish": "Los atacantes que ejecutan código malicioso utilizando utilidades administrativas legítimas preinsta"
+    },
+    {
+      "card_id": "d676ad6712105307",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Process Injection"
+      ],
+      "text": "The technique where malware injects its own malicious code into the memory space of a running, legit",
+      "current_spanish": "La técnica en la que el malware inyecta su código malicioso en el espacio de memoria de un proceso l"
+    },
+    {
+      "card_id": "0e0797fe48ea842b",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "DLL Hijacking"
+      ],
+      "text": "The execution technique where an attacker places a malicious DLL with a name identical to a required",
+      "current_spanish": "La técnica donde un atacante coloca una DLL maliciosa con el mismo nombre que una biblioteca legítim"
+    },
+    {
+      "card_id": "c776aaeed0d5f197",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Impairing Defenses"
+      ],
+      "text": "To stop local monitoring, attackers try to disable or modify local host firewalls and antivirus prot",
+      "current_spanish": "Para detener el monitoreo, los atacantes intentan desactivar o dañar las defensas locales, técnica c"
+    },
+    {
+      "card_id": "ae636cbbe5929906",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "UAC Bypass"
+      ],
+      "text": "The process of exploiting system flaws or configurations to bypass Windows User Account Control prom",
+      "current_spanish": "El proceso de eludir las solicitudes de Control de Cuentas de Usuario (UAC) de Windows para ejecutar"
+    },
+    {
+      "card_id": "4832b4e09433b76f",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Alternate Data Streams"
+      ],
+      "text": "In Windows NTFS filesystems, attackers can hide malicious payloads inside legitimate files without m",
+      "current_spanish": "En Windows NTFS, los atacantes pueden ocultar archivos maliciosos dentro de archivos legítimos utili"
+    },
+    {
+      "card_id": "253de155e42cfe46",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Rootkit"
+      ],
+      "text": "A type of stealth malware that alters operating system files or modifies kernel memory to hide proce",
+      "current_spanish": "Un tipo de malware sigiloso que altera archivos del sistema o memoria del kernel para ocultar proces"
+    },
+    {
+      "card_id": "1efdfb962b5fb1f7",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Steganography"
+      ],
+      "text": "The practice of concealing malicious data, scripts, or payloads within standard, benign-looking file",
+      "current_spanish": "La práctica de ocultar datos o scripts maliciosos dentro de archivos que parecen normales y benignos"
+    },
+    {
+      "card_id": "07d0f4f5e9e05ab6",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Timestomping"
+      ],
+      "text": "The technique where attackers modify the creation, modification, and access timestamps of a maliciou",
+      "current_spanish": "La técnica en la que los atacantes modifican las marcas de tiempo (creación, modificación) de un arc"
+    },
+    {
+      "card_id": "12f3cf94e95c4cb7",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Domain Fronting"
+      ],
+      "text": "To hide the destination of command-and-control traffic, attackers use {{c1::Domain Fronting}}, which",
+      "current_spanish": "Para ocultar el destino del tráfico malicioso, los atacantes utilizan Domain Fronting, enrutando el "
+    },
+    {
+      "card_id": "06e3101e827ceb65",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Padding"
+      ],
+      "text": "To bypass security systems that flag files based on known blacklisted hashes, attackers change the h",
+      "current_spanish": "Para eludir los bloqueos de firmas de hash conocidas, los atacantes agregan bytes de relleno (Paddin"
+    },
+    {
+      "card_id": "e66bccfcd5b578cb",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Sandbox Evasion"
+      ],
+      "text": "Malware can detect if it is running inside an analysis sandbox by testing for user interaction (like",
+      "current_spanish": "El malware puede detectar si está en un entorno de pruebas (sandbox) mediante retrasos de tiempo o b"
+    },
+    {
+      "card_id": "c77eb1a0ed891405",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Fileless Malware"
+      ],
+      "text": "To prevent writing files to the local hard drive (which can be scanned easily by antivirus), attacke",
+      "current_spanish": "Para evitar escribir archivos en el disco local que puedan ser escaneados por antivirus, los atacant"
+    },
+    {
+      "card_id": "b41379507e5f043a",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "unresolved_words": [
+        "Process Argument Spoofing"
+      ],
+      "text": "To bypass process audits that monitor command-line arguments, malware performs {{c1::Process Argumen",
+      "current_spanish": "Para eludir auditorías que monitorean argumentos de línea de comandos, el malware realiza Process Ar"
+    },
+    {
+      "card_id": "c1f4261cbaed9638",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\exploitation.json",
+      "unresolved_words": [
+        "staged"
+      ],
+      "text": "In the Metasploit framework, a {{c1::staged}} payload sends a tiny stub (stager) to the target that ",
+      "current_spanish": "En el framework Metasploit, un payload con etapas (staged) envía un pequeño código inicial (stager) "
+    },
+    {
+      "card_id": "92648425aa847a43",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\exploitation.json",
+      "unresolved_words": [
+        "stored XSS"
+      ],
+      "text": "In web application hacking, a {{c1::stored XSS}} vulnerability occurs when malicious script is perma",
+      "current_spanish": "En el hacking de aplicaciones web, una vulnerabilidad de XSS almacenado (stored XSS) ocurre cuando u"
+    },
+    {
+      "card_id": "231a80023955fd34",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\post_exploitation.json",
+      "unresolved_words": [
+        "cron"
+      ],
+      "text": "To establish persistence on a Linux host by scheduling a malicious script to run automatically every",
+      "current_spanish": "Para establecer persistencia en un host Linux programando la ejecución automática de un script malic"
+    },
+    {
+      "card_id": "1de01187ad5bcb68",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\post_exploitation.json",
+      "unresolved_words": [
+        "credential dumping"
+      ],
+      "text": "The post-exploitation process of extracting plaintext passwords, hashes, and PINs from active LSASS ",
+      "current_spanish": "El proceso de post-explotación para extraer contraseñas en texto claro, hashes y PIN de la memoria a"
+    },
+    {
+      "card_id": "2ff32e4a315d4546",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\post_exploitation.json",
+      "unresolved_words": [
+        "DNS Tunneling"
+      ],
+      "text": "To exfiltrate sensitive files past restrictive outbound firewalls by embedding data within subdomain",
+      "current_spanish": "Para exfiltrar archivos confidenciales más allá de los firewalls salientes restrictivos al incrustar"
+    },
+    {
+      "card_id": "e1689c8c9a5d7256",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "Open Source Intelligence"
+      ],
+      "text": "OSINT stands for {{c1::Open Source Intelligence}}, which refers to the process of gathering publicly",
+      "current_spanish": "OSINT significa Open Source Intelligence (Inteligencia de Fuentes Abiertas), que es la recopilación "
+    },
+    {
+      "card_id": "63548931a39217e0",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "TCP SYN Scan"
+      ],
+      "text": "In Nmap, the scan flag `-sS` performs a {{c1::TCP SYN Scan}} (stealth/half-open scan), which does no",
+      "current_spanish": "En Nmap, el flag -sS realiza un TCP SYN Scan (escaneo sigiloso o semiabierto), que no completa el pr"
+    },
+    {
+      "card_id": "8ca34dd43e5c55e7",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "TCP Connect Scan",
+        "UDP"
+      ],
+      "text": "In Nmap, the flag `-sT` performs a {{c1::TCP Connect Scan}}, which completes the full 3-way handshak",
+      "current_spanish": "En Nmap, el flag -sT realiza un TCP Connect Scan (completa el enlace de tres vías), mientras que el "
+    },
+    {
+      "card_id": "a19aca635d38aa88",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "Filtered"
+      ],
+      "text": "When Nmap labels a port as {{c1::Filtered}}, it means a firewall, router, or security filter is bloc",
+      "current_spanish": "Cuando Nmap etiqueta un puerto como 'Filtered' (Filtrado), significa que un firewall u otro filtro d"
+    },
+    {
+      "card_id": "867341fe7d7f516c",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "Banner Grabbing"
+      ],
+      "text": "The process of extracting the header text returned by a network service to identify its software nam",
+      "current_spanish": "El proceso de extraer el encabezado devuelto por un servicio de red para identificar el software y s"
+    },
+    {
+      "card_id": "5f9c6a99f34eeebf",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "WHOIS"
+      ],
+      "text": "To query registration records of a domain name (including registrant contact info, name servers, and",
+      "current_spanish": "Para consultar los registros de registro de un dominio (como datos de contacto e información de regi"
+    },
+    {
+      "card_id": "fdb1ab855f29b0b9",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "Shodan"
+      ],
+      "text": "The search engine dedicated to indexing internet-connected devices, servers, smart home appliances, ",
+      "current_spanish": "El motor de búsqueda dedicado a indexar dispositivos conectados a Internet, servidores y puertos abi"
+    },
+    {
+      "card_id": "cc37983e5ef55896",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "Google Dorking"
+      ],
+      "text": "Using advanced search operators (like `site:`, `filetype:`, `intitle:`) on public search engines to ",
+      "current_spanish": "El uso de operadores de búsqueda avanzados en motores de búsqueda para encontrar datos ocultos o vul"
+    },
+    {
+      "card_id": "ad5ef17723bb79e2",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "Gobuster",
+        "Amass"
+      ],
+      "text": "To find hidden subdomains that are not linked on a target's main website, attackers perform brute-fo",
+      "current_spanish": "Para encontrar subdominios ocultos mediante fuerza bruta, se utilizan herramientas como Gobuster o A"
+    },
+    {
+      "card_id": "57d306a39d86daaa",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "Directory Fuzzing"
+      ],
+      "text": "The process of brute-forcing URL paths to find hidden directories and files on a web server is calle",
+      "current_spanish": "El proceso de adivinar mediante fuerza bruta rutas URL para encontrar directorios y archivos ocultos"
+    },
+    {
+      "card_id": "dabffe3cbaa12352",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "ExifTool"
+      ],
+      "text": "To extract hidden information, author names, creation dates, software paths, and GPS coordinates emb",
+      "current_spanish": "Para extraer información oculta y metadatos incrustados en documentos o fotos, se utiliza una herram"
+    },
+    {
+      "card_id": "ee54a265a74d28ea",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "Packet Sniffer"
+      ],
+      "text": "A network tool used to intercept, log, and analyze real-time raw traffic passing through a network i",
+      "current_spanish": "Una herramienta utilizada para interceptar, registrar y analizar el tráfico de red en tiempo real es"
+    },
+    {
+      "card_id": "248d189a1f351be6",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "unresolved_words": [
+        "OS Fingerprinting"
+      ],
+      "text": "The active recon technique of determining a target's operating system by analyzing differences in it",
+      "current_spanish": "La técnica de determinar el sistema operativo de un objetivo analizando los valores en la cabecera d"
+    },
+    {
+      "card_id": "c40ac010a6154f8c",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "32",
+        "128"
+      ],
+      "text": "An IPv4 address consists of {{c1::32}} bits, usually represented in dotted-decimal format, whereas a",
+      "current_spanish": "Una dirección IPv4 consta de 32 bits, mientras que una dirección IPv6 consta de 128 bits."
+    },
+    {
+      "card_id": "9cc297e4c53d8223",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "TCP",
+        "UDP"
+      ],
+      "text": "The primary difference between TCP and UDP is that {{c1::TCP}} is connection-oriented and guarantees",
+      "current_spanish": "La diferencia principal entre TCP y UDP es que TCP está orientado a la conexión y garantiza la entre"
+    },
+    {
+      "card_id": "5f4119a1d05a78fc",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "SYN",
+        "SYN-ACK",
+        "ACK"
+      ],
+      "text": "The TCP three-way handshake sequence consists of the following packet flags: first {{c1::SYN}}, seco",
+      "current_spanish": "La secuencia del apretón de manos de tres vías de TCP consta de los siguientes flags: primero SYN, s"
+    },
+    {
+      "card_id": "d72d2a6b3a38e435",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "A",
+        "AAAA"
+      ],
+      "text": "In a DNS zone file, an {{c1::A}} record maps a hostname to an IPv4 address, while an {{c2::AAAA}} re",
+      "current_spanish": "En un archivo de zona DNS, un registro A mapea un nombre de host a una dirección IPv4, mientras que "
+    },
+    {
+      "card_id": "d132e8b4d9e0e6df",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "CNAME",
+        "MX"
+      ],
+      "text": "In DNS, a {{c1::CNAME}} (Canonical Name) record maps an alias hostname to another true hostname, whe",
+      "current_spanish": "En DNS, un registro CNAME mapea un nombre de alias a otro nombre real, mientras que un registro MX e"
+    },
+    {
+      "card_id": "784c02871198de87",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "80",
+        "443"
+      ],
+      "text": "Standard web traffic uses port {{c1::80}} for unencrypted HTTP communication, and port {{c2::443}} f",
+      "current_spanish": "El tráfico web estándar utiliza el puerto 80 para HTTP no cifrado y el puerto 443 para HTTPS cifrado"
+    },
+    {
+      "card_id": "4b294ba0ad8dceee",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "255.255.255.0",
+        "254"
+      ],
+      "text": "The subnet mask represented by `/24` in CIDR notation translates to the decimal subnet mask {{c1::25",
+      "current_spanish": "La máscara de subred /24 en notación CIDR equivale a 255.255.255.0, proporcionando 254 direcciones I"
+    },
+    {
+      "card_id": "5203a485593baad7",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "ARP"
+      ],
+      "text": "To discover a machine's physical MAC address when only its IP address is known, computers use the {{",
+      "current_spanish": "Para descubrir la dirección física MAC de una máquina cuando solo se conoce su dirección IP, se util"
+    },
+    {
+      "card_id": "0ffda194a921a62c",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "Discover",
+        "Request",
+        "Acknowledge"
+      ],
+      "text": "The DHCP (Dynamic Host Configuration Protocol) lease process uses a 4-step sequence known by the acr",
+      "current_spanish": "El proceso de arrendamiento de DHCP utiliza una secuencia de 4 pasos conocida como DORA: Discover, o"
+    },
+    {
+      "card_id": "545ef7702b3e5191",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "NAT"
+      ],
+      "text": "To allow private internal networks to access the public internet, routers use {{c1::NAT}} (Network A",
+      "current_spanish": "Para permitir que las redes privadas internas accedan a la internet pública, los routers utilizan NA"
+    },
+    {
+      "card_id": "09166c9a8c86a5f8",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "192.168.0.0/16"
+      ],
+      "text": "According to RFC 1918, the three designated private IP ranges that cannot be routed on the public in",
+      "current_spanish": "Según RFC 1918, los tres rangos de IP privadas que no se pueden enrutar en internet son 10.0.0.0/8, "
+    },
+    {
+      "card_id": "95ee69950a342d29",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "22",
+        "23"
+      ],
+      "text": "Standard secure remote terminal access uses SSH on port {{c1::22}}, whereas legacy, unencrypted remo",
+      "current_spanish": "El acceso terminal remoto seguro utiliza SSH en el puerto 22, mientras que el acceso no cifrado here"
+    },
+    {
+      "card_id": "0be67c7bc49fb649",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "ICMP"
+      ],
+      "text": "The diagnostic tool `ping` uses the {{c1::ICMP}} (Internet Control Message Protocol) protocol, sendi",
+      "current_spanish": "La herramienta de diagnóstico 'ping' utiliza el protocolo ICMP (Internet Control Message Protocol)."
+    },
+    {
+      "card_id": "d96ed00bf35fe5e0",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "Stateful",
+        "Stateless"
+      ],
+      "text": "A {{c1::Stateful}} firewall monitors the state of active connections and makes decisions based on th",
+      "current_spanish": "Un firewall stateful (con estado) monitorea el estado de las conexiones activas, mientras que uno st"
+    },
+    {
+      "card_id": "107ecc0002371c33",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "VLANs"
+      ],
+      "text": "To split a single physical switch into multiple isolated logical broadcast domains, network engineer",
+      "current_spanish": "Para dividir un switch físico en múltiples dominios de difusión lógicos aislados, los ingenieros con"
+    },
+    {
+      "card_id": "940d75b6ee82a61d",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "unresolved_words": [
+        "WPA3"
+      ],
+      "text": "The modern Wi-Fi security standard that replaced WPA2 and introduces Simultaneous Authentication of ",
+      "current_spanish": "El estándar moderno de seguridad Wi-Fi que reemplaza a WPA2 e introduce SAE para resistir ataques de"
+    },
+    {
+      "card_id": "2dbcb09439816b16",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\GCP_Cloud_Networking\\vpc_and_compute_design.json",
+      "unresolved_words": [
+        "Pod"
+      ],
+      "text": "In Google Kubernetes Engine (GKE), the smallest deployable unit of computing that represents a singl",
+      "current_spanish": "En Google Kubernetes Engine (GKE), la unidad de computación más pequeña que se puede implementar y q"
+    },
+    {
+      "card_id": "686e8085390fcbeb",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\GCP_Cloud_Networking\\vpc_and_compute_design.json",
+      "unresolved_words": [
+        "Node"
+      ],
+      "text": "In GKE, the virtual machine (Compute Engine instance) that actually hosts and runs the application c",
+      "current_spanish": "En GKE, la máquina virtual (instancia de Compute Engine) que realmente aloja y ejecuta los contenedo"
+    },
+    {
+      "card_id": "5f64e94d65b4d56b",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\GCP_Cloud_Networking\\vpc_and_compute_design.json",
+      "unresolved_words": [
+        "Service"
+      ],
+      "text": "To expose a group of Pods to the network under a single stable IP address, you configure a Kubernete",
+      "current_spanish": "Para exponer un grupo de Pods a la red bajo una única dirección IP estable, configuras un Servicio ("
+    },
+    {
+      "card_id": "40dce54149eb1d14",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\GCP_Cloud_Networking\\vpc_and_compute_design.json",
+      "unresolved_words": [
+        "Control Plane"
+      ],
+      "text": "The Kubernetes component that manages the cluster state, schedules Pods, and handles API requests is",
+      "current_spanish": "El componente de Kubernetes que gestiona el estado del clúster, programa los Pods y maneja las solic"
+    },
+    {
+      "card_id": "8c5ae35cb94c827e",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\GCP_Cloud_Networking\\vpc_and_compute_design.json",
+      "unresolved_words": [
+        "Tenant Project"
+      ],
+      "text": "When using Google-managed services (like Cloud SQL or Vertex AI), Google hosts these services in a h",
+      "current_spanish": "Al usar servicios administrados por Google (como Cloud SQL), Google aloja estos servicios en una red"
+    },
+    {
+      "card_id": "eecc29d25e06e2da",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\GCP_Cloud_Networking\\vpc_and_compute_design.json",
+      "unresolved_words": [
+        "Private Google Access"
+      ],
+      "text": "To allow VM instances without external IP addresses to reach Google APIs and services, you must enab",
+      "current_spanish": "Para permitir que las instancias de VM sin direcciones IP externas alcancen las API y los servicios "
+    },
+    {
+      "card_id": "273a51264f59a8be",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\GCP_Cloud_Networking\\vpc_and_compute_design.json",
+      "unresolved_words": [
+        "Dedicated Interconnect"
+      ],
+      "text": "To connect your physical on-premises network directly to GCP with a physical fiber link at a Google ",
+      "current_spanish": "Para conectar su red física local directamente a GCP con un enlace de fibra física en una instalació"
+    },
+    {
+      "card_id": "ae823ba7164f592e",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\GCP_Cloud_Networking\\vpc_and_compute_design.json",
+      "unresolved_words": [
+        "Cloud VPN"
+      ],
+      "text": "To securely connect your GCP VPC to another cloud provider (like AWS) over the public internet using",
+      "current_spanish": "Para conectar de forma segura su VPC de GCP a otro proveedor de nube (como AWS) a través de la red p"
+    },
+    {
+      "card_id": "0bf2050ec165d872",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Protocols_and_Security\\ports_and_tls_security.json",
+      "unresolved_words": [
+        "256"
+      ],
+      "text": "A subnet mask denoted as /24 represents a total of {{c1::256}} IP addresses, with 254 of those addre",
+      "current_spanish": "Una máscara de subred denotada como /24 representa un total de 256 direcciones IP, siendo 254 de ell"
+    },
+    {
+      "card_id": "a31214fce8f99a4b",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Protocols_and_Security\\ports_and_tls_security.json",
+      "unresolved_words": [
+        "IEEE 802.1Q"
+      ],
+      "text": "The industry-standard protocol used to encapsulate and carry multiple VLAN traffic over a single phy",
+      "current_spanish": "El protocolo estándar de la industria utilizado para encapsular y transportar tráfico de múltiples V"
+    },
+    {
+      "card_id": "20e4234834c421f4",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Protocols_and_Security\\ports_and_tls_security.json",
+      "unresolved_words": [
+        "SYN-ACK"
+      ],
+      "text": "The TCP three-way handshake sequence consists of the following control flags sent in order: SYN, {{c",
+      "current_spanish": "La secuencia del apretón de manos de tres vías de TCP consta de los siguientes flags de control envi"
+    },
+    {
+      "card_id": "dbf5ad9d244c6aaa",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Protocols_and_Security\\ports_and_tls_security.json",
+      "unresolved_words": [
+        "Path Vector"
+      ],
+      "text": "The Border Gateway Protocol (BGP) is classified as a {{c1::Path Vector}} routing protocol that makes",
+      "current_spanish": "El Border Gateway Protocol (BGP) está clasificado como un protocolo de enrutamiento de Vector de Rut"
+    },
+    {
+      "card_id": "f2ca39a4f0ce7fc5",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Protocols_and_Security\\ports_and_tls_security.json",
+      "unresolved_words": [
+        "ServerHelloDone"
+      ],
+      "text": "In the TLS 1.2 handshake, the client sends a ClientHello message, and the server responds with Serve",
+      "current_spanish": "En el apretón de manos de TLS 1.2, el cliente envía un mensaje ClientHello, y el servidor responde c"
+    },
+    {
+      "card_id": "0eb6dec663deeede",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Protocols_and_Security\\ports_and_tls_security.json",
+      "unresolved_words": [
+        "1460"
+      ],
+      "text": "Given a standard Ethernet Maximum Transmission Unit (MTU) of 1500 bytes, the Maximum Segment Size (M",
+      "current_spanish": "Dado una Unidad de Transmisión Máxima (MTU) de Ethernet estándar de 1500 bytes, el Tamaño Máximo de "
+    },
+    {
+      "card_id": "a5ac5701e7b4fa4e",
+      "file": "decks\\01_Cloud_and_Infrastructure\\Systems_Engineering\\Infrastructure_as_Code\\docker_and_kubernetes_orchestration.json",
+      "unresolved_words": [
+        "ML-KEM",
+        "ML-DSA"
+      ],
+      "text": "To protect encrypted assets from future quantum computers, organizations are migrating to lattice-ba",
+      "current_spanish": "Para proteger activos cifrados de futuras computadoras cuánticas, las organizaciones están migrando "
+    },
+    {
+      "card_id": "edc91dd39bafb1c9",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "ADK Framework",
+        "Agent Engine Runtime"
+      ],
+      "text": "When debugging ADK agents, isolate issues to three layers: the {{c1::ADK Framework}} coordinates sys",
+      "current_spanish": "Al depurar agentes de ADK, aísle los problemas en tres capas: ADK Framework coordina prompts y memor"
+    },
+    {
+      "card_id": "e313b00707e5521d",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "Tenant Project"
+      ],
+      "text": "When you deploy an ADK agent using reasoning_engines.ReasoningEngine.create(), the container is depl",
+      "current_spanish": "Al implementar un agente de ADK, el contenedor se implementa en un Proyecto Inquilino (Tenant Projec"
+    },
+    {
+      "card_id": "4105beebe1883987",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "Piccolo"
+      ],
+      "text": "To prevent {{c1::Piccolo}} routing validation errors when running background tasks, never delete dev",
+      "current_spanish": "Para evitar errores de validación de enrutamiento de Piccolo al ejecutar tareas en segundo plano, as"
+    },
+    {
+      "card_id": "e3cff1b1f9795b85",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "require_tool_confirmation=False"
+      ],
+      "text": "In ADK v1.14+, to prevent tool execution from waiting for user confirmation on read-only tools in au",
+      "current_spanish": "En ADK v1.14+, para evitar que la ejecución de herramientas espere la confirmación del usuario para "
+    },
+    {
+      "card_id": "52900bf6e18da9f2",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "api_client"
+      ],
+      "text": "To call a global model from a regional Agent Engine instance and avoid endpoint routing errors, inst",
+      "current_spanish": "Para llamar a un modelo global desde una instancia regional de Agent Engine y evitar errores, cree e"
+    },
+    {
+      "card_id": "0b4c6691d7deb249",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "VertexAiMemoryBankService"
+      ],
+      "text": "To prevent conversation history loss from stateless container restarts, register the {{c1::VertexAiM",
+      "current_spanish": "Para evitar la pérdida del historial de conversación por reinicios del contenedor, registre el Verte"
+    },
+    {
+      "card_id": "8aae76180df5aebe",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "GcsArtifactService"
+      ],
+      "text": "To avoid exhausting prompt token limits when passing large data between agents, write the data to th",
+      "current_spanish": "Para evitar agotar el límite de tokens al pasar datos grandes entre agentes, escriba los datos en el"
+    },
+    {
+      "card_id": "7fc88856e141b755",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "AgentTool"
+      ],
+      "text": "To break a monolithic agent into a hierarchical network and improve tool selection, wrap sub-agents ",
+      "current_spanish": "Para dividir un agente monolítico y mejorar la selección de herramientas, envuelva los subagentes de"
+    },
+    {
+      "card_id": "43c0e741adbd2c3a",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "Firestore"
+      ],
+      "text": "To update system instructions without rebuilding and redeploying the container, load the prompt dyna",
+      "current_spanish": "Para actualizar las instrucciones del sistema sin reconstruir el contenedor, cargue el prompt dinámi"
+    },
+    {
+      "card_id": "f4cbdda4a50e250c",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "max_turns"
+      ],
+      "text": "To mitigate circular reasoning loops when tools return empty data, configure a {{c1::max_turns}} lim",
+      "current_spanish": "Para mitigar bucles de razonamiento circular cuando las herramientas devuelven datos vacíos, configu"
+    },
+    {
+      "card_id": "ef64931daec25fd8",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "Windsurf"
+      ],
+      "text": "The agentic editor {{c1::Windsurf}} uses a shared state model called 'Flows', allowing the AI to rea",
+      "current_spanish": "El editor agéntico Windsurf utiliza un modelo de estado compartido llamado 'Flows', permitiendo a la"
+    },
+    {
+      "card_id": "4c86d746c76d5641",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "WebContainers"
+      ],
+      "text": "Web-based development platforms like Bolt.new run complete Node.js development servers inside the br",
+      "current_spanish": "Las plataformas de desarrollo basadas en web como Bolt.new ejecutan servidores de desarrollo Node.js"
+    },
+    {
+      "card_id": "5babcbfd7946fc8b",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "Copilot Workspace"
+      ],
+      "text": "In {{c1::Copilot Workspace}}, the agent creates a structured {{c2::Task Specification Plan}} before ",
+      "current_spanish": "En Copilot Workspace, el agente crea una especificación de plan de tareas estructurada antes de edit"
+    },
+    {
+      "card_id": "9b4a610235b66e56",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "workspace vector index"
+      ],
+      "text": "To locate relevant files quickly in a massive repository, agentic IDEs search an indexed {{c1::works",
+      "current_spanish": "Para localizar rápidamente archivos relevantes en un repositorio masivo, los IDEs de agentes buscan "
+    },
+    {
+      "card_id": "106f1ae2c895c933",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "isolated container sandbox"
+      ],
+      "text": "To test generated code and run terminal commands safely without exposing the host OS, agentic IDEs e",
+      "current_spanish": "Para probar el código generado y ejecutar comandos de terminal de forma segura sin exponer el SO anf"
+    },
+    {
+      "card_id": "16bb53b13e2671c8",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "unresolved_words": [
+        "context budget"
+      ],
+      "text": "To prevent high token costs and model confusion, agentic IDEs monitor the {{c1::context budget}} dur",
+      "current_spanish": "Para evitar altos costos de tokens y la confusión del modelo, los IDEs de agentes monitorean el pres"
+    },
+    {
+      "card_id": "02938502319c09f2",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "output"
+      ],
+      "text": "Reflection means the agent reviews its own {{c1::output}} and tries to improve or correct it.",
+      "current_spanish": "La reflexión significa que el agente revisa su propio output e intenta mejorarlo o corregirlo."
+    },
+    {
+      "card_id": "c923923ef1c8ed65",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Guardrails"
+      ],
+      "text": "{{c1::Guardrails}} constrain agent behavior so it stays within policy, safety, and business rules.",
+      "current_spanish": "Los guardrails restringen el comportamiento del agente para que se mantenga dentro de políticas, seg"
+    },
+    {
+      "card_id": "527f9195ee9971cf",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Alpha-Beta Pruning Condition"
+      ],
+      "text": "Ecuación para {{c1::Alpha-Beta Pruning Condition}}: \\[\\alpha \\ge \\beta\\]",
+      "current_spanish": "Fórmula de Alpha-Beta Pruning Condition"
+    },
+    {
+      "card_id": "221ce9b1d738c0e5",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Zobrist Hashing for Chess Board States"
+      ],
+      "text": "Patrón de código en <b>python</b> para {{c1::Zobrist Hashing for Chess Board States}}:<br><pre><code",
+      "current_spanish": "Patrón de código: Zobrist Hashing for Chess Board States"
+    },
+    {
+      "card_id": "89ecd8891347706b",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Temporal Difference TD(0) Value Update"
+      ],
+      "text": "Ecuación para {{c1::Temporal Difference TD(0) Value Update}}: \\[V(S_t) \\leftarrow V(S_t) + \\alpha \\l",
+      "current_spanish": "Fórmula de Temporal Difference TD(0) Value Update"
+    },
+    {
+      "card_id": "df7dcc14afde941f",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Alpha-Beta Pruning Search in Python"
+      ],
+      "text": "Patrón de código en <b>python</b> para {{c1::Alpha-Beta Pruning Search in Python}}:<br><pre><code cl",
+      "current_spanish": "Patrón de código: Alpha-Beta Pruning Search in Python"
+    },
+    {
+      "card_id": "15f6642da5a86447",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Q-Learning Temporal Difference Update"
+      ],
+      "text": "Ecuación para {{c1::Q-Learning Temporal Difference Update}}: \\[Q(S_t, A_t) \\leftarrow Q(S_t, A_t) + ",
+      "current_spanish": "Fórmula de Q-Learning Temporal Difference Update"
+    },
+    {
+      "card_id": "ac6d9cfe91db639f",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "LangGraph"
+      ],
+      "text": "For complex, cyclical workflows requiring strict reliability, {{c1::LangGraph}} structures agents as",
+      "current_spanish": "Para flujos de trabajo complejos y cíclicos que requieren una fiabilidad estricta, LangGraph estruct"
+    },
+    {
+      "card_id": "7f8c6220fc3658aa",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "CrewAI"
+      ],
+      "text": "For organizational task delegation, {{c1::CrewAI}} adopts a role-playing design where developers def",
+      "current_spanish": "Para la delegación de tareas organizacionales, CrewAI adopta un diseño de juego de roles donde los d"
+    },
+    {
+      "card_id": "230bbdee12d92933",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "AutoGen"
+      ],
+      "text": "To support collaborative problem-solving, Microsoft's {{c1::AutoGen}} defines agents as {{c2::conver",
+      "current_spanish": "Para apoyar la resolución colaborativa de problemas, AutoGen de Microsoft define a los agentes como "
+    },
+    {
+      "card_id": "ae43d747d54d860e",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "CrewAI"
+      ],
+      "text": "To build collaborative groups of AI agents that role-play and execute structured tasks, you use the ",
+      "current_spanish": "Para crear grupos colaborativos de agentes de IA que asuman roles y ejecuten tareas estructuradas, u"
+    },
+    {
+      "card_id": "bee88181a649dffc",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "AutoGen"
+      ],
+      "text": "For building multi-agent systems where agents communicate via conversational turns, Microsoft develo",
+      "current_spanish": "Para construir sistemas multi-agente donde los agentes se comunican mediante turnos conversacionales"
+    },
+    {
+      "card_id": "6271bea39d8ca725",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "LangGraph"
+      ],
+      "text": "To build stateful, multi-agent applications using graph-based cyclic control flows, you use {{c1::La",
+      "current_spanish": "Para construir aplicaciones multi-agente con estado utilizando flujos de control cíclicos basados en"
+    },
+    {
+      "card_id": "b11dee1d451006c1",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Semantic Kernel"
+      ],
+      "text": "To integrate LLMs into conventional programming languages like C# and Java using native functions an",
+      "current_spanish": "Para integrar LLMs en lenguajes de programación convencionales como C# y Java utilizando funciones n"
+    },
+    {
+      "card_id": "357f6e13369ecfa7",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "state sharing"
+      ],
+      "text": "To maintain a shared understanding of a task across multiple agents, frameworks implement a centrali",
+      "current_spanish": "Para mantener un entendimiento compartido de una tarea a lo largo de múltiples agentes, los entornos"
+    },
+    {
+      "card_id": "f2acbaa5b68bb7dd",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Thought",
+        "Action",
+        "Observation"
+      ],
+      "text": "The ReAct framework combines reasoning and acting by generating alternating sequences of {{c1::Thoug",
+      "current_spanish": "El marco ReAct combina el razonamiento y la acción mediante la generación de secuencias alternas de "
+    },
+    {
+      "card_id": "9c48e3d183160e87",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "ReAct"
+      ],
+      "text": "To combine reasoning (thoughts) and actions (tool execution) in a continuous loop, agents implement ",
+      "current_spanish": "Para combinar el razonamiento (pensamientos) y las acciones (ejecución de herramientas) en un bucle "
+    },
+    {
+      "card_id": "be04f254b14fb313",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "self-reflection"
+      ],
+      "text": "To improve output quality, agents run a validation step where they inspect their own output and sugg",
+      "current_spanish": "Para mejorar la calidad de la salida, los agentes ejecutan un paso de validación en el que inspeccio"
+    },
+    {
+      "card_id": "95a12ebf48acab62",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "tool call"
+      ],
+      "text": "To interact with external APIs, databases, or run code, the agent translates a natural language requ",
+      "current_spanish": "Para interactuar con APIs externas, bases de datos o ejecutar código, el agente traduce una solicitu"
+    },
+    {
+      "card_id": "cde7cbf54dd34d3a",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "task decomposition"
+      ],
+      "text": "To handle large, complex tasks, agents use {{c1::task decomposition}} to break the main goal into sm",
+      "current_spanish": "Para manejar tareas grandes y complejas, los agentes utilizan la descomposición de tareas (task deco"
+    },
+    {
+      "card_id": "0bd2bfa5c5def00b",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Human-in-the-Loop"
+      ],
+      "text": "To prevent agents from executing harmful actions (like deleting a database), developers implement {{",
+      "current_spanish": "Para evitar que los agentes ejecuten acciones dañinas (como borrar una base de datos), los desarroll"
+    },
+    {
+      "card_id": "50325a9fc7dcdeca",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "LLM-as-a-judge"
+      ],
+      "text": "To evaluate the quality and correctness of an agent's multi-step execution, developers use the {{c1:",
+      "current_spanish": "Para evaluar la calidad y corrección de la ejecución de múltiples pasos de un agente, los desarrolla"
+    },
+    {
+      "card_id": "24ed6b2482a716a5",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Momentum",
+        "RMSProp"
+      ],
+      "text": "The Adam optimizer calculates adaptive learning rates by combining {{c1::Momentum}} (moving average ",
+      "current_spanish": "El optimizador Adam calcula tasas de aprendizaje adaptativas combinando Momentum (promedio móvil de "
+    },
+    {
+      "card_id": "98c5359f627f58d4",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "supervised learning"
+      ],
+      "text": "To predict continuous outputs (regression) or discrete categories (classification), we train models ",
+      "current_spanish": "Para predecir salidas continuas (regresión) o categorías discretas (clasificación), entrenamos model"
+    },
+    {
+      "card_id": "bb03e792031a2010",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "unsupervised learning"
+      ],
+      "text": "To discover hidden structures, groupings, or reduce dimensions without utilizing ground-truth labels",
+      "current_spanish": "Para descubrir estructuras ocultas, agrupaciones o reducir dimensiones sin utilizar etiquetas de ref"
+    },
+    {
+      "card_id": "66f297cdccf44816",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "reinforcement learning"
+      ],
+      "text": "To train autonomous agents to make sequences of decisions by interacting with an environment, we use",
+      "current_spanish": "Para entrenar agentes autónomos para tomar secuencias de decisiones mediante la interacción con un e"
+    },
+    {
+      "card_id": "fd47658a2fc0288f",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "overfitting"
+      ],
+      "text": "When a model learns noise and specific details of the training data too well, it suffers from {{c1::",
+      "current_spanish": "Cuando un modelo aprende el ruido y los detalles específicos de los datos de entrenamiento demasiado"
+    },
+    {
+      "card_id": "5cd33ffcf9cc0364",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "underfitting"
+      ],
+      "text": "If a model is too simple to capture the underlying pattern of the data, it yields high bias, a state",
+      "current_spanish": "Si un modelo es demasiado simple para capturar el patrón subyacente de los datos, produce un sesgo a"
+    },
+    {
+      "card_id": "ce04e63f792a8a86",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "bias-variance tradeoff"
+      ],
+      "text": "Finding the optimal model complexity that minimizes both generalization error sources is known as th",
+      "current_spanish": "Encontrar la complejidad óptima del modelo que minimiza ambas fuentes de error de generalización se "
+    },
+    {
+      "card_id": "46a6e9212f1f3750",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "K-Fold cross-validation"
+      ],
+      "text": "To evaluate a model's generalization capability robustly, you partition the dataset using {{c1::K-Fo",
+      "current_spanish": "Para evaluar la capacidad de generalización de un modelo de forma robusta, particionas el conjunto d"
+    },
+    {
+      "card_id": "5e3fb2379c5384d1",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "data leakage"
+      ],
+      "text": "When information from outside the training dataset is accidentally used to train the model, it cause",
+      "current_spanish": "Cuando la información de fuera del conjunto de datos de entrenamiento se utiliza accidentalmente par"
+    },
+    {
+      "card_id": "b63fb6c63b67f569",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Claude Code"
+      ],
+      "text": "Anthropic's {{c1::Claude Code}} operates autonomously on local repositories by directly parsing syst",
+      "current_spanish": "Claude Code de Anthropic opera de forma autónoma en repositorios locales al analizar directamente di"
+    },
+    {
+      "card_id": "7cb527605f372b4a",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Antigravity"
+      ],
+      "text": "The agentic framework {{c1::Antigravity}} ensures reliability by executing user code in a {{c2::sand",
+      "current_spanish": "El framework agéntico Antigravity garantiza la confiabilidad al ejecutar código de usuario en un ent"
+    },
+    {
+      "card_id": "480490f246e345d9",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "LLM-as-a-Judge"
+      ],
+      "text": "To automate validation in agentic pipelines, {{c1::LLM-as-a-Judge}} implements a multi-model evaluat",
+      "current_spanish": "Para automatizar la validación en flujos agénticos, LLM-as-a-Judge implementa una evaluación multi-m"
+    },
+    {
+      "card_id": "81b6eb4c50771c4c",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "LangGraph"
+      ],
+      "text": "Unlike linear pipelines, {{c1::LangGraph}} models agents as a cyclic state machine where nodes repre",
+      "current_spanish": "A diferencia de los pipelines lineales, LangGraph modela a los agentes como una máquina de estados c"
+    },
+    {
+      "card_id": "2e59eb6feaa1a2be",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "tool retrieval"
+      ],
+      "text": "When an agent has access to thousands of tools, context constraints require using {{c1::tool retriev",
+      "current_spanish": "Cuando un agente tiene acceso a miles de herramientas, las restricciones de contexto requieren el us"
+    },
+    {
+      "card_id": "a77eaa8f85183558",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "loop detection"
+      ],
+      "text": "To prevent agents from generating infinite, repetitive tool calls when encountering failures, system",
+      "current_spanish": "Para evitar que los agentes generen llamadas a herramientas infinitas y repetitivas al encontrarse c"
+    },
+    {
+      "card_id": "2871497ab4579ebb",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Evaluator-Optimizer"
+      ],
+      "text": "For code generation or translation tasks, the {{c1::Evaluator-Optimizer}} design pattern uses one LL",
+      "current_spanish": "Para tareas de generación o traducción de código, el patrón de diseño Evaluador-Optimador (Evaluator"
+    },
+    {
+      "card_id": "2e7d3b04fa6a9a3c",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Swarm"
+      ],
+      "text": "To organize multiple agents without complex state management, developers use the {{c1::Swarm}} patte",
+      "current_spanish": "Para organizar múltiples agentes sin una gestión de estado compleja, los desarrolladores utilizan el"
+    },
+    {
+      "card_id": "ef447375d3d843a5",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "unresolved_words": [
+        "Orchestrator-Workers"
+      ],
+      "text": "In hierarchical workflows, the {{c1::Orchestrator-Workers}} pattern uses a parent agent to break dow",
+      "current_spanish": "En flujos de trabajo jerárquicos, el patrón Orquestador-Trabajadores (Orchestrator-Workers) utiliza "
+    },
+    {
+      "card_id": "9a2ddbc385fd3ec9",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "folds"
+      ],
+      "text": "Cross-validation estimates generalization by repeatedly splitting data into train and validation {{c",
+      "current_spanish": "La validación cruzada estima la generalización al dividir los datos en múltiples folds de entrenamie"
+    },
+    {
+      "card_id": "8aa92caf8160bcae",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "recall",
+        "F1"
+      ],
+      "text": "In imbalanced datasets, metrics like {{c1::precision}}, {{c2::recall}}, and {{c3::F1}} are often mor",
+      "current_spanish": "En conjuntos con clases desbalanceadas, métricas como precisión, recall y F1 suelen ser más informat"
+    },
+    {
+      "card_id": "6eed902ab3b372d0",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "variables"
+      ],
+      "text": "Feature engineering transforms raw {{c1::variables}} into representations that expose relevant struc",
+      "current_spanish": "La ingeniería de características transforma variables crudas en representaciones que exponen estruct"
+    },
+    {
+      "card_id": "ff9e9c697df83ace",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "real"
+      ],
+      "text": "A calibrated model outputs probabilities that reflect {{c1::real}}-world confidence rather than just",
+      "current_spanish": "Un modelo calibrado devuelve probabilidades que reflejan la confianza real en lugar de solo ordenar "
+    },
+    {
+      "card_id": "f21e415236aadf40",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Word2Vec Negative Sampling Loss"
+      ],
+      "text": "Ecuación para {{c1::Word2Vec Negative Sampling Loss}}: \\[\\mathcal{L}_{\\text{NEG}}(v_{w_I}, v'_{w_O},",
+      "current_spanish": "Fórmula de Word2Vec Negative Sampling Loss"
+    },
+    {
+      "card_id": "fcd6b4a092901521",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Hierarchical Softmax Approximation"
+      ],
+      "text": "Ecuación para {{c1::Hierarchical Softmax Approximation}}: \\[P(w|w_I) = \\prod_{j=1}^{L(w)-1} \\sigma\\l",
+      "current_spanish": "Fórmula de Hierarchical Softmax Approximation"
+    },
+    {
+      "card_id": "2b442670a52c31b4",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "VC Dimension Sample Complexity Bound"
+      ],
+      "text": "Ecuación para {{c1::VC Dimension Sample Complexity Bound}}: \\[m \\ge C \\left( \\frac{d + \\log(1/\\delta",
+      "current_spanish": "Fórmula de VC Dimension Sample Complexity Bound"
+    },
+    {
+      "card_id": "916f35312c96133c",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "variables"
+      ],
+      "text": "A directed acyclic graph models causal assumptions and helps identify which {{c1::variables}} should",
+      "current_spanish": "Un grafo acíclico dirigido modela supuestos causales y ayuda a identificar qué variables deben contr"
+    },
+    {
+      "card_id": "78d56abed38c26fc",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "forecasting"
+      ],
+      "text": "Transformer-based {{c1::forecasting}} models use attention over historical context to predict future",
+      "current_spanish": "Los modelos de forecasting basados en transformers usan atención sobre contexto histórico para prede"
+    },
+    {
+      "card_id": "92bf0774e39c199e",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Forecast"
+      ],
+      "text": "{{c1::Forecast}} quality should be measured using metrics such as MAE, RMSE, and MAPE over held-out ",
+      "current_spanish": "La calidad del forecast debe medirse con métricas como MAE, RMSE y MAPE en períodos held-out."
+    },
+    {
+      "card_id": "3a134dc1dbfba694",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "pooling"
+      ],
+      "text": "Convolutional neural networks exploit local spatial structure through shared filters and {{c1::pooli",
+      "current_spanish": "Las CNN explotan estructura espacial local mediante filtros compartidos y pooling."
+    },
+    {
+      "card_id": "3a91fa661bccf40f",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Transformers"
+      ],
+      "text": "{{c1::Transformers}} use attention to model long-range dependencies without recurrent state.",
+      "current_spanish": "Los transformers usan atención para modelar dependencias a largo plazo sin estado recurrente."
+    },
+    {
+      "card_id": "52eaf3e8d0d02c0a",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Negative sampling"
+      ],
+      "text": "{{c1::Negative sampling}} trains ranking models by contrasting positive items with a sample of negat",
+      "current_spanish": "El negative sampling entrena modelos de ranking contrastando ítems positivos con una muestra de nega"
+    },
+    {
+      "card_id": "46974e7ee4abeefa",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "message passing"
+      ],
+      "text": "Graph neural networks propagate information along edges using {{c1::message passing}}.",
+      "current_spanish": "Las redes neuronales de grafos propagan información a través de aristas usando message passing."
+    },
+    {
+      "card_id": "6d391d0551f2633d",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "embeddings"
+      ],
+      "text": "Graph {{c1::embeddings}} represent nodes or entire graphs in a vector space for downstream learning.",
+      "current_spanish": "Los embeddings de grafos representan nodos o grafos completos en un espacio vectorial para aprendiza"
+    },
+    {
+      "card_id": "bfe085fefe627552",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Cold start"
+      ],
+      "text": "{{c1::Cold start}} happens when the system has little or no information about a new user or item.",
+      "current_spanish": "El cold start ocurre cuando el sistema tiene poca o ninguna información sobre un usuario o ítem nuev"
+    },
+    {
+      "card_id": "254257fd82a52cf2",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Bootstrapping"
+      ],
+      "text": "The statistical technique of {{c1::Bootstrapping}} estimates the sampling distribution of an estimat",
+      "current_spanish": "La técnica estadística de Bootstrapping estima la distribución muestral de un estimador al realizar "
+    },
+    {
+      "card_id": "81383c275f6d9103",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Jacobian matrix"
+      ],
+      "text": "To represent all first-order partial derivatives of a vector-valued function, we compute the {{c1::J",
+      "current_spanish": "Para representar todas las derivadas parciales de primer orden de una función con valores vectoriale"
+    },
+    {
+      "card_id": "d0e13174d99f2a36",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "eigenvalues"
+      ],
+      "text": "To find the scaling factors of linear transformations along eigenvector directions, we solve the cha",
+      "current_spanish": "Para encontrar los factores de escala de las transformaciones lineales a lo largo de las direcciones"
+    },
+    {
+      "card_id": "4d462d09ac47dd90",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Conjugate Gradient"
+      ],
+      "text": "To solve large, sparse symmetric positive-definite linear systems of equations, we use the iterative",
+      "current_spanish": "Para resolver sistemas de ecuaciones lineales grandes, dispersos, simétricos y definidos positivos, "
+    },
+    {
+      "card_id": "24d22be4c9d4bb86",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "L-BFGS"
+      ],
+      "text": "To optimize functions with a large number of variables using quasi-Newton methods without storing th",
+      "current_spanish": "Para optimizar funciones con un gran número de variables utilizando métodos quasi-Newton sin almacen"
+    },
+    {
+      "card_id": "ccf8503c0666c070",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Target Encoding"
+      ],
+      "text": "To convert high-cardinality categorical features into numerical values, you can replace each categor",
+      "current_spanish": "Para convertir características categóricas de alta cardinalidad en valores numéricos, puedes reempla"
+    },
+    {
+      "card_id": "0dc3edbe9bfc37a4",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "TF-IDF"
+      ],
+      "text": "To represent text documents numerically by weighing terms based on their frequency in a document rel",
+      "current_spanish": "Para representar documentos de texto numéricamente pesando los términos según su frecuencia en un do"
+    },
+    {
+      "card_id": "427e19308eb666cc",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "principal components"
+      ],
+      "text": "To reduce dimensionality while preserving maximum variance, PCA projects data onto orthogonal axes c",
+      "current_spanish": "Para reducir la dimensionalidad conservando la máxima varianza, PCA proyecta los datos sobre ejes or"
+    },
+    {
+      "card_id": "291278988705fd89",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "interaction terms"
+      ],
+      "text": "To capture non-linear relationships where the effect of one feature depends on the level of another,",
+      "current_spanish": "Para capturar relaciones no lineales donde el efecto de una característica depende del nivel de otra"
+    },
+    {
+      "card_id": "2e6c81775dc50a72",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "maximum margin"
+      ],
+      "text": "Support Vector Machines classify data by finding the hyperplane that maximizes the {{c1::maximum mar",
+      "current_spanish": "Las Máquinas de Vectores de Soporte clasifican datos encontrando el hiperplano que maximiza el marge"
+    },
+    {
+      "card_id": "4321c803826deeba",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "conditional independence"
+      ],
+      "text": "Naive Bayes classifiers simplify probability calculations by assuming class-{{c1::conditional indepe",
+      "current_spanish": "Los clasificadores Naive Bayes simplifican los cálculos de probabilidad al asumir independencia cond"
+    },
+    {
+      "card_id": "f0fc5703d76fa0d0",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "bagging"
+      ],
+      "text": "To reduce variance and avoid overfitting, a Random Forest aggregates multiple decision trees trained",
+      "current_spanish": "Para reducir la varianza y evitar el sobreajuste, un Bosque Aleatorio (Random Forest) agrega múltipl"
+    },
+    {
+      "card_id": "9bb054533cc2852c",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "L2 regularization"
+      ],
+      "text": "To prevent overfitting by shrinking regression coefficients towards zero without eliminating them, R",
+      "current_spanish": "Para evitar el sobreajuste reduciendo los coeficientes de regresión hacia cero sin eliminarlos, Ridg"
+    },
+    {
+      "card_id": "0386c6f1a52bee1f",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "t-SNE"
+      ],
+      "text": "To visualize high-dimensional datasets in 2D or 3D, {{c1::t-SNE}} converts Euclidean distances betwe",
+      "current_spanish": "Para visualizar conjuntos de datos de alta dimensión en 2D o 3D, t-SNE convierte las distancias eucl"
+    },
+    {
+      "card_id": "8448c905c8d2aa9e",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "DBSCAN"
+      ],
+      "text": "Unlike K-Means, the density-based clustering algorithm {{c1::DBSCAN}} does not require specifying th",
+      "current_spanish": "A diferencia de K-Means, el algoritmo de agrupamiento basado en densidad DBSCAN no requiere especifi"
+    },
+    {
+      "card_id": "5a07f1c0dec57d52",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Isolation Forest"
+      ],
+      "text": "To detect anomalies by isolating data points rather than profiling normal behavior, we use the {{c1:",
+      "current_spanish": "Para detectar anomalías aislando puntos de datos en lugar de perfilar el comportamiento normal, util"
+    },
+    {
+      "card_id": "1bf2d93585846ef2",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "harmonic mean"
+      ],
+      "text": "The F1-Score evaluates classification models on imbalanced datasets by calculating the {{c1::harmoni",
+      "current_spanish": "El F1-Score evalúa los modelos de clasificación en conjuntos de datos desbalanceados calculando la m"
+    },
+    {
+      "card_id": "e625b48b31fe7a36",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Log Loss"
+      ],
+      "text": "To evaluate classification models based on predicted probabilities rather than hard class labels, we",
+      "current_spanish": "Para evaluar los modelos de clasificación basándose en las probabilidades predichas en lugar de etiq"
+    },
+    {
+      "card_id": "d63075f7d363e455",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "MAPE"
+      ],
+      "text": "To express forecasting errors as a percentage of the actual values, regression tasks evaluate the {{",
+      "current_spanish": "Para expresar los errores de pronóstico como un porcentaje de los valores reales, las tareas de regr"
+    },
+    {
+      "card_id": "cd0f359bbc6e66ca",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Silhouette Coefficient"
+      ],
+      "text": "To evaluate the quality of a clustering model without ground truth labels, we compute the {{c1::Silh",
+      "current_spanish": "Para evaluar la calidad de un modelo de agrupamiento sin etiquetas de referencia reales, calculamos "
+    },
+    {
+      "card_id": "ac7e3c1ac0366150",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Platt Scaling"
+      ],
+      "text": "To calibrate classification model outputs into true probabilities, {{c1::Platt Scaling}} fits a {{c2",
+      "current_spanish": "Para calibrar las salidas del modelo de clasificación en probabilidades reales, Platt Scaling ajusta"
+    },
+    {
+      "card_id": "8ff257ebc7d4e985",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "LIME"
+      ],
+      "text": "To explain individual predictions of any black-box model, {{c1::LIME}} trains a local interpretable ",
+      "current_spanish": "Para explicar predicciones individuales de cualquier modelo de caja negra, LIME entrena un modelo su"
+    },
+    {
+      "card_id": "c7e336bf7e04801e",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Adam"
+      ],
+      "text": "For training deep neural networks efficiently, the {{c1::Adam}} optimizer computes adaptive learning",
+      "current_spanish": "Para entrenar redes neuronales profundas eficientemente, el optimizador Adam calcula tasas de aprend"
+    },
+    {
+      "card_id": "f7f8d263736adf59",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "feature store"
+      ],
+      "text": "To ensure consistency between feature calculations during model training and real-time inference, en",
+      "current_spanish": "Para asegurar la coherencia entre los cálculos de características durante el entrenamiento del model"
+    },
+    {
+      "card_id": "d45b1a830432214a",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "concept drift"
+      ],
+      "text": "When the statistical properties of the target variable change over time, the model performance degra",
+      "current_spanish": "Cuando las propiedades estadísticas de la variable objetivo cambian con el tiempo, el rendimiento de"
+    },
+    {
+      "card_id": "5eb3c8bbbdbd2f17",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "knowledge distillation"
+      ],
+      "text": "To compress a massive, expensive model into a smaller, faster model with minimal performance loss, w",
+      "current_spanish": "Para comprimir un modelo masivo y costoso en un modelo más pequeño y rápido con una pérdida de rendi"
+    },
+    {
+      "card_id": "c8f0f602fc7c68ca",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "dynamic batching"
+      ],
+      "text": "To maximize GPU utility and throughput during model serving, hosting systems implement {{c1::dynamic",
+      "current_spanish": "Para maximizar la utilidad de la GPU y el rendimiento durante el servicio del modelo, los sistemas d"
+    },
+    {
+      "card_id": "dd78bde50f2d186f",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "shadow deployment"
+      ],
+      "text": "To test a new model version in production under real traffic without affecting users, engineers use ",
+      "current_spanish": "Para probar la versión de un nuevo modelo en producción bajo tráfico real sin afectar a los usuarios"
+    },
+    {
+      "card_id": "9f8d376854255f67",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "edge computing"
+      ],
+      "text": "To minimize latency and run models offline without sending data to a server, models are deployed dir",
+      "current_spanish": "Para minimizar la latencia y ejecutar modelos fuera de línea sin enviar datos a un servidor, los mod"
+    },
+    {
+      "card_id": "b1d39add9b2de343",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "orchestration engine"
+      ],
+      "text": "To schedule, monitor, and coordinate complex pipelines for data preparation, training, and deploymen",
+      "current_spanish": "Para programar, monitorear y coordinar canalizaciones complejas para la preparación de datos, entren"
+    },
+    {
+      "card_id": "62cf9e2684236918",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "data lineage"
+      ],
+      "text": "To debug pipeline issues and comply with audits, you must track the historical origin, path, and tra",
+      "current_spanish": "Para depurar problemas en las canalizaciones y cumplir con auditorías, debes rastrear el origen hist"
+    },
+    {
+      "card_id": "8dffbad8a4b62907",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "AI Engineering"
+      ],
+      "text": "Chip Huyen's 2025 book {{c1::AI Engineering}} guides developers in building production applications ",
+      "current_spanish": "El libro de Chip Huyen de 2025, 'AI Engineering', guía a los desarrolladores en la construcción de a"
+    },
+    {
+      "card_id": "a9ca77a18aa80e0b",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "unresolved_words": [
+        "Generative Deep Learning"
+      ],
+      "text": "David Foster's book {{c1::Generative Deep Learning}} provides a comprehensive guide to VAEs, GANs, T",
+      "current_spanish": "El libro de David Foster, 'Generative Deep Learning', proporciona una guía completa sobre VAE, GAN, "
+    },
+    {
+      "card_id": "6beeb3312b8b2cab",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Data_Pipelines\\experimentation_data_pipelines_and_feature_stores.json",
+      "unresolved_words": [
+        "lineage"
+      ],
+      "text": "Data {{c1::lineage}} tracks where data comes from, how it is transformed, and where it is consumed.",
+      "current_spanish": "La lineage de datos rastrea de dónde provienen los datos, cómo se transforman y dónde se consumen."
+    },
+    {
+      "card_id": "0abcdd0a6960e9d0",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Data_Pipelines\\experimentation_data_pipelines_and_feature_stores.json",
+      "unresolved_words": [
+        "Feature stores"
+      ],
+      "text": "{{c1::Feature stores}} provide both offline training features and online serving features from the s",
+      "current_spanish": "Los feature stores proporcionan features offline para entrenamiento y features online para serving d"
+    },
+    {
+      "card_id": "e3d5578341f32004",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Data_Pipelines\\experimentation_data_pipelines_and_feature_stores.json",
+      "unresolved_words": [
+        "B testing"
+      ],
+      "text": "A/{{c1::B testing}} compares two versions of a system by randomizing users and measuring business or",
+      "current_spanish": "El A/B testing compara dos versiones de un sistema randomizando usuarios y midiendo resultados de ne"
+    },
+    {
+      "card_id": "f5d66613e4be4668",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Data_Pipelines\\experimentation_data_pipelines_and_feature_stores.json",
+      "unresolved_words": [
+        "real"
+      ],
+      "text": "Statistical power measures how likely an experiment is to detect a {{c1::real}} effect when one exis",
+      "current_spanish": "La potencia estadística mide qué tan probable es que un experimento detecte un efecto real cuando ex"
+    },
+    {
+      "card_id": "bbb04cab3fceb107",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Data_Pipelines\\experimentation_data_pipelines_and_feature_stores.json",
+      "unresolved_words": [
+        "serve skew"
+      ],
+      "text": "Train-{{c1::serve skew}} occurs when the features used during training differ from those used at inf",
+      "current_spanish": "El train-serve skew ocurre cuando las features usadas durante entrenamiento difieren de las usadas e"
+    },
+    {
+      "card_id": "e11a41f4d9766e36",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\fine_tuning_and_adaptation.json",
+      "unresolved_words": [
+        "tuning"
+      ],
+      "text": "Supervised fine-{{c1::tuning}} trains a model on task-specific examples to improve behavior in a tar",
+      "current_spanish": "El fine-tuning supervisado entrena un modelo con ejemplos específicos de tarea para mejorar su compo"
+    },
+    {
+      "card_id": "a2d23c1285983123",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\fine_tuning_and_adaptation.json",
+      "unresolved_words": [
+        "QLoRA"
+      ],
+      "text": "LoRA and {{c1::QLoRA}} adapt models by updating a small number of low-rank parameters rather than al",
+      "current_spanish": "LoRA y QLoRA adaptan modelos actualizando un pequeño número de parámetros de bajo rango en lugar de "
+    },
+    {
+      "card_id": "e60e8b1e22018003",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\fine_tuning_and_adaptation.json",
+      "unresolved_words": [
+        "Direct Preference Optimization"
+      ],
+      "text": "{{c1::Direct Preference Optimization}} trains on preference pairs so the model more strongly prefers",
+      "current_spanish": "Direct Preference Optimization entrena con pares de preferencias para que el modelo prefiera respues"
+    },
+    {
+      "card_id": "b378a1433ca9afe0",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\fine_tuning_and_adaptation.json",
+      "unresolved_words": [
+        "Proximal Policy Optimization"
+      ],
+      "text": "{{c1::Proximal Policy Optimization}} is a reinforcement learning method used to align models with re",
+      "current_spanish": "Proximal Policy Optimization es un método de aprendizaje por refuerzo usado para alinear modelos con"
+    },
+    {
+      "card_id": "3222a5a77d30686b",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\fine_tuning_and_adaptation.json",
+      "unresolved_words": [
+        "tuning"
+      ],
+      "text": "Catastrophic forgetting happens when fine-{{c1::tuning}} erases previously learned capabilities.",
+      "current_spanish": "El olvido catastrófico ocurre cuando el fine-tuning borra capacidades previamente aprendidas."
+    },
+    {
+      "card_id": "f9e04561473d8656",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\fine_tuning_and_adaptation.json",
+      "unresolved_words": [
+        "fine"
+      ],
+      "text": "The quality of the training data often matters more than the algorithm choice when {{c1::fine}}-tuni",
+      "current_spanish": "La calidad de los datos de entrenamiento a menudo importa más que la elección del algoritmo al fine-"
+    },
+    {
+      "card_id": "6959344aafb4c4a6",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\fine_tuning_and_adaptation.json",
+      "unresolved_words": [
+        "PyTorch LoRA Linear Layer Implementation"
+      ],
+      "text": "Patrón de código en <b>python</b> para {{c1::PyTorch LoRA Linear Layer Implementation}}:<br><pre><co",
+      "current_spanish": "Patrón de código: PyTorch LoRA Linear Layer Implementation"
+    },
+    {
+      "card_id": "1976fba1093754e3",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "unresolved_words": [
+        "prompting"
+      ],
+      "text": "Zero-shot {{c1::prompting}} asks the model to perform a task without examples, while few-shot prompt",
+      "current_spanish": "El prompting zero-shot pide al modelo que haga una tarea sin ejemplos, mientras que few-shot proporc"
+    },
+    {
+      "card_id": "c4f9422ddcc0cbb9",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "unresolved_words": [
+        "prompting"
+      ],
+      "text": "Chain-of-thought {{c1::prompting}} encourages the model to break a problem into intermediate reasoni",
+      "current_spanish": "El prompting de chain-of-thought anima al modelo a descomponer un problema en pasos intermedios de r"
+    },
+    {
+      "card_id": "f8f7068e9ee4fa50",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "unresolved_words": [
+        "Exact Match"
+      ],
+      "text": "{{c1::Exact Match}} measures whether the predicted answer matches the reference exactly.",
+      "current_spanish": "Exact Match mide si la respuesta predicha coincide exactamente con la referencia."
+    },
+    {
+      "card_id": "5f7214b0ff9f79a6",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "unresolved_words": [
+        "ROUGE"
+      ],
+      "text": "BLEU and {{c1::ROUGE}} are classic text-generation metrics that compare overlap with reference outpu",
+      "current_spanish": "BLEU y ROUGE son métricas clásicas de generación de texto que comparan solapamiento con salidas de r"
+    },
+    {
+      "card_id": "738765d085109437",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "unresolved_words": [
+        "ranking"
+      ],
+      "text": "nDCG evaluates {{c1::ranking}} quality by rewarding relevant documents higher in the result list.",
+      "current_spanish": "nDCG evalúa la calidad del ranking premiando documentos relevantes más arriba en la lista de resulta"
+    },
+    {
+      "card_id": "5e8a8fba1af428ae",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "unresolved_words": [
+        "outputs"
+      ],
+      "text": "Structured {{c1::outputs}} use schemas like JSON or XML to ensure predictable, machine-readable resp",
+      "current_spanish": "Los outputs estructurados usan esquemas como JSON o XML para asegurar respuestas predecibles y legib"
+    },
+    {
+      "card_id": "9d22bc60cda9c18c",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "unresolved_words": [
+        "Task success"
+      ],
+      "text": "{{c1::Task success}} measures whether the agent completed the intended objective, not merely whether",
+      "current_spanish": "El task success mide si el agente completó el objetivo previsto, no solo si produjo texto fluido."
+    },
+    {
+      "card_id": "7b4a5b0275777a11",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "unresolved_words": [
+        "Tool"
+      ],
+      "text": "{{c1::Tool}} call accuracy measures whether the agent selected and used the correct tool at the righ",
+      "current_spanish": "La precisión de tool calls mide si el agente seleccionó y usó la herramienta correcta en el momento "
+    },
+    {
+      "card_id": "0c6f6b39a9770fd6",
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "unresolved_words": [
+        "Trace logging"
+      ],
+      "text": "{{c1::Trace logging}} captures the full path of an agent run, including prompts, tool calls, interme",
+      "current_spanish": "El trace logging captura el camino completo de una ejecución de agente, incluyendo prompts, tool cal"
+    }
+  ]
+}

@@ -1,0 +1,1019 @@
+{
+  "generated_at": "2026-07-15T09:10:45.376219",
+  "totals": {
+    "files_scanned": 88,
+    "files_with_parse_errors": 2,
+    "files_rewritten": 3,
+    "cards_total": 6721,
+    "cards_auto_fixed": 4,
+    "cards_with_remaining_issues": 0,
+    "cards_clean": 6721
+  },
+  "template_distribution": {
+    "T12_SpeakingPractice": 10,
+    "T1_Cloze": 6120,
+    "T2_DualCoding": 9,
+    "T8_MinimalPair": 3,
+    "T9_ListeningChunk": 579
+  },
+  "issue_type_counts": {},
+  "per_file_results": [
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Blue_Teaming\\incident_response_and_operations.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 10,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Blue_Teaming\\security_operations.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 10,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\defense_evasion.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 20,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\exploitation.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 10,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\post_exploitation.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 10,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Cybersecurity\\Red_Teaming\\reconnaissance_and_scanning.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 20,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Fundamentals\\networking_fundamentals.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 20,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\GCP_Cloud_Networking\\vpc_and_compute_design.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 12,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Networking\\Protocols_and_Security\\ports_and_tls_security.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 15,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Systems_Engineering\\Administration\\linux_command_line_and_kernel.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 15,
+      "cards_fixed": 2,
+      "cards_with_issues": 0,
+      "was_written": true,
+      "fixes": [
+        {
+          "card_id": "9f67d644ab4562a3",
+          "template": "T1_Cloze",
+          "fixes": [
+            "repaired_cloze: 'To print the second column of a space-delimited text output, you feed it into aw' → 'To print the second column of a space-delimited text output, you feed it into aw'"
+          ]
+        },
+        {
+          "card_id": "c389bd839e71f0cc",
+          "template": "T1_Cloze",
+          "fixes": [
+            "repaired_cloze: 'To execute a shell command on every file matched by the `find` tool, you append ' → 'To execute a shell command on every file matched by the `find` tool, you append '"
+          ]
+        }
+      ],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\01_Cloud_and_Infrastructure\\Systems_Engineering\\Infrastructure_as_Code\\docker_and_kubernetes_orchestration.json",
+      "pillar": "01_Cloud_and_Infrastructure",
+      "cards_total": 5,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\adk_framework_core.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 31,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Agentic_Systems\\agents_architecture_and_reinforcement_learning.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 63,
+      "cards_fixed": 1,
+      "cards_with_issues": 0,
+      "was_written": true,
+      "fixes": [
+        {
+          "card_id": "bacc2eefb054ca58",
+          "template": "T1_Cloze",
+          "fixes": [
+            "repaired_cloze: 'The Gradient Descent parameter update formula is {{c1::\\(\\theta_{t+1} = \\theta_t' → 'The Gradient Descent parameter update formula is {{c1::\\(\\theta_{t+1}} = \\theta_'"
+          ]
+        }
+      ],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Classical_and_Deep_Learning\\statistical_ml_and_neural_nets.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 115,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Data_Pipelines\\experimentation_data_pipelines_and_feature_stores.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 8,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\fine_tuning_and_adaptation.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 11,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\prompt_engineering_and_evaluation.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 17,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Applications\\rag_and_knowledge_retrieval.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 33,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\LLM_Foundations\\llm_foundations_and_architectures.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 79,
+      "cards_fixed": 1,
+      "cards_with_issues": 0,
+      "was_written": true,
+      "fixes": [
+        {
+          "card_id": "2441589b9c8d5471",
+          "template": "T1_Cloze",
+          "fixes": [
+            "repaired_cloze: 'The Scaled Dot-Product Attention is defined mathematically as {{c1::\\(\\text{Atte' → 'The Scaled Dot-Product Attention is defined mathematically as {{c1::\\(\\text{Atte'"
+          ]
+        }
+      ],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\Security_And_Privacy\\security_privacy_and_adversarial_ai.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 6,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\AI_Engineering\\System_Design\\ml_system_design_and_platforms.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 9,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\Governance_and_Strategy\\Product_Strategy\\ai_adoption_and_system_design.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 4,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\Governance_and_Strategy\\Responsible_AI\\safety_ethics_and_adversarial_defense.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 11,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\MLOps_and_LLMOps\\Governance\\mlops_guardrails.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 10,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\02_AI_and_Data_Science\\MLOps_and_LLMOps\\Operations\\pipelines_and_observability.json",
+      "pillar": "02_AI_and_Data_Science",
+      "cards_total": 13,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Chinese\\A1_Beginner\\greetings_pronouns_and_verbs.json",
+      "pillar": "03_Languages",
+      "cards_total": 40,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Chinese\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 23,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\00_minimal_pairs.json",
+      "pillar": "03_Languages",
+      "cards_total": 3,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\01_cluster_elision.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\02_flap_t.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\03_glottal_stop.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\04_nasal_t_deletion.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\05_yod_coalescence.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\06_resyllabification.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\07_h_dropping.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\08_schwa_reduction.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\09_linking_r.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\10_lexical_chunks.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\11_dark_l.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\12_intrusive_glides.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\13_unreleased_stops.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\14_stress_timed_rhythm.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\15_flap_d.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\16_pre_glottalization.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\17_auxiliary_chunks.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\18_syllabic_consonants.json",
+      "pillar": "03_Languages",
+      "cards_total": 30,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Phonetics_and_Connected_Speech\\colloquial_rhythm_and_flow.json",
+      "pillar": "03_Languages",
+      "cards_total": 127,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Real_World_Scenarios\\academic_and_medical_contexts.json",
+      "pillar": "03_Languages",
+      "cards_total": 520,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Real_World_Scenarios\\daily_and_social_interactions.json",
+      "pillar": "03_Languages",
+      "cards_total": 2659,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Real_World_Scenarios\\interview_and_career_pitching.json",
+      "pillar": "03_Languages",
+      "cards_total": 345,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Real_World_Scenarios\\workplace_and_customer_service.json",
+      "pillar": "03_Languages",
+      "cards_total": 724,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\English\\Variant_Pipeline\\manifest.json",
+      "pillar": "03_Languages",
+      "cards_total": 0,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "fixes": [],
+      "issues": [],
+      "file_error": "Root element is not a JSON array"
+    },
+    {
+      "file": "decks\\03_Languages\\French\\A1_Beginner\\greetings_pronouns_and_verbs.json",
+      "pillar": "03_Languages",
+      "cards_total": 40,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\French\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 26,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\General\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 8,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\German\\A1_Beginner\\greetings_pronouns_and_verbs.json",
+      "pillar": "03_Languages",
+      "cards_total": 40,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\German\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 23,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Hindi\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 6,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Italian\\A1_Beginner\\greetings_pronouns_and_verbs.json",
+      "pillar": "03_Languages",
+      "cards_total": 40,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Italian\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 22,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Japanese\\A1_Beginner\\greetings_pronouns_and_verbs.json",
+      "pillar": "03_Languages",
+      "cards_total": 40,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Japanese\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 28,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Korean\\A1_Beginner\\greetings_pronouns_and_verbs.json",
+      "pillar": "03_Languages",
+      "cards_total": 40,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Korean\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 24,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Portuguese\\A1_Beginner\\greetings_pronouns_and_verbs.json",
+      "pillar": "03_Languages",
+      "cards_total": 40,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Portuguese\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 23,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Russian\\A1_Beginner\\greetings_pronouns_and_verbs.json",
+      "pillar": "03_Languages",
+      "cards_total": 40,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Russian\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 20,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Spanish\\A1_Beginner\\greetings_pronouns_and_verbs.json",
+      "pillar": "03_Languages",
+      "cards_total": 40,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\03_Languages\\Spanish\\Phonetics\\grapheme_to_phoneme_drills.json",
+      "pillar": "03_Languages",
+      "cards_total": 24,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\04_Social_and_Humanities\\Philosophy\\Applied_Stoicism\\stoic_principles_and_daily_practice.json",
+      "pillar": "04_Social_and_Humanities",
+      "cards_total": 10,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\04_Social_and_Humanities\\Philosophy\\Book_Summaries\\philosophy_of_meaning.json",
+      "pillar": "04_Social_and_Humanities",
+      "cards_total": 3,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\04_Social_and_Humanities\\Philosophy\\Foundations_and_Schools\\classical_greek_and_eastern.json",
+      "pillar": "04_Social_and_Humanities",
+      "cards_total": 20,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\04_Social_and_Humanities\\Philosophy\\Foundations_and_Schools\\modern_and_postmodern_movements.json",
+      "pillar": "04_Social_and_Humanities",
+      "cards_total": 10,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\04_Social_and_Humanities\\Psychology\\Cognitive_and_Behavioral\\cognitive_biases_and_mental_models.json",
+      "pillar": "04_Social_and_Humanities",
+      "cards_total": 5,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\04_Social_and_Humanities\\Psychology\\Social_and_Conversational\\conversational_dynamics_and_rapport.json",
+      "pillar": "04_Social_and_Humanities",
+      "cards_total": 5,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\05_Soft_Skills_and_Leadership\\Leadership\\Executive_Presence\\pitching_public_speaking_and_influence.json",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "cards_total": 9,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\05_Soft_Skills_and_Leadership\\Leadership\\Management\\delegation_coaching_and_feedback.json",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "cards_total": 18,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\05_Soft_Skills_and_Leadership\\Leadership\\Management\\performance_metrics_and_accountability.json",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "cards_total": 3,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\05_Soft_Skills_and_Leadership\\Social_Skills\\Communication\\active_listening_and_negotiation.json",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "cards_total": 17,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\05_Soft_Skills_and_Leadership\\Social_Skills\\Communication\\storytelling_and_persuasion_foundations.json",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "cards_total": 39,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\05_Soft_Skills_and_Leadership\\Social_Skills\\Customer_Excellence\\incident_recovery_and_crisis_handling.json",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "cards_total": 117,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\06_Business_and_Productivity\\Business_and_Sales\\Sales\\sales_methodologies_and_objections.json",
+      "pillar": "06_Business_and_Productivity",
+      "cards_total": 100,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\06_Business_and_Productivity\\Business_and_Sales\\Strategy\\corporate_strategy_and_market_positioning.json",
+      "pillar": "06_Business_and_Productivity",
+      "cards_total": 3,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\06_Business_and_Productivity\\Learning_and_Memory\\Methodology\\learning_methodology.json",
+      "pillar": "06_Business_and_Productivity",
+      "cards_total": 120,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\06_Business_and_Productivity\\Learning_and_Memory\\Methodology\\memory_techniques_and_systems.json",
+      "pillar": "06_Business_and_Productivity",
+      "cards_total": 120,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\06_Business_and_Productivity\\Productivity_and_Habits\\Methodology\\productivity_and_habits.json",
+      "pillar": "06_Business_and_Productivity",
+      "cards_total": 60,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "was_written": false,
+      "fixes": [],
+      "issues": [],
+      "file_error": null
+    },
+    {
+      "file": "decks\\index.json",
+      "pillar": null,
+      "cards_total": 0,
+      "cards_fixed": 0,
+      "cards_with_issues": 0,
+      "fixes": [],
+      "issues": [],
+      "file_error": "Root element is not a JSON array"
+    }
+  ]
+}

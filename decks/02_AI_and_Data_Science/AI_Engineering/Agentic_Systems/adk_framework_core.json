@@ -710,7 +710,7 @@
     "content": {
       "scenario": "Agentic IDEs: Codebase Rules and Config 📐",
       "text": "Next-generation IDEs like Cursor customize agent behavior using root configuration files called {{c1::.cursorrules}} to define development standards and enforce local styling.",
-      "explanation": ".cursorrules files sit at the root of a project. They instruct Cursor's codebase agent on specific architectural choices (e.g. 'Use Next.js Server Actions, prefer Tailwind, do not use library X'), preventing the AI from generating obsolete patterns.",
+      "explanation": "The term \".cursorrules\" refers to files sit at the root of a project. They instruct Cursor's codebase agent on specific architectural choices (e.g. 'Use Next.js Server Actions, prefer Tailwind, do not use library X'), preventing the AI from generating obsolete patterns.. In context: \"Next-generation IDEs like Cursor customize agent behavior using root configuration files called .cursorrules to define development standards and enforce local styling.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Los IDEs de próxima generación como Cursor personalizan el comportamiento de los agentes mediante archivos de configuración en la raíz llamados .cursorrules para establecer estándares y estilos.",
       "usage": "Best practice for onboarding teams and keeping LLM code outputs consistent across microservices."
     },
@@ -743,7 +743,7 @@
     "content": {
       "scenario": "Agentic IDEs: Windsurf Shared Terminal 🖥️",
       "text": "The agentic editor {{c1::Windsurf}} uses a shared state model called 'Flows', allowing the AI to read your open file contexts, suggest edits, and directly execute commands in the {{c2::integrated terminal}}.",
-      "explanation": "Windsurf breaks the boundary of conversational chats by integrating the IDE terminal, file system, and chat context. The agent does not just print code blocks; it compiles, tests, and reads the output directly, resolving issues iteratively.",
+      "explanation": "The term \"Windsurf\" refers to breaks the boundary of conversational chats by integrating the IDE terminal, file system, and chat context. The agent does not just print code blocks; it compiles, tests, and reads the output directly, resolving issues iteratively.. In context: \"The agentic editor Windsurf uses a shared state model called 'Flows', allowing the AI to read your open file contexts, suggest edits, and directly execute commands in the integrated terminal.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "El editor agéntico Windsurf utiliza un modelo de estado compartido llamado 'Flows', permitiendo a la IA leer los archivos abiertos, sugerir ediciones y ejecutar comandos en la terminal integrada.",
       "usage": "Perfect for complex debugging sessions where the agent needs to compile and test code in real time."
     },
@@ -776,7 +776,7 @@
     "content": {
       "scenario": "Agentic IDEs: In-Browser Sandboxes 🌐",
       "text": "Web-based development platforms like Bolt.new run complete Node.js development servers inside the browser using WebAssembly-driven {{c1::WebContainers}}.",
-      "explanation": "WebContainers allow full-stack environments (Vite, Express, etc.) to run directly in the browser's sandbox without installing Node locally. This allows AI agents to instantly provision, preview, and build applications securely in seconds.",
+      "explanation": "The term \"WebContainers\" refers to allow full-stack environments (Vite, Express, etc.) to run directly in the browser's sandbox without installing Node locally. This allows AI agents to instantly provision, preview, and build applications securely in seconds.. In context: \"Web-based development platforms like Bolt.new run complete Node.js development servers inside the browser using WebAssembly-driven WebContainers.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Las plataformas de desarrollo basadas en web como Bolt.new ejecutan servidores de desarrollo Node.js completos dentro del navegador utilizando WebContainers basados en WebAssembly.",
       "usage": "Used in text-to-app tools for instant frontend/backend preview and code generation."
     },

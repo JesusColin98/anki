@@ -114,7 +114,7 @@
     "content": {
       "scenario": "Agents: Memory 🧠",
       "text": "Agent {{c1::memory}} stores important facts, preferences, and state across interactions.",
-      "explanation": "Memory is what makes agents feel more personalized and persistent over time.",
+      "explanation": "The term \"memory\" refers to is what makes agents feel more personalized and persistent over time.. In context: \"Agent memory stores important facts, preferences, and state across interactions.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "La memoria del agente almacena hechos importantes, preferencias y estado a través de interacciones.",
       "usage": "Key for customer support agents, personal assistants, and long-running workflows."
     },
@@ -180,7 +180,7 @@
     "content": {
       "scenario": "Agents: Orchestration 🎼",
       "text": "{{c1::Orchestration}} coordinates multiple steps, tools, and sub-agents to solve a broader task.",
-      "explanation": "Orchestration is the system design layer that makes agent pipelines practical.",
+      "explanation": "The term \"Orchestration\" refers to is the system design layer that makes agent pipelines practical.. In context: \"Orchestration coordinates multiple steps, tools, and sub-agents to solve a broader task.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "La orquestación coordina múltiples pasos, herramientas y subagentes para resolver una tarea más amplia.",
       "usage": "Used in multi-step research, software engineering, and data analysis agents."
     },
@@ -810,7 +810,7 @@
     "content": {
       "scenario": "Agent Toolkits: Graph Orchestration 📊",
       "text": "For complex, cyclical workflows requiring strict reliability, {{c1::LangGraph}} structures agents as a state machine where {{c2::Nodes}} represent actions and {{c2::Edges}} represent transitions.",
-      "explanation": "LangGraph is built on top of LangChain. Its core advantage is representing loops (cycles) naturally in a graph, with state persistence (saving checkpoints) and fine-grained control over transitions.",
+      "explanation": "The term \"LangGraph\" refers to is built on top of LangChain. Its core advantage is representing loops (cycles) naturally in a graph, with state persistence (saving checkpoints) and fine-grained control over transitions.. In context: \"For complex, cyclical workflows requiring strict reliability, LangGraph structures agents as a state machine where Nodes represent actions and Edges represent transitions.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para flujos de trabajo complejos y cíclicos que requieren una fiabilidad estricta, LangGraph estructura a los agentes como una máquina de estados donde los Nodos representan acciones y las Aristas representan transiciones.",
       "usage": "Ideal for production-grade pipelines where you need human-in-the-loop validation at specific checkpoints (e.g. approving an email draft before sending)."
     },
@@ -843,7 +843,7 @@
     "content": {
       "scenario": "Agent Toolkits: Role-Playing Teams 🤝",
       "text": "For organizational task delegation, {{c1::CrewAI}} adopts a role-playing design where developers define agents with specific {{c2::Roles, Goals, and Backstories}}.",
-      "explanation": "CrewAI models agents like employees in a company. You define their specialty (role), what they need to achieve (goals), and a narrative (backstory). It supports sequential or hierarchical delegation of tasks automatically.",
+      "explanation": "The term \"CrewAI\" refers to models agents like employees in a company. You define their specialty (role), what they need to achieve (goals), and a narrative (backstory). It supports sequential or hierarchical delegation of tasks automatically.. In context: \"For organizational task delegation, CrewAI adopts a role-playing design where developers define agents with specific Roles, Goals, and Backstories.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para la delegación de tareas organizacionales, CrewAI adopta un diseño de juego de roles donde los desarrolladores definen agentes con Roles, Objetivos e Historias de fondo específicos.",
       "usage": "Perfect for content generation or market analysis where one agent researches, another drafts, and a manager agent reviews the content."
     },
@@ -876,7 +876,7 @@
     "content": {
       "scenario": "Agent Toolkits: Conversational Dialogue 💬",
       "text": "To support collaborative problem-solving, Microsoft's {{c1::AutoGen}} defines agents as {{c2::conversable entities}} that interact with each other through structured text-based dialogues.",
-      "explanation": "AutoGen focuses on agent-to-agent chat. Multiple agents (e.g., coder, critic, user proxy) converse with each other in a chat room, generating and executing code iteratively to solve complex math or programming problems.",
+      "explanation": "The term \"AutoGen\" refers to focuses on agent-to-agent chat. Multiple agents (e.g., coder, critic, user proxy) converse with each other in a chat room, generating and executing code iteratively to solve complex math or programming problems.. In context: \"To support collaborative problem-solving, Microsoft's AutoGen defines agents as conversable entities that interact with each other through structured text-based dialogues.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para apoyar la resolución colaborativa de problemas, AutoGen de Microsoft define a los agentes como entidades conversacionales que interactúan entre sí a través de diálogos estructurados basados en texto.",
       "usage": "Useful for joint research, code generation, and iterative debugging tasks where agents need to critique each other's work dynamically."
     },
@@ -943,7 +943,7 @@
     "content": {
       "scenario": "Agent Frameworks: CrewAI 🤖",
       "text": "To build collaborative groups of AI agents that role-play and execute structured tasks, you use the {{c1::CrewAI}} framework, which organizes agents into crews.",
-      "explanation": "CrewAI is a framework designed to orchestrate role-playing, autonomous AI agents. By assigning specific roles, goals, and backstories to each agent, they can collaborate and perform complex multi-agent workflows.",
+      "explanation": "The term \"CrewAI\" refers to is a framework designed to orchestrate role-playing, autonomous AI agents. By assigning specific roles, goals, and backstories to each agent, they can collaborate and perform complex multi-agent workflows.. In context: \"To build collaborative groups of AI agents that role-play and execute structured tasks, you use the CrewAI framework, which organizes agents into crews.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para crear grupos colaborativos de agentes de IA que asuman roles y ejecuten tareas estructuradas, utilizas el entorno de trabajo CrewAI, que organiza los agentes en tripulaciones.",
       "usage": "In CrewAI, you define <code>Agent</code>, <code>Task</code>, and <code>Crew</code> objects, passing tools directly to the agents for execution."
     },
@@ -977,7 +977,7 @@
     "content": {
       "scenario": "Agent Frameworks: AutoGen 🤖",
       "text": "For building multi-agent systems where agents communicate via conversational turns, Microsoft developed {{c1::AutoGen}}, which supports customizable chat patterns.",
-      "explanation": "AutoGen is a developer framework that allows multiple agents to converse with one another to solve tasks. It supports human participation, tool execution, and diverse conversation flows (like joint chat or hierarchical chat).",
+      "explanation": "The term \"AutoGen\" refers to is a developer framework that allows multiple agents to converse with one another to solve tasks. It supports human participation, tool execution, and diverse conversation flows (like joint chat or hierarchical chat).. In context: \"For building multi-agent systems where agents communicate via conversational turns, Microsoft developed AutoGen, which supports customizable chat patterns.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para construir sistemas multi-agente donde los agentes se comunican mediante turnos conversacionales, Microsoft desarrolló AutoGen, que admite patrones de chat personalizables.",
       "usage": "AutoGen uses <code>ConversableAgent</code> and <code>UserProxyAgent</code> objects to orchestrate conversations and code execution."
     },
@@ -1011,7 +1011,7 @@
     "content": {
       "scenario": "Agent Frameworks: LangGraph 🤖",
       "text": "To build stateful, multi-agent applications using graph-based cyclic control flows, you use {{c1::LangGraph}}, which represents agents as nodes and transitions as edges.",
-      "explanation": "LangGraph extends LangChain by allowing developers to define agentic workflows as graphs. It supports cycles, which are crucial for agentic loops (like ReAct), and maintains a persistent state across agent steps.",
+      "explanation": "The term \"LangGraph\" refers to extends LangChain by allowing developers to define agentic workflows as graphs. It supports cycles, which are crucial for agentic loops (like ReAct), and maintains a persistent state across agent steps.. In context: \"To build stateful, multi-agent applications using graph-based cyclic control flows, you use LangGraph, which represents agents as nodes and transitions as edges.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para construir aplicaciones multi-agente con estado utilizando flujos de control cíclicos basados en grafos, utilizas LangGraph, que representa a los agentes como nodos y las transiciones como aristas.",
       "usage": "In LangGraph, you define a <code>StateGraph</code>, add nodes using functions, define conditional edges, and compile it into a runnable application."
     },
@@ -1045,7 +1045,7 @@
     "content": {
       "scenario": "Agent Frameworks: Semantic Kernel 🤖",
       "text": "To integrate LLMs into conventional programming languages like C# and Java using native functions and planners, you use Microsoft's {{c1::Semantic Kernel}}.",
-      "explanation": "Semantic Kernel is an SDK that enables integration of AI services with conventional programming languages. It allows developers to define plugins (semantic and native functions) and use planners to automatically execute them.",
+      "explanation": "The term \"Semantic Kernel\" refers to is an SDK that enables integration of AI services with conventional programming languages. It allows developers to define plugins (semantic and native functions) and use planners to automatically execute them.. In context: \"To integrate LLMs into conventional programming languages like C# and Java using native functions and planners, you use Microsoft's Semantic Kernel.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para integrar LLMs en lenguajes de programación convencionales como C# y Java utilizando funciones nativas y planificadores, utilizas Semantic Kernel de Microsoft.",
       "usage": "Semantic Kernel supports importing custom plugins and automatically mapping LLM prompts to native C# or Python functions."
     },
@@ -1079,7 +1079,7 @@
     "content": {
       "scenario": "Agent Frameworks: Message Passing 🤖",
       "text": "To prevent blocking and ensure high throughput in multi-agent networks, agents coordinate using {{c1::asynchronous message passing}} protocols.",
-      "explanation": "Asynchronous message passing allows agents to send messages to other agents' inboxes without waiting for an immediate response. This decouples agent execution, improving performance in complex systems.",
+      "explanation": "The term \"asynchronous message passing\" refers to allows agents to send messages to other agents' inboxes without waiting for an immediate response. This decouples agent execution, improving performance in complex systems.. In context: \"To prevent blocking and ensure high throughput in multi-agent networks, agents coordinate using asynchronous message passing protocols.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para evitar el bloqueo y asegurar un alto rendimiento en redes multi-agente, los agentes se coordinan utilizando protocolos de paso de mensajes asincrónicos.",
       "usage": "In multi-agent frameworks, agents write to a shared queue or event broker (like RabbitMQ) to achieve asynchronous message passing."
     },
@@ -1113,7 +1113,7 @@
     "content": {
       "scenario": "Agent Frameworks: State Sharing 🤖",
       "text": "To maintain a shared understanding of a task across multiple agents, frameworks implement a centralized database or {{c1::state sharing}} mechanism.",
-      "explanation": "State sharing allows multiple agents in a crew or swarm to read from and write to a common database (like Redis or a graph database). This ensures all agents are aligned on the current task progress.",
+      "explanation": "The term \"state sharing\" refers to allows multiple agents in a crew or swarm to read from and write to a common database (like Redis or a graph database). This ensures all agents are aligned on the current task progress.. In context: \"To maintain a shared understanding of a task across multiple agents, frameworks implement a centralized database or state sharing mechanism.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para mantener un entendimiento compartido de una tarea a lo largo de múltiples agentes, los entornos de trabajo implementan una base de datos centralizada o un mecanismo de intercambio de estado (state sharing).",
       "usage": "LangGraph implements state sharing by passing a common <code>State</code> dictionary to every node in the graph."
     },
@@ -1177,7 +1177,7 @@
     "content": {
       "scenario": "Agentic Systems: Memory 🧠",
       "text": "In agentic architectures, {{c1::episodic memory}} records execution histories and user interactions, while {{c1::semantic memory}} represents generalized factual facts, system prompts, or core instructions.",
-      "explanation": "Episodic memory refers to specific events and past steps the agent experienced (implemented via vector search of past chat logs). Semantic memory holds permanent generalized concepts, templates, or instructions (stored in the system prompt or static databases).",
+      "explanation": "The term \"episodic memory\" refers to refers to specific events and past steps the agent experienced (implemented via vector search of past chat logs). Semantic memory holds permanent generalized concepts, templates, or instructions (stored in the system prompt or static databases).. In context: \"In agentic architectures, episodic memory records execution histories and user interactions, while semantic memory represents generalized factual facts, system prompts, or core instructions.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "En las arquitecturas de agentes, la memoria episódica registra los historiales de ejecución y las interacciones del usuario, mientras que la memoria semántica representa hechos factuales generalizados, prompts del sistema o instrucciones principales.",
       "usage": "Key distinction:<ul><li>Episodic: 'What did I say to this user five steps ago?'</li><li>Semantic: 'What is the system guideline for writing code?'</li></ul>"
     },
@@ -1245,7 +1245,7 @@
     "content": {
       "scenario": "Agentic Systems: Self-Reflection 🤖",
       "text": "To improve output quality, agents run a validation step where they inspect their own output and suggest corrections; this is called {{c1::self-reflection}}.",
-      "explanation": "Self-reflection prompts the agent to play the role of an evaluator. It evaluates if the generated output meets the quality criteria and, if errors are found, generates a revised prompt to fix them.",
+      "explanation": "The term \"self-reflection\" refers to prompts the agent to play the role of an evaluator. It evaluates if the generated output meets the quality criteria and, if errors are found, generates a revised prompt to fix them.. In context: \"To improve output quality, agents run a validation step where they inspect their own output and suggest corrections; this is called self-reflection.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para mejorar la calidad de la salida, los agentes ejecutan un paso de validación en el que inspeccionan su propio resultado y sugieren correcciones; esto se llama auto-reflexión (self-reflection).",
       "usage": "The agent generates a draft, passes it to a reflection prompt: <code>Review this output for errors and revise if necessary</code>."
     },
@@ -1279,7 +1279,7 @@
     "content": {
       "scenario": "Agentic Systems: Memory Types 🤖",
       "text": "To recall past user interactions and facts across sessions, agent architectures implement {{c1::episodic memory}} using vector stores.",
-      "explanation": "Episodic memory stores the logs of past interactions or episodes. By embedding these logs and saving them in a vector database, the agent can perform semantic search to recall past context during a new session.",
+      "explanation": "The term \"episodic memory\" refers to stores the logs of past interactions or episodes. By embedding these logs and saving them in a vector database, the agent can perform semantic search to recall past context during a new session.. In context: \"To recall past user interactions and facts across sessions, agent architectures implement episodic memory using vector stores.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para recordar interacciones pasadas del usuario y hechos a lo largo de las sesiones, las arquitecturas de agentes implementan memoria episódica utilizando almacenes de vectores.",
       "usage": "Episodic memory uses vector databases (like Chroma or Pinecone) to perform similarity search on past conversation logs."
     },
@@ -1313,7 +1313,7 @@
     "content": {
       "scenario": "Agentic Systems: Tool Use 🤖",
       "text": "To interact with external APIs, databases, or run code, the agent translates a natural language request into a structured {{c1::tool call}}.",
-      "explanation": "Tool calling is the mechanism where the LLM selects a tool from a schema (name, description, parameters) and outputs a JSON containing the arguments, which the system then executes.",
+      "explanation": "The term \"tool call\" refers to ing is the mechanism where the LLM selects a tool from a schema (name, description, parameters) and outputs a JSON containing the arguments, which the system then executes.. In context: \"To interact with external APIs, databases, or run code, the agent translates a natural language request into a structured tool call.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para interactuar con APIs externas, bases de datos o ejecutar código, el agente traduce una solicitud en lenguaje natural en una llamada a herramienta estructurada (tool call).",
       "usage": "JSON output structure for a tool call: <code>{\"name\": \"run_code\", \"arguments\": {\"code\": \"print('hello')\"}}</code>."
     },
@@ -1347,7 +1347,7 @@
     "content": {
       "scenario": "Agentic Systems: Task Decomposition 🤖",
       "text": "To handle large, complex tasks, agents use {{c1::task decomposition}} to break the main goal into smaller sub-tasks.",
-      "explanation": "Task decomposition involves dividing a complex objective into sequential or parallel sub-tasks. This reduces context load and allows specialized agents or tools to handle each sub-step.",
+      "explanation": "The term \"task decomposition\" refers to involves dividing a complex objective into sequential or parallel sub-tasks. This reduces context load and allows specialized agents or tools to handle each sub-step.. In context: \"To handle large, complex tasks, agents use task decomposition to break the main goal into smaller sub-tasks.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para manejar tareas grandes y complejas, los agentes utilizan la descomposición de tareas (task decomposition) para dividir el objetivo principal en subtareas más pequeñas.",
       "usage": "An agent receives a query, uses a planning prompt to write a checklist (sub-tasks), and tracks progress sequentially."
     },
@@ -1381,7 +1381,7 @@
     "content": {
       "scenario": "Agentic Systems: Autonomy 🤖",
       "text": "Unlike standard chatbots, agentic systems possess high {{c1::autonomy}}, allowing them to decide the sequence of steps and tools to achieve a goal.",
-      "explanation": "Autonomy is the core capability that defines agents. Instead of following a hardcoded script, the agent analyzes the input, decides which tools to run, evaluates the results, and dynamically adjusts its plan.",
+      "explanation": "The term \"autonomy\" refers to is the core capability that defines agents. Instead of following a hardcoded script, the agent analyzes the input, decides which tools to run, evaluates the results, and dynamically adjusts its plan.. In context: \"Unlike standard chatbots, agentic systems possess high autonomy, allowing them to decide the sequence of steps and tools to achieve a goal.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "A diferencia de los chatbots estándar, los sistemas de agentes poseen una alta autonomía, lo que les permite decidir la secuencia de pasos y herramientas para lograr un objetivo.",
       "usage": "Autonomy is achieved by running the agent in a loop (like ReAct or Plan-and-Solve) until the agent decides to output a final answer."
     },
@@ -1415,7 +1415,7 @@
     "content": {
       "scenario": "Agentic Systems: Safety Guardrails 🤖",
       "text": "To prevent agents from executing harmful actions (like deleting a database), developers implement {{c1::Human-in-the-Loop}} (HITL) approval gates.",
-      "explanation": "Human-in-the-Loop (HITL) is a design pattern where the agent pauses execution and requests approval from a human user before executing a high-risk tool call.",
+      "explanation": "The term \"Human-in-the-Loop\" refers to (HITL) is a design pattern where the agent pauses execution and requests approval from a human user before executing a high-risk tool call.. In context: \"To prevent agents from executing harmful actions (like deleting a database), developers implement Human-in-the-Loop (HITL) approval gates.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para evitar que los agentes ejecuten acciones dañinas (como borrar una base de datos), los desarrolladores implementan puertas de aprobación humana en el bucle (Human-in-the-Loop).",
       "usage": "In LangGraph, you can set a breakpoint before high-risk nodes (e.g. <code>delete_db</code>) to require human-in-the-loop validation."
     },
@@ -1449,7 +1449,7 @@
     "content": {
       "scenario": "Agentic Systems: Evaluation 🤖",
       "text": "To evaluate the quality and correctness of an agent's multi-step execution, developers use the {{c1::LLM-as-a-judge}} paradigm.",
-      "explanation": "LLM-as-a-judge leverages a powerful model (like GPT-4) to evaluate the intermediate steps, tool calls, and final output of an agent against a set of rubrics or reference answers.",
+      "explanation": "The term \"LLM-as-a-judge\" refers to leverages a powerful model (like GPT-4) to evaluate the intermediate steps, tool calls, and final output of an agent against a set of rubrics or reference answers.. In context: \"To evaluate the quality and correctness of an agent's multi-step execution, developers use the LLM-as-a-judge paradigm.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para evaluar la calidad y corrección de la ejecución de múltiples pasos de un agente, los desarrolladores utilizan el paradigma de LLM como juez (LLM-as-a-judge).",
       "usage": "You prompt an evaluator LLM: <code>Grade the following agent run on a scale of 1-5 based on correctness and safety: [log]</code>."
     },
@@ -1480,7 +1480,7 @@
     },
     "content": {
       "scenario": "Classical ML: Optimization 📉",
-      "text": "The Gradient Descent parameter update formula is {{c1::\\(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\\)}}",
+      "text": "The Gradient Descent parameter update formula is {{c1::\\(\\theta_{t+1}} = \\theta_t - \\eta \\nabla J(\\theta_t)\\)}}",
       "explanation": "This formula iteratively adjusts model parameters (weights) \\(\\theta\\) to minimize the loss function \\(J(\\theta)\\). The gradient \\(\\nabla J(\\theta_t)\\) points in the direction of steepest increase, so subtracting it steps down toward the minimum, scaled by learning rate \\(\\eta\\).",
       "spanish": "La fórmula de actualización de parámetros en el Descenso de Gradiente es \\(\\theta_{t+1} = \\theta_t - \\eta \\nabla J(\\theta_t)\\).",
       "usage": "Core formula breakdown:<ul><li>\\(\\theta\\): Parameter weight vector</li><li>\\(\\eta\\): Learning rate (determines step size)</li><li>\\(J(\\theta)\\): Loss/objective function</li><li>\\(\\nabla J(\\theta_t)\\): Gradient vector at time step t</li></ul>"
@@ -1546,7 +1546,7 @@
     "content": {
       "scenario": "Classical ML: Supervised Learning 🌲",
       "text": "To predict continuous outputs (regression) or discrete categories (classification), we train models using {{c1::supervised learning}} on labeled data.",
-      "explanation": "Supervised learning algorithms learn a mapping function \\(f(x) = y\\) from training pairs \\((x, y)\\) containing input features and corresponding ground-truth targets.",
+      "explanation": "The term \"supervised learning\" refers to algorithms learn a mapping function \\(f(x) = y\\) from training pairs \\((x, y)\\) containing input features and corresponding ground-truth targets.. In context: \"To predict continuous outputs (regression) or discrete categories (classification), we train models using supervised learning on labeled data.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para predecir salidas continuas (regresión) o categorías discretas (clasificación), entrenamos modelos utilizando aprendizaje supervisado (supervised learning) en datos etiquetados.",
       "usage": "Examples of supervised learning: Linear Regression, Logistic Regression, Decision Trees, Support Vector Machines."
     },
@@ -1579,7 +1579,7 @@
     "content": {
       "scenario": "Classical ML: Unsupervised Learning 🌲",
       "text": "To discover hidden structures, groupings, or reduce dimensions without utilizing ground-truth labels, you apply {{c1::unsupervised learning}}.",
-      "explanation": "Unsupervised learning analyzes unlabeled data to identify patterns, group samples by similarity (clustering), or project features into lower dimensions.",
+      "explanation": "The term \"unsupervised learning\" refers to analyzes unlabeled data to identify patterns, group samples by similarity (clustering), or project features into lower dimensions.. In context: \"To discover hidden structures, groupings, or reduce dimensions without utilizing ground-truth labels, you apply unsupervised learning.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para descubrir estructuras ocultas, agrupaciones o reducir dimensiones sin utilizar etiquetas de referencia reales, aplicas aprendizaje no supervisado (unsupervised learning).",
       "usage": "Examples of unsupervised learning: K-Means clustering, PCA, DBSCAN, Gaussian Mixture Models."
     },
@@ -1645,7 +1645,7 @@
     "content": {
       "scenario": "Classical ML: Overfitting 🌲",
       "text": "When a model learns noise and specific details of the training data too well, it suffers from {{c1::overfitting}} (high variance).",
-      "explanation": "Overfitting occurs when a model is overly complex relative to the simplicity of the data. It performs exceptionally well on training data but generalizes poorly to unseen test data.",
+      "explanation": "The term \"overfitting\" refers to occurs when a model is overly complex relative to the simplicity of the data. It performs exceptionally well on training data but generalizes poorly to unseen test data.. In context: \"When a model learns noise and specific details of the training data too well, it suffers from overfitting (high variance).\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Cuando un modelo aprende el ruido y los detalles específicos de los datos de entrenamiento demasiado bien, sufre de sobreajuste (overfitting - alta varianza).",
       "usage": "To prevent overfitting: use regularization (L1/L2), cross-validation, dropouts, or gather more training data."
     },
@@ -1678,7 +1678,7 @@
     "content": {
       "scenario": "Classical ML: Underfitting 🌲",
       "text": "If a model is too simple to capture the underlying pattern of the data, it yields high bias, a state called {{c1::underfitting}}.",
-      "explanation": "Underfitting occurs when the model complexity is insufficient (e.g. fitting a straight line to quadratic data). The model performs poorly on both training and validation sets.",
+      "explanation": "The term \"underfitting\" refers to occurs when the model complexity is insufficient (e.g. fitting a straight line to quadratic data). The model performs poorly on both training and validation sets.. In context: \"If a model is too simple to capture the underlying pattern of the data, it yields high bias, a state called underfitting.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Si un modelo es demasiado simple para capturar el patrón subyacente de los datos, produce un sesgo alto, un estado llamado subajuste (underfitting).",
       "usage": "To fix underfitting: increase model complexity, add feature interactions, or decrease regularization parameters."
     },
@@ -1744,7 +1744,7 @@
     "content": {
       "scenario": "Classical ML: Cross-Validation 🌲",
       "text": "To evaluate a model's generalization capability robustly, you partition the dataset using {{c1::K-Fold cross-validation}}.",
-      "explanation": "K-Fold cross-validation divides the dataset into K subsets (folds). The model is trained K times, each time using K-1 folds for training and the remaining fold for validation, averaging the metrics.",
+      "explanation": "The term \"K-Fold cross-validation\" refers to divides the dataset into K subsets (folds). The model is trained K times, each time using K-1 folds for training and the remaining fold for validation, averaging the metrics.. In context: \"To evaluate a model's generalization capability robustly, you partition the dataset using K-Fold cross-validation.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para evaluar la capacidad de generalización de un modelo de forma robusta, particionas el conjunto de datos mediante validación cruzada de K particiones (K-Fold cross-validation).",
       "usage": "In Scikit-Learn: <code>from sklearn.model_selection import cross_val_score; scores = cross_val_score(model, X, y, cv=5)</code>."
     },
@@ -1777,7 +1777,7 @@
     "content": {
       "scenario": "Classical ML: Data Leakage 🌲",
       "text": "When information from outside the training dataset is accidentally used to train the model, it causes {{c1::data leakage}}, yielding overly optimistic validation metrics.",
-      "explanation": "Data leakage occurs when target or future information is mixed into the training set (e.g. scaling features before splitting data, or including target-proxies). The model performs perfectly in testing but fails in production.",
+      "explanation": "The term \"data leakage\" refers to occurs when target or future information is mixed into the training set (e.g. scaling features before splitting data, or including target-proxies). The model performs perfectly in testing but fails in production.. In context: \"When information from outside the training dataset is accidentally used to train the model, it causes data leakage, yielding overly optimistic validation metrics.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Cuando la información de fuera del conjunto de datos de entrenamiento se utiliza accidentalmente para entrenar el modelo, causa filtración de datos (data leakage), produciendo métricas de validación demasiado optimistas.",
       "usage": "To prevent leakage: build pipelines that split data before any preprocessing or feature scaling steps."
     },
@@ -1843,7 +1843,7 @@
     "content": {
       "scenario": "AI Agents: Claude Code CLI 💻",
       "text": "Anthropic's {{c1::Claude Code}} operates autonomously on local repositories by directly parsing system diffs, running tests, and executing shell commands using a {{c2::read-eval-print-loop (REPL)}} model.",
-      "explanation": "Claude Code is a command-line interface tool that gives Claude agentic access to your local filesystem. It executes developer tasks (like bug fixing or refactoring) by suggesting patches, applying them, running verification tests, and iterating until the tests pass.",
+      "explanation": "The term \"Claude Code\" refers to is a command-line interface tool that gives Claude agentic access to your local filesystem. It executes developer tasks (like bug fixing or refactoring) by suggesting patches, applying them, running verification tests, and iterating until the tests pass.. In context: \"Anthropic's Claude Code operates autonomously on local repositories by directly parsing system diffs, running tests, and executing shell commands using a read-eval-print-loop (REPL) model.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Claude Code de Anthropic opera de forma autónoma en repositorios locales al analizar directamente diferencias del sistema, ejecutar pruebas y comandos de shell utilizando un modelo REPL.",
       "usage": "Ideal for command-line-driven codebase exploration, test-driven debugging, and automated git commits."
     },
@@ -1876,7 +1876,7 @@
     "content": {
       "scenario": "AI Agents: Antigravity Framework 🪐",
       "text": "The agentic framework {{c1::Antigravity}} ensures reliability by executing user code in a {{c2::sandboxed environment}} with granular tool permissions and state checkpointing.",
-      "explanation": "Antigravity provides developer environments with safe agent runtimes. By checkpointing the execution state, the framework allows long-running agent workflows to pause, seek user approval (Human-in-the-Loop), and safely resume without losing intermediate progress.",
+      "explanation": "The term \"Antigravity\" refers to provides developer environments with safe agent runtimes. By checkpointing the execution state, the framework allows long-running agent workflows to pause, seek user approval (Human-in-the-Loop), and safely resume without losing intermediate progress.. In context: \"The agentic framework Antigravity ensures reliability by executing user code in a sandboxed environment with granular tool permissions and state checkpointing.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "El framework agéntico Antigravity garantiza la confiabilidad al ejecutar código de usuario en un entorno aislado con permisos de herramientas granulares y puntos de control de estado.",
       "usage": "Perfect for enterprise tasks where agents make external API calls or write files that require strict verification."
     },
@@ -1909,7 +1909,7 @@
     "content": {
       "scenario": "AI Agents: LLM-as-a-Judge ⚖️",
       "text": "To automate validation in agentic pipelines, {{c1::LLM-as-a-Judge}} implements a multi-model evaluation where a supervisor LLM grades outputs using {{c2::rubric-based scoring}} to calculate alignment.",
-      "explanation": "LLM-as-a-Judge uses an LLM (typically a larger, frontier model) to evaluate the quality, tone, or compliance of another LLM's output. By defining strict scoring rubrics and structured JSON schemas, it reduces the need for slow, expensive human evaluations.",
+      "explanation": "The term \"LLM-as-a-Judge\" refers to uses an LLM (typically a larger, frontier model) to evaluate the quality, tone, or compliance of another LLM's output. By defining strict scoring rubrics and structured JSON schemas, it reduces the need for slow, expensive human evaluations.. In context: \"To automate validation in agentic pipelines, LLM-as-a-Judge implements a multi-model evaluation where a supervisor LLM grades outputs using rubric-based scoring to calculate alignment.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para automatizar la validación en flujos agénticos, LLM-as-a-Judge implementa una evaluación multi-modelo donde un LLM supervisor califica las salidas utilizando puntuaciones basadas en rúbricas.",
       "usage": "Widely deployed in CI/CD pipelines to measure prompt regression and semantic drift."
     },
@@ -1942,7 +1942,7 @@
     "content": {
       "scenario": "AI Agents: LangGraph Cyclic State 🔄",
       "text": "Unlike linear pipelines, {{c1::LangGraph}} models agents as a cyclic state machine where nodes represent actions and edges determine transitions based on the current {{c2::StateGraph object}}.",
-      "explanation": "LangGraph is designed for agent workflows that require loops (e.g. an agent writes code, compiles it, encounters an error, and loops back to fix it). It uses a centralized StateGraph that persists checkpoints, enabling human-in-the-loop interventions.",
+      "explanation": "The term \"LangGraph\" refers to is designed for agent workflows that require loops (e.g. an agent writes code, compiles it, encounters an error, and loops back to fix it). It uses a centralized StateGraph that persists checkpoints, enabling human-in-the-loop interventions.. In context: \"Unlike linear pipelines, LangGraph models agents as a cyclic state machine where nodes represent actions and edges determine transitions based on the current StateGraph object.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "A diferencia de los pipelines lineales, LangGraph modela a los agentes como una máquina de estados cíclica donde los nodos representan acciones y las aristas determinan las transiciones según el StateGraph.",
       "usage": "Used for building highly complex, iterative pipelines where agents must review and correct their own work."
     },
@@ -2010,7 +2010,7 @@
     "content": {
       "scenario": "Tech Map 2026: Loop Detection 🛠️",
       "text": "To prevent agents from generating infinite, repetitive tool calls when encountering failures, systems implement {{c1::loop detection}} limits.",
-      "explanation": "Loop detection monitors the agent's action history. If the agent repeats the exact same thought and tool call sequence multiple times without making progress, the loop is broken, and control is handed back to the user.",
+      "explanation": "The term \"loop detection\" refers to monitors the agent's action history. If the agent repeats the exact same thought and tool call sequence multiple times without making progress, the loop is broken, and control is handed back to the user.. In context: \"To prevent agents from generating infinite, repetitive tool calls when encountering failures, systems implement loop detection limits.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para evitar que los agentes generen llamadas a herramientas infinitas y repetitivas al encontrarse con fallas, los sistemas implementan límites de detección de bucles (loop detection).",
       "usage": "Loop detection is implemented by checking if the sequence of recent state signatures has duplicates, throwing an exception after 3 repetitions."
     },

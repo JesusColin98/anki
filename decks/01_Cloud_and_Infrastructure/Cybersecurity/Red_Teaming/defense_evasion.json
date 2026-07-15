@@ -48,7 +48,7 @@
     "content": {
       "scenario": "Security: Evasion (Process Hollowing) 🛡️",
       "text": "To execute covert code in a benign context, malware launches a system process in a suspended state, unmaps its memory, and writes a replacement payload; this is known as {{c1::Process Hollowing}}.",
-      "explanation": "Process hollowing evasion unmaps the original executable from a legitimate suspended process's memory space (e.g. svchost.exe) using NtUnmapViewOfSection, and injects a malicious payload into the hollowed section, updating the Thread Entry Point.",
+      "explanation": "The term \"Process Hollowing\" refers to evasion unmaps the original executable from a legitimate suspended process's memory space (e.g. svchost.exe) using NtUnmapViewOfSection, and injects a malicious payload into the hollowed section, updating the Thread Entry Point.. In context: \"To execute covert code in a benign context, malware launches a system process in a suspended state, unmaps its memory, and writes a replacement payload; this is known as Process Hollowing.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Para ejecutar código encubierto en un contexto benigno, el malware inicia un proceso del sistema en estado suspendido, desasigna su memoria y escribe una carga útil de reemplazo; esto se conoce como vaciado de procesos (Process Hollowing).",
       "usage": "**Symptom**: Unusually high CPU or network activity from a standard system process like svchost.exe.<br>**Root Cause**: Malicious payload executing inside a hollowed-out legitimate process container.<br>**Validation**: Run Sysinternals Process Hacker / Process Explorer and inspect the memory sections or parent-child hierarchy.<br>**Remediation**: Use EDR memory scanning for hollowed processes (detecting mismatch between file-on-disk and memory section headers)."
     },
@@ -115,7 +115,7 @@
     "content": {
       "scenario": "Defense Evasion: Definition 🛡️",
       "text": "In security frameworks (like MITRE ATT&CK), the tactic used by adversaries to avoid detection by security controls, antivirus software, and logging systems during an intrusion is {{c1::Defense Evasion}}.",
-      "explanation": "Defense evasion covers dozens of techniques, including code obfuscation, process injection, clearing logs, and bypassing UAC.",
+      "explanation": "The term \"Defense Evasion\" refers to covers dozens of techniques, including code obfuscation, process injection, clearing logs, and bypassing UAC.. In context: \"In security frameworks (like MITRE ATT&CK), the tactic used by adversaries to avoid detection by security controls, antivirus software, and logging systems during an intrusion is Defense Evasion.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "La táctica utilizada por los adversarios para evitar ser detectados por el software de seguridad y los sistemas de registro durante una intrusión se llama Defense Evasion.",
       "usage": "Tactic ID: <code>TA0005 (MITRE ATT&CK Defense Evasion)</code>"
     },
@@ -214,7 +214,7 @@
     "content": {
       "scenario": "Defense Evasion: Memory Manipulation 🛡️",
       "text": "The technique where malware injects its own malicious code into the memory space of a running, legitimate system process (like svchost.exe or explorer.exe) is called {{c1::Process Injection}}.",
-      "explanation": "Process injection hides the malware under a trusted process, bypassing process-based endpoint monitoring.",
+      "explanation": "The term \"Process Injection\" refers to hides the malware under a trusted process, bypassing process-based endpoint monitoring.. In context: \"The technique where malware injects its own malicious code into the memory space of a running, legitimate system process (like svchost.exe or explorer.exe) is called Process Injection.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "La técnica en la que el malware inyecta su código malicioso en el espacio de memoria de un proceso legítimo en ejecución se llama inyección de procesos (Process Injection).",
       "usage": "Common API sequence: <code>OpenProcess -> VirtualAllocEx -> WriteProcessMemory -> CreateRemoteThread</code>"
     },
@@ -413,7 +413,7 @@
     "content": {
       "scenario": "Defense Evasion: Kernel control 🛡️",
       "text": "A type of stealth malware that alters operating system files or modifies kernel memory to hide processes, files, and network connections from standard diagnostic tools is a {{c1::Rootkit}}.",
-      "explanation": "Rootkits operate at a low level (often ring 0 / kernel mode), intercepting system calls and filtering out the malware's own presence.",
+      "explanation": "The term \"Rootkit\" refers to s operate at a low level (often ring 0 / kernel mode), intercepting system calls and filtering out the malware's own presence.. In context: \"A type of stealth malware that alters operating system files or modifies kernel memory to hide processes, files, and network connections from standard diagnostic tools is a Rootkit.\" — memorizing this phrase helps you use it naturally in conversation.",
       "spanish": "Un tipo de malware sigiloso que altera archivos del sistema o memoria del kernel para ocultar procesos y conexiones se llama Rootkit.",
       "usage": "Level: <code>Kernel-mode rootkits, User-mode rootkits</code>"
     },
