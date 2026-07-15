@@ -306,24 +306,28 @@ def cmd_sync():
             
     created_count = 0
     if notes_to_add:
-        print(f"Uploading {len(notes_to_add)} new cards to Anki...")
-        try:
-            result = anki_invoke('addNotes', notes=notes_to_add)
-            created_count = len([r for r in result if r is not None])
-        except Exception as e:
-            print("[!] Bulk upload encountered an issue. Falling back to individual card uploads for safety...")
-            for idx, note in enumerate(notes_to_add):
-                try:
-                    res = anki_invoke('addNote', note=note)
-                    if res:
-                        created_count += 1
-                except Exception as ex:
-                    err_msg = str(ex)
-                    if "duplicate" not in err_msg.lower():
-                        scenario_clean = note['fields']['Scenario'].encode('ascii', 'ignore').decode('ascii')
-                        err_clean = err_msg.encode('ascii', 'ignore').decode('ascii')
-                        print(f"    [-] Failed to import card '{scenario_clean}': {err_clean}")
-                        
+        print(f"Uploading {len(notes_to_add)} new cards to Anki in chunked batches...")
+        batch_size = 100
+        for i in range(0, len(notes_to_add), batch_size):
+            batch = notes_to_add[i:i+batch_size]
+            try:
+                result = anki_invoke('addNotes', notes=batch)
+                if result:
+                    created_count += len([r for r in result if r is not None])
+            except Exception as e:
+                print(f"[!] Batch {i//batch_size + 1} encountered an issue. Falling back to individual card uploads for this batch...")
+                for note in batch:
+                    try:
+                        res = anki_invoke('addNote', note=note)
+                        if res:
+                            created_count += 1
+                    except Exception as ex:
+                        err_msg = str(ex)
+                        if "duplicate" not in err_msg.lower():
+                            scenario_clean = note['fields']['Scenario'].encode('ascii', 'ignore').decode('ascii')
+                            err_clean = err_msg.encode('ascii', 'ignore').decode('ascii')
+                            print(f"    [-] Failed to import card '{scenario_clean}': {err_clean}")
+                            
     print(f"\nSync summary: {created_count} cards created, {updated_count} cards updated, {skipped_count} cards skipped.")
 
 # --------------
