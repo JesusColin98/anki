@@ -92,6 +92,8 @@ GENERATION RULES:
 5. 'rules_applied' must list ALL phonetic rules triggered (not just the target rule).
 6. 'spanish' must be a natural, accurate translation of the context.
 7. Generate cards across 3 tiers: Tier 1 (isolated), Tier 2 (combined), Tier 3 (native chunk).
+8. ATOMIC CLOZES: Each card's 'gap_text' field must contain exactly ONE cloze deletion (i.e. only {{c1::...}}). Do not generate multiple clozes per card.
+9. PEDAGOGICAL TARGETING: The cloze deletion must target the specific segment where the phonetic compression or linking occurs. Never place a cloze on a trivial noun or static vocabulary word that is unaffected by the rule.
 
 JSON SCHEMA (T9_ListeningChunk — use this unless instructed otherwise):
 {

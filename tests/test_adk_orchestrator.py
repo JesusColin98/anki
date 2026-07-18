@@ -51,9 +51,6 @@ class TestAdkOrchestrator(unittest.TestCase):
     @patch("adk_orchestrator.generate_anki_cards_gemini")
     @patch("adk_orchestrator.correct_card_with_feedback")
     def test_self_repair_loop_success(self, mock_correct, mock_generate, mock_route):
-        print(f"\nDEBUG: mock_correct = {mock_correct}")
-        print(f"DEBUG: mock_generate = {mock_generate}")
-        print(f"DEBUG: mock_route = {mock_route}")
         mock_route.return_value = "COMPLEX"
         
         # Initially generate a malformed card (missing required fields for T21)

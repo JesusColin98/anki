@@ -122,173 +122,19 @@ TEMPLATES = {
 # ===========================================================================
 
 def build_tabs(tabs: Dict[str, str], card_id: str = "") -> str:
-    """Generates HTML/JS tabs. Stateless and keyboard-accessible."""
-    random_id = f"{random.randint(0, 1000000)}"
-    headers = []
-    contents = []
-    
-    # Generate tab buttons and contents
-    for i, (title, content) in enumerate(tabs.items()):
-        active_class = " active" if i == 0 else ""
-        tab_id = f"tab_{random_id}_{i}"
-        headers.append(f'<button class="tab-btn{active_class}" data-tab-name="{title}" onclick="switchTab(event, \'{tab_id}\')">{title}</button>')
-        contents.append(f'<div id="{tab_id}" class="tab-content{active_class}">{content}</div>')
-        
-    headers_html = "\n".join(headers)
-    contents_html = "\n".join(contents)
-    
-    js_script = f"""
-<script>
-(function() {{
-  if (typeof window.switchTab !== 'function') {{
-    window.switchTab = function(evt, tabId) {{
-      var parent = evt.currentTarget.closest('.tabs-container');
-      var contents = parent.getElementsByClassName("tab-content");
-      for (var i = 0; i < contents.length; i++) {{
-        contents[i].classList.remove("active");
-      }}
-      var buttons = parent.getElementsByClassName("tab-btn");
-      for (var i = 0; i < buttons.length; i++) {{
-        buttons[i].classList.remove("active");
-      }}
-      var target = document.getElementById(tabId);
-      if (target) target.classList.add("active");
-      evt.currentTarget.classList.add("active");
-    }};
-  }}
-  
-  if (!window._tabsKeyHandlerRegistered) {{
-    window._tabsKeyHandlerRegistered = true;
-    document.addEventListener("keydown", function(e) {{
-      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-      
-      var keyNum = parseInt(e.key);
-      if (!isNaN(keyNum) && keyNum >= 1 && keyNum <= 9) {{
-        var containers = document.querySelectorAll('.tabs-container');
-        var matched = false;
-        containers.forEach(function(container) {{
-          var buttons = container.querySelectorAll('.tab-btn');
-          if (buttons.length >= keyNum) {{
-            buttons[keyNum - 1].click();
-            matched = true;
-          }}
-        }});
-        if (matched) {{
-          e.preventDefault();
-          e.stopPropagation();
-        }}
-      }}
-    }});
-  }}
-}})();
-</script>
-"""
-    return f"""
-<div class="tabs-container" data-card-id="{card_id}">
-  <div class="tabs-header">
-    {headers_html}
-  </div>
-  {contents_html}
-</div>
-{js_script}
-"""
+    """Generates semantic HTML panel elements to be parsed dynamically in the note type template."""
+    panels = []
+    for title, content in tabs.items():
+        panels.append(f'<div class="tab-panel" data-title="{title}">{content}</div>')
+    return "\n".join(panels)
 
 def build_match_game(match_data: Dict[str, Any]) -> str:
-    """Creates a gamified terms matching game directly in the card DOM."""
+    """Outputs matching game data as a declarative web element to be rendered at runtime."""
     pairs = match_data.get("pairs", [])
     if not pairs:
         return ""
-        
-    game_id = f"mg_{random.randint(0, 1000000)}"
-    terms = [p["term"] for p in pairs]
-    meanings = [p["meaning"] for p in pairs]
-    
-    # Shuffle for presentation
-    shuffled_terms = sorted(terms, key=lambda x: random.random())
-    shuffled_meanings = sorted(meanings, key=lambda x: random.random())
-    
-    terms_html = "\n".join(f'<div class="mg-item term-item" data-term="{t}">{t}</div>' for t in shuffled_terms)
-    meanings_html = "\n".join(f'<div class="mg-item meaning-item" data-meaning="{m}">{m}</div>' for m in shuffled_meanings)
-    
-    game_html = f"""
-<div class="match-game" id="{game_id}">
-  <div class="column terms-column">
-    <h4>Conceptos</h4>
-    {terms_html}
-  </div>
-  <div class="column meanings-column">
-    <h4>Significados</h4>
-    {meanings_html}
-  </div>
-</div>
-<script>
-(function() {{
-  const container = document.getElementById("{game_id}");
-  const pairs = {json.dumps(pairs)};
-  let selectedTerm = null;
-  let selectedMeaning = null;
-  let matchesCount = 0;
-
-  const termItems = container.querySelectorAll(".term-item");
-  const meaningItems = container.querySelectorAll(".meaning-item");
-
-  termItems.forEach(item => {{
-    item.addEventListener("click", () => {{
-      if (item.classList.contains("matched")) return;
-      termItems.forEach(i => i.classList.remove("selected"));
-      item.classList.add("selected");
-      selectedTerm = item;
-      checkMatch();
-    }});
-  }});
-
-  meaningItems.forEach(item => {{
-    item.addEventListener("click", () => {{
-      if (item.classList.contains("matched")) return;
-      meaningItems.forEach(i => i.classList.remove("selected"));
-      item.classList.add("selected");
-      selectedMeaning = item;
-      checkMatch();
-    }});
-  }});
-
-  function checkMatch() {{
-    if (!selectedTerm || !selectedMeaning) return;
-    const termVal = selectedTerm.getAttribute("data-term");
-    const meaningVal = selectedMeaning.getAttribute("data-meaning");
-
-    const pair = pairs.find(p => p.term === termVal && p.meaning === meaningVal);
-    if (pair) {{
-      selectedTerm.classList.remove("selected");
-      selectedMeaning.classList.remove("selected");
-      selectedTerm.classList.add("matched", "success");
-      selectedMeaning.classList.add("matched", "success");
-      selectedTerm = null;
-      selectedMeaning = null;
-      matchesCount++;
-      if (matchesCount === pairs.length) {{
-        const successBanner = document.createElement("div");
-        successBanner.className = "mg-success-banner";
-        successBanner.innerHTML = "🎉 ¡Felicidades! Todos combinados correctamente.";
-        container.appendChild(successBanner);
-      }}
-    }} else {{
-      const t = selectedTerm;
-      const m = selectedMeaning;
-      t.classList.add("mismatch");
-      m.classList.add("mismatch");
-      selectedTerm = null;
-      selectedMeaning = null;
-      setTimeout(() => {{
-        t.classList.remove("selected", "mismatch");
-        m.classList.remove("selected", "mismatch");
-      }}, 600);
-    }}
-  }}
-}})();
-</script>
-"""
-    return game_html
+    payload = json.dumps(pairs, ensure_ascii=False)
+    return f'<div class="match-game-data" style="display:none;">{payload}</div>'
 
 # ===========================================================================
 # TEMPLATE RENDER FUNCTIONS
@@ -812,48 +658,7 @@ def build_card(template_type: str, data: Dict[str, Any]) -> Dict[str, Any]:
             else:
                 raw_card["explanation"] += "<br><br>" + game_html
 
-    # 3. Interactive click-to-reveal script for Mermaid Diagrams with index-based sessionStorage
-    full_str = json.dumps(raw_card)
-    card_id = data.get("id", "")
-    if 'class="mermaid"' in full_str:
-        js_revealer = f"""
-<script>
-(function() {{
-  var cardId = "{card_id}";
-  function setupClozeNodes() {{
-    var nodes = document.querySelectorAll('.mermaid .cloze-node');
-    if (cardId) {{
-      var revealed = JSON.parse(sessionStorage.getItem("revealed_nodes_" + cardId) || "[]");
-      nodes.forEach((node, index) => {{
-        if (revealed.includes(index)) {{
-          node.classList.add('revealed');
-        }}
-        node.removeEventListener('click', node._revealHandler);
-        node._revealHandler = () => {{
-          node.classList.toggle('revealed');
-          var current = JSON.parse(sessionStorage.getItem("revealed_nodes_" + cardId) || "[]");
-          if (node.classList.contains('revealed')) {{
-            if (!current.includes(index)) current.push(index);
-          }} else {{
-            current = current.filter(idx => idx !== index);
-          }}
-          sessionStorage.setItem("revealed_nodes_" + cardId, JSON.stringify(current));
-        }};
-        node.addEventListener('click', node._revealHandler);
-      }});
-    }}
-  }}
-  setupClozeNodes();
-  setTimeout(setupClozeNodes, 200);
-  setTimeout(setupClozeNodes, 600);
-  setTimeout(setupClozeNodes, 1500);
-}})();
-</script>
-"""
-        if "explanation" in raw_card:
-            raw_card["explanation"] += js_revealer
-        if "usage" in raw_card:
-            raw_card["usage"] += js_revealer
+    # Mermaid Node clicks are handled at the card layout template level now.
 
     # Ensure structure fields match the Pydantic schema structure
     # Rebuild nested structure

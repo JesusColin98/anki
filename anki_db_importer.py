@@ -414,7 +414,248 @@ mark {
 
     back_script = """
 <script>
-// 1. Dynamic Vocabulary Coloring
+// Hash function to uniquely identify the card based on the front text
+function getCardHash() {
+  var textEl = document.querySelector(".sentence-front") || document.querySelector(".prompt-block");
+  var textVal = textEl ? textEl.innerText.trim() : "";
+  var hash = 0;
+  for (var i = 0; i < textVal.length; i++) {
+    hash = ((hash << 5) - hash) + textVal.charCodeAt(i);
+    hash |= 0;
+  }
+  return "c_" + Math.abs(hash);
+}
+
+// 1. Dynamic Tabs Builder
+(function() {
+  var panels = document.querySelectorAll(".tab-panel");
+  if (panels.length === 0) return;
+  
+  // Find a suitable parent to insert our tabs container
+  var explanationSec = document.querySelector(".explanation-section");
+  if (!explanationSec) return;
+  
+  var cardId = getCardHash();
+  var storageKey = "active_tab_" + cardId;
+  
+  // Create tabs container
+  var container = document.createElement("div");
+  container.className = "tabs-container";
+  
+  var header = document.createElement("div");
+  header.className = "tabs-header";
+  container.appendChild(header);
+  
+  var activeTabTitle = sessionStorage.getItem(storageKey);
+  var activeIndex = 0;
+  
+  // Ensure we validate if the stored active tab title actually exists
+  var tabTitles = [];
+  panels.forEach(p => tabTitles.push(p.getAttribute("data-title")));
+  if (!activeTabTitle || tabTitles.indexOf(activeTabTitle) === -1) {
+    activeTabTitle = tabTitles[0];
+  }
+  
+  panels.forEach(function(panel, idx) {
+    var title = panel.getAttribute("data-title") || ("Tab " + (idx + 1));
+    var btn = document.createElement("button");
+    btn.className = "tab-btn";
+    btn.innerText = title;
+    btn.setAttribute("data-tab-name", title);
+    
+    var contentDiv = document.createElement("div");
+    contentDiv.className = "tab-content";
+    contentDiv.innerHTML = panel.innerHTML;
+    container.appendChild(contentDiv);
+    
+    if (title === activeTabTitle) {
+      btn.classList.add("active");
+      contentDiv.classList.add("active");
+      activeIndex = idx;
+    }
+    
+    btn.onclick = function(e) {
+      var btns = header.querySelectorAll(".tab-btn");
+      var contents = container.querySelectorAll(".tab-content");
+      btns.forEach(function(b) { b.classList.remove("active"); });
+      contents.forEach(function(c) { c.classList.remove("active"); });
+      
+      btn.classList.add("active");
+      contentDiv.classList.add("active");
+      sessionStorage.setItem(storageKey, title);
+    };
+    
+    header.appendChild(btn);
+  });
+  
+  // Replace the original explanation section contents with our tabs container
+  explanationSec.innerHTML = "";
+  explanationSec.appendChild(container);
+  
+  // Register keyboard handlers for switching tabs via 1-9 keys
+  if (!window._tabsKeyHandlerRegistered) {
+    window._tabsKeyHandlerRegistered = true;
+    document.addEventListener("keydown", function(e) {
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+      var keyNum = parseInt(e.key);
+      if (!isNaN(keyNum) && keyNum >= 1 && keyNum <= 9) {
+        var activeContainer = document.querySelector(".tabs-container");
+        if (activeContainer) {
+          var buttons = activeContainer.querySelectorAll(".tab-btn");
+          if (buttons.length >= keyNum) {
+            buttons[keyNum - 1].click();
+            e.preventDefault();
+            e.stopPropagation();
+          }
+        }
+      }
+    });
+  }
+})();
+
+// 2. Dynamic Match Game Parser
+(function() {
+  var gameDataEl = document.querySelector(".match-game-data");
+  if (!gameDataEl) return;
+  
+  var pairs = [];
+  try {
+    pairs = JSON.parse(gameDataEl.innerText.trim());
+  } catch(e) {
+    console.error("Match game data parsing error:", e);
+    return;
+  }
+  
+  if (pairs.length === 0) return;
+  
+  var gameContainer = document.createElement("div");
+  gameContainer.className = "match-game";
+  
+  var termsCol = document.createElement("div");
+  termsCol.className = "column terms-column";
+  termsCol.innerHTML = "<h4>Conceptos</h4>";
+  
+  var meaningsCol = document.createElement("div");
+  meaningsCol.className = "column meanings-column";
+  meaningsCol.innerHTML = "<h4>Significados</h4>";
+  
+  var terms = pairs.map(function(p) { return p.term; });
+  var meanings = pairs.map(function(p) { return p.meaning; });
+  
+  // Shuffle arrays randomly
+  terms.sort(function() { return 0.5 - Math.random(); });
+  meanings.sort(function() { return 0.5 - Math.random(); });
+  
+  terms.forEach(function(term) {
+    var item = document.createElement("div");
+    item.className = "mg-item term-item";
+    item.setAttribute("data-term", term);
+    item.innerText = term;
+    termsCol.appendChild(item);
+  });
+  
+  meanings.forEach(function(meaning) {
+    var item = document.createElement("div");
+    item.className = "mg-item meaning-item";
+    item.setAttribute("data-meaning", meaning);
+    item.innerText = meaning;
+    meaningsCol.appendChild(item);
+  });
+  
+  gameContainer.appendChild(termsCol);
+  gameContainer.appendChild(meaningsCol);
+  
+  // Append after the explanation section or in the usage section
+  var targetPos = document.querySelector(".explanation-section") || document.body;
+  targetPos.appendChild(gameContainer);
+  
+  var selectedTerm = null;
+  var selectedMeaning = null;
+  var matchesCount = 0;
+  
+  var termItems = gameContainer.querySelectorAll(".term-item");
+  var meaningItems = gameContainer.querySelectorAll(".meaning-item");
+  
+  function checkMatch() {
+    if (!selectedTerm || !selectedMeaning) return;
+    var termVal = selectedTerm.getAttribute("data-term");
+    var meaningVal = selectedMeaning.getAttribute("data-meaning");
+    
+    var match = pairs.find(function(p) { return p.term === termVal && p.meaning === meaningVal; });
+    if (match) {
+      selectedTerm.classList.remove("selected");
+      selectedMeaning.classList.remove("selected");
+      selectedTerm.classList.add("matched", "success");
+      selectedMeaning.classList.add("matched", "success");
+      selectedTerm = null;
+      selectedMeaning = null;
+      matchesCount++;
+      if (matchesCount === pairs.length) {
+        var banner = document.createElement("div");
+        banner.className = "mg-success-banner";
+        banner.innerHTML = "🎉 ¡Felicidades! Todos combinados correctamente.";
+        gameContainer.appendChild(banner);
+      }
+    } else {
+      var t = selectedTerm;
+      var m = selectedMeaning;
+      t.classList.add("mismatch");
+      m.classList.add("mismatch");
+      selectedTerm = null;
+      selectedMeaning = null;
+      setTimeout(function() {
+        t.classList.remove("selected", "mismatch");
+        m.classList.remove("selected", "mismatch");
+      }, 600);
+    }
+  }
+  
+  termItems.forEach(function(item) {
+    item.onclick = function() {
+      if (item.classList.contains("matched")) return;
+      termItems.forEach(function(i) { i.classList.remove("selected"); });
+      item.classList.add("selected");
+      selectedTerm = item;
+      checkMatch();
+    };
+  });
+  
+  meaningItems.forEach(function(item) {
+    item.onclick = function() {
+      if (item.classList.contains("matched")) return;
+      meaningItems.forEach(function(i) { i.classList.remove("selected"); });
+      item.classList.add("selected");
+      selectedMeaning = item;
+      checkMatch();
+    };
+  });
+})();
+
+// 3. Dynamic Mermaid click-to-reveal node setup
+function setupClozeNodes() {
+  var nodes = document.querySelectorAll('.mermaid .cloze-node');
+  if (nodes.length === 0) return;
+  var cardId = getCardHash();
+  var revealed = JSON.parse(sessionStorage.getItem("revealed_nodes_" + cardId) || "[]");
+  
+  nodes.forEach(function(node, index) {
+    if (revealed.indexOf(index) !== -1) {
+      node.classList.add('revealed');
+    }
+    node.onclick = function() {
+      node.classList.toggle('revealed');
+      var current = JSON.parse(sessionStorage.getItem("revealed_nodes_" + cardId) || "[]");
+      if (node.classList.contains('revealed')) {
+        if (current.indexOf(index) === -1) current.push(index);
+      } else {
+        current = current.filter(function(idx) { return idx !== index; });
+      }
+      sessionStorage.setItem("revealed_nodes_" + cardId, JSON.stringify(current));
+    };
+  });
+}
+
+// 4. Dynamic Vocabulary Coloring
 (function() {
   function colorizeClozes() {
     var clozes = document.querySelectorAll('.cloze');
@@ -444,7 +685,7 @@ mark {
   setTimeout(colorizeClozes, 500);
 })();
 
-// 2. Offline & CDN Mermaid.js Loader with 500ms timeout fallback
+// 5. Offline & CDN Mermaid.js Loader with 500ms fallback
 (function() {
   if (document.querySelector('.mermaid')) {
     var isLoaded = false;
@@ -483,6 +724,8 @@ mark {
         if (timeoutId) clearTimeout(timeoutId);
         mermaid.initialize({ startOnLoad: true, theme: 'dark', securityLevel: 'loose' });
         mermaid.run();
+        setTimeout(setupClozeNodes, 300);
+        setTimeout(setupClozeNodes, 800);
       };
       cdnScript.onerror = function() {
         showFallback();
@@ -495,6 +738,8 @@ mark {
       if (timeoutId) clearTimeout(timeoutId);
       mermaid.initialize({ startOnLoad: true, theme: 'dark', securityLevel: 'loose' });
       mermaid.run();
+      setTimeout(setupClozeNodes, 300);
+      setTimeout(setupClozeNodes, 800);
     };
     
     localScript.onerror = loadFromCDN;
@@ -664,14 +909,11 @@ def load_all_cards(base_dir=".", flatten=True):
             if len(deck_parts) >= 2 and deck_parts[0] == "03_Languages" and deck_parts[1] == "English" and "::Phonetics" not in card["deck"]:
                 card["deck"] = get_learning_path_deck(card["deck"], card)
                 
-            # Flatten deck name to 3 levels (omit Pillar part, map 03_Languages to Languages)
+            # Flatten deck name to exactly 3 levels by omitting the Pillar part prefix
             if flatten:
                 deck_parts = card["deck"].split("::")
                 if len(deck_parts) == 4:
-                    if deck_parts[0] == "03_Languages":
-                        card["deck"] = "Languages::" + "::".join(deck_parts[1:])
-                    else:
-                        card["deck"] = "::".join(deck_parts[1:])
+                    card["deck"] = "::".join(deck_parts[1:])
             compiled_cards.append(card)
             continue
             
@@ -706,14 +948,11 @@ def load_all_cards(base_dir=".", flatten=True):
                 routed_deck = get_learning_path_deck(compiled_nested["deck"], compiled)
                 compiled["deck"] = routed_deck
                 
-            # Flatten deck name to 3 levels (omit Pillar part, map 03_Languages to Languages)
+            # Flatten deck name to exactly 3 levels by omitting the Pillar part prefix
             if flatten:
                 deck_parts = compiled["deck"].split("::")
                 if len(deck_parts) == 4:
-                    if deck_parts[0] == "03_Languages":
-                        compiled["deck"] = "Languages::" + "::".join(deck_parts[1:])
-                    else:
-                        compiled["deck"] = "::".join(deck_parts[1:])
+                    compiled["deck"] = "::".join(deck_parts[1:])
                 
             # Preserve original properties for model mapping & tag generation
             compiled["template"] = card["template"]
