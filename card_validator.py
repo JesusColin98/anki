@@ -167,6 +167,57 @@ def validate_mathjax_delimiters(text: str) -> Tuple[bool, List[str]]:
     return len(errors) == 0, errors
 
 
+def validate_cognitive_rules(card: dict, strict: bool = False) -> List[str]:
+    """Applies cognitive usability and spaced repetition rules.
+    
+    If strict=True, uses strict limits (e.g. 80 chars for cloze answer).
+    Otherwise, uses relaxed limits (e.g. 150 chars for cloze answer).
+    """
+    warnings = []
+    
+    # Extract fields
+    content = card.get("content", {})
+    if not isinstance(content, dict):
+        content = card # Fallback if flat
+        
+    text = content.get("text", content.get("prompt", ""))
+    explanation = content.get("explanation", "")
+    
+    # 1. Cloze count limit: Max 2 cloze deletions of any index per card
+    clozes = re.findall(r"\{\{c\d+::.*?\}\}", text)
+    if len(clozes) > 2:
+        warnings.append(f"Cognitive: Card has {len(clozes)} cloze deletions. Max 2 allowed per card to maintain atomicity.")
+        
+    # 2. Cloze content length check
+    cloze_limit = 80 if strict else 150
+    for cloze in clozes:
+        content_match = re.search(r"\{\{c\d+::(.*?)\}\}", cloze)
+        if content_match:
+            cloze_text = content_match.group(1)
+            # Remove HTML tags inside cloze text
+            cloze_text_clean = re.sub(r"<[^>]+>", "", cloze_text).strip()
+            if len(cloze_text_clean) > cloze_limit:
+                warnings.append(
+                    f"Cognitive: Cloze answer '{cloze_text_clean[:20]}...' is {len(cloze_text_clean)} characters long. "
+                    f"Max {cloze_limit} allowed in {'strict' if strict else 'relaxed'} mode to avoid walls of text."
+                )
+                
+    # 3. Prompt/Text length check to avoid ambiguity
+    if text:
+        # Clean text from clozes and HTML
+        clean_text = re.sub(r"\{\{c\d+::(.*?)\}\}", r"\1", text)
+        clean_text = re.sub(r"<[^>]+>", "", clean_text).strip()
+        if len(clean_text) < 15:
+            warnings.append(f"Cognitive: Prompt text is too short ({len(clean_text)} chars). Should be >= 15 chars to provide sufficient context.")
+            
+    # 4. Wall of Text check: Max 600 characters in the explanation if it doesn't contain tabs
+    if explanation and len(explanation) > 600:
+        if "tabs-container" not in explanation and "tab-btn" not in explanation:
+            warnings.append(f"Cognitive: Explanation is too long ({len(explanation)} chars) and does not use tabs. Use tabs or split the concept.")
+            
+    return warnings
+
+
 def sanitize_and_validate_card(card: dict) -> Tuple[bool, dict, List[str]]:
     """Deterministic validator pipeline for generated nested Anki cards."""
     errors = []

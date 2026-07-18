@@ -36,7 +36,7 @@ VALID_PILLARS = {
 
 # Import local modules
 sys.path.insert(0, str(BASE_DIR))
-from card_validator import sanitize_and_validate_card
+from card_validator import sanitize_and_validate_card, validate_cognitive_rules
 from gemini_provider import generate_anki_cards_gemini
 from scraper_agent import scrape_article, save_cards_to_deck
 from adk_orchestrator import chunk_text
@@ -64,7 +64,7 @@ def anki_invoke(action: str, **params) -> Any:
 # -----------------
 # COMMAND: VALIDATE
 # -----------------
-def cmd_validate() -> bool:
+def cmd_validate(strict_cognitive: bool = False, list_cognitive: bool = False) -> bool:
     """Validates that all decks conform to the 4-level deep structure and card syntax rules."""
     print("=== DECK HIERARCHY & CARD SYNTAX VALIDATION ===")
     if not INDEX_FILE.exists():
@@ -75,6 +75,7 @@ def cmd_validate() -> bool:
         data = json.load(f)
 
     errors = []
+    cognitive_warnings = []
     total_cards = 0
 
     for entry in data["decks"]:
@@ -104,13 +105,34 @@ def cmd_validate() -> bool:
             total_cards += 1
             is_valid, _, card_errors = sanitize_and_validate_card(card)
             if not is_valid:
-                errors.append(f"Card {i} in '{deck_name}' failed validation: {card_errors}")
+                errors.append(f"Card {i} (ID: {card.get('id', 'unknown')}) in '{deck_name}' failed technical validation: {card_errors}")
+            
+            # Cognitive validation
+            cog_issues = validate_cognitive_rules(card, strict=strict_cognitive)
+            if cog_issues:
+                for issue in cog_issues:
+                    ref = f"Card {i} (ID: {card.get('id', 'unknown')}) in '{deck_name}'"
+                    if strict_cognitive:
+                        errors.append(f"{ref} failed cognitive check: {issue}")
+                    else:
+                        cognitive_warnings.append(f"{ref}: {issue}")
 
     print(f"Total Decks Validated: {len(data['decks'])}")
     print(f"Total Cards Validated: {total_cards}")
 
+    if cognitive_warnings:
+        print(f"\n[!] Found {len(cognitive_warnings)} cognitive guidelines warnings:")
+        if list_cognitive:
+            for warn in cognitive_warnings:
+                print(f"  - {warn}")
+        else:
+            for warn in cognitive_warnings[:10]:
+                print(f"  - {warn}")
+            if len(cognitive_warnings) > 10:
+                print(f"  ... and {len(cognitive_warnings) - 10} more warnings. (Run with --list-cognitive to see all).")
+
     if errors:
-        print(f"\n[!] Found {len(errors)} validation errors:")
+        print(f"\n[!] Found {len(errors)} hard validation errors:")
         for err in errors[:10]:
             print(f"  - {err}")
         if len(errors) > 10:
@@ -470,7 +492,9 @@ def main():
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     # validate
-    subparsers.add_parser("validate", help="Validate deck structure and card syntax")
+    validate_parser = subparsers.add_parser("validate", help="Validate deck structure and card syntax")
+    validate_parser.add_argument("--strict-cognitive", action="store_true", help="Treat cognitive checks as hard validation errors")
+    validate_parser.add_argument("--list-cognitive", action="store_true", help="List all cognitive warnings instead of just the first 10")
     
     # sync
     subparsers.add_parser("sync", help="Sync all deck JSON files to Anki Connect Desktop")
@@ -492,7 +516,7 @@ def main():
     args = parser.parse_args()
 
     if args.command == "validate":
-        success = cmd_validate()
+        success = cmd_validate(strict_cognitive=args.strict_cognitive, list_cognitive=args.list_cognitive)
         sys.exit(0 if success else 1)
     elif args.command == "sync":
         cmd_sync()

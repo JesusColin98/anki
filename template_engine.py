@@ -102,7 +102,7 @@ TEMPLATES = {
 # ===========================================================================
 
 def build_tabs(tabs: Dict[str, str], card_id: str = "") -> str:
-    """Generates HTML/JS tabs with sessionStorage state persistence."""
+    """Generates HTML/JS tabs. Stateless and keyboard-accessible."""
     random_id = f"{random.randint(0, 1000000)}"
     headers = []
     contents = []
@@ -120,8 +120,6 @@ def build_tabs(tabs: Dict[str, str], card_id: str = "") -> str:
     js_script = f"""
 <script>
 (function() {{
-  const cardId = "{card_id}";
-  
   if (typeof window.switchTab !== 'function') {{
     window.switchTab = function(evt, tabId) {{
       var parent = evt.currentTarget.closest('.tabs-container');
@@ -133,30 +131,34 @@ def build_tabs(tabs: Dict[str, str], card_id: str = "") -> str:
       for (var i = 0; i < buttons.length; i++) {{
         buttons[i].classList.remove("active");
       }}
-      document.getElementById(tabId).classList.add("active");
+      var target = document.getElementById(tabId);
+      if (target) target.classList.add("active");
       evt.currentTarget.classList.add("active");
-      
-      // Persist active tab name to sessionStorage
-      var tabName = evt.currentTarget.getAttribute("data-tab-name");
-      if (cardId && tabName) {{
-        sessionStorage.setItem("active_tab_" + cardId, tabName);
-      }}
     }};
   }}
   
-  // Restore tab state on load
-  if (cardId) {{
-    var savedTabName = sessionStorage.getItem("active_tab_" + cardId);
-    if (savedTabName) {{
-      var container = document.querySelector('[data-card-id="' + cardId + '"]');
-      if (container) {{
-        var btn = Array.from(container.querySelectorAll(".tab-btn")).find(b => b.getAttribute("data-tab-name") === savedTabName);
-        if (btn) {{
-          // Temporarily disable transition during auto-click to avoid layout shift
-          btn.click();
+  if (!window._tabsKeyHandlerRegistered) {{
+    window._tabsKeyHandlerRegistered = true;
+    document.addEventListener("keydown", function(e) {{
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+      
+      var keyNum = parseInt(e.key);
+      if (!isNaN(keyNum) && keyNum >= 1 && keyNum <= 9) {{
+        var containers = document.querySelectorAll('.tabs-container');
+        var matched = false;
+        containers.forEach(function(container) {{
+          var buttons = container.querySelectorAll('.tab-btn');
+          if (buttons.length >= keyNum) {{
+            buttons[keyNum - 1].click();
+            matched = true;
+          }}
+        }});
+        if (matched) {{
+          e.preventDefault();
+          e.stopPropagation();
         }}
       }}
-    }}
+    }});
   }}
 }})();
 </script>
@@ -289,7 +291,7 @@ def render_t2_dualcoding(data: Dict[str, Any]) -> Dict[str, Any]:
         "deck": data["deck"],
         "scenario": f"Dual-Coding Diagram 📊 ({data['concept']})",
         "text": f"¿Cómo funciona la estructura de {{{{c1::{data['concept']}}}}} en el sistema?",
-        "explanation": f"{data['explanation']}<br><br>{mermaid_html}",
+        "explanation": data["explanation"],
         "usage": f"Visual model for <code>{data['concept']}</code>.<br>Graph: {mermaid_html}",
         "spanish": data["spanish"],
         "tags": data.get("tags", ["wozniak_t2_dualcoding"]),
@@ -646,12 +648,23 @@ def build_card(template_type: str, data: Dict[str, Any]) -> Dict[str, Any]:
     # -------------------------------------------------------------
     # DECORATE CARD WITH DYNAMIC INTERACTIVE COMPONENTS
     # -------------------------------------------------------------
-    # 1. Analogy Tab (Elaboration Tabbed Panel)
-    if "analogy" in data and data["analogy"] and template_type not in ["T13_MnemonicPalace", "T14_PegNumber", "T15A_FeynmanAnalogy", "T15B_FeynmanScenario", "T16_NameFace"]:
-        raw_card["explanation"] = build_tabs({
-            "Intuición (Detalle)": raw_card["explanation"],
-            "Analogía / Metáfora": data["analogy"]
-        }, data.get("id"))
+    # 1. Progressive Disclosure Tabs (Elaboration, Diagram, Analogy)
+    if template_type not in ["T13_MnemonicPalace", "T14_PegNumber", "T15A_FeynmanAnalogy", "T15B_FeynmanScenario", "T16_NameFace"]:
+        has_diagram = ("mermaid_code" in data and data["mermaid_code"])
+        has_analogy = "analogy" in data and data["analogy"]
+        
+        if has_diagram or has_analogy:
+            tabs_dict = {}
+            tabs_dict["Explicación"] = raw_card["explanation"]
+            
+            if has_diagram:
+                mermaid_html = f"""<div class="mermaid">\n{data['mermaid_code']}\n</div>"""
+                tabs_dict["Diagrama Visual"] = mermaid_html
+                
+            if has_analogy:
+                tabs_dict["Analogía / Metáfora"] = data["analogy"]
+                
+            raw_card["explanation"] = build_tabs(tabs_dict, data.get("id", ""))
 
     # 2. Interactive Match Game
     if "match_game_data" in data and data["match_game_data"]:

@@ -344,15 +344,41 @@ details p {
     padding-top: 8px;
     text-align: left;
 }
-.search-tag-link {
-    color: var(--cloze-color);
-    text-decoration: none;
-    margin-right: 8px;
-    font-weight: 500;
-}
 .search-tag-link:hover {
     text-decoration: underline;
 }
+
+/* Strategic Highlight & Vocabulary Pattern Colors */
+mark {
+    background-color: rgba(253, 224, 71, 0.2) !important;
+    color: var(--text-dark) !important;
+    padding: 1px 4px;
+    border-radius: 4px;
+}
+.nightMode mark {
+    background-color: rgba(250, 204, 21, 0.15) !important;
+    color: #fef08a !important;
+}
+
+/* Semantic vocabulary gender colors (Spanish, German, French, Italian) */
+.gender-masculine, .gender-m, .vocab-masculine {
+    color: #3b82f6 !important; /* Blue for masculine */
+    font-weight: bold;
+}
+.gender-feminine, .gender-f, .vocab-feminine {
+    color: #ef4444 !important; /* Red for feminine */
+    font-weight: bold;
+}
+.gender-neuter, .gender-n, .vocab-neuter {
+    color: #10b981 !important; /* Green for neuter */
+    font-weight: bold;
+}
+
+/* Parts of speech coloring */
+.pos-noun { border-bottom: 2px solid #3b82f6; }
+.pos-verb { border-bottom: 2px solid #ef4444; }
+.pos-adj { border-bottom: 2px solid #10b981; }
+.pos-adv { border-bottom: 2px solid #f59e0b; }
 """
 
     speaking_css = cloze_css + """
@@ -386,6 +412,98 @@ details p {
 }
 """
 
+    back_script = """
+<script>
+// 1. Dynamic Vocabulary Coloring
+(function() {
+  function colorizeClozes() {
+    var clozes = document.querySelectorAll('.cloze');
+    var masc_articles = ['der', 'el', 'le', 'un', 'il', 'lo'];
+    var fem_articles = ['die', 'la', 'une', 'una'];
+    var neut_articles = ['das'];
+    
+    clozes.forEach(function(el) {
+      var rawText = el.innerText.trim();
+      var cleanText = rawText.replace(/^[\\(\\[\\{\\'\\"]|[\\)\\)\\]\\}\\'\\"]/g, '').trim();
+      var words = cleanText.split(/\\s+/);
+      
+      if (words.length >= 2) {
+        var firstWord = words[0].toLowerCase().replace(/[.,\\/#!$%\\^&\\*;:{}=\\-_`~()]/g, "");
+        if (masc_articles.indexOf(firstWord) !== -1) {
+          el.classList.add('gender-masculine');
+        } else if (fem_articles.indexOf(firstWord) !== -1) {
+          el.classList.add('gender-feminine');
+        } else if (neut_articles.indexOf(firstWord) !== -1) {
+          el.classList.add('gender-neuter');
+        }
+      }
+    });
+  }
+  colorizeClozes();
+  setTimeout(colorizeClozes, 100);
+  setTimeout(colorizeClozes, 500);
+})();
+
+// 2. Offline & CDN Mermaid.js Loader with 500ms timeout fallback
+(function() {
+  if (document.querySelector('.mermaid')) {
+    var isLoaded = false;
+    var timeoutId = null;
+    
+    function showFallback() {
+      if (!isLoaded) {
+        var mermaids = document.querySelectorAll('.mermaid');
+        mermaids.forEach(function(el) {
+          if (!el.querySelector('svg') && !el.querySelector('.mg-success-banner') && !el.classList.contains('fallback-shown')) {
+            el.classList.add('fallback-shown');
+            el.style.padding = '12px';
+            el.style.border = '1px dashed var(--border-color)';
+            el.style.borderRadius = '8px';
+            el.style.background = 'var(--badge-bg)';
+            el.style.color = 'var(--badge-color)';
+            el.style.fontSize = '14px';
+            el.style.textAlign = 'left';
+            el.innerHTML = '<span style="font-weight:600">⚠️ Diagrama no disponible sin conexión</span><br><code style="font-size:11px; display:block; margin-top:6px; opacity:0.7; white-space:pre-wrap">' + el.innerText.trim().replace(/</g, "&lt;").replace(/>/g, "&gt;") + '</code>';
+          }
+        });
+      }
+    }
+    
+    timeoutId = setTimeout(showFallback, 500);
+    
+    var localScript = document.createElement('script');
+    localScript.src = '_mermaid.min.js';
+    
+    var loadFromCDN = function() {
+      if (isLoaded) return;
+      var cdnScript = document.createElement('script');
+      cdnScript.src = 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js';
+      cdnScript.onload = function() {
+        isLoaded = true;
+        if (timeoutId) clearTimeout(timeoutId);
+        mermaid.initialize({ startOnLoad: true, theme: 'dark', securityLevel: 'loose' });
+        mermaid.run();
+      };
+      cdnScript.onerror = function() {
+        showFallback();
+      };
+      document.head.appendChild(cdnScript);
+    };
+    
+    localScript.onload = function() {
+      isLoaded = true;
+      if (timeoutId) clearTimeout(timeoutId);
+      mermaid.initialize({ startOnLoad: true, theme: 'dark', securityLevel: 'loose' });
+      mermaid.run();
+    };
+    
+    localScript.onerror = loadFromCDN;
+    document.head.appendChild(localScript);
+  }
+})();
+</script>
+"""
+
     models_to_create = [
         {
             "model_name": "Engaging_Cloze_Model",
@@ -408,7 +526,7 @@ details p {
     <summary>Show Spanish Translation</summary>
     <p>{{Spanish_Translation}}</p>
 </details>
-{{Audio}}""",
+{{Audio}}""" + back_script,
             "fields": ["Text", "Scenario", "Explanation", "Usage_Examples", "Spanish_Translation", "Audio"],
         },
         {
@@ -436,7 +554,7 @@ details p {
     <summary>Show Spanish Translation</summary>
     <p>{{Spanish_Translation}}</p>
 </details>
-<div class=\"audio-player\">{{Recording_Hint}}</div>""",
+<div class=\"audio-player\">{{Recording_Hint}}</div>""" + back_script,
             "fields": ["Prompt", "Scenario", "Explanation", "Usage_Examples", "Spanish_Translation", "Audio", "Practice_Link", "Recording_Hint"],
         },
     ]
@@ -444,7 +562,30 @@ details p {
     for spec in models_to_create:
         model_name = spec["model_name"]
         if model_name in models:
-            print(f"Model '{model_name}' already exists.")
+            print(f"Model '{model_name}' already exists. Updating templates and styling...")
+            try:
+                invoke(
+                    'updateModelTemplates',
+                    model={
+                        "name": model_name,
+                        "templates": {
+                            "Main Template": {
+                                "Front": spec["front_template"],
+                                "Back": spec["back_template"]
+                            }
+                        }
+                    }
+                )
+                invoke(
+                    'updateModelStyling',
+                    model={
+                        "name": model_name,
+                        "css": spec["css"]
+                    }
+                )
+                print(f"Successfully updated '{model_name}' templates and styling.")
+            except Exception as e:
+                print(f"Warning: Failed to update existing model '{model_name}': {e}", file=sys.stderr)
             continue
 
         print(f"Creating custom model '{model_name}'...")
@@ -460,7 +601,7 @@ details p {
             }],
             css=spec["css"],
         )
-    print("Models created successfully.")
+    print("Models ensured successfully.")
 
 def get_learning_path_deck(deck_name, card):
     # Route English language cards to 4 core Learning Paths
