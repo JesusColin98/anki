@@ -3051,5 +3051,240 @@
       "interactive_mermaid": "",
       "match_game_data": null
     }
+  },
+  {
+    "id": "jax_functional_paradigm",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::deepmind",
+        "framework::jax",
+        "paradigm",
+        "intuition"
+      ]
+    },
+    "content": {
+      "scenario": "JAX: Functional Programming Paradigm ⚙️",
+      "text": "A diferencia de PyTorch, JAX adopta un paradigma de {{c1::programación funcional pura}}, lo que significa que todas las funciones que se compilan deben ser libres de efectos secundarios (stateless).",
+      "explanation": "En JAX, los arrays son inmutables. No se pueden modificar elementos in-place (ej: `x[0] = 5` arroja error; se debe usar `x = x.at[0].set(5)`). Este enfoque permite que las transformaciones matemáticas como diferenciación automática (autograd) y compilación (XLA) funcionen con garantías deterministas.",
+      "spanish": "JAX utiliza programación funcional pura, donde los arrays son inmutables y las funciones no tienen estado.",
+      "usage": "Regla básica en JAX: escribir funciones deterministas \\(f(x, \\theta) \\to y\\) donde todos los pesos y estados se pasan y retornan explícitamente."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como una calculadora matemática clásica: siempre que ingresas la misma entrada, obtienes exactamente la misma salida sin alterar la memoria o configuración interna de la máquina, a diferencia de un objeto que modifica variables internas.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "jax_jit_xla_compilation",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::deepmind",
+        "framework::jax",
+        "compilation",
+        "xla"
+      ]
+    },
+    "content": {
+      "scenario": "JAX: JIT Compilation & XLA ⚡",
+      "text": "Para acelerar la ejecución combinando múltiples operaciones en un solo kernel optimizado para GPU/TPU, JAX utiliza la transformación {{c1::jax.jit}} basada en el compilador XLA.",
+      "explanation": "JIT (Just-In-Time) compila funciones Python rastreándolas con vectores abstractos (Tracers) y enviando el grafo de operaciones a XLA (Accelerated Linear Algebra). Esto elimina la sobrecarga del intérprete de Python y realiza fusión de operadores (operator fusion) en memoria.",
+      "spanish": "jax.jit compila código Python en kernels de máquina altamente optimizados usando el motor XLA.",
+      "usage": "Decorador JAX básico:\n```python\n@jax.jit\ndef train_step(state, batch):\n    ...\n```"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como pasar de traducir una conversación frase por frase en tiempo real (intérprete estándar) a leer todo el manuscrito de antemano y optimizar los términos redundantes antes de dar el discurso final en el idioma destino (compilación XLA).",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "jax_value_and_grad_autodiff",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::deepmind",
+        "framework::jax",
+        "autodiff"
+      ]
+    },
+    "content": {
+      "scenario": "JAX: Automatic Differentiation 📐",
+      "text": "Para calcular tanto el valor de la función de pérdida como sus gradientes de manera eficiente en un solo paso, JAX proporciona la transformación {{c1::jax.value_and_grad}}.",
+      "explanation": "A diferencia del retropropagado implícito e in-place de PyTorch (`loss.backward()`), JAX trata la diferenciación como una transformación matemática explícita de funciones: `loss_val, grads = jax.value_and_grad(loss_fn)(params, x, y)`. Esto simplifica la paralelización y optimización.",
+      "spanish": "jax.value_and_grad calcula el resultado de la función y sus derivadas (gradientes) de forma explícita y simultánea.",
+      "usage": "Llamada típica en bucle de entrenamiento:\n```python\nloss_value, grads = jax.value_and_grad(loss_fn)(params, inputs, targets)\n```"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como un GPS de última generación: no solo te dice en qué coordenadas estás actualmente en el mapa (value), sino que también te dibuja el mapa de las pendientes de todas las calles de tu entorno para saber en qué dirección descender (gradientes).",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "jax_vmap_vectorization",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::deepmind",
+        "framework::jax",
+        "vectorization"
+      ]
+    },
+    "content": {
+      "scenario": "JAX: Automatic Vectorization 🔀",
+      "text": "Para aplicar automáticamente una función diseñada para una sola muestra a un lote entero (batch) sin usar bucles for, JAX expone la transformación {{c1::jax.vmap}}.",
+      "explanation": "vmap (Vectorized Map) toma una función que opera sobre vectores individuales y la mapea sobre un eje de lote (batch dimension), empujando la vectorización hacia los operadores primitivos del compilador, lo que resulta en un rendimiento nativo de procesamiento en paralelo.",
+      "spanish": "jax.vmap vectoriza funciones individuales para procesar lotes de datos en paralelo de forma transparente.",
+      "usage": "Uso típico para vectorizar predicciones:\n```python\nbatched_predict = jax.vmap(predict_fn, in_axes=(None, 0))\n```"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como un sastre automatizado: en lugar de coser 10 camisas una tras otra (bucle for), configura 10 máquinas idénticas para coser las 10 camisas al mismo tiempo con una sola palanca (vmap).",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "deepmind_haiku_flax_nn",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::deepmind",
+        "framework::haiku",
+        "framework::flax",
+        "nn_libraries"
+      ]
+    },
+    "content": {
+      "scenario": "DeepMind Tech Stack: Haiku and Flax 🏢",
+      "text": "En la investigación de DeepMind, la librería orientada a objetos para definir redes neuronales que preserva el estilo de Sonnet es {{c1::Haiku (dm-haiku)}}, mientras que el estándar unificado de Google es {{c2::Flax}}.",
+      "explanation": "Dado que JAX es puramente funcional, no maneja variables de estado o pesos internos en clases. Haiku y Flax solucionan esto transformando código orientado a objetos (definición de capas) en funciones puras JAX mediante procesos de inicialización y aplicación (`init` y `apply`).",
+      "spanish": "Haiku y Flax son las librerías de redes neuronales que permiten gestionar pesos y estados funcionales sobre JAX.",
+      "usage": "Haiku transforma la función forward:\n```python\nmodel = hk.transform(forward_fn)\nparams = model.init(rng, x)\npredictions = model.apply(params, rng, x)\n```"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "JAX es como el motor de un coche desarmado (piezas funcionales puras). Haiku y Flax son los paneles de control y el chasis que te permiten organizar las marchas y el volante de forma cómoda, sin tener que conectar cada cable manualmente en cada viaje.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "jax_multidevice_pmap_sharding",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::deepmind",
+        "framework::jax",
+        "scalability",
+        "sharding"
+      ]
+    },
+    "content": {
+      "concept": "Escalabilidad en Clústeres con JAX",
+      "mermaid_code": "graph TD\n  Tensor[\"Tensor Gigante\"] --> Shard[\"jax.sharding.Mesh\"]\n  Shard --> Dev0[\"TPU Core 0: Partición 0\"]\n  Shard --> Dev1[\"TPU Core 1: Partición 1\"]\n  Shard --> Dev2[\"TPU Core 2: Partición 2\"]\n  Shard --> Dev3[\"TPU Core 3: Partición 3\"]",
+      "explanation": "JAX escala cómputo usando: 1) 'pmap' (Parallel Map), que replica funciones en múltiples TPUs ejecutándolas en paralelo sobre datos distintos (data-parallel); y 2) 'sharding' (SPMD), que distribuye tensores grandes a lo largo de un Mesh de dispositivos, permitiendo paralelismo de modelos sin duplicar memoria. Esto es clave para clústeres masivos en DeepMind.",
+      "spanish": "JAX escala cómputo en clústeres mediante jax.pmap y sharding explícito de tensores.",
+      "usage": "Facilita el entrenamiento de modelos de miles de millones de parámetros distribuyendo matrices a través de mallas (Mesh) de TPUs."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como dividir el trabajo en una gran fábrica: pmap es darle la misma receta a 8 cocineros en cocinas independientes con ingredientes distintos; sharding es hacer que los 8 cocineros trabajen sobre una sola pizza gigante en una misma mesa, encargándose cada uno de un sector.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "jax_optax_optimization",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::deepmind",
+        "framework::optax",
+        "optimization"
+      ]
+    },
+    "content": {
+      "scenario": "JAX Ecosystem: Optax ⚙️",
+      "text": "Para realizar optimizaciones y procesar gradientes (como Adam o SGD) en el ecosistema funcional de JAX, se utiliza la librería {{c1::Optax}}.",
+      "explanation": "Dado que JAX es funcional, las actualizaciones de parámetros no ocurren in-place. Optax define optimizadores como transformaciones puras con dos funciones principales: `init` (inicializa el estado del optimizador, como momentos de Adam) y `update` (calcula las actualizaciones basándose en los gradientes y el estado actual).",
+      "spanish": "Optax es la librería de optimización para JAX que procesa gradientes sin modificar variables in-place.",
+      "usage": "Flujo de actualización estándar en Optax:\n```python\nopt = optax.adam(learning_rate)\nopt_state = opt.init(params)\nupdates, opt_state = opt.update(grads, opt_state)\nparams = optax.apply_updates(params, updates)\n```"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como un contador de pasos de ejercicio: en lugar de sumar kilómetros directamente en tus piernas, registras tus movimientos en un reloj (opt_state), el cual calcula el nuevo progreso (update) y te dice cuál es tu nueva meta física (apply_updates).",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
   }
 ]
