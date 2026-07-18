@@ -2651,5 +2651,405 @@
       "interactive_mermaid": "",
       "match_game_data": null
     }
+  },
+  {
+    "id": "3b1b_attention_embeddings_context",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::3b1b",
+        "concept::attention",
+        "embeddings",
+        "intuition"
+      ]
+    },
+    "content": {
+      "scenario": "Transformer: Embeddings Context 🧠",
+      "text": "Durante la autoatención, el vector de embedding inicial de una palabra se actualiza sumándole un {{c1::vector de contexto}} calculado a partir de su entorno.",
+      "explanation": "Los embeddings iniciales son estáticos (representan el significado general de la palabra aislada). El mecanismo de atención calcula un vector de contexto adicional y lo suma al embedding inicial, ajustando su posición en el espacio semántico para reflejar su significado específico en esta frase.",
+      "spanish": "Durante la autoatención, el vector de embedding inicial se actualiza sumándole un vector de contexto.",
+      "usage": "Esto permite que la palabra 'banco' cambie de dirección hacia el concepto de 'mueble' o de 'financiero' de forma dinámica según el contexto."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como vestir a un maniquí neutro (embedding estático): según el entorno en el que esté (playa o gala), le sumas accesorios específicos (vectores de contexto) para adaptarlo a la situación actual.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3b1b_attention_qkv_projections",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::3b1b",
+        "concept::attention",
+        "math",
+        "intuition"
+      ]
+    },
+    "content": {
+      "scenario": "Transformer: Q, K, V Projections 🎯",
+      "text": "Para cada token, el Transformer proyecta linealmente su vector de entrada en tres espacios diferentes utilizando matrices de pesos: {{c1::Query, Key, y Value}}.",
+      "explanation": "Cada token se asocia con tres vectores: \\(Q\\) (lo que el token está buscando), \\(K\\) (la información que el token ofrece para emparejarse), y \\(V\\) (el contenido semántico real que el token compartirá si el emparejamiento es exitoso).",
+      "spanish": "Para cada token, el Transformer calcula tres vectores mediante matrices de pesos: Query, Key, y Value.",
+      "usage": "Estas proyecciones lineales son aprendidas mediante entrenamiento del modelo (matrices \\(W_q, W_k, W_v\\)) y permiten la interactividad cruzada."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como una red de citas profesionales: tu perfil (Query) describe qué tipo de socio buscas, tus etiquetas/skills (Key) describen lo que ofreces, y tu curriculum/experiencia (Value) es la información real que compartes si hay match.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3b1b_attention_dot_product",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::3b1b",
+        "concept::attention",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Transformer: Attention Weights 📐",
+      "text": "La afinidad (peso de atención) entre dos tokens se calcula midiendo la similitud de dirección entre el Query del primer token y el Key del segundo mediante un {{c1::producto punto (dot product)}} dividido por la raíz de la dimensión del Key.",
+      "explanation": "La operación matemática básica es \\(Q K^T\\). Se divide por \\(\\sqrt{d_k}\\) (escalado) para evitar que los valores crezcan demasiado y causen gradientes desvanecidos en la Softmax posterior.",
+      "spanish": "La afinidad entre tokens se calcula con el producto punto de Query y Key dividido por \\(\\sqrt{d_k}\\).",
+      "usage": "Fórmula para pesos crudos de afinidad: \\[ S_{ij} = \\frac{q_i \\cdot k_j}{\\sqrt{d_k}} \\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es una prueba de alineación: medimos si los vectores de tu búsqueda (Query) apuntan en la misma dirección que la oferta (Key). El producto punto es alto si están alineados y bajo si son ortogonales.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3b1b_attention_softmax_normalisation",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::3b1b",
+        "concept::attention",
+        "math"
+      ]
+    },
+    "content": {
+      "scenario": "Transformer: Attention Softmax 📊",
+      "text": "Para convertir las puntuaciones de compatibilidad brutas en una distribución de probabilidad que sume 1, se aplica la función {{c1::Softmax}} a lo largo de cada fila de la matriz de atención.",
+      "explanation": "La softmax amplifica los valores más altos y atenúa los bajos, garantizando que el modelo asigne pesos de atención válidos (entre 0 y 1, sumando exactamente 1 por cada fila) para ponderar las Values.",
+      "spanish": "Se aplica la función Softmax para normalizar los valores brutos de afinidad como probabilidades de peso.",
+      "usage": "Matriz de pesos de atención: \\[ A = \\text{softmax}\\left(\\frac{Q K^T}{\\sqrt{d_k}}\\right) \\]"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como un concurso de votaciones: Softmax toma las valoraciones de compatibilidad y las convierte en porcentajes de atención, haciendo que el ganador destaque con fuerza mientras los menos compatibles se reducen a casi cero.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3b1b_attention_causal_masking",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::3b1b",
+        "concept::attention",
+        "masking"
+      ]
+    },
+    "content": {
+      "concept": "Causal Masking en Transformers",
+      "mermaid_code": "graph TD\n  Raw[\"Afinidades Crudas Q * Kᵀ\"] --> Mask[\"Masking: Sumar -∞ en diagonal superior\"]\n  Mask --> Soft[\"Softmax por filas\"]\n  Soft --> Mat[\"Matriz Triangular Inferior (Pesos Finales)\"]\n  style Mask fill:#f87171,stroke:#ef4444\n  style Mat fill:#34d399,stroke:#10b981",
+      "explanation": "Para evitar que las palabras miren hacia tokens futuros durante el entrenamiento, la matriz de atención se 'enmascara' sumando \\(-\\infty\\) a la diagonal superior (futura) antes de aplicar la función Softmax, forzando que los pesos de atención a esos tokens futuros sean 0.",
+      "spanish": "El Causal Masking previene el acceso a tokens futuros reemplazando la diagonal superior de la matriz de atención con \\(-\\infty\\) antes de Softmax.",
+      "usage": "Muestra la matriz triangular inferior resultante después del enmascaramiento y Softmax."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como leer un libro tapando con una tarjeta las palabras siguientes con tu mano: solo puedes usar el contexto de las palabras que ya has leído.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "3b1b_multihead_attention_parallel",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::3b1b",
+        "concept::attention",
+        "multihead"
+      ]
+    },
+    "content": {
+      "concept": "Multi-Head Attention en Paralelo",
+      "mermaid_code": "graph TD\n  Input[\"Embedding Vector\"] --> Head1[\"Head 1: Relaciones Gramaticales\"]\n  Input --> Head2[\"Head 2: Asociaciones de Género\"]\n  Input --> Head3[\"Head 3: Contexto Temporal\"]\n  Head1 --> Concat[\"Concatenación de cabezas\"]\n  Head2 --> Concat\n  Head3 --> Concat\n  Concat --> Projection[\"Proyección Lineal (W_o)\"]\n  Projection --> Output[\"Vector de Atención Resultante\"]",
+      "explanation": "En lugar de realizar una sola operación de atención sobre la dimensión completa, el modelo divide los embeddings y proyecta múltiples sub-espacios en paralelo (Heads). Cada cabeza aprende relaciones diferentes. Los resultados de todas las cabezas se concatenan y se proyectan de vuelta a la dimensión original.",
+      "spanish": "Multi-Head Attention divide los embeddings para ejecutar múltiples procesos de atención independientes en paralelo y concatenar sus resultados.",
+      "usage": "Esquema de la estructura interna del bloque de atención en paralelo."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como contratar a un equipo de especialistas independientes para leer el mismo texto: uno analiza los verbos, otro el tono, otro las fechas. Luego, reúnes sus notas (concatenación) para tener un reporte unificado.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "llama3_gqa_kv_cache",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::llama3",
+        "concept::attention",
+        "gqa",
+        "cache"
+      ]
+    },
+    "content": {
+      "concept": "Grouped-Query Attention (GQA) en Llama 3",
+      "mermaid_code": "graph TD\n  subgraph MHA [Multi-Head Attention 1:1]\n    Q1[Query Head 1] --> KV1[KV Head 1]\n    Q2[Query Head 2] --> KV2[KV Head 2]\n  end\n  subgraph GQA [Grouped-Query Attention Group:1]\n    Q3[Query Head 3] --> KV_G1[KV Group Head 1]\n    Q4[Query Head 4] --> KV_G1\n  end\n  style KV1 fill:#bfdbfe,stroke:#2563eb\n  style KV2 fill:#bfdbfe,stroke:#2563eb\n  style KV_G1 fill:#fef08a,stroke:#eab308",
+      "explanation": "Para optimizar la memoria del caché KV durante la inferencia, Llama 3 utiliza Grouped-Query Attention (GQA), agrupando múltiples Queries para compartir un solo par de Key y Value. Esto reduce significativamente el cuello de botella de memoria en inferencia con lotes grandes de tokens.",
+      "spanish": "GQA agrupa cabezas de Query para compartir cabezas de Key/Value, reduciendo la memoria necesaria para el KV caché.",
+      "usage": "Comparación visual del direccionamiento entre Multi-Head (MHA) y Grouped-Query (GQA)."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "En lugar de que cada pasajero (Query Head) tenga su propio chófer (Key/Value Head) como en MHA, o que todo el bus comparta un único chófer (MQA), organizas taxis compartidos (GQA) donde grupos de pasajeros comparten un coche para ahorrar costes sin retrasar el viaje.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "llama3_rope_position",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::llama3",
+        "concept::embeddings",
+        "rope"
+      ]
+    },
+    "content": {
+      "scenario": "Llama 3: Rotary Position Embeddings (RoPE) 🔄",
+      "text": "Llama 3 codifica la posición relativa de los tokens multiplicando los vectores Query y Key por una {{c1::matriz de rotación}} de dos dimensiones en el plano complejo.",
+      "explanation": "RoPE representa la información de posición rotando los vectores en pares de dimensiones en el plano complejo. A diferencia de las posiciones absolutas añadidas antes del modelo, RoPE se aplica en cada capa de atención y preserva de forma matemática la distancia relativa entre tokens mediante la rotación trigonométrica.",
+      "spanish": "RoPE codifica la posición de los tokens rotando los vectores de Query y Key mediante matrices de rotación en el plano bidimensional.",
+      "usage": "Permite una mayor extrapolación en ventanas de contexto largas comparado con los embeddings posicionales tradicionales."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como situar a las personas en una mesa redonda: en lugar de ponerles una etiqueta fija con su número de silla (posición absoluta), giras el ángulo de su silla (rotación) para indicar la distancia relativa a la que están unos de otros.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "mechanistic_interpretability_induction_heads",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::chris_olah",
+        "source::andrej_karpathy",
+        "concept::induction_heads",
+        "interpretability"
+      ]
+    },
+    "content": {
+      "scenario": "AI Interpretability: Induction Heads 🔍",
+      "text": "En la interpretabilidad mecanística (Chris Olah), las cabezas de atención que aprenden a completar patrones repetitivos como '[A][B] ... [A] -> {{c1::[B]}}' se denominan {{c2::Induction Heads (Cabezas de Inducción)}}.",
+      "explanation": "Chris Olah y su equipo en Anthropic descubrieron que el aprendizaje en contexto surge en gran medida gracias a las 'Induction Heads'. Estas cabezas buscan apariciones previas del token actual [A], localizan el token siguiente [B] y aumentan la atención sobre [B] para predecir el siguiente carácter. El material de Chris Olah y Andrej Karpathy tiende a ser **oro puro** para entender la inteligencia artificial a nivel profundo.",
+      "spanish": "Las cabezas de inducción (Induction Heads) completan patrones del tipo [A][B] ... [A] -> [B] en Transformers.",
+      "usage": "Son el mecanismo principal detrás del in-context learning (few-shot prompting) en modelos de lenguaje."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como un detective de patrones: si ve que ayer comiste tacos (A) y luego helado (B), cuando hoy vuelves a comer tacos (A), predice inmediatamente que buscarás helado (B) basándose en tu historial.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "mechanistic_interpretability_superposition",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::chris_olah",
+        "concept::superposition",
+        "interpretability"
+      ]
+    },
+    "content": {
+      "scenario": "AI Interpretability: Superposition 🧬",
+      "text": "El fenómeno donde una red neuronal almacena más conceptos independientes que el número de dimensiones (neuronas) disponibles se conoce como {{c1::Superposición (Superposition)}}.",
+      "explanation": "Chris Olah describió la superposición como una forma en que la red comprime características poco frecuentes representándolas como direcciones casi ortogonales en un espacio de menor dimensión. Esto demuestra que las neuronas individuales no son monosemánticas. Su material es **oro puro** para entender cómo piensan las redes.",
+      "spanish": "La superposición ocurre cuando un modelo representa más conceptos independientes que dimensiones físicas en sus capas.",
+      "usage": "Explica por qué la búsqueda de neuronas individuales dedicadas a conceptos únicos (neuronas monosemánticas) suele fallar."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como guardar 10 camisas de colores en un cajón con espacio para 5: en lugar de doblarlas planas (una por espacio), las enrollas en ángulos cruzados para que quepan todas, asumiendo que no necesitarás sacarlas todas al mismo tiempo.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "attention_motivation_vic_lookup",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::vic_visakan",
+        "concept::attention",
+        "motivation"
+      ]
+    },
+    "content": {
+      "scenario": "Attention Motivation: Fuzzy Dictionary 📖",
+      "text": "Para reinventar el concepto de Attention por uno mismo (como propone 'Vic' Visakan Veerasamy), la atención puede verse como una búsqueda de base de datos difusa donde el Query se compara con cada {{c1::Key}} para obtener una suma ponderada de {{c2::Values}}.",
+      "explanation": "El amigo de la comunidad, 'Vic' (Visakan Veerasamy), publicó un par de videos enfocados en la historia, la motivación y cómo reinventar la idea de Attention por ti mismo. Plantea que, en lugar del procesamiento secuencial de las RNN, Attention funciona como un diccionario difuso ('fuzzy lookup table') donde la similitud Query-Key determina la mezcla de información del Value.",
+      "spanish": "La autoatención puede conceptualizarse como una búsqueda difusa en un diccionario donde el Query se compara con Keys para ponderar los Values.",
+      "usage": "Permite al estudiante entender la intuición de la atención sin perderse en fórmulas de álgebra lineal de inmediato."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como buscar en Google: tu término de búsqueda es el Query, los títulos indexados en la web son las Keys, y el contenido real de la página que lees es el Value.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "llm_history_art_of_the_problem",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "source::art_of_the_problem",
+        "concept::llm_history",
+        "shannon"
+      ]
+    },
+    "content": {
+      "scenario": "LLM History: From Shannon to Transformers 🕰️",
+      "text": "La historia de los LLMs (narrada por Brit Cruise en 'The Art of the Problem') comienza con las {{c1::cadenas de Markov (Markov Chains)}} de Claude Shannon y evoluciona hacia el aprendizaje profundo al reemplazar estadísticas de palabras por vectores continuos.",
+      "explanation": "En el video clásico del canal 'The Art of the Problem' de Brit Cruise sobre la historia de los LLMs, se muestra cómo Claude Shannon usó n-gramas aproximando la probabilidad del siguiente carácter. Esta idea probabilística avanzó hasta el espacio vectorial continuo de Word2Vec y culminó con la autoatención de los Transformers, que modela relaciones complejas sin la limitación secuencial de las RNN.",
+      "spanish": "La historia de los modelos de lenguaje va desde las cadenas de Markov estadísticas de Shannon hasta los espacios vectoriales continuos y la autoatención.",
+      "usage": "Proporciona el contexto histórico crucial sobre cómo la teoría de la información y la probabilidad de n-gramas cimentaron las bases de los LLMs actuales."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como pasar de un diccionario de sinónimos plano basado en contar palabras comunes (Markov/n-gramas) a un mapa tridimensional donde las palabras se atraen magnéticamente según su significado y contexto (Transformers).",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
   }
 ]
