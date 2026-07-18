@@ -1,0 +1,33 @@
+{
+  "original_data": {
+    "template": "T21_InterviewPrep",
+    "content": {
+      "question": "Uncorrectable question",
+      "target_persona": "Software Lead"
+    },
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Communication::Interview",
+    "metadata": {
+      "validation_status": "low_confidence",
+      "tags": [
+        "needs_review"
+      ]
+    }
+  },
+  "repaired_state": {
+    "template": "T21_InterviewPrep",
+    "content": {
+      "question": "Uncorrectable question",
+      "target_persona": "Software Lead"
+    },
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Communication::Interview",
+    "metadata": {
+      "validation_status": "low_confidence",
+      "tags": [
+        "needs_review"
+      ]
+    }
+  },
+  "errors": [
+    "Missing required fields for T21_InterviewPrep: ['rubric_checkpoints', 'communication_cues', 'follow_up_hooks', 'explanation', 'spanish']"
+  ]
+}

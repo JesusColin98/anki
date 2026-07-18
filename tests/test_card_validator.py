@@ -137,5 +137,142 @@ class TestCardValidator(unittest.TestCase):
         self.assertFalse(is_valid)
         self.assertTrue(any("requires palace_name, locus_stop, and mnemonic_scene" in err for err in errors))
 
+    def test_nested_card_validation_success_t17_conceptual(self):
+        sample_card = {
+            "id": "t17_test_01",
+            "deck": "Social_and_Humanities::Philosophy::Stoicism::Ethics",
+            "template": "T17_ConceptualModel",
+            "metadata": {
+                "difficulty": "intermediate",
+                "pillar": "04_Social_and_Humanities",
+                "tags": ["philosophy"]
+            },
+            "content": {
+                "premise": "Dichotomy of Control",
+                "explanation": "Understanding what is in our control and what is not.",
+                "analogy": "An archer doing their best to shoot but accepting if the wind blows the arrow off-course.",
+                "common_fallacies": "Assuming control of others' actions or being completely indifferent to results."
+            }
+        }
+        is_valid, cleaned, errors = sanitize_and_validate_card(sample_card)
+        self.assertTrue(is_valid, f"Validation failed with errors: {errors}")
+
+    def test_nested_card_validation_success_t18_system_architecture(self):
+        sample_card = {
+            "id": "t18_test_01",
+            "deck": "Cloud_and_Infrastructure::Systems_Engineering::Linux::Kernel",
+            "template": "T18_SystemArchitecture",
+            "metadata": {
+                "difficulty": "advanced",
+                "pillar": "01_Cloud_and_Infrastructure",
+                "tags": ["linux", "kernel"]
+            },
+            "content": {
+                "design_problem": "Optimize socket buffers read capacity under high TCP traffic load.",
+                "code_or_command": "sysctl -w net.ipv4.tcp_rmem='4096 87380 6291456'",
+                "orchestration_context": "Configure system sysctl.conf on start or inside privileged daemonset init-container.",
+                "expected_output": "net.ipv4.tcp_rmem = 4096 87380 6291456",
+                "complexity_big_o": "O(1) memory overhead adjustment per socket connection buffer limit"
+            }
+        }
+        is_valid, cleaned, errors = sanitize_and_validate_card(sample_card)
+        self.assertTrue(is_valid, f"Validation failed with errors: {errors}")
+
+    def test_nested_card_validation_success_t19_phonetics(self):
+        sample_card = {
+            "id": "t19_test_01",
+            "deck": "Languages::English::Phonetics::Flaps",
+            "template": "T19_PhoneticDrill",
+            "metadata": {
+                "difficulty": "beginner",
+                "pillar": "03_Languages",
+                "tags": ["flapt"]
+            },
+            "content": {
+                "target_phrase": "Water under the bridge.",
+                "ipa_transcription": "/ˈwɔːtər ˈʌndər ðə brɪdʒ/",
+                "audio_path": "audio/flaps/water_bridge.mp3",
+                "phonological_rules": "Intervocalic T flap between stressed and unstressed vowels.",
+                "register_context": "Casual spoken English."
+            }
+        }
+        is_valid, cleaned, errors = sanitize_and_validate_card(sample_card)
+        self.assertTrue(is_valid, f"Validation failed with errors: {errors}")
+
+    def test_nested_card_validation_success_t20_decision(self):
+        sample_card = {
+            "id": "t20_test_01",
+            "deck": "Soft_Skills_and_Leadership::Leadership::Management::Crisis",
+            "template": "T20_DecisionScenario",
+            "metadata": {
+                "difficulty": "advanced",
+                "pillar": "05_Soft_Skills_and_Leadership",
+                "tags": ["crisis"]
+            },
+            "content": {
+                "scenario": "A major security exploit is active in production.",
+                "options": [
+                    "Isolate production database immediately, causing downtime.",
+                    "Keep system running while debugging live to minimize impact."
+                ],
+                "consequences": "Downtime cuts revenue but preserves customer data safety.",
+                "success_metric": "Customer data breach rate = 0%"
+            }
+        }
+        is_valid, cleaned, errors = sanitize_and_validate_card(sample_card)
+        self.assertTrue(is_valid, f"Validation failed with errors: {errors}")
+
+    def test_nested_card_validation_success_t21_interview_prep(self):
+        sample_card = {
+            "id": "t21_test_01",
+            "deck": "Soft_Skills_and_Leadership::Leadership::Communication::Interview",
+            "template": "T21_InterviewPrep",
+            "metadata": {
+                "difficulty": "advanced",
+                "pillar": "05_Soft_Skills_and_Leadership",
+                "tags": ["interview", "communication"]
+            },
+            "content": {
+                "question": "How do Transformers leverage Attention mechanism?",
+                "target_persona": "Software Engineer Lead",
+                "rubric_checkpoints": [
+                    "Explain Query, Key, Value vectors",
+                    "Compare scaled dot-product attention formula",
+                    "Mention O(N^2) complexity"
+                ],
+                "communication_cues": [
+                    "Keep structure clean: Intro, Formula, Complexity",
+                    "Avoid saying 'like'"
+                ],
+                "follow_up_hooks": [
+                    "How does Linear Attention optimize this complexity?"
+                ],
+                "explanation": "Transformers calculate scaled dot-product attention using Query and Key...",
+                "spanish": "Explicación en español..."
+            }
+        }
+        is_valid, cleaned, errors = sanitize_and_validate_card(sample_card)
+        self.assertTrue(is_valid, f"Validation failed with errors: {errors}")
+
+    def test_nested_card_validation_failure_t21_missing_fields(self):
+        sample_card = {
+            "id": "t21_test_02",
+            "deck": "Soft_Skills_and_Leadership::Leadership::Communication::Interview",
+            "template": "T21_InterviewPrep",
+            "metadata": {
+                "difficulty": "advanced",
+                "pillar": "05_Soft_Skills_and_Leadership",
+                "tags": ["interview"]
+            },
+            "content": {
+                "question": "How do Transformers leverage Attention mechanism?",
+                "target_persona": "Software Engineer Lead"
+                # Missing rubric_checkpoints, cues, hooks, explanation, spanish
+            }
+        }
+        is_valid, cleaned, errors = sanitize_and_validate_card(sample_card)
+        self.assertFalse(is_valid)
+        self.assertTrue(any("missing required fields" in err.lower() for err in errors))
+
 if __name__ == "__main__":
     unittest.main()

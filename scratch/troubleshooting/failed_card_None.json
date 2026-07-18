@@ -1,0 +1,77 @@
+{
+  "original_data": {
+    "template": "T21_InterviewPrep",
+    "metadata": {
+      "difficulty": "advanced",
+      "tags": [
+        "transformers",
+        "needs_review"
+      ]
+    },
+    "content": {
+      "question": "How does Attention work?",
+      "target_persona": "Software Lead",
+      "rubric_checkpoints": [
+        "Mention Q, K, V"
+      ],
+      "communication_cues": [
+        "Stay calm"
+      ],
+      "follow_up_hooks": [
+        "Explain scale factor"
+      ],
+      "explanation": "Attention matches Queries and Keys to weight Values...",
+      "spanish": "El mecanismo de atención..."
+    },
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Communication::Interview"
+  },
+  "repaired_state": {
+    "id": null,
+    "deck": "05_Soft_Skills_and_Leadership::Leadership::Communication::Interview",
+    "template": "T21_InterviewPrep",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "05_Soft_Skills_and_Leadership",
+      "tags": [
+        "transformers",
+        "needs_review"
+      ],
+      "validation_status": "low_confidence"
+    },
+    "content": {
+      "scenario": "Interview Shadowing 🎯",
+      "text": "<div class=\"interview-badge\" style=\"background: rgba(26,115,232,0.1); border-left: 4px solid #1A73E8; padding: 8px 12px; margin-bottom: 12px; border-radius: 0 4px 4px 0;\">👤 <b>Interlocutor Objetivo:</b> Software Lead</div><b>Pregunta:</b> How does Attention work?<br><br><i>Responde en voz alta y estructuradamente antes de ver el reverso de la tarjeta.</i>",
+      "explanation": "\n<div class=\"tabs-container\" data-card-id=\"None\">\n  <div class=\"tabs-header\">\n    <button class=\"tab-btn active\" data-tab-name=\"Rúbrica de Respuesta\" onclick=\"switchTab(event, 'tab_623139_0')\">Rúbrica de Respuesta</button>\n<button class=\"tab-btn\" data-tab-name=\"Consejos de Entrega\" onclick=\"switchTab(event, 'tab_623139_1')\">Consejos de Entrega</button>\n<button class=\"tab-btn\" data-tab-name=\"Preguntas de Seguimiento\" onclick=\"switchTab(event, 'tab_623139_2')\">Preguntas de Seguimiento</button>\n<button class=\"tab-btn\" data-tab-name=\"Respuesta Modelo\" onclick=\"switchTab(event, 'tab_623139_3')\">Respuesta Modelo</button>\n  </div>\n  <div id=\"tab_623139_0\" class=\"tab-content active\"><ul style=\"list-style: none; padding-left: 0; line-height: 1.6;\"><li><input type=\"checkbox\" style=\"margin-right: 8px; transform: scale(1.1); pointer-events: auto;\"> Mention Q, K, V</li></ul></div>\n<div id=\"tab_623139_1\" class=\"tab-content\"><ul><li>Stay calm</li></ul></div>\n<div id=\"tab_623139_2\" class=\"tab-content\"><ul><li>Explain scale factor</li></ul></div>\n<div id=\"tab_623139_3\" class=\"tab-content\">Attention matches Queries and Keys to weight Values...</div>\n</div>\n\n<script>\n(function() {\n  if (typeof window.switchTab !== 'function') {\n    window.switchTab = function(evt, tabId) {\n      var parent = evt.currentTarget.closest('.tabs-container');\n      var contents = parent.getElementsByClassName(\"tab-content\");\n      for (var i = 0; i < contents.length; i++) {\n        contents[i].classList.remove(\"active\");\n      }\n      var buttons = parent.getElementsByClassName(\"tab-btn\");\n      for (var i = 0; i < buttons.length; i++) {\n        buttons[i].classList.remove(\"active\");\n      }\n      var target = document.getElementById(tabId);\n      if (target) target.classList.add(\"active\");\n      evt.currentTarget.classList.add(\"active\");\n    };\n  }\n  \n  if (!window._tabsKeyHandlerRegistered) {\n    window._tabsKeyHandlerRegistered = true;\n    document.addEventListener(\"keydown\", function(e) {\n      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;\n      \n      var keyNum = parseInt(e.key);\n      if (!isNaN(keyNum) && keyNum >= 1 && keyNum <= 9) {\n        var containers = document.querySelectorAll('.tabs-container');\n        var matched = false;\n        containers.forEach(function(container) {\n          var buttons = container.querySelectorAll('.tab-btn');\n          if (buttons.length >= keyNum) {\n            buttons[keyNum - 1].click();\n            matched = true;\n          }\n        });\n        if (matched) {\n          e.preventDefault();\n          e.stopPropagation();\n        }\n      }\n    });\n  }\n})();\n</script>\n\n",
+      "spanish": "El mecanismo de atención...",
+      "usage": "Interview training for target: Software Lead",
+      "id": null,
+      "template": "T21_InterviewPrep",
+      "question": "How does Attention work?",
+      "target_persona": "Software Lead",
+      "rubric_checkpoints": [
+        "Mention Q, K, V"
+      ],
+      "communication_cues": [
+        "Stay calm"
+      ],
+      "follow_up_hooks": [
+        "Explain scale factor"
+      ]
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  "errors": [
+    "Validation errors: ['Schema Validation Error at [id]: Input should be a valid string']"
+  ]
+}

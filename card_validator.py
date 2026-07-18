@@ -21,6 +21,7 @@ class CardMetadata(BaseModel):
     difficulty: str = Field(default="intermediate")
     pillar: str
     tags: List[str] = Field(default_factory=list)
+    validation_status: str = Field(default="valid")
 
 class CardMnemonics(BaseModel):
     palace_name: str = ""
@@ -63,7 +64,12 @@ class CardNestedSchema(BaseModel):
             "T14_PegNumber": ["concept", "number", "phonetic_code", "peg_word", "visual_scene"],
             "T15A_FeynmanAnalogy": ["concept", "layperson_explanation", "metaphor_analogy", "explanation"],
             "T15B_FeynmanScenario": ["concept", "generation_challenge", "explanation"],
-            "T16_NameFace": ["person_name", "distinguishing_feature", "substitute_word_or_image", "association_scene", "contribution"]
+            "T16_NameFace": ["person_name", "distinguishing_feature", "substitute_word_or_image", "association_scene", "contribution"],
+            "T17_ConceptualModel": ["premise", "explanation", "analogy", "common_fallacies"],
+            "T18_SystemArchitecture": ["design_problem", "code_or_command", "orchestration_context", "expected_output", "complexity_big_o"],
+            "T19_PhoneticDrill": ["target_phrase", "ipa_transcription", "audio_path", "phonological_rules", "register_context"],
+            "T20_DecisionScenario": ["scenario", "options", "consequences", "success_metric"],
+            "T21_InterviewPrep": ["question", "target_persona", "rubric_checkpoints", "communication_cues", "follow_up_hooks", "explanation", "spanish"]
         }
         
         tpl = self.template

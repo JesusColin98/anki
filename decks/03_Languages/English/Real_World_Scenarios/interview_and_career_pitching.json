@@ -11424,5 +11424,175 @@
       "interactive_mermaid": "",
       "match_game_data": null
     }
+  },
+  {
+    "id": "deepmind_re_vs_swe_focus",
+    "deck": "03_Languages::English::Real_World_Scenarios::interview_and_career_pitching",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "career",
+        "deepmind",
+        "interview",
+        "roles"
+      ]
+    },
+    "content": {
+      "scenario": "DeepMind Roles: RE vs SWE Focus 🏢",
+      "text": "En Google DeepMind, el rol de {{c1::Research Engineer (RE)}} se enfoca en diseñar y escalar prototipos de modelos y experimentos de ML, mientras que el {{c2::Software Engineer (SWE)}} diseña la infraestructura distribuida y de baja latencia a gran escala.",
+      "explanation": "El Research Engineer (RE) actúa como puente entre la teoría y la práctica, traduciendo ideas de investigación en modelos funcionales mediante Python y JAX. El Software Engineer (SWE) se encarga de la robustez del sistema, la escalabilidad en producción y los simuladores/motores para evaluar los agentes.",
+      "spanish": "El Research Engineer (RE) se enfoca en el desarrollo y experimentación de modelos de IA, mientras que el Software Engineer (SWE) se enfoca en la robustez e infraestructura de sistemas a gran escala.",
+      "usage": "Comprender esta distinción ayuda a orientar tu plan de estudio: los RE necesitan más matemáticas y práctica con JAX/PyTorch, mientras que los SWE necesitan más C++ y sistemas distribuidos."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "El RE es como el ingeniero de Fórmula 1 enfocado en el motor del auto de carreras (experimentar con aerodinámica y caballos de fuerza/modelo). El SWE es como el constructor de la autopista y los talleres de mantenimiento en los boxes (infraestructura, sistemas de combustible rápidos y control de datos a gran escala).",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "deepmind_re_skills",
+    "deck": "03_Languages::English::Real_World_Scenarios::interview_and_career_pitching",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "career",
+        "deepmind",
+        "research_engineer",
+        "skills"
+      ]
+    },
+    "content": {
+      "scenario": "DeepMind Roles: Research Engineer Skills 🧠",
+      "text": "Para postularse como Research Engineer (RE) en DeepMind, se requiere un fuerte dominio de Python y frameworks como {{c1::JAX (o PyTorch/TensorFlow)}}, junto con sólidos conocimientos de {{c2::álgebra lineal, cálculo y estadística}}.",
+      "explanation": "La posición de RE es altamente cuantitativa. Además de escribir código limpio en Python, el ingeniero debe entender el funcionamiento interno de las arquitecturas (como Transformers y modelos de difusión) y optimizar su entrenamiento en TPUs/GPUs.",
+      "spanish": "Para ser RE se requiere dominio de frameworks de ML (JAX/PyTorch) y fundamentos sólidos de matemáticas cuantitativas.",
+      "usage": "Las entrevistas para RE combinan preguntas de codificación de algoritmos en Python con discusiones matemáticas de optimización de redes."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como ser un chef especializado en gastronomía molecular (RE): necesitas dominar los ingredientes químicos y las reacciones físicas (matemáticas y JAX) para crear platillos innovadores (nuevos modelos).",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "deepmind_swe_skills",
+    "deck": "03_Languages::English::Real_World_Scenarios::interview_and_career_pitching",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "career",
+        "deepmind",
+        "software_engineer",
+        "skills"
+      ]
+    },
+    "content": {
+      "scenario": "DeepMind Roles: Software Engineer Skills 💻",
+      "text": "El rol de Software Engineer (SWE) en DeepMind exige el dominio de lenguajes de alto rendimiento como {{c1::C++}} y experiencia en el diseño de {{c2::sistemas distribuidos de gran escala}}.",
+      "explanation": "Los SWE construyen la infraestructura subyacente para los investigadores. Desarrollan motores de juego 2D/3D y simuladores de física para entrenar agentes de aprendizaje por refuerzo, pipelines MapReduce/BigQuery para procesar datos a escala de petabytes y servidores de inferencia con latencias de milisegundos.",
+      "spanish": "Para ser SWE se requiere dominio de C++ y experiencia diseñando sistemas distribuidos y pipelines de datos masivos.",
+      "usage": "Las entrevistas para SWE se enfocan fuertemente en estructuras de datos avanzadas, algoritmos y diseño de sistemas distribuidos y de alta disponibilidad."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como el ingeniero civil que construye los cimientos y el acueducto de una gran ciudad (SWE): te aseguras de que el agua llegue a millones de grifos con presión constante y sin fugas (baja latencia y sistemas distribuidos), independientemente del tamaño de la población.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "deepmind_simulators_rl",
+    "deck": "03_Languages::English::Real_World_Scenarios::interview_and_career_pitching",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "career",
+        "deepmind",
+        "simulation",
+        "reinforcement_learning"
+      ]
+    },
+    "content": {
+      "scenario": "DeepMind Systems: Simulation & Evaluation 🎮",
+      "text": "En DeepMind, los SWE desarrollan simuladores físicos y entornos de juego en 2D/3D para evaluar y entrenar {{c1::agentes de Aprendizaje por Refuerzo (Reinforcement Learning)}}.",
+      "explanation": "Los entornos de simulación (como MuJoCo para robótica o entornos personalizados en C++) permiten a los agentes interactuar y aprender mediante prueba y error en entornos seguros a alta velocidad, lo que posteriormente se traduce en robots reales o control de sistemas físicos.",
+      "spanish": "Los SWE construyen simuladores físicos para el entrenamiento a alta velocidad de agentes de aprendizaje por refuerzo.",
+      "usage": "Ejemplos de entornos históricos de DeepMind: StarCraft II (AlphaStar), Atari, MuJoCo, y simuladores de proteínas para AlphaFold."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como construir un simulador de vuelo hiperrealista en computadora (SWE) para que los futuros pilotos (agentes de IA) practiquen maniobras complejas de forma segura miles de veces antes de subirse a un avión de verdad.",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "deepmind_serving_latency",
+    "deck": "03_Languages::English::Real_World_Scenarios::interview_and_career_pitching",
+    "template": "T1_Cloze",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "03_Languages",
+      "tags": [
+        "career",
+        "deepmind",
+        "latency",
+        "serving"
+      ]
+    },
+    "content": {
+      "scenario": "DeepMind Infrastructure: Model Serving ⚡",
+      "text": "La integración de modelos como Gemini en servicios de producción globales exige que los SWE diseñen plataformas de inferencia con {{c1::baja latencia y alta concurrencia}}.",
+      "explanation": "Diseñar un modelo preciso (trabajo de RE) es inútil en producción si cada respuesta tarda 5 segundos. Los SWE optimizan los servidores distribuidos en C++, implementan estrategias de streaming de tokens en tiempo real y aseguran que el modelo responda con latencias ultra-bajas para integraciones como Gemini Live.",
+      "spanish": "La integración en producción requiere que los SWE optimicen las plataformas de inferencia para lograr latencia de milisegundos.",
+      "usage": "Esencial para interfaces conversacionales de voz y procesamiento de video en tiempo real de Google a nivel mundial."
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "Es como diseñar el sistema de entrega de pizzas a nivel mundial: no importa que tengas el mejor horno (modelo), si el repartidor tarda 2 horas en llegar. Los SWE optimizan las motos de reparto y las rutas para que la pizza llegue caliente en 10 minutos (baja latencia).",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
   }
 ]

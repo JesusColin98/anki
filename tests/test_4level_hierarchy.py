@@ -48,7 +48,7 @@ class Test4LevelHierarchy(unittest.TestCase):
             )
 
     def test_load_all_cards(self):
-        cards = load_all_cards(base_dir=str(BASE_DIR))
+        cards = load_all_cards(base_dir=str(BASE_DIR), flatten=False)
         self.assertGreater(len(cards), 0)
 
         for card in cards:

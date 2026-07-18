@@ -95,6 +95,26 @@ TEMPLATES = {
         "description": "Name-to-Face and context recognition",
         "required_fields": ["deck", "person_name", "distinguishing_feature", "substitute_word_or_image", "association_scene", "contribution"],
     },
+    "T17_ConceptualModel": {
+        "description": "Philosophy, psychology, and cognitive models",
+        "required_fields": ["deck", "premise", "explanation", "analogy", "common_fallacies"],
+    },
+    "T18_SystemArchitecture": {
+        "description": "System design problems, code or command, orchestration, expected output, complexity",
+        "required_fields": ["deck", "design_problem", "code_or_command", "orchestration_context", "expected_output", "complexity_big_o"],
+    },
+    "T19_PhoneticDrill": {
+        "description": "Phonology target phrase, IPA, audio route, rules, register",
+        "required_fields": ["deck", "target_phrase", "ipa_transcription", "audio_path", "phonological_rules", "register_context"],
+    },
+    "T20_DecisionScenario": {
+        "description": "Situational decision scenarios with option analysis and outcomes",
+        "required_fields": ["deck", "scenario", "options", "consequences", "success_metric"],
+    },
+    "T21_InterviewPrep": {
+        "description": "Interview prep roleplay with checklist rubric, communication cues, and follow-up hooks",
+        "required_fields": ["deck", "question", "target_persona", "rubric_checkpoints", "communication_cues", "follow_up_hooks", "explanation", "spanish"],
+    },
 }
 
 # ===========================================================================
@@ -602,6 +622,105 @@ def render_t16_name_face(data: Dict[str, Any]) -> Dict[str, Any]:
         "tags": data.get("tags", ["name_face", "memory_techniques"]),
     }
 
+def render_t17_conceptual_model(data: Dict[str, Any]) -> Dict[str, Any]:
+    explanation_tabs = build_tabs({
+        "Explicación": data["explanation"],
+        "Analogía": data["analogy"],
+        "Falacias Comunes": data["common_fallacies"]
+    }, data.get("id", ""))
+    return {
+        "deck": data["deck"],
+        "scenario": data.get("scenario", f"Conceptual Model 🧠"),
+        "text": f"Modelo Conceptual / Premisa:<br><br><blockquote><b>{{{{c1::{data['premise']}}}}}</b></blockquote>",
+        "explanation": explanation_tabs,
+        "usage": f"Premise: {data['premise']}",
+        "spanish": data.get("spanish", data["explanation"]),
+        "tags": data.get("tags", ["conceptual_model"]),
+    }
+
+def render_t18_system_architecture(data: Dict[str, Any]) -> Dict[str, Any]:
+    code_formatted = f'<pre><code class="language-bash">{data["code_or_command"]}</code></pre>'
+    explanation_tabs = build_tabs({
+        "Orquestación": data["orchestration_context"],
+        "Complejidad (Big O)": data["complexity_big_o"],
+        "Output Esperado": f"<code>{data['expected_output']}</code>"
+    }, data.get("id", ""))
+    return {
+        "deck": data["deck"],
+        "scenario": f"Architecture & Systems ☁️",
+        "text": f"Problema de Diseño: <b>{data['design_problem']}</b><br><br>Comando / Patrón de Solución:<br>{code_formatted}<br><br>Foco: {{{{c1::Solución}}}}",
+        "explanation": explanation_tabs,
+        "usage": f"Context: {data['orchestration_context']}",
+        "spanish": data.get("spanish", data["design_problem"]),
+        "tags": data.get("tags", ["architecture", "systems"]),
+    }
+
+def render_t19_phonetic_drill(data: Dict[str, Any]) -> Dict[str, Any]:
+    explanation_tabs = build_tabs({
+        "Reglas Aplicadas": data["phonological_rules"],
+        "Contexto Social": data["register_context"],
+        "Audio": f"Ruta: <code>{data['audio_path']}</code>"
+    }, data.get("id", ""))
+    return {
+        "deck": data["deck"],
+        "scenario": f"Linguistic Phonetics 🗣️",
+        "text": f"Repetición Fonética:<br><br>Frase: <b>{data['target_phrase']}</b><br>Transcripción IPA: {{{{c1::{data['ipa_transcription']}}}}}",
+        "explanation": explanation_tabs,
+        "usage": f"IPA Drill: {data['ipa_transcription']}",
+        "spanish": data.get("spanish", data["target_phrase"]),
+        "tags": data.get("tags", ["phonetics", "connected_speech"]),
+    }
+
+def render_t20_decision_scenario(data: Dict[str, Any]) -> Dict[str, Any]:
+    options_html = "<ul>" + "".join(f"<li>{opt}</li>" for opt in data["options"]) + "</ul>"
+    explanation_tabs = build_tabs({
+        "Consecuencias": data["consequences"],
+        "Métrica de Éxito": data["success_metric"]
+    }, data.get("id", ""))
+    return {
+        "deck": data["deck"],
+        "scenario": data.get("scenario", "Decision Dilemma 🛑"),
+        "text": f"<b>Escenario Situacional:</b> {data['scenario']}<br><br>Opciones de Acción:<br>{options_html}<br><br>{{{{c1::¿Qué decisión tomas y por qué?}}}}",
+        "explanation": explanation_tabs,
+        "usage": f"Evaluation of action tree: {data['success_metric']}",
+        "spanish": data.get("spanish", data["scenario"]),
+        "tags": data.get("tags", ["decision_scenario", "leadership"]),
+    }
+
+def render_t21_interview_prep(data: Dict[str, Any]) -> Dict[str, Any]:
+    rubric_items = "".join(
+        f'<li><input type="checkbox" style="margin-right: 8px; transform: scale(1.1); pointer-events: auto;"> {item}</li>'
+        for item in data["rubric_checkpoints"]
+    )
+    rubric_html = f'<ul style="list-style: none; padding-left: 0; line-height: 1.6;">{rubric_items}</ul>'
+    
+    cues_html = "<ul>" + "".join(f"<li>{cue}</li>" for cue in data["communication_cues"]) + "</ul>"
+    
+    hooks_html = "<ul>" + "".join(f"<li>{hook}</li>" for hook in data["follow_up_hooks"]) + "</ul>"
+    
+    explanation_tabs = build_tabs({
+        "Rúbrica de Respuesta": rubric_html,
+        "Consejos de Entrega": cues_html,
+        "Preguntas de Seguimiento": hooks_html,
+        "Respuesta Modelo": data["explanation"]
+    }, data.get("id", ""))
+    
+    return {
+        "deck": data["deck"],
+        "scenario": f"Interview Shadowing 🎯",
+        "text": (
+            f'<div class="interview-badge" style="background: rgba(26,115,232,0.1); border-left: 4px solid #1A73E8; padding: 8px 12px; margin-bottom: 12px; border-radius: 0 4px 4px 0;">'
+            f'👤 <b>Interlocutor Objetivo:</b> {data["target_persona"]}'
+            f'</div>'
+            f'<b>Pregunta:</b> {data["question"]}<br><br>'
+            f'<i>Responde en voz alta y estructuradamente antes de ver el reverso de la tarjeta.</i>'
+        ),
+        "explanation": explanation_tabs,
+        "usage": f"Interview training for target: {data['target_persona']}",
+        "spanish": data["spanish"],
+        "tags": data.get("tags", ["interview_prep", "active_recall"]),
+    }
+
 # ===========================================================================
 # DISPATCH & INTEGRATION PIPELINE
 # ===========================================================================
@@ -624,12 +743,30 @@ _RENDERERS = {
     "T15A_FeynmanAnalogy": render_t15a_feynman_analogy,
     "T15B_FeynmanScenario": render_t15b_feynman_scenario,
     "T16_NameFace": render_t16_name_face,
+    "T17_ConceptualModel": render_t17_conceptual_model,
+    "T18_SystemArchitecture": render_t18_system_architecture,
+    "T19_PhoneticDrill": render_t19_phonetic_drill,
+    "T20_DecisionScenario": render_t20_decision_scenario,
+    "T21_InterviewPrep": render_t21_interview_prep,
 }
 
 from card_validator import sanitize_and_validate_card
 
 def build_card(template_type: str, data: Dict[str, Any]) -> Dict[str, Any]:
     """Constructs, decorates, and validates an Anki card matching template_type."""
+    if "content" in data or "metadata" in data:
+        card_id = data.get("id")
+        data = {
+            "deck": data.get("deck"),
+            "template": data.get("template", template_type),
+            **data.get("metadata", {}),
+            **data.get("content", {}),
+            **data.get("mnemonics", {}),
+            **data.get("interactivity", {})
+        }
+        if card_id is not None:
+            data["id"] = card_id
+
     if template_type not in TEMPLATES:
         raise ValueError(
             f"Unknown template: {template_type}. "

@@ -621,7 +621,7 @@ def get_learning_path_deck(deck_name, card):
         # Default Daily & Social for daily, travel, social, socializing, A1, etc.
         return "03_Languages::English::Learning_Paths::01_Daily_and_Social"
 
-def load_all_cards(base_dir="."):
+def load_all_cards(base_dir=".", flatten=True):
     decks_dir = os.path.join(base_dir, "decks")
     raw_cards = []
     
@@ -665,12 +665,13 @@ def load_all_cards(base_dir="."):
                 card["deck"] = get_learning_path_deck(card["deck"], card)
                 
             # Flatten deck name to 3 levels (omit Pillar part, map 03_Languages to Languages)
-            deck_parts = card["deck"].split("::")
-            if len(deck_parts) == 4:
-                if deck_parts[0] == "03_Languages":
-                    card["deck"] = "Languages::" + "::".join(deck_parts[1:])
-                else:
-                    card["deck"] = "::".join(deck_parts[1:])
+            if flatten:
+                deck_parts = card["deck"].split("::")
+                if len(deck_parts) == 4:
+                    if deck_parts[0] == "03_Languages":
+                        card["deck"] = "Languages::" + "::".join(deck_parts[1:])
+                    else:
+                        card["deck"] = "::".join(deck_parts[1:])
             compiled_cards.append(card)
             continue
             
@@ -706,12 +707,13 @@ def load_all_cards(base_dir="."):
                 compiled["deck"] = routed_deck
                 
             # Flatten deck name to 3 levels (omit Pillar part, map 03_Languages to Languages)
-            deck_parts = compiled["deck"].split("::")
-            if len(deck_parts) == 4:
-                if deck_parts[0] == "03_Languages":
-                    compiled["deck"] = "Languages::" + "::".join(deck_parts[1:])
-                else:
-                    compiled["deck"] = "::".join(deck_parts[1:])
+            if flatten:
+                deck_parts = compiled["deck"].split("::")
+                if len(deck_parts) == 4:
+                    if deck_parts[0] == "03_Languages":
+                        compiled["deck"] = "Languages::" + "::".join(deck_parts[1:])
+                    else:
+                        compiled["deck"] = "::".join(deck_parts[1:])
                 
             # Preserve original properties for model mapping & tag generation
             compiled["template"] = card["template"]
