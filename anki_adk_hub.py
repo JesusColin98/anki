@@ -457,12 +457,12 @@ def regenerate_index():
     total_cards_count = 0
     
     for p in DECKS_DIR.glob("**/*.json"):
-        if p.name == "index.json":
+        if p.name in ["index.json", "manifest.json"]:
             continue
         try:
             with open(p, "r", encoding="utf-8") as f:
                 cards = json.load(f)
-            deck_name = str(p.relative_to(DECKS_DIR).with_suffix("")).replace("/", "::")
+            deck_name = p.relative_to(DECKS_DIR).with_suffix("").as_posix().replace("/", "::")
             index_entries.append({
                 "deck": deck_name,
                 "path": f"decks/{p.relative_to(DECKS_DIR).as_posix()}",

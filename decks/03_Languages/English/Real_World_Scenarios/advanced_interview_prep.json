@@ -1,0 +1,232 @@
+[
+  {
+    "id": "int_prep_00000001",
+    "deck": "03_Languages::English::Real_World_Scenarios::Advanced_Interview_Prep",
+    "template": "T21_InterviewPrep",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "interview",
+        "system_design",
+        "databases"
+      ]
+    },
+    "content": {
+      "question": "How do you choose between a SQL and a NoSQL database for a new microservice?",
+      "target_persona": "VP of Engineering",
+      "rubric_checkpoints": [
+        "Analyze transactional consistency (ACID) vs. horizontal scalability (BASE).",
+        "Evaluate data access patterns (complex joins vs. high-throughput key-value lookups).",
+        "Mention cost/operational overhead of maintaining clusters."
+      ],
+      "communication_cues": [
+        "Avoid absolute statements (e.g. 'NoSQL is always better'). Use trade-off phrasing.",
+        "Maintain a structured response: criteria first, then concrete examples."
+      ],
+      "follow_up_hooks": [
+        "If we chose NoSQL but later needed relational queries, how would you design the synchronization pipeline?"
+      ],
+      "explanation": "The choice depends on data structure, scalability, and consistency requirements. Use SQL when schema rigidity and transactions are paramount; use NoSQL when scale, flexibility, and document formatting are main drivers.",
+      "spanish": "Criterios técnicos para elegir bases de datos relacionales frente a no relacionales en microservicios.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "int_prep_00000002",
+    "deck": "03_Languages::English::Real_World_Scenarios::Advanced_Interview_Prep",
+    "template": "T21_InterviewPrep",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "interview",
+        "behavioral",
+        "conflict_resolution"
+      ]
+    },
+    "content": {
+      "question": "Tell me about a time you had a major technical disagreement with a peer. How did you resolve it?",
+      "target_persona": "Senior Engineering Director",
+      "rubric_checkpoints": [
+        "State the technical conflict objectively without personal blame.",
+        "Explain the collaboration steps taken (e.g., proof of concept, benchmark comparison).",
+        "Discuss the final outcome and how you aligned to support the decision."
+      ],
+      "communication_cues": [
+        "Use collaborative language ('we', 'the team') rather than ego-centric terms ('I convinced him').",
+        "Emphasize empathy and listening to their technical rationale."
+      ],
+      "follow_up_hooks": [
+        "If the benchmark results had been inconclusive, how would you have broken the tie?"
+      ],
+      "explanation": "Conflicts should be resolved objectively using data and shared metrics. Use the STAR method to show how empathy and structured comparison led to team alignment.",
+      "spanish": "Resolución de un desacuerdo técnico mediante datos, empatía y colaboración.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "int_prep_00000003",
+    "deck": "03_Languages::English::Real_World_Scenarios::Advanced_Interview_Prep",
+    "template": "T21_InterviewPrep",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "interview",
+        "executive_pitch",
+        "finance"
+      ]
+    },
+    "content": {
+      "question": "We need to migrate our legacy monolithic codebase to serverless. How would you pitch this budget request to the CFO?",
+      "target_persona": "Chief Financial Officer (CFO)",
+      "rubric_checkpoints": [
+        "Translate engineering metrics (CPU usage, latency) into business value (cost reduction, time-to-market).",
+        "Present a clear migration roadmap with phased risk mitigations.",
+        "Provide concrete ROI projections (e.g., infrastructure savings vs. development cost)."
+      ],
+      "communication_cues": [
+        "Avoid developer jargon (e.g., 'Kubernetes pods scaling'). Focus on cost metrics.",
+        "Speak confidently about financial figures and timeline estimations."
+      ],
+      "follow_up_hooks": [
+        "What are the cost overrun risks, and what buffer did you build into this estimate?"
+      ],
+      "explanation": "Execs care about risk and return. Structure the pitch around cost savings, risk mitigation during migration, and long-term developer velocity increase.",
+      "spanish": "Presentación de una propuesta de migración técnica en términos de retorno de inversión (ROI) para CFOs.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "int_prep_00000004",
+    "deck": "03_Languages::English::Real_World_Scenarios::Advanced_Interview_Prep",
+    "template": "T21_InterviewPrep",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "interview",
+        "leadership",
+        "incident_response"
+      ]
+    },
+    "content": {
+      "question": "A critical payment gateway is failing in production. There is high panic. How do you lead the response?",
+      "target_persona": "VP of Operations",
+      "rubric_checkpoints": [
+        "Prioritize immediate mitigation (e.g., failover, traffic shaping) over root-cause debugging.",
+        "Establish a clear incident command hierarchy and communication channels.",
+        "Explain the post-incident review (blameless postmortem) strategy."
+      ],
+      "communication_cues": [
+        "Deliver your response with a calm, methodical, and reassuring cadence.",
+        "Avoid panic terms. Focus on structured checklist execution."
+      ],
+      "follow_up_hooks": [
+        "How do you keep stakeholders updated without distracting the engineers fixing the issue?"
+      ],
+      "explanation": "Incident management requires separation of roles: an incident commander leading communication, and engineers executing mitigation checklists. Debugging comes after system restoration.",
+      "spanish": "Liderazgo y comunicación ante caídas de servicio críticas en sistemas de producción.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "int_prep_00000005",
+    "deck": "03_Languages::English::Real_World_Scenarios::Advanced_Interview_Prep",
+    "template": "T21_InterviewPrep",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "interview",
+        "career_growth",
+        "leadership"
+      ]
+    },
+    "content": {
+      "question": "Where do you see yourself in 3 years? What skills do you want to acquire?",
+      "target_persona": "Head of Engineering",
+      "rubric_checkpoints": [
+        "Align your personal growth with the company's long-term scale and goals.",
+        "Identify specific technical areas (e.g., distributed systems) or leadership responsibilities.",
+        "Mention how you plan to mentor junior engineers as you grow."
+      ],
+      "communication_cues": [
+        "Demonstrate passion and motivation without sounding unrealistic.",
+        "Show commitment to the current company rather than using it as a stepping stone."
+      ],
+      "follow_up_hooks": [
+        "What concrete step are you taking this quarter to work towards that 3-year goal?"
+      ],
+      "explanation": "Structure the answer to show you are ambitious yet grounded. Companies want to hire people who grow and help their teammates grow.",
+      "spanish": "Alineación de objetivos de crecimiento profesional con mentoría e impacto en el equipo.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

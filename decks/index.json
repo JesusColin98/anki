@@ -1,434 +1,449 @@
 {
-  "total_cards": 6721,
-  "total_decks": 86,
+  "total_cards": 6767,
+  "total_decks": 89,
   "decks": [
     {
-      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Incident_Response_And_Operations",
+      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::incident_response_and_operations",
       "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Blue_Teaming/incident_response_and_operations.json",
       "cards_count": 10
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::Security_Operations",
+      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Blue_Teaming::security_operations",
       "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Blue_Teaming/security_operations.json",
       "cards_count": 10
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Defense_Evasion",
+      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::defense_evasion",
       "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Red_Teaming/defense_evasion.json",
       "cards_count": 20
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Exploitation",
+      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::exploitation",
       "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Red_Teaming/exploitation.json",
       "cards_count": 10
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Post_Exploitation",
+      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::post_exploitation",
       "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Red_Teaming/post_exploitation.json",
       "cards_count": 10
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::Reconnaissance_And_Scanning",
+      "deck": "01_Cloud_and_Infrastructure::Cybersecurity::Red_Teaming::reconnaissance_and_scanning",
       "path": "decks/01_Cloud_and_Infrastructure/Cybersecurity/Red_Teaming/reconnaissance_and_scanning.json",
       "cards_count": 20
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Networking::Fundamentals::Networking_Fundamentals",
+      "deck": "01_Cloud_and_Infrastructure::Networking::Fundamentals::networking_fundamentals",
       "path": "decks/01_Cloud_and_Infrastructure/Networking/Fundamentals/networking_fundamentals.json",
       "cards_count": 20
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Networking::GCP_Cloud_Networking::Vpc_And_Compute_Design",
+      "deck": "01_Cloud_and_Infrastructure::Networking::GCP_Cloud_Networking::vpc_and_compute_design",
       "path": "decks/01_Cloud_and_Infrastructure/Networking/GCP_Cloud_Networking/vpc_and_compute_design.json",
       "cards_count": 12
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::Ports_And_Tls_Security",
+      "deck": "01_Cloud_and_Infrastructure::Networking::Protocols_and_Security::ports_and_tls_security",
       "path": "decks/01_Cloud_and_Infrastructure/Networking/Protocols_and_Security/ports_and_tls_security.json",
       "cards_count": 15
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::Linux_Command_Line_And_Kernel",
+      "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Administration::linux_command_line_and_kernel",
       "path": "decks/01_Cloud_and_Infrastructure/Systems_Engineering/Administration/linux_command_line_and_kernel.json",
       "cards_count": 15
     },
     {
-      "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Infrastructure_as_Code::Docker_And_Kubernetes_Orchestration",
+      "deck": "01_Cloud_and_Infrastructure::Systems_Engineering::Infrastructure_as_Code::docker_and_kubernetes_orchestration",
       "path": "decks/01_Cloud_and_Infrastructure/Systems_Engineering/Infrastructure_as_Code/docker_and_kubernetes_orchestration.json",
       "cards_count": 5
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Adk_Framework_Core",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::adk_framework_core",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/Agentic_Systems/adk_framework_core.json",
       "cards_count": 31
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::Agents_Architecture_And_Reinforcement_Learning",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::Agentic_Systems::agents_architecture_and_reinforcement_learning",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/Agentic_Systems/agents_architecture_and_reinforcement_learning.json",
       "cards_count": 63
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::statistical_ml_and_neural_nets",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/Classical_and_Deep_Learning/statistical_ml_and_neural_nets.json",
-      "cards_count": 115
+      "cards_count": 119
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::Data_Pipelines::Experimentation_Data_Pipelines_And_Feature_Stores",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::Data_Pipelines::experimentation_data_pipelines_and_feature_stores",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/Data_Pipelines/experimentation_data_pipelines_and_feature_stores.json",
       "cards_count": 8
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Fine_Tuning_And_Adaptation",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::fine_tuning_and_adaptation",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/LLM_Applications/fine_tuning_and_adaptation.json",
       "cards_count": 11
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Prompt_Engineering_And_Evaluation",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::prompt_engineering_and_evaluation",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/LLM_Applications/prompt_engineering_and_evaluation.json",
       "cards_count": 17
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::Rag_And_Knowledge_Retrieval",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Applications::rag_and_knowledge_retrieval",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/LLM_Applications/rag_and_knowledge_retrieval.json",
       "cards_count": 33
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::llm_foundations_and_architectures",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/LLM_Foundations/llm_foundations_and_architectures.json",
-      "cards_count": 79
+      "cards_count": 101
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::Security_And_Privacy::Security_Privacy_And_Adversarial_Ai",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::Security_And_Privacy::security_privacy_and_adversarial_ai",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/Security_And_Privacy/security_privacy_and_adversarial_ai.json",
       "cards_count": 6
     },
     {
-      "deck": "02_AI_and_Data_Science::AI_Engineering::System_Design::Ml_System_Design_And_Platforms",
+      "deck": "02_AI_and_Data_Science::AI_Engineering::System_Design::ml_system_design_and_platforms",
       "path": "decks/02_AI_and_Data_Science/AI_Engineering/System_Design/ml_system_design_and_platforms.json",
       "cards_count": 9
     },
     {
-      "deck": "02_AI_and_Data_Science::Governance_and_Strategy::Product_Strategy::Ai_Adoption_And_System_Design",
+      "deck": "02_AI_and_Data_Science::Governance_and_Strategy::Product_Strategy::ai_adoption_and_system_design",
       "path": "decks/02_AI_and_Data_Science/Governance_and_Strategy/Product_Strategy/ai_adoption_and_system_design.json",
       "cards_count": 4
     },
     {
-      "deck": "02_AI_and_Data_Science::Governance_and_Strategy::Responsible_AI::Safety_Ethics_And_Adversarial_Defense",
+      "deck": "02_AI_and_Data_Science::Governance_and_Strategy::Responsible_AI::safety_ethics_and_adversarial_defense",
       "path": "decks/02_AI_and_Data_Science/Governance_and_Strategy/Responsible_AI/safety_ethics_and_adversarial_defense.json",
       "cards_count": 11
     },
     {
-      "deck": "02_AI_and_Data_Science::MLOps_and_LLMOps::Governance::Mlops_Guardrails",
+      "deck": "02_AI_and_Data_Science::MLOps_and_LLMOps::Governance::mlops_guardrails",
       "path": "decks/02_AI_and_Data_Science/MLOps_and_LLMOps/Governance/mlops_guardrails.json",
       "cards_count": 10
     },
     {
-      "deck": "02_AI_and_Data_Science::MLOps_and_LLMOps::Operations::Pipelines_And_Observability",
+      "deck": "02_AI_and_Data_Science::MLOps_and_LLMOps::Operations::pipelines_and_observability",
       "path": "decks/02_AI_and_Data_Science/MLOps_and_LLMOps/Operations/pipelines_and_observability.json",
       "cards_count": 13
     },
     {
-      "deck": "03_Languages::Chinese::A1_Beginner::Greetings_Pronouns_And_Verbs",
+      "deck": "03_Languages::Chinese::A1_Beginner::greetings_pronouns_and_verbs",
       "path": "decks/03_Languages/Chinese/A1_Beginner/greetings_pronouns_and_verbs.json",
       "cards_count": 40
     },
     {
-      "deck": "03_Languages::Chinese::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::Chinese::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/Chinese/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 23
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::00_Minimal_Pairs",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::00_minimal_pairs",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/00_minimal_pairs.json",
       "cards_count": 3
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_Cluster_Elision",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::01_cluster_elision",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/01_cluster_elision.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::02_Flap_T",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::02_flap_t",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/02_flap_t.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_Glottal_Stop",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::03_glottal_stop",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/03_glottal_stop.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_Nasal_T_Deletion",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::04_nasal_t_deletion",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/04_nasal_t_deletion.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_Yod_Coalescence",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::05_yod_coalescence",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/05_yod_coalescence.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_Resyllabification",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::06_resyllabification",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/06_resyllabification.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_H_Dropping",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::07_h_dropping",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/07_h_dropping.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_Schwa_Reduction",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::08_schwa_reduction",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/08_schwa_reduction.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_Linking_R",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::09_linking_r",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/09_linking_r.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_Lexical_Chunks",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::10_lexical_chunks",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/10_lexical_chunks.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_Dark_L",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::11_dark_l",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/11_dark_l.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_Intrusive_Glides",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::12_intrusive_glides",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/12_intrusive_glides.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_Unreleased_Stops",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::13_unreleased_stops",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/13_unreleased_stops.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_Stress_Timed_Rhythm",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::14_stress_timed_rhythm",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/14_stress_timed_rhythm.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_Flap_D",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::15_flap_d",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/15_flap_d.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_Pre_Glottalization",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::16_pre_glottalization",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/16_pre_glottalization.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::17_Auxiliary_Chunks",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::17_auxiliary_chunks",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/17_auxiliary_chunks.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_Syllabic_Consonants",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::18_syllabic_consonants",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/18_syllabic_consonants.json",
       "cards_count": 30
     },
     {
-      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Colloquial_Rhythm_And_Flow",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::colloquial_rhythm_and_flow",
       "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/colloquial_rhythm_and_flow.json",
       "cards_count": 127
     },
     {
-      "deck": "03_Languages::English::Real_World_Scenarios::Academic_And_Medical_Contexts",
+      "deck": "03_Languages::English::Phonetics_and_Connected_Speech::connected_speech_phonetic_drills",
+      "path": "decks/03_Languages/English/Phonetics_and_Connected_Speech/connected_speech_phonetic_drills.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "03_Languages::English::Real_World_Scenarios::academic_and_medical_contexts",
       "path": "decks/03_Languages/English/Real_World_Scenarios/academic_and_medical_contexts.json",
       "cards_count": 520
     },
     {
-      "deck": "03_Languages::English::Real_World_Scenarios::Daily_And_Social_Interactions",
+      "deck": "03_Languages::English::Real_World_Scenarios::advanced_interview_prep",
+      "path": "decks/03_Languages/English/Real_World_Scenarios/advanced_interview_prep.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "03_Languages::English::Real_World_Scenarios::daily_and_social_interactions",
       "path": "decks/03_Languages/English/Real_World_Scenarios/daily_and_social_interactions.json",
       "cards_count": 2659
     },
     {
-      "deck": "03_Languages::English::Real_World_Scenarios::Interview_And_Career_Pitching",
+      "deck": "03_Languages::English::Real_World_Scenarios::interview_and_career_pitching",
       "path": "decks/03_Languages/English/Real_World_Scenarios/interview_and_career_pitching.json",
-      "cards_count": 345
+      "cards_count": 350
     },
     {
-      "deck": "03_Languages::English::Real_World_Scenarios::Workplace_And_Customer_Service",
+      "deck": "03_Languages::English::Real_World_Scenarios::workplace_and_customer_service",
       "path": "decks/03_Languages/English/Real_World_Scenarios/workplace_and_customer_service.json",
       "cards_count": 724
     },
     {
-      "deck": "03_Languages::French::A1_Beginner::Greetings_Pronouns_And_Verbs",
+      "deck": "03_Languages::English::Real_World_Scenarios::workplace_decision_scenarios",
+      "path": "decks/03_Languages/English/Real_World_Scenarios/workplace_decision_scenarios.json",
+      "cards_count": 5
+    },
+    {
+      "deck": "03_Languages::French::A1_Beginner::greetings_pronouns_and_verbs",
       "path": "decks/03_Languages/French/A1_Beginner/greetings_pronouns_and_verbs.json",
       "cards_count": 40
     },
     {
-      "deck": "03_Languages::French::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::French::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/French/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 26
     },
     {
-      "deck": "03_Languages::General::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::General::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/General/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 8
     },
     {
-      "deck": "03_Languages::German::A1_Beginner::Greetings_Pronouns_And_Verbs",
+      "deck": "03_Languages::German::A1_Beginner::greetings_pronouns_and_verbs",
       "path": "decks/03_Languages/German/A1_Beginner/greetings_pronouns_and_verbs.json",
       "cards_count": 40
     },
     {
-      "deck": "03_Languages::German::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::German::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/German/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 23
     },
     {
-      "deck": "03_Languages::Hindi::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::Hindi::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/Hindi/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 6
     },
     {
-      "deck": "03_Languages::Italian::A1_Beginner::Greetings_Pronouns_And_Verbs",
+      "deck": "03_Languages::Italian::A1_Beginner::greetings_pronouns_and_verbs",
       "path": "decks/03_Languages/Italian/A1_Beginner/greetings_pronouns_and_verbs.json",
       "cards_count": 40
     },
     {
-      "deck": "03_Languages::Italian::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::Italian::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/Italian/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 22
     },
     {
-      "deck": "03_Languages::Japanese::A1_Beginner::Greetings_Pronouns_And_Verbs",
+      "deck": "03_Languages::Japanese::A1_Beginner::greetings_pronouns_and_verbs",
       "path": "decks/03_Languages/Japanese/A1_Beginner/greetings_pronouns_and_verbs.json",
       "cards_count": 40
     },
     {
-      "deck": "03_Languages::Japanese::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::Japanese::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/Japanese/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 28
     },
     {
-      "deck": "03_Languages::Korean::A1_Beginner::Greetings_Pronouns_And_Verbs",
+      "deck": "03_Languages::Korean::A1_Beginner::greetings_pronouns_and_verbs",
       "path": "decks/03_Languages/Korean/A1_Beginner/greetings_pronouns_and_verbs.json",
       "cards_count": 40
     },
     {
-      "deck": "03_Languages::Korean::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::Korean::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/Korean/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 24
     },
     {
-      "deck": "03_Languages::Portuguese::A1_Beginner::Greetings_Pronouns_And_Verbs",
+      "deck": "03_Languages::Portuguese::A1_Beginner::greetings_pronouns_and_verbs",
       "path": "decks/03_Languages/Portuguese/A1_Beginner/greetings_pronouns_and_verbs.json",
       "cards_count": 40
     },
     {
-      "deck": "03_Languages::Portuguese::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::Portuguese::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/Portuguese/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 23
     },
     {
-      "deck": "03_Languages::Russian::A1_Beginner::Greetings_Pronouns_And_Verbs",
+      "deck": "03_Languages::Russian::A1_Beginner::greetings_pronouns_and_verbs",
       "path": "decks/03_Languages/Russian/A1_Beginner/greetings_pronouns_and_verbs.json",
       "cards_count": 40
     },
     {
-      "deck": "03_Languages::Russian::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::Russian::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/Russian/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 20
     },
     {
-      "deck": "03_Languages::Spanish::A1_Beginner::Greetings_Pronouns_And_Verbs",
+      "deck": "03_Languages::Spanish::A1_Beginner::greetings_pronouns_and_verbs",
       "path": "decks/03_Languages/Spanish/A1_Beginner/greetings_pronouns_and_verbs.json",
       "cards_count": 40
     },
     {
-      "deck": "03_Languages::Spanish::Phonetics::Grapheme_To_Phoneme_Drills",
+      "deck": "03_Languages::Spanish::Phonetics::grapheme_to_phoneme_drills",
       "path": "decks/03_Languages/Spanish/Phonetics/grapheme_to_phoneme_drills.json",
       "cards_count": 24
     },
     {
-      "deck": "04_Social_and_Humanities::Philosophy::Applied_Stoicism::Stoic_Principles_And_Daily_Practice",
+      "deck": "04_Social_and_Humanities::Philosophy::Applied_Stoicism::stoic_principles_and_daily_practice",
       "path": "decks/04_Social_and_Humanities/Philosophy/Applied_Stoicism/stoic_principles_and_daily_practice.json",
       "cards_count": 10
     },
     {
-      "deck": "04_Social_and_Humanities::Philosophy::Book_Summaries::Philosophy_Of_Meaning",
+      "deck": "04_Social_and_Humanities::Philosophy::Book_Summaries::philosophy_of_meaning",
       "path": "decks/04_Social_and_Humanities/Philosophy/Book_Summaries/philosophy_of_meaning.json",
       "cards_count": 3
     },
     {
-      "deck": "04_Social_and_Humanities::Philosophy::Foundations_and_Schools::Classical_Greek_And_Eastern",
+      "deck": "04_Social_and_Humanities::Philosophy::Foundations_and_Schools::classical_greek_and_eastern",
       "path": "decks/04_Social_and_Humanities/Philosophy/Foundations_and_Schools/classical_greek_and_eastern.json",
       "cards_count": 20
     },
     {
-      "deck": "04_Social_and_Humanities::Philosophy::Foundations_and_Schools::Modern_And_Postmodern_Movements",
+      "deck": "04_Social_and_Humanities::Philosophy::Foundations_and_Schools::modern_and_postmodern_movements",
       "path": "decks/04_Social_and_Humanities/Philosophy/Foundations_and_Schools/modern_and_postmodern_movements.json",
       "cards_count": 10
     },
     {
-      "deck": "04_Social_and_Humanities::Psychology::Cognitive_and_Behavioral::Cognitive_Biases_And_Mental_Models",
+      "deck": "04_Social_and_Humanities::Psychology::Cognitive_and_Behavioral::cognitive_biases_and_mental_models",
       "path": "decks/04_Social_and_Humanities/Psychology/Cognitive_and_Behavioral/cognitive_biases_and_mental_models.json",
       "cards_count": 5
     },
     {
-      "deck": "04_Social_and_Humanities::Psychology::Social_and_Conversational::Conversational_Dynamics_And_Rapport",
+      "deck": "04_Social_and_Humanities::Psychology::Social_and_Conversational::conversational_dynamics_and_rapport",
       "path": "decks/04_Social_and_Humanities/Psychology/Social_and_Conversational/conversational_dynamics_and_rapport.json",
       "cards_count": 5
     },
     {
-      "deck": "05_Soft_Skills_and_Leadership::Leadership::Executive_Presence::Pitching_Public_Speaking_And_Influence",
+      "deck": "05_Soft_Skills_and_Leadership::Leadership::Executive_Presence::pitching_public_speaking_and_influence",
       "path": "decks/05_Soft_Skills_and_Leadership/Leadership/Executive_Presence/pitching_public_speaking_and_influence.json",
       "cards_count": 9
     },
     {
-      "deck": "05_Soft_Skills_and_Leadership::Leadership::Management::Delegation_Coaching_And_Feedback",
+      "deck": "05_Soft_Skills_and_Leadership::Leadership::Management::delegation_coaching_and_feedback",
       "path": "decks/05_Soft_Skills_and_Leadership/Leadership/Management/delegation_coaching_and_feedback.json",
       "cards_count": 18
     },
     {
-      "deck": "05_Soft_Skills_and_Leadership::Leadership::Management::Performance_Metrics_And_Accountability",
+      "deck": "05_Soft_Skills_and_Leadership::Leadership::Management::performance_metrics_and_accountability",
       "path": "decks/05_Soft_Skills_and_Leadership/Leadership/Management/performance_metrics_and_accountability.json",
       "cards_count": 3
     },
     {
-      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Communication::Active_Listening_And_Negotiation",
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Communication::active_listening_and_negotiation",
       "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Communication/active_listening_and_negotiation.json",
       "cards_count": 17
     },
     {
-      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Communication::Storytelling_And_Persuasion_Foundations",
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Communication::storytelling_and_persuasion_foundations",
       "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Communication/storytelling_and_persuasion_foundations.json",
       "cards_count": 39
     },
     {
-      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::Incident_Recovery_And_Crisis_Handling",
+      "deck": "05_Soft_Skills_and_Leadership::Social_Skills::Customer_Excellence::incident_recovery_and_crisis_handling",
       "path": "decks/05_Soft_Skills_and_Leadership/Social_Skills/Customer_Excellence/incident_recovery_and_crisis_handling.json",
       "cards_count": 117
     },
     {
-      "deck": "06_Business_and_Productivity::Business_and_Sales::Sales::Sales_Methodologies_And_Objections",
+      "deck": "06_Business_and_Productivity::Business_and_Sales::Sales::sales_methodologies_and_objections",
       "path": "decks/06_Business_and_Productivity/Business_and_Sales/Sales/sales_methodologies_and_objections.json",
       "cards_count": 100
     },
     {
-      "deck": "06_Business_and_Productivity::Business_and_Sales::Strategy::Corporate_Strategy_And_Market_Positioning",
+      "deck": "06_Business_and_Productivity::Business_and_Sales::Strategy::corporate_strategy_and_market_positioning",
       "path": "decks/06_Business_and_Productivity/Business_and_Sales/Strategy/corporate_strategy_and_market_positioning.json",
       "cards_count": 3
     },
     {
-      "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Learning_Methodology",
+      "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::learning_methodology",
       "path": "decks/06_Business_and_Productivity/Learning_and_Memory/Methodology/learning_methodology.json",
       "cards_count": 120
     },
     {
-      "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::Memory_Techniques_And_Systems",
+      "deck": "06_Business_and_Productivity::Learning_and_Memory::Methodology::memory_techniques_and_systems",
       "path": "decks/06_Business_and_Productivity/Learning_and_Memory/Methodology/memory_techniques_and_systems.json",
       "cards_count": 120
     },
     {
-      "deck": "06_Business_and_Productivity::Productivity_and_Habits::Methodology::Productivity_And_Habits",
+      "deck": "06_Business_and_Productivity::Productivity_and_Habits::Methodology::productivity_and_habits",
       "path": "decks/06_Business_and_Productivity/Productivity_and_Habits/Methodology/productivity_and_habits.json",
       "cards_count": 60
     }

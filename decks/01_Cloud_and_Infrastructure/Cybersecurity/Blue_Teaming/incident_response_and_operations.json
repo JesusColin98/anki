@@ -81,7 +81,7 @@
     "content": {
       "scenario": "Incident Response Basics 🛡️: Forensics Volatility Framework",
       "text": "The leading open-source command-line framework used by forensic analysts to analyze volatile RAM memory dumps is {{c1::Volatility}}.",
-      "explanation": "The term \"Volatility\" refers to allows analysts to reconstruct the state of a system at the time of the RAM capture, extracting running processes, active network connections, kernel modules, and cached registry keys.. In context: \"The leading open-source command-line framework used by forensic analysts to analyze volatile RAM memory dumps is Volatility.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Allows analysts to reconstruct the state of a system at the time of the RAM capture, extracting running processes, active network connections, kernel modules, and cached registry keys",
       "spanish": "El framework de línea de comandos de código abierto líder utilizado por los analistas forenses para analizar volcados de memoria RAM volátil es Volatility.",
       "usage": "Typical workflow: <code>Capture RAM (using FTK Imager) → Analyze with Volatility CLI</code>"
     },

@@ -81,7 +81,7 @@
     "content": {
       "scenario": "Security Operations Basics 🛡️: Decoy Systems",
       "text": "A decoy server configured to look like a high-value vulnerable target to lure attackers and log their tactics is called a {{c1::honeypot}}.",
-      "explanation": "The term \"honeypot\" refers to s have no legitimate business traffic. Any interaction with them is immediately flagged as a high-fidelity security alert, indicating probing or compromise.. In context: \"A decoy server configured to look like a high-value vulnerable target to lure attackers and log their tactics is called a honeypot.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "S have no legitimate business traffic. Any interaction with them is immediately flagged as a high-fidelity security alert, indicating probing or compromise",
       "spanish": "Un servidor señuelo configurado para parecer un objetivo vulnerable de alto valor con el fin de atraer a los atacantes y registrar sus tácticas se denomina honeypot.",
       "usage": "Types: <code>Low-Interaction (fake services) vs High-Interaction (real VMs)</code>"
     },
@@ -147,7 +147,7 @@
     "content": {
       "scenario": "Security Operations Operations ⚙️: Threat Hunting",
       "text": "The security practice of proactively searching networks to find malicious activities that have bypassed active security controls is called {{c1::Threat Hunting}}.",
-      "explanation": "The term \"Threat Hunting\" refers to is proactive. Instead of waiting for a SIEM alert, hunters formulate hypotheses based on threat intelligence and query historical logs for stealthy attacker behaviors.. In context: \"The security practice of proactively searching networks to find malicious activities that have bypassed active security controls is called Threat Hunting.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Is proactive. Instead of waiting for a SIEM alert, hunters formulate hypotheses based on threat intelligence and query historical logs for stealthy attacker behaviors",
       "spanish": "La práctica de seguridad de buscar proactivamente en las redes para encontrar actividades maliciosas que han eludido los controles de seguridad activos se denomina Threat Hunting.",
       "usage": "Trigger: <code>Hypothesis creation based on new vulnerability disclosures</code>"
     },
@@ -180,7 +180,7 @@
     "content": {
       "scenario": "Security Operations Operations ⚙️: Egress Filtering",
       "text": "To prevent compromised internal servers from establishing outbound connections to malicious C2 servers, network admins implement {{c1::egress filtering}}.",
-      "explanation": "The term \"egress filtering\" refers to blocks outbound network traffic. By denying servers from connecting out to arbitrary external ports (allowing only specific destination IPs or HTTP proxies), exfiltration and reverse shells are blocked.. In context: \"To prevent compromised internal servers from establishing outbound connections to malicious C2 servers, network admins implement egress filtering.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Blocks outbound network traffic. By denying servers from connecting out to arbitrary external ports (allowing only specific destination IPs or HTTP proxies), exfiltration and reverse shells are blocked",
       "spanish": "Para evitar que los servidores internos comprometidos establezcan conexiones salientes con servidores C2 maliciosos, los administradores de red implementan el filtrado de salida (egress filtering).",
       "usage": "Rule: <code>Deny all outbound traffic from database subnets to internet</code>"
     },

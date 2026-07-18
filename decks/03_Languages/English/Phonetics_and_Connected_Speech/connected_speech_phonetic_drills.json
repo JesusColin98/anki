@@ -1,0 +1,182 @@
+[
+  {
+    "id": "phon_drill_00000001",
+    "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Connected_Speech_Phonetic_Drills",
+    "template": "T19_PhoneticDrill",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "phonetics",
+        "connected_speech",
+        "flap_t"
+      ]
+    },
+    "content": {
+      "target_phrase": "What do you want?",
+      "ipa_transcription": "/ˈwʌdəjə ˈwɑːnt/",
+      "audio_path": "audio/phonetics/what_do_you_want.mp3",
+      "phonological_rules": "Flap T reduction of /t/ to a rapid /d/ tap between vowels, and vowel reduction of 'you' to schwa /jə/.",
+      "register_context": "Highly casual, native spoken speed. Standard American English.",
+      "spanish": "Reducción y flap T en la pregunta: 'What do you want?'",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "phon_drill_00000002",
+    "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Connected_Speech_Phonetic_Drills",
+    "template": "T19_PhoneticDrill",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "phonetics",
+        "connected_speech",
+        "yod_coalescence"
+      ]
+    },
+    "content": {
+      "target_phrase": "Could you check this?",
+      "ipa_transcription": "/ˈkʊdʒuː ˈtʃek ðɪs/",
+      "audio_path": "audio/phonetics/could_you_check.mp3",
+      "phonological_rules": "Yod coalescence: the terminal /d/ in 'could' merges with the initial /j/ in 'you' to produce the affricate sound /dʒ/.",
+      "register_context": "Standard conversational English. Used in both workplace and informal registers.",
+      "spanish": "Fusión del sonido /d/ + /j/ en la frase: 'Could you check this?'",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "phon_drill_00000003",
+    "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Connected_Speech_Phonetic_Drills",
+    "template": "T19_PhoneticDrill",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "phonetics",
+        "connected_speech",
+        "schwa_reduction"
+      ]
+    },
+    "content": {
+      "target_phrase": "Let's grab a cup of coffee.",
+      "ipa_transcription": "/lets ˈɡræbə ˈkʌpə ˈkɔːfi/",
+      "audio_path": "audio/phonetics/grab_cup_coffee.mp3",
+      "phonological_rules": "Weak vowel reduction: article 'a' reduces to /ə/, and the preposition 'of' reduces to a simple schwa /ə/ with terminal consonant /v/ elided entirely.",
+      "register_context": "Casual spoken speed. Commonly heard in social interactions.",
+      "spanish": "Reducción de vocales débiles a schwa en la frase: 'Let's grab a cup of coffee.'",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "phon_drill_00000004",
+    "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Connected_Speech_Phonetic_Drills",
+    "template": "T19_PhoneticDrill",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "phonetics",
+        "connected_speech",
+        "liaison"
+      ]
+    },
+    "content": {
+      "target_phrase": "Turn it off.",
+      "ipa_transcription": "/tɜːr.nɪ.tɒf/",
+      "audio_path": "audio/phonetics/turn_it_off.mp3",
+      "phonological_rules": "Consonant-to-vowel linking (resyllabification): terminal consonant /n/ of 'turn' links to 'it', and the flap-repaired /t/ of 'it' links to 'off', resulting in phonetic grouping similar to 'tur-ni-toff'.",
+      "register_context": "Standard natural spoken English.",
+      "spanish": "Encadenamiento consonante-vocal (enlace fonético) en: 'Turn it off.'",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "phon_drill_00000005",
+    "deck": "03_Languages::English::Phonetics_and_Connected_Speech::Connected_Speech_Phonetic_Drills",
+    "template": "T19_PhoneticDrill",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "phonetics",
+        "connected_speech",
+        "h_dropping"
+      ]
+    },
+    "content": {
+      "target_phrase": "Tell him to do it.",
+      "ipa_transcription": "/ˈtelɪm tə ˈduːɪt/",
+      "audio_path": "audio/phonetics/tell_him_do_it.mp3",
+      "phonological_rules": "Weak form H-dropping: the weak pronoun 'him' drops the initial /h/ sound, causing it to link to 'tell' (sounding like 'tell-im'). The particle 'to' reduces to /tə/.",
+      "register_context": "Fast conversational register.",
+      "spanish": "Caída del sonido /h/ en pronombres débiles y encadenamiento en: 'Tell him to do it.'",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

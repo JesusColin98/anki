@@ -378,7 +378,7 @@
     "content": {
       "scenario": "Multimodal AI: Audio and Speech 🗣️",
       "text": "Speech-to-text and text-to-speech systems convert between {{c1::audio}} and language for conversational experiences.",
-      "explanation": "The term \"audio\" refers to AI is essential for voice assistants, transcription, and accessibility tools.. In context: \"Speech-to-text and text-to-speech systems convert between audio and language for conversational experiences.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "AI is essential for voice assistants, transcription, and accessibility tools",
       "spanish": "Los sistemas de voz a texto y texto a voz convierten entre audio y lenguaje para experiencias conversacionales.",
       "usage": "Used in call centers, dictation tools, and assistive technologies."
     },
@@ -858,7 +858,7 @@
     "content": {
       "scenario": "Advanced RAG: GraphRAG 🕸️",
       "text": "To capture global, high-level summaries of massive text datasets, {{c1::GraphRAG}} builds knowledge graphs using LLMs and clusters them with algorithms like {{c2::Leiden community detection}}.",
-      "explanation": "The term \"GraphRAG\" refers to extracts structured entities and relations from texts to construct a Knowledge Graph. It then groups nodes into hierarchical communities. When a user asks a global query (e.g., 'What are the main issues in this repository?'), the model summarizes the clusters instead of performing keyword searches.. In context: \"To capture global, high-level summaries of massive text datasets, GraphRAG builds knowledge graphs using LLMs and clusters them with algorithms like Leiden community detection.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Extracts structured entities and relations from texts to construct a Knowledge Graph. It then groups nodes into hierarchical communities. When a user asks a global query (e.g., 'What are the main issues in this repository?'), the model summarizes the clusters instead of performing keyword searches",
       "spanish": "Para capturar resúmenes globales de conjuntos de datos masivos, GraphRAG construye gráficos de conocimiento con LLMs y los agrupa mediante algoritmos como la detección de comunidades de Leiden.",
       "usage": "Perfect for broad corpus summaries, compliance audits, and architectural mapping."
     },
@@ -958,7 +958,7 @@
     "content": {
       "scenario": "Tech Map 2026: Query Expansion 🔍",
       "text": "To improve document retrieval recall by generating multiple variations of the user's query, RAG systems run {{c1::Query Expansion}}.",
-      "explanation": "The term \"Query Expansion\" refers to uses an LLM to rewrite a single query into 3-5 variations or sub-queries. This handles different wordings and synonyms, searching the vector database with all variations to yield a broader set of relevant documents.. In context: \"To improve document retrieval recall by generating multiple variations of the user's query, RAG systems run Query Expansion.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Uses an LLM to rewrite a single query into 3-5 variations or sub-queries. This handles different wordings and synonyms, searching the vector database with all variations to yield a broader set of relevant documents",
       "spanish": "Para mejorar la recuperación de documentos generando múltiples variaciones del prompt del usuario, los sistemas RAG ejecutan la expansión de consultas (Query Expansion).",
       "usage": "Common Query Expansion prompt: <code>Generate 3 alternative search queries for: [query]</code>."
     },
@@ -1060,7 +1060,7 @@
     "content": {
       "scenario": "Tech Map 2026: Hybrid Search 🔍",
       "text": "To combine semantic understanding and exact keyword matching, advanced RAG systems execute a {{c1::hybrid search}} merging vector and BM25 scores.",
-      "explanation": "The term \"hybrid search\" refers to runs both dense vector search (for semantic meaning) and sparse keyword search (for exact names, codes, or products), merging their scores using Reciprocal Rank Fusion (RRF).. In context: \"To combine semantic understanding and exact keyword matching, advanced RAG systems execute a hybrid search merging vector and BM25 scores.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Runs both dense vector search (for semantic meaning) and sparse keyword search (for exact names, codes, or products), merging their scores using Reciprocal Rank Fusion (RRF)",
       "spanish": "Para combinar la comprensión semántica y la coincidencia exacta de palabras clave, los sistemas RAG avanzados ejecutan una búsqueda híbrida (hybrid search) fusionando puntuaciones vectoriales y BM25.",
       "usage": "RRF formula combines rankings: \\(RRF(d) = \\sum \\frac{1}{k + r_m(d)}\\) where \\(r_m(d)\\) is document rank in search \\(m\\)."
     },

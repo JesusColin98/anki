@@ -248,7 +248,7 @@
     "content": {
       "scenario": "Networking: DNS Records 🌐",
       "text": "In DNS, a {{c1::CNAME}} (Canonical Name) record maps an alias hostname to another true hostname, whereas an {{c2::MX}} record specifies the mail servers for the domain.",
-      "explanation": "The term \"CNAME\" refers to is used for aliasing. MX (Mail Exchanger) determines email routing.. In context: \"In DNS, a CNAME (Canonical Name) record maps an alias hostname to another true hostname, whereas an MX record specifies the mail servers for the domain.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Is used for aliasing. MX (Mail Exchanger) determines email routing",
       "spanish": "En DNS, un registro CNAME mapea un nombre de alias a otro nombre real, mientras que un registro MX especifica los servidores de correo del dominio.",
       "usage": "CNAME example: <code>www.site.com -> site.com</code> | MX example: <code>site.com -> mail.server.com</code>"
     },
@@ -348,7 +348,7 @@
     "content": {
       "scenario": "Networking: Physical vs Logical 🌐",
       "text": "A {{c1::MAC Address}} is a physical, hardcoded hardware address operating at OSI Layer 2, while an {{c2::IP Address}} is a logical address operating at OSI Layer 3.",
-      "explanation": "The term \"MAC Address\" refers to es are assigned by manufacturers. IP addresses are assigned dynamically by network controllers (DHCP).. In context: \"A MAC Address is a physical, hardcoded hardware address operating at OSI Layer 2, while an IP Address is a logical address operating at OSI Layer 3.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Es are assigned by manufacturers. IP addresses are assigned dynamically by network controllers (DHCP)",
       "spanish": "Una dirección MAC es una dirección física de hardware de Capa 2, mientras que una dirección IP es una dirección lógica de Capa 3.",
       "usage": "MAC: <code>00:1A:2B:3C:4D:5E</code> (48 bits) | IP: <code>192.168.1.10</code> (32 bits)"
     },
@@ -546,7 +546,7 @@
     "content": {
       "scenario": "Networking: Diagnostic Tools 🌐",
       "text": "The diagnostic tool `ping` uses the {{c1::ICMP}} (Internet Control Message Protocol) protocol, sending Echo Request messages and listening for Echo Replies.",
-      "explanation": "The term \"ICMP\" refers to is used by network devices to send error messages and operational information.. In context: \"The diagnostic tool `ping` uses the ICMP (Internet Control Message Protocol) protocol, sending Echo Request messages and listening for Echo Replies.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Is used by network devices to send error messages and operational information",
       "spanish": "La herramienta de diagnóstico 'ping' utiliza el protocolo ICMP (Internet Control Message Protocol).",
       "usage": "Command: <code>ping 8.8.8.8</code> (sends ICMP Type 8, receives ICMP Type 0)"
     },
@@ -579,7 +579,7 @@
     "content": {
       "scenario": "Networking: Firewalls 🌐",
       "text": "A {{c1::Stateful}} firewall monitors the state of active connections and makes decisions based on the context of the traffic stream, whereas a {{c2::Stateless}} firewall filters packets individually based only on header rules.",
-      "explanation": "The term \"Stateful\" refers to firewalls track the TCP handshake state, preventing unsolicited packets from entering the network.. In context: \"A Stateful firewall monitors the state of active connections and makes decisions based on the context of the traffic stream, whereas a Stateless firewall filters packets individually based only on header rules.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Firewalls track the TCP handshake state, preventing unsolicited packets from entering the network",
       "spanish": "Un firewall stateful (con estado) monitorea el estado de las conexiones activas, mientras que uno stateless (sin estado) filtra paquetes individualmente.",
       "usage": "Stateful: <code>Allows return traffic automatically if connection was initiated inside.</code> | Stateless: <code>Requires rules for both inbound and outbound traffic.</code>"
     },
@@ -612,7 +612,7 @@
     "content": {
       "scenario": "Networking: VLANs 🌐",
       "text": "To split a single physical switch into multiple isolated logical broadcast domains, network engineers configure {{c1::VLANs}} (Virtual Local Area Networks) using the 802.1Q tagging standard.",
-      "explanation": "The term \"VLANs\" refers to improve security and network management by isolating traffic at Layer 2.. In context: \"To split a single physical switch into multiple isolated logical broadcast domains, network engineers configure VLANs (Virtual Local Area Networks) using the 802.1Q tagging standard.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Improve security and network management by isolating traffic at Layer 2",
       "spanish": "Para dividir un switch físico en múltiples dominios de difusión lógicos aislados, los ingenieros configuran VLANs (Virtual Local Area Networks).",
       "usage": "Standard: <code>IEEE 802.1Q</code> tagging on trunk ports."
     },
@@ -646,7 +646,7 @@
     "content": {
       "scenario": "Networking: Wi-Fi Security 🌐",
       "text": "The modern Wi-Fi security standard that replaced WPA2 and introduces Simultaneous Authentication of Equals (SAE) to resist offline dictionary attacks is {{c1::WPA3}}.",
-      "explanation": "The term \"WPA3\" refers to provides stronger encryption and protection even when users choose weak passwords.. In context: \"The modern Wi-Fi security standard that replaced WPA2 and introduces Simultaneous Authentication of Equals (SAE) to resist offline dictionary attacks is WPA3.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Provides stronger encryption and protection even when users choose weak passwords",
       "spanish": "El estándar moderno de seguridad Wi-Fi que reemplaza a WPA2 e introduce SAE para resistir ataques de diccionario fuera de línea es WPA3.",
       "usage": "Protocol improvement: <code>SAE (Simultaneous Authentication of Equals)</code> replaces PSK (Pre-Shared Key)."
     },

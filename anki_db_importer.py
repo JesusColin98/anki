@@ -957,7 +957,7 @@ def load_all_cards(base_dir=".", flatten=True):
             # Preserve original properties for model mapping & tag generation
             compiled["template"] = card["template"]
             compiled["original_tags"] = card.get("metadata", {}).get("tags", [])
-            compiled["model_name"] = "Engaging_Speaking_Model" if card["template"] == "T12_SpeakingPractice" else "Engaging_Cloze_Model"
+            compiled["model_name"] = "Engaging_Speaking_Model" if card["template"] in ["T12_SpeakingPractice", "T21_InterviewPrep"] else "Engaging_Cloze_Model"
             
             compiled_cards.append(compiled)
         except Exception as e:

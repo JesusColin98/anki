@@ -15,7 +15,7 @@
     "content": {
       "scenario": "ML Foundations: Bias and Variance ⚖️",
       "text": "A model with high {{c1::bias}} underfits the data, while high {{c2::variance}} overfits and fails to generalize.",
-      "explanation": "The term \"bias\" refers to -variance tradeoff is a core concept for choosing models, regularization, and validation strategies.. In context: \"A model with high bias underfits the data, while high variance overfits and fails to generalize.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "-variance tradeoff is a core concept for choosing models, regularization, and validation strategies",
       "spanish": "Un modelo con alto sesgo subajusta los datos, mientras que alta varianza sobreajusta y falla en generalizar.",
       "usage": "Fundamental for supervised learning, model selection, and debugging poor performance."
     },
@@ -1254,7 +1254,7 @@
     "content": {
       "scenario": "ML Math: Bootstrapping Sampling Mechanics 🎲",
       "text": "The statistical technique of {{c1::Bootstrapping}} estimates the sampling distribution of an estimator by performing {{c2::random sampling with replacement}} from the original dataset.",
-      "explanation": "The term \"Bootstrapping\" refers to generates multiple 'new' datasets of the same size as the original by drawing samples repeatedly, allowing some items to be selected multiple times (about 63.2% of original unique points are selected per bootstrap sample on average). It is used to calculate confidence intervals and stability.. In context: \"The statistical technique of Bootstrapping estimates the sampling distribution of an estimator by performing random sampling with replacement from the original dataset.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Generates multiple 'new' datasets of the same size as the original by drawing samples repeatedly, allowing some items to be selected multiple times (about 63.2% of original unique points are selected per bootstrap sample on average). It is used to calculate confidence intervals and stability",
       "spanish": "La técnica estadística de Bootstrapping estima la distribución muestral de un estimador al realizar un muestreo aleatorio con reemplazo del conjunto de datos original.",
       "usage": "The core sampling mechanism behind bagging algorithms like Random Forest (where out-of-bag samples act as validation)."
     },
@@ -1320,7 +1320,7 @@
     "content": {
       "scenario": "ML Math: Eigenvalues 🧮",
       "text": "To find the scaling factors of linear transformations along eigenvector directions, we solve the characteristic equation for {{c1::eigenvalues}}.",
-      "explanation": "The term \"eigenvalues\" refers to are scalars \\(\\lambda\\) such that \\(Av = \\lambda v\\) for a square matrix \\(A\\) and non-zero vector \\(v\\). They are crucial in PCA for determining the variance along principal components.. In context: \"To find the scaling factors of linear transformations along eigenvector directions, we solve the characteristic equation for eigenvalues.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Are scalars \\(\\lambda\\) such that \\(Av = \\lambda v\\) for a square matrix \\(A\\) and non-zero vector \\(v\\). They are crucial in PCA for determining the variance along principal components",
       "spanish": "Para encontrar los factores de escala de las transformaciones lineales a lo largo de las direcciones de los autovectores, resolvemos la ecuación característica para los autovalores (eigenvalues).",
       "usage": "We solve the characteristic equation: \\(\\det(A - \\lambda I) = 0\\) to find the eigenvalues."
     },
@@ -1353,7 +1353,7 @@
     "content": {
       "scenario": "ML Math: KL Divergence 🧮",
       "text": "To measure the difference between two probability distributions over the same event space, we use the {{c1::KL divergence}} (Kullback-Leibler).",
-      "explanation": "The term \"KL divergence\" refers to calculates the relative entropy. For distributions \\(P\\) and \\(Q\\), it is defined as \\(D_{KL}(P \\parallel Q) = \\sum P(x) \\log \\frac{P(x)}{Q(x)}\\). It is asymmetric and non-negative.. In context: \"To measure the difference between two probability distributions over the same event space, we use the KL divergence (Kullback-Leibler).\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Calculates the relative entropy. For distributions \\(P\\) and \\(Q\\), it is defined as \\(D_{KL}(P \\parallel Q) = \\sum P(x) \\log \\frac{P(x)}{Q(x)}\\). It is asymmetric and non-negative",
       "spanish": "Para medir la diferencia entre dos distribuciones de probabilidad sobre el mismo espacio de eventos, utilizamos la divergencia de KL (Kullback-Leibler).",
       "usage": "KL divergence is used in Variational Autoencoders (VAEs) to align the latent distribution with a standard Gaussian prior."
     },
@@ -1386,7 +1386,7 @@
     "content": {
       "scenario": "ML Math: Conjugate Gradient 🧮",
       "text": "To solve large, sparse symmetric positive-definite linear systems of equations, we use the iterative {{c1::Conjugate Gradient}} method.",
-      "explanation": "The term \"Conjugate Gradient\" refers to is an iterative method that finds the minimum of a quadratic function. It converges in at most \\(n\\) steps (in exact arithmetic) for an \\(n \\times n\\) matrix, using orthogonal search directions.. In context: \"To solve large, sparse symmetric positive-definite linear systems of equations, we use the iterative Conjugate Gradient method.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Is an iterative method that finds the minimum of a quadratic function. It converges in at most \\(n\\) steps (in exact arithmetic) for an \\(n \\times n\\) matrix, using orthogonal search directions",
       "spanish": "Para resolver sistemas de ecuaciones lineales grandes, dispersos, simétricos y definidos positivos, utilizamos el método iterativo del Gradiente Conjugado (Conjugate Gradient).",
       "usage": "Conjugate Gradient is preferred over direct matrix inversion (e.g. Cholesky) for very large, sparse systems."
     },
@@ -1419,7 +1419,7 @@
     "content": {
       "scenario": "ML Math: L-BFGS 🧮",
       "text": "To optimize functions with a large number of variables using quasi-Newton methods without storing the full Hessian, we use the {{c1::L-BFGS}} algorithm.",
-      "explanation": "The term \"L-BFGS\" refers to (Limited-memory BFGS) approximates the inverse Hessian matrix using only a small history of past gradient evaluations and position updates, reducing memory complexity from \\(O(n^2)\\) to \\(O(nd)\\).. In context: \"To optimize functions with a large number of variables using quasi-Newton methods without storing the full Hessian, we use the L-BFGS algorithm.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(Limited-memory BFGS) approximates the inverse Hessian matrix using only a small history of past gradient evaluations and position updates, reducing memory complexity from \\(O(n^2)\\) to \\(O(nd)\\)",
       "spanish": "Para optimizar funciones con un gran número de variables utilizando métodos quasi-Newton sin almacenar la matriz Hessiana completa, utilizamos el algoritmo L-BFGS.",
       "usage": "In PyTorch/Scikit-Learn, <code>L-BFGS</code> is often used as the optimizer for logistic regression or style transfer models."
     },
@@ -1618,7 +1618,7 @@
     "content": {
       "scenario": "Features: Target Encoding 📊",
       "text": "To convert high-cardinality categorical features into numerical values, you can replace each category with the mean of the target variable, a method called {{c1::Target Encoding}}.",
-      "explanation": "The term \"Target Encoding\" refers to (or mean encoding) maps categorical values to the average target value of the training samples within that category. It is highly effective but prone to data leakage and overfitting if not regularized.. In context: \"To convert high-cardinality categorical features into numerical values, you can replace each category with the mean of the target variable, a method called Target Encoding.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(or mean encoding) maps categorical values to the average target value of the training samples within that category. It is highly effective but prone to data leakage and overfitting if not regularized",
       "spanish": "Para convertir características categóricas de alta cardinalidad en valores numéricos, puedes reemplazar cada categoría con la media de la variable objetivo, un método llamado Codificación del Objetivo (Target Encoding).",
       "usage": "To prevent leakage, use out-of-fold target encoding or add smoothing parameters:<br><code>S = \\lambda \\cdot M_c + (1 - \\lambda) \\cdot M_{global}</code>"
     },
@@ -1651,7 +1651,7 @@
     "content": {
       "scenario": "Features: TF-IDF 📊",
       "text": "To represent text documents numerically by weighing terms based on their frequency in a document relative to their frequency across the corpus, you use {{c1::TF-IDF}}.",
-      "explanation": "The term \"TF-IDF\" refers to (Term Frequency-Inverse Document Frequency) down-weights common words (like 'the', 'is') that appear in many documents, while highlighting rare words that are highly descriptive of a specific document.. In context: \"To represent text documents numerically by weighing terms based on their frequency in a document relative to their frequency across the corpus, you use TF-IDF.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(Term Frequency-Inverse Document Frequency) down-weights common words (like 'the', 'is') that appear in many documents, while highlighting rare words that are highly descriptive of a specific document",
       "spanish": "Para representar documentos de texto numéricamente pesando los términos según su frecuencia en un documento en relación con su frecuencia en todo el corpus, utilizas TF-IDF.",
       "usage": "Formula: <code>TF-IDF = TF(t, d) * IDF(t)</code> where <code>IDF(t) = log(N / DF(t))</code>."
     },
@@ -1750,7 +1750,7 @@
     "content": {
       "scenario": "Features: Interaction Terms 📊",
       "text": "To capture non-linear relationships where the effect of one feature depends on the level of another, you generate {{c1::interaction terms}}.",
-      "explanation": "The term \"interaction terms\" refers to are created by multiplying or dividing two or more features (e.g. \\(x_1 \\cdot x_2\\)). They allow linear models to capture joint feature effects without switching to non-linear algorithms.. In context: \"To capture non-linear relationships where the effect of one feature depends on the level of another, you generate interaction terms.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Are created by multiplying or dividing two or more features (e.g. \\(x_1 \\cdot x_2\\)). They allow linear models to capture joint feature effects without switching to non-linear algorithms",
       "spanish": "Para capturar relaciones no lineales donde el efecto de una característica depende del nivel de otra, generas términos de interacción (interaction terms).",
       "usage": "In Scikit-Learn: <code>PolynomialFeatures(interaction_only=True)</code> generates interaction terms."
     },
@@ -2014,7 +2014,7 @@
     "content": {
       "scenario": "Supervised: Random Forest 🌲",
       "text": "To reduce variance and avoid overfitting, a Random Forest aggregates multiple decision trees trained using {{c1::bagging}}.",
-      "explanation": "The term \"bagging\" refers to (bootstrap aggregating) trains individual decision trees on random subsets of the data (sampled with replacement) and random subsets of features, averaging their predictions to obtain the final output.. In context: \"To reduce variance and avoid overfitting, a Random Forest aggregates multiple decision trees trained using bagging.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(bootstrap aggregating) trains individual decision trees on random subsets of the data (sampled with replacement) and random subsets of features, averaging their predictions to obtain the final output",
       "spanish": "Para reducir la varianza y evitar el sobreajuste, un Bosque Aleatorio (Random Forest) agrega múltiples árboles de decisión entrenados mediante empaquetamiento (bagging).",
       "usage": "In Scikit-Learn: <code>from sklearn.ensemble import RandomForestClassifier</code>."
     },
@@ -2278,7 +2278,7 @@
     "content": {
       "scenario": "Unsupervised: t-SNE Projection 🌀",
       "text": "To visualize high-dimensional datasets in 2D or 3D, {{c1::t-SNE}} converts Euclidean distances between data points into conditional probabilities that represent similarities.",
-      "explanation": "The term \"t-SNE\" refers to (t-Distributed Stochastic Neighbor Embedding) is a non-linear dimensionality reduction technique. It models local neighborhoods, preserving similarities so that close points in high dimensions remain close in low dimensions.. In context: \"To visualize high-dimensional datasets in 2D or 3D, t-SNE converts Euclidean distances between data points into conditional probabilities that represent similarities.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(t-Distributed Stochastic Neighbor Embedding) is a non-linear dimensionality reduction technique. It models local neighborhoods, preserving similarities so that close points in high dimensions remain close in low dimensions",
       "spanish": "Para visualizar conjuntos de datos de alta dimensión en 2D o 3D, t-SNE convierte las distancias euclidianas entre los puntos de datos en probabilidades condicionales que representan similitudes.",
       "usage": "Scikit-Learn: <code>from sklearn.manifold import TSNE; tsne = TSNE(n_components=2)</code>."
     },
@@ -2311,7 +2311,7 @@
     "content": {
       "scenario": "Unsupervised: DBSCAN Noise 🌀",
       "text": "Unlike K-Means, the density-based clustering algorithm {{c1::DBSCAN}} does not require specifying the number of clusters and can isolate noise points.",
-      "explanation": "The term \"DBSCAN\" refers to (Density-Based Spatial Clustering of Applications with Noise) groups points that are close to each other based on two parameters: <code>eps</code> (radius) and <code>min_samples</code>. Points in low-density regions are marked as noise/outliers.. In context: \"Unlike K-Means, the density-based clustering algorithm DBSCAN does not require specifying the number of clusters and can isolate noise points.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(Density-Based Spatial Clustering of Applications with Noise) groups points that are close to each other based on two parameters: <code>eps</code> (radius) and <code>min_samples</code>. Points in low-density regions are marked as noise/outliers",
       "spanish": "A diferencia de K-Means, el algoritmo de agrupamiento basado en densidad DBSCAN no requiere especificar el número de grupos y puede aislar puntos de ruido.",
       "usage": "DBSCAN labels noise points as <code>-1</code> in Scikit-Learn."
     },
@@ -2377,7 +2377,7 @@
     "content": {
       "scenario": "Unsupervised: Isolation Forest 🌀",
       "text": "To detect anomalies by isolating data points rather than profiling normal behavior, we use the {{c1::Isolation Forest}} algorithm.",
-      "explanation": "The term \"Isolation Forest\" refers to isolates anomalies by randomly partitioning features. Since anomalies require fewer partitions to isolate, they appear closer to the root of the generated decision trees.. In context: \"To detect anomalies by isolating data points rather than profiling normal behavior, we use the Isolation Forest algorithm.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Isolates anomalies by randomly partitioning features. Since anomalies require fewer partitions to isolate, they appear closer to the root of the generated decision trees",
       "spanish": "Para detectar anomalías aislando puntos de datos en lugar de perfilar el comportamiento normal, utilizamos el algoritmo Bosque de Aislamiento (Isolation Forest).",
       "usage": "Anomalies have shorter average path lengths in the trees of an Isolation Forest."
     },
@@ -2674,7 +2674,7 @@
     "content": {
       "scenario": "Metrics: Log Loss 📐",
       "text": "To evaluate classification models based on predicted probabilities rather than hard class labels, we calculate {{c1::Log Loss}} (Cross-Entropy).",
-      "explanation": "The term \"Log Loss\" refers to measures the uncertainty of predictions. It penalizes incorrect predictions heavily if the model was highly confident (predicted probability close to 1 or 0).. In context: \"To evaluate classification models based on predicted probabilities rather than hard class labels, we calculate Log Loss (Cross-Entropy).\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Measures the uncertainty of predictions. It penalizes incorrect predictions heavily if the model was highly confident (predicted probability close to 1 or 0)",
       "spanish": "Para evaluar los modelos de clasificación basándose en las probabilidades predichas en lugar de etiquetas de clase directas, calculamos la pérdida logarítmica (Log Loss).",
       "usage": "Log Loss formula for binary classification: \\(L = -\\frac{1}{N} \\sum [y_i \\log(p_i) + (1-y_i) \\log(1-p_i)]\\)."
     },
@@ -2707,7 +2707,7 @@
     "content": {
       "scenario": "Metrics: MAPE 📐",
       "text": "To express forecasting errors as a percentage of the actual values, regression tasks evaluate the {{c1::MAPE}} metric.",
-      "explanation": "The term \"MAPE\" refers to (Mean Absolute Percentage Error) measures the size of the error in percentage terms. It is defined as the average of the absolute percentage differences between predicted and actual values.. In context: \"To express forecasting errors as a percentage of the actual values, regression tasks evaluate the MAPE metric.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(Mean Absolute Percentage Error) measures the size of the error in percentage terms. It is defined as the average of the absolute percentage differences between predicted and actual values",
       "spanish": "Para expresar los errores de pronóstico como un porcentaje de los valores reales, las tareas de regresión evalúan la métrica MAPE.",
       "usage": "Formula: \\(\\text{MAPE} = \\frac{100\\%}{n} \\sum \\left| \\frac{y_i - \\hat{y}_i}{y_i} \\right|\\). Note: MAPE is undefined if \\(y_i = 0\\)."
     },
@@ -2971,7 +2971,7 @@
     "content": {
       "scenario": "Explainability: LIME Model 🔍",
       "text": "To explain individual predictions of any black-box model, {{c1::LIME}} trains a local interpretable surrogate model around the prediction.",
-      "explanation": "The term \"LIME\" refers to (Local Interpretable Model-agnostic Explanations) perturbs the input sample, gets predictions from the black-box model, and fits a simple linear model (surrogate) weighted by proximity to explain the local decision boundary.. In context: \"To explain individual predictions of any black-box model, LIME trains a local interpretable surrogate model around the prediction.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(Local Interpretable Model-agnostic Explanations) perturbs the input sample, gets predictions from the black-box model, and fits a simple linear model (surrogate) weighted by proximity to explain the local decision boundary",
       "spanish": "Para explicar predicciones individuales de cualquier modelo de caja negra, LIME entrena un modelo sustituto interpretable local alrededor de la predicción.",
       "usage": "LIME is agnostic, meaning it can explain any model (Random Forest, Neural Networks, SVMs) for text, images, or tabular data."
     },
@@ -3037,7 +3037,7 @@
     "content": {
       "scenario": "Optimization: Adam 🔍",
       "text": "For training deep neural networks efficiently, the {{c1::Adam}} optimizer computes adaptive learning rates for each parameter using estimates of first and second moments.",
-      "explanation": "The term \"Adam\" refers to (Adaptive Moment Estimation) combines the principles of Momentum (storing past gradients) and RMSProp (scaling gradients by the root mean square of past gradients).. In context: \"For training deep neural networks efficiently, the Adam optimizer computes adaptive learning rates for each parameter using estimates of first and second moments.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(Adaptive Moment Estimation) combines the principles of Momentum (storing past gradients) and RMSProp (scaling gradients by the root mean square of past gradients)",
       "spanish": "Para entrenar redes neuronales profundas eficientemente, el optimizador Adam calcula tasas de aprendizaje adaptativas para cada parámetro utilizando estimaciones de primer y segundo momento.",
       "usage": "Adam parameters typically default to: \\(\\beta_1 = 0.9\\), \\(\\beta_2 = 0.999\\), and \\(\\epsilon = 10^{-8}\\)."
     },
@@ -3200,7 +3200,7 @@
     "content": {
       "scenario": "AI Engineering: Concept Drift 📖",
       "text": "When the statistical properties of the target variable change over time, the model performance degrades; this is known as {{c1::concept drift}}.",
-      "explanation": "The term \"concept drift\" refers to occurs when the mapping function \\(f(x) \\to y\\) changes (e.g. consumer purchasing habits shift). It differs from data drift (where the input feature distribution \\(P(x)\\) changes).. In context: \"When the statistical properties of the target variable change over time, the model performance degrades; this is known as concept drift.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Occurs when the mapping function \\(f(x) \\to y\\) changes (e.g. consumer purchasing habits shift). It differs from data drift (where the input feature distribution \\(P(x)\\) changes)",
       "spanish": "Cuando las propiedades estadísticas de la variable objetivo cambian con el tiempo, el rendimiento del modelo se degrada; esto se conoce como deriva de concepto (concept drift).",
       "usage": "To mitigate concept drift, set up monitoring pipelines and automate model retraining when performance drops below a threshold."
     },
@@ -3233,7 +3233,7 @@
     "content": {
       "scenario": "AI Engineering: Distillation 📖",
       "text": "To compress a massive, expensive model into a smaller, faster model with minimal performance loss, we use {{c1::knowledge distillation}}.",
-      "explanation": "The term \"knowledge distillation\" refers to trains a small 'student' model to match the output probability distribution (soft targets) generated by a larger, pre-trained 'teacher' model, transmitting its dark knowledge.. In context: \"To compress a massive, expensive model into a smaller, faster model with minimal performance loss, we use knowledge distillation.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Trains a small 'student' model to match the output probability distribution (soft targets) generated by a larger, pre-trained 'teacher' model, transmitting its dark knowledge",
       "spanish": "Para comprimir un modelo masivo y costoso en un modelo más pequeño y rápido con una pérdida de rendimiento mínima, utilizamos la destilación de conocimiento (knowledge distillation).",
       "usage": "The student model is optimized using a loss function that combines hard targets (ground truth) and soft targets (teacher outputs)."
     },
@@ -3266,7 +3266,7 @@
     "content": {
       "scenario": "AI Engineering: Dynamic Batching 📖",
       "text": "To maximize GPU utility and throughput during model serving, hosting systems implement {{c1::dynamic batching}}.",
-      "explanation": "The term \"dynamic batching\" refers to groups incoming individual inference requests into a single batch on the fly, holding them for a tiny window (e.g. 5ms) to process them together, maximizing GPU parallel execution.. In context: \"To maximize GPU utility and throughput during model serving, hosting systems implement dynamic batching.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Groups incoming individual inference requests into a single batch on the fly, holding them for a tiny window (e.g. 5ms) to process them together, maximizing GPU parallel execution",
       "spanish": "Para maximizar la utilidad de la GPU y el rendimiento durante el servicio del modelo, los sistemas de alojamiento implementan el procesamiento por lotes dinámico (dynamic batching).",
       "usage": "Triton Inference Server and vLLM implement advanced dynamic batching engines."
     },
@@ -3398,7 +3398,7 @@
     "content": {
       "scenario": "AI Engineering: Data Lineage 📖",
       "text": "To debug pipeline issues and comply with audits, you must track the historical origin, path, and transformation of training datasets, a practice called {{c1::data lineage}}.",
-      "explanation": "The term \"data lineage\" refers to tracks how data flows from sources to destinations, documenting every transformation step. This ensures reproducibility and helps isolate where errors were introduced.. In context: \"To debug pipeline issues and comply with audits, you must track the historical origin, path, and transformation of training datasets, a practice called data lineage.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Tracks how data flows from sources to destinations, documenting every transformation step. This ensures reproducibility and helps isolate where errors were introduced",
       "spanish": "Para depurar problemas en las canalizaciones y cumplir con auditorías, debes rastrear el origen histórico, ruta y transformación de los conjuntos de datos de entrenamiento, una práctica llamada linaje de datos (data lineage).",
       "usage": "Data lineage tools like <code>OpenLineage</code> record metadata at each stage of the data pipeline."
     },
@@ -3818,6 +3818,143 @@
       "explanation": "Explains the Hugging Face library ecosystem (transformers, datasets, tokenizers, accelerate) with step-by-step guides on fine-tuning models for diverse NLP tasks (classification, NER, translation, summarization).",
       "spanish": "Escrito por ingenieros principales de Hugging Face, 'Natural Language Processing with Transformers' de Tunstall, von Werra y Wolf es la guía definitiva para bibliotecas de Hugging Face y transformers.",
       "usage": "Core Concepts: Hugging Face Ecosystem, Self-Attention, Text Classification, Named Entity Recognition, Text Generation.<br>Official Link: <a href=\"https://www.oreilly.com/library/view/natural-language-processing/9781492092568/\">NLP with Transformers Book</a>"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "lstm_structure",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "lstm",
+        "rnn",
+        "memory",
+        "deep_learning"
+      ]
+    },
+    "content": {
+      "concept": "LSTM (Long Short-Term Memory)",
+      "mermaid_code": "graph TD\n    Input[Input x_t] --> ForgetGate[\"Forget Gate (f_t)\"]\n    Input --> InputGate[\"Input Gate (i_t)\"]\n    Input --> OutputGate[\"Output Gate (o_t)\"]\n    CellStatePrev[Prev Cell State c_t-1] --> CellMath[\"Cell State Update (c_t)\"]\n    ForgetGate --> CellMath\n    InputGate --> CellMath\n    CellMath --> OutputGate\n    OutputGate --> HiddenState[\"New Hidden State h_t\"]",
+      "explanation": "LSTMs solve the vanishing gradient problem in RNNs by introducing a cell state (c_t) and gate mechanisms (forget, input, output gates) that control what information is written, read, or erased over time.",
+      "spanish": "Las redes LSTM resuelven el gradiente desvanecido de las RNN introduciendo un estado de celda y compuertas (olvido, entrada, salida) que controlan la retención de información.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "fnn_definition",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "beginner",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "fnn",
+        "neural_networks",
+        "foundations"
+      ]
+    },
+    "content": {
+      "concept": "Feedforward Neural Network (FNN)",
+      "mermaid_code": "graph LR\n    In1[\"Input x1\"] --> H1[\"Hidden h1\"]\n    In1 --> H2[\"Hidden h2\"]\n    In2[\"Input x2\"] --> H1\n    In2 --> H2\n    H1 --> Out[\"Output y\"]\n    H2 --> Out",
+      "explanation": "Feedforward Neural Networks pass information strictly forward from input to output layers. There are no backward feedback loops or cycles in FNNs, distinguishing them from recurrent networks.",
+      "spanish": "Las redes feedforward pasan información únicamente hacia adelante desde las entradas a las salidas, sin ciclos ni conexiones recurrentes hacia atrás.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "cnn_definition",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "beginner",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "cnn",
+        "convolutional",
+        "computer_vision"
+      ]
+    },
+    "content": {
+      "concept": "Convolutional Neural Network (CNN)",
+      "mermaid_code": "graph LR\n    Input[\"Input (2D Grid)\"] --> Kernel[\"Convolutional Kernel\"]\n    Kernel --> FeatureMap[\"Feature Map\"]\n    FeatureMap --> Pooling[\"Max Pooling\"]\n    Pooling --> FC[\"Fully Connected Layer\"]\n    FC --> Out[\"Output (Class)\"]",
+      "explanation": "CNNs utilize localized spatial kernels (filters) to sweep inputs. This implements parameter sharing and translation invariance, making CNNs optimal for grids and image processing.",
+      "spanish": "Las CNN utilizan filtros o kernels espaciales localizados para procesar datos de cuadrícula o imágenes, logrando invarianza a la translación y compartición de parámetros.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "rnn_definition",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::Classical_and_Deep_Learning::Statistical_Ml_And_Neural_Nets",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "intermediate",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "rnn",
+        "recurrent",
+        "sequential"
+      ]
+    },
+    "content": {
+      "concept": "Recurrent Neural Network (RNN)",
+      "mermaid_code": "graph TD\n    xt[\"Input x_t\"] --> Cell[\"Recurrent Cell\"]\n    ht_prev[\"Prev State h_t-1\"] --> Cell\n    Cell --> ht[\"New State h_t\"]\n    Cell --> yt[\"Output y_t\"]\n    ht -.->|Time Step Delay| ht_prev",
+      "explanation": "RNNs process sequential inputs step-by-step by preserving a recurrent hidden state (memory) updated at each step. They suffer from vanishing/exploding gradients over long sequence horizons.",
+      "spanish": "Las redes RNN procesan secuencias paso a paso manteniendo un estado oculto recurrente como memoria, aunque sufren de desvanecimiento de gradiente en secuencias largas.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
     },
     "mnemonics": {
       "palace_name": "",

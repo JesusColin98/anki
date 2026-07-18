@@ -116,7 +116,7 @@
     "content": {
       "scenario": "Reconnaissance: Strategy 🛡️",
       "text": "The difference between active and passive reconnaissance is that {{c1::active}} recon directly interacts with the target system (generating logs), whereas {{c2::passive}} recon gathers data from third-party sources without direct target contact.",
-      "explanation": "The term \"active\" refers to recon includes port scanning. Passive recon includes OSINT search, DNS harvesting, and looking up WHOIS records.. In context: \"The difference between active and passive reconnaissance is that active recon directly interacts with the target system (generating logs), whereas passive recon gathers data from third-party sources without direct target contact.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Recon includes port scanning. Passive recon includes OSINT search, DNS harvesting, and looking up WHOIS records",
       "spanish": "La diferencia entre reconocimiento activo y pasivo es que el activo interactúa directamente con el sistema objetivo, mientras que el pasivo recopila datos de fuentes secundarias sin contacto directo.",
       "usage": "Active: <code>nmap scan</code> | Passive: <code>Google Dorking, Shodan lookup</code>"
     },
@@ -316,7 +316,7 @@
     "content": {
       "scenario": "Reconnaissance: DNS 🛡️",
       "text": "To query registration records of a domain name (including registrant contact info, name servers, and expiration dates), analysts use the {{c1::WHOIS}} query tool.",
-      "explanation": "The term \"WHOIS\" refers to databases are maintained by registrars and contain ownership details useful for social engineering and organization mapping.. In context: \"To query registration records of a domain name (including registrant contact info, name servers, and expiration dates), analysts use the WHOIS query tool.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Databases are maintained by registrars and contain ownership details useful for social engineering and organization mapping",
       "spanish": "Para consultar los registros de registro de un dominio (como datos de contacto e información de registro), se utiliza la herramienta WHOIS.",
       "usage": "Command: <code>whois targetdomain.com</code>"
     },
@@ -349,7 +349,7 @@
     "content": {
       "scenario": "Reconnaissance: Scanning Engines 🛡️",
       "text": "The search engine dedicated to indexing internet-connected devices, servers, smart home appliances, and open ports is {{c1::Shodan}}.",
-      "explanation": "The term \"Shodan\" refers to crawls the internet continuously and gathers banners from open ports, making passive reconnaissance easy.. In context: \"The search engine dedicated to indexing internet-connected devices, servers, smart home appliances, and open ports is Shodan.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Crawls the internet continuously and gathers banners from open ports, making passive reconnaissance easy",
       "spanish": "El motor de búsqueda dedicado a indexar dispositivos conectados a Internet, servidores y puertos abiertos es Shodan.",
       "usage": "Search filter: <code>port:22 country:\"US\"</code>"
     },

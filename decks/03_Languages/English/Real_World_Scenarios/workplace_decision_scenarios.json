@@ -1,0 +1,192 @@
+[
+  {
+    "id": "work_dec_00000001",
+    "deck": "03_Languages::English::Real_World_Scenarios::Workplace_Decision_Scenarios",
+    "template": "T20_DecisionScenario",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "workplace",
+        "conflict",
+        "customer_service"
+      ]
+    },
+    "content": {
+      "scenario": "A client is furious because their service has been down for 2 hours, hurting their business. They demand a full refund and are shouting.",
+      "options": [
+        "Interrupt and state the Terms of Service which limit outage liabilities.",
+        "Empathize with their loss, explain that the engineering team is actively mitigating, and offer a proactive service credit.",
+        "Escalate the ticket to your manager immediately without engaging them."
+      ],
+      "consequences": "Option 1 causes immediate escalation and churn. Option 3 frustrates the client because of transfer delays. Option 2 successfully validates their problem, diffuses anger, and provides a clear next step.",
+      "success_metric": "Customer retention rate = 100% and customer satisfaction score (CSAT) >= 4/5",
+      "spanish": "Manejo de incidentes con clientes enojados debido a interrupciones críticas en sistemas de producción.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "work_dec_00000002",
+    "deck": "03_Languages::English::Real_World_Scenarios::Workplace_Decision_Scenarios",
+    "template": "T20_DecisionScenario",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "workplace",
+        "scope_creep",
+        "negotiation"
+      ]
+    },
+    "content": {
+      "scenario": "A Product Manager requests an out-of-scope feature 3 days before code freeze, claiming it is vital for a customer demo.",
+      "options": [
+        "Agree to build it by working overtime, risking code stability.",
+        "Refuse immediately, causing friction with the product team.",
+        "Explain the risk to launch stability and propose scheduling it for Phase 2 or swapping it with a lower-priority feature."
+      ],
+      "consequences": "Option 1 leads to bugs in production and team burn-out. Option 2 damages cross-team relationship. Option 3 negotiates scope constructively while protecting the release quality.",
+      "success_metric": "On-time release rate = 100% and zero critical bugs introduced in production",
+      "spanish": "Negociación de alcance (scope creep) de último momento con product managers salvaguardando la calidad del código.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "work_dec_00000003",
+    "deck": "03_Languages::English::Real_World_Scenarios::Workplace_Decision_Scenarios",
+    "template": "T20_DecisionScenario",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "workplace",
+        "compliance",
+        "security"
+      ]
+    },
+    "content": {
+      "scenario": "A Senior Manager asks you to bypass standard pull request security gates to deploy a quick bug fix directly to main.",
+      "options": [
+        "Bypass the gates to maintain manager approval.",
+        "Politely decline, explain the compliance risk, and offer to expedite a fast-track code review through normal gates.",
+        "Report the manager to compliance immediately."
+      ],
+      "consequences": "Option 1 compromises audit logs and introduces risk. Option 3 causes severe professional damage. Option 2 upholds compliance rules while offering a practical alternative.",
+      "success_metric": "Compliance audit compliance = 100% and time to hotfix deploy under 1 hour",
+      "spanish": "Rechazar peticiones para saltarse los protocolos de seguridad de código de forma constructiva.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "work_dec_00000004",
+    "deck": "03_Languages::English::Real_World_Scenarios::Workplace_Decision_Scenarios",
+    "template": "T20_DecisionScenario",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "workplace",
+        "planning",
+        "deadline"
+      ]
+    },
+    "content": {
+      "scenario": "You realize a database migration task is taking longer than planned, and you will miss the Friday release deadline.",
+      "options": [
+        "Hope to finish it late and deploy on Saturday without notifying anyone.",
+        "Alert the team immediately on Wednesday, explain the blockers, and present a revised estimate with testing coverage details.",
+        "Wait until Friday afternoon to notify stakeholders of the delay."
+      ],
+      "consequences": "Option 1 causes stealth deployments which lead to outages. Option 3 leaves no time for the team to pivot. Option 2 allows the team to adjust schedules and assist in unblocking.",
+      "success_metric": "Team coordination rating = High and stakeholder surprise rate = 0%",
+      "spanish": "Notificación anticipada de retrasos en entregas críticas de ingeniería.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "work_dec_00000005",
+    "deck": "03_Languages::English::Real_World_Scenarios::Workplace_Decision_Scenarios",
+    "template": "T20_DecisionScenario",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "03_Languages",
+      "tags": [
+        "workplace",
+        "code_review",
+        "collaboration"
+      ]
+    },
+    "content": {
+      "scenario": "A peer left comments blocking your PR, insisting on an architectural pattern you believe is over-engineered.",
+      "options": [
+        "Argue in the PR comments section until they back down.",
+        "Ignore the comments, ask another peer for approval, and merge.",
+        "Schedule a quick 10-minute sync to understand their concerns, present your trade-offs, and align on a compromise."
+      ],
+      "consequences": "Option 1 causes toxic comment threads. Option 2 bypasses peer trust. Option 3 fosters collaborative discussion and prevents miscommunication.",
+      "success_metric": "Pull Request review cycle time under 24 hours and team trust index = High",
+      "spanish": "Resolución de desacuerdos arquitectónicos bloqueantes durante la revisión de código.",
+      "usage": ""
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  }
+]

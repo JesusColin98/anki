@@ -213,7 +213,7 @@
     "content": {
       "scenario": "LLM Foundations: Hallucination 🌀",
       "text": "A {{c1::hallucination}} is a confident but unsupported answer produced by the model.",
-      "explanation": "The term \"hallucination\" refers to s are one of the biggest risks in production LLM systems and require grounding and evaluation.. In context: \"A hallucination is a confident but unsupported answer produced by the model.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "S are one of the biggest risks in production LLM systems and require grounding and evaluation",
       "spanish": "Una alucinación es una respuesta segura pero no sustentada producida por el modelo.",
       "usage": "Critical in legal, medical, and enterprise knowledge assistants."
     },
@@ -1746,7 +1746,7 @@
     "content": {
       "scenario": "LLM: Attention Mechanism 🤖",
       "text": "The core of the Transformer architecture is the computation of {{c1::scaled dot-product attention}}, which maps queries, keys, and values.",
-      "explanation": "The term \"scaled dot-product attention\" refers to measures the similarity between Queries and Keys, scales the results by the square root of key dimension \\(\\sqrt{d_k}\\) to prevent vanishing gradients, applies Softmax, and multiplies by Values.. In context: \"The core of the Transformer architecture is the computation of scaled dot-product attention, which maps queries, keys, and values.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Measures the similarity between Queries and Keys, scales the results by the square root of key dimension \\(\\sqrt{d_k}\\) to prevent vanishing gradients, applies Softmax, and multiplies by Values",
       "spanish": "El núcleo de la arquitectura Transformer es el cálculo de la atención de producto escalar escalado (scaled dot-product attention), que mapea consultas, claves y valores.",
       "usage": "Attention formula: \\(\\text{Attention}(Q, K, V) = \\text{softmax}\\left(\\frac{QK^T}{\\sqrt{d_k}}\\right)V\\)."
     },
@@ -1779,7 +1779,7 @@
     "content": {
       "scenario": "LLM: Transformer Block 🤖",
       "text": "A standard encoder-decoder {{c1::Transformer}} block consists of multi-head self-attention, layer normalization, residual connections, and position-wise feed-forward networks.",
-      "explanation": "The term \"Transformer\" refers to s discard recurrence (RNNs) entirely, using self-attention to process tokens in parallel, which makes them highly scalable for training on GPUs.. In context: \"A standard encoder-decoder Transformer block consists of multi-head self-attention, layer normalization, residual connections, and position-wise feed-forward networks.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "S discard recurrence (RNNs) entirely, using self-attention to process tokens in parallel, which makes them highly scalable for training on GPUs",
       "spanish": "Un bloque Transformer estándar codificador-decodificador consta de autoatención de múltiples cabezales, normalización de capa, conexiones residuales y redes de alimentación hacia adelante según la posición.",
       "usage": "First introduced in the seminal paper 'Attention Is All You Need' by Vaswani et al. in 2017."
     },
@@ -1812,7 +1812,7 @@
     "content": {
       "scenario": "LLM: Tokenization 🤖",
       "text": "To split natural language text into sub-word units before feeding them to an LLM, current models utilize {{c1::Byte-Pair Encoding (BPE)}}.",
-      "explanation": "The term \"Byte-Pair Encoding (BPE)\" refers to is a sub-word tokenization algorithm. It begins with a character-level vocabulary and iteratively merges the most frequent byte pairs in a corpus to create a fixed-size vocabulary.. In context: \"To split natural language text into sub-word units before feeding them to an LLM, current models utilize Byte-Pair Encoding (BPE).\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Is a sub-word tokenization algorithm. It begins with a character-level vocabulary and iteratively merges the most frequent byte pairs in a corpus to create a fixed-size vocabulary",
       "spanish": "Para dividir el texto en lenguaje natural en unidades de subpalabras antes de ingresarlas a un LLM, los modelos actuales utilizan la codificación de pares de bytes (BPE).",
       "usage": "Tokenizers like tiktoken (OpenAI) or SentencePiece (Meta) implement variants of Byte-Pair Encoding."
     },
@@ -1845,7 +1845,7 @@
     "content": {
       "scenario": "LLM: Pre-training 🤖",
       "text": "To learn grammar, world knowledge, and reasoning, base LLMs undergo unsupervised pre-training on large corpora using the {{c1::causal language modeling}} objective.",
-      "explanation": "The term \"causal language modeling\" refers to (or next-token prediction) masks future tokens, forcing the model to predict the next token given only the left context: \\(P(w_t \\mid w_1, w_2, \\dots, w_{t-1})\\).. In context: \"To learn grammar, world knowledge, and reasoning, base LLMs undergo unsupervised pre-training on large corpora using the causal language modeling objective.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "(or next-token prediction) masks future tokens, forcing the model to predict the next token given only the left context: \\(P(w_t \\mid w_1, w_2, \\dots, w_{t-1})\\)",
       "spanish": "Para aprender gramática, conocimiento del mundo y razonamiento, los LLM base se someten a un preentrenamiento no supervisado en grandes corpus utilizando el objetivo de modelado de lenguaje causal (causal language modeling).",
       "usage": "Decoder-only models (like GPT-4, Llama) are pre-trained using causal language modeling."
     },
@@ -2107,7 +2107,7 @@
     "content": {
       "scenario": "Advanced LLM: Quantization 🤖",
       "text": "To reduce model memory footprint and speed up inference, weights are converted from 16-bit float to lower precision formats (e.g. 8-bit or 4-bit) using {{c1::quantization}}.",
-      "explanation": "The term \"quantization\" refers to maps high-precision floating point numbers to lower-precision integers (like INT8 or INT4) by scaling and rounding, minimizing information loss using calibration data.. In context: \"To reduce model memory footprint and speed up inference, weights are converted from 16-bit float to lower precision formats (e.g. 8-bit or 4-bit) using quantization.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Maps high-precision floating point numbers to lower-precision integers (like INT8 or INT4) by scaling and rounding, minimizing information loss using calibration data",
       "spanish": "Para reducir la huella de memoria del modelo y acelerar la inferencia, los pesos se convierten de punto flotante de 16 bits a formatos de menor precisión utilizando cuantización (quantization).",
       "usage": "Popular formats: <code>AWQ</code> (Activation-aware Weight Quantization), <code>GPTQ</code>, <code>GGUF</code>."
     },
@@ -2173,7 +2173,7 @@
     "content": {
       "scenario": "Advanced LLM: FlashAttention 🤖",
       "text": "To speed up self-attention and reduce memory utilization from quadratic to linear relative to context length, GPUs execute {{c1::FlashAttention}}.",
-      "explanation": "The term \"FlashAttention\" refers to is an IO-aware exact attention algorithm. By partitioning attention computation into blocks and loading them into GPU SRAM, it reduces slower HBM (High Bandwidth Memory) read/write operations.. In context: \"To speed up self-attention and reduce memory utilization from quadratic to linear relative to context length, GPUs execute FlashAttention.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Is an IO-aware exact attention algorithm. By partitioning attention computation into blocks and loading them into GPU SRAM, it reduces slower HBM (High Bandwidth Memory) read/write operations",
       "spanish": "Para acelerar la autoatención y reducir el uso de memoria de cuadrático a lineal en relación con la longitud del contexto, las GPUs ejecutan FlashAttention.",
       "usage": "FlashAttention-2 and FlashAttention-3 provide massive speedups for long-context LLM execution."
     },
@@ -2239,7 +2239,7 @@
     "content": {
       "scenario": "Advanced LLM: Speculative Decoding 🤖",
       "text": "To accelerate autoregressive generation, {{c1::Speculative Decoding}} uses a small draft model to generate multiple tokens, which are validated in parallel by a larger target model.",
-      "explanation": "The term \"Speculative Decoding\" refers to exploits the fact that running a large LLM once on a sequence of tokens (parallel validation) takes almost the same time as running it on one token. This yields 2x-3x generation speedups without quality loss.. In context: \"To accelerate autoregressive generation, Speculative Decoding uses a small draft model to generate multiple tokens, which are validated in parallel by a larger target model.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Exploits the fact that running a large LLM once on a sequence of tokens (parallel validation) takes almost the same time as running it on one token. This yields 2x-3x generation speedups without quality loss",
       "spanish": "Para acelerar la generación autorregresiva, la decodificación especulativa (Speculative Decoding) utiliza un modelo de borrador pequeño para generar múltiples tokens, que son validados en paralelo por un modelo objetivo más grande.",
       "usage": "Requires a fast draft model (e.g. Llama-68M) and a powerful target model (e.g. Llama-70B)."
     },
@@ -2338,7 +2338,7 @@
     "content": {
       "scenario": "Next-Gen LLMs: Test-Time Compute 🧠",
       "text": "Reasoning models increase accuracy during inference by using {{c1::Test-Time Compute}}, letting the model explore reasoning trees using techniques like {{c2::Monte Carlo Tree Search (MCTS)}}.",
-      "explanation": "The term \"Test-Time Compute\" refers to shifts complexity from model training to inference. Instead of generating a single output immediately, the model generates internal thought tokens, analyzes multiple alternative paths, and selects the most logical route before printing the final answer.. In context: \"Reasoning models increase accuracy during inference by using Test-Time Compute, letting the model explore reasoning trees using techniques like Monte Carlo Tree Search (MCTS).\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Shifts complexity from model training to inference. Instead of generating a single output immediately, the model generates internal thought tokens, analyzes multiple alternative paths, and selects the most logical route before printing the final answer",
       "spanish": "Los modelos de razonamiento aumentan la precisión en inferencia al usar cómputo en tiempo de prueba, permitiendo al modelo explorar árboles de razonamiento mediante técnicas como MCTS.",
       "usage": "Essential for complex mathematics, logical reasoning, code synthesis, and scientific proofs."
     },
@@ -2371,7 +2371,7 @@
     "content": {
       "scenario": "Next-Gen LLMs: Vibecoding Paradigm 🎸",
       "text": "In the {{c1::Vibecoding}} paradigm, developers step back from writing physical code syntax and instead act as {{c2::system architects}} directing autonomous agents via iterative natural language prompts.",
-      "explanation": "The term \"Vibecoding\" refers to refers to a coding style where the human programmer writes zero code directly, relying entirely on agentic IDEs to implement features, fix bugs, and refactor codebases while the human reviews the changes conceptually.. In context: \"In the Vibecoding paradigm, developers step back from writing physical code syntax and instead act as system architects directing autonomous agents via iterative natural language prompts.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Refers to a coding style where the human programmer writes zero code directly, relying entirely on agentic IDEs to implement features, fix bugs, and refactor codebases while the human reviews the changes conceptually",
       "spanish": "En el paradigma de Vibecoding, los desarrolladores dejan de escribir sintaxis física de código y actúan como arquitectos de sistemas que dirigen agentes autónomos mediante instrucciones de lenguaje natural.",
       "usage": "Highly effective for rapid prototyping and full-stack web application development."
     },
@@ -2404,7 +2404,7 @@
     "content": {
       "scenario": "Next-Gen LLMs: LlamaIndex Workflows 🧬",
       "text": "For event-driven agentic architectures, {{c1::LlamaIndex Workflows}} uses Python decorators like {{c2::@step}} to trigger asynchronous methods based on custom event classes.",
-      "explanation": "The term \"LlamaIndex Workflows\" refers to provides an event-driven framework where step functions subscribe to specific event types, process data, and publish new events. This decouples the agent logic, making it easy to create complex, parallel agent execution paths.. In context: \"For event-driven agentic architectures, LlamaIndex Workflows uses Python decorators like @step to trigger asynchronous methods based on custom event classes.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Provides an event-driven framework where step functions subscribe to specific event types, process data, and publish new events. This decouples the agent logic, making it easy to create complex, parallel agent execution paths",
       "spanish": "Para arquitecturas agénticas impulsadas por eventos, LlamaIndex Workflows utiliza decoradores de Python como @step para activar métodos asíncronos basados en clases de eventos personalizados.",
       "usage": "Used to ingest multi-source documents where raw text, tables, and images are routed to different parsing pipelines asynchronously."
     },
@@ -2569,7 +2569,7 @@
     "content": {
       "scenario": "Tech Map 2026: Process Supervision 🧠",
       "text": "To align reasoning models step-by-step, datasets are labeled using {{c1::process supervision}} rather than outcome supervision.",
-      "explanation": "The term \"process supervision\" refers to rewards the model for the correctness of each individual step in its reasoning chain of thought, whereas outcome supervision only rewards the model for the final answer.. In context: \"To align reasoning models step-by-step, datasets are labeled using process supervision rather than outcome supervision.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Rewards the model for the correctness of each individual step in its reasoning chain of thought, whereas outcome supervision only rewards the model for the final answer",
       "spanish": "Para alinear los modelos de razonamiento paso a paso, los conjuntos de datos se etiquetan utilizando la supervisión del proceso (process supervision) en lugar de la supervisión del resultado.",
       "usage": "Process supervision is highly effective at reducing logical hallucinations in complex math problems."
     },
@@ -2804,7 +2804,8 @@
       "mermaid_code": "graph TD\n  Raw[\"Afinidades Crudas Q * Kᵀ\"] --> Mask[\"Masking: Sumar -∞ en diagonal superior\"]\n  Mask --> Soft[\"Softmax por filas\"]\n  Soft --> Mat[\"Matriz Triangular Inferior (Pesos Finales)\"]\n  style Mask fill:#f87171,stroke:#ef4444\n  style Mat fill:#34d399,stroke:#10b981",
       "explanation": "Para evitar que las palabras miren hacia tokens futuros durante el entrenamiento, la matriz de atención se 'enmascara' sumando \\(-\\infty\\) a la diagonal superior (futura) antes de aplicar la función Softmax, forzando que los pesos de atención a esos tokens futuros sean 0.",
       "spanish": "El Causal Masking previene el acceso a tokens futuros reemplazando la diagonal superior de la matriz de atención con \\(-\\infty\\) antes de Softmax.",
-      "usage": "Muestra la matriz triangular inferior resultante después del enmascaramiento y Softmax."
+      "usage": "Muestra la matriz triangular inferior resultante después del enmascaramiento y Softmax.",
+      "scenario": "Book Concept 📚"
     },
     "mnemonics": {
       "palace_name": "",
@@ -2837,7 +2838,8 @@
       "mermaid_code": "graph TD\n  Input[\"Embedding Vector\"] --> Head1[\"Head 1: Relaciones Gramaticales\"]\n  Input --> Head2[\"Head 2: Asociaciones de Género\"]\n  Input --> Head3[\"Head 3: Contexto Temporal\"]\n  Head1 --> Concat[\"Concatenación de cabezas\"]\n  Head2 --> Concat\n  Head3 --> Concat\n  Concat --> Projection[\"Proyección Lineal (W_o)\"]\n  Projection --> Output[\"Vector de Atención Resultante\"]",
       "explanation": "En lugar de realizar una sola operación de atención sobre la dimensión completa, el modelo divide los embeddings y proyecta múltiples sub-espacios en paralelo (Heads). Cada cabeza aprende relaciones diferentes. Los resultados de todas las cabezas se concatenan y se proyectan de vuelta a la dimensión original.",
       "spanish": "Multi-Head Attention divide los embeddings para ejecutar múltiples procesos de atención independientes en paralelo y concatenar sus resultados.",
-      "usage": "Esquema de la estructura interna del bloque de atención en paralelo."
+      "usage": "Esquema de la estructura interna del bloque de atención en paralelo.",
+      "scenario": "Book Concept 📚"
     },
     "mnemonics": {
       "palace_name": "",
@@ -2871,7 +2873,8 @@
       "mermaid_code": "graph TD\n  subgraph MHA [Multi-Head Attention 1:1]\n    Q1[Query Head 1] --> KV1[KV Head 1]\n    Q2[Query Head 2] --> KV2[KV Head 2]\n  end\n  subgraph GQA [Grouped-Query Attention Group:1]\n    Q3[Query Head 3] --> KV_G1[KV Group Head 1]\n    Q4[Query Head 4] --> KV_G1\n  end\n  style KV1 fill:#bfdbfe,stroke:#2563eb\n  style KV2 fill:#bfdbfe,stroke:#2563eb\n  style KV_G1 fill:#fef08a,stroke:#eab308",
       "explanation": "Para optimizar la memoria del caché KV durante la inferencia, Llama 3 utiliza Grouped-Query Attention (GQA), agrupando múltiples Queries para compartir un solo par de Key y Value. Esto reduce significativamente el cuello de botella de memoria en inferencia con lotes grandes de tokens.",
       "spanish": "GQA agrupa cabezas de Query para compartir cabezas de Key/Value, reduciendo la memoria necesaria para el KV caché.",
-      "usage": "Comparación visual del direccionamiento entre Multi-Head (MHA) y Grouped-Query (GQA)."
+      "usage": "Comparación visual del direccionamiento entre Multi-Head (MHA) y Grouped-Query (GQA).",
+      "scenario": "Book Concept 📚"
     },
     "mnemonics": {
       "palace_name": "",
@@ -3239,7 +3242,8 @@
       "mermaid_code": "graph TD\n  Tensor[\"Tensor Gigante\"] --> Shard[\"jax.sharding.Mesh\"]\n  Shard --> Dev0[\"TPU Core 0: Partición 0\"]\n  Shard --> Dev1[\"TPU Core 1: Partición 1\"]\n  Shard --> Dev2[\"TPU Core 2: Partición 2\"]\n  Shard --> Dev3[\"TPU Core 3: Partición 3\"]",
       "explanation": "JAX escala cómputo usando: 1) 'pmap' (Parallel Map), que replica funciones en múltiples TPUs ejecutándolas en paralelo sobre datos distintos (data-parallel); y 2) 'sharding' (SPMD), que distribuye tensores grandes a lo largo de un Mesh de dispositivos, permitiendo paralelismo de modelos sin duplicar memoria. Esto es clave para clústeres masivos en DeepMind.",
       "spanish": "JAX escala cómputo en clústeres mediante jax.pmap y sharding explícito de tensores.",
-      "usage": "Facilita el entrenamiento de modelos de miles de millones de parámetros distribuyendo matrices a través de mallas (Mesh) de TPUs."
+      "usage": "Facilita el entrenamiento de modelos de miles de millones de parámetros distribuyendo matrices a través de mallas (Mesh) de TPUs.",
+      "scenario": "Book Concept 📚"
     },
     "mnemonics": {
       "palace_name": "",
@@ -3283,6 +3287,125 @@
     },
     "interactivity": {
       "analogy": "Es como un contador de pasos de ejercicio: en lugar de sumar kilómetros directamente en tus piernas, registras tus movimientos en un reloj (opt_state), el cual calcula el nuevo progreso (update) y te dice cuál es tu nueva meta física (apply_updates).",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "moe_vs_dense_interview",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T21_InterviewPrep",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "moe",
+        "dense_models",
+        "architecture",
+        "interview_prep"
+      ]
+    },
+    "content": {
+      "question": "Explain the difference between Mixture-of-Experts (MoE) and dense models, and when you would choose one over the other.",
+      "target_persona": "Senior AI Architect / Staff ML Engineer",
+      "rubric_checkpoints": [
+        "Explains that dense models activate all weights per token, whereas MoE decouples total parameters from active compute parameters using a router.",
+        "Mentions routing mechanics (e.g., Top-k routing activating 1-2 experts per token).",
+        "Discusses VRAM vs throughput trade-offs: MoE has high VRAM requirements but lower FLOPs per token.",
+        "Identifies load imbalance and GPU cluster communication overhead (All-to-All bottleneck) as major scaling issues."
+      ],
+      "communication_cues": [
+        "Emphasize memory capacity versus compute requirements early in the answer.",
+        "Acknowledge the deployment bottleneck: memory bandwidth vs compute bandwidth."
+      ],
+      "follow_up_hooks": [
+        "How do you handle expert load balancing to prevent routing bottlenecks?",
+        "What is your approach to quantization (e.g. FP8, INT4) when deploying a large MoE model?"
+      ],
+      "explanation": "<div class=\"tab-panel\" data-title=\"Respuesta Modelo\">MoE models route each token to a subset of experts, keeping active compute cost (FLOPs) low while scaling total parameters. Dense models run every token through all layers. Choose MoE for high-throughput cloud APIs; choose dense models for low-VRAM edge devices or minimal memory footprints.</div>\n<div class=\"tab-panel\" data-title=\"Ruta de Datos (MoE)\"><div class=\"mermaid\">\ngraph TD\n    Token[\"Input Token (x)\"] --> Router[\"Gating Router (G_x)\"]\n    Router -->|Routing Weights| Exp1[\"Expert 1\"]\n    Router -->|Routing Weights| Exp2[\"Expert 2\"]\n    Router -.->|Disabled| Exp3[\"Expert 3\"]\n    Exp1 --> Combiner[\"Weighted Sum\"]\n    Exp2 --> Combiner\n    Combiner --> Out[\"Output (y)\"]\n</div></div>",
+      "spanish": "Los modelos MoE enrutan cada token a un grupo selecto de expertos, limitando el costo de cómputo por token a la vez que escalan la capacidad total del modelo. Los modelos densos pasan cada token por toda la red. Elige MoE para servicios en la nube de alto rendimiento; modelos densos para edge computing o memoria limitada.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "ssm_feynman",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "ssm",
+        "state_space_models",
+        "architecture",
+        "linear_attention"
+      ]
+    },
+    "content": {
+      "concept": "State Space Models (SSMs)",
+      "mermaid_code": "graph LR\n    ut[\"Input u_t\"] --> A[\"State Transition A\"]\n    ut --> B[\"Input Matrix B\"]\n    B --> Latent[\"Latent State h_t\"]\n    A --> Latent\n    Latent --> C[\"Output Matrix C\"]\n    ut --> D[\"Direct Feedthrough D\"]\n    C --> yt[\"Output y_t\"]\n    D --> yt",
+      "explanation": "State Space Models map a 1D continuous sequence to another sequence via an intermediate latent state. They solve sequence processing in O(N) time and memory, avoiding the quadratic complexity of traditional Self-Attention. (Analogy: Reading a book and keeping a brief summary page. Instead of re-reading all previous pages, you just update your summary state as you read).",
+      "spanish": "Los Modelos de Espacio de Estados (SSMs) mapean secuencias a través de un estado latente continuo, procesando en tiempo y memoria lineal, evitando la complejidad cuadrática.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
+      "interactive_mermaid": "",
+      "match_game_data": null
+    }
+  },
+  {
+    "id": "mamba_selective_ssm",
+    "deck": "02_AI_and_Data_Science::AI_Engineering::LLM_Foundations::Llm_Foundations_And_Architectures",
+    "template": "T2_DualCoding",
+    "metadata": {
+      "difficulty": "advanced",
+      "pillar": "02_AI_and_Data_Science",
+      "tags": [
+        "mamba",
+        "ssm",
+        "architecture",
+        "s6"
+      ]
+    },
+    "content": {
+      "concept": "Mamba Architecture (S6)",
+      "mermaid_code": "graph TD\n    xt[\"Input x_t\"] --> SelectiveB[\"Selective B(x_t)\"]\n    xt --> SelectiveC[\"Selective C(x_t)\"]\n    xt --> SelectiveDelta[\"Selective Delta(x_t)\"]\n    SelectiveDelta --> Disc[\"Discretized A, B\"]\n    SelectiveB --> Disc\n    Disc --> Latent[\"SSM Latent State h_t\"]\n    Latent --> SelectiveC\n    SelectiveC --> yt[\"Output y_t\"]",
+      "explanation": "Mamba selectively remembers or forgets tokens by making the State Space Model parameters input-dependent. This achieves both the linear scaling efficiency of RNNs/SSMs and the high-quality reasoning of Transformers.",
+      "spanish": "Mamba utiliza Modelos de Espacio de Estados selectivos (S6) haciendo los parámetros dependientes de la entrada, logrando escala lineal y gran razonamiento.",
+      "usage": "",
+      "scenario": "Book Concept 📚"
+    },
+    "mnemonics": {
+      "palace_name": "",
+      "locus_stop": "",
+      "mnemonic_scene": "",
+      "peg_word": "",
+      "phonetic_code": ""
+    },
+    "interactivity": {
+      "analogy": "",
       "interactive_mermaid": "",
       "match_game_data": null
     }

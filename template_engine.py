@@ -141,12 +141,14 @@ def build_match_game(match_data: Dict[str, Any]) -> str:
 # ===========================================================================
 
 def render_t1_cloze(data: Dict[str, Any]) -> Dict[str, Any]:
+    import re
+    clean_text = re.sub(r"\{\{c\d+::([^}]+)\}\}", r"\1", data["text"])
     return {
         "deck": data["deck"],
         "scenario": data.get("scenario", "Atomic Concept 🧠"),
         "text": data["text"],
         "explanation": data["explanation"],
-        "usage": data.get("usage", f"Key Term: <code>{data['text']}</code>"),
+        "usage": data.get("usage", f"Key Term: <code>{clean_text}</code>"),
         "spanish": data["spanish"],
         "tags": data.get("tags", ["wozniak_t1_cloze"]),
     }

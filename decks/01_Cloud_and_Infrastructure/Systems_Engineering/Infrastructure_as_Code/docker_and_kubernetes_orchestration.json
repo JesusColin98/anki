@@ -15,7 +15,7 @@
     "content": {
       "scenario": "Frontier Tech: Sovereign Clouds & Residency ☁️",
       "text": "Due to strict privacy laws and geopolitics, enterprise AI uses {{c1::Geopatriation}} to migrate data and models from public global clouds to {{c2::sovereign, air-gapped infrastructure}}.",
-      "explanation": "The term \"Geopatriation\" refers to is the process of moving compute and database workloads back into local, country-specific clouds or private datacenters. This ensures that sensitive business intellectual property and customer data are not exposed to foreign jurisdictions during LLM processing.. In context: \"Due to strict privacy laws and geopolitics, enterprise AI uses Geopatriation to migrate data and models from public global clouds to sovereign, air-gapped infrastructure.\" — memorizing this phrase helps you use it naturally in conversation.",
+      "explanation": "Is the process of moving compute and database workloads back into local, country-specific clouds or private datacenters. This ensures that sensitive business intellectual property and customer data are not exposed to foreign jurisdictions during LLM processing",
       "spanish": "Debido a leyes de privacidad estrictas y geopolítica, la IA empresarial utiliza la geopatriación para migrar datos y modelos de nubes públicas globales a infraestructuras soberanas y aisladas.",
       "usage": "Common in healthcare, banking, and government sectors deploying high-security LLMs."
     },
